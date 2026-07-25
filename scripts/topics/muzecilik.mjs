@@ -136,5 +136,43 @@ Bu üçü sınavda birbirinin yerine konur. "Türkiye'nin ilk özel müzesi" sor
 **Türkiye'ye iade edilen ünlü eserler:** **Boğazköy Sfenksi** (Almanya, 2011), **Herakles Lahdi'nin üst gövdesi** (ABD, 2011), **Zeugma mozaik parçaları** (ABD, 2018), **Kybele heykeli** (2020), Elmalı Sikkeleri, Troya Hazinesi'nden parçalar.
 **Hâlâ yurt dışında olanlar:** **Bergama Zeus Sunağı** (Berlin), Milet Pazar Kapısı (Berlin), Knidos Demeter'i (British Museum).`,
     },
+    {
+      heading: 'Çağdaş Müzecilik ve Müzede Rehberlik',
+      markdown: `**Geleneksel müzecilikten çağdaş müzeciliğe geçiş:** Eskiden müze **eser merkezliydi** — nesneyi toplar, korur, vitrine koyardı. Çağdaş müzecilik **ziyaretçi merkezlidir**: deneyim, öğrenme ve katılım öne çıkar.
+
+| Geleneksel müze | Çağdaş müze |
+|---|---|
+| Eser odaklı | **Ziyaretçi odaklı** |
+| Pasif izleme | **Etkileşim, dokunma, deneyim** |
+| Sessiz ve mesafeli | Eğitim ve etkinlik alanı |
+| Tek anlatı | Çoklu bakış açısı |
+| "Dokunmayın" | **"Deneyin"** (bilim müzeleri) |
+
+**Çağdaş müzeciliğin araçları:** Dijital rehber (audio guide), **QR kod**, artırılmış gerçeklik (AR), sanal müze turu, dokunma masaları, çocuk atölyeleri, **müze eğitim birimleri**, engelli erişimi (Braille etiket, sesli betimleme, rampa).
+
+**Müze pedagojisi:** Özellikle çocuk gruplarında müze, ders anlatılan değil **keşfedilen** yerdir. Sorular sorularak, karşılaştırma yaptırılarak ilerlenir.
+
+**MÜZEDE REHBERLİK — pratik kurallar:**
+
+**Tur öncesi:**
+- Müzenin **açılış-kapanış saatini** ve **kapalı gününü** doğrula (birçok müzenin haftalık kapalı günü vardır)
+- **Müzekart / grup girişi** ve rezervasyon durumunu kontrol et
+- **Fotoğraf politikasını** öğren (flaş, tripod, video ayrı ayrı düzenlenir)
+- Sergi düzeninde **değişiklik** olup olmadığını kontrol et — eser başka salona taşınmış olabilir
+
+**Tur sırasında:**
+- Grubu **eserin önünü kapatmayacak** biçimde yerleştir; diğer ziyaretçilerin görüşünü engelleme
+- Anlatım sırasında **esere sırtını dönme**, yan dur
+- **Sesini yükseltme**; kalabalık müzelerde **whisper (fısıltı) sistemi** kullan — birçok müzede zorunludur
+- Her salonda **her eseri anlatma.** Seçim yap: 3-5 kilit eser üzerinden hikâye kur. Aşırı bilgi **müze yorgunluğu (museum fatigue)** yaratır
+- Ziyaretçiye **soru sordur**, kendi bakışını kurmasına izin ver
+- **Esere dokundurma**, vitrinlere yaslandırma, sırt çantalarını öne aldır
+
+**Müze yorgunluğu:** Ortalama bir ziyaretçinin yoğun dikkati **45-60 dakikadır.** Uzun müze turlarında mola ve oturma alanı planlanmalıdır. Rehber, turu buna göre kurgular.
+
+**Müzekart:** Türk vatandaşlarına Bakanlığa bağlı müze ve ören yerlerinde yıllık sınırsız giriş sağlar. Yabancı ziyaretçiler için **Museum Pass** uygulamaları vardır.
+
+**Erişilebilirlik:** Rehber, engelli ziyaretçiler için asansör/rampa güzergâhını önceden bilmeli; görme engelliler için **betimleyici anlatım** (rengi, dokusu, boyutu tarif eden) yapabilmelidir.`,
+    },
   ],
 };

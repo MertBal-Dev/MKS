@@ -2,28 +2,20 @@
   "id": "arkeoloji-mitoloji",
   "fullNotes": [
     {
-      "heading": "Arkeolojinin Temel Kavramları",
-      "markdown": "**Höyük:** Üst üste kurulmuş yerleşim katmanlarının oluşturduğu yapay tepe (Çatalhöyük, Alacahöyük, Arslantepe). Anadolu'da binlercesi vardır.\n\n**Tümülüs:** Bir mezar odasının üzerine toprak/taş yığılarak yapılan **yığma mezar tepesi** (Gordion Midas Tümülüsü, Nemrut, Bintepeler). Höyükten farkı: höyük yerleşim, tümülüs mezardır.\n\n**Nekropol:** 'Ölüler kenti' — antik kentlerin mezarlık alanı. **Akropol:** kentin en yüksek, surlarla çevrili kutsal/savunma bölümü.\n\n**Stratigrafi (tabakalanma):** Kazıda katmanların alttan üste kronolojik sırayla okunması; arkeolojik tarihlemenin bel kemiğidir. **En alttaki tabaka en eskidir.**\n\n**Diğer tarihleme yöntemleri:** Karbon-14 (organik kalıntılar, ~50.000 yıla kadar), dendrokronoloji (ağaç halkaları), termolüminesans (pişmiş toprak).\n\n**Buluntu türleri:** Küçük buluntu (sikke, takı, figürin), mimari buluntu, epigrafik buluntu (yazıt). **İn situ:** buluntunun yerinde, bozulmamış konumda ele geçmesi.\n\n**Sualtı arkeolojisi:** Türkiye'nin en ünlü örnekleri **Uluburun Batığı** (Kaş, MÖ 14. yy — dünyanın bilinen en eski ticaret gemilerinden) ve Yassıada, Serçe Limanı batıkları; buluntular **Bodrum Sualtı Arkeoloji Müzesi'ndedir**."
+      "heading": "Arkeolojinin Yöntemleri ve Terimleri",
+      "markdown": "**Arkeoloji:** Geçmiş insan topluluklarının bıraktığı **maddi kalıntıları** inceleyerek kültürlerini aydınlatan bilim dalı.\n\n**Temel terimler:**\n- **Höyük:** Aynı yerde üst üste kurulan yerleşimlerin oluşturduğu **yapay tepe.** Anadolu'da binlercesi vardır (Çatalhöyük, Kültepe, Arslantepe, Alacahöyük)\n- **Tümülüs:** Mezarın üzerine yığılan **toprak tepe** (Frig ve Lidya)\n- **Nekropol:** Antik **mezarlık** alanı\n- **Ören yeri:** Ziyarete açık antik kalıntı alanı\n- **Stratigrafi:** **Tabakalanma.** Alttaki tabaka daha eskidir — arkeolojinin temel ilkesi\n- **Tabaka (katman):** Her yerleşim evresi\n- **Sondaj:** Alanı tanımak için açılan küçük deneme kazısı\n- **In situ:** Eserin **bulunduğu özgün yerde** olması\n- **Buluntu (artefakt):** İnsan eliyle yapılmış nesne\n- **Ekofakt:** İnsan yapımı olmayan doğal kalıntı (tohum, kemik, polen)\n- **Terra sigillata:** Roma dönemi kırmızı astarlı kaliteli seramik\n- **Amphora:** İki kulplu, sivri dipli taşıma kabı\n- **Ostrakon:** Üzerine yazı yazılan çömlek parçası\n- **Stel:** Dikili yazıtlı/kabartmalı taş\n- **Lahit (sarkofag):** Taş tabut\n- **Agora:** Yunan kent meydanı — **forum**un Yunan karşılığı\n- **Bouleuterion:** Kent meclis binası\n- **Odeon:** Küçük, üstü kapalı konser/toplantı yapısı\n- **Gymnasion:** Eğitim ve spor yapısı\n- **Stadion:** Koşu/yarış alanı\n- **Propylon:** Anıtsal giriş kapısı\n- **Temenos:** Kutsal alan sınırı\n- **Nymphaeum:** Anıtsal çeşme\n- **Tholos:** Yuvarlak planlı yapı\n\n**Tarihlendirme yöntemleri:**\n- **Karbon-14 (radyokarbon):** **Organik** malzemede (kemik, kömür, ahşap, tohum) kullanılır. Yaklaşık 50.000 yıla kadar geriye gider. **En çok sorulan yöntemdir**\n- **Dendrokronoloji:** **Ağaç halkalarını** sayarak tarihlendirme\n- **Termolüminesans:** Pişmiş toprak (seramik) tarihlendirmesi\n- **Potasyum-Argon:** Çok eski volkanik tabakalar\n- **Tipoloji ve stratigrafi:** Göreli (relatif) tarihlendirme\n\n**Kazı türleri:** **Sistemli (bilimsel) kazı**, **kurtarma kazısı** (baraj, yol, inşaat nedeniyle acil), **sondaj kazısı.**\n\n**Türkiye'de kazı izni:** Kazılar **Kültür ve Turizm Bakanlığı** iznine tabidir; **Cumhurbaşkanı kararı** ile ruhsatlandırılır. İzinsiz kazı suçtur.\n\n**Ünlü arkeologlar:** **Osman Hamdi Bey** (Türk bilimsel arkeolojisinin kurucusu, Sayda kazıları), **Heinrich Schliemann** (Troya), **Klaus Schmidt** (Göbeklitepe), **James Mellaart** (Çatalhöyük), **Halet Çambel** (Karatepe; Hitit hiyeroglifinin çözümüne katkı), **Ekrem Akurgal**, **Tahsin Özgüç** (Kültepe), **Muazzez İlmiye Çığ** (Sümerolog)."
     },
     {
-      "heading": "Türkiye Arkeolojisinin Öncüleri ve Ünlü Kazılar",
-      "markdown": "**Osman Hamdi Bey (1842-1910):** İlk Türk müzecisi ve arkeoloğu. **Müze-i Hümayun'u** (İstanbul Arkeoloji Müzeleri) kurdu, **Sanayi-i Nefise Mektebi'ni** (Güzel Sanatlar Akademisi) açtı. **Sayda (Sidon) kazısında İskender Lahdi'ni** buldu. 1884 **Asar-ı Atika Nizamnamesi** ile eski eserlerin yurt dışına çıkarılmasını yasakladı. Ünlü tabloları: 'Kaplumbağa Terbiyecisi', 'Silah Taciri'.\n\n**Heinrich Schliemann:** 1870'lerde **Troya'yı** (Hisarlık/Çanakkale) kazdı; 'Priamos Hazinesi'ni yurt dışına kaçırdı (bugün Moskova Puşkin Müzesi'nde). Bilimsel olmayan yöntemleriyle katmanlara zarar verdi.\n\n**Diğer eşleşmeler:** Carl Humann — Bergama Zeus Sunağı (Berlin'e taşındı); James Mellaart — Çatalhöyük; Klaus Schmidt — Göbeklitepe; Kenan Erim — Afrodisias; Ekrem Akurgal — Türk arkeolojisinin duayeni ('Anadolu Uygarlıkları' kitabı sınav kaynağıdır); Halet Çambel — Karatepe (Türkiye'nin ilk kadın arkeologlarından).\n\n**Troya:** 9 katmanlı höyük; Troya II Schliemann'ın 'hazine' katı, Troya VI/VIIa Homeros'un savaşıyla ilişkilendirilen kat. 1998'de UNESCO listesine girdi; 2018'de modern Troya Müzesi açıldı."
+      "heading": "Yunan Mitolojisi: Tanrılar ve Kökenler",
+      "markdown": "**Mitoloji:** Bir toplumun tanrılar, kahramanlar ve evrenin oluşumu hakkındaki anlatılarının bütünü.\n\n**Yaratılış zinciri:** **Khaos** (boşluk) → **Gaia** (Toprak Ana) ve **Uranos** (Gök) → **Titanlar** → **Kronos**, babası Uranos'u devirir → Kronos'un oğlu **Zeus**, babasını devirir ve **Olimpos** düzenini kurar.\n\n**On İki Olimpos Tanrısı — Yunan / Roma adlarıyla:**\n\n| Yunan | Roma | Alanı | Simgesi |\n|---|---|---|---|\n| **Zeus** | **Jupiter** | Tanrıların kralı, gök, şimşek | Kartal, yıldırım |\n| **Hera** | **Juno** | Evlilik, aile; Zeus'un eşi | Tavus kuşu |\n| **Poseidon** | **Neptün** | Deniz, deprem | Üç dişli mızrak, at |\n| **Athena** | **Minerva** | Akıl, strateji, zanaat | **Baykuş**, zeytin |\n| **Apollon** | **Apollo** | Güneş, müzik, kehanet | Lir, defne |\n| **Artemis** | **Diana** | Av, ay, bakirelik | Geyik, yay |\n| **Ares** | **Mars** | Savaş (vahşi yönü) | Mızrak |\n| **Afrodit** | **Venüs** | Aşk ve güzellik | Güvercin, deniz kabuğu |\n| **Hermes** | **Merkür** | Haberci, ticaret, yolcular | Kanatlı sandalet, **kaduseus** |\n| **Hephaistos** | **Vulcan** | Demircilik, ateş | Örs, çekiç |\n| **Demeter** | **Ceres** | Tarım, bereket | Başak |\n| **Hestia / Dionysos** | **Vesta / Bacchus** | Ocak / şarap ve coşku | Ateş / asma, thyrsos |\n\n**Diğer önemli figürler:** **Hades (Pluto)** — yeraltı; **Persephone**, **Eros (Cupido)**, **Nike (Victoria)** — zafer, **Tykhe (Fortuna)** — talih, **Asklepios (Aesculapius)** — şifa, **Pan**, **Musalar** (dokuz ilham perisi), **Moiralar** (kader tanrıçaları).\n\n**Sınavda en çok karıştırılanlar:**\n- **Athena ≠ Ares:** İkisi de savaşla ilgilidir ama Athena **akıllı strateji**, Ares **vahşi çatışmadır**\n- **Artemis ≠ Afrodit**\n- **Efes Artemis'i farklıdır:** Yunan Artemis'i avcı ve bakire iken, **Efes Artemis'i çok memeli bir bereket tanrıçasıdır** — Anadolu'nun **Kibele/Ana Tanrıça** geleneğiyle kaynaşmıştır. Bu sentez sınavda sorulur\n- **Asklepios'un simgesi yılanlı asadır** ve bugünkü **tıp amblemidir.** **Hermes'in kaduseus'u (iki yılanlı, kanatlı asa)** ise ticaretle ilgilidir; ikisi sürekli karıştırılır\n\n**Anadolu kökenli tanrıçalar:** **Kibele (Kybele)** — Frig Ana Tanrıçası; Roma'da **Magna Mater** olarak benimsenmiştir. **Leto** — Likya'nın ana tanrıçası; **Letoon** onun kutsal alanıdır."
     },
     {
-      "heading": "Yunan Mitolojisi: Yaratılış ve Olimpos Düzeni",
-      "markdown": "**Yaratılış zinciri:** Khaos → Gaia (toprak) + Uranos (gök) → **Titanlar** (Kronos, Rhea, Okeanos...) → Kronos babası Uranos'u devirir → Zeus babası Kronos'u devirir (Titanomakhia) → **Olimpos düzeni** kurulur.\n\n**12 Olimpos tanrısı ve görev-sembolleri (Roma adlarıyla):**\n\n| Yunan | Roma | Görev | Simge |\n|---|---|---|---|\n| Zeus | Jüpiter | Baş tanrı, gök | Yıldırım, kartal |\n| Hera | Juno | Evlilik | Tavus kuşu |\n| Poseidon | Neptün | Deniz | Üç dişli mızrak |\n| Demeter | Ceres | Bereket, tarım | Başak |\n| Athena | Minerva | Akıl, savaş taktiği | Baykuş, zeytin |\n| Apollon | Apollo | Güneş, müzik, kehanet | Lir, defne |\n| Artemis | Diana | Av, ay, bekâret | Yay, geyik |\n| Ares | Mars | Savaş (yıkıcı) | Mızrak, miğfer |\n| Afrodit | Venüs | Aşk, güzellik | Güvercin, gül |\n| Hefaistos | Vulcanus | Demircilik, ateş | Çekiç, örs |\n| Hermes | Merkür | Haberci, ticaret, hırsızlar | Kanatlı sandalet, kadüse |\n| Hestia / Dionysos | Vesta / Baküs | Ocak / Şarap | Ocak ateşi / Asma-thyrsos |\n\n**Olimpos dışı önemliler:** Hades (Plüton) — yeraltı; Persephone — yeraltı kraliçesi (Demeter'in kızı; mevsimlerin kökeni miti); Eros (Cupido) — aşk; Nike (Victoria) — zafer; Tykhe (Fortuna) — talih (Antakya'nın koruyucusu)."
+      "heading": "Mitolojik Anlatılar ve Anadolu'daki İzleri",
+      "markdown": "MKS'nin en sevdiği soru tipi: **\"Bu efsane hangi antik kentte geçer?\"**\n\n**TROYA SAVAŞI:**\nÜç tanrıça (Hera, Athena, Afrodit) arasındaki **\"En güzele\" yazılı altın elma** yüzünden çıkan tartışmayı Troyalı prens **Paris** hakemlik ederek çözer ve Afrodit'i seçer. Ödül olarak dünyanın en güzel kadını **Helen**'i alır — ama Helen, Sparta kralı **Menelaos**'un karısıdır. Yunanlar Troya'ya savaş açar. On yıl süren kuşatma **Truva Atı** hilesiyle sona erer.\n**Kahramanlar:** Akhilleus (topuğu), Hektor, Odysseus, Agamemnon, Priamos, Aineias.\n**Kaynak:** **Homeros'un İlyada'sı**; savaş sonrası dönüş yolculuğu **Odysseia**'dır.\n**Yeri:** **Çanakkale, Troya (UNESCO).**\n\n**Anadolu'da geçen diğer efsaneler — yer eşleştirmesiyle:**\n\n| Efsane | Yer |\n|---|---|\n| **Midas'ın altın dokunuşu ve eşek kulakları** | **Gordion (Polatlı)** |\n| **Gordion Düğümü** | Gordion |\n| **Kibele ve Attis** | Frigya / Pessinus |\n| **Leto, Apollon ve Artemis'in doğumu; çobanların kurbağaya dönüşmesi** | **Letoon (Likya)** |\n| **Khimaira (Yanartaş) — ağzından ateş püsküren yaratık; Bellerophon Pegasus'la öldürdü** | **Olympos-Çıralı (Antalya)** |\n| **Niobe'nin ağlayan kayaya dönüşmesi** | **Manisa (Spil Dağı) — Ağlayan Kaya** |\n| **Marsyas'ın Apollon'la müzik yarışması ve derisinin yüzülmesi** | **Dinar (Apameia) / Kelainai** |\n| **Tantalos** | Manisa, Sipylos |\n| **Amazonlar** | Terme (Themiskyra) / Efes |\n| **Aphrodite kültü** | **Aphrodisias (Aydın)** |\n| **Apollon kehanet merkezi** | **Didyma (Didim), Klaros (Ahmetbeyli)** |\n| **Asklepios sağlık kültü** | **Bergama Asklepion** |\n| **Hades'e giriş — Cehennem Kapısı (Plutonium)** | **Hierapolis (Pamukkale)** |\n| **Nuh'un Gemisi** | **Ağrı Dağı** |\n| **İbrahim'in ateşe atılması, ateşin suya-odunların balığa dönüşmesi** | **Şanlıurfa Balıklıgöl** |\n| **Yedi Uyurlar (Ashab-ı Kehf)** | **Efes / Tarsus / Afşin** |\n| **Leandros ve Hero** | **Çanakkale Boğazı** |\n| **Argonautlar ve Altın Post** | **Karadeniz — Kolkhis yolu** |\n| **Şahmaran** | **Tarsus / Mardin** (Anadolu halk anlatısı) |\n\n**Hitit mitolojisi:** **Telipinu** (kaybolan bereket tanrısı — kaybolma ve dönüş miti), **İlluyanka** (fırtına tanrısı ile ejderhanın savaşı). Bu iki mit Hattuşa tabletlerinden bilinir ve Anadolu'nun **en eski yazılı mitleridir.**\n\n**Kehanet merkezleri (oracle):** **Delphi** (Yunanistan), **Didyma** ve **Klaros** (Anadolu). Kehanet merkezleri antik dünyanın **ilk turizm hareketlerini** yaratmıştır — insanlar uzak diyarlardan kâhine danışmaya gelirdi. Rehberlik açısından anlamlı bir bağdır."
     },
     {
-      "heading": "Anadolu'nun Mitleri",
-      "markdown": "**Troya Savaşı zinciri:** Eris'in attığı **altın elma** ('en güzele') → Paris'in hakemliği → Paris elmayı **Afrodit'e** verir (karşılığı: Helen) → Helen'in kaçırılması → 10 yıllık savaş → **Tahta at** hilesi (Odysseus'un fikri) → Troya'nın düşüşü. **İlyada yalnızca savaşın son yılından 51 günü anlatır**; tahta at İlyada'da değil, Odysseia'da ve Aeneis'te anlatılır.\n\n**Apollon-Marsyas:** Satyr Marsyas, Athena'nın attığı **aulos** (çifte flüt) ile Apollon'a (lir) meydan okur; yenilince derisi yüzülür. Yarışma Kelainai'de (Dinar/Afyon) geçer.\n\n**Niobe:** 14 çocuğuyla övünüp Leto'yu (yalnızca Apollon ve Artemis'i doğurdu) küçümser; tanrılar tüm çocuklarını öldürür. Niobe **Manisa'daki 'Ağlayan Kaya'ya** dönüşür.\n\n**Midas:** Dionysos'un dileğiyle dokunduğu her şey altın olur (yemek dahil — dilek geri alınır, Paktolos/Sart Çayı'nda yıkanır, çayın kumu altınlaşır). Apollon-Pan müzik yarışmasında Pan'ı tutunca Apollon kulaklarını **eşek kulağına** çevirir.\n\n**Leto, Apollon ve Artemis:** Leto, Hera'nın gazabından kaçarak ikizleri doğurur; Likya'da **Letoon** tapınağı bu üçlüye adanmıştır.\n\n**Diğer Anadolu bağlantıları:** Pegasus ve Bellerophon — Khimaira'yı (Yanartaş/Çıralı, Antalya) öldürür; Endymion — Latmos (Beşparmak) Dağı; Telephos — Bergama'nın efsanevi kurucusu, Herakles'in oğlu; Attis-Kibele kültü — Frigya."
-    },
-    {
-      "heading": "Kahramanlar, Destanlar ve Kehanet Merkezleri",
-      "markdown": "**Herakles (Herkül):** Zeus ile Alkmene'nin oğlu; Hera'nın gazabıyla **12 görev** yapar (Nemea aslanı, Hydra, Kerberos'u getirmek...). Aslan postu ve topuzla betimlenir.\n\n**Homeros destanları:** **İlyada** (Troya savaşının 51 günü; Akhilleus'un öfkesi) ve **Odysseia** (Odysseus'un 10 yıllık dönüş yolculuğu; Tepegöz Polyphemos, Sirenler, Penelope). Homeros'un **İzmirli (Smyrna)** olduğu kabul edilir — 'Yedi kent Homeros'u paylaşamaz.'\n\n**Diğer destan döngüleri:** Argonautlar (İason, Altın Post'un peşinde — Kolkhis/Karadeniz rotası); Perseus (Medusa'nın başı); Theseus (Minotauros, labirent, Ariadne'nin ipi).\n\n**Kehanet merkezleri:** Yunanistan'da **Delphi** (Apollon kehanet merkezi, Pythia); Anadolu'da **Didyma (Didim) Apollon Tapınağı** ve **Klaros** (İzmir) — ikisi de Apollon'un kehanet ocaklarıdır.\n\n**Asklepios:** Sağlık tanrısı (Apollon'un oğlu); simgesi **yılanlı asa** (tıbbın bugünkü simgesi). Sağlık merkezleri **Asklepion** adını taşır; en ünlüsü **Bergama Asklepionu'dur** (Galenos burada yetişti)."
-    },
-    {
-      "heading": "Mitoloji-Sanat İlişkisi: Tanrıları Eserde Tanımak",
-      "markdown": "Rehberin sahadaki asıl işi, kabartma ve heykelde tanrıyı **atribüsünden** (simgesinden) tanımaktır:\n\n- **Yıldırım demeti / kartal** → Zeus\n- **Üç dişli mızrak (trident)** → Poseidon\n- **Baykuş, aigis (yılanlı kalkan-göğüslük), miğfer** → Athena\n- **Lir, defne tacı** → Apollon; **aulos** → Marsyas/satyr\n- **Yay-sadak, yanında geyik/köpek, kısa khiton** → Artemis\n- **Kanatlı sandalet, kadüse (yılanlı değnek), petasos şapka** → Hermes\n- **Asma dalı, üzüm, thyrsos, panter** → Dionysos\n- **Aslan postu, topuz** → Herakles\n- **Yılanlı asa (tek yılan)** → Asklepios (Hermes'in kadüsesi çift yılanlıdır!)\n- **Buğday başağı** → Demeter; **meşale** → Persephone/Hekate\n- **Aslanlı taht / aslanlı araba, kule taç** → Kibele\n\n**Efes Artemisi:** Çok memeli/çok toplu kült heykeli — Yunan Artemis'inden çok, Anadolu ana tanrıça geleneğinin devamıdır (heykelleri Efes Müzesi'ndedir).\n\n**Zeugma mozaikleri:** Gaziantep Zeugma Mozaik Müzesi (dünyanın en büyük mozaik müzelerinden) — 'Çingene Kızı' mozaiği simgedir."
+      "heading": "Tanrıları Eserde Tanımak: Attribut (Simge) Bilgisi",
+      "markdown": "Bir rehberin müzede veya ören yerinde bir heykeli **kime ait olduğunu simgesinden** tanıması gerekir. Antik sanatta her tanrının kendine özgü **attribut**u (ayırt edici simgesi) vardır. MKS'de \"elinde X tutan heykel hangi tanrıdır?\" biçiminde doğrudan sorulur.\n\n| Görürsen | Tanrı/tanrıça |\n|---|---|\n| **Yıldırım demeti, kartal, asa** | **Zeus** |\n| **Tavus kuşu, taç, nar** | **Hera** |\n| **Üç dişli mızrak (trident), at, yunus** | **Poseidon** |\n| **Miğfer, kalkan (Gorgon başlı aegis), mızrak, BAYKUŞ, zeytin dalı** | **Athena** |\n| **Lir (kithara), defne çelengi, yay, genç ve sakalsız** | **Apollon** |\n| **Yay-sadak, geyik, hilal, kısa avcı eteği** | **Artemis** |\n| **Çok göğüslü, bloklu gövde, hayvan kabartmalı** | **EFES ARTEMİS'i** (Anadolu bereket tipi) |\n| **Miğfer, kılıç, zırh, saldırgan duruş** | **Ares** |\n| **Deniz kabuğu, güvercin, çıplak veya yarı çıplak kadın** | **Afrodit** |\n| **Kanatlı sandalet/başlık, kaduseus (iki yılanlı asa), kese** | **Hermes** |\n| **Çekiç, örs, maşa, topal betimlenir** | **Hephaistos** |\n| **Başak demeti, meşale, oturur ana figür** | **Demeter** |\n| **Asma, üzüm salkımı, thyrsos (kozalaklı değnek), panter** | **Dionysos** |\n| **Yılanlı tek asa, sakallı olgun erkek** | **Asklepios** (tıp amblemi) |\n| **Kanatlı kadın, zafer çelengi** | **Nike** |\n| **Aslanlar arasında oturan ana tanrıça, tef** | **Kibele** |\n| **Bereket boynuzu (cornucopia), dümen** | **Tykhe / Fortuna** |\n| **Aslan postu, sopa (topuz), kaslı** | **Herakles** |\n\n**En kritik iki ayrım:**\n1. **Asklepios'un asası TEK yılanlıdır ve kanatsızdır** → tıp. **Hermes'in kaduseus'u İKİ yılanlı ve kanatlıdır** → ticaret. Dünyada bile karıştırılan bu ayrım MKS'nin klasik sorusudur.\n2. **Yunan Artemis'i** ince, atletik, avcı bir genç kız; **Efes Artemis'i** ise hareketsiz, blok gövdeli, çok göğüslü bir bereket tanrıçasıdır. İkisi aynı ad altında **iki farklı kült**tür.\n\n**Roma portre sanatı:** Yunan heykeli **idealize** eder (kusursuz insan); Roma heykeli **gerçekçidir** — kırışıklık, kellik ve yaş olduğu gibi verilir. Bir portrede kusurlar görünüyorsa **Roma**, kusursuz bir gençlik varsa **Yunan/Helenistik** düşünülür."
     }
   ],
   "shortNotes": "**Kavramlar:** Höyük = yerleşim tepesi, tümülüs = mezar tepesi, nekropol = mezarlık, akropol = yukarı kent, stratigrafi = katman okuma (en alt = en eski), in situ = yerinde buluntu. Karbon-14 organikte, dendrokronoloji ağaçta, termolüminesans pişmiş toprakta.\n\n**Kazı eşleşmeleri (ezber):** Osman Hamdi Bey — Sayda/İskender Lahdi + Müze-i Hümayun + Asar-ı Atika Nizamnamesi (1884). Schliemann — Troya. Humann — Bergama. Mellaart — Çatalhöyük. Schmidt — Göbeklitepe. Erim — Afrodisias. Çambel — Karatepe. Uluburun Batığı — Bodrum Sualtı Müzesi.\n\n**12 Olimpos Roma adları:** Zeus-Jüpiter, Hera-Juno, Poseidon-Neptün, Demeter-Ceres, Athena-Minerva, Apollon-Apollo, Artemis-Diana, Ares-Mars, Afrodit-Venüs, Hefaistos-Vulcanus, Hermes-Merkür, Dionysos-Baküs (+ Hades-Plüton, Hestia-Vesta).\n\n**Atribüler:** yıldırım-Zeus, trident-Poseidon, baykuş-Athena, lir-Apollon, yay/geyik-Artemis, kadüse-Hermes, thyrsos-Dionysos, aslan postu-Herakles, tek yılanlı asa-Asklepios, kule taç/aslan-Kibele.\n\n**Anadolu mitleri:** Altın elma → Afrodit → Helen → Troya. İlyada = son yılın 51 günü; tahta at İlyada'da YOK. Marsyas-aulos-Apollon (Dinar). Niobe-Manisa Ağlayan Kaya. Midas-Paktolos+eşek kulağı. Letoon = Leto-Apollon-Artemis. Khimaira = Yanartaş/Çıralı. Kehanet: Delphi-Didyma-Klaros. Asklepion-Bergama-Galenos.\n\n**Sık çıkan:** İskender Lahdi İstanbul Arkeoloji'dedir (İskender'in mezarı DEĞİLDİR — Sidon kralı Abdalonymos'a atfedilir). Zeugma Çingene Kızı — Gaziantep. Efes Artemisi = Anadolu ana tanrıçası geleneği.",
@@ -41,35 +33,155 @@
     "**Galenos Bergama'da, Hipokrat İstanköy'de (Kos):** İki antik hekim şehirleriyle sorulur; Asklepion-Bergama-Galenos üçlüsünü sabitle."
   ],
   "flashcards": [
-    { "id": "arkeoloji-mitoloji-k001", "front": "Höyük ile tümülüs arasındaki fark?", "back": "Höyük: üst üste yerleşim katmanlarından oluşan tepe. Tümülüs: mezar odası üzerine yığılan yapay mezar tepesi." },
-    { "id": "arkeoloji-mitoloji-k002", "front": "Nekropol ve akropol ne demektir?", "back": "Nekropol: antik kentin mezarlık alanı ('ölüler kenti'). Akropol: kentin en yüksek, kutsal/savunmalı bölümü." },
-    { "id": "arkeoloji-mitoloji-k003", "front": "Stratigrafi ilkesi nedir?", "back": "Katmanların alttan üste kronolojik okunması — en alttaki tabaka en eskidir." },
-    { "id": "arkeoloji-mitoloji-k004", "front": "Karbon-14 yöntemi neyi tarihler?", "back": "Organik kalıntıları (kemik, ahşap, tohum) — yaklaşık 50.000 yıla kadar." },
-    { "id": "arkeoloji-mitoloji-k005", "front": "Osman Hamdi Bey'in üç büyük başarısı?", "back": "Müze-i Hümayun'u kurdu, Sanayi-i Nefise'yi açtı, Sayda kazısında İskender Lahdi'ni buldu (+ 1884 Asar-ı Atika Nizamnamesi)." },
-    { "id": "arkeoloji-mitoloji-k006", "front": "İskender Lahdi nerededir ve kime aittir?", "back": "İstanbul Arkeoloji Müzeleri'nde; İskender'e değil, büyük olasılıkla Sidon kralı Abdalonymos'a aittir." },
-    { "id": "arkeoloji-mitoloji-k007", "front": "Troya'yı kazan araştırmacı ve kaçırılan hazinenin bugünkü yeri?", "back": "Heinrich Schliemann — Priamos Hazinesi bugün Moskova Puşkin Müzesi'ndedir." },
-    { "id": "arkeoloji-mitoloji-k008", "front": "Afrodisias kazılarıyla özdeşleşen Türk arkeolog?", "back": "Kenan Erim" },
-    { "id": "arkeoloji-mitoloji-k009", "front": "Uluburun Batığı nedir, buluntuları nerededir?", "back": "Kaş açıklarında bulunan MÖ 14. yy ticaret gemisi — dünyanın en eski batıklarından; Bodrum Sualtı Arkeoloji Müzesi'nde." },
-    { "id": "arkeoloji-mitoloji-k010", "front": "Zeus'un Roma adı ve simgeleri?", "back": "Jüpiter — yıldırım demeti ve kartal" },
-    { "id": "arkeoloji-mitoloji-k011", "front": "Athena'nın Roma adı, görevi ve simgesi?", "back": "Minerva — akıl ve strateji savaşı tanrıçası; baykuş ve zeytin ağacı" },
-    { "id": "arkeoloji-mitoloji-k012", "front": "Artemis'in Roma adı ve alanı?", "back": "Diana — av, ay ve bekâret tanrıçası; yay ve geyikle betimlenir" },
-    { "id": "arkeoloji-mitoloji-k013", "front": "Hermes'in Roma adı ve simgesi?", "back": "Merkür — haberci/ticaret tanrısı; kanatlı sandalet ve çift yılanlı kadüse" },
-    { "id": "arkeoloji-mitoloji-k014", "front": "Dionysos'un Roma adı ve simgeleri?", "back": "Baküs — şarap tanrısı; asma-üzüm, thyrsos değneği, panter" },
-    { "id": "arkeoloji-mitoloji-k015", "front": "Afrodit'in Roma adı ve doğum yeri efsanesi?", "back": "Venüs — deniz köpüğünden doğduğuna inanılır (Kıbrıs/Kythera)" },
-    { "id": "arkeoloji-mitoloji-k016", "front": "Poseidon'un Roma adı ve simgesi?", "back": "Neptün — üç dişli mızrak (trident)" },
-    { "id": "arkeoloji-mitoloji-k017", "front": "Hefaistos'un Roma adı ve görevi?", "back": "Vulcanus — demircilik ve ateş tanrısı; çekiç-örsle betimlenir" },
-    { "id": "arkeoloji-mitoloji-k018", "front": "Troya Savaşı'nı başlatan olay zinciri?", "back": "Eris'in altın elması → Paris'in hakemliği → elma Afrodit'e → ödül olarak Helen → savaş" },
-    { "id": "arkeoloji-mitoloji-k019", "front": "İlyada neyi anlatır, tahta at içinde var mıdır?", "back": "Savaşın son yılından 51 günü (Akhilleus'un öfkesi) — tahta at İlyada'da anlatılmaz (Odysseia'da anılır)." },
-    { "id": "arkeoloji-mitoloji-k020", "front": "Apollon-Marsyas yarışmasının çalgıları ve sonucu?", "back": "Apollon lir, Marsyas aulos (çifte flüt) — Marsyas yenilir ve derisi yüzülür (Kelainai/Dinar)." },
-    { "id": "arkeoloji-mitoloji-k021", "front": "Niobe efsanesinin Anadolu'daki izi?", "back": "Manisa'daki 'Ağlayan Kaya' — çocuklarını kaybeden Niobe'nin taşlaşmış hali kabul edilir." },
-    { "id": "arkeoloji-mitoloji-k022", "front": "Midas'ın iki efsanesi?", "back": "1) Altın dokunuş — Paktolos (Sart) Çayı'nda arınır; 2) Apollon'un verdiği eşek kulakları." },
-    { "id": "arkeoloji-mitoloji-k023", "front": "Letoon kime adanmıştır?", "back": "Leto ile ikizleri Apollon ve Artemis'e — Likya'nın dini merkezi (Ksanthos ile UNESCO)." },
-    { "id": "arkeoloji-mitoloji-k024", "front": "Khimaira (Yanartaş) neresidir, hangi mitle ilgilidir?", "back": "Antalya Çıralı — Bellerophon'un Pegasus'la öldürdüğü ateş püsküren canavarın miti." },
-    { "id": "arkeoloji-mitoloji-k025", "front": "Anadolu'daki iki büyük Apollon kehanet merkezi?", "back": "Didyma (Didim) ve Klaros (İzmir) — Yunanistan'daki karşılığı Delphi." },
-    { "id": "arkeoloji-mitoloji-k026", "front": "Asklepios kimdir, simgesi nedir?", "back": "Sağlık tanrısı (Apollon'un oğlu) — tek yılanlı asa; sağlık merkezleri 'Asklepion' adını taşır (en ünlüsü Bergama)." },
-    { "id": "arkeoloji-mitoloji-k027", "front": "Herakles nasıl tanınır?", "back": "Aslan postu ve topuzla — Hera'nın gazabı yüzünden 12 görev yapmıştır." },
-    { "id": "arkeoloji-mitoloji-k028", "front": "Zeugma'nın simge mozaiği ve müzesi?", "back": "'Çingene Kızı' — Gaziantep Zeugma Mozaik Müzesi" },
-    { "id": "arkeoloji-mitoloji-k029", "front": "Efes Artemisi heykeli neden farklıdır?", "back": "Çok göğüslü/toplu kült heykeli, Yunan Artemis tipinde değil — Anadolu ana tanrıça geleneğinin devamıdır." },
-    { "id": "arkeoloji-mitoloji-k030", "front": "Homeros nereli kabul edilir?", "back": "İzmir (Smyrna) — 'Yedi kent Homeros'u paylaşamaz' sözüyle anılır." }
+    {
+      "id": "arkeoloji-mitoloji-k001",
+      "front": "Höyük ile tümülüs arasındaki fark?",
+      "back": "Höyük: üst üste yerleşim katmanlarından oluşan tepe. Tümülüs: mezar odası üzerine yığılan yapay mezar tepesi."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k002",
+      "front": "Nekropol ve akropol ne demektir?",
+      "back": "Nekropol: antik kentin mezarlık alanı ('ölüler kenti'). Akropol: kentin en yüksek, kutsal/savunmalı bölümü."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k003",
+      "front": "Stratigrafi ilkesi nedir?",
+      "back": "Katmanların alttan üste kronolojik okunması — en alttaki tabaka en eskidir."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k004",
+      "front": "Karbon-14 yöntemi neyi tarihler?",
+      "back": "Organik kalıntıları (kemik, ahşap, tohum) — yaklaşık 50.000 yıla kadar."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k005",
+      "front": "Osman Hamdi Bey'in üç büyük başarısı?",
+      "back": "Müze-i Hümayun'u kurdu, Sanayi-i Nefise'yi açtı, Sayda kazısında İskender Lahdi'ni buldu (+ 1884 Asar-ı Atika Nizamnamesi)."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k006",
+      "front": "İskender Lahdi nerededir ve kime aittir?",
+      "back": "İstanbul Arkeoloji Müzeleri'nde; İskender'e değil, büyük olasılıkla Sidon kralı Abdalonymos'a aittir."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k007",
+      "front": "Troya'yı kazan araştırmacı ve kaçırılan hazinenin bugünkü yeri?",
+      "back": "Heinrich Schliemann — Priamos Hazinesi bugün Moskova Puşkin Müzesi'ndedir."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k008",
+      "front": "Afrodisias kazılarıyla özdeşleşen Türk arkeolog?",
+      "back": "Kenan Erim"
+    },
+    {
+      "id": "arkeoloji-mitoloji-k009",
+      "front": "Uluburun Batığı nedir, buluntuları nerededir?",
+      "back": "Kaş açıklarında bulunan MÖ 14. yy ticaret gemisi — dünyanın en eski batıklarından; Bodrum Sualtı Arkeoloji Müzesi'nde."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k010",
+      "front": "Zeus'un Roma adı ve simgeleri?",
+      "back": "Jüpiter — yıldırım demeti ve kartal"
+    },
+    {
+      "id": "arkeoloji-mitoloji-k011",
+      "front": "Athena'nın Roma adı, görevi ve simgesi?",
+      "back": "Minerva — akıl ve strateji savaşı tanrıçası; baykuş ve zeytin ağacı"
+    },
+    {
+      "id": "arkeoloji-mitoloji-k012",
+      "front": "Artemis'in Roma adı ve alanı?",
+      "back": "Diana — av, ay ve bekâret tanrıçası; yay ve geyikle betimlenir"
+    },
+    {
+      "id": "arkeoloji-mitoloji-k013",
+      "front": "Hermes'in Roma adı ve simgesi?",
+      "back": "Merkür — haberci/ticaret tanrısı; kanatlı sandalet ve çift yılanlı kadüse"
+    },
+    {
+      "id": "arkeoloji-mitoloji-k014",
+      "front": "Dionysos'un Roma adı ve simgeleri?",
+      "back": "Baküs — şarap tanrısı; asma-üzüm, thyrsos değneği, panter"
+    },
+    {
+      "id": "arkeoloji-mitoloji-k015",
+      "front": "Afrodit'in Roma adı ve doğum yeri efsanesi?",
+      "back": "Venüs — deniz köpüğünden doğduğuna inanılır (Kıbrıs/Kythera)"
+    },
+    {
+      "id": "arkeoloji-mitoloji-k016",
+      "front": "Poseidon'un Roma adı ve simgesi?",
+      "back": "Neptün — üç dişli mızrak (trident)"
+    },
+    {
+      "id": "arkeoloji-mitoloji-k017",
+      "front": "Hefaistos'un Roma adı ve görevi?",
+      "back": "Vulcanus — demircilik ve ateş tanrısı; çekiç-örsle betimlenir"
+    },
+    {
+      "id": "arkeoloji-mitoloji-k018",
+      "front": "Troya Savaşı'nı başlatan olay zinciri?",
+      "back": "Eris'in altın elması → Paris'in hakemliği → elma Afrodit'e → ödül olarak Helen → savaş"
+    },
+    {
+      "id": "arkeoloji-mitoloji-k019",
+      "front": "İlyada neyi anlatır, tahta at içinde var mıdır?",
+      "back": "Savaşın son yılından 51 günü (Akhilleus'un öfkesi) — tahta at İlyada'da anlatılmaz (Odysseia'da anılır)."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k020",
+      "front": "Apollon-Marsyas yarışmasının çalgıları ve sonucu?",
+      "back": "Apollon lir, Marsyas aulos (çifte flüt) — Marsyas yenilir ve derisi yüzülür (Kelainai/Dinar)."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k021",
+      "front": "Niobe efsanesinin Anadolu'daki izi?",
+      "back": "Manisa'daki 'Ağlayan Kaya' — çocuklarını kaybeden Niobe'nin taşlaşmış hali kabul edilir."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k022",
+      "front": "Midas'ın iki efsanesi?",
+      "back": "1) Altın dokunuş — Paktolos (Sart) Çayı'nda arınır; 2) Apollon'un verdiği eşek kulakları."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k023",
+      "front": "Letoon kime adanmıştır?",
+      "back": "Leto ile ikizleri Apollon ve Artemis'e — Likya'nın dini merkezi (Ksanthos ile UNESCO)."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k024",
+      "front": "Khimaira (Yanartaş) neresidir, hangi mitle ilgilidir?",
+      "back": "Antalya Çıralı — Bellerophon'un Pegasus'la öldürdüğü ateş püsküren canavarın miti."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k025",
+      "front": "Anadolu'daki iki büyük Apollon kehanet merkezi?",
+      "back": "Didyma (Didim) ve Klaros (İzmir) — Yunanistan'daki karşılığı Delphi."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k026",
+      "front": "Asklepios kimdir, simgesi nedir?",
+      "back": "Sağlık tanrısı (Apollon'un oğlu) — tek yılanlı asa; sağlık merkezleri 'Asklepion' adını taşır (en ünlüsü Bergama)."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k027",
+      "front": "Herakles nasıl tanınır?",
+      "back": "Aslan postu ve topuzla — Hera'nın gazabı yüzünden 12 görev yapmıştır."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k028",
+      "front": "Zeugma'nın simge mozaiği ve müzesi?",
+      "back": "'Çingene Kızı' — Gaziantep Zeugma Mozaik Müzesi"
+    },
+    {
+      "id": "arkeoloji-mitoloji-k029",
+      "front": "Efes Artemisi heykeli neden farklıdır?",
+      "back": "Çok göğüslü/toplu kült heykeli, Yunan Artemis tipinde değil — Anadolu ana tanrıça geleneğinin devamıdır."
+    },
+    {
+      "id": "arkeoloji-mitoloji-k030",
+      "front": "Homeros nereli kabul edilir?",
+      "back": "İzmir (Smyrna) — 'Yedi kent Homeros'u paylaşamaz' sözüyle anılır."
+    }
   ]
 }

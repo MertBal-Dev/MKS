@@ -2,28 +2,28 @@
   "id": "sanat-tarihi",
   "fullNotes": [
     {
-      "heading": "Antik Mimarinin Sözlüğü: Sütunlar ve Tapınaklar",
-      "markdown": "**Üç sütun düzeni (nizam):**\n- **Dor:** En sade ve en eski; başlık yastık biçimli, sütun gövdesi doğrudan zemine (stylobat) oturur, kaide yoktur. (Assos Athena Tapınağı)\n- **İyon:** Zarif; başlıkta **volüt** (koç boynuzu/kıvrım) vardır, kaide üzerine oturur. (Efes Artemis, Didyma)\n- **Korint:** En süslü; başlık **akantus yaprağı** bezemelidir. Roma'nın gözdesi. (Side Apollon)\n\n**Tapınak plan terimleri:** naos/cella (kült heykelinin odası), pronaos (ön mekân), peristasis (çevre sütun dizisi). **Peripteros** = tek sıra sütunla çevrili; **dipteros** = çift sıra (Didyma). **Megaron:** önü açık giriş odalı dikdörtgen erken konut/tapınak tipi — Yunan tapınağının atası.\n\n**Diğer kamu yapıları:** **Agora** (çarşı-meydan), **stoa** (sütunlu galeri), **bouleuterion** (kent meclisi), **prytaneion** (kutsal ocak/resmi konukevi), **gymnasium** (eğitim-spor), **stadion** (koşu alanı, ~192 m), **odeon** (küçük, genelde üstü örtülü konser yapısı)."
+      "heading": "Antik Mimari: Sütun Düzenleri ve Tapınaklar",
+      "markdown": "**Üç klasik sütun düzeni — MKS'nin en garanti sorusu:**\n\n| | **DOR** | **İYON** | **KORİNT** |\n|---|---|---|---|\n| **Başlık (kapitel)** | Sade, yastık biçimli | **Volüt (koç boynuzu)** | **Akantus yaprağı** |\n| **Kaide (base)** | **YOKTUR** — doğrudan zemine oturur | Vardır | Vardır |\n| **Gövde** | Kalın, az yivli (20 yiv) | İnce, çok yivli (24 yiv) | İnce, çok yivli |\n| **Karakter** | Ağır, güçlü, \"erkeksi\" | Zarif, \"kadınsı\" | En süslü, en gösterişli |\n| **Dönem** | En erken | Orta | En geç (Roma'da yaygınlaştı) |\n\n**En kolay ayırt etme:** **Dor'un kaidesi yoktur.** Sütun doğrudan platforma oturuyorsa Dor'dur. Başlıkta kıvrım varsa İyon, yaprak varsa Korint'tir.\n\n**Anadolu ve İyon:** İyon düzeni **Batı Anadolu'da doğmuştur.** **Efes Artemis Tapınağı** ve **Didyma Apollon Tapınağı** İyon düzeninin en büyük örnekleridir.\n\n**Tapınak bölümleri:**\n- **Naos (cella):** Tanrı heykelinin bulunduğu ana oda\n- **Pronaos:** Naos'un önündeki giriş bölümü\n- **Opisthodomos:** Arka bölüm (hazine)\n- **Peristasis:** Tapınağı çevreleyen sütun sırası\n- **Krepis / stylobat:** Basamaklı platform ve sütunların oturduğu en üst basamak\n- **Alınlık (fronton):** Üçgen cephe; heykel gruplarıyla bezenir\n- **Friz, arşitrav, triglif-metop:** Sütun üstü kuşaklar\n\n**Tapınak tipleri (sütun düzenine göre):** **Prostylos** (yalnızca önde sütun), **amphiprostylos** (ön ve arka), **peripteros** (dört yanı tek sıra sütun), **dipteros** (dört yanı **çift sıra** sütun — Artemis ve Didyma bu tiptedir), **tholos** (yuvarlak).\n\n**Yunan ve Roma yapıları — işlev farkları:**\n| Yapı | Yunan | Roma |\n|---|---|---|\n| Meydan | **Agora** | **Forum** |\n| Gösteri | **Tiyatro** (yarım daire, yamaca yaslanır) | **Amfitiyatro** (elips, serbest ayakta durur) |\n| Yarış | Stadion | **Sirk (hipodrom)** |\n| Eğitim/spor | **Gymnasion, palaestra** | Thermae içinde |\n| Yıkanma | Basit | **Thermae** (frigidarium-tepidarium-caldarium) |\n| Meclis | **Bouleuterion** | Curia |\n\n**Tiyatro bölümleri:** **Cavea** (oturma basamakları), **orkestra** (yarım daire zemin), **skene** (sahne binası), **diazoma** (yatay geçiş koridoru), **parodos** (yan giriş).\n**Roma tiyatrosu ile Yunan tiyatrosu farkı:** Yunan tiyatrosu **yamaca yaslanır** ve orkestrası **tam daireye yakındır**; Roma tiyatrosu **kemerler üzerinde kendi ayakları üstünde durabilir** ve orkestrası **yarım dairedir**. **Aspendos** bu yüzden tipik bir Roma tiyatrosudur."
     },
     {
-      "heading": "Yunan ve Roma: Tiyatrodan Hamama",
-      "markdown": "**Tiyatro farkı (klasik sınav sorusu):**\n- **Yunan tiyatrosu** yamaca yaslanır; orkestra tam daire ya da at nalıdır; skene (sahne binası) alçaktır.\n- **Roma tiyatrosu** tonoz-kemer teknolojisi sayesinde **düz zemine** kurulabilir; orkestra yarım dairedir; sahne binası (scaenae frons) çok katlı ve gösterişlidir; cavea ile sahne birleşiktir. (Aspendos — en iyi korunmuş Roma tiyatrolarından)\n\n**Roma'nın katkıları:** kemer, tonoz, kubbe, **beton** (opus caementicium); su kemerleri (Valens/Bozdoğan), hamamlar (kaldırım altı ısıtma: **hypocaust**), bazilika (hukuk-ticaret salonu; sonradan kilise tipine ad verdi), zafer takı, **amfitiyatro** (arena — tam oval; tiyatroyla karıştırma!).\n\n**Roma hamamı bölümleri:** apodyterium (soyunma) → frigidarium (soğukluk) → tepidarium (ılıklık) → caldarium (sıcaklık). Türk hamamı bu şemanın mirasçısıdır.\n\n**Heykel:** Yunan idealizmi (Polykleitos'un kanonu, kontrapost duruş) ↔ Roma **portre gerçekçiliği**. Bergama Okulu = Helenistik coşku ('Barok'u): Zeus Sunağı Gigantomakhia frizi, Ölen Galyalı."
+      "heading": "Temel Kavramlar ve Mimari Terimler",
+      "markdown": "MKS'de sanat tarihi soruları çoğunlukla **terim bilgisi** ve **eser-dönem eşleştirmesi** üzerinden gelir. Terimleri bilmeden eser tanımak mümkün olmaz.\n\n**Yapı elemanları:**\n- **Kubbe:** Yarım küre biçimli örtü\n- **Tonoz:** Silindirik örtü (beşik tonoz, çapraz tonoz, aynalı tonoz)\n- **Kemer:** Yuvarlak, sivri, at nalı, dilimli (mukarnaslı), basık kemer türleri vardır\n- **Pandantif:** Kareden kubbeye geçişte köşelerdeki **küresel üçgen** — Bizans buluşu\n- **Tromp:** Kareden kubbeye geçişte köşeleri kesen küçük **yarım konik** öge — Selçuklu'da yaygın\n- **Türk üçgeni:** Kareden kubbeye geçişte kullanılan, **üst üste dizili ters-düz üçgenlerden** oluşan, **Türklere özgü** geçiş öğesi. Sınavda \"Türklere özgü geçiş elemanı\" denince cevap budur\n- **Mukarnas (stalaktit):** Sarkıt biçiminde, kademeli hücrelerden oluşan dolgu bezemesi. Selçuklu ve Osmanlı taçkapılarının imzasıdır\n- **Payanda (contrefort):** Duvarı dışarıdan destekleyen ayak\n- **Fil ayağı:** Kubbeyi taşıyan kalın taşıyıcı\n- **Revak:** Sütunlara oturan kemerli, üstü örtülü galeri\n- **Şadırvan:** Avluda abdest alınan çeşme\n\n**Cami elemanları:**\n- **Mihrap:** Kıble yönünü gösteren niş\n- **Minber:** Cuma hutbesinin okunduğu merdivenli kürsü\n- **Vaaz kürsüsü**, **müezzin mahfili**, **hünkâr mahfili** (padişaha ayrılan bölüm)\n- **Son cemaat yeri:** Girişteki revaklı bölüm\n- **Şerefe:** Minarede ezan okunan balkon\n- **Harim:** Ana ibadet mekânı\n\n**Süsleme teknikleri:**\n- **Çini:** Sırlı, pişmiş toprak levha. **Sıraltı** ve **sırüstü (minai)** teknikleri\n- **Kalem işi:** Sıva veya ahşap üzerine boyayla yapılan bezeme\n- **Hat:** Yazı sanatı. Türleri: **sülüs, nesih, kûfi, talik, divani, rika**\n- **Tezhip:** Altın yaldızla kitap süsleme\n- **Minyatür:** Kitap içi küçük resim; **perspektif ve gölge yoktur**, figürler önemine göre büyütülür\n- **Ebru:** Su üzerine boya ile kâğıt terbiyesi\n- **Rumi:** Stilize hayvan/kanat motifi (Selçuklu)\n- **Hatayi:** Stilize bitki/çiçek motifi (Orta Asya kökenli)\n- **Kündekari:** Ahşap parçaların **çivi ve tutkal kullanmadan** geçmeli birleştirilmesi. Minber kapaklarında görülür\n\n**Yapı türleri:** Cami, mescit, **medrese** (eğitim), **darüşşifa/bimarhane** (hastane), **kervansaray/han** (konaklama), **imaret** (aşevi), **hamam**, **türbe/kümbet** (mezar anıtı), **külliye** (birden çok yapının bir arada olduğu kompleks), **bedesten** (kapalı çarşı), **çeşme/sebil.**"
     },
     {
-      "heading": "Bizans Sanatı",
-      "markdown": "**Mimari devrim — kubbeyi kare planın üzerine oturtmak:** **Pandantif** (küresel üçgen) Ayasofya'nın çözümüdür; **tromp** (köşe kemeri) daha çok Doğu/İslam geleneğinde görülür.\n\n**Ayasofya (532-537):** Justinianus yaptırdı; mimarları **Tralles'li (Aydın) Anthemios** ve **Milet'li İsidoros**. 31 m çapındaki kubbesiyle bin yıl dünyanın en büyük katedrali kaldı. 'Süleyman, seni geçtim!' sözü Justinianus'a atfedilir (Kudüs Tapınağı'na gönderme).\n\n**Yapı tipleri:** bazilikal plan (St. Antuan öncesi erken kiliseler, Demre Aziz Nikolaos), kapalı Yunan haçı planı (orta Bizans standardı), rotunda.\n\n**Resim sanatı:** **Mozaik** (cam/taş tesserae) ve **fresk** (ıslak sıva üzerine boya). **İkona** = taşınabilir kutsal tasvir. **İkonoklazma (726-842):** tasvir kırıcılık dönemi — figürlü tasvirler yasaklandı, birçok mozaik yok edildi.\n\n**Türkiye'deki başyapıtlar:** İstanbul — Ayasofya, **Kariye (Khora)** mozaik ve freskleri (geç Bizans/Palaiologos rönesansı), Aya İrini; Kapadokya — Göreme kaya kiliseleri (Tokalı, Karanlık Kilise); Trabzon Ayasofyası; İznik Ayasofyası (iki konsil kenti!); Demre **Aziz Nikolaos Kilisesi** (Noel Baba)."
+      "heading": "Anadolu Selçuklu ve Beylikler Dönemi Sanatı",
+      "markdown": "**Anadolu Selçuklu (1077-1308):** Başkent **Konya**. Anadolu'nun Türk-İslam mimarisiyle biçimlendiği dönemdir.\n\n**Genel karakter:** **Taş** malzeme egemendir. Yapının bütün gösterişi **taçkapıda (portal)** toplanır: mukarnaslı, geometrik ve bitkisel bezemeli anıtsal giriş. Cepheler sade, taçkapı görkemlidir.\n\n**Cami tipleri:**\n- **Ulu cami (çok ayaklı/bazilikal):** Çok sayıda ayakla bölünmüş geniş mekân\n- **Kapalı avlulu cami:** Ortada aydınlık feneri\n- **Ahşap direkli (ahşap hipostil) cami:** Ahşap sütunlar ve boyalı ahşap tavan. **Afyon Ulu Cami, Ankara Arslanhane, Beyşehir Eşrefoğlu, Sivrihisar Ulu Cami, Kastamonu Kasabaköy Mahmut Bey Camii.** Bu grup **2023'te \"Orta Çağ Anadolu Ahşap Hipostil Camileri\" adıyla UNESCO Dünya Mirası** olmuştur\n\n**Başlıca Selçuklu eserleri:**\n| Eser | Yer | Özelliği |\n|---|---|---|\n| **Divriği Ulu Camii ve Darüşşifası** | Sivas | Olağanüstü **taş işçiliği**; **UNESCO (1985)**. Mengücekli eseri |\n| **Alaeddin Camii** | Konya | Selçuklu başkentinin ulu camisi |\n| **İnce Minareli Medrese** | Konya | Taçkapısındaki **hat kuşakları** |\n| **Karatay Medresesi** | Konya | **Çini** kubbesi (mavi-siyah) |\n| **Sırçalı Medrese** | Konya | Çini süsleme |\n| **Çifte Minareli Medrese** | Erzurum | Anıtsal taçkapı, Yakutiye |\n| **Gök Medrese** | Sivas | Çift minareli |\n| **Sultanhanı** | Aksaray/Konya yolu | Anadolu'nun **en büyük kervansarayı** |\n| **Ağzıkarahan, Alara Han, Karatay Han** | — | Kervansaray ağı |\n| **Alanya Kızıl Kule ve Tersane** | Antalya | **I. Alaeddin Keykubat**; deniz gücü |\n| **Kayseri Döner Kümbet** | Kayseri | Silindirik gövdeli kümbet |\n| **Mama Hatun Kümbeti** | Erzincan/Tercan | Kadın adına yapılmış |\n\n**Kervansaraylar:** Ticaret yolları üzerinde yaklaşık **30-40 km (bir günlük deve yürüyüşü)** aralıklarla kurulmuştur. Yolculara **üç gün ücretsiz** konaklama, yemek ve hayvan bakımı sağlanırdı — dini, dili, ırkı ne olursa olsun. Bu, dünyanın ilk **sosyal devlet ve turizm altyapısı** örneklerinden sayılır. Yapı olarak **kapalı (kışlık) ve avlulu (yazlık)** bölümlerden oluşur; ortada **köşk mescit** bulunur.\n\n**Kümbet ve türbe farkı:** **Kümbet** silindirik/çokgen gövdeli, **konik veya piramidal külahlı**, genellikle iki katlıdır (altta mumyalık, üstte ziyaret katı) ve **Selçuklu**ya özgüdür. **Türbe** daha çok kubbeli ve Osmanlı'da yaygındır.\n\n**Beylikler Dönemi (14. yy):** Selçuklu ile Osmanlı arasındaki köprü.\n- **Bursa Ulu Cami** (Osmanlı ama çok kubbeli plan)\n- **Beyşehir Eşrefoğlu Camii** (ahşap direkli — UNESCO)\n- **Milas Firuz Bey Camii**, **Balat İlyas Bey Camii** (Menteşeoğulları)\n- **Birgi Ulu Camii** (Aydınoğulları)\n- **İznik Yeşil Cami, Hacı Özbek Camii** — erken Osmanlı'nın tek kubbeli cami denemeleri"
     },
     {
-      "heading": "Selçuklu ve Beylikler Sanatı",
-      "markdown": "**Anadolu Selçuklu mimarisinin imzaları:** anıtsal **taç kapı** (mukarnas kavsaralı, geometrik yıldız geçmeli), kesme taş işçiliği, **çift başlı kartal** arması, sırlı tuğla-firuze çini (mozaik çini tekniği).\n\n**Yapı tipleri:**\n- **Kervansaray/han:** İpek Yolu konaklama kaleleri; en büyükleri 'sultanhanı' tipi (Aksaray Sultanhanı, Kayseri Sultanhanı). Yaklaşık her 30-40 km'de (bir deve yürüyüşü) bir kurulmuştur.\n- **Medrese:** **Açık avlulu** (Sivas Gök Medrese, Erzurum Çifte Minareli) ve **kapalı avlulu/kubbeli** (Konya Karatay, İnce Minareli). Karatay = çini, İnce Minareli = **taş süsleme** müzesi olması kancadır.\n- **Kümbet/türbe:** silindirik-çokgen gövdeli, külah çatılı mezar anıtı (Döner Kümbet/Kayseri, Ahlat kümbetleri).\n- **Ulu cami tipi:** çok ayaklı, mihraba dik/paralel neflier (Divriği Ulu Camii ve Darüşşifası — taç kapılarının fantastik taş işçiliğiyle **UNESCO 1985**, Türkiye'nin ilk listeye giren varlıklarından).\n\n**Sağlık-sosyal yapılar:** darüşşifa (Kayseri Gevher Nesibe, Sivas I. İzzeddin Keykavus), imaret, köprüler (Malabadi)."
+      "heading": "Osmanlı Mimarisi ve Mimar Sinan",
+      "markdown": "Osmanlı mimarisinin ana sorunu şudur: **kare planlı mekânın üzerini tek bir kubbeyle, mümkün olan en geniş ve en aydınlık biçimde örtmek.** Ayasofya'nın açtığı bu soruya verilen cevapların tarihi, Osmanlı mimarisidir.\n\n**Dönemler:**\n\n**1. Erken Dönem (1300-1501):**\n- **Tek kubbeli cami:** İznik Hacı Özbek, Bursa Alaeddin\n- **Ters T (zaviyeli) planlı cami:** Bursa **Yeşil Cami**, **Yıldırım Bayezid Külliyesi**\n- **Çok kubbeli (ulu cami) plan:** **Bursa Ulu Camii** (20 kubbe), **Edirne Eski Camii**\n- **Edirne Üç Şerefeli Camii (1447):** Osmanlı mimarisinin **dönüm noktası.** İlk kez **merkezi büyük kubbe + yan mekânlar** şeması ve **dört farklı minare** denendi. Adını, o güne dek görülmemiş **üç şerefeli minaresinden** alır\n- **Çinili Köşk (1472)**, **Topkapı Sarayı**, **Fatih Külliyesi**\n\n**2. Klasik Dönem (1501-1703) — MİMAR SİNAN ÇAĞI:**\n\n**Mimar Sinan (1490?-1588):** Kayseri Ağırnas doğumlu. Devşirme olarak yeniçeri oldu, ordu ile seferlere katıldı, köprü ve gemi yaparak mühendislik öğrendi. **1538'de Mimarbaşı** oldu ve elli yıl bu görevde kaldı. Yaklaşık **400 eser** verdi.\n\n**Sinan'ın üç aşaması — kendi tanımı, sınavda mutlaka sorulur:**\n| Aşama | Eser | Yer |\n|---|---|---|\n| **Çıraklık** | **Şehzade Camii** (1548) | İstanbul |\n| **Kalfalık** | **Süleymaniye Camii** (1557) | İstanbul |\n| **Ustalık** | **Selimiye Camii** (1575) | **Edirne** |\n\n- **Şehzade Camii:** **Dört yarım kubbeli** simetrik şema\n- **Süleymaniye Camii:** **İki yarım kubbeli** şema; Ayasofya'ya rakip külliye. İçinde medrese, darüşşifa, hamam, imaret, kütüphane bulunur. Kandil isini toplayan **is odası** ve akustik için yerleştirilmiş **küpler** ünlüdür\n- **SELİMİYE CAMİİ (Edirne):** Sinan'ın başyapıtı. **Sekiz fil ayağına oturan tek büyük kubbe** — kubbe çapı **Ayasofya'yı geçmiştir.** Dört minaresi **üçer şerefelidir** ve her minarede **üç ayrı merdiven** vardır (birbirini görmeden çıkılır). **UNESCO Dünya Mirası (2011)**\n\n**Sinan'ın diğer eserleri:** Rüstem Paşa Camii (**çinileriyle**), Mihrimah Sultan Camileri (Üsküdar ve Edirnekapı), Sokollu Mehmet Paşa Camii, **Büyükçekmece Köprüsü**, **Mostar Köprüsü** (öğrencisi tarafından), **Kırkçeşme su yolları**, Haseki Hürrem Hamamı.\n\n**3. Geç Dönem (18.-19. yy) — Batı etkisi:**\n- **Lale Devri** ve **Türk Barok/Rokoko**: **III. Ahmet Çeşmesi**, **Nuruosmaniye Camii** (ilk barok cami), **Laleli, Ayazma Camii**\n- **Ampir ve Eklektik:** **Dolmabahçe Sarayı** (Balyan ailesi), **Beylerbeyi, Çırağan Sarayı**, **Ortaköy Camii**, **Dolmabahçe Saat Kulesi**\n- **I. Ulusal Mimarlık Akımı (20. yy başı):** Osmanlı-Selçuklu öğelerinin yeniden yorumu. **Mimar Kemalettin** ve **Vedat Tek**. Eserler: **İstanbul Büyük Postane**, **Ankara Etnografya Müzesi**, Bebek Camii\n\n**Osmanlı çini sanatı:** **İznik** çiniciliğin merkezidir. **16. yüzyıl İznik çinisinin altın çağıdır**; bu dönemin imzası **mercan kırmızısı (domates kırmızısı)** rengidir. **Kütahya** ise 18. yüzyıldan itibaren öne çıkar. **Rüstem Paşa Camii** ve **Topkapı Sarayı** en zengin çini örneklerini barındırır."
     },
     {
-      "heading": "Osmanlı Mimarisi: Bursa'dan Sinan'a, Sinan'dan Baroka",
-      "markdown": "**Erken dönem (Bursa-Edirne):** İznik Hacı Özbek Camii (ilk Osmanlı camilerinden), Bursa Ulu Camii (çok kubbeli ulu cami tipi), Yeşil Külliye (Bursa üslubu çini), **ters T / zaviyeli plan**. Edirne **Üç Şerefeli Cami** = klasik döneme geçişin anahtarı (merkezi kubbe fikri büyür).\n\n**Klasik dönem — Mimar Sinan (1489-1588):** Yaklaşık 375 yapı. Kendi deyişiyle üç aşama:\n- **Çıraklık eseri: Şehzade Camii** (İstanbul, dört yarım kubbeli merkezi plan)\n- **Kalfalık eseri: Süleymaniye Camii** (İstanbul, 1557; külliyesiyle sosyal kampüs; UNESCO alanı içinde)\n- **Ustalık eseri: Selimiye Camii** (**Edirne**, 1575; 31,25 m kubbe, sekiz destekli sistem; **UNESCO 2011**)\n\n**Külliye:** cami merkezli sosyal kompleks — medrese, imaret (aşevi), darüşşifa, hamam, kütüphane, tabhane, arasta.\n\n**Sinan sonrası:** Sultanahmet Camii (Sedefkâr Mehmed Ağa, 1616 — 'Mavi Cami', altı minare); Yeni Cami (Eminönü). **Lale Devri** (III. Ahmed Çeşmesi), ardından **Osmanlı Baroku**: Nuruosmaniye Camii (1755, oval avlu), Nusretiye, Ortaköy Camii (Balyan ailesi). Dolmabahçe Sarayı (1856, Balyanlar) — batılılaşmanın sarayı; Topkapı'nın (fetihten 19. yy'a devlet merkezi) zıddı."
+      "heading": "Batı Sanatı ve Dönemleri",
+      "markdown": "MKS'de Batı sanatı, genellikle **dönem-özellik-sanatçı** eşleştirmesi olarak sorulur.\n\n| Dönem | Yaklaşık tarih | Karakter | Temsilciler / eserler |\n|---|---|---|---|\n| **Romanesk** | 11.-12. yy | Kalın duvar, **yuvarlak kemer**, küçük pencere, karanlık iç mekân | Pisa Katedrali |\n| **Gotik** | 12.-15. yy | **Sivri kemer**, **uçan payanda**, **vitray**, yükseklik, aydınlık | Notre Dame, Chartres, Köln |\n| **Rönesans** | 15.-16. yy | **Perspektif**, oran, antik çağa dönüş, insan merkezlilik | **Leonardo** (Mona Lisa, Son Akşam Yemeği), **Michelangelo** (Davut, Sistine Şapeli), **Rafael**, Botticelli, **Brunelleschi** (Floransa Kubbesi) |\n| **Barok** | 17. yy | Hareket, **güçlü ışık-gölge**, dramatik duygu, görkem | **Caravaggio**, **Rembrandt**, Rubens, Bernini, Versailles |\n| **Rokoko** | 18. yy | Hafif, süslü, zarif, pastel | Watteau, Fragonard |\n| **Neoklasik** | 18.-19. yy | Antik düzen, akıl, sadelik | **Jacques-Louis David** |\n| **Romantizm** | 19. yy | Duygu, doğa, kahramanlık | Delacroix, Goya, Turner |\n| **Realizm** | 19. yy | Gündelik hayat, işçi-köylü | **Courbet**, Millet |\n| **İzlenimcilik (Empresyonizm)** | 19. yy sonu | **Işığın anlık etkisi**, açık havada resim | **Monet** (İzlenim: Gündoğumu — akıma adını verdi), Renoir, Degas |\n| **Post-empresyonizm** | 19. yy sonu | Kişisel yorum | **Van Gogh**, Cézanne, Gauguin |\n| **Ekspresyonizm** | 20. yy | İç dünyanın dışavurumu | **Munch (Çığlık)** |\n| **Kübizm** | 20. yy | Nesnenin **çok yönden** aynı anda gösterimi, geometri | **Picasso (Guernica, Avignonlu Kızlar)**, Braque |\n| **Sürrealizm** | 20. yy | Rüya, bilinçaltı | **Dali**, Magritte |\n| **Soyut sanat** | 20. yy | Figürsüz | Kandinsky, Mondrian |\n\n**Dünyanın Yedi Harikası (Antik):** **Keops Piramidi** (tek ayakta kalan), Babil Asma Bahçeleri, **Efes Artemis Tapınağı**, **Halikarnassos Mausoleum'u**, Olimpia Zeus Heykeli, Rodos Heykeli, İskenderiye Feneri.\n**İkisi Anadolu'dadır: Artemis Tapınağı (Efes) ve Mausoleum (Bodrum).** Sınavda doğrudan sorulur.\n\n**Türk resim sanatı:** **Osman Hamdi Bey** (Kaplumbağa Terbiyecisi), **Şeker Ahmet Paşa**, **Hüseyin Zekai Paşa**, **Hoca Ali Rıza**, **Halil Paşa**, **İbrahim Çallı** ve 1914 Kuşağı, **Fikret Mualla**, **Bedri Rahmi Eyüboğlu**, **Abidin Dino**, **Burhan Doğançay**.\n**Türk heykel sanatı:** İlk Türk heykeltıraş **İhsan Özsoy**; **Zühtü Müridoğlu**, **Ali Hadi Bara**, **Rahmi Aksungur**. Cumhuriyet'in ilk anıtı **Sarayburnu Atatürk Heykeli** (Krippel, 1926); **Taksim Cumhuriyet Anıtı** (Canonica, 1928)."
     },
     {
-      "heading": "Geleneksel El Sanatları ve Kitap Sanatları",
-      "markdown": "**Ahşap teknikleri (sınavın gözdesi):**\n- **Kündekari:** Geometrik ahşap parçaların **çivi ve tutkal olmadan** birbirine geçmesi (minber kapıları) — Şubat 2025'te soruldu!\n- **Oyma:** Ahşabın yontulmasıyla desen çıkarma. **Kakma:** Ahşaba sedef/fildişi/gümüş gömme (sedefkârlık).\n\n**Maden ve takı:** **Telkari** = ince gümüş/altın tellerle örme (Midyat, Beypazarı); **savat** = gümüş üzerine siyah desen (Van); **bakırcılık** (Gaziantep).\n\n**Çini:** **İznik çinisi** 16. yy'da zirve — **mercan kırmızısı** sırrı, lale-karanfil desenleri (Rüstem Paşa Camii bir İznik kataloğudur). 17. yy'dan sonra merkez **Kütahya'ya** kayar. Selçuklu'da mozaik çini + firuze; Osmanlı'da **sıraltı tekniği**.\n\n**Kitap sanatları:** **Hat** (güzel yazı; Şeyh Hamdullah, Hafız Osman), **tezhip** (altınla sayfa bezeme), **minyatür** (perspektifsiz kitap resmi; Matrakçı Nasuh — topografik, Nakkaş Osman — Surname, **Levni** — Lale Devri), **ebru** (su üzerinde boya deseni), **cilt** (şemse motifli deri kapak).\n\n**Dokuma:** Hereke ipek halısı (saray halısı), Uşak halısı (Osmanlı klasiği, 'Lotto-Holbein' desenleriyle Avrupa resmine girdi), kilim-cicim-zili-sumak (düz dokumalar). **2010'da 'Geleneksel Sohbet Toplantıları', 2009'da 'Ebru'... UNESCO somut olmayan kültürel miras listesinde** birçok Türk el sanatı vardır (ebru 2014)."
+      "heading": "Kitap Sanatları ve Geleneksel El Sanatları",
+      "markdown": "**KİTAP SANATLARI** — Osmanlı'da kitap, tek başına bir sanat nesnesiydi ve her aşaması ayrı bir ustalık gerektirirdi.\n\n- **Hat (kaligrafi):** Arap harfleriyle **güzel yazı** sanatı. Türleri: **sülüs** (anıtsal, kalın), **nesih** (kitap yazısı, Kuran çoğaltmada), **kûfi** (köşeli, en eski), **talik** (İran kökenli, eğik), **divani** (Osmanlı resmi yazışma), **rika** (günlük).\n  Ünlü hattatlar: **Şeyh Hamdullah** (\"hattatların kıblesi\", II. Bayezid dönemi), **Ahmed Karahisari**, **Hafız Osman**, **Mustafa Râkım**, **Sami Efendi**.\n  **Aklında kalsın:** \"Kur'an Mekke'de indi, Mısır'da okundu, **İstanbul'da yazıldı**\" sözü, Osmanlı hattının zirvesini anlatır.\n- **Tezhip:** **Altın (zeheb)** ve boya ile kitap süsleme; yazının çevresini bezer. Ustasına **müzehhip** denir.\n- **Minyatür:** Kitap içi küçük resim. **Perspektif ve gölge yoktur**; figürler **önemine göre** büyür (hiyerarşik ölçek); arka plan altın veya düz renktir. Ustaları: **Matrakçı Nasuh** (topografik şehir minyatürleri), **Nakkaş Osman** (Surname), **Levni** (Lale Devri, daha gerçekçi ve hareketli).\n- **Ebru:** Kitre ile yoğunlaştırılmış **su üzerine** serpilen boyaların kâğıda aktarılması. Türleri: battal, gelgit, şal, hatip, **çiçekli ebru** (Necmeddin Okyay). **UNESCO Somut Olmayan Kültürel Miras.**\n- **Cilt (mücellitlik):** Kitap kapağı sanatı; **şemse** (güneş) motifi tipiktir.\n- **Katı' (kaat'ı):** Kâğıt oyma sanatı.\n\n**GELENEKSEL EL SANATLARI:**\n| Sanat | Merkez / özellik |\n|---|---|\n| **Çini** | **İznik** (16. yy altın çağ, **mercan kırmızısı**), **Kütahya** (18. yy sonrası) |\n| **Halı-kilim** | **Hereke** (ipek, saray halısı), **Uşak, Gördes, Milas, Bergama, Kula, Sivas, Isparta, Kayseri**. Türk düğümü = **Gördes düğümü (çift düğüm)**; İran düğümü = Sine (tek düğüm) |\n| **Bakırcılık** | **Gaziantep, Erzincan, Kastamonu, Mardin, Tokat, Çorum** |\n| **Telkâri (gümüş filigran)** | **Midyat (Mardin)**, Trabzon (**hasır bilezik**) |\n| **Cam sanatı** | **Beykoz** (İstanbul) — çeşm-i bülbül; **Paşabahçe** |\n| **Sedef kakma** | İstanbul |\n| **Bıçakçılık** | **Sürmene (Trabzon)**, Bursa |\n| **Keçe (keçecilik)** | **Konya, Afyon, Balıkesir, Tire** |\n| **Yazmacılık (baskı)** | **Tokat, Kastamonu (Kastamonu yazması)** |\n| **İpekçilik** | **Bursa** (kozahan), **Hereke** |\n| **Ahşap oymacılık / kündekari** | Konya, Ankara |\n| **Deri-yemenicilik** | Gaziantep, Yozgat |\n| **Çömlek / seramik** | **Avanos (Nevşehir)** — Kızılırmak kili, **Bilecik, Menemen** |\n| **Semercilik, at arabası, nalbantlık** | Anadolu geneli (kaybolan meslekler) |\n| **Oya, iğne oyası** | Anadolu geneli — geleneksel iletişim dili |\n\n**AVANOS notu:** Kızılırmak'ın kırmızı kili sayesinde **Hitit döneminden beri** çömlekçilik yapılır; rehberlerin Kapadokya turunda mutlaka anlattığı duraktır.\n\n**Türk halısında düğüm farkı sınavda çıkar:** **Gördes (Türk) düğümü çift**, **Sine (İran) düğümü tektir.** Türk halısı bu yüzden daha dayanıklıdır.\n\n**UNESCO Somut Olmayan Kültürel Miras listemizden el sanatları:** **Ebru**, **çini işçiliği (geleneksel çinicilik)**, **Türk kahvesi kültürü**, **Karagöz**, **Mesir Macunu**, **ıslık dili**, **Ahilik**, **geleneksel Türk yay yapımı**, **Hıdrellez**, **minyatür sanatı**, **Dede Korkut**, **Nasreddin Hoca anlatıları**, **Kırkpınar Yağlı Güreşleri**, **Sema töreni**, **âşıklık geleneği**, **Nevruz**."
     }
   ],
   "shortNotes": "**Sütunlar:** Dor = sade/kaidesiz, İyon = volütlü, Korint = akantuslu. Tiyatro: Yunan = yamaç + tam daire orkestra; Roma = düz zemin + yarım daire + yüksek sahne (Aspendos). Amfitiyatro = oval arena, tiyatro değil!\n\n**Roma hamam sırası:** apodyterium → frigidarium → tepidarium → caldarium (soyun-soğuk-ılık-sıcak).\n\n**Bizans:** Ayasofya = Justinianus + Anthemios & İsidoros + pandantif. İkonoklazma 726-842. Kariye = geç Bizans mozaik-freski. Kapadokya = Göreme kaya kiliseleri. Demre = Aziz Nikolaos.\n\n**Selçuklu:** taç kapı + mukarnas + çift başlı kartal + firuze mozaik çini. Karatay = çini, İnce Minareli = taş süsleme. Kervansaray ~30-40 km arayla. Divriği = UNESCO 1985.\n\n**Sinan üçlemesi:** Şehzade (çıraklık) → Süleymaniye (kalfalık) → Selimiye/EDİRNE (ustalık, UNESCO 2011). Sultanahmet = Sedefkâr Mehmed Ağa. Barok = Nuruosmaniye. Dolmabahçe = Balyanlar.\n\n**El sanatları:** kündekari = çivisiz geçme; kakma = gömme; oyma = yontma; telkari = tel örme (Midyat); savat = Van gümüşü. İznik çinisi = mercan kırmızısı; sonra Kütahya. Minyatür: Matrakçı Nasuh (topografya), Levni (Lale Devri). Hat: Şeyh Hamdullah, Hafız Osman.\n\n**Karıştırma listesi:** pandantif (Ayasofya) vs tromp; bazilika (Roma mahkeme) vs bazilikal kilise; kümbet (Selçuklu külahlı) vs türbe (Osmanlı kubbeli).",
@@ -41,35 +41,155 @@
     "**Minyatürde perspektif yoktur** — 'perspektif kullanılan Osmanlı resmi' ifadesi her zaman yanlıştır. Topografik minyatür = Matrakçı Nasuh."
   ],
   "flashcards": [
-    { "id": "sanat-tarihi-k001", "front": "Üç antik sütun düzeni ve ayırt edici özellikleri?", "back": "Dor: sade, kaidesiz. İyon: volütlü (kıvrımlı) başlık. Korint: akantus yapraklı başlık." },
-    { "id": "sanat-tarihi-k002", "front": "Naos (cella) nedir?", "back": "Tapınağın kült heykelinin durduğu ana odası." },
-    { "id": "sanat-tarihi-k003", "front": "Yunan ve Roma tiyatrosu arasındaki temel fark?", "back": "Yunan: yamaca yaslı, tam daire orkestra. Roma: kemer-tonozla düz zeminde, yarım daire orkestra, yüksek sahne binası." },
-    { "id": "sanat-tarihi-k004", "front": "Türkiye'deki en iyi korunmuş Roma tiyatrosu?", "back": "Aspendos (Antalya/Serik) — Zenon tarafından, MS 2. yy" },
-    { "id": "sanat-tarihi-k005", "front": "Roma hamamının dört bölümü sırasıyla?", "back": "Apodyterium (soyunma) → frigidarium (soğuk) → tepidarium (ılık) → caldarium (sıcak)" },
-    { "id": "sanat-tarihi-k006", "front": "Hypocaust nedir?", "back": "Roma hamamlarında döşeme altı sıcak hava dolaşımıyla ısıtma sistemi." },
-    { "id": "sanat-tarihi-k007", "front": "Bouleuterion ve stoa nedir?", "back": "Bouleuterion: kent meclisi binası. Stoa: agorayı çeviren üstü örtülü sütunlu galeri." },
-    { "id": "sanat-tarihi-k008", "front": "Ayasofya'yı kim, hangi mimarlarla yaptırdı?", "back": "İmparator Justinianus (532-537) — Tralles'li Anthemios ve Milet'li İsidoros" },
-    { "id": "sanat-tarihi-k009", "front": "Pandantif nedir, hangi yapıyla özdeştir?", "back": "Kare planı kubbeye bağlayan küresel üçgen — Ayasofya'nın taşıyıcı çözümü." },
-    { "id": "sanat-tarihi-k010", "front": "İkonoklazma nedir?", "back": "Bizans'ta tasvir kırıcılık dönemi (726-842) — dini figür tasvirleri yasaklandı, mozaikler tahrip edildi." },
-    { "id": "sanat-tarihi-k011", "front": "Kariye (Khora) neden önemlidir?", "back": "Geç Bizans (Palaiologos) döneminin en parlak mozaik ve freskleri — İstanbul." },
-    { "id": "sanat-tarihi-k012", "front": "Noel Baba kilisesi nerededir?", "back": "Aziz Nikolaos Kilisesi — Demre (Antalya); Myra piskoposu Aziz Nikolaos'a adanmıştır." },
-    { "id": "sanat-tarihi-k013", "front": "Selçuklu mimarisinin imza öğeleri?", "back": "Mukarnas kavsaralı anıtsal taç kapı, kesme taş, çift başlı kartal, firuze mozaik çini." },
-    { "id": "sanat-tarihi-k014", "front": "Selçuklu kervansarayları neden ~30-40 km arayla kuruldu?", "back": "Bir devenin/kervanın günlük yürüyüş mesafesi olduğu için — İpek Yolu güvenli konaklama zinciri." },
-    { "id": "sanat-tarihi-k015", "front": "Konya Karatay ve İnce Minareli medreselerinin uzmanlık alanları?", "back": "Karatay: çini eserler müzesi. İnce Minareli: taş ve ahşap eserler müzesi. (İkisi de kapalı avlulu tiptir.)" },
-    { "id": "sanat-tarihi-k016", "front": "Kümbet nedir?", "back": "Selçuklu mezar anıtı — silindirik/çokgen gövde, konik külah çatı (Döner Kümbet/Kayseri, Ahlat)." },
-    { "id": "sanat-tarihi-k017", "front": "Divriği Ulu Camii neden UNESCO listesindedir?", "back": "Taç kapılarındaki eşsiz fantastik taş işçiliği ve darüşşifasıyla — 1985'te Türkiye'nin ilk listeye giren varlıklarından." },
-    { "id": "sanat-tarihi-k018", "front": "Mimar Sinan'ın çıraklık-kalfalık-ustalık eserleri?", "back": "Şehzade Camii (çıraklık) — Süleymaniye (kalfalık) — Selimiye/Edirne (ustalık, UNESCO 2011)" },
-    { "id": "sanat-tarihi-k019", "front": "Külliye nedir?", "back": "Cami merkezli sosyal kompleks: medrese, imaret, darüşşifa, hamam, kütüphane, arasta..." },
-    { "id": "sanat-tarihi-k020", "front": "Sultanahmet Camii'nin mimarı ve özelliği?", "back": "Sedefkâr Mehmed Ağa (1616) — altı minaresi ve mavi İznik çinileri ('Mavi Cami')" },
-    { "id": "sanat-tarihi-k021", "front": "Osmanlı Barok üslubunun ilk büyük örneği?", "back": "Nuruosmaniye Camii (1755, İstanbul) — oval avlusuyla" },
-    { "id": "sanat-tarihi-k022", "front": "Dolmabahçe Sarayı'nı kim inşa etti?", "back": "Balyan ailesi (Garabet ve Nigoğayos Balyan), 1856 — Abdülmecid dönemi" },
-    { "id": "sanat-tarihi-k023", "front": "Kündekari nedir?", "back": "Geometrik ahşap parçaların çivi ve tutkal KULLANILMADAN geçmelerle birleştirilmesi (minberler)." },
-    { "id": "sanat-tarihi-k024", "front": "Kakma ile oymanın farkı?", "back": "Kakma: ahşaba sedef/fildişi gömme. Oyma: ahşabı yontarak desen çıkarma." },
-    { "id": "sanat-tarihi-k025", "front": "Telkari neyin sanatıdır, merkezleri?", "back": "İnce gümüş/altın telle örme takı sanatı — Midyat (Mardin) ve Beypazarı" },
-    { "id": "sanat-tarihi-k026", "front": "İznik çinisinin altın çağı ve imza rengi?", "back": "16. yüzyıl — sır altında kabaran mercan kırmızısı (Rüstem Paşa Camii kataloğu gibidir)" },
-    { "id": "sanat-tarihi-k027", "front": "Ünlü minyatürcüler ve alanları?", "back": "Matrakçı Nasuh: topografik minyatür; Nakkaş Osman: Surname; Levni: Lale Devri" },
-    { "id": "sanat-tarihi-k028", "front": "Tezhip ve ebru nedir?", "back": "Tezhip: altınla sayfa bezeme. Ebru: kitre katılmış su yüzeyindeki boyayı kâğıda alma (UNESCO SOKÜM 2014)." },
-    { "id": "sanat-tarihi-k029", "front": "Bergama Okulu'nun heykel üslubu?", "back": "Helenistik coşku ve dramatizm — Zeus Sunağı Gigantomakhia frizi, Ölen Galyalı" },
-    { "id": "sanat-tarihi-k030", "front": "Megaron nedir?", "back": "Önü açık girişli dikdörtgen erken yapı tipi — Yunan tapınak planının atası" }
+    {
+      "id": "sanat-tarihi-k001",
+      "front": "Üç antik sütun düzeni ve ayırt edici özellikleri?",
+      "back": "Dor: sade, kaidesiz. İyon: volütlü (kıvrımlı) başlık. Korint: akantus yapraklı başlık."
+    },
+    {
+      "id": "sanat-tarihi-k002",
+      "front": "Naos (cella) nedir?",
+      "back": "Tapınağın kült heykelinin durduğu ana odası."
+    },
+    {
+      "id": "sanat-tarihi-k003",
+      "front": "Yunan ve Roma tiyatrosu arasındaki temel fark?",
+      "back": "Yunan: yamaca yaslı, tam daire orkestra. Roma: kemer-tonozla düz zeminde, yarım daire orkestra, yüksek sahne binası."
+    },
+    {
+      "id": "sanat-tarihi-k004",
+      "front": "Türkiye'deki en iyi korunmuş Roma tiyatrosu?",
+      "back": "Aspendos (Antalya/Serik) — Zenon tarafından, MS 2. yy"
+    },
+    {
+      "id": "sanat-tarihi-k005",
+      "front": "Roma hamamının dört bölümü sırasıyla?",
+      "back": "Apodyterium (soyunma) → frigidarium (soğuk) → tepidarium (ılık) → caldarium (sıcak)"
+    },
+    {
+      "id": "sanat-tarihi-k006",
+      "front": "Hypocaust nedir?",
+      "back": "Roma hamamlarında döşeme altı sıcak hava dolaşımıyla ısıtma sistemi."
+    },
+    {
+      "id": "sanat-tarihi-k007",
+      "front": "Bouleuterion ve stoa nedir?",
+      "back": "Bouleuterion: kent meclisi binası. Stoa: agorayı çeviren üstü örtülü sütunlu galeri."
+    },
+    {
+      "id": "sanat-tarihi-k008",
+      "front": "Ayasofya'yı kim, hangi mimarlarla yaptırdı?",
+      "back": "İmparator Justinianus (532-537) — Tralles'li Anthemios ve Milet'li İsidoros"
+    },
+    {
+      "id": "sanat-tarihi-k009",
+      "front": "Pandantif nedir, hangi yapıyla özdeştir?",
+      "back": "Kare planı kubbeye bağlayan küresel üçgen — Ayasofya'nın taşıyıcı çözümü."
+    },
+    {
+      "id": "sanat-tarihi-k010",
+      "front": "İkonoklazma nedir?",
+      "back": "Bizans'ta tasvir kırıcılık dönemi (726-842) — dini figür tasvirleri yasaklandı, mozaikler tahrip edildi."
+    },
+    {
+      "id": "sanat-tarihi-k011",
+      "front": "Kariye (Khora) neden önemlidir?",
+      "back": "Geç Bizans (Palaiologos) döneminin en parlak mozaik ve freskleri — İstanbul."
+    },
+    {
+      "id": "sanat-tarihi-k012",
+      "front": "Noel Baba kilisesi nerededir?",
+      "back": "Aziz Nikolaos Kilisesi — Demre (Antalya); Myra piskoposu Aziz Nikolaos'a adanmıştır."
+    },
+    {
+      "id": "sanat-tarihi-k013",
+      "front": "Selçuklu mimarisinin imza öğeleri?",
+      "back": "Mukarnas kavsaralı anıtsal taç kapı, kesme taş, çift başlı kartal, firuze mozaik çini."
+    },
+    {
+      "id": "sanat-tarihi-k014",
+      "front": "Selçuklu kervansarayları neden ~30-40 km arayla kuruldu?",
+      "back": "Bir devenin/kervanın günlük yürüyüş mesafesi olduğu için — İpek Yolu güvenli konaklama zinciri."
+    },
+    {
+      "id": "sanat-tarihi-k015",
+      "front": "Konya Karatay ve İnce Minareli medreselerinin uzmanlık alanları?",
+      "back": "Karatay: çini eserler müzesi. İnce Minareli: taş ve ahşap eserler müzesi. (İkisi de kapalı avlulu tiptir.)"
+    },
+    {
+      "id": "sanat-tarihi-k016",
+      "front": "Kümbet nedir?",
+      "back": "Selçuklu mezar anıtı — silindirik/çokgen gövde, konik külah çatı (Döner Kümbet/Kayseri, Ahlat)."
+    },
+    {
+      "id": "sanat-tarihi-k017",
+      "front": "Divriği Ulu Camii neden UNESCO listesindedir?",
+      "back": "Taç kapılarındaki eşsiz fantastik taş işçiliği ve darüşşifasıyla — 1985'te Türkiye'nin ilk listeye giren varlıklarından."
+    },
+    {
+      "id": "sanat-tarihi-k018",
+      "front": "Mimar Sinan'ın çıraklık-kalfalık-ustalık eserleri?",
+      "back": "Şehzade Camii (çıraklık) — Süleymaniye (kalfalık) — Selimiye/Edirne (ustalık, UNESCO 2011)"
+    },
+    {
+      "id": "sanat-tarihi-k019",
+      "front": "Külliye nedir?",
+      "back": "Cami merkezli sosyal kompleks: medrese, imaret, darüşşifa, hamam, kütüphane, arasta..."
+    },
+    {
+      "id": "sanat-tarihi-k020",
+      "front": "Sultanahmet Camii'nin mimarı ve özelliği?",
+      "back": "Sedefkâr Mehmed Ağa (1616) — altı minaresi ve mavi İznik çinileri ('Mavi Cami')"
+    },
+    {
+      "id": "sanat-tarihi-k021",
+      "front": "Osmanlı Barok üslubunun ilk büyük örneği?",
+      "back": "Nuruosmaniye Camii (1755, İstanbul) — oval avlusuyla"
+    },
+    {
+      "id": "sanat-tarihi-k022",
+      "front": "Dolmabahçe Sarayı'nı kim inşa etti?",
+      "back": "Balyan ailesi (Garabet ve Nigoğayos Balyan), 1856 — Abdülmecid dönemi"
+    },
+    {
+      "id": "sanat-tarihi-k023",
+      "front": "Kündekari nedir?",
+      "back": "Geometrik ahşap parçaların çivi ve tutkal KULLANILMADAN geçmelerle birleştirilmesi (minberler)."
+    },
+    {
+      "id": "sanat-tarihi-k024",
+      "front": "Kakma ile oymanın farkı?",
+      "back": "Kakma: ahşaba sedef/fildişi gömme. Oyma: ahşabı yontarak desen çıkarma."
+    },
+    {
+      "id": "sanat-tarihi-k025",
+      "front": "Telkari neyin sanatıdır, merkezleri?",
+      "back": "İnce gümüş/altın telle örme takı sanatı — Midyat (Mardin) ve Beypazarı"
+    },
+    {
+      "id": "sanat-tarihi-k026",
+      "front": "İznik çinisinin altın çağı ve imza rengi?",
+      "back": "16. yüzyıl — sır altında kabaran mercan kırmızısı (Rüstem Paşa Camii kataloğu gibidir)"
+    },
+    {
+      "id": "sanat-tarihi-k027",
+      "front": "Ünlü minyatürcüler ve alanları?",
+      "back": "Matrakçı Nasuh: topografik minyatür; Nakkaş Osman: Surname; Levni: Lale Devri"
+    },
+    {
+      "id": "sanat-tarihi-k028",
+      "front": "Tezhip ve ebru nedir?",
+      "back": "Tezhip: altınla sayfa bezeme. Ebru: kitre katılmış su yüzeyindeki boyayı kâğıda alma (UNESCO SOKÜM 2014)."
+    },
+    {
+      "id": "sanat-tarihi-k029",
+      "front": "Bergama Okulu'nun heykel üslubu?",
+      "back": "Helenistik coşku ve dramatizm — Zeus Sunağı Gigantomakhia frizi, Ölen Galyalı"
+    },
+    {
+      "id": "sanat-tarihi-k030",
+      "front": "Megaron nedir?",
+      "back": "Önü açık girişli dikdörtgen erken yapı tipi — Yunan tapınak planının atası"
+    }
   ]
 }
