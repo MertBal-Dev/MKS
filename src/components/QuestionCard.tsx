@@ -1,4 +1,5 @@
 import { AlertTriangle, Check, X } from 'lucide-react';
+import { AiHoca } from './AiHoca';
 import type { ChoiceId, Question } from '@/lib/types';
 
 interface Props {
@@ -102,6 +103,8 @@ export function QuestionCard({ question, selected, revealed, onSelect, positionL
           </p>
         </div>
       )}
+
+      {revealed && <AiHoca question={question} selected={selected} />}
     </div>
   );
 }
