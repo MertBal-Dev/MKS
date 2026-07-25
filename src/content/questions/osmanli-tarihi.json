@@ -1,0 +1,567 @@
+[
+  {
+    "id": "osmanli-tarihi-001",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Kuruluş",
+    "difficulty": 1,
+    "stem": "Osmanlı Devleti'nin ilk başkenti aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Bursa", "explanation": "Doğru — Orhan Gazi'nin 1326'da fethettiği Bursa ilk başkenttir; başkent zinciri Bursa→Edirne→İstanbul'dur." },
+      { "id": "B", "text": "Söğüt", "explanation": "Söğüt kuruluş merkezi/beylik ocağıdır; resmi başkent statüsü Bursa ile başlar." },
+      { "id": "C", "text": "Edirne", "explanation": "Edirne ikinci başkenttir (I. Murad dönemi)." },
+      { "id": "D", "text": "İznik", "explanation": "İznik önemli bir kültür merkeziydi (ilk medrese) ama başkent Bursa'dır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-002",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Kuruluş",
+    "difficulty": 2,
+    "stem": "Osmanlıların Rumeli'de edindiği ilk toprak parçası aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Çimpe Kalesi", "explanation": "Doğru — 1353'te Orhan Gazi döneminde (oğlu Süleyman Paşa eliyle) üs olarak alındı; Rumeli fetihlerinin kapısıdır." },
+      { "id": "B", "text": "Edirne", "explanation": "Edirne yaklaşık on yıl sonra fethedildi." },
+      { "id": "C", "text": "Gelibolu", "explanation": "Gelibolu, Çimpe'den sonra alınmıştır." },
+      { "id": "D", "text": "Selanik", "explanation": "Selanik çok sonraki fetihlerdendir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-003",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Kuruluş",
+    "difficulty": 2,
+    "stem": "Savaş meydanında şehit edilen ilk Osmanlı padişahı ve ilgili savaş aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "I. Murad — I. Kosova (1389)", "explanation": "Doğru — savaş sonrası alanı gezerken Sırp asilzade Miloş Obiliç tarafından şehit edildi." },
+      { "id": "B", "text": "Yıldırım Bayezid — Ankara (1402)", "explanation": "Yıldırım şehit olmadı; Timur'a esir düştü." },
+      { "id": "C", "text": "II. Murad — Varna (1444)", "explanation": "Varna'yı II. Murad kazandı; şehit olan Macar kralı Ladislas'tır." },
+      { "id": "D", "text": "Fatih — Otlukbeli (1473)", "explanation": "Fatih Otlukbeli'ni kazandı ve eceliyle öldü." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-004",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Kuruluş",
+    "difficulty": 2,
+    "stem": "1402 Ankara Savaşı'nın Osmanlı tarihi açısından en önemli sonucu aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Fetret Devri'nin başlaması ve Anadolu birliğinin bozulması", "explanation": "Doğru — Yıldırım'ın Timur'a esir düşmesiyle şehzadeler arasında 11 yıllık taht mücadelesi yaşandı." },
+      { "id": "B", "text": "İstanbul'un fethinin hızlanması", "explanation": "Tam tersine fetih yarım yüzyıl gecikti." },
+      { "id": "C", "text": "Rumeli topraklarının tamamen kaybı", "explanation": "Rumeli'de kayıp sınırlı kaldı; asıl sarsıntı Anadolu'daydı." },
+      { "id": "D", "text": "Halifeliğin Osmanlı'ya geçmesi", "explanation": "Halifelik 1517 Ridaniye ile geçmiştir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-005",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Fetih",
+    "difficulty": 1,
+    "stem": "İstanbul'un fethinde boğazı kontrol etmek için Fatih'in Avrupa yakasına yaptırdığı hisar aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Rumeli Hisarı", "explanation": "Doğru — 'Boğazkesen' Rumeli Hisarı 1452'de dört ayda tamamlandı; karşısındaki Anadolu Hisarı Yıldırım'ındır." },
+      { "id": "B", "text": "Anadolu Hisarı", "explanation": "Anadolu Hisarı'nı Yıldırım Bayezid yaptırmıştı (1395)." },
+      { "id": "C", "text": "Yedikule Hisarı", "explanation": "Yedikule fetihten sonra yapılmıştır." },
+      { "id": "D", "text": "Kilitbahir", "explanation": "Kilitbahir, Çanakkale Boğazı'ndadır." }
+    ],
+    "correct": "A",
+    "trick": "İki hisar: Anadolu Hisarı=Yıldırım (ilk kuşatma), Rumeli Hisarı=Fatih (fetih hazırlığı)."
+  },
+  {
+    "id": "osmanli-tarihi-006",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Fetih",
+    "difficulty": 2,
+    "stem": "İstanbul'un fethiyle ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+    "choices": [
+      { "id": "A", "text": "Fetihten sonra Ortodoks Patrikhanesi kapatılmıştır", "explanation": "Doğru cevap bu (yanlış ifade) — Fatih patrikhaneyi korudu; millet sistemiyle Ortodokslara özerklik tanındı." },
+      { "id": "B", "text": "Gemiler karadan Haliç'e indirilmiştir", "explanation": "Doğrudur — zincirle kapatılan Haliç'e 70'ten fazla gemi karadan geçirildi." },
+      { "id": "C", "text": "Kuşatmada büyük şahi topları kullanılmıştır", "explanation": "Doğrudur — Urban'ın döktüğü toplar surları dövmüştür." },
+      { "id": "D", "text": "Fetih, Bizans İmparatorluğu'nu sona erdirmiştir", "explanation": "Doğrudur — bin yıllık Doğu Roma kapanmıştır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-007",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Yükselme",
+    "difficulty": 2,
+    "stem": "Halifeliğin Osmanlı hanedanına geçmesi hangi seferin sonucudur?",
+    "choices": [
+      { "id": "A", "text": "Yavuz'un Mısır Seferi (Mercidabık-Ridaniye)", "explanation": "Doğru — 1517 Ridaniye ile Memlûk Devleti yıkıldı; halifelik ve kutsal emanetler İstanbul'a geçti." },
+      { "id": "B", "text": "Çaldıran Seferi", "explanation": "Çaldıran (1514) Safevilere karşıdır; halifelikle ilgisi yoktur — klasik tuzak." },
+      { "id": "C", "text": "Mohaç Seferi", "explanation": "Mohaç (1526) Macaristan'a karşı Kanuni zaferidir." },
+      { "id": "D", "text": "Otlukbeli Savaşı", "explanation": "Otlukbeli (1473) Akkoyunlulara karşı Fatih zaferidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-008",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Yükselme",
+    "difficulty": 1,
+    "stem": "1538 Preveze Deniz Zaferi'ni kazanan Osmanlı kaptan-ı deryası kimdir?",
+    "choices": [
+      { "id": "A", "text": "Barbaros Hayreddin Paşa", "explanation": "Doğru — Haçlı donanmasını Preveze'de yenerek Akdeniz'de Osmanlı üstünlüğünü kurdu; türbesi Beşiktaş'tadır." },
+      { "id": "B", "text": "Turgut Reis", "explanation": "Turgut Reis, Barbaros ekolünün büyük denizcisidir; Malta kuşatmasında şehit oldu." },
+      { "id": "C", "text": "Piri Reis", "explanation": "Piri Reis, dünya haritası ve Kitab-ı Bahriye ile ünlü haritacı-denizcidir." },
+      { "id": "D", "text": "Kılıç Ali Paşa", "explanation": "Kılıç Ali, İnebahtı sonrası donanmayı toparlayan kaptandır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-009",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Yükselme",
+    "difficulty": 2,
+    "stem": "Kanuni döneminde Fransa'ya verilen ve sonradan Osmanlı ekonomisini zora sokan ticari ayrıcalıklara ne ad verilir?",
+    "choices": [
+      { "id": "A", "text": "Kapitülasyon", "explanation": "Doğru — 1535'te Fransa'ya verilen ayrıcalıklar, 1740'ta sürekli hale gelip diğer devletlere yayılınca ekonomik bağımlılığa dönüştü; 1923 Lozan'la kaldırıldı." },
+      { "id": "B", "text": "Cizye", "explanation": "Cizye, gayrimüslimlerden alınan baş vergisidir." },
+      { "id": "C", "text": "İltizam", "explanation": "İltizam, vergi toplama hakkının ihalesidir." },
+      { "id": "D", "text": "Narh", "explanation": "Narh, devletin belirlediği tavan fiyattır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-010",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Teşkilat",
+    "difficulty": 2,
+    "stem": "Divan-ı Hümayun'da devlet maliyesinden sorumlu üye aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Defterdar", "explanation": "Doğru — gelir-gider defterlerini tutan defterdar, bugünkü maliye bakanının karşılığıdır." },
+      { "id": "B", "text": "Nişancı", "explanation": "Nişancı tuğra çeker, ferman ve tapu-tahrir kayıtlarını tutar." },
+      { "id": "C", "text": "Kazasker", "explanation": "Kazasker adalet ve eğitim işlerinden sorumludur." },
+      { "id": "D", "text": "Reisülküttap", "explanation": "Reisülküttap kâtiplerin başıdır; sonradan dışişleri niteliği kazanmıştır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-011",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Teşkilat",
+    "difficulty": 2,
+    "stem": "Padişah adına tuğra çeken ve arazi-tapu kayıtlarını tutan divan üyesi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Nişancı", "explanation": "Doğru — fermanlara tuğra çekmek ve tahrir defterlerini tutmak nişancının görevidir." },
+      { "id": "B", "text": "Defterdar", "explanation": "Defterdar maliyecidir; 'defter' benzerliği tuzaktır." },
+      { "id": "C", "text": "Sadrazam", "explanation": "Sadrazam padişah vekilidir; mührü taşır ama tuğrayı nişancı çeker." },
+      { "id": "D", "text": "Şeyhülislam", "explanation": "Şeyhülislam fetva makamıdır." }
+    ],
+    "correct": "A",
+    "trick": "Defter kelimesi şaşırtır: tahrir defteri → nişancı; maliye defteri → defterdar."
+  },
+  {
+    "id": "osmanli-tarihi-012",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Teşkilat",
+    "difficulty": 2,
+    "stem": "Osmanlı toprak düzeninde geliri 3.000-20.000 akçe arasındaki dirliklere verilen ad aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Tımar", "explanation": "Doğru — tımarlı sipahi bu gelirle geçinir ve cebelü (asker) beslerdi; sistemin en yaygın birimidir." },
+      { "id": "B", "text": "Has", "explanation": "Has, 100.000 akçe üstü — padişah ve vezirlere aittir." },
+      { "id": "C", "text": "Zeamet", "explanation": "Zeamet, 20.000-100.000 akçe arasıdır." },
+      { "id": "D", "text": "Vakıf", "explanation": "Vakıf, dirlik değil hayır kurumu mülküdür." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-013",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Teşkilat",
+    "difficulty": 2,
+    "stem": "Osmanlı'da gayrimüslim toplulukların din esasına göre örgütlenip iç işlerinde özerk olmasına ne ad verilir?",
+    "choices": [
+      { "id": "A", "text": "Millet sistemi", "explanation": "Doğru — Ortodoks, Ermeni ve Yahudi milletleri kendi dini liderleri altında evlilik, eğitim gibi işlerini yürütürdü." },
+      { "id": "B", "text": "Devşirme sistemi", "explanation": "Devşirme, Hristiyan çocukların kapıkulu için toplanmasıdır." },
+      { "id": "C", "text": "İltizam sistemi", "explanation": "İltizam vergi yöntemi, sistemle ilgisizdir." },
+      { "id": "D", "text": "Pençik sistemi", "explanation": "Pençik, savaş esirlerinin beşte birinin askere alınmasıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-014",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Teşkilat",
+    "difficulty": 2,
+    "stem": "Topkapı Sarayı'nda devlet adamı yetiştiren saray okulu aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Enderun", "explanation": "Doğru — devşirme kökenli yetenekli gençler Enderun'da eğitilir; sadrazamlığa kadar yükselebilirdi (Sokollu gibi)." },
+      { "id": "B", "text": "Sahn-ı Seman", "explanation": "Sahn-ı Seman, Fatih Külliyesi'nin yüksek medresesidir." },
+      { "id": "C", "text": "Nizamiye", "explanation": "Nizamiye, Büyük Selçuklu medreseleridir." },
+      { "id": "D", "text": "Darülfünun", "explanation": "Darülfünun, 19. yüzyılın üniversitesidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-015",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Duraklama",
+    "difficulty": 2,
+    "stem": "Osmanlı Devleti'nin ilk kez büyük çapta toprak kaybettiği antlaşma aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Karlofça (1699)", "explanation": "Doğru — 1683 Viyana bozgunu sonrası 16 yıllık savaşların faturası: Macaristan, Mora ve Podolya kaybedildi." },
+      { "id": "B", "text": "Küçük Kaynarca (1774)", "explanation": "Kaynarca da ağırdır ama 'ilk büyük kayıp' Karlofça'dır." },
+      { "id": "C", "text": "Pasarofça (1718)", "explanation": "Pasarofça, Karlofça'dan sonradır (Lale Devri'ni açar)." },
+      { "id": "D", "text": "Zitvatorok (1606)", "explanation": "Zitvatorok'ta toprak kaybı değil, protokol eşitliği söz konusudur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-016",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Lale Devri",
+    "difficulty": 2,
+    "stem": "Osmanlı'da ilk Türkçe kitapları basan matbaayı kuran kişi ve kuruluş yılı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "İbrahim Müteferrika — 1727", "explanation": "Doğru — Lale Devri'nde Said Efendi ile kurduğu matbaanın ilk kitabı Vankulu Lügati'dir (1729)." },
+      { "id": "B", "text": "Takvimhane Nazırı — 1831", "explanation": "1831, ilk resmi gazetenin (Takvim-i Vekayi) tarihidir." },
+      { "id": "C", "text": "Ahmed Cevdet — 1860", "explanation": "1860'lar özel gazeteciliğin (Tercüman-ı Ahval) dönemidir." },
+      { "id": "D", "text": "Ebussuud Efendi — 1574", "explanation": "Ebussuud, Kanuni'nin şeyhülislamıdır; matbaayla ilgisi yoktur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-017",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Lale Devri",
+    "difficulty": 3,
+    "stem": "Lale Devri'ni sona erdiren ayaklanma aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Patrona Halil İsyanı (1730)", "explanation": "Doğru — isyanla III. Ahmed tahttan indirildi, Nevşehirli Damat İbrahim Paşa öldürüldü." },
+      { "id": "B", "text": "Kabakçı Mustafa İsyanı (1807)", "explanation": "Kabakçı, III. Selim'i ve Nizam-ı Cedid'i deviren isyandır." },
+      { "id": "C", "text": "31 Mart Olayı (1909)", "explanation": "31 Mart, II. Meşrutiyet dönemindedir." },
+      { "id": "D", "text": "Çınar Vakası (1656)", "explanation": "Çınar (Vaka-i Vakvakiye), 17. yüzyıl asker ayaklanmasıdır." }
+    ],
+    "correct": "A",
+    "trick": "İsyan-eşleşmesi: Patrona→Lale Devri; Kabakçı→Nizam-ı Cedid; 31 Mart→Meşrutiyet."
+  },
+  {
+    "id": "osmanli-tarihi-018",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Gerileme",
+    "difficulty": 3,
+    "stem": "Küçük Kaynarca Antlaşması'nın (1774) sonuçlarından biri OLMAYAN aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kırım'ın doğrudan Osmanlı'ya bağlanması", "explanation": "Doğru cevap bu — tam tersine Kırım'a 'bağımsızlık' verildi ve 1783'te Rusya ilhak etti." },
+      { "id": "B", "text": "Rusya'nın Karadeniz'de donanma bulundurabilmesi", "explanation": "Bu sonuç gerçekleşmiştir; Karadeniz Türk gölü olmaktan çıktı." },
+      { "id": "C", "text": "Rusya'nın Osmanlı Ortodoksları üzerinde koruma iddiası kazanması", "explanation": "Bu hüküm, Rusya'nın iç işlerine karışma kapısı oldu." },
+      { "id": "D", "text": "Rusya'ya kapitülasyon benzeri ticari haklar verilmesi", "explanation": "Bu da antlaşmanın hükümlerindendir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-019",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Modernleşme",
+    "difficulty": 1,
+    "stem": "1826'da Yeniçeri Ocağı'nı kaldıran padişah aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "II. Mahmud", "explanation": "Doğru — 'Vaka-i Hayriye' (hayırlı olay) ile ocak kaldırıldı; yerine Asakir-i Mansure-i Muhammediye kuruldu." },
+      { "id": "B", "text": "III. Selim", "explanation": "III. Selim, Nizam-ı Cedid'i kurdu ama ocağı kaldıramadan devrildi." },
+      { "id": "C", "text": "Abdülmecid", "explanation": "Abdülmecid, Tanzimat'ın padişahıdır." },
+      { "id": "D", "text": "IV. Murad", "explanation": "IV. Murad disiplin sağlamıştır ama ocağı kaldırmamıştır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-020",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Modernleşme",
+    "difficulty": 2,
+    "stem": "1839'da Gülhane'de okunan ve Osmanlı'da hukuk devletine geçişin ilk adımı sayılan belge aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Tanzimat Fermanı", "explanation": "Doğru — Mustafa Reşid Paşa'nın okuduğu ferman; can, mal, namus güvencesi ve kanun üstünlüğü ilkesini getirdi." },
+      { "id": "B", "text": "Islahat Fermanı", "explanation": "Islahat (1856), gayrimüslim eşitliğine odaklanan ikinci fermandır." },
+      { "id": "C", "text": "Sened-i İttifak", "explanation": "Sened-i İttifak (1808), padişah-ayan sözleşmesidir." },
+      { "id": "D", "text": "Kanun-i Esasi", "explanation": "Kanun-i Esasi (1876), ilk anayasadır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-021",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Modernleşme",
+    "difficulty": 2,
+    "stem": "Osmanlı Devleti'nin ilk anayasası ve ilan yılı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kanun-i Esasi — 1876", "explanation": "Doğru — Mithat Paşa öncülüğünde ilan edildi; I. Meşrutiyet'le ilk kez meclis açıldı." },
+      { "id": "B", "text": "Teşkilat-ı Esasiye — 1921", "explanation": "1921 Anayasası, TBMM dönemine aittir." },
+      { "id": "C", "text": "Tanzimat Fermanı — 1839", "explanation": "Tanzimat ferman niteliğindedir; anayasa değildir." },
+      { "id": "D", "text": "Mecelle — 1868", "explanation": "Mecelle, Ahmed Cevdet Paşa'nın medeni kanun çalışmasıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-022",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Yükselme",
+    "difficulty": 3,
+    "stem": "Ölümü (1579) Osmanlı Yükselme Dönemi'nin sonu kabul edilen, üç padişaha sadrazamlık yapmış devlet adamı kimdir?",
+    "choices": [
+      { "id": "A", "text": "Sokollu Mehmed Paşa", "explanation": "Doğru — Kanuni, II. Selim ve III. Murad'a sadrazamlık yaptı; Don-Volga ve Süveyş kanal projeleri vizyonuyla ünlüdür." },
+      { "id": "B", "text": "Pargalı İbrahim Paşa", "explanation": "Pargalı, Kanuni'nin ilk dönem sadrazamıdır (idamı 1536)." },
+      { "id": "C", "text": "Köprülü Mehmed Paşa", "explanation": "Köprülü, 17. yüzyıl toparlanma dönemine aittir." },
+      { "id": "D", "text": "Çandarlı Halil Paşa", "explanation": "Çandarlı, fetih öncesinin veziridir; Fatih tarafından idam edildi." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-023",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Teşkilat",
+    "difficulty": 3,
+    "stem": "Osmanlı esnaf teşkilatı loncaların kökenindeki, Anadolu'da dayanışma ve ahlak temelli kurulan örgütlenme aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Ahilik", "explanation": "Doğru — Ahi Evran'ın (Kırşehir) kurduğu ahilik, esnaf ahlakı ve çırak-kalfa-usta düzeninin temelidir." },
+      { "id": "B", "text": "Mevlevilik", "explanation": "Mevlevilik tarikattır; esnaf örgütü değildir." },
+      { "id": "C", "text": "İltizam", "explanation": "İltizam vergi yöntemidir." },
+      { "id": "D", "text": "Müsadere", "explanation": "Müsadere, mala el koyma uygulamasıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-024",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Fetih",
+    "difficulty": 2,
+    "stem": "İstanbul'u kuşatan İLK Osmanlı padişahı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Yıldırım Bayezid", "explanation": "Doğru — 1391'den itibaren kuşattı ve Anadolu Hisarı'nı yaptırdı; Ankara Savaşı süreci fethi engelledi." },
+      { "id": "B", "text": "Fatih Sultan Mehmed", "explanation": "Fatih kenti fetheden padişahtır; ilk kuşatan değildir — soru 'ilk kuşatan' diyor." },
+      { "id": "C", "text": "II. Murad", "explanation": "II. Murad da kuşatmıştır (1422) ama ilk değildir." },
+      { "id": "D", "text": "Orhan Gazi", "explanation": "Orhan döneminde kuşatma yapılmamıştır." }
+    ],
+    "correct": "A",
+    "trick": "'İlk kuşatan' (Yıldırım) ile 'fetheden' (Fatih) farklı sorulardır — soru kökünü iki kez oku."
+  },
+  {
+    "id": "osmanli-tarihi-025",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Modernleşme",
+    "difficulty": 2,
+    "stem": "Osmanlı'nın ilk resmi gazetesi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Takvim-i Vekayi", "explanation": "Doğru — 1831'de II. Mahmud döneminde yayımlanmaya başladı." },
+      { "id": "B", "text": "Tercüman-ı Ahval", "explanation": "Tercüman-ı Ahval (1860), ilk ÖZEL Türkçe gazetedir." },
+      { "id": "C", "text": "Ceride-i Havadis", "explanation": "Ceride-i Havadis (1840), yarı resmi İngiliz girişimidir." },
+      { "id": "D", "text": "İkdam", "explanation": "İkdam, geç dönem (1894) gazetesidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-026",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Dağılma",
+    "difficulty": 2,
+    "stem": "93 Harbi olarak bilinen savaş ve sonucundaki antlaşmalar aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "1877-78 Osmanlı-Rus Savaşı — Ayastefanos ve Berlin", "explanation": "Doğru — Rumi 1293'ten dolayı '93 Harbi' denir; ağır Ayastefanos, Berlin'de kısmen yumuşatıldı; büyük göç dalgası yaşandı." },
+      { "id": "B", "text": "Kırım Savaşı — Paris", "explanation": "Kırım Savaşı 1853-56'dır; Paris 1856'da imzalandı." },
+      { "id": "C", "text": "Balkan Savaşı — Londra", "explanation": "Balkan Savaşları 1912-13'tür." },
+      { "id": "D", "text": "I. Dünya Savaşı — Sevr", "explanation": "Sevr 1920 tarihlidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-027",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Dağılma",
+    "difficulty": 2,
+    "stem": "Osmanlı Devleti'ni hukuken sona erdiren gelişme aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "TBMM'nin 1 Kasım 1922'de saltanatı kaldırması", "explanation": "Doğru — saltanatın kaldırılmasıyla 623 yıllık devlet sona erdi; Vahdeddin ülkeden ayrıldı." },
+      { "id": "B", "text": "Mondros Mütarekesi'nin imzalanması", "explanation": "Mondros (1918) fiilen teslimiyettir ama hukuken son değildir." },
+      { "id": "C", "text": "İstanbul'un işgali", "explanation": "İşgal (1920) devleti hukuken bitirmedi." },
+      { "id": "D", "text": "Halifeliğin kaldırılması", "explanation": "Halifelik 3 Mart 1924'te, saltanattan sonra kaldırıldı." }
+    ],
+    "correct": "A",
+    "trick": "Sıra: saltanat 1922 → cumhuriyet 1923 → halifelik 1924. Üç tarih çapraz sorulur."
+  },
+  {
+    "id": "osmanli-tarihi-028",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Yükselme",
+    "difficulty": 2,
+    "stem": "Fatih'in devlet teşkilatını yazılı hale getiren düzenlemesi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kanunname-i Ali Osman", "explanation": "Doğru — protokol, ceza ve teşkilat hükümlerini içeren ilk Osmanlı kanunnamesidir." },
+      { "id": "B", "text": "Mecelle", "explanation": "Mecelle, 19. yüzyıl medeni hukuk derlemesidir." },
+      { "id": "C", "text": "Kanun-i Esasi", "explanation": "Kanun-i Esasi, 1876 anayasasıdır." },
+      { "id": "D", "text": "Tevhid-i Tedrisat", "explanation": "Tevhid-i Tedrisat, 1924 Cumhuriyet kanunudur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-029",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Kuruluş",
+    "difficulty": 3,
+    "stem": "Haçlılara karşı kazanılan 1396 tarihli Niğbolu Zaferi hangi padişah dönemindedir?",
+    "choices": [
+      { "id": "A", "text": "Yıldırım Bayezid", "explanation": "Doğru — Niğbolu zaferi sonrası Abbasi halifesi Yıldırım'a 'Sultan-ı İklim-i Rum' unvanı göndermiştir." },
+      { "id": "B", "text": "I. Murad", "explanation": "I. Murad 1389'da şehit olmuştu." },
+      { "id": "C", "text": "II. Murad", "explanation": "II. Murad'ın Haçlı zaferleri Varna (1444) ve II. Kosova'dır (1448)." },
+      { "id": "D", "text": "Çelebi Mehmed", "explanation": "Çelebi Mehmed dönemi iç toparlanma dönemidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-030",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Saraylar",
+    "difficulty": 2,
+    "stem": "Osmanlı padişahlarının yaklaşık 400 yıl yaşayıp devleti yönettiği, bugün müze olan saray aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Topkapı Sarayı", "explanation": "Doğru — Fatih'in yaptırdığı saray, Dolmabahçe'ye taşınılana (1856) dek yönetim merkeziydi; kutsal emanetler buradadır." },
+      { "id": "B", "text": "Dolmabahçe Sarayı", "explanation": "Dolmabahçe 1856 sonrası dönemin sarayıdır." },
+      { "id": "C", "text": "Yıldız Sarayı", "explanation": "Yıldız, II. Abdülhamid'in tercih ettiği saraydır." },
+      { "id": "D", "text": "Beylerbeyi Sarayı", "explanation": "Beylerbeyi, yazlık saray ve devlet konukevidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-031",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Duraklama",
+    "difficulty": 3,
+    "stem": "1683 II. Viyana Kuşatması'nı yöneten ve başarısızlık üzerine idam edilen sadrazam aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Merzifonlu Kara Mustafa Paşa", "explanation": "Doğru — kuşatma Kırım kuvvetlerinin geçit vermesiyle gelen Lehistan ordusuyla bozguna döndü; paşa Belgrad'da idam edildi." },
+      { "id": "B", "text": "Köprülü Fazıl Ahmed Paşa", "explanation": "Fazıl Ahmed, Uyvar'ın fatihi olan önceki sadrazamdır." },
+      { "id": "C", "text": "Sokollu Mehmed Paşa", "explanation": "Sokollu bir asır önce yaşamıştır." },
+      { "id": "D", "text": "Alemdar Mustafa Paşa", "explanation": "Alemdar, 1808 Sened-i İttifak'ın sadrazamıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-032",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Modernleşme",
+    "difficulty": 3,
+    "stem": "III. Selim'in kurduğu Batı tarzı ordu ve onu deviren isyan aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Nizam-ı Cedid — Kabakçı Mustafa İsyanı", "explanation": "Doğru — 1807 isyanıyla Nizam-ı Cedid dağıtıldı, III. Selim tahttan indirildi (sonra şehit edildi)." },
+      { "id": "B", "text": "Asakir-i Mansure — Patrona Halil İsyanı", "explanation": "Asakir-i Mansure, II. Mahmud'un 1826 sonrası ordusudur; Patrona ise 1730'dadır." },
+      { "id": "C", "text": "Yeniçeri Ocağı — Vaka-i Hayriye", "explanation": "Vaka-i Hayriye isyan değil, ocağın kaldırılmasıdır." },
+      { "id": "D", "text": "Eşkinci Ocağı — 31 Mart Olayı", "explanation": "Eşkinci denemesi 1826'da yeniçerileri isyan ettirdi; 31 Mart 1909'dadır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-033",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Kültür",
+    "difficulty": 2,
+    "stem": "Dünya haritası ve 'Kitab-ı Bahriye' adlı denizcilik kitabıyla ünlü Osmanlı denizcisi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Piri Reis", "explanation": "Doğru — 1513 tarihli haritası Amerika kıyılarını gösteren en eski haritalardandır; Topkapı'da saklanır." },
+      { "id": "B", "text": "Barbaros Hayreddin", "explanation": "Barbaros amiral olarak ünlüdür; haritacı değildir." },
+      { "id": "C", "text": "Seydi Ali Reis", "explanation": "Seydi Ali Reis, 'Mir'atü'l-Memalik' seyahatnamesiyle bilinir." },
+      { "id": "D", "text": "Katip Çelebi", "explanation": "Katip Çelebi, Cihannüma'nın yazarı bilgindir; denizci değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-034",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Kültür",
+    "difficulty": 2,
+    "stem": "17. yüzyılda 50 yılı aşkın gezilerini 'Seyahatname'de toplayan Osmanlı gezgini aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Evliya Çelebi", "explanation": "Doğru — 10 ciltlik Seyahatname, dönemin coğrafya ve kültür ansiklopedisidir; UNESCO 2011'i Evliya Çelebi yılı ilan etmiştir." },
+      { "id": "B", "text": "Katip Çelebi", "explanation": "Katip Çelebi bilgindir (Cihannüma, Keşfü'z-Zünun) ama gezgin-yazar Evliya'dır." },
+      { "id": "C", "text": "İbn Battuta", "explanation": "İbn Battuta, 14. yüzyıl Faslı gezginidir — Osmanlı değildir." },
+      { "id": "D", "text": "Naima", "explanation": "Naima, ilk resmi vakanüvistir (tarih yazıcısı)." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-035",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Dağılma",
+    "difficulty": 2,
+    "stem": "Mondros Mütarekesi'nin işgallere hukuki zemin oluşturan ünlü maddesi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "7. madde — güvenliği tehdit eden yerlerin işgal edilebilmesi", "explanation": "Doğru — İtilaf Devletleri bu maddeye dayanarak stratejik noktaları işgal etti." },
+      { "id": "B", "text": "12. madde — haberleşmenin denetimi", "explanation": "Haberleşme denetimi vardır ama işgal dayanağı 7. maddedir." },
+      { "id": "C", "text": "24. madde — Vilayat-ı Sitte'ye müdahale", "explanation": "24. madde altı doğu vilayetiyle ilgilidir; genel işgal zemini 7'dir." },
+      { "id": "D", "text": "1. madde — Boğazların açılması", "explanation": "Boğazlar maddesi ayrı bir tesliyettir; işgallerin genel dayanağı değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-036",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Yükselme",
+    "difficulty": 2,
+    "stem": "1526'da Macaristan ordusunun yaklaşık iki saatte yenilgiye uğratıldığı savaş aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Mohaç Meydan Savaşı", "explanation": "Doğru — Kanuni'nin zaferiyle Macaristan Osmanlı etkisine girdi; 'dünyanın en kısa meydan savaşlarından' diye anılır." },
+      { "id": "B", "text": "I. Viyana Kuşatması", "explanation": "Viyana (1529) kuşatmadır ve sonuçsuz kalmıştır." },
+      { "id": "C", "text": "Varna Savaşı", "explanation": "Varna (1444), II. Murad'ın Haçlı zaferidir." },
+      { "id": "D", "text": "Zenta", "explanation": "Zenta (1697), Karlofça'ya giden Osmanlı yenilgisidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-037",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Teşkilat",
+    "difficulty": 3,
+    "stem": "Osmanlı'da fetva makamı olan ve zamanla divan protokolünün en üst din görevlisi haline gelen makam aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Şeyhülislam", "explanation": "Doğru — savaş ilanından padişah kararlarına kadar fetvasına başvurulurdu; Ebussuud Efendi en ünlüsüdür." },
+      { "id": "B", "text": "Kazasker", "explanation": "Kazasker yargı-eğitim yöneticisidir; fetva makamı değildir." },
+      { "id": "C", "text": "Nakibüleşraf", "explanation": "Nakibüleşraf, seyyid ve şeriflerin kayıtlarını tutar." },
+      { "id": "D", "text": "Reisülküttap", "explanation": "Reisülküttap, kalem/dışişleri görevlisidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-038",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Dağılma",
+    "difficulty": 3,
+    "stem": "Balkan Savaşları sonucunda kaybedilip İkinci Balkan Savaşı'nda geri alınan şehir aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Edirne", "explanation": "Doğru — I. Balkan Savaşı'nda Bulgarlara geçen Edirne, 1913'te Enver Bey komutasında geri alındı." },
+      { "id": "B", "text": "Selanik", "explanation": "Selanik savaşsız Yunanlara geçti ve geri alınamadı." },
+      { "id": "C", "text": "Üsküp", "explanation": "Üsküp kaybedildi ve geri alınamadı." },
+      { "id": "D", "text": "Sofya", "explanation": "Sofya 1878'den beri Bulgar yönetimindeydi." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-039",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Kültür",
+    "difficulty": 3,
+    "stem": "Kanuni döneminin, kararlarıyla Osmanlı hukukunu şekillendiren ünlü şeyhülislamı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Ebussuud Efendi", "explanation": "Doğru — örfi hukukla şer'i hukuku uzlaştıran fetvalarıyla 'Hoca Çelebi' diye anılır; Kanuni'nin cenaze namazını kıldırmıştır." },
+      { "id": "B", "text": "Zembilli Ali Efendi", "explanation": "Zembilli, II. Bayezid-Yavuz dönemlerinin şeyhülislamıdır." },
+      { "id": "C", "text": "Molla Fenari", "explanation": "Molla Fenari, İLK şeyhülislam kabul edilir (II. Murad dönemi)." },
+      { "id": "D", "text": "Ahmed Cevdet Paşa", "explanation": "Cevdet Paşa, 19. yüzyıl hukukçusudur (Mecelle)." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-040",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Saraylar",
+    "difficulty": 2,
+    "stem": "Sultan Abdülmecid'in Topkapı'dan taşındığı, Batı mimarisi üslubundaki saray ve taşınma dönemi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Dolmabahçe Sarayı — 1856", "explanation": "Doğru — Balyan ailesinin inşa ettiği saray, imparatorluğun son dönem yönetim merkezi oldu." },
+      { "id": "B", "text": "Yıldız Sarayı — 1876", "explanation": "Yıldız'ı esas kullanan II. Abdülhamid'dir." },
+      { "id": "C", "text": "Çırağan Sarayı — 1871", "explanation": "Çırağan kısa süre saray olarak kullanıldı; Abdülmecid'in taşındığı yer Dolmabahçe'dir." },
+      { "id": "D", "text": "Beylerbeyi Sarayı — 1865", "explanation": "Beylerbeyi yazlık saraydır." }
+    ],
+    "correct": "A"
+  }
+]
