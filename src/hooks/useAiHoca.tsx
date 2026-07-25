@@ -17,10 +17,19 @@ export interface AiQuestionContext {
   subtopic?: string;
 }
 
+export interface AiTopicContext {
+  topicTitle: string;
+  sectionHeading?: string;
+  grounding?: string;
+  tricks?: string[];
+  examWeight?: number;
+}
+
 interface AiHocaState {
   open: boolean;
   title: string;
   question?: AiQuestionContext;
+  topic?: AiTopicContext;
   turns: ChatTurn[];
   loading: boolean;
   error: string | null;
@@ -29,6 +38,10 @@ interface AiHocaState {
 interface AiHocaApi extends AiHocaState {
   /** Bir soruyu AI Hoca'ya taşır ve yapılandırılmış açıklamayı başlatır. */
   askQuestion: (question: Question, selected?: ChoiceId) => void;
+  /** Konu anlatımını (ya da tek bir bölümünü) derinleştirir. */
+  expandTopic: (topic: AiTopicContext) => void;
+  /** Konu bağlamıyla sohbet açar (derinleştirme metni üretmeden). */
+  openTopicChat: (topic: AiTopicContext) => void;
   /** Soru bağlamı olmadan serbest sohbet açar. */
   openFreeChat: (seed?: string) => void;
   send: (text: string) => void;
@@ -94,11 +107,48 @@ export function AiHocaProvider({ children }: { children: ReactNode }) {
       .catch(() => setState((s) => ({ ...s, loading: false, error: 'AI Hoca şu an yanıt veremiyor.' })));
   }, []);
 
+  const expandTopic = useCallback((topic: AiTopicContext) => {
+    const key = `mks:ai:konu:${topic.topicTitle}:${topic.sectionHeading ?? 'tam'}`;
+    const cached = sessionStorage.getItem(key);
+
+    setState({
+      open: true,
+      title: topic.sectionHeading ?? topic.topicTitle,
+      question: undefined,
+      topic,
+      turns: cached ? [{ role: 'model', text: cached }] : [],
+      loading: !cached,
+      error: null,
+    });
+
+    if (cached) return;
+
+    callApi({ mode: 'expand', topic })
+      .then((text) => {
+        sessionStorage.setItem(key, text);
+        setState((s) => ({ ...s, turns: [{ role: 'model', text }], loading: false }));
+      })
+      .catch(() => setState((s) => ({ ...s, loading: false, error: 'AI Hoca şu an yanıt veremiyor.' })));
+  }, []);
+
+  const openTopicChat = useCallback((topic: AiTopicContext) => {
+    setState({
+      open: true,
+      title: topic.topicTitle,
+      question: undefined,
+      topic,
+      turns: [],
+      loading: false,
+      error: null,
+    });
+  }, []);
+
   const openFreeChat = useCallback((seed?: string) => {
     setState({
       open: true,
       title: 'AI Hoca',
       question: undefined,
+      topic: undefined,
       turns: seed ? [{ role: 'model', text: seed }] : [],
       loading: false,
       error: null,
@@ -113,7 +163,7 @@ export function AiHocaProvider({ children }: { children: ReactNode }) {
       const turns: ChatTurn[] = [...s.turns, { role: 'user', text: trimmed }];
       const history = turns.map((t) => ({ role: t.role, text: t.text }));
 
-      callApi({ mode: 'chat', question: s.question, messages: history })
+      callApi({ mode: 'chat', question: s.question, topic: s.topic, messages: history })
         .then((answer) =>
           setState((cur) => ({ ...cur, turns: [...cur.turns, { role: 'model', text: answer }], loading: false })),
         )
@@ -128,8 +178,8 @@ export function AiHocaProvider({ children }: { children: ReactNode }) {
   const close = useCallback(() => setState((s) => ({ ...s, open: false })), []);
 
   const value = useMemo<AiHocaApi>(
-    () => ({ ...state, askQuestion, openFreeChat, send, close }),
-    [state, askQuestion, openFreeChat, send, close],
+    () => ({ ...state, askQuestion, expandTopic, openTopicChat, openFreeChat, send, close }),
+    [state, askQuestion, expandTopic, openTopicChat, openFreeChat, send, close],
   );
 
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>;

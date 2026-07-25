@@ -1,8 +1,10 @@
 import { useState } from 'react';
 import { Link, Navigate, useParams } from 'react-router-dom';
-import { AlertTriangle, ArrowLeft, ChevronDown } from 'lucide-react';
+import { motion } from 'framer-motion';
+import { AlertTriangle, ArrowLeft, ChevronDown, MessageCircleQuestion, Sparkles } from 'lucide-react';
 import { MarkdownView } from '@/components/MarkdownView';
 import { FlipCard } from '@/components/Flashcard';
+import { useAiHoca, type AiTopicContext } from '@/hooks/useAiHoca';
 import { topics, topicQuestions } from '@/content/index';
 import { TOPICS, TOPIC_IDS, type TopicId } from '@/lib/constants';
 
@@ -13,6 +15,7 @@ export default function KonuDetay() {
   const { topicId } = useParams();
   const [tab, setTab] = useState<Tab>('Anlatım');
   const [openSection, setOpenSection] = useState(0);
+  const { expandTopic, openTopicChat } = useAiHoca();
 
   if (!topicId || !TOPIC_IDS.includes(topicId as TopicId)) return <Navigate to="/konular" replace />;
   const id = topicId as TopicId;
@@ -20,15 +23,50 @@ export default function KonuDetay() {
   const pack = topics.find((t) => t.id === id);
   const bank = topicQuestions(id);
 
+  /** Modelin zemini: uygulamadaki doğrulanmış not metni. */
+  const topicCtx = (sectionHeading?: string, grounding?: string): AiTopicContext => ({
+    topicTitle: meta.title,
+    sectionHeading,
+    grounding: grounding ?? pack?.fullNotes.map((s) => `## ${s.heading}\n${s.markdown}`).join('\n\n'),
+    tricks: pack?.tricks,
+    examWeight: meta.examWeight,
+  });
+
   return (
     <div>
       <Link to="/konular" className="tap-target mb-3 inline-flex items-center gap-1 text-sm text-muted hover:text-ink">
         <ArrowLeft size={15} aria-hidden /> Konular
       </Link>
       <h1 className="font-display mb-1 text-2xl font-semibold lg:text-3xl">{meta.title}</h1>
-      <p className="mb-5 text-sm text-muted">
+      <p className="mb-4 text-sm text-muted">
         {bank.length} soru • Denemede ~{meta.examWeight} soru bu konudan gelir
       </p>
+
+      {/* Konu düzeyinde AI: anlatımın ötesine geçmek için */}
+      {pack && (
+        <div className="mb-5 flex flex-wrap gap-2">
+          <motion.button
+            type="button"
+            whileHover={{ y: -1 }}
+            whileTap={{ scale: 0.98 }}
+            onClick={() => expandTopic(topicCtx())}
+            className="inline-flex items-center gap-2 rounded-full border border-kobalt/40 bg-kobalt/10 px-4 py-2.5 text-sm font-medium text-kobalt transition-colors hover:bg-kobalt/15"
+          >
+            <Sparkles size={16} aria-hidden />
+            Konuyu derinleştir
+          </motion.button>
+          <motion.button
+            type="button"
+            whileHover={{ y: -1 }}
+            whileTap={{ scale: 0.98 }}
+            onClick={() => openTopicChat(topicCtx())}
+            className="inline-flex items-center gap-2 rounded-full border border-line bg-surface px-4 py-2.5 text-sm text-muted transition-colors hover:border-kobalt/40 hover:text-kobalt"
+          >
+            <MessageCircleQuestion size={16} aria-hidden />
+            Bu konuyu AI Hoca'ya sor
+          </motion.button>
+        </div>
+      )}
 
       {!pack ? (
         <div className="rounded-(--radius-card) border border-line bg-surface p-8 text-center text-muted">
@@ -73,6 +111,14 @@ export default function KonuDetay() {
                   {openSection === i && (
                     <div className="border-t border-line px-5 py-4">
                       <MarkdownView>{section.markdown}</MarkdownView>
+                      <button
+                        type="button"
+                        onClick={() => expandTopic(topicCtx(section.heading, section.markdown))}
+                        className="mt-4 inline-flex items-center gap-2 rounded-lg border border-kobalt/35 bg-kobalt/8 px-3.5 py-2 text-xs font-medium text-kobalt transition-colors hover:bg-kobalt/15"
+                      >
+                        <Sparkles size={14} aria-hidden />
+                        Bu bölümü derinleştir
+                      </button>
                     </div>
                   )}
                 </section>
@@ -84,6 +130,14 @@ export default function KonuDetay() {
             <div className="rounded-(--radius-card) border border-altin/30 bg-surface p-5">
               <p className="mb-4 text-xs font-medium tracking-widest text-altin">SINAV SABAHI OKUMASI</p>
               <MarkdownView large>{pack.shortNotes}</MarkdownView>
+              <button
+                type="button"
+                onClick={() => expandTopic(topicCtx('Sınav sabahı özeti', pack.shortNotes))}
+                className="mt-5 inline-flex items-center gap-2 rounded-lg border border-kobalt/35 bg-kobalt/8 px-3.5 py-2 text-xs font-medium text-kobalt transition-colors hover:bg-kobalt/15"
+              >
+                <Sparkles size={14} aria-hidden />
+                Özeti genişlet
+              </button>
             </div>
           )}
 

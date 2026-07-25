@@ -18,9 +18,17 @@ const QUICK_PROMPTS_FREE = [
   'UNESCO listemizi tarih sırasıyla ver',
 ];
 
+const QUICK_PROMPTS_TOPIC = [
+  'Bu konuyu 20 maddede özetle',
+  'Kronolojik tablo çıkar',
+  'Bu konudan bana 5 zor soru sor',
+  'En sık karıştırılan ayrımlar neler?',
+  'Sınavda bu konudan ne çıkar?',
+];
+
 /** Sağdan açılan AI Hoca paneli — her sorudan ve serbest sohbetten çağrılır. */
 export function AiHocaPanel() {
-  const { open, title, question, turns, loading, error, send, close } = useAiHoca();
+  const { open, title, question, topic, turns, loading, error, send, close } = useAiHoca();
   const [draft, setDraft] = useState('');
   const scrollRef = useRef<HTMLDivElement>(null);
 
@@ -40,7 +48,7 @@ export function AiHocaPanel() {
     setDraft('');
   };
 
-  const quick = question ? QUICK_PROMPTS_WITH_QUESTION : QUICK_PROMPTS_FREE;
+  const quick = question ? QUICK_PROMPTS_WITH_QUESTION : topic ? QUICK_PROMPTS_TOPIC : QUICK_PROMPTS_FREE;
 
   return (
     <AnimatePresence>
@@ -71,17 +79,21 @@ export function AiHocaPanel() {
               </span>
               <div className="min-w-0 flex-1">
                 <p className="font-display font-semibold leading-tight">AI Hoca</p>
-                <p className="truncate text-xs text-muted">{question ? title : 'Aklına takılan her şeyi sor'}</p>
+                <p className="truncate text-xs text-muted">
+                  {question || topic ? title : 'Aklına takılan her şeyi sor'}
+                </p>
               </div>
               <button type="button" onClick={close} aria-label="Kapat" className="text-muted transition-colors hover:text-ink">
                 <X size={20} />
               </button>
             </header>
 
-            {/* Soru bağlamı */}
-            {question && (
+            {/* Bağlam şeridi */}
+            {(question || topic) && (
               <div className="border-b border-line bg-ground/50 px-5 py-3">
-                <p className="line-clamp-3 text-xs leading-relaxed text-muted">{question.stem}</p>
+                <p className="line-clamp-3 text-xs leading-relaxed text-muted">
+                  {question ? question.stem : `${topic!.topicTitle}${topic!.sectionHeading ? ` — ${topic!.sectionHeading}` : ''}`}
+                </p>
               </div>
             )}
 

@@ -19,9 +19,23 @@ export interface AiHocaTurn {
   text: string;
 }
 
+/** Konu anlatımını derinleştirme bağlamı: doğrulanmış notlar modele zemin olur. */
+export interface AiHocaTopic {
+  topicTitle: string;
+  /** Derinleştirilecek bölümün başlığı (yoksa konunun tamamı). */
+  sectionHeading?: string;
+  /** Uygulamadaki doğrulanmış not metni — modelin dayanağı. */
+  grounding?: string;
+  /** Konunun bilinen tuzakları; tekrar üretilmesin diye modele verilir. */
+  tricks?: string[];
+  /** Denemede bu konudan kaç soru geldiği. */
+  examWeight?: number;
+}
+
 export interface AiHocaRequest {
-  mode?: 'explain' | 'chat';
+  mode?: 'explain' | 'chat' | 'expand';
   question?: AiHocaQuestion;
+  topic?: AiHocaTopic;
   messages?: AiHocaTurn[];
 }
 
@@ -83,6 +97,37 @@ Yalnızca kesin bildiğin türevleri yaz.)
 (aynı konudan 2-3 bağlantılı kesin olgu, madde madde)`;
 }
 
+function topicContext(t: AiHocaTopic): string {
+  const parts = [`KONU: ${t.topicTitle}`];
+  if (t.examWeight) parts.push(`Denemede bu konudan ~${t.examWeight} soru gelir.`);
+  if (t.sectionHeading) parts.push(`BÖLÜM: ${t.sectionHeading}`);
+  if (t.grounding) parts.push(`ÖĞRENCİNİN ELİNDEKİ DOĞRULANMIŞ NOT:\n"""\n${t.grounding.slice(0, 6000)}\n"""`);
+  if (t.tricks?.length) parts.push(`ÖĞRENCİNİN BİLDİĞİ TUZAKLAR (tekrarlama):\n- ${t.tricks.slice(0, 12).join('\n- ')}`);
+  return parts.join('\n\n');
+}
+
+function expandPrompt(t: AiHocaTopic): string {
+  const scope = t.sectionHeading ? `"${t.sectionHeading}" bölümünü` : 'bu konuyu';
+  return `${topicContext(t)}
+
+Görev: Yukarıdaki notu temel alarak ${scope} MKS düzeyinde DERİNLEŞTİR.
+Nottaki bilgileri tekrar etmek yerine üzerine inşa et; eksik kalan ayrıntıları tamamla.
+
+Şu yapıda yaz:
+### Derinlemesine anlatım
+(Notta değinilmeyen ama sınavda sorulabilecek ayrıntılar: kimler, nerede, ne zaman,
+hangi eser/olay. Akıcı paragraflar, gereksiz süsleme yok.)
+### Tablo / kronoloji
+(Uygunsa markdown tablo veya sıralı liste ile eşleştirmeleri topla.)
+### Sınavda nasıl sorulur
+(Bu bölümden çıkabilecek 4-5 soru tipini "Soru → Cevap" biçiminde yaz.)
+### Yeni tuzaklar
+(Öğrencinin listesinde OLMAYAN, karıştırılması muhtemel 3-4 ayrım.)
+
+Kurallar: Yalnızca kesin bildiğin olguları yaz. Emin olmadığın tarihi, ismi veya sayıyı
+hiç yazma. Uydurma eser/kişi/olay üretme.`;
+}
+
 function createClient(env: AiHocaEnv): GoogleGenAI {
   if (!env.GOOGLE_CLOUD_PROJECT || !env.GOOGLE_CREDENTIALS_JSON) {
     throw new Error('Vertex AI yapılandırması eksik (GOOGLE_CLOUD_PROJECT / GOOGLE_CREDENTIALS_JSON)');
@@ -106,12 +151,17 @@ export async function runAiHoca(req: AiHocaRequest, env: AiHocaEnv): Promise<str
   if (mode === 'explain') {
     if (!req.question) throw new Error('explain modu için soru gerekli');
     contents = [{ role: 'user', parts: [{ text: explainPrompt(req.question) }] }];
+  } else if (mode === 'expand') {
+    if (!req.topic) throw new Error('expand modu için konu gerekli');
+    contents = [{ role: 'user', parts: [{ text: expandPrompt(req.topic) }] }];
   } else {
     const turns = req.messages ?? [];
     if (turns.length === 0) throw new Error('chat modu için mesaj gerekli');
     if (req.question) {
       // Soru bağlamını sistem talimatına iliştir: her turda tekrar göndermeye gerek kalmaz
       systemInstruction = `${SYSTEM}\n\nÖğrenci şu soru üzerinde çalışıyor:\n${questionContext(req.question)}`;
+    } else if (req.topic) {
+      systemInstruction = `${SYSTEM}\n\nÖğrenci şu konuyu çalışıyor:\n${topicContext(req.topic)}`;
     }
     contents = turns.slice(-12).map((t) => ({ role: t.role, parts: [{ text: t.text }] }));
   }
@@ -119,7 +169,12 @@ export async function runAiHoca(req: AiHocaRequest, env: AiHocaEnv): Promise<str
   const result = await ai.models.generateContent({
     model: MODEL,
     contents,
-    config: { systemInstruction, temperature: 0.3, maxOutputTokens: 1800 },
+    config: {
+      systemInstruction,
+      temperature: 0.3,
+      // Konu derinleştirmesi uzun metin ister; soru çözümü daha kısadır
+      maxOutputTokens: mode === 'expand' ? 3500 : 1800,
+    },
   });
 
   const text = result.text?.trim();
