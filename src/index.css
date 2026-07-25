@@ -1,0 +1,15 @@
+@import '@fontsource-variable/inter';
+@import '@fontsource-variable/fraunces';
+@import 'tailwindcss';
+
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: 'Inter Variable', system-ui, sans-serif;
+  margin: 0;
+  min-height: 100dvh;
+}
