@@ -119,11 +119,14 @@ function topicGoals(topic: TopicId, round: number): PlanGoal[] {
     ];
   }
 
-  // 3. tur ve sonrası: sınavda en çok soru getiren konulara fazladan mesai
+  // 3. tur ve sonrası: en ağır konulara fazladan mesai.
+  // Not: examWeight resmi bir sayı DEĞİL, geçmiş oturumlara dayanan tahmindir —
+  // Bakanlık başlık başına soru sayısı yayımlamıyor. Bu yüzden etikette
+  // "sınavda" değil "denemede" denir; ikincisi bu uygulama için doğrudur.
   return [
     {
       kind: 'questions',
-      label: `${short} — 35 soru (sınavda ${TOPICS[topic].examWeight} soru)`,
+      label: `${short} — 35 soru (denemede ~${TOPICS[topic].examWeight} soru)`,
       count: 35,
       href: `/pratik?topic=${topic}&count=35&status=unseen`,
     },
