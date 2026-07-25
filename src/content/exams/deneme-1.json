@@ -1,0 +1,3008 @@
+{
+  "id": "deneme-1",
+  "title": "Genel Deneme Sınavı 1",
+  "kind": "deneme",
+  "note": "Resmi konu ağırlıklarına göre hazırlanmış tam simülasyon.",
+  "questions": [
+    {
+      "id": "deneme-1-001",
+      "topicId": "anadolu-medeniyetleri",
+      "subtopic": "Neolitik",
+      "difficulty": 1,
+      "stem": "Konya yakınlarındaki Çatalhöyük hangi çağın yerleşimidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Paleolitik",
+          "explanation": "Paleolitik mağara dönemidir (Karain)."
+        },
+        {
+          "id": "B",
+          "text": "Neolitik",
+          "explanation": "Doğru — MÖ 7400'e uzanan Neolitik kent; UNESCO 2012."
+        },
+        {
+          "id": "C",
+          "text": "Tunç Çağı",
+          "explanation": "Tunç Çağı yerleşimi örneği Alacahöyük'tür."
+        },
+        {
+          "id": "D",
+          "text": "Demir Çağı",
+          "explanation": "Demir Çağı Frig-Urartu dönemidir."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-002",
+      "topicId": "anadolu-medeniyetleri",
+      "subtopic": "Hitit",
+      "difficulty": 2,
+      "stem": "Hitit başkenti Hattuşa hangi il sınırlarındadır?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Yozgat",
+          "explanation": "Yozgat komşudur ama Hattuşa burada değildir."
+        },
+        {
+          "id": "B",
+          "text": "Kayseri",
+          "explanation": "Kayseri'deki merkez Kültepe'dir."
+        },
+        {
+          "id": "C",
+          "text": "Çorum",
+          "explanation": "Doğru — Boğazkale (Boğazköy), Çorum'dadır; UNESCO 1986."
+        },
+        {
+          "id": "D",
+          "text": "Sivas",
+          "explanation": "Sivas'ta Hitit başkenti yoktur."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-003",
+      "topicId": "anadolu-medeniyetleri",
+      "subtopic": "Urartu",
+      "difficulty": 2,
+      "stem": "Urartuların merkezi Tuşpa hangi gölün kıyısındadır?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Van Gölü",
+          "explanation": "Doğru — Van Kalesi kayalığı Tuşpa'nın kendisidir."
+        },
+        {
+          "id": "B",
+          "text": "Çıldır Gölü",
+          "explanation": "Çıldır, Kars-Ardahan'dadır."
+        },
+        {
+          "id": "C",
+          "text": "Hazar Gölü",
+          "explanation": "Hazar, Elazığ'dadır."
+        },
+        {
+          "id": "D",
+          "text": "Nemrut Krater Gölü",
+          "explanation": "Bitlis'teki kraterdir; başkent değildir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-004",
+      "topicId": "anadolu-medeniyetleri",
+      "subtopic": "Frig",
+      "difficulty": 2,
+      "stem": "Frig devletinin bilinen en ünlü kralı aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Krezüs",
+          "explanation": "Krezüs Lidya kralıdır."
+        },
+        {
+          "id": "B",
+          "text": "Midas",
+          "explanation": "Doğru — altın dokunuş ve eşek kulağı efsaneleriyle Midas."
+        },
+        {
+          "id": "C",
+          "text": "Sarduri",
+          "explanation": "Sarduri Urartu kralıdır."
+        },
+        {
+          "id": "D",
+          "text": "Muvatalli",
+          "explanation": "Muvatalli Hitit kralıdır."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-005",
+      "topicId": "anadolu-medeniyetleri",
+      "subtopic": "Lidya",
+      "difficulty": 1,
+      "stem": "Parayı icat eden Lidyalıların başkenti aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Efes",
+          "explanation": "Efes İyon kentidir."
+        },
+        {
+          "id": "B",
+          "text": "Milet",
+          "explanation": "Milet İyon kentidir."
+        },
+        {
+          "id": "C",
+          "text": "Gordion",
+          "explanation": "Gordion Frig başkentidir."
+        },
+        {
+          "id": "D",
+          "text": "Sardes",
+          "explanation": "Doğru — Salihli yakınındaki Sardes (UNESCO 2025)."
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "deneme-1-006",
+      "topicId": "anadolu-medeniyetleri",
+      "subtopic": "Asur kolonileri",
+      "difficulty": 2,
+      "stem": "Kültepe'deki Asur ticaret kolonisinin (karum) antik adı aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kaneş",
+          "explanation": "Doğru — Kaneş/Neşa karumu, Anadolu'nun ilk yazılı belgelerinin bulunduğu yerdir."
+        },
+        {
+          "id": "B",
+          "text": "Hattuşa",
+          "explanation": "Hattuşa Hitit başkentidir."
+        },
+        {
+          "id": "C",
+          "text": "Puruşhanda",
+          "explanation": "Puruşhanda başka bir koloni merkezidir; tabletlerin merkezi Kaneş'tir."
+        },
+        {
+          "id": "D",
+          "text": "Zalpa",
+          "explanation": "Zalpa kuzeydeki bir kenttir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-007",
+      "topicId": "anadolu-medeniyetleri",
+      "subtopic": "Hitit",
+      "difficulty": 3,
+      "stem": "Kadeş Antlaşması'nın bir kopyasının sergilendiği müze aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Anadolu Medeniyetleri Müzesi",
+          "explanation": "Ankara'da Hitit eserleri çoktur ama Kadeş tableti İstanbul'dadır."
+        },
+        {
+          "id": "B",
+          "text": "Louvre",
+          "explanation": "Louvre'da değildir."
+        },
+        {
+          "id": "C",
+          "text": "İstanbul Arkeoloji Müzeleri",
+          "explanation": "Doğru — tablet İstanbul Arkeoloji Müzeleri'ndedir; büyütülmüş kopyası BM binasındadır."
+        },
+        {
+          "id": "D",
+          "text": "Çorum Müzesi",
+          "explanation": "Çorum'da başka tabletler vardır."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-008",
+      "topicId": "anadolu-medeniyetleri",
+      "subtopic": "İyonya",
+      "difficulty": 2,
+      "stem": "Efes'in de üyesi olduğu on iki İyon kentinin oluşturduğu birliğe ne ad verilir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Attika-Delos",
+          "explanation": "Attika-Delos, Atina'nın deniz birliğidir."
+        },
+        {
+          "id": "B",
+          "text": "Panionion",
+          "explanation": "Doğru — 12 İyon kentinin dini-kültürel birliği."
+        },
+        {
+          "id": "C",
+          "text": "Likya Birliği",
+          "explanation": "Likya Birliği güneybatıdadır."
+        },
+        {
+          "id": "D",
+          "text": "Dekapolis",
+          "explanation": "Dekapolis, Ürdün-Suriye on kentidir."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-009",
+      "topicId": "anadolu-medeniyetleri",
+      "subtopic": "Helenistik",
+      "difficulty": 2,
+      "stem": "Zeus Sunağı ve 200.000 rulolu kütüphanesiyle ünlü Helenistik krallık merkezi aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Bergama",
+          "explanation": "Doğru — Attaloslar hanedanının başkenti; parşömenin adı buradan gelir."
+        },
+        {
+          "id": "B",
+          "text": "Antakya",
+          "explanation": "Antakya Selevkos başkentidir."
+        },
+        {
+          "id": "C",
+          "text": "İskenderiye",
+          "explanation": "İskenderiye Mısır'dadır."
+        },
+        {
+          "id": "D",
+          "text": "Efes",
+          "explanation": "Efes'in ünlüsü Celsus'tur ve Roma dönemidir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-010",
+      "topicId": "anadolu-medeniyetleri",
+      "subtopic": "Likya",
+      "difficulty": 2,
+      "stem": "Likya Birliği'nin federal meclis binasının bulunduğu liman kenti aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Myra",
+          "explanation": "Myra kaya mezarlarıyla ünlüdür; meclis Patara'dadır."
+        },
+        {
+          "id": "B",
+          "text": "Ksanthos",
+          "explanation": "Ksanthos başkenttir ama meclis binası Patara'dadır."
+        },
+        {
+          "id": "C",
+          "text": "Patara",
+          "explanation": "Doğru — bouleuterion (meclis) Patara'da restore edilmiştir."
+        },
+        {
+          "id": "D",
+          "text": "Olympos",
+          "explanation": "Olympos altı büyük kentten biridir."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-011",
+      "topicId": "anadolu-medeniyetleri",
+      "subtopic": "Pers",
+      "difficulty": 3,
+      "stem": "Perslerin Anadolu'daki satraplık yönetimini sona erdiren gelişme aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Büyük İskender'in Anadolu seferi",
+          "explanation": "Doğru — MÖ 334 Granikos zaferiyle Pers yönetimi çözüldü."
+        },
+        {
+          "id": "B",
+          "text": "Roma'nın Asia eyaletini kurması",
+          "explanation": "Roma dönemi iki yüzyıl sonradır."
+        },
+        {
+          "id": "C",
+          "text": "İyonya ayaklanması",
+          "explanation": "Ayaklanma (MÖ 499) bastırılmıştır."
+        },
+        {
+          "id": "D",
+          "text": "Kimmer akınları",
+          "explanation": "Kimmerler Pers öncesi dönemdedir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-012",
+      "topicId": "anadolu-medeniyetleri",
+      "subtopic": "Genel",
+      "difficulty": 3,
+      "stem": "Malatya'daki Arslantepe Höyüğü'nün UNESCO değeri hangi buluğa dayanır?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "İlk saray kompleksi ve erken devlet düzeni izleri",
+          "explanation": "Doğru — MÖ 4. binyıl kerpiç sarayı ve dünyanın en eski kılıçları burada bulundu (UNESCO 2021)."
+        },
+        {
+          "id": "B",
+          "text": "En eski tiyatro",
+          "explanation": "Tiyatro Yunan dönemidir."
+        },
+        {
+          "id": "C",
+          "text": "İlk sikke darphanesi",
+          "explanation": "Sikke Lidya buluşudur."
+        },
+        {
+          "id": "D",
+          "text": "En eski cami",
+          "explanation": "İslam dönemiyle ilgisi yoktur."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-013",
+      "topicId": "arkeoloji-mitoloji",
+      "subtopic": "Kavram",
+      "difficulty": 1,
+      "stem": "Antik kentin mezarlık alanına verilen ad aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Akropol",
+          "explanation": "Akropol yukarı kenttir."
+        },
+        {
+          "id": "B",
+          "text": "Agora",
+          "explanation": "Agora çarşı-meydandır."
+        },
+        {
+          "id": "C",
+          "text": "Nekropol",
+          "explanation": "Doğru — 'ölüler kenti' anlamına gelir."
+        },
+        {
+          "id": "D",
+          "text": "Bouleuterion",
+          "explanation": "Meclis binasıdır."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-014",
+      "topicId": "arkeoloji-mitoloji",
+      "subtopic": "Panteon",
+      "difficulty": 1,
+      "stem": "Aşk ve güzellik tanrıçası Afrodit'in Roma karşılığı aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Venüs",
+          "explanation": "Doğru — Afrodit'in Roma adı Venüs'tür."
+        },
+        {
+          "id": "B",
+          "text": "Juno",
+          "explanation": "Juno, Hera'nın karşılığıdır."
+        },
+        {
+          "id": "C",
+          "text": "Diana",
+          "explanation": "Diana, Artemis'in karşılığıdır."
+        },
+        {
+          "id": "D",
+          "text": "Minerva",
+          "explanation": "Minerva, Athena'nın karşılığıdır."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-015",
+      "topicId": "arkeoloji-mitoloji",
+      "subtopic": "Panteon",
+      "difficulty": 2,
+      "stem": "Ölüler ülkesinin tanrısı olup on iki Olimposlu arasında sayılmayan tanrı aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Hermes",
+          "explanation": "Hermes Olimposludur."
+        },
+        {
+          "id": "B",
+          "text": "Hades",
+          "explanation": "Doğru — Hades yeraltında yaşadığından Olimpos listesine girmez."
+        },
+        {
+          "id": "C",
+          "text": "Apollon",
+          "explanation": "Apollon Olimposludur."
+        },
+        {
+          "id": "D",
+          "text": "Ares",
+          "explanation": "Ares Olimposludur."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-016",
+      "topicId": "arkeoloji-mitoloji",
+      "subtopic": "Troya",
+      "difficulty": 2,
+      "stem": "Troya Savaşı'nda Akhaların başkomutanı olan Miken kralı aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Menelaos",
+          "explanation": "Menelaos, Helen'in eşi ve Sparta kralıdır."
+        },
+        {
+          "id": "B",
+          "text": "Odysseus",
+          "explanation": "Odysseus İthake kralı ve strateji ustasıdır."
+        },
+        {
+          "id": "C",
+          "text": "Akhilleus",
+          "explanation": "Akhilleus en büyük savaşçıdır, komutan değildir."
+        },
+        {
+          "id": "D",
+          "text": "Agamemnon",
+          "explanation": "Doğru — Miken kralı Agamemnon orduların başıdır."
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "deneme-1-017",
+      "topicId": "arkeoloji-mitoloji",
+      "subtopic": "Anadolu mitleri",
+      "difficulty": 2,
+      "stem": "Efes yakınlarında Apollon ve Artemis'in annesi Leto'ya adanan Likya kutsal alanı aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Letoon",
+          "explanation": "Doğru — Ksanthos'la birlikte UNESCO listesindedir."
+        },
+        {
+          "id": "B",
+          "text": "Didyma",
+          "explanation": "Didyma, Apollon kehanet merkezidir."
+        },
+        {
+          "id": "C",
+          "text": "Klaros",
+          "explanation": "Klaros da kehanet merkezidir."
+        },
+        {
+          "id": "D",
+          "text": "Panionion",
+          "explanation": "Panionion İyon birliğinin merkezidir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-018",
+      "topicId": "arkeoloji-mitoloji",
+      "subtopic": "Atribü",
+      "difficulty": 2,
+      "stem": "Bir heykelde başında kule biçimli taç ve yanında aslanlarla betimlenen tanrıça kimdir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Hera",
+          "explanation": "Hera tavus kuşuyla betimlenir."
+        },
+        {
+          "id": "B",
+          "text": "Kibele",
+          "explanation": "Doğru — Anadolu ana tanrıçasının imzası kule taç ve aslandır."
+        },
+        {
+          "id": "C",
+          "text": "Artemis",
+          "explanation": "Artemis yay ve geyikle betimlenir."
+        },
+        {
+          "id": "D",
+          "text": "Nike",
+          "explanation": "Nike kanatlı zafer tanrıçasıdır."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-019",
+      "topicId": "arkeoloji-mitoloji",
+      "subtopic": "Kazılar",
+      "difficulty": 2,
+      "stem": "Bergama Zeus Sunağı'nı ortaya çıkarıp Berlin'e taşınmasına yol açan mühendis aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Heinrich Schliemann",
+          "explanation": "Schliemann Troya'yla anılır."
+        },
+        {
+          "id": "B",
+          "text": "Klaus Schmidt",
+          "explanation": "Schmidt Göbeklitepe kazıcısıdır."
+        },
+        {
+          "id": "C",
+          "text": "Carl Humann",
+          "explanation": "Doğru — demiryolu mühendisi Humann, 1878'de sunak kazısını başlattı."
+        },
+        {
+          "id": "D",
+          "text": "James Mellaart",
+          "explanation": "Mellaart Çatalhöyük kazıcısıdır."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-020",
+      "topicId": "arkeoloji-mitoloji",
+      "subtopic": "Mitoloji",
+      "difficulty": 2,
+      "stem": "Gorgon Medusa'nın başını kesen kahraman aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Perseus",
+          "explanation": "Doğru — Athena'nın aynası ve Hermes'in sandaletleriyle Medusa'yı öldürdü."
+        },
+        {
+          "id": "B",
+          "text": "Herakles",
+          "explanation": "Herakles 12 görevle anılır."
+        },
+        {
+          "id": "C",
+          "text": "Theseus",
+          "explanation": "Theseus Minotauros'u öldürdü."
+        },
+        {
+          "id": "D",
+          "text": "Bellerophon",
+          "explanation": "Bellerophon Khimaira'yı öldürdü."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-021",
+      "topicId": "arkeoloji-mitoloji",
+      "subtopic": "Mitoloji",
+      "difficulty": 3,
+      "stem": "Girit'te Minotauros'un kapatıldığı labirenti tasarlayan efsanevi mimar aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Hippodamos",
+          "explanation": "Hippodamos gerçek bir şehir plancısıdır."
+        },
+        {
+          "id": "B",
+          "text": "İkaros",
+          "explanation": "İkaros, mimarın uçarken güneşe yaklaşan oğludur."
+        },
+        {
+          "id": "C",
+          "text": "Vitruvius",
+          "explanation": "Vitruvius Romalı mimarlık yazarıdır."
+        },
+        {
+          "id": "D",
+          "text": "Daidalos",
+          "explanation": "Doğru — labirenti Daidalos yaptı; oğlu İkaros'la balmumu kanatlarla kaçtı."
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "deneme-1-022",
+      "topicId": "arkeoloji-mitoloji",
+      "subtopic": "Kavram",
+      "difficulty": 2,
+      "stem": "Pişmiş toprak eserlerin tarihlendirilmesinde kullanılan yöntem aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Termolüminesans",
+          "explanation": "Doğru — seramiğin son pişirilme tarihini ölçer."
+        },
+        {
+          "id": "B",
+          "text": "Karbon-14",
+          "explanation": "C-14 organik malzeme içindir."
+        },
+        {
+          "id": "C",
+          "text": "Dendrokronoloji",
+          "explanation": "Ağaç halkaları yöntemidir."
+        },
+        {
+          "id": "D",
+          "text": "Tipoloji",
+          "explanation": "Biçim karşılaştırması görelidir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-023",
+      "topicId": "arkeoloji-mitoloji",
+      "subtopic": "Sualtı",
+      "difficulty": 3,
+      "stem": "Uluburun Batığı hangi ilçe açıklarında bulunmuştur?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Bodrum",
+          "explanation": "Bodrum eserlerin sergilendiği yerdir, buluntu yeri değildir."
+        },
+        {
+          "id": "B",
+          "text": "Kaş",
+          "explanation": "Doğru — Antalya Kaş açıklarında, 1982'de süngerci Mehmet Çakır'ın ihbarıyla bulundu."
+        },
+        {
+          "id": "C",
+          "text": "Marmaris",
+          "explanation": "Marmaris'te değildir."
+        },
+        {
+          "id": "D",
+          "text": "Çeşme",
+          "explanation": "Çeşme'de değildir."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-024",
+      "topicId": "arkeoloji-mitoloji",
+      "subtopic": "Mitoloji",
+      "difficulty": 2,
+      "stem": "Tanrılara ateşi çalıp insanlara veren titan aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Atlas",
+          "explanation": "Atlas gökkubbeyi taşır."
+        },
+        {
+          "id": "B",
+          "text": "Kronos",
+          "explanation": "Kronos, Zeus'un babasıdır."
+        },
+        {
+          "id": "C",
+          "text": "Prometheus",
+          "explanation": "Doğru — cezası Kafkas'ta ciğerinin kartala yedirilmesiydi."
+        },
+        {
+          "id": "D",
+          "text": "Epimetheus",
+          "explanation": "Epimetheus, Pandora'yı kabul eden kardeştir."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-025",
+      "topicId": "roma-yunan-bizans",
+      "subtopic": "Roma",
+      "difficulty": 2,
+      "stem": "Roma'nın Anadolu'daki ilk eyaleti Asia hangi olayla kurulmuştur?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Bergama kralının vasiyetiyle (MÖ 133)",
+          "explanation": "Doğru — III. Attalos krallığını Roma'ya bıraktı."
+        },
+        {
+          "id": "B",
+          "text": "Kadeş Antlaşması'yla",
+          "explanation": "Kadeş, Hitit-Mısır antlaşmasıdır."
+        },
+        {
+          "id": "C",
+          "text": "Malazgirt Savaşı'yla",
+          "explanation": "Malazgirt 1071'dedir."
+        },
+        {
+          "id": "D",
+          "text": "İssos Savaşı'yla",
+          "explanation": "İssos, İskender'in zaferidir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-026",
+      "topicId": "roma-yunan-bizans",
+      "subtopic": "Bizans",
+      "difficulty": 1,
+      "stem": "Ayasofya hangi imparator döneminde bugünkü haliyle inşa edilmiştir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Konstantin",
+          "explanation": "Konstantin kenti başkent yaptı; bugünkü yapı sonradır."
+        },
+        {
+          "id": "B",
+          "text": "Justinianus",
+          "explanation": "Doğru — 532-537 arasında Nika İsyanı sonrası yapıldı."
+        },
+        {
+          "id": "C",
+          "text": "Theodosius",
+          "explanation": "Theodosius surlarla anılır."
+        },
+        {
+          "id": "D",
+          "text": "Herakleios",
+          "explanation": "Herakleios 7. yüzyıl imparatorudur."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-027",
+      "topicId": "roma-yunan-bizans",
+      "subtopic": "Yunan",
+      "difficulty": 2,
+      "stem": "Marsilya'yı (Massalia) kolonize eden Batı Anadolu kenti aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Milet",
+          "explanation": "Milet Karadeniz'e yöneldi."
+        },
+        {
+          "id": "B",
+          "text": "Efes",
+          "explanation": "Efes büyük koloni kurucusu değildir."
+        },
+        {
+          "id": "C",
+          "text": "Foça (Phokaia)",
+          "explanation": "Doğru — Foçalılar Batı Akdeniz'de Massalia'yı kurdu."
+        },
+        {
+          "id": "D",
+          "text": "Megara",
+          "explanation": "Megara, Byzantion'un kurucusudur."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-028",
+      "topicId": "roma-yunan-bizans",
+      "subtopic": "Bizans",
+      "difficulty": 2,
+      "stem": "İstanbul hipodromundaki Yılanlı Sütun hangi kutsal alandan getirilmiştir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Delphi",
+          "explanation": "Doğru — Plataia zaferi anıtı Delphi'den Konstantin'ce getirtildi."
+        },
+        {
+          "id": "B",
+          "text": "Karnak",
+          "explanation": "Karnak'tan gelen Dikilitaş'tır."
+        },
+        {
+          "id": "C",
+          "text": "Olympia",
+          "explanation": "Olympia'dan getirilmemiştir."
+        },
+        {
+          "id": "D",
+          "text": "Efes",
+          "explanation": "Efes'ten getirilmemiştir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-029",
+      "topicId": "roma-yunan-bizans",
+      "subtopic": "Hristiyanlık",
+      "difficulty": 2,
+      "stem": "Aziz Pavlus'un doğum yeri olan kent aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Antakya",
+          "explanation": "Antakya 'Hristiyan' adının doğduğu kenttir."
+        },
+        {
+          "id": "B",
+          "text": "Efes",
+          "explanation": "Efes misyon merkezidir, doğum yeri değildir."
+        },
+        {
+          "id": "C",
+          "text": "Kudüs",
+          "explanation": "Kudüs doğum yeri değildir."
+        },
+        {
+          "id": "D",
+          "text": "Tarsus",
+          "explanation": "Doğru — Pavlus Tarsusludur; kentte kuyusu ziyaret edilir."
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "deneme-1-030",
+      "topicId": "roma-yunan-bizans",
+      "subtopic": "Roma",
+      "difficulty": 2,
+      "stem": "Roma hamamında soğukluk bölümüne verilen ad aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Caldarium",
+          "explanation": "Caldarium sıcaklıktır."
+        },
+        {
+          "id": "B",
+          "text": "Frigidarium",
+          "explanation": "Doğru — 'frigo' kökü soğuğu işaret eder."
+        },
+        {
+          "id": "C",
+          "text": "Tepidarium",
+          "explanation": "Tepidarium ılıklıktır."
+        },
+        {
+          "id": "D",
+          "text": "Apodyterium",
+          "explanation": "Apodyterium soyunmalıktır."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-031",
+      "topicId": "roma-yunan-bizans",
+      "subtopic": "Bizans",
+      "difficulty": 3,
+      "stem": "1204-1261 arasında Bizans yönetiminin sürgünde hüküm sürdüğü kent aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Trabzon",
+          "explanation": "Trabzon'da ayrı bir Komnenos devleti kuruldu ama ana sürgün devleti İznik'tir."
+        },
+        {
+          "id": "B",
+          "text": "Selanik",
+          "explanation": "Selanik kısa süreli despotluktur."
+        },
+        {
+          "id": "C",
+          "text": "İznik",
+          "explanation": "Doğru — Latin işgali boyunca İznik İmparatorluğu ana Bizans çizgisini sürdürdü."
+        },
+        {
+          "id": "D",
+          "text": "Efes",
+          "explanation": "Efes'te sürgün yönetimi kurulmadı."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-032",
+      "topicId": "roma-yunan-bizans",
+      "subtopic": "Roma",
+      "difficulty": 3,
+      "stem": "Roma döneminde Efes'te MS 2. yüzyılda yapılan Celsus Kütüphanesi'nin cephesi hangi yöntemle yeniden ayağa kaldırılmıştır?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Anastylosis",
+          "explanation": "Doğru — 1970'lerde özgün parçalarla yeniden kuruldu."
+        },
+        {
+          "id": "B",
+          "text": "Replika inşası",
+          "explanation": "Cephe kopya değil, özgün bloklardır."
+        },
+        {
+          "id": "C",
+          "text": "Restitüsyon",
+          "explanation": "Restitüsyon çizimde kalır."
+        },
+        {
+          "id": "D",
+          "text": "Rekonstrüksiyon betonu",
+          "explanation": "Beton kopya yöntemi kullanılmadı."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-033",
+      "topicId": "roma-yunan-bizans",
+      "subtopic": "Yunan",
+      "difficulty": 2,
+      "stem": "Atina ile Sparta arasındaki Peloponnesos Savaşı'nın galibi aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Atina",
+          "explanation": "Atina yenilen taraftır."
+        },
+        {
+          "id": "B",
+          "text": "Pers İmparatorluğu",
+          "explanation": "Persler doğrudan savaşan taraf değildi."
+        },
+        {
+          "id": "C",
+          "text": "Teb",
+          "explanation": "Teb'in hegemonyası sonraki kuşaktadır."
+        },
+        {
+          "id": "D",
+          "text": "Sparta",
+          "explanation": "Doğru — Sparta kazandı ama Yunan dünyası tükendi."
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "deneme-1-034",
+      "topicId": "roma-yunan-bizans",
+      "subtopic": "Bizans",
+      "difficulty": 2,
+      "stem": "Bizans'ın Ortodoks dünyadaki dini merkezi olarak bugün de İstanbul'da hizmet veren kurum aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Fener Rum Patrikhanesi",
+          "explanation": "Doğru — ekümenik patriklik Fener'deki Aya Yorgi'dedir."
+        },
+        {
+          "id": "B",
+          "text": "Vatikan Temsilciliği",
+          "explanation": "Vatikan Katolik merkezdir."
+        },
+        {
+          "id": "C",
+          "text": "Süryani Metropolitliği",
+          "explanation": "Süryani kilisesi ayrı gelenektir."
+        },
+        {
+          "id": "D",
+          "text": "Ermeni Patrikhanesi",
+          "explanation": "Ermeni Patrikhanesi Kumkapı'dadır ve ayrı kilisedir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-035",
+      "topicId": "sanat-tarihi",
+      "subtopic": "Antik",
+      "difficulty": 1,
+      "stem": "Başlığında volüt (kıvrım) bulunan sütun düzeni aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Dor",
+          "explanation": "Dor sade ve kaidesizdir."
+        },
+        {
+          "id": "B",
+          "text": "Korint",
+          "explanation": "Korint akantus yapraklıdır."
+        },
+        {
+          "id": "C",
+          "text": "İyon",
+          "explanation": "Doğru — koç boynuzu kıvrımlı başlık İyon imzasıdır."
+        },
+        {
+          "id": "D",
+          "text": "Toskan",
+          "explanation": "Toskan, sade Roma düzenidir."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-036",
+      "topicId": "sanat-tarihi",
+      "subtopic": "Selçuklu",
+      "difficulty": 2,
+      "stem": "Selçuklu taç kapılarının üst bölümünü dolduran sarkıtlı bezeme öğesi aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mukarnas",
+          "explanation": "Doğru — petek görünümlü mukarnas kavsara, taç kapının imzasıdır."
+        },
+        {
+          "id": "B",
+          "text": "Pandantif",
+          "explanation": "Pandantif, Bizans kubbe geçişidir."
+        },
+        {
+          "id": "C",
+          "text": "Palmet",
+          "explanation": "Palmet düz bitkisel motiftir."
+        },
+        {
+          "id": "D",
+          "text": "Volüt",
+          "explanation": "Volüt, İyon başlığındadır."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-037",
+      "topicId": "sanat-tarihi",
+      "subtopic": "Osmanlı",
+      "difficulty": 1,
+      "stem": "Mimar Sinan'ın 'kalfalık eserim' dediği İstanbul camisi aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Şehzade Camii",
+          "explanation": "Şehzade çıraklık eseridir."
+        },
+        {
+          "id": "B",
+          "text": "Süleymaniye Camii",
+          "explanation": "Doğru — 1557'de tamamlanan külliye kalfalık eseridir."
+        },
+        {
+          "id": "C",
+          "text": "Selimiye Camii",
+          "explanation": "Selimiye Edirne'deki ustalık eseridir."
+        },
+        {
+          "id": "D",
+          "text": "Rüstem Paşa Camii",
+          "explanation": "Rüstem Paşa çini kataloğudur; üçlemeden değildir."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-038",
+      "topicId": "sanat-tarihi",
+      "subtopic": "El sanatı",
+      "difficulty": 2,
+      "stem": "Ahşaba sedef, fildişi gibi malzemelerin gömülmesiyle yapılan süsleme tekniği aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kündekari",
+          "explanation": "Kündekari çivisiz geçme tekniğidir."
+        },
+        {
+          "id": "B",
+          "text": "Oyma",
+          "explanation": "Oyma yontarak desen çıkarmadır."
+        },
+        {
+          "id": "C",
+          "text": "Telkari",
+          "explanation": "Telkari gümüş tel işidir."
+        },
+        {
+          "id": "D",
+          "text": "Kakma (sedefkarlık)",
+          "explanation": "Doğru — gömme tekniğinin adı kakmadır."
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "deneme-1-039",
+      "topicId": "sanat-tarihi",
+      "subtopic": "Bizans",
+      "difficulty": 2,
+      "stem": "Islak sıva üzerine yapılan duvar resmine ne ad verilir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Fresk",
+          "explanation": "Doğru — Kapadokya kiliselerinin resimleri fresktir."
+        },
+        {
+          "id": "B",
+          "text": "Mozaik",
+          "explanation": "Mozaik, küçük taş-cam parçalarıyla yapılır."
+        },
+        {
+          "id": "C",
+          "text": "Minyatür",
+          "explanation": "Minyatür kitap resmidir."
+        },
+        {
+          "id": "D",
+          "text": "Gravür",
+          "explanation": "Gravür baskı tekniğidir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-040",
+      "topicId": "sanat-tarihi",
+      "subtopic": "Osmanlı",
+      "difficulty": 2,
+      "stem": "Bursa'daki Yeşil Türbe hangi padişahın mezar anıtıdır?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Osman Gazi",
+          "explanation": "Osman Gazi'nin türbesi Tophane'dedir."
+        },
+        {
+          "id": "B",
+          "text": "Çelebi Mehmed",
+          "explanation": "Doğru — Fetret'i bitiren I. Mehmed'in çinili türbesidir."
+        },
+        {
+          "id": "C",
+          "text": "Yıldırım Bayezid",
+          "explanation": "Yıldırım'ın türbesi kendi külliyesindedir."
+        },
+        {
+          "id": "D",
+          "text": "Orhan Gazi",
+          "explanation": "Orhan Gazi Tophane'de gömülüdür."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-041",
+      "topicId": "sanat-tarihi",
+      "subtopic": "Antik",
+      "difficulty": 2,
+      "stem": "Aspendos Tiyatrosu hangi dönemin eseridir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Helenistik",
+          "explanation": "Helenistik tiyatrolar yamaca yaslanır."
+        },
+        {
+          "id": "B",
+          "text": "Klasik Yunan",
+          "explanation": "Klasik dönem tiyatrosu değildir."
+        },
+        {
+          "id": "C",
+          "text": "Roma",
+          "explanation": "Doğru — MS 2. yüzyılda mimar Zenon yaptı."
+        },
+        {
+          "id": "D",
+          "text": "Bizans",
+          "explanation": "Bizans döneminde tiyatro yapılmadı."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-042",
+      "topicId": "sanat-tarihi",
+      "subtopic": "Çini",
+      "difficulty": 2,
+      "stem": "Selçuklu çiniciliğinde baskın renk aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mercan kırmızısı",
+          "explanation": "Mercan kırmızısı 16. yy İznik imzasıdır."
+        },
+        {
+          "id": "B",
+          "text": "Firuze",
+          "explanation": "Doğru — Selçuklu mozaik çinisinin rengi firuze-lacivert dünyasıdır."
+        },
+        {
+          "id": "C",
+          "text": "Altın",
+          "explanation": "Altın, tezhip malzemesidir."
+        },
+        {
+          "id": "D",
+          "text": "Mor",
+          "explanation": "Mor baskın renk değildir."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-043",
+      "topicId": "sanat-tarihi",
+      "subtopic": "Kitap",
+      "difficulty": 3,
+      "stem": "Lale Devri'nin ünlü minyatür ustası aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Levni",
+          "explanation": "Doğru — Surname-i Vehbi minyatürleri Levni'nindir."
+        },
+        {
+          "id": "B",
+          "text": "Matrakçı Nasuh",
+          "explanation": "Matrakçı, Kanuni dönemi topografya ustasıdır."
+        },
+        {
+          "id": "C",
+          "text": "Nakkaş Osman",
+          "explanation": "Nakkaş Osman, III. Murad dönemindendir."
+        },
+        {
+          "id": "D",
+          "text": "Şeyh Hamdullah",
+          "explanation": "Şeyh Hamdullah hattattır."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-044",
+      "topicId": "sanat-tarihi",
+      "subtopic": "Osmanlı",
+      "difficulty": 3,
+      "stem": "İstanbul'un fethinden sonra yapılan ilk büyük selatin külliyesi aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Süleymaniye",
+          "explanation": "Süleymaniye bir asır sonradır."
+        },
+        {
+          "id": "B",
+          "text": "Sultanahmet",
+          "explanation": "Sultanahmet 17. yüzyıldadır."
+        },
+        {
+          "id": "C",
+          "text": "Fatih Külliyesi",
+          "explanation": "Doğru — Fatih'in 1463-1470 külliyesi, Sahn-ı Seman medreseleriyle ilk büyük selatin kompleksidir."
+        },
+        {
+          "id": "D",
+          "text": "Beyazıt Külliyesi",
+          "explanation": "Beyazıt, Fatih'ten sonradır."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-045",
+      "topicId": "turizm-cografyasi",
+      "subtopic": "Göller",
+      "difficulty": 1,
+      "stem": "Türkiye'nin en büyük gölü aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Tuz Gölü",
+          "explanation": "Tuz Gölü ikinci büyüktür."
+        },
+        {
+          "id": "B",
+          "text": "Beyşehir",
+          "explanation": "Beyşehir en büyük tatlı su gölüdür."
+        },
+        {
+          "id": "C",
+          "text": "Eğirdir",
+          "explanation": "Eğirdir dördüncü sıralardadır."
+        },
+        {
+          "id": "D",
+          "text": "Van Gölü",
+          "explanation": "Doğru — 3.712 km² ile en büyük göl; suyu sodalıdır."
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "deneme-1-046",
+      "topicId": "turizm-cografyasi",
+      "subtopic": "UNESCO",
+      "difficulty": 2,
+      "stem": "Safranbolu hangi özelliğiyle UNESCO Dünya Mirası Listesi'ne girmiştir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Geleneksel Osmanlı kent dokusu ve konakları",
+          "explanation": "Doğru — 1994'te 'Türk evinin başkenti' olarak listeye girdi."
+        },
+        {
+          "id": "B",
+          "text": "Antik tiyatrosu",
+          "explanation": "Safranbolu'da antik tiyatro yoktur."
+        },
+        {
+          "id": "C",
+          "text": "Kaya kiliseleri",
+          "explanation": "Kaya kiliseleri Kapadokya'nındır."
+        },
+        {
+          "id": "D",
+          "text": "Travertenleri",
+          "explanation": "Traverten Pamukkale'dedir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-047",
+      "topicId": "turizm-cografyasi",
+      "subtopic": "Kış",
+      "difficulty": 2,
+      "stem": "Palandöken Kayak Merkezi hangi ildedir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kars",
+          "explanation": "Kars'ın merkezi Sarıkamış'tır."
+        },
+        {
+          "id": "B",
+          "text": "Erzurum",
+          "explanation": "Doğru — Palandöken, Erzurum kent merkezine bitişiktir."
+        },
+        {
+          "id": "C",
+          "text": "Ağrı",
+          "explanation": "Ağrı'da büyük kayak merkezi yoktur."
+        },
+        {
+          "id": "D",
+          "text": "Bolu",
+          "explanation": "Bolu'nun merkezi Kartalkaya'dır."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-048",
+      "topicId": "turizm-cografyasi",
+      "subtopic": "Kıyı",
+      "difficulty": 2,
+      "stem": "Ölüdeniz lagünü hangi ilçenin sınırlarındadır?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Marmaris",
+          "explanation": "Marmaris ayrı bir koydadır."
+        },
+        {
+          "id": "B",
+          "text": "Kaş",
+          "explanation": "Kaş, Antalya'dadır."
+        },
+        {
+          "id": "C",
+          "text": "Fethiye",
+          "explanation": "Doğru — Ölüdeniz ve Babadağ, Muğla Fethiye'dedir."
+        },
+        {
+          "id": "D",
+          "text": "Bodrum",
+          "explanation": "Bodrum yarımadası farklıdır."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-049",
+      "topicId": "turizm-cografyasi",
+      "subtopic": "İnanç",
+      "difficulty": 2,
+      "stem": "Sümela Manastırı hangi vadidedir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Altındere Vadisi",
+          "explanation": "Doğru — Maçka'daki Altındere Vadisi Milli Parkı'ndadır."
+        },
+        {
+          "id": "B",
+          "text": "Ihlara Vadisi",
+          "explanation": "Ihlara, Aksaray'dadır."
+        },
+        {
+          "id": "C",
+          "text": "Göreme Vadisi",
+          "explanation": "Göreme, Kapadokya'dadır."
+        },
+        {
+          "id": "D",
+          "text": "Fırtına Vadisi",
+          "explanation": "Fırtına, Rize'dedir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-050",
+      "topicId": "turizm-cografyasi",
+      "subtopic": "GAP",
+      "difficulty": 2,
+      "stem": "Güneydoğu Anadolu Projesi (GAP) hangi iki nehir üzerine kuruludur?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kızılırmak - Yeşilırmak",
+          "explanation": "Bu ikili Karadeniz'e dökülür."
+        },
+        {
+          "id": "B",
+          "text": "Seyhan - Ceyhan",
+          "explanation": "Bunlar Çukurova nehirleridir."
+        },
+        {
+          "id": "C",
+          "text": "Sakarya - Susurluk",
+          "explanation": "Bunlar batı nehirleridir."
+        },
+        {
+          "id": "D",
+          "text": "Fırat - Dicle",
+          "explanation": "Doğru — Atatürk Barajı dahil GAP, Fırat-Dicle havzasındadır."
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "deneme-1-051",
+      "topicId": "turizm-cografyasi",
+      "subtopic": "Milli park",
+      "difficulty": 2,
+      "stem": "Manyas Kuş Cenneti hangi ildedir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Balıkesir",
+          "explanation": "Doğru — Bandırma yakınındaki Manyas Gölü kıyısındadır; Ramsar alanıdır."
+        },
+        {
+          "id": "B",
+          "text": "Bursa",
+          "explanation": "Bursa'daki göl Uluabat'tır."
+        },
+        {
+          "id": "C",
+          "text": "Çanakkale",
+          "explanation": "Çanakkale'de değildir."
+        },
+        {
+          "id": "D",
+          "text": "İzmir",
+          "explanation": "İzmir'in sulak alanı Gediz Deltası'dır."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-052",
+      "topicId": "turizm-cografyasi",
+      "subtopic": "UNESCO",
+      "difficulty": 3,
+      "stem": "Diyarbakır'ın UNESCO Dünya Mirası dosyası hangi iki unsuru birlikte kapsar?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kale surları ve Hevsel Bahçeleri",
+          "explanation": "Doğru — 2015'te surlar ve Dicle kıyısındaki tarım bahçeleri birlikte tescillendi."
+        },
+        {
+          "id": "B",
+          "text": "Ulu Cami ve On Gözlü Köprü",
+          "explanation": "Önemlidirler ama dosyanın adı sur+Hevsel'dir."
+        },
+        {
+          "id": "C",
+          "text": "Malabadi Köprüsü ve Zerzevan",
+          "explanation": "Zerzevan geçici listededir."
+        },
+        {
+          "id": "D",
+          "text": "Hasankeyf ve Dicle Vadisi",
+          "explanation": "Hasankeyf Batman'dadır ve listede değildir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-053",
+      "topicId": "turizm-cografyasi",
+      "subtopic": "Mağara",
+      "difficulty": 3,
+      "stem": "Türkiye'nin ilk UNESCO Global Jeoparkı aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kapadokya",
+          "explanation": "Kapadokya, Dünya Mirası'dır; jeopark statüsü ayrıdır."
+        },
+        {
+          "id": "B",
+          "text": "Kula-Salihli",
+          "explanation": "Doğru — Manisa'daki volkanik alan 2013'te jeopark ağına girdi."
+        },
+        {
+          "id": "C",
+          "text": "Pamukkale",
+          "explanation": "Pamukkale karma Dünya Mirası'dır."
+        },
+        {
+          "id": "D",
+          "text": "Nemrut Kalderası",
+          "explanation": "Bitlis Nemrut adaydır ama ilk değildir."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-054",
+      "topicId": "turizm-cografyasi",
+      "subtopic": "Antik kent",
+      "difficulty": 2,
+      "stem": "Perge, Aspendos ve Side antik kentleri hangi antik bölgededir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Likya",
+          "explanation": "Likya daha batıda, Teke Yarımadası'ndadır."
+        },
+        {
+          "id": "B",
+          "text": "Karya",
+          "explanation": "Karya, Muğla yöresidir."
+        },
+        {
+          "id": "C",
+          "text": "Pamfilya",
+          "explanation": "Doğru — Antalya ovasının antik adı Pamfilya'dır."
+        },
+        {
+          "id": "D",
+          "text": "Pisidya",
+          "explanation": "Pisidya, göller bölgesi dağlık kesimidir."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-055",
+      "topicId": "genel-turizm",
+      "subtopic": "Tanım",
+      "difficulty": 1,
+      "stem": "Konaklamadan günü birlik gezip dönen ziyaretçiye ne ad verilir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Turist",
+          "explanation": "Turist en az bir gece konaklar."
+        },
+        {
+          "id": "B",
+          "text": "Günübirlikçi",
+          "explanation": "Doğru — kruvaziyer yolcusu tipik örnektir."
+        },
+        {
+          "id": "C",
+          "text": "Transit yolcu",
+          "explanation": "Transit, ülkeye girmeden geçer."
+        },
+        {
+          "id": "D",
+          "text": "Acenta",
+          "explanation": "Acenta işletmedir, ziyaretçi değildir."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-056",
+      "topicId": "genel-turizm",
+      "subtopic": "Mevzuat",
+      "difficulty": 2,
+      "stem": "Turist rehberliği mesleğini düzenleyen 6326 sayılı Kanun hangi yıl yürürlüğe girmiştir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "2012",
+          "explanation": "Doğru — 6326 sayılı Turist Rehberliği Meslek Kanunu 2012 tarihlidir."
+        },
+        {
+          "id": "B",
+          "text": "1982",
+          "explanation": "1982, Turizm Teşvik Kanunu'nun (2634) yılıdır."
+        },
+        {
+          "id": "C",
+          "text": "1972",
+          "explanation": "1972, TÜRSAB/1618'in yılıdır."
+        },
+        {
+          "id": "D",
+          "text": "2003",
+          "explanation": "2003, bakanlık birleşmesidir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-057",
+      "topicId": "genel-turizm",
+      "subtopic": "Mevzuat",
+      "difficulty": 2,
+      "stem": "Turist rehberinin fiilen çalışabilmesi için her yıl alması gereken belge aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Ruhsatname",
+          "explanation": "Ruhsatname süresizdir ve bir kez alınır."
+        },
+        {
+          "id": "B",
+          "text": "Diploma",
+          "explanation": "Diploma mesleğe giriş şartıdır, yıllık belge değildir."
+        },
+        {
+          "id": "C",
+          "text": "Çalışma kartı (kokart)",
+          "explanation": "Doğru — odadan her yıl alınır; alan rehber 'eylemli' olur."
+        },
+        {
+          "id": "D",
+          "text": "Pasaport",
+          "explanation": "Pasaportun meslekle ilgisi yoktur."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-058",
+      "topicId": "genel-turizm",
+      "subtopic": "Tipoloji",
+      "difficulty": 2,
+      "stem": "Plog'a göre yeni ve keşfedilmemiş destinasyonları tercih eden turist tipi aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Psikosentrik",
+          "explanation": "Psikosentrik tanıdık ortam ister."
+        },
+        {
+          "id": "B",
+          "text": "Mid-sentrik",
+          "explanation": "Mid-sentrik ortadadır."
+        },
+        {
+          "id": "C",
+          "text": "Örgütlenmiş kitle",
+          "explanation": "Bu Cohen'in kategorisidir."
+        },
+        {
+          "id": "D",
+          "text": "Allosentrik",
+          "explanation": "Doğru — dışa dönük, macera arayan tiptir."
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "deneme-1-059",
+      "topicId": "genel-turizm",
+      "subtopic": "Tarih",
+      "difficulty": 2,
+      "stem": "Dünyanın ilk paket turunu düzenleyen kişi aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Thomas Cook",
+          "explanation": "Doğru — 1841 Leicester-Loughborough tren gezisi."
+        },
+        {
+          "id": "B",
+          "text": "César Ritz",
+          "explanation": "Ritz otelcidir."
+        },
+        {
+          "id": "C",
+          "text": "Karl Baedeker",
+          "explanation": "Baedeker rehber kitap yayıncısıdır."
+        },
+        {
+          "id": "D",
+          "text": "Freddie Laker",
+          "explanation": "Laker, ucuz havayolu öncüsüdür."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-060",
+      "topicId": "genel-turizm",
+      "subtopic": "Örgüt",
+      "difficulty": 2,
+      "stem": "Seyahat acentalarının üye olmak zorunda olduğu meslek birliği aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "TUREB",
+          "explanation": "TUREB rehberlerin birliğidir."
+        },
+        {
+          "id": "B",
+          "text": "TÜRSAB",
+          "explanation": "Doğru — 1618 sayılı Kanun'la kurulan zorunlu birliktir."
+        },
+        {
+          "id": "C",
+          "text": "TÜROFED",
+          "explanation": "TÜROFED otelcilerin gönüllü federasyonudur."
+        },
+        {
+          "id": "D",
+          "text": "TGA",
+          "explanation": "TGA tanıtım ajansıdır."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-061",
+      "topicId": "genel-turizm",
+      "subtopic": "Mevzuat",
+      "difficulty": 3,
+      "stem": "Turist rehberliğinde 'eylemsiz rehber' ifadesi kimi tanımlar?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Ruhsatnamesi olup o yıl çalışma kartı almamış rehberi",
+          "explanation": "Doğru — kart alınca eylemli statüye geçer."
+        },
+        {
+          "id": "B",
+          "text": "Sınavı kazanamamış adayı",
+          "explanation": "Aday henüz rehber değildir."
+        },
+        {
+          "id": "C",
+          "text": "Emekli rehberi",
+          "explanation": "Emeklilik ayrı bir durumdur."
+        },
+        {
+          "id": "D",
+          "text": "Yabancı dil bilmeyen rehberi",
+          "explanation": "Dil şartı olmadan ruhsatname alınamaz."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-062",
+      "topicId": "genel-turizm",
+      "subtopic": "Sosyoloji",
+      "difficulty": 3,
+      "stem": "Doxey'in Irridex modelinde yerel halkın turizme tepkisinin son evresi aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Coşku",
+          "explanation": "Coşku ilk evredir."
+        },
+        {
+          "id": "B",
+          "text": "İlgisizlik",
+          "explanation": "İkinci evredir."
+        },
+        {
+          "id": "C",
+          "text": "Rahatsızlık",
+          "explanation": "Üçüncü evredir."
+        },
+        {
+          "id": "D",
+          "text": "Düşmanlık",
+          "explanation": "Doğru — süreç düşmanlıkla sonlanır (CİRD)."
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "deneme-1-063",
+      "topicId": "genel-turizm",
+      "subtopic": "Kavram",
+      "difficulty": 2,
+      "stem": "MICE turizmi aşağıdaki alanlardan hangisini kapsar?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kongre, teşvik, toplantı ve fuar organizasyonları",
+          "explanation": "Doğru — Meetings, Incentives, Conventions, Exhibitions."
+        },
+        {
+          "id": "B",
+          "text": "Deniz-kum-güneş tatilleri",
+          "explanation": "Kıyı turizmi ayrı kategoridir."
+        },
+        {
+          "id": "C",
+          "text": "Sağlık ve termal hizmetler",
+          "explanation": "Sağlık turizmi ayrıdır."
+        },
+        {
+          "id": "D",
+          "text": "Dağcılık sporları",
+          "explanation": "Doğa turizmi ayrıdır."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-064",
+      "topicId": "genel-turizm",
+      "subtopic": "Mevzuat",
+      "difficulty": 3,
+      "stem": "Turist rehberleri taban ücret tarifesini ilan eden makam aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "TÜRSAB",
+          "explanation": "TÜRSAB acenta birliğidir."
+        },
+        {
+          "id": "B",
+          "text": "Rehber odaları",
+          "explanation": "Odalar görüş verir."
+        },
+        {
+          "id": "C",
+          "text": "Kültür ve Turizm Bakanlığı",
+          "explanation": "Doğru — birliğin görüşüyle Bakanlık ilan eder."
+        },
+        {
+          "id": "D",
+          "text": "Ticaret Bakanlığı",
+          "explanation": "Ticaret Bakanlığı'nın yetkisi yoktur."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-065",
+      "topicId": "genel-turk-tarihi",
+      "subtopic": "Orta Asya",
+      "difficulty": 2,
+      "stem": "Orhun Yazıtları hangi devletin döneminden kalmadır?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "II. Göktürk (Kutluk) Devleti",
+          "explanation": "Doğru — Bilge Kağan, Kül Tigin ve Tonyukuk anıtları 8. yüzyıldandır."
+        },
+        {
+          "id": "B",
+          "text": "Asya Hun Devleti",
+          "explanation": "Hunlardan yazılı anıt kalmamıştır."
+        },
+        {
+          "id": "C",
+          "text": "Uygur Kağanlığı",
+          "explanation": "Uygur metinleri ayrı külliyattır."
+        },
+        {
+          "id": "D",
+          "text": "Karahanlılar",
+          "explanation": "Karahanlı eserleri İslami dönemdendir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-066",
+      "topicId": "genel-turk-tarihi",
+      "subtopic": "İslamlaşma",
+      "difficulty": 2,
+      "stem": "Türklerin İslamiyet'le kitlesel tanışmasının kapısını açan 751 tarihli savaş aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Malazgirt",
+          "explanation": "Malazgirt 1071'dedir."
+        },
+        {
+          "id": "B",
+          "text": "Talas",
+          "explanation": "Doğru — Karlukların Abbasilere desteğiyle Türk-Arap yakınlaşması başladı."
+        },
+        {
+          "id": "C",
+          "text": "Dandanakan",
+          "explanation": "Dandanakan 1040 Selçuklu kuruluşudur."
+        },
+        {
+          "id": "D",
+          "text": "Katvan",
+          "explanation": "Katvan 1141'dedir."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-067",
+      "topicId": "genel-turk-tarihi",
+      "subtopic": "Selçuklu",
+      "difficulty": 1,
+      "stem": "Malazgirt Zaferi hangi tarihte kazanılmıştır?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "26 Ağustos 1071",
+          "explanation": "Doğru — Alp Arslan, Romanos Diogenes'i yendi."
+        },
+        {
+          "id": "B",
+          "text": "29 Mayıs 1453",
+          "explanation": "1453, İstanbul'un fethidir."
+        },
+        {
+          "id": "C",
+          "text": "27 Ağustos 1922",
+          "explanation": "1922, Büyük Taarruz dönemidir."
+        },
+        {
+          "id": "D",
+          "text": "10 Ağustos 1920",
+          "explanation": "1920, Sevr'in tarihidir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-068",
+      "topicId": "genel-turk-tarihi",
+      "subtopic": "Beylikler",
+      "difficulty": 3,
+      "stem": "Erzurum'daki Çifte Minareli Medrese ve Üç Kümbetler hangi ilk dönem beyliğinin mirasıyla ilişkilendirilir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Saltuklular",
+          "explanation": "Doğru — Erzurum, Saltukluların merkeziydi (Çifte Minareli İlhanlı dönemine uzanır ama kent mirası Saltuklu ile anılır)."
+        },
+        {
+          "id": "B",
+          "text": "Mengücekliler",
+          "explanation": "Mengücekliler Erzincan-Divriği'dedir."
+        },
+        {
+          "id": "C",
+          "text": "Artuklular",
+          "explanation": "Artuklular Mardin yöresindedir."
+        },
+        {
+          "id": "D",
+          "text": "Çaka Beyliği",
+          "explanation": "Çaka, İzmir'de denizci beyliktir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-069",
+      "topicId": "genel-turk-tarihi",
+      "subtopic": "Anadolu Selçuklu",
+      "difficulty": 2,
+      "stem": "Anadolu Selçuklu Devleti'nin başkenti aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sivas",
+          "explanation": "Sivas önemli merkezdi ama başkent değildi."
+        },
+        {
+          "id": "B",
+          "text": "Kayseri",
+          "explanation": "Kayseri ikinci başkent gibi çalıştı ama resmi merkez değildi."
+        },
+        {
+          "id": "C",
+          "text": "Konya",
+          "explanation": "Doğru — İznik'in kaybından sonra Konya başkent oldu."
+        },
+        {
+          "id": "D",
+          "text": "Erzurum",
+          "explanation": "Erzurum Saltuklu merkezidir."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-070",
+      "topicId": "genel-turk-tarihi",
+      "subtopic": "Kültür",
+      "difficulty": 2,
+      "stem": "İlk Türkçe sözlük Divanü Lugati't-Türk'ün yazarı aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Yusuf Has Hacib",
+          "explanation": "Yusuf, Kutadgu Bilig'in yazarıdır."
+        },
+        {
+          "id": "B",
+          "text": "Ali Şir Nevai",
+          "explanation": "Nevai, Çağatay sahasındandır."
+        },
+        {
+          "id": "C",
+          "text": "Ahmed Yesevi",
+          "explanation": "Yesevi, Divan-ı Hikmet'in sahibidir."
+        },
+        {
+          "id": "D",
+          "text": "Kaşgarlı Mahmut",
+          "explanation": "Doğru — 1072-74'te Araplara Türkçe öğretmek için yazdı."
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "deneme-1-071",
+      "topicId": "genel-turk-tarihi",
+      "subtopic": "Cumhuriyet",
+      "difficulty": 1,
+      "stem": "Türkiye Cumhuriyeti hangi tarihte ilan edilmiştir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "23 Nisan 1920",
+          "explanation": "1920, TBMM'nin açılışıdır."
+        },
+        {
+          "id": "B",
+          "text": "29 Ekim 1923",
+          "explanation": "Doğru — cumhuriyet ilan edildi, Atatürk ilk cumhurbaşkanı seçildi."
+        },
+        {
+          "id": "C",
+          "text": "24 Temmuz 1923",
+          "explanation": "Temmuz, Lozan'ın tarihidir."
+        },
+        {
+          "id": "D",
+          "text": "3 Mart 1924",
+          "explanation": "1924, halifeliğin kaldırılışıdır."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-072",
+      "topicId": "genel-turk-tarihi",
+      "subtopic": "Kültür",
+      "difficulty": 3,
+      "stem": "Dünyanın en eski düğümlü halısı olan Pazırık halısı bugün hangi müzededir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Ermitaj (St. Petersburg)",
+          "explanation": "Doğru — Altaylardaki kurgandan çıkarılan halı Ermitaj'dadır."
+        },
+        {
+          "id": "B",
+          "text": "Türk ve İslam Eserleri",
+          "explanation": "TİEM'in halıları Selçuklu-Osmanlı dönemidir."
+        },
+        {
+          "id": "C",
+          "text": "Louvre",
+          "explanation": "Louvre'da değildir."
+        },
+        {
+          "id": "D",
+          "text": "Topkapı",
+          "explanation": "Topkapı'da değildir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-073",
+      "topicId": "osmanli-tarihi",
+      "subtopic": "Kuruluş",
+      "difficulty": 2,
+      "stem": "Osmanlıların ilk düzenli ordusu (yaya ve müsellem) hangi padişah döneminde kuruldu?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Osman Gazi",
+          "explanation": "Osman dönemi aşiret kuvvetleri dönemidir."
+        },
+        {
+          "id": "B",
+          "text": "Orhan Gazi",
+          "explanation": "Doğru — ilk düzenli ordu, ilk para ve ilk medrese Orhan dönemindedir."
+        },
+        {
+          "id": "C",
+          "text": "I. Murad",
+          "explanation": "I. Murad döneminde Yeniçeri Ocağı temelleri atıldı."
+        },
+        {
+          "id": "D",
+          "text": "Yıldırım Bayezid",
+          "explanation": "Yıldırım dönemi genişleme dönemidir."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-074",
+      "topicId": "osmanli-tarihi",
+      "subtopic": "Fetih",
+      "difficulty": 1,
+      "stem": "İstanbul'u fetheden Osmanlı padişahı aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "II. Mehmed (Fatih)",
+          "explanation": "Doğru — 29 Mayıs 1453'te 21 yaşında fethetti."
+        },
+        {
+          "id": "B",
+          "text": "II. Murad",
+          "explanation": "II. Murad, Fatih'in babasıdır."
+        },
+        {
+          "id": "C",
+          "text": "Yavuz Selim",
+          "explanation": "Yavuz, Mısır'ın fatihidir."
+        },
+        {
+          "id": "D",
+          "text": "Kanuni",
+          "explanation": "Kanuni, Fatih'in torununun oğludur."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-075",
+      "topicId": "osmanli-tarihi",
+      "subtopic": "Yükselme",
+      "difficulty": 2,
+      "stem": "Mohaç Meydan Savaşı'yla Osmanlı egemenliğine giren ülke aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Avusturya",
+          "explanation": "Avusturya kuşatıldı ama alınamadı."
+        },
+        {
+          "id": "B",
+          "text": "Lehistan",
+          "explanation": "Lehistan himaye ilişkisindeydi."
+        },
+        {
+          "id": "C",
+          "text": "Macaristan",
+          "explanation": "Doğru — 1526 Mohaç zaferiyle Macaristan Osmanlı etkisine girdi."
+        },
+        {
+          "id": "D",
+          "text": "Venedik",
+          "explanation": "Venedik deniz rakibiydi."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-076",
+      "topicId": "osmanli-tarihi",
+      "subtopic": "Teşkilat",
+      "difficulty": 2,
+      "stem": "Divan-ı Hümayun'da 'padişahın mutlak vekili' olarak mührü taşıyan görevli aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Şeyhülislam",
+          "explanation": "Şeyhülislam fetva makamıdır."
+        },
+        {
+          "id": "B",
+          "text": "Kazasker",
+          "explanation": "Kazasker adalet-eğitim üyesidir."
+        },
+        {
+          "id": "C",
+          "text": "Defterdar",
+          "explanation": "Defterdar maliyecidir."
+        },
+        {
+          "id": "D",
+          "text": "Vezir-i azam (sadrazam)",
+          "explanation": "Doğru — mühr-i hümayun sadrazamdadır."
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "deneme-1-077",
+      "topicId": "osmanli-tarihi",
+      "subtopic": "Gerileme",
+      "difficulty": 2,
+      "stem": "Lale Devri hangi antlaşmayla başlar?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Pasarofça (1718)",
+          "explanation": "Doğru — Patrona Halil İsyanı'na (1730) dek süren dönemi açar."
+        },
+        {
+          "id": "B",
+          "text": "Karlofça (1699)",
+          "explanation": "Karlofça, ilk büyük toprak kaybıdır."
+        },
+        {
+          "id": "C",
+          "text": "Küçük Kaynarca (1774)",
+          "explanation": "Kaynarca sonraki felakettir."
+        },
+        {
+          "id": "D",
+          "text": "Zitvatorok (1606)",
+          "explanation": "Zitvatorok 17. yüzyıl başındadır."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-078",
+      "topicId": "osmanli-tarihi",
+      "subtopic": "Modernleşme",
+      "difficulty": 2,
+      "stem": "Tanzimat Fermanı hangi padişah döneminde ilan edilmiştir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "II. Mahmud",
+          "explanation": "II. Mahmud fermandan aylar önce ölmüştür; hazırlığın mimarıdır."
+        },
+        {
+          "id": "B",
+          "text": "Abdülmecid",
+          "explanation": "Doğru — 1839'da genç padişah Abdülmecid adına Gülhane'de okundu."
+        },
+        {
+          "id": "C",
+          "text": "Abdülaziz",
+          "explanation": "Abdülaziz 1861'de tahta çıktı."
+        },
+        {
+          "id": "D",
+          "text": "II. Abdülhamid",
+          "explanation": "Abdülhamid, Meşrutiyet dönemindedir."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-079",
+      "topicId": "osmanli-tarihi",
+      "subtopic": "Saray",
+      "difficulty": 2,
+      "stem": "Topkapı Sarayı'nda padişah ailesinin yaşadığı bölüm aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Harem",
+          "explanation": "Doğru — valide sultan yönetimindeki özel yaşam alanıdır."
+        },
+        {
+          "id": "B",
+          "text": "Enderun",
+          "explanation": "Enderun, saray okuludur."
+        },
+        {
+          "id": "C",
+          "text": "Birun",
+          "explanation": "Birun, dış hizmetlilerdir."
+        },
+        {
+          "id": "D",
+          "text": "Divanhane",
+          "explanation": "Divanhane, kubbealtı toplantı yeridir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-080",
+      "topicId": "osmanli-tarihi",
+      "subtopic": "Dağılma",
+      "difficulty": 3,
+      "stem": "Osmanlı'nın I. Dünya Savaşı'ndan çekilmesini belgeleyen ateşkes aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mudanya Mütarekesi",
+          "explanation": "Mudanya (1922), Kurtuluş Savaşı'nın ateşkesidir."
+        },
+        {
+          "id": "B",
+          "text": "Sevr Antlaşması",
+          "explanation": "Sevr (1920) ateşkes değil, ölü doğan barış dayatmasıdır."
+        },
+        {
+          "id": "C",
+          "text": "Mondros Mütarekesi",
+          "explanation": "Doğru — 30 Ekim 1918'de Limni'nin Mondros limanında imzalandı."
+        },
+        {
+          "id": "D",
+          "text": "Brest-Litovsk",
+          "explanation": "Brest-Litovsk, Rusya'nın çekilişidir."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-081",
+      "topicId": "dinler-tarihi",
+      "subtopic": "Konsil",
+      "difficulty": 2,
+      "stem": "Hristiyanlık tarihinin ilk ekümenik konsilinin toplandığı kent bugün hangi ilimizdedir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Bursa (İznik)",
+          "explanation": "Doğru — 325 İznik Konsili; İznik, Bursa iline bağlıdır."
+        },
+        {
+          "id": "B",
+          "text": "İstanbul (Kadıköy)",
+          "explanation": "Kadıköy Konsili 451'dedir, dördüncüdür."
+        },
+        {
+          "id": "C",
+          "text": "İzmir (Efes)",
+          "explanation": "Efes Konsili 431'dedir, üçüncüdür."
+        },
+        {
+          "id": "D",
+          "text": "Antakya",
+          "explanation": "Antakya'da ekümenik konsil toplanmadı."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-082",
+      "topicId": "dinler-tarihi",
+      "subtopic": "İslam",
+      "difficulty": 2,
+      "stem": "Camide Cuma hutbesinin okunduğu yer aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mihrap",
+          "explanation": "Mihrap kıble nişidir."
+        },
+        {
+          "id": "B",
+          "text": "Minber",
+          "explanation": "Doğru — hatip hutbeyi merdivenli minberde okur."
+        },
+        {
+          "id": "C",
+          "text": "Şadırvan",
+          "explanation": "Şadırvan abdest çeşmesidir."
+        },
+        {
+          "id": "D",
+          "text": "Mahfil",
+          "explanation": "Mahfil özel bölümdür."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-083",
+      "topicId": "dinler-tarihi",
+      "subtopic": "Yahudilik",
+      "difficulty": 2,
+      "stem": "Yahudilikte haftalık ibadet ve dinlenme günü aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Pazar",
+          "explanation": "Pazar, Hristiyan ibadet günüdür."
+        },
+        {
+          "id": "B",
+          "text": "Cuma",
+          "explanation": "Cuma, İslam'ın toplu namaz günüdür."
+        },
+        {
+          "id": "C",
+          "text": "Şabat (Cumartesi)",
+          "explanation": "Doğru — Cuma gün batımından cumartesi gün batımına sürer."
+        },
+        {
+          "id": "D",
+          "text": "Perşembe",
+          "explanation": "Perşembe özel ibadet günü değildir."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-084",
+      "topicId": "dinler-tarihi",
+      "subtopic": "Budizm",
+      "difficulty": 2,
+      "stem": "Budizm'de arzuların sönmesiyle ulaşılan kurtuluş haline ne ad verilir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Nirvana",
+          "explanation": "Doğru — doğum-ölüm döngüsünden (samsara) çıkıştır."
+        },
+        {
+          "id": "B",
+          "text": "Karma",
+          "explanation": "Karma amel yasasıdır."
+        },
+        {
+          "id": "C",
+          "text": "Moksa",
+          "explanation": "Moksa, Hinduizm'in kurtuluş terimidir."
+        },
+        {
+          "id": "D",
+          "text": "Sangha",
+          "explanation": "Sangha, rahipler topluluğudur."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-085",
+      "topicId": "dinler-tarihi",
+      "subtopic": "İnanç turizmi",
+      "difficulty": 2,
+      "stem": "Vatikan'ın hac yeri ilan ettiği Meryem Ana Evi hangi dağdadır?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Bülbüldağı",
+          "explanation": "Doğru — Selçuk-Efes yakınındaki Bülbüldağı'ndadır."
+        },
+        {
+          "id": "B",
+          "text": "Spil Dağı",
+          "explanation": "Spil, Manisa'dadır (Niobe kayası)."
+        },
+        {
+          "id": "C",
+          "text": "Nemrut",
+          "explanation": "Nemrut, Kommagene anıtıdır."
+        },
+        {
+          "id": "D",
+          "text": "Uludağ",
+          "explanation": "Uludağ keşişler dağıdır ama Meryem Ana Evi orada değildir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-086",
+      "topicId": "dinler-tarihi",
+      "subtopic": "Tasavvuf",
+      "difficulty": 2,
+      "stem": "Mevlevilikte sema yapan dervişlere ne ad verilir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Semazen",
+          "explanation": "Doğru — tennure giyen semazenler evrenin dönüşünü simgeler."
+        },
+        {
+          "id": "B",
+          "text": "Meddah",
+          "explanation": "Meddah, halk hikâyecisidir."
+        },
+        {
+          "id": "C",
+          "text": "Aşık",
+          "explanation": "Aşık, saz şairidir."
+        },
+        {
+          "id": "D",
+          "text": "Baksı",
+          "explanation": "Baksı, Orta Asya kam geleneğindendir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-087",
+      "topicId": "halk-bilimi-edebiyat",
+      "subtopic": "Seyirlik",
+      "difficulty": 2,
+      "stem": "Karagöz oyununda okumuş, ağdalı diliyle bilgiçlik taslayan tip aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Karagöz",
+          "explanation": "Karagöz, halktan patavatsız tiptir."
+        },
+        {
+          "id": "B",
+          "text": "Hacivat",
+          "explanation": "Doğru — Arapça-Farsça sözcüklerle konuşan yarı aydındır."
+        },
+        {
+          "id": "C",
+          "text": "Tuzsuz Deli Bekir",
+          "explanation": "Tuzsuz, kabadayı tipidir."
+        },
+        {
+          "id": "D",
+          "text": "Beberuhi",
+          "explanation": "Beberuhi, cüce-komik tiptir."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-088",
+      "topicId": "halk-bilimi-edebiyat",
+      "subtopic": "Halk oyunu",
+      "difficulty": 1,
+      "stem": "Ege yöresinin ağır ritimli, efelerle özdeş halk oyunu aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Horon",
+          "explanation": "Horon Karadeniz'indir."
+        },
+        {
+          "id": "B",
+          "text": "Halay",
+          "explanation": "Halay Doğu-Güneydoğu'nundur."
+        },
+        {
+          "id": "C",
+          "text": "Zeybek",
+          "explanation": "Doğru — Harmandalı en ünlü zeybektir."
+        },
+        {
+          "id": "D",
+          "text": "Bar",
+          "explanation": "Bar, Erzurum-Kars oyunudur."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-089",
+      "topicId": "halk-bilimi-edebiyat",
+      "subtopic": "Edebiyat",
+      "difficulty": 2,
+      "stem": "İstiklal Marşı'nın şairi aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mehmet Akif Ersoy",
+          "explanation": "Doğru — 12 Mart 1921'de TBMM'de kabul edildi."
+        },
+        {
+          "id": "B",
+          "text": "Yahya Kemal",
+          "explanation": "Yahya Kemal, İstanbul şairidir."
+        },
+        {
+          "id": "C",
+          "text": "Namık Kemal",
+          "explanation": "Namık Kemal, Tanzimat'ın vatan şairidir."
+        },
+        {
+          "id": "D",
+          "text": "Ziya Gökalp",
+          "explanation": "Gökalp, fikir adamıdır."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-090",
+      "topicId": "halk-bilimi-edebiyat",
+      "subtopic": "UNESCO",
+      "difficulty": 2,
+      "stem": "Edirne Kırkpınar'da güreşçilerin giydiği deri pantolona ne ad verilir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kispet",
+          "explanation": "Doğru — dana derisinden kispet, yağlı güreşin simgesidir."
+        },
+        {
+          "id": "B",
+          "text": "Şalvar",
+          "explanation": "Şalvar günlük giysidir."
+        },
+        {
+          "id": "C",
+          "text": "Potur",
+          "explanation": "Potur, halk giyimidir."
+        },
+        {
+          "id": "D",
+          "text": "Tennure",
+          "explanation": "Tennure, semazen giysisidir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-091",
+      "topicId": "halk-bilimi-edebiyat",
+      "subtopic": "Halk edebiyatı",
+      "difficulty": 2,
+      "stem": "Azrail ile güreşen Deli Dumrul hangi anlatı külliyatının kahramanıdır?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Dede Korkut Hikâyeleri",
+          "explanation": "Doğru — Deli Dumrul, 12 hikâyeden biridir."
+        },
+        {
+          "id": "B",
+          "text": "Köroğlu kolları",
+          "explanation": "Köroğlu ayrı destan dairesidir."
+        },
+        {
+          "id": "C",
+          "text": "Manas",
+          "explanation": "Manas, Kırgız destanıdır."
+        },
+        {
+          "id": "D",
+          "text": "Battalname",
+          "explanation": "Battalname, gazavat anlatısıdır."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-092",
+      "topicId": "halk-bilimi-edebiyat",
+      "subtopic": "Gelenek",
+      "difficulty": 2,
+      "stem": "Nevruz kutlamalarında yakılan ateşin üzerinden atlama geleneği neyi simgeler?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kötülüklerden ve hastalıklardan arınmayı",
+          "explanation": "Doğru — ateş arındırıcı kabul edilir; Ergenekon'daki demir dövme de canlandırılır."
+        },
+        {
+          "id": "B",
+          "text": "Hasadın bitişini",
+          "explanation": "Hasat sonu ritüelleri farklıdır."
+        },
+        {
+          "id": "C",
+          "text": "Askere uğurlamayı",
+          "explanation": "Asker uğurlama ayrı gelenektir."
+        },
+        {
+          "id": "D",
+          "text": "Yağmur duasını",
+          "explanation": "Yağmur duası kuraklıkta yapılır."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-093",
+      "topicId": "ilk-yardim",
+      "subtopic": "TYD",
+      "difficulty": 1,
+      "stem": "Yetişkinde kalp masajı hangi bölgeye uygulanır?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Göğüs kemiğinin alt yarısına",
+          "explanation": "Doğru — iki el üst üste, 5-6 cm derinlikte, dakikada 100-120 bası."
+        },
+        {
+          "id": "B",
+          "text": "Karnın üzerine",
+          "explanation": "Karın basısı Heimlich'tir, masaj değildir."
+        },
+        {
+          "id": "C",
+          "text": "Sol köprücük kemiğine",
+          "explanation": "Köprücük kırılır, kalbe ulaşılmaz."
+        },
+        {
+          "id": "D",
+          "text": "Sırtın ortasına",
+          "explanation": "Sırt darbeleri tıkanmada kullanılır."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-094",
+      "topicId": "ilk-yardim",
+      "subtopic": "Kanama",
+      "difficulty": 2,
+      "stem": "Dış kanamada ilk yapılması gereken aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Turnike uygulamak",
+          "explanation": "Turnike son çaredir."
+        },
+        {
+          "id": "B",
+          "text": "Yara üzerine temiz bezle doğrudan bası yapmak",
+          "explanation": "Doğru — kanama kontrolünün ilk ve en etkili adımı basıdır."
+        },
+        {
+          "id": "C",
+          "text": "Yarayı yıkamak",
+          "explanation": "Aktif kanamada yıkama kanamayı artırır."
+        },
+        {
+          "id": "D",
+          "text": "Hastaya su içirmek",
+          "explanation": "Ciddi kanamada ağızdan sıvı verilmez."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-095",
+      "topicId": "ilk-yardim",
+      "subtopic": "Bilinç",
+      "difficulty": 2,
+      "stem": "Bilinci kapalı fakat düzenli soluyan kazazedeye verilecek pozisyon aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sırtüstü, bacaklar yukarıda",
+          "explanation": "Bu şok pozisyonudur."
+        },
+        {
+          "id": "B",
+          "text": "Yüzüstü",
+          "explanation": "Yüzüstü solunum takibini engeller."
+        },
+        {
+          "id": "C",
+          "text": "Yan yatış (derlenme) pozisyonu",
+          "explanation": "Doğru — dil ve kusmuk hava yolunu tıkayamaz."
+        },
+        {
+          "id": "D",
+          "text": "Oturur pozisyon",
+          "explanation": "Bilinçsiz hasta oturtulamaz."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "deneme-1-096",
+      "topicId": "ilk-yardim",
+      "subtopic": "Yanık",
+      "difficulty": 2,
+      "stem": "Sıcak suyla haşlanan bir çocuğun kolunda ilk uygulama ne olmalıdır?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Diş macunu sürmek",
+          "explanation": "Halk yanlışıdır; enfeksiyon riski taşır."
+        },
+        {
+          "id": "B",
+          "text": "Buz küpleri bastırmak",
+          "explanation": "Doğrudan buz doku hasarını artırır."
+        },
+        {
+          "id": "C",
+          "text": "Su toplayan yerleri patlatmak",
+          "explanation": "Büller patlatılmaz."
+        },
+        {
+          "id": "D",
+          "text": "15-20 dakika akan soğuk su tutmak",
+          "explanation": "Doğru — ısının ilerlemesini durduran standart uygulamadır."
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "deneme-1-097",
+      "topicId": "muzecilik",
+      "subtopic": "Tarih",
+      "difficulty": 2,
+      "stem": "Osman Hamdi Bey'in müzeciliğe kazandırdığı 1884 tarihli düzenleme aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Asar-ı Atika Nizamnamesi",
+          "explanation": "Doğru — eski eserlerin yurt dışına çıkarılmasını yasakladı."
+        },
+        {
+          "id": "B",
+          "text": "Tanzimat Fermanı",
+          "explanation": "Tanzimat 1839 genel reformudur."
+        },
+        {
+          "id": "C",
+          "text": "2863 sayılı Kanun",
+          "explanation": "2863, 1983 tarihli cumhuriyet kanunudur."
+        },
+        {
+          "id": "D",
+          "text": "Islahat Fermanı",
+          "explanation": "Islahat 1856 tarihlidir."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-098",
+      "topicId": "muzecilik",
+      "subtopic": "Müzeler",
+      "difficulty": 2,
+      "stem": "'Çingene Kızı' mozaiği hangi antik kentten çıkarılmıştır?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Efes",
+          "explanation": "Efes'in ünlüsü Yamaç Evler mozaikleridir."
+        },
+        {
+          "id": "B",
+          "text": "Zeugma",
+          "explanation": "Doğru — Belkıs/Zeugma'dan; Gaziantep Zeugma Müzesi'ndedir."
+        },
+        {
+          "id": "C",
+          "text": "Antakya",
+          "explanation": "Antakya'nın mozaikleri Hatay Müzesi'ndedir."
+        },
+        {
+          "id": "D",
+          "text": "Perge",
+          "explanation": "Perge heykelleriyle ünlüdür."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deneme-1-099",
+      "topicId": "muzecilik",
+      "subtopic": "Mevzuat",
+      "difficulty": 2,
+      "stem": "2863 sayılı Kanun'a göre tarlasında tarihi eser bulan kişinin yapması gereken aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "En yakın müze veya mülki amire bildirmek",
+          "explanation": "Doğru — eser devletindir; bildirene ikramiye ödenebilir."
+        },
+        {
+          "id": "B",
+          "text": "Evinde saklamak",
+          "explanation": "Saklamak suçtur."
+        },
+        {
+          "id": "C",
+          "text": "İnternetten satmak",
+          "explanation": "Satış kaçakçılıktır; ağır cezası vardır."
+        },
+        {
+          "id": "D",
+          "text": "Kendisi kazıya devam etmek",
+          "explanation": "İzinsiz kazı suçtur."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deneme-1-100",
+      "topicId": "muzecilik",
+      "subtopic": "İade",
+      "difficulty": 3,
+      "stem": "'Yorgun Herakles' heykelinin bugün sergilendiği müze aşağıdakilerden hangisidir?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "İstanbul Arkeoloji Müzeleri",
+          "explanation": "İstanbul'un yıldızı İskender Lahdi'dir."
+        },
+        {
+          "id": "B",
+          "text": "Boston Güzel Sanatlar Müzesi",
+          "explanation": "Boston, üst gövdeyi 2011'de iade etti."
+        },
+        {
+          "id": "C",
+          "text": "Antalya Müzesi",
+          "explanation": "Doğru — iade edilen üst gövde, Perge buluntusu alt parçayla Antalya'da birleştirildi."
+        },
+        {
+          "id": "D",
+          "text": "Side Müzesi",
+          "explanation": "Side'de değildir."
+        }
+      ],
+      "correct": "C"
+    }
+  ]
+}
