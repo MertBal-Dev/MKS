@@ -10,6 +10,8 @@ import romaYunanBizansTopic from './topics/roma-yunan-bizans.json';
 import romaYunanBizansQuestions from './questions/roma-yunan-bizans.json';
 import turizmCografyasiTopic from './topics/turizm-cografyasi.json';
 import turizmCografyasiQuestions from './questions/turizm-cografyasi.json';
+import genelTurizmTopic from './topics/genel-turizm.json';
+import genelTurizmQuestions from './questions/genel-turizm.json';
 
 /**
  * İçerik kayıt noktası. Yeni içerik eklemek = JSON dosyası + buraya bir satır.
@@ -21,6 +23,7 @@ export const topics: Topic[] = [
   sanatTarihiTopic as unknown as Topic,
   romaYunanBizansTopic as unknown as Topic,
   turizmCografyasiTopic as unknown as Topic,
+  genelTurizmTopic as unknown as Topic,
 ];
 
 export const questionBank: Question[] = [
@@ -29,6 +32,7 @@ export const questionBank: Question[] = [
   ...(sanatTarihiQuestions as unknown as Question[]),
   ...(romaYunanBizansQuestions as unknown as Question[]),
   ...(turizmCografyasiQuestions as unknown as Question[]),
+  ...(genelTurizmQuestions as unknown as Question[]),
 ];
 
 export const exams: Exam[] = [];

@@ -1,0 +1,566 @@
+[
+  {
+    "id": "genel-turizm-001",
+    "topicId": "genel-turizm",
+    "subtopic": "Temel kavramlar",
+    "difficulty": 1,
+    "stem": "Gittiği yerde en az bir gece konaklayan ziyaretçiye ne ad verilir?",
+    "choices": [
+      { "id": "A", "text": "Turist", "explanation": "Doğru — konaklama, turisti günübirlikçiden ayıran ölçüttür." },
+      { "id": "B", "text": "Günübirlikçi", "explanation": "Günübirlikçi konaklamadan aynı gün döner." },
+      { "id": "C", "text": "Transit yolcu", "explanation": "Transit yolcu, ülkeye giriş yapmadan geçiş yapandır." },
+      { "id": "D", "text": "Göçmen", "explanation": "Göçmen, yerleşme amacıyla hareket eder; ziyaretçi tanımının dışındadır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-002",
+    "topicId": "genel-turizm",
+    "subtopic": "Temel kavramlar",
+    "difficulty": 2,
+    "stem": "Yabancı turistlerin Türkiye'ye gelerek yaptıkları turizm hareketine ne ad verilir?",
+    "choices": [
+      { "id": "A", "text": "Aktif dış turizm", "explanation": "Doğru — ülkeye döviz girişi sağlar; 'ihracat benzeri' etki yaratır." },
+      { "id": "B", "text": "Pasif dış turizm", "explanation": "Pasif dış turizm, vatandaşların yurt dışına çıkmasıdır (döviz kaybettirir)." },
+      { "id": "C", "text": "İç turizm", "explanation": "İç turizm, vatandaşın kendi ülkesindeki seyahatidir." },
+      { "id": "D", "text": "Sosyal turizm", "explanation": "Sosyal turizm, dar gelirlilerin desteklenmiş tatilidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-003",
+    "topicId": "genel-turizm",
+    "subtopic": "Turizm tarihi",
+    "difficulty": 1,
+    "stem": "1841'de düzenlediği tren gezisiyle modern paket turun ve seyahat acentacılığının kurucusu kabul edilen kişi kimdir?",
+    "choices": [
+      { "id": "A", "text": "Thomas Cook", "explanation": "Doğru — Leicester-Loughborough turuyla başlayan girişimi dünyanın ilk seyahat acentasına dönüştü." },
+      { "id": "B", "text": "César Ritz", "explanation": "Ritz, lüks otelciliğin babasıdır." },
+      { "id": "C", "text": "Conrad Hilton", "explanation": "Hilton, 20. yüzyıl otel zinciri kurucusudur." },
+      { "id": "D", "text": "Karl Baedeker", "explanation": "Baedeker, gezi rehberi kitaplarıyla ünlüdür." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-004",
+    "topicId": "genel-turizm",
+    "subtopic": "Mevzuat",
+    "difficulty": 1,
+    "stem": "Turist rehberliği mesleğini düzenleyen kanun aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "6326 sayılı Turist Rehberliği Meslek Kanunu", "explanation": "Doğru — 2012'de yürürlüğe giren 6326, mesleğe kabulden disipline kadar tüm süreci düzenler." },
+      { "id": "B", "text": "1618 sayılı Kanun", "explanation": "1618, seyahat acentalarını ve TÜRSAB'ı düzenler." },
+      { "id": "C", "text": "2634 sayılı Kanun", "explanation": "2634, Turizm Teşvik Kanunu'dur." },
+      { "id": "D", "text": "657 sayılı Kanun", "explanation": "657, Devlet Memurları Kanunu'dur." }
+    ],
+    "correct": "A",
+    "trick": "Numara üçlüsü ezber: 6326=rehber, 1618=acenta, 2634=teşvik."
+  },
+  {
+    "id": "genel-turizm-005",
+    "topicId": "genel-turizm",
+    "subtopic": "Mevzuat",
+    "difficulty": 2,
+    "stem": "Turist rehberi ruhsatnamesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "choices": [
+      { "id": "A", "text": "Bakanlık tarafından verilir ve süresizdir", "explanation": "Doğru — mesleğe kabul koşullarını tamamlayan adaya Kültür ve Turizm Bakanlığı ruhsatname düzenler." },
+      { "id": "B", "text": "Rehber odası tarafından her yıl yenilenir", "explanation": "Her yıl yenilenen belge çalışma kartıdır ve odaca/birlikçe verilir — iki belge karıştırılıyor." },
+      { "id": "C", "text": "TÜRSAB tarafından verilir", "explanation": "TÜRSAB acentaların birliğidir; rehber belgeleriyle ilgisi yoktur." },
+      { "id": "D", "text": "Beş yılda bir sınavla yenilenir", "explanation": "Ruhsatname için periyodik sınav yoktur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-006",
+    "topicId": "genel-turizm",
+    "subtopic": "Mevzuat",
+    "difficulty": 2,
+    "stem": "Fiilen rehberlik yapabilmek için her yıl alınması gereken belge ve bu belgeyi veren kurum aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Çalışma kartı — bağlı olunan rehber odası/birlik", "explanation": "Doğru — yıllık çalışma kartını alan rehber 'eylemli rehber' statüsü kazanır." },
+      { "id": "B", "text": "Ruhsatname — Bakanlık", "explanation": "Ruhsatname bir kez verilir ve süresizdir; yıllık belge çalışma kartıdır." },
+      { "id": "C", "text": "Kokart — TÜRSAB", "explanation": "Kokart, çalışma kartının halk dilindeki adıdır ama veren kurum TÜRSAB değil, rehber odasıdır." },
+      { "id": "D", "text": "Yeterlilik belgesi — üniversite", "explanation": "Üniversite diploması mesleğe girişte aranır; yıllık belge değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-007",
+    "topicId": "genel-turizm",
+    "subtopic": "Mevzuat",
+    "difficulty": 2,
+    "stem": "Ruhsatnamesi olduğu halde o yıl için çalışma kartı almamış rehbere ne ad verilir?",
+    "choices": [
+      { "id": "A", "text": "Eylemsiz rehber", "explanation": "Doğru — eylemsiz rehber fiilen rehberlik yapamaz; kart alarak eylemli statüye geçebilir." },
+      { "id": "B", "text": "Eylemli rehber", "explanation": "Eylemli rehber tam tersine, kartını almış ve çalışabilen rehberdir." },
+      { "id": "C", "text": "Stajyer rehber", "explanation": "Mevzuatta 'stajyer rehber' diye bir statü yoktur." },
+      { "id": "D", "text": "Bölgesel rehber", "explanation": "Bölgesel rehberlik coğrafi yetki sınıfıdır; kart durumuyla ilgili değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-008",
+    "topicId": "genel-turizm",
+    "subtopic": "Mevzuat",
+    "difficulty": 3,
+    "stem": "Aşağıdakilerden hangisi 6326 sayılı Kanun'da öngörülen disiplin cezalarından biri DEĞİLDİR?",
+    "choices": [
+      { "id": "A", "text": "Para cezası", "explanation": "Doğru cevap bu — disiplin cezaları uyarma, kınama, geçici men ve meslekten çıkarmadır; para cezası disiplin cezası değildir (belgesiz çalışmaya idari para yaptırımı ayrı konudur)." },
+      { "id": "B", "text": "Uyarma", "explanation": "Uyarma en hafif disiplin cezasıdır." },
+      { "id": "C", "text": "Kınama", "explanation": "Kınama ikinci kademe cezadır." },
+      { "id": "D", "text": "Meslekten çıkarma", "explanation": "Meslekten çıkarma en ağır cezadır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-009",
+    "topicId": "genel-turizm",
+    "subtopic": "Mevzuat",
+    "difficulty": 2,
+    "stem": "Turist rehberleri taban ücretini her yıl ilan eden makam aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kültür ve Turizm Bakanlığı", "explanation": "Doğru — birliğin görüşü alınarak Bakanlıkça belirlenir ve ilan edilir; altında çalışmak disiplin suçudur." },
+      { "id": "B", "text": "TÜRSAB", "explanation": "TÜRSAB acenta birliğidir; rehber ücreti belirlemez." },
+      { "id": "C", "text": "Çalışma Bakanlığı", "explanation": "Rehber taban ücreti turizm mevzuatının konusudur." },
+      { "id": "D", "text": "Rehber odaları", "explanation": "Odalar görüş bildirir; ilan yetkisi Bakanlığındır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-010",
+    "topicId": "genel-turizm",
+    "subtopic": "Mevzuat",
+    "difficulty": 3,
+    "stem": "TUREB sertifika programı yoluyla turist rehberi olabilmek için gereken asgari eğitim düzeyi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Lisans mezunu olmak", "explanation": "Doğru — rehberlik bölümü dışından gelenler için sertifika programına başvuru şartı en az lisans diplomasıdır." },
+      { "id": "B", "text": "Önlisans mezunu olmak", "explanation": "Önlisans yalnızca turist rehberliği bölümü mezunlarına yeterlidir; sertifika yolunda lisans gerekir — iki yol karıştırılır." },
+      { "id": "C", "text": "Lise mezunu olmak", "explanation": "Lise hiçbir yol için yeterli değildir." },
+      { "id": "D", "text": "Yüksek lisans mezunu olmak", "explanation": "Yüksek lisans şart değildir; lisans yeterlidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-011",
+    "topicId": "genel-turizm",
+    "subtopic": "Tipolojiler",
+    "difficulty": 2,
+    "stem": "Turistleri psikosentrik (içe dönük), allosentrik (dışa dönük) ve mid-sentrik olarak sınıflandıran araştırmacı kimdir?",
+    "choices": [
+      { "id": "A", "text": "Plog", "explanation": "Doğru — Stanley Plog'un 1974 tipolojisi; Şubat 2025 MKS'de aynen soruldu." },
+      { "id": "B", "text": "Cohen", "explanation": "Cohen'in tipolojisi örgütlü kitle/bireysel kitle/kâşif/başıboş dörtlüsüdür." },
+      { "id": "C", "text": "Freud", "explanation": "Freud psikanalizin kurucusudur; turist tipolojisi yapmamıştır — isim benzerliği tuzağı." },
+      { "id": "D", "text": "Jung", "explanation": "Jung'un içe/dışa dönük kişilik kavramı vardır ama TURİST sınıflandırması Plog'undur." }
+    ],
+    "correct": "A",
+    "trick": "Jung 'içe/dışa dönük kişilik' der; turizme uyarlayan Plog'dur. Sınav tam bu benzerliğe oynar."
+  },
+  {
+    "id": "genel-turizm-012",
+    "topicId": "genel-turizm",
+    "subtopic": "Tipolojiler",
+    "difficulty": 2,
+    "stem": "Plog'a göre tanıdık ortamları tercih eden, riskten kaçınan ve paket turları seven turist tipi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Psikosentrik", "explanation": "Doğru — içe dönük psikosentrik tip, güvenli ve popüler destinasyonları seçer." },
+      { "id": "B", "text": "Allosentrik", "explanation": "Allosentrik tam tersidir: yeni ve keşfedilmemiş yerleri arar." },
+      { "id": "C", "text": "Mid-sentrik", "explanation": "Mid-sentrik ortadadır; kitle turizminin ana kütlesi olsa da 'riskten kaçınan uç' psikosentriktir." },
+      { "id": "D", "text": "Drifter", "explanation": "Drifter, Cohen'in başıboş gezginidir; en maceracı uçtur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-013",
+    "topicId": "genel-turizm",
+    "subtopic": "Tipolojiler",
+    "difficulty": 3,
+    "stem": "Cohen'in tipolojisinde, yerel yaşama tamamen karışan ve hiçbir kurumsal turizm hizmeti kullanmayan turist tipi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Başıboş gezgin (drifter)", "explanation": "Doğru — drifter, 'çevre balonu' en ince olan tiptir; plansız gezer, yerel gibi yaşar." },
+      { "id": "B", "text": "Örgütlenmiş kitle turisti", "explanation": "Bu tip tam tersidir: her şey pakettedir, çevre balonu en kalındır." },
+      { "id": "C", "text": "Bireysel kitle turisti", "explanation": "Paket kullanır ama küçük esneklikler ekler." },
+      { "id": "D", "text": "Kâşif (explorer)", "explanation": "Kâşif kendi planını yapar ama konforlu hizmetleri tamamen reddetmez; drifter kadar uçta değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-014",
+    "topicId": "genel-turizm",
+    "subtopic": "Sosyoloji",
+    "difficulty": 3,
+    "stem": "Doxey'in rahatsızlık indeksine (Irridex) göre yerel halkın turizme tepkisinin doğru sıralanışı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Coşku → ilgisizlik → rahatsızlık → düşmanlık", "explanation": "Doğru — turizm yoğunlaştıkça yerel halkın tutumu bu sırayla olumsuzlaşır." },
+      { "id": "B", "text": "İlgisizlik → coşku → düşmanlık → rahatsızlık", "explanation": "Süreç coşkuyla başlar; bu sıralama bozuktur." },
+      { "id": "C", "text": "Düşmanlık → rahatsızlık → ilgisizlik → coşku", "explanation": "Bu, sürecin tam tersidir." },
+      { "id": "D", "text": "Coşku → düşmanlık → uyum → kabullenme", "explanation": "Uyum-kabullenme, kültür şoku evrelerindendir — iki model karıştırılmış." }
+    ],
+    "correct": "A",
+    "trick": "CİRD: Coşku-İlgisizlik-Rahatsızlık-Düşmanlık. Kültür şoku evreleriyle karıştırma."
+  },
+  {
+    "id": "genel-turizm-015",
+    "topicId": "genel-turizm",
+    "subtopic": "Sosyoloji",
+    "difficulty": 2,
+    "stem": "Yerel halkın, turistlerin yaşam tarzı ve tüketim alışkanlıklarını taklit etmeye başlamasına ne ad verilir?",
+    "choices": [
+      { "id": "A", "text": "Gösteri (taklit) etkisi", "explanation": "Doğru — turizmin olumsuz sosyokültürel etkilerindendir; özellikle gençlerde görülür." },
+      { "id": "B", "text": "Taşıma kapasitesi", "explanation": "Taşıma kapasitesi, destinasyonun kaldırabileceği ziyaretçi yüküdür." },
+      { "id": "C", "text": "Kültürel metalaşma", "explanation": "Metalaşma, ritüel ve geleneklerin satılık gösteriye dönüşmesidir — benzer ama farklı kavram." },
+      { "id": "D", "text": "Otantiklik", "explanation": "Otantiklik, özgünlük demektir; olumsuz etki değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-016",
+    "topicId": "genel-turizm",
+    "subtopic": "Sosyoloji",
+    "difficulty": 2,
+    "stem": "Bir destinasyonun çevresel ve sosyal bozulma yaşanmadan ağırlayabileceği en fazla ziyaretçi miktarına ne ad verilir?",
+    "choices": [
+      { "id": "A", "text": "Taşıma kapasitesi", "explanation": "Doğru — fiziksel, ekolojik ve sosyal boyutları vardır; sürdürülebilir turizmin temel ölçütüdür." },
+      { "id": "B", "text": "Doluluk oranı", "explanation": "Doluluk oranı, otel işletmeciliği göstergesidir." },
+      { "id": "C", "text": "Turizm arzı", "explanation": "Arz, sunulan tüm turizm değerlerinin toplamıdır." },
+      { "id": "D", "text": "Sezon yoğunluğu", "explanation": "Mevsimsellikle ilgilidir; kapasite kavramı değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-017",
+    "topicId": "genel-turizm",
+    "subtopic": "Örgütler",
+    "difficulty": 2,
+    "stem": "Birleşmiş Milletler Dünya Turizm Örgütü'nün (UN Tourism/UNWTO) merkezi hangi şehirdedir?",
+    "choices": [
+      { "id": "A", "text": "Madrid", "explanation": "Doğru — örgütün merkezi İspanya'nın başkenti Madrid'dir; 27 Eylül Dünya Turizm Günü'dür." },
+      { "id": "B", "text": "Cenevre", "explanation": "Cenevre birçok BM kuruluşuna ev sahipliği yapar ama UNWTO'ya değil — klasik tuzak." },
+      { "id": "C", "text": "Paris", "explanation": "Paris, UNESCO'nun merkezidir." },
+      { "id": "D", "text": "New York", "explanation": "New York, BM Genel Merkezi'dir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-018",
+    "topicId": "genel-turizm",
+    "subtopic": "Örgütler",
+    "difficulty": 2,
+    "stem": "Yalnızca Türkiye Cumhuriyeti vatandaşlarına yurt içi tur düzenleyebilen seyahat acentası grubu aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "C grubu", "explanation": "Doğru — C grubu acentaların yetkisi bu kadarla sınırlıdır." },
+      { "id": "B", "text": "A grubu", "explanation": "A grubu tüm acentacılık hizmetlerini yapabilir — en geniş yetki." },
+      { "id": "C", "text": "B grubu", "explanation": "B grubu uluslararası ulaştırma biletleri satar." },
+      { "id": "D", "text": "D grubu", "explanation": "Mevzuatta D grubu acenta yoktur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-019",
+    "topicId": "genel-turizm",
+    "subtopic": "Örgütler",
+    "difficulty": 1,
+    "stem": "Türkiye Seyahat Acentaları Birliği'nin kısaltması ve kuruluş yılı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "TÜRSAB — 1972", "explanation": "Doğru — 1618 sayılı Kanun'la kurulan TÜRSAB'a tüm acentalar üye olmak zorundadır." },
+      { "id": "B", "text": "TUREB — 1972", "explanation": "TUREB rehberlerin birliğidir ve 6326 (2012) sonrası yapılanmıştır." },
+      { "id": "C", "text": "TÜROB — 1985", "explanation": "TÜROB, otelciler birliğidir (gönüllü)." },
+      { "id": "D", "text": "TGA — 2019", "explanation": "TGA, Turizm Tanıtım ve Geliştirme Ajansı'dır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-020",
+    "topicId": "genel-turizm",
+    "subtopic": "Mevzuat",
+    "difficulty": 2,
+    "stem": "1982 tarihli ve turizm bölgeleri, belgeli işletmeler gibi konuları düzenleyen kanun aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "2634 sayılı Turizm Teşvik Kanunu", "explanation": "Doğru — turizm yatırımlarının teşvik çerçevesini bugün de bu kanun çizer." },
+      { "id": "B", "text": "6326 sayılı Kanun", "explanation": "6326 (2012) rehberlik mesleğini düzenler." },
+      { "id": "C", "text": "1618 sayılı Kanun", "explanation": "1618 (1972) seyahat acentalarını düzenler." },
+      { "id": "D", "text": "5216 sayılı Kanun", "explanation": "5216, Büyükşehir Belediyesi Kanunu'dur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-021",
+    "topicId": "genel-turizm",
+    "subtopic": "Rehberlik pratiği",
+    "difficulty": 2,
+    "stem": "Turisti komisyon karşılığında belirli mağazalara yönlendirip alışverişe zorlamaya halk arasında ne ad verilir ve mesleki durumu nedir?",
+    "choices": [
+      { "id": "A", "text": "Hanutçuluk — etik ihlaldir ve yasaktır", "explanation": "Doğru — hem meslek etiğine hem tüketici haklarına aykırıdır; disiplin soruşturması nedenidir." },
+      { "id": "B", "text": "Animasyon — serbesttir", "explanation": "Animasyon, tesislerdeki eğlence hizmetidir; ilgisiz kavram." },
+      { "id": "C", "text": "Enformasyon — zorunludur", "explanation": "Enformasyon bilgilendirmedir; alışveriş baskısıyla ilgisi yoktur." },
+      { "id": "D", "text": "Transfer — ücrete tabidir", "explanation": "Transfer, karşılama-uğurlama taşımacılığıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-022",
+    "topicId": "genel-turizm",
+    "subtopic": "Rehberlik pratiği",
+    "difficulty": 2,
+    "stem": "Kültür şoku evrelerinin doğru sıralanışı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Balayı → kriz/şok → uyum → kabullenme", "explanation": "Doğru — yeni kültürle karşılaşan kişi önce büyülenir, sonra bocalar, ardından uyum geliştirir." },
+      { "id": "B", "text": "Kriz → balayı → kabullenme → uyum", "explanation": "Süreç balayı ile başlar; kriz ikinci evredir." },
+      { "id": "C", "text": "Coşku → ilgisizlik → rahatsızlık → düşmanlık", "explanation": "Bu, Doxey'in Irridex'idir — yerel halkın tepki modeli; kişisel kültür şoku değildir." },
+      { "id": "D", "text": "Uyum → şok → balayı → ret", "explanation": "Sıralama tümüyle bozuktur." }
+    ],
+    "correct": "A",
+    "trick": "İki model karıştırılır: kültür şoku (balayı-kriz-uyum-kabul) bireyseldir; Irridex (coşku-ilgisizlik-rahatsızlık-düşmanlık) toplumsaldır."
+  },
+  {
+    "id": "genel-turizm-023",
+    "topicId": "genel-turizm",
+    "subtopic": "Turizm tarihi",
+    "difficulty": 3,
+    "stem": "Orient Express yolcularını ağırlamak için 1892'de İstanbul'da açılan tarihi otel aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Pera Palas", "explanation": "Doğru — Türkiye'nin ilk modern otellerindendir; Atatürk'ün kaldığı 101 numaralı oda müze-odadır." },
+      { "id": "B", "text": "Çırağan Sarayı", "explanation": "Çırağan, saraydan otele 1990'larda dönüştürülmüştür." },
+      { "id": "C", "text": "Büyük Londra Oteli", "explanation": "Büyük Londra da tarihi bir Pera otelidir ama Orient Express bağlantısıyla anılan Pera Palas'tır." },
+      { "id": "D", "text": "Tokatlıyan Oteli", "explanation": "Tokatlıyan dönemin ünlü otelidir ama soru 1892-Orient Express eşleşmesini arar." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-024",
+    "topicId": "genel-turizm",
+    "subtopic": "Turizm tarihi",
+    "difficulty": 2,
+    "stem": "Türkiye'de turizmin ilk kez bakanlık düzeyinde örgütlendiği yıl aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "1963", "explanation": "Doğru — Turizm ve Tanıtma Bakanlığı 1963'te kuruldu; planlı kalkınma dönemiyle eş zamanlıdır." },
+      { "id": "B", "text": "1923", "explanation": "1923'te cumhuriyet kuruldu; turizm bakanlığı yoktu (Seyyahin Cemiyeti aynı yıl kuruldu)." },
+      { "id": "C", "text": "1982", "explanation": "1982, Turizm Teşvik Kanunu'nun yılıdır." },
+      { "id": "D", "text": "2003", "explanation": "2003, Kültür ve Turizm bakanlıklarının birleştiği yıldır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-025",
+    "topicId": "genel-turizm",
+    "subtopic": "Temel kavramlar",
+    "difficulty": 2,
+    "stem": "Turizm talebinin oluşabilmesi için gereken üç temel unsur aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Boş zaman, satın alma gücü, seyahat isteği", "explanation": "Doğru — üçünden biri eksikse talep gerçekleşmez (zamanı olup parası olmayan ya da tersi seyahat edemez)." },
+      { "id": "B", "text": "Pasaport, vize, bilet", "explanation": "Bunlar biçimsel araçlardır; talebin ekonomik-psikolojik unsurları değildir." },
+      { "id": "C", "text": "Otel, uçak, rehber", "explanation": "Bunlar arz unsurlarıdır." },
+      { "id": "D", "text": "Reklam, tanıtım, kampanya", "explanation": "Bunlar talebi etkileyen pazarlama araçlarıdır; kurucu unsur değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-026",
+    "topicId": "genel-turizm",
+    "subtopic": "Rehberlik pratiği",
+    "difficulty": 2,
+    "stem": "Tur sırasında yüksek sesle şikâyet eden bir misafire karşı rehberin en doğru yaklaşımı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Molada birebir görüşüp dinlemek, empati kurmak ve çözüm önermek", "explanation": "Doğru — şikâyet grup önünde tartışılmaz; birebir dinleme + çözüm + takip, profesyonel şikâyet yönetimidir." },
+      { "id": "B", "text": "Grup önünde haksız olduğunu kanıtlamak", "explanation": "Grup önünde tartışma hem misafiri hem grubu gerer; kriz büyür." },
+      { "id": "C", "text": "Şikâyeti duymazdan gelmek", "explanation": "Görmezden gelinen şikâyet büyür ve grubun geneline yayılır." },
+      { "id": "D", "text": "Turun sonunda acentaya şikâyet dilekçesi vermesini söyleyip konuyu kapatmak", "explanation": "Yasal yol saklıdır ama rehberin ilk görevi yerinde çözüm aramaktır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-027",
+    "topicId": "genel-turizm",
+    "subtopic": "Mevzuat",
+    "difficulty": 3,
+    "stem": "6326 sayılı Kanun'a göre turist rehberliği hizmetinin coğrafi kapsamına ilişkin doğru ifade aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Rehberlik, ülkesel veya bölgesel düzeyde yapılabilir", "explanation": "Doğru — ruhsatname ülkesel ya da belirli bölgeler için düzenlenebilir; bölgesel rehber yalnızca yetkili olduğu bölgede çalışır." },
+      { "id": "B", "text": "Tüm rehberler yalnızca il düzeyinde yetkilidir", "explanation": "İl bazlı sınırlama yoktur; sınıflar ülkesel/bölgeseldir." },
+      { "id": "C", "text": "Bölgesel rehberlik 2012'de kaldırılmıştır", "explanation": "Tam tersine 6326, bölgesel rehberliği tanımlar." },
+      { "id": "D", "text": "Ülkesel rehberlik yalnızca yabancı dil bilenlere verilir", "explanation": "Yabancı dil şartı zaten tüm rehberler için geçerlidir; ülkesel/bölgesel ayrımı dilden bağımsızdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-028",
+    "topicId": "genel-turizm",
+    "subtopic": "Örgütler",
+    "difficulty": 2,
+    "stem": "Uçak biletleme kuralları ve havayolu iş birliğini düzenleyen, merkezi Montreal'de bulunan uluslararası kuruluş aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "IATA", "explanation": "Doğru — Uluslararası Hava Taşımacılığı Birliği; acenta yetkilendirmeleri (IATA acentası) da bu kuruluşa bağlıdır." },
+      { "id": "B", "text": "ICAO", "explanation": "ICAO da Montreal'dedir ama devletlerarası sivil havacılık OTORİTESİdir; biletleme standartları IATA'nındır." },
+      { "id": "C", "text": "UNWTO", "explanation": "UNWTO turizm örgütüdür; havacılıkla ilgilenmez." },
+      { "id": "D", "text": "WTTC", "explanation": "WTTC, özel sektör turizm konseyidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-029",
+    "topicId": "genel-turizm",
+    "subtopic": "Sosyoloji",
+    "difficulty": 3,
+    "stem": "Butler'ın destinasyon yaşam döngüsü modelinde 'durgunluk' evresinden sonra gelebilecek iki olası yön aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Gerileme veya yenilenme", "explanation": "Doğru — destinasyon ya cazibesini yitirip geriler ya da yeni ürün/pazarlarla kendini yeniler (rejuvenation)." },
+      { "id": "B", "text": "Keşif veya katılım", "explanation": "Bunlar döngünün başlangıç evreleridir." },
+      { "id": "C", "text": "Coşku veya düşmanlık", "explanation": "Bunlar Doxey modelinin terimleridir." },
+      { "id": "D", "text": "Balayı veya kriz", "explanation": "Bunlar kültür şoku evreleridir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-030",
+    "topicId": "genel-turizm",
+    "subtopic": "Temel kavramlar",
+    "difficulty": 2,
+    "stem": "Kruvaziyer gemisiyle sabah limana inip akşam gemisine dönen ziyaretçi istatistiklerde nasıl sınıflandırılır?",
+    "choices": [
+      { "id": "A", "text": "Günübirlikçi", "explanation": "Doğru — karada konaklamadığı için turist değil günübirlikçi (excursionist) sayılır." },
+      { "id": "B", "text": "Turist", "explanation": "Turist sayılmak için en az bir gece konaklama gerekir." },
+      { "id": "C", "text": "Transit yolcu", "explanation": "Transit, ülkeye giriş yapmadan geçenler içindir; limana inen kişi giriş yapmıştır." },
+      { "id": "D", "text": "Mürettebat", "explanation": "Mürettebat çalışan statüsündedir; ziyaretçi istatistiğinin ayrı kalemidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-031",
+    "topicId": "genel-turizm",
+    "subtopic": "Rehberlik pratiği",
+    "difficulty": 2,
+    "stem": "Rehberin müze anlatımında 'hikâyeleştirme' tekniğini kullanmasının temel amacı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Bilgiyi duygusal bağ kurarak akılda kalıcı hale getirmek", "explanation": "Doğru — insan beyni listeleri değil öyküleri hatırlar; tarih anlatımı karaktere ve olaya bağlanınca kalıcılaşır." },
+      { "id": "B", "text": "Tur süresini uzatmak", "explanation": "Süre doldurma profesyonel bir amaç değildir." },
+      { "id": "C", "text": "Bilgi yoğunluğunu artırmak", "explanation": "Hikâyeleştirme yoğunluğu artırmaz; sindirilebilir kılar." },
+      { "id": "D", "text": "Soru sorulmasını engellemek", "explanation": "İyi anlatım soruyu teşvik eder; engellemek amaç olamaz." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-032",
+    "topicId": "genel-turizm",
+    "subtopic": "Mevzuat",
+    "difficulty": 3,
+    "stem": "Seyahat acentasının paket turda eylemli turist rehberi bulundurma yükümlülüğüne aykırı davranması durumunda uygulanacak yaptırım türü aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "İdari para cezası", "explanation": "Doğru — 6326 uyarınca rehbersiz tur düzenleyen acentaya ve belgesiz rehberlik yapan kişiye idari para cezası uygulanır; denetimi Bakanlık ve birlikler yapar." },
+      { "id": "B", "text": "Rehberin ruhsatnamesinin iptali", "explanation": "Yükümlülük acentanındır; ceza rehbere kesilmez." },
+      { "id": "C", "text": "Turistlere bilet iadesi", "explanation": "Tüketici hakları ayrı bir süreçtir; kanunun yaptırımı idari cezadır." },
+      { "id": "D", "text": "Yalnızca yazılı uyarı", "explanation": "Uyarıyla geçiştirilmez; parasal yaptırım öngörülmüştür." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-033",
+    "topicId": "genel-turizm",
+    "subtopic": "Sosyoloji",
+    "difficulty": 2,
+    "stem": "Yerel düğün, sema ya da dini ritüellerin turistler için 'gösteri' olarak sahnelenmeye başlamasına ne ad verilir?",
+    "choices": [
+      { "id": "A", "text": "Kültürel metalaşma", "explanation": "Doğru — kültürün alınıp satılan ürüne dönüşmesi; otantikliğin yitirilmesi riskini taşır." },
+      { "id": "B", "text": "Kültürel etkileşim", "explanation": "Etkileşim, nötr/olumlu karşılıklı öğrenmedir." },
+      { "id": "C", "text": "Kültür şoku", "explanation": "Kültür şoku, bireyin yabancı kültürle bocalamasıdır." },
+      { "id": "D", "text": "Asimilasyon", "explanation": "Asimilasyon, bir grubun kimliğini yitirip başka kültüre karışmasıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-034",
+    "topicId": "genel-turizm",
+    "subtopic": "Örgütler",
+    "difficulty": 2,
+    "stem": "Turist rehberleri odalarının bağlı olduğu üst meslek kuruluşu aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "TUREB", "explanation": "Doğru — Turist Rehberleri Birliği, odaların üst kuruluşudur; MKS öncesi uygulama gezileri ve sertifika programları da birliğin görev alanındadır." },
+      { "id": "B", "text": "TÜRSAB", "explanation": "TÜRSAB acentaların birliğidir." },
+      { "id": "C", "text": "TÜROFED", "explanation": "TÜROFED, otelci federasyonudur." },
+      { "id": "D", "text": "TOBB", "explanation": "TOBB, odalar ve borsalar birliğidir; rehberlik meslek örgütü değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-035",
+    "topicId": "genel-turizm",
+    "subtopic": "Temel kavramlar",
+    "difficulty": 3,
+    "stem": "Turizmde 'çarpan etkisi' kavramı aşağıdakilerden hangisini ifade eder?",
+    "choices": [
+      { "id": "A", "text": "Turizm gelirinin el değiştirerek ekonomide kendisinden büyük toplam etki yaratması", "explanation": "Doğru — turistin harcadığı para otelciden çiftçiye, esnafa zincirleme yayılır; toplam etki ilk harcamanın katlarına ulaşır." },
+      { "id": "B", "text": "Turist sayısının her yıl ikiye katlanması", "explanation": "Böyle bir kural yoktur." },
+      { "id": "C", "text": "Bir turistin ortalama iki kez gelmesi", "explanation": "Sadakat/tekrar ziyaret ayrı bir kavramdır." },
+      { "id": "D", "text": "Döviz kurunun turizm fiyatlarını etkilemesi", "explanation": "Kur etkisi ayrı bir ekonomik değişkendir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-036",
+    "topicId": "genel-turizm",
+    "subtopic": "Mevzuat",
+    "difficulty": 2,
+    "stem": "Mesleğe kabul sürecinde adayın tamamlaması gereken, Bakanlık denetiminde ve TUREB organizasyonunda yürütülen saha eğitimi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Uygulama gezisi", "explanation": "Doğru — ülkesel adaylar için Türkiye turu niteliğindeki uygulama gezisini başarıyla bitirmek MKS'ye giriş ön şartıdır." },
+      { "id": "B", "text": "Erasmus programı", "explanation": "Erasmus, yükseköğretim değişim programıdır." },
+      { "id": "C", "text": "Oryantasyon semineri", "explanation": "Mevzuattaki zorunlu saha eğitimi 'uygulama gezisi'dir." },
+      { "id": "D", "text": "İşbaşı stajı", "explanation": "Rehberlikte acenta stajı zorunluluğu yoktur; gezi vardır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-037",
+    "topicId": "genel-turizm",
+    "subtopic": "Turizm türleri",
+    "difficulty": 2,
+    "stem": "Kongre, teşvik gezisi, toplantı ve fuar turizmini ifade eden uluslararası kısaltma aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "MICE", "explanation": "Doğru — Meetings, Incentives, Conventions/Conferences, Exhibitions/Events; İstanbul ve Antalya bu pazarın merkezleridir." },
+      { "id": "B", "text": "SPA", "explanation": "SPA, su ile gelen sağlık (salus per aquam) demektir; termal-wellness alanıdır." },
+      { "id": "C", "text": "GDS", "explanation": "GDS, küresel rezervasyon dağıtım sistemidir (Amadeus, Galileo)." },
+      { "id": "D", "text": "FIT", "explanation": "FIT, bireysel seyahat eden turisti (free independent traveller) ifade eder." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-038",
+    "topicId": "genel-turizm",
+    "subtopic": "Turizm türleri",
+    "difficulty": 2,
+    "stem": "Her şey dahil (all inclusive) sistemin Türkiye'de en yaygın olduğu turizm türü aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kıyı (deniz-kum-güneş) turizmi", "explanation": "Doğru — Antalya-Muğla hattındaki tatil köyleri ve resort oteller bu sistemin dünyadaki en büyük uygulayıcılarındandır." },
+      { "id": "B", "text": "Kültür turizmi", "explanation": "Kültür turlarında paket genellikle yarım pansiyon + rehberli gezidir." },
+      { "id": "C", "text": "Dağ turizmi", "explanation": "Dağ-doğa turizminde all inclusive yaygın değildir." },
+      { "id": "D", "text": "Kruvaziyer turizmi", "explanation": "Kruvaziyerde gemi içi paketler vardır ama Türkiye'deki 'all inclusive' tartışması kıyı otelleriyle özdeştir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-039",
+    "topicId": "genel-turizm",
+    "subtopic": "Rehberlik pratiği",
+    "difficulty": 3,
+    "stem": "Rehberin tur anlatımında siyasi ve dini propaganda yapması aşağıdakilerden hangisinin ihlalidir?",
+    "choices": [
+      { "id": "A", "text": "Tarafsızlık ilkesinin — meslek etiğinin ve mevzuatın", "explanation": "Doğru — rehber bilgiyi tarafsız aktarmakla yükümlüdür; propaganda hem etik kuralların hem disiplin hükümlerinin ihlalidir." },
+      { "id": "B", "text": "Yalnızca kişisel tercihlerin", "explanation": "Kişisel tercih değil, mesleki yükümlülük konusudur." },
+      { "id": "C", "text": "Turizm arzının", "explanation": "Arz kavramıyla ilgisi yoktur." },
+      { "id": "D", "text": "Konaklama sözleşmesinin", "explanation": "Konaklama sözleşmesi otel-müşteri ilişkisidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "genel-turizm-040",
+    "topicId": "genel-turizm",
+    "subtopic": "Turizm tarihi",
+    "difficulty": 3,
+    "stem": "Türkiye Turizm Tanıtım ve Geliştirme Ajansı (TGA) hangi yıl kurulmuştur?",
+    "choices": [
+      { "id": "A", "text": "2019", "explanation": "Doğru — TGA, turizm payı gelirleriyle tanıtım yapmak üzere 2019'da kuruldu ('GoTürkiye' markası)." },
+      { "id": "B", "text": "2003", "explanation": "2003, bakanlıkların birleşme yılıdır." },
+      { "id": "C", "text": "1982", "explanation": "1982, Teşvik Kanunu yılıdır." },
+      { "id": "D", "text": "2012", "explanation": "2012, rehberlik kanununun yılıdır." }
+    ],
+    "correct": "A"
+  }
+]
