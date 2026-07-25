@@ -6,8 +6,8 @@ import { ProgressRing } from '@/components/ProgressRing';
 import { useAppState } from '@/hooks/useAppState';
 import { useAiHoca } from '@/hooks/useAiHoca';
 import { questionBank } from '@/content/index';
-import { EXAM_DATE, TOPICS, TOPIC_IDS } from '@/lib/constants';
-import { generatePlan } from '@/lib/planner';
+import { TOPICS, TOPIC_IDS } from '@/lib/constants';
+import { currentPlan } from '@/lib/planner';
 import { estimateScore, topicAccuracy } from '@/lib/scoring';
 import { dueCards } from '@/lib/srs';
 import { todayKey } from '@/lib/streak';
@@ -57,7 +57,7 @@ export default function Dashboard() {
   const today = todayKey(now);
   const countdownMode = state.settings.countdown;
 
-  const plan = generatePlan(new Date('2026-07-25T00:00:00+03:00'), EXAM_DATE);
+  const plan = currentPlan();
   const todayPlan = plan.find((d) => d.date === today);
   const doneToday = todayPlan ? todayPlan.goals.filter((_, i) => state.planProgress[`${todayPlan.id}:${i}`]).length : 0;
   const totalToday = todayPlan?.goals.length ?? 0;

@@ -34,7 +34,7 @@ const SECONDARY = [
   { to: '/cozduklerim', label: 'Çözdüklerim', icon: History },
   { to: '/yanlis-havuzu', label: 'Yanlış Havuzu', icon: XCircle },
   { to: '/istatistik', label: 'İstatistik', icon: BarChart3 },
-  { to: '/plan', label: 'Sprint Planı', icon: CalendarRange },
+  { to: '/plan', label: 'Çalışma Planı', icon: CalendarRange },
   { to: '/ayarlar', label: 'Ayarlar', icon: Settings },
 ] as const;
 

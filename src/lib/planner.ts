@@ -1,18 +1,32 @@
-import { TOPICS, TOPIC_IDS, type TopicId } from './constants';
+import { EXAM_DATE, TOPICS, TOPIC_IDS, type TopicId } from './constants';
+
+/** Planın üç evresi: konuyu ilk kez öğrenme, pekiştirme, son düzlük. */
+export type PlanPhase = 'temel' | 'pekistirme' | 'final';
 
 export interface PlanGoal {
   kind: 'reading' | 'questions' | 'review' | 'exam';
   label: string;
   count?: number;
+  /** Hedefin götürdüğü sayfa — plan yalnızca söylemez, oraya taşır. */
+  href?: string;
 }
 
 export interface PlanDay {
   id: string;
   date: string; // YYYY-MM-DD (Europe/Istanbul)
   label: string; // '1. Hafta • Cumartesi'
+  weekNo: number;
+  weekday: number; // 0 = Pazar
+  phase: PlanPhase;
   focusTopics: TopicId[];
   goals: PlanGoal[];
 }
+
+export const PHASE_LABEL: Record<PlanPhase, string> = {
+  temel: 'Temel',
+  pekistirme: 'Pekiştirme',
+  final: 'Son Düzlük',
+};
 
 const DAY_MS = 86_400_000;
 const WEEKDAYS_TR = ['Pazar', 'Pazartesi', 'Salı', 'Çarşamba', 'Perşembe', 'Cuma', 'Cumartesi'];
@@ -52,6 +66,72 @@ function topicDayCounts(dayCount: number): Map<TopicId, number> {
   return counts;
 }
 
+/**
+ * Konu günlerini turlara böler. Aynı konunun günleri arka arkaya gelmez —
+ * her tur bütün müfredatı bir kez dolaşır, böylece aralıklı tekrar doğal olarak oluşur.
+ * 1. tur müfredat sırasıyla, 3. turdan sonrası sınav ağırlığı sırasıyla ilerler.
+ */
+function topicRounds(dayCount: number): { topic: TopicId; round: number }[] {
+  const ordered = [...TOPIC_IDS].sort((a, b) => TOPICS[a].order - TOPICS[b].order);
+  const byWeightDesc = [...ordered].sort(
+    (a, b) => TOPICS[b].examWeight - TOPICS[a].examWeight || TOPICS[a].order - TOPICS[b].order,
+  );
+
+  const remaining = topicDayCounts(dayCount);
+  const queue: { topic: TopicId; round: number }[] = [];
+
+  for (let round = 1; queue.length < dayCount; round++) {
+    const pool = round <= 2 ? ordered : byWeightDesc;
+    let placed = 0;
+
+    for (const id of pool) {
+      const left = remaining.get(id) ?? 0;
+      if (left <= 0) continue;
+      queue.push({ topic: id, round });
+      remaining.set(id, left - 1);
+      placed += 1;
+      if (queue.length >= dayCount) break;
+    }
+
+    if (placed === 0) break; // kontenjan bitti
+  }
+
+  return queue;
+}
+
+/** Bir konu gününün hedefleri — tura göre değişir, çünkü ikinci okuma birinciyle aynı iş değildir. */
+function topicGoals(topic: TopicId, round: number): PlanGoal[] {
+  const short = TOPICS[topic].short;
+
+  if (round === 1) {
+    return [
+      { kind: 'reading', label: `${short} — konu anlatımını oku`, href: `/konular/${topic}` },
+      { kind: 'questions', label: `${short} — 25 soru çöz`, count: 25, href: `/pratik?topic=${topic}&count=25` },
+      { kind: 'review', label: 'Günün kartlarını çalış', href: '/tekrar' },
+    ];
+  }
+
+  if (round === 2) {
+    return [
+      { kind: 'reading', label: `${short} — kısa özet ve tuzakları gözden geçir`, href: `/konular/${topic}` },
+      { kind: 'questions', label: `${short} — 30 soru çöz`, count: 30, href: `/pratik?topic=${topic}&count=30` },
+      { kind: 'review', label: 'Yanlış havuzundan bu konuyu temizle', href: '/yanlis-havuzu' },
+    ];
+  }
+
+  // 3. tur ve sonrası: sınavda en çok soru getiren konulara fazladan mesai
+  return [
+    {
+      kind: 'questions',
+      label: `${short} — 35 soru (sınavda ${TOPICS[topic].examWeight} soru)`,
+      count: 35,
+      href: `/pratik?topic=${topic}&count=35&status=unseen`,
+    },
+    { kind: 'reading', label: `${short} — zayıf kaldığın bölümleri tekrar oku`, href: `/konular/${topic}` },
+    { kind: 'review', label: 'Kart tekrarı', href: '/tekrar' },
+  ];
+}
+
 export function generatePlan(start: Date, examDate: Date): PlanDay[] {
   const startKey = istanbulDateKey(start);
   const examKey = istanbulDateKey(examDate);
@@ -64,59 +144,67 @@ export function generatePlan(start: Date, examDate: Date): PlanDay[] {
   const studyDates = dates.slice(0, finalReviewStart);
   const topicDates = studyDates.filter((d) => weekdayOf(d) !== 0); // Pazarlar deneme günü
 
-  const counts = topicDayCounts(topicDates.length);
-  const queue: TopicId[] = [];
-  for (const id of [...TOPIC_IDS].sort((a, b) => TOPICS[a].order - TOPICS[b].order)) {
-    for (let n = 0; n < (counts.get(id) ?? 0); n++) queue.push(id);
-  }
+  const queue = topicRounds(topicDates.length);
 
   let qi = 0;
   return dates.map((date, index) => {
+    const weekday = weekdayOf(date);
     const weekNo = Math.floor(index / 7) + 1;
-    const label = `${weekNo}. Hafta • ${WEEKDAYS_TR[weekdayOf(date)]}`;
+    const label = `${weekNo}. Hafta • ${WEEKDAYS_TR[weekday]}`;
     const id = `gun-${date}`;
     const isFinalReview = index >= finalReviewStart;
-    const isSunday = weekdayOf(date) === 0;
 
     if (isFinalReview) {
       return {
         id,
         date,
         label,
+        weekNo,
+        weekday,
+        phase: 'final' as const,
         focusTopics: [],
         goals: [
-          { kind: 'reading', label: 'Kısa anlatımları ve tuzak listelerini oku' },
-          { kind: 'review', label: 'Kart tekrarı + yanlış havuzunu bitir' },
-          { kind: 'questions', label: 'Karışık 40 soru çöz', count: 40 },
+          { kind: 'reading', label: 'Kısa anlatımları ve tuzak listelerini oku', href: '/konular' },
+          { kind: 'review', label: 'Kart tekrarı + yanlış havuzunu bitir', href: '/tekrar' },
+          { kind: 'questions', label: 'Karışık 40 soru çöz', count: 40, href: '/pratik?count=40' },
         ],
       };
     }
 
-    if (isSunday) {
+    if (weekday === 0) {
+      // Deneme günü kendi evresini üretmez; o ana kadar gelinen evreyi devralır.
       return {
         id,
         date,
         label,
+        weekNo,
+        weekday,
+        phase: (qi === 0 || queue[qi - 1]?.round === 1 ? 'temel' : 'pekistirme') as PlanPhase,
         focusTopics: [],
         goals: [
-          { kind: 'exam', label: 'Deneme veya çıkmış sınav çöz (100 soru • 120 dk)' },
-          { kind: 'review', label: 'Yanlışlarının çözümlerini oku' },
+          { kind: 'exam', label: 'Deneme veya çıkmış sınav çöz (100 soru • 120 dk)', href: '/denemeler' },
+          { kind: 'review', label: 'Yanlışlarının çözümlerini oku', href: '/cozduklerim?filter=wrong' },
         ],
       };
     }
 
-    const topic = queue[qi] ?? [...TOPIC_IDS].sort((a, b) => TOPICS[b].examWeight - TOPICS[a].examWeight)[0];
+    const slot = queue[qi] ?? { topic: [...TOPIC_IDS].sort((a, b) => TOPICS[b].examWeight - TOPICS[a].examWeight)[0], round: 3 };
     qi += 1;
+
     return {
       id,
       date,
       label,
-      focusTopics: [topic],
-      goals: [
-        { kind: 'reading', label: `${TOPICS[topic].short} konusunu oku` },
-        { kind: 'questions', label: `${TOPICS[topic].short} — 30 soru çöz`, count: 30 },
-        { kind: 'review', label: 'Kart tekrarı (SRS)' },
-      ],
+      weekNo,
+      weekday,
+      phase: (slot.round === 1 ? 'temel' : 'pekistirme') as PlanPhase,
+      focusTopics: [slot.topic],
+      goals: topicGoals(slot.topic, slot.round),
     };
   });
+}
+
+/** Bugünden sınava kadar geçerli plan — sayfaların ortak girişi. */
+export function currentPlan(): PlanDay[] {
+  return generatePlan(new Date(), EXAM_DATE);
 }

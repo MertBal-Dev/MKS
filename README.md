@@ -19,7 +19,7 @@ Hedef: **MKS-4 — 29 Ağustos 2026, 10.00**.
 - **Akıllı Tekrar** — Leitner kutu sistemli kartlar; yanlış yapılan her soru otomatik karta dönüşür
 - **Yanlış Havuzu** — üst üste 2 doğruyla havuzdan çıkış
 - **İstatistik** — konu doğruluğu, deneme grafiği, tahmini sınav puanı
-- **Sprint Planı** — 29 Ağustos'a gün gün program
+- **Çalışma Planı** — 29 Ağustos'a gün gün program (temel → pekiştirme → son düzlük)
 - **PWA** — telefonda ana ekrana eklenir, internetsiz çalışır (AI Hoca hariç)
 
 ### Sınavın resmi konu dağılımı (uygulamadaki ağırlıklar buna göre)
