@@ -4,10 +4,10 @@ import { motion, AnimatePresence, useReducedMotion } from 'framer-motion';
 /* ── Karşılama perdesi ────────────────────────────────────────────────────
    İmza öğesi: çizilerek beliren bir İznik rozeti. Uygulamanın geri kalanı
    aynı motifi geri sayım madalyonunda kullanıyor; perde de oradan doğuyor.
-   Toplam süre ~3,4 sn; her an atlanabilir.                                */
+   Toplam süre ~5,4 sn; her an atlanabilir.                                */
 
 const NAME = ['Duygu', 'Çırakoğlu'];
-const HOLD_MS = 3400;
+const HOLD_MS = 5400;
 const EXIT_MS = 800;
 
 const EASE_OUT = [0.16, 1, 0.3, 1] as const;
