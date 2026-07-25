@@ -6,12 +6,28 @@
     "difficulty": 1,
     "stem": "Bir mezar odasının üzerine toprak yığılmasıyla oluşturulan yapay tepeye ne ad verilir?",
     "choices": [
-      { "id": "A", "text": "Höyük", "explanation": "Höyük, yerleşim katmanlarının üst üste birikmesiyle oluşur; mezar yapısı değildir." },
-      { "id": "B", "text": "Tümülüs", "explanation": "Doğru — tümülüs, mezar odası üzerine yığılan anıt mezar tepesidir (Gordion, Nemrut, Bintepeler)." },
-      { "id": "C", "text": "Nekropol", "explanation": "Nekropol, tek bir tepe değil, kentin tüm mezarlık alanıdır." },
-      { "id": "D", "text": "Akropol", "explanation": "Akropol, kentin yukarı/kutsal bölümüdür." }
+      {
+        "id": "A",
+        "text": "Tümülüs",
+        "explanation": "Doğru — tümülüs, mezar odası üzerine yığılan anıt mezar tepesidir (Gordion, Nemrut, Bintepeler)."
+      },
+      {
+        "id": "B",
+        "text": "Höyük",
+        "explanation": "Höyük, yerleşim katmanlarının üst üste birikmesiyle oluşur; mezar yapısı değildir."
+      },
+      {
+        "id": "C",
+        "text": "Akropol",
+        "explanation": "Akropol, kentin yukarı/kutsal bölümüdür."
+      },
+      {
+        "id": "D",
+        "text": "Nekropol",
+        "explanation": "Nekropol, tek bir tepe değil, kentin tüm mezarlık alanıdır."
+      }
     ],
-    "correct": "B",
+    "correct": "A",
     "trick": "Höyük = yerleşim, tümülüs = mezar. Sınavın en klasik kavram çifti."
   },
   {
@@ -21,10 +37,26 @@
     "difficulty": 2,
     "stem": "Arkeolojik kazıda katmanların alttan üste doğru kronolojik olarak incelenmesine ne ad verilir?",
     "choices": [
-      { "id": "A", "text": "Stratigrafi", "explanation": "Doğru — tabakalanma bilimi; en alttaki katman en eski olandır." },
-      { "id": "B", "text": "Epigrafi", "explanation": "Epigrafi, yazıtları inceleyen bilim dalıdır." },
-      { "id": "C", "text": "Nümismatik", "explanation": "Nümismatik, sikke bilimidir." },
-      { "id": "D", "text": "Etnografya", "explanation": "Etnografya, halk kültürünü inceler." }
+      {
+        "id": "A",
+        "text": "Stratigrafi",
+        "explanation": "Doğru — tabakalanma bilimi; en alttaki katman en eski olandır."
+      },
+      {
+        "id": "B",
+        "text": "Etnografya",
+        "explanation": "Etnografya, halk kültürünü inceler."
+      },
+      {
+        "id": "C",
+        "text": "Epigrafi",
+        "explanation": "Epigrafi, yazıtları inceleyen bilim dalıdır."
+      },
+      {
+        "id": "D",
+        "text": "Nümismatik",
+        "explanation": "Nümismatik, sikke bilimidir."
+      }
     ],
     "correct": "A"
   },
@@ -35,12 +67,28 @@
     "difficulty": 2,
     "stem": "Organik kalıntıların yaşını belirlemek için kullanılan tarihleme yöntemi aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Karbon-14", "explanation": "Doğru — kemik, ahşap, tohum gibi organik kalıntılarda yaklaşık 50.000 yıla kadar tarihleme yapar." },
-      { "id": "B", "text": "Termolüminesans", "explanation": "Termolüminesans, pişmiş toprak/seramik tarihlemesinde kullanılır." },
-      { "id": "C", "text": "Stratigrafi", "explanation": "Stratigrafi göreli tarihleme sağlar; mutlak yaş vermez." },
-      { "id": "D", "text": "Tipoloji", "explanation": "Tipoloji, eserleri biçim benzerliğine göre sınıflandırır; göreli yöntemdir." }
+      {
+        "id": "A",
+        "text": "Termolüminesans",
+        "explanation": "Termolüminesans, pişmiş toprak/seramik tarihlemesinde kullanılır."
+      },
+      {
+        "id": "B",
+        "text": "Karbon-14",
+        "explanation": "Doğru — kemik, ahşap, tohum gibi organik kalıntılarda yaklaşık 50.000 yıla kadar tarihleme yapar."
+      },
+      {
+        "id": "C",
+        "text": "Tipoloji",
+        "explanation": "Tipoloji, eserleri biçim benzerliğine göre sınıflandırır; göreli yöntemdir."
+      },
+      {
+        "id": "D",
+        "text": "Stratigrafi",
+        "explanation": "Stratigrafi göreli tarihleme sağlar; mutlak yaş vermez."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "arkeoloji-mitoloji-004",
@@ -49,12 +97,28 @@
     "difficulty": 1,
     "stem": "İlk Türk müzecisi kabul edilen, Müze-i Hümayun'un kurucusu ressam ve arkeolog kimdir?",
     "choices": [
-      { "id": "A", "text": "Osman Hamdi Bey", "explanation": "Doğru — Müze-i Hümayun'u ve Sanayi-i Nefise'yi kurdu; 'Kaplumbağa Terbiyecisi'nin ressamıdır." },
-      { "id": "B", "text": "Halil Edhem Bey", "explanation": "Halil Edhem, Osman Hamdi'nin kardeşi ve müzedeki halefidir." },
-      { "id": "C", "text": "Ekrem Akurgal", "explanation": "Akurgal, Cumhuriyet dönemi arkeolojisinin duayenidir." },
-      { "id": "D", "text": "Ahmed Fethi Paşa", "explanation": "Fethi Paşa ilk eser toplama girişimini (Aya İrini) başlatmıştır ama 'ilk müzeci' unvanı Osman Hamdi'ye aittir." }
+      {
+        "id": "A",
+        "text": "Halil Edhem Bey",
+        "explanation": "Halil Edhem, Osman Hamdi'nin kardeşi ve müzedeki halefidir."
+      },
+      {
+        "id": "B",
+        "text": "Ekrem Akurgal",
+        "explanation": "Akurgal, Cumhuriyet dönemi arkeolojisinin duayenidir."
+      },
+      {
+        "id": "C",
+        "text": "Ahmed Fethi Paşa",
+        "explanation": "Fethi Paşa ilk eser toplama girişimini (Aya İrini) başlatmıştır ama 'ilk müzeci' unvanı Osman Hamdi'ye aittir."
+      },
+      {
+        "id": "D",
+        "text": "Osman Hamdi Bey",
+        "explanation": "Doğru — Müze-i Hümayun'u ve Sanayi-i Nefise'yi kurdu; 'Kaplumbağa Terbiyecisi'nin ressamıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "arkeoloji-mitoloji-005",
@@ -63,12 +127,28 @@
     "difficulty": 2,
     "stem": "Osman Hamdi Bey'in Sayda (Sidon) kazısında bulduğu ve İstanbul Arkeoloji Müzeleri'nin en ünlü eseri olan lahit aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "İskender Lahdi", "explanation": "Doğru — üzerindeki İskender betimlemeleri nedeniyle bu adı alır; Sidon kralı Abdalonymos'a atfedilir." },
-      { "id": "B", "text": "Ağlayan Kadınlar Lahdi", "explanation": "O da Sayda buluntusudur ama müzenin simgesi İskender Lahdi'dir; soru 'en ünlü' diyor." },
-      { "id": "C", "text": "Sidamara Lahdi", "explanation": "Sidamara Lahdi Konya Ambar köyü buluntusudur; Roma dönemine aittir." },
-      { "id": "D", "text": "Likya Lahdi", "explanation": "Likya Lahdi de Sayda nekropolünden çıkmıştır ama 'en ünlü' olan İskender Lahdi'dir." }
+      {
+        "id": "A",
+        "text": "Sidamara Lahdi",
+        "explanation": "Sidamara Lahdi Konya Ambar köyü buluntusudur; Roma dönemine aittir."
+      },
+      {
+        "id": "B",
+        "text": "Ağlayan Kadınlar Lahdi",
+        "explanation": "O da Sayda buluntusudur ama müzenin simgesi İskender Lahdi'dir; soru 'en ünlü' diyor."
+      },
+      {
+        "id": "C",
+        "text": "İskender Lahdi",
+        "explanation": "Doğru — üzerindeki İskender betimlemeleri nedeniyle bu adı alır; Sidon kralı Abdalonymos'a atfedilir."
+      },
+      {
+        "id": "D",
+        "text": "Likya Lahdi",
+        "explanation": "Likya Lahdi de Sayda nekropolünden çıkmıştır ama 'en ünlü' olan İskender Lahdi'dir."
+      }
     ],
-    "correct": "A",
+    "correct": "C",
     "trick": "İskender Lahdi, İskender'in mezarı değildir — kabartmalarında İskender betimlendiği için bu adla anılır."
   },
   {
@@ -78,12 +158,28 @@
     "difficulty": 3,
     "stem": "Eski eserlerin yurt dışına çıkarılmasını yasaklayan 1884 tarihli düzenleme aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Asar-ı Atika Nizamnamesi", "explanation": "Doğru — Osman Hamdi Bey'in hazırlattığı 1884 nizamnamesi, buluntuların devlet malı olduğunu ve yurt dışına çıkarılamayacağını hükme bağladı." },
-      { "id": "B", "text": "Tanzimat Fermanı", "explanation": "Tanzimat (1839) genel reform fermanıdır; eski eserlerle ilgili değildir." },
-      { "id": "C", "text": "Muhafaza-i Abidat Nizamnamesi", "explanation": "Anıtların korunmasıyla ilgili sonraki düzenlemedir (1912); sorudaki tarih ve içerik 1884 nizamnamesine aittir." },
-      { "id": "D", "text": "Maarif-i Umumiye Nizamnamesi", "explanation": "1869 tarihli genel eğitim düzenlemesidir." }
+      {
+        "id": "A",
+        "text": "Tanzimat Fermanı",
+        "explanation": "Tanzimat (1839) genel reform fermanıdır; eski eserlerle ilgili değildir."
+      },
+      {
+        "id": "B",
+        "text": "Muhafaza-i Abidat Nizamnamesi",
+        "explanation": "Anıtların korunmasıyla ilgili sonraki düzenlemedir (1912); sorudaki tarih ve içerik 1884 nizamnamesine aittir."
+      },
+      {
+        "id": "C",
+        "text": "Asar-ı Atika Nizamnamesi",
+        "explanation": "Doğru — Osman Hamdi Bey'in hazırlattığı 1884 nizamnamesi, buluntuların devlet malı olduğunu ve yurt dışına çıkarılamayacağını hükme bağladı."
+      },
+      {
+        "id": "D",
+        "text": "Maarif-i Umumiye Nizamnamesi",
+        "explanation": "1869 tarihli genel eğitim düzenlemesidir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "arkeoloji-mitoloji-007",
@@ -92,12 +188,28 @@
     "difficulty": 2,
     "stem": "Aşağıdaki kazı-araştırmacı eşleştirmelerinden hangisi yanlıştır?",
     "choices": [
-      { "id": "A", "text": "Troya — Heinrich Schliemann", "explanation": "Doğrudur; Schliemann 1870'lerde Hisarlık'ı kazmıştır." },
-      { "id": "B", "text": "Çatalhöyük — James Mellaart", "explanation": "Doğrudur; ilk Çatalhöyük kazılarını Mellaart yapmıştır." },
-      { "id": "C", "text": "Afrodisias — Kenan Erim", "explanation": "Doğrudur; Kenan Erim ömrünü Afrodisias'a adamıştır ve oraya gömülüdür." },
-      { "id": "D", "text": "Göbeklitepe — Carl Humann", "explanation": "Doğru cevap bu (yanlış eşleştirme) — Göbeklitepe'yi Klaus Schmidt kazmıştır; Humann, Bergama Zeus Sunağı ile anılır." }
+      {
+        "id": "A",
+        "text": "Göbeklitepe — Carl Humann",
+        "explanation": "Doğru cevap bu (yanlış eşleştirme) — Göbeklitepe'yi Klaus Schmidt kazmıştır; Humann, Bergama Zeus Sunağı ile anılır."
+      },
+      {
+        "id": "B",
+        "text": "Çatalhöyük — James Mellaart",
+        "explanation": "Doğrudur; ilk Çatalhöyük kazılarını Mellaart yapmıştır."
+      },
+      {
+        "id": "C",
+        "text": "Troya — Heinrich Schliemann",
+        "explanation": "Doğrudur; Schliemann 1870'lerde Hisarlık'ı kazmıştır."
+      },
+      {
+        "id": "D",
+        "text": "Afrodisias — Kenan Erim",
+        "explanation": "Doğrudur; Kenan Erim ömrünü Afrodisias'a adamıştır ve oraya gömülüdür."
+      }
     ],
-    "correct": "D"
+    "correct": "A"
   },
   {
     "id": "arkeoloji-mitoloji-008",
@@ -106,12 +218,28 @@
     "difficulty": 3,
     "stem": "Schliemann'ın Troya'dan kaçırdığı 'Priamos Hazinesi' bugün hangi müzededir?",
     "choices": [
-      { "id": "A", "text": "Moskova Puşkin Müzesi", "explanation": "Doğru — Berlin'e götürülen hazine, II. Dünya Savaşı sonunda Sovyetlerce Moskova'ya taşındı ve halen oradadır." },
-      { "id": "B", "text": "Berlin Bergama Müzesi", "explanation": "Hazine 1945'e kadar Berlin'deydi; savaş sonrası Moskova'ya götürüldü — klasik tuzak." },
-      { "id": "C", "text": "Louvre Müzesi", "explanation": "Louvre'un Troya hazinesiyle ilgisi yoktur." },
-      { "id": "D", "text": "Troya Müzesi", "explanation": "2018'de açılan Troya Müzesi bazı eserleri geri kazanmıştır ama Priamos Hazinesi halen Moskova'dadır." }
+      {
+        "id": "A",
+        "text": "Troya Müzesi",
+        "explanation": "2018'de açılan Troya Müzesi bazı eserleri geri kazanmıştır ama Priamos Hazinesi halen Moskova'dadır."
+      },
+      {
+        "id": "B",
+        "text": "Louvre Müzesi",
+        "explanation": "Louvre'un Troya hazinesiyle ilgisi yoktur."
+      },
+      {
+        "id": "C",
+        "text": "Berlin Bergama Müzesi",
+        "explanation": "Hazine 1945'e kadar Berlin'deydi; savaş sonrası Moskova'ya götürüldü — klasik tuzak."
+      },
+      {
+        "id": "D",
+        "text": "Moskova Puşkin Müzesi",
+        "explanation": "Doğru — Berlin'e götürülen hazine, II. Dünya Savaşı sonunda Sovyetlerce Moskova'ya taşındı ve halen oradadır."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "arkeoloji-mitoloji-009",
@@ -120,12 +248,28 @@
     "difficulty": 2,
     "stem": "Dünyanın bilinen en eski ticaret gemilerinden Uluburun Batığı'nın buluntuları hangi müzede sergilenmektedir?",
     "choices": [
-      { "id": "A", "text": "Bodrum Sualtı Arkeoloji Müzesi", "explanation": "Doğru — Kaş açıklarında bulunan MÖ 14. yüzyıl batığının kargosu Bodrum Kalesi'ndeki müzededir." },
-      { "id": "B", "text": "Antalya Müzesi", "explanation": "Antalya Müzesi heykel koleksiyonuyla ünlüdür; Uluburun buluntuları Bodrum'dadır." },
-      { "id": "C", "text": "İstanbul Deniz Müzesi", "explanation": "Deniz Müzesi, Osmanlı denizciliğine odaklanır." },
-      { "id": "D", "text": "İzmir Arkeoloji Müzesi", "explanation": "Uluburun kargosu İzmir'de değildir." }
+      {
+        "id": "A",
+        "text": "İstanbul Deniz Müzesi",
+        "explanation": "Deniz Müzesi, Osmanlı denizciliğine odaklanır."
+      },
+      {
+        "id": "B",
+        "text": "Antalya Müzesi",
+        "explanation": "Antalya Müzesi heykel koleksiyonuyla ünlüdür; Uluburun buluntuları Bodrum'dadır."
+      },
+      {
+        "id": "C",
+        "text": "İzmir Arkeoloji Müzesi",
+        "explanation": "Uluburun kargosu İzmir'de değildir."
+      },
+      {
+        "id": "D",
+        "text": "Bodrum Sualtı Arkeoloji Müzesi",
+        "explanation": "Doğru — Kaş açıklarında bulunan MÖ 14. yüzyıl batığının kargosu Bodrum Kalesi'ndeki müzededir."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "arkeoloji-mitoloji-010",
@@ -134,12 +278,28 @@
     "difficulty": 1,
     "stem": "Yunan mitolojisinde tanrıların kralı Zeus'un Roma mitolojisindeki karşılığı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Jüpiter", "explanation": "Doğru — Zeus'un Roma karşılığı Jüpiter'dir; simgeleri yıldırım ve kartaldır." },
-      { "id": "B", "text": "Neptün", "explanation": "Neptün, Poseidon'un karşılığıdır." },
-      { "id": "C", "text": "Mars", "explanation": "Mars, Ares'in karşılığıdır." },
-      { "id": "D", "text": "Merkür", "explanation": "Merkür, Hermes'in karşılığıdır." }
+      {
+        "id": "A",
+        "text": "Neptün",
+        "explanation": "Neptün, Poseidon'un karşılığıdır."
+      },
+      {
+        "id": "B",
+        "text": "Jüpiter",
+        "explanation": "Doğru — Zeus'un Roma karşılığı Jüpiter'dir; simgeleri yıldırım ve kartaldır."
+      },
+      {
+        "id": "C",
+        "text": "Mars",
+        "explanation": "Mars, Ares'in karşılığıdır."
+      },
+      {
+        "id": "D",
+        "text": "Merkür",
+        "explanation": "Merkür, Hermes'in karşılığıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "arkeoloji-mitoloji-011",
@@ -148,12 +308,28 @@
     "difficulty": 2,
     "stem": "Akıl, zekâ ve savaş taktiği tanrıçası olan, baykuş ve zeytin ağacıyla simgelenen tanrıça aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Athena", "explanation": "Doğru — Zeus'un başından zırhıyla doğan Athena, stratejik savaşın ve bilgeliğin tanrıçasıdır (Roma: Minerva)." },
-      { "id": "B", "text": "Hera", "explanation": "Hera evlilik tanrıçasıdır; simgesi tavus kuşudur." },
-      { "id": "C", "text": "Artemis", "explanation": "Artemis av ve ay tanrıçasıdır; yay ve geyikle betimlenir." },
-      { "id": "D", "text": "Afrodit", "explanation": "Afrodit aşk ve güzellik tanrıçasıdır." }
+      {
+        "id": "A",
+        "text": "Afrodit",
+        "explanation": "Afrodit aşk ve güzellik tanrıçasıdır."
+      },
+      {
+        "id": "B",
+        "text": "Hera",
+        "explanation": "Hera evlilik tanrıçasıdır; simgesi tavus kuşudur."
+      },
+      {
+        "id": "C",
+        "text": "Athena",
+        "explanation": "Doğru — Zeus'un başından zırhıyla doğan Athena, stratejik savaşın ve bilgeliğin tanrıçasıdır (Roma: Minerva)."
+      },
+      {
+        "id": "D",
+        "text": "Artemis",
+        "explanation": "Artemis av ve ay tanrıçasıdır; yay ve geyikle betimlenir."
+      }
     ],
-    "correct": "A",
+    "correct": "C",
     "trick": "Savaş tanrısı iki tane: Athena (akıllı/taktik) ve Ares (yıkıcı/kaba). 'Taktik-zekâ' vurgusu varsa Athena."
   },
   {
@@ -163,12 +339,28 @@
     "difficulty": 2,
     "stem": "Aşağıdaki Yunan-Roma tanrı eşleştirmelerinden hangisi yanlıştır?",
     "choices": [
-      { "id": "A", "text": "Afrodit — Venüs", "explanation": "Doğru eşleştirmedir." },
-      { "id": "B", "text": "Hermes — Merkür", "explanation": "Doğru eşleştirmedir." },
-      { "id": "C", "text": "Artemis — Minerva", "explanation": "Doğru cevap bu (yanlış eşleştirme) — Artemis'in Roma adı Diana'dır; Minerva, Athena'nın karşılığıdır." },
-      { "id": "D", "text": "Dionysos — Baküs", "explanation": "Doğru eşleştirmedir." }
+      {
+        "id": "A",
+        "text": "Artemis — Minerva",
+        "explanation": "Doğru cevap bu (yanlış eşleştirme) — Artemis'in Roma adı Diana'dır; Minerva, Athena'nın karşılığıdır."
+      },
+      {
+        "id": "B",
+        "text": "Afrodit — Venüs",
+        "explanation": "Doğru eşleştirmedir."
+      },
+      {
+        "id": "C",
+        "text": "Hermes — Merkür",
+        "explanation": "Doğru eşleştirmedir."
+      },
+      {
+        "id": "D",
+        "text": "Dionysos — Baküs",
+        "explanation": "Doğru eşleştirmedir."
+      }
     ],
-    "correct": "C",
+    "correct": "A",
     "trick": "Diana-Artemis, Minerva-Athena. İki tanrıça çapraz sorulur; 'D'iana = av 'D'oğası kancası kullan."
   },
   {
@@ -178,12 +370,28 @@
     "difficulty": 1,
     "stem": "Denizlerin tanrısı Poseidon hangi simgeyle betimlenir?",
     "choices": [
-      { "id": "A", "text": "Üç dişli mızrak", "explanation": "Doğru — trident, Poseidon'un (Roma: Neptün) değişmez simgesidir." },
-      { "id": "B", "text": "Yıldırım demeti", "explanation": "Yıldırım, Zeus'un simgesidir." },
-      { "id": "C", "text": "Kanatlı sandalet", "explanation": "Kanatlı sandalet Hermes'e aittir." },
-      { "id": "D", "text": "Lir", "explanation": "Lir, Apollon'un çalgısıdır." }
+      {
+        "id": "A",
+        "text": "Kanatlı sandalet",
+        "explanation": "Kanatlı sandalet Hermes'e aittir."
+      },
+      {
+        "id": "B",
+        "text": "Üç dişli mızrak",
+        "explanation": "Doğru — trident, Poseidon'un (Roma: Neptün) değişmez simgesidir."
+      },
+      {
+        "id": "C",
+        "text": "Lir",
+        "explanation": "Lir, Apollon'un çalgısıdır."
+      },
+      {
+        "id": "D",
+        "text": "Yıldırım demeti",
+        "explanation": "Yıldırım, Zeus'un simgesidir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "arkeoloji-mitoloji-014",
@@ -192,12 +400,28 @@
     "difficulty": 2,
     "stem": "Zeus ile Leto'nun ikiz çocukları aşağıdakilerden hangileridir?",
     "choices": [
-      { "id": "A", "text": "Apollon ve Artemis", "explanation": "Doğru — Leto ikizleri Delos adasında doğurdu; Likya'daki Letoon bu üçlüye adanmıştır." },
-      { "id": "B", "text": "Ares ve Hefaistos", "explanation": "İkisi de Hera'nın çocuklarıdır; ikiz değillerdir." },
-      { "id": "C", "text": "Hermes ve Dionysos", "explanation": "Hermes'in annesi Maia, Dionysos'unki Semele'dir." },
-      { "id": "D", "text": "Kastor ve Polluks", "explanation": "Dioskur ikizlerinin annesi Leda'dır — 'L' ile başlayan anne adı tuzağı!" }
+      {
+        "id": "A",
+        "text": "Hermes ve Dionysos",
+        "explanation": "Hermes'in annesi Maia, Dionysos'unki Semele'dir."
+      },
+      {
+        "id": "B",
+        "text": "Ares ve Hefaistos",
+        "explanation": "İkisi de Hera'nın çocuklarıdır; ikiz değillerdir."
+      },
+      {
+        "id": "C",
+        "text": "Apollon ve Artemis",
+        "explanation": "Doğru — Leto ikizleri Delos adasında doğurdu; Likya'daki Letoon bu üçlüye adanmıştır."
+      },
+      {
+        "id": "D",
+        "text": "Kastor ve Polluks",
+        "explanation": "Dioskur ikizlerinin annesi Leda'dır — 'L' ile başlayan anne adı tuzağı!"
+      }
     ],
-    "correct": "A",
+    "correct": "C",
     "trick": "Leto ≠ Leda: Leto'nun ikizleri Apollon-Artemis; Leda'nınkiler Kastor-Polluks (ve Helen)."
   },
   {
@@ -207,12 +431,28 @@
     "difficulty": 3,
     "stem": "Mevsimlerin oluşumunu açıklayan mitte, yılın bir bölümünü yeraltında Hades'in yanında geçiren tanrıça aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Persephone", "explanation": "Doğru — Demeter'in kızı Persephone yeraltına kaçırılır; annesinin yasında toprak ürün vermez (kış), dönüşünde canlanır (bahar)." },
-      { "id": "B", "text": "Hestia", "explanation": "Hestia ocak tanrıçasıdır; Olimpos'tan hiç ayrılmaz." },
-      { "id": "C", "text": "Hekate", "explanation": "Hekate büyü ve kavşak tanrıçasıdır; mevsim mitiyle merkezi bağı yoktur." },
-      { "id": "D", "text": "Nike", "explanation": "Nike zafer tanrıçasıdır." }
+      {
+        "id": "A",
+        "text": "Nike",
+        "explanation": "Nike zafer tanrıçasıdır."
+      },
+      {
+        "id": "B",
+        "text": "Persephone",
+        "explanation": "Doğru — Demeter'in kızı Persephone yeraltına kaçırılır; annesinin yasında toprak ürün vermez (kış), dönüşünde canlanır (bahar)."
+      },
+      {
+        "id": "C",
+        "text": "Hestia",
+        "explanation": "Hestia ocak tanrıçasıdır; Olimpos'tan hiç ayrılmaz."
+      },
+      {
+        "id": "D",
+        "text": "Hekate",
+        "explanation": "Hekate büyü ve kavşak tanrıçasıdır; mevsim mitiyle merkezi bağı yoktur."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "arkeoloji-mitoloji-016",
@@ -221,12 +461,28 @@
     "difficulty": 2,
     "stem": "Troya Savaşı'nın efsanevi nedeni olan 'altın elmayı' ortaya atan tanrıça aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Eris", "explanation": "Doğru — nifak tanrıçası Eris, davet edilmediği düğüne 'en güzele' yazılı elmayı atarak kavgayı başlattı." },
-      { "id": "B", "text": "Afrodit", "explanation": "Afrodit elmayı atan değil, Paris'ten alan tanrıçadır." },
-      { "id": "C", "text": "Hera", "explanation": "Hera yarışmacılardandır; elmayı o atmamıştır." },
-      { "id": "D", "text": "Athena", "explanation": "Athena da yarışmacıdır; karşılığında bilgelik ve zafer önermiştir." }
+      {
+        "id": "A",
+        "text": "Hera",
+        "explanation": "Hera yarışmacılardandır; elmayı o atmamıştır."
+      },
+      {
+        "id": "B",
+        "text": "Athena",
+        "explanation": "Athena da yarışmacıdır; karşılığında bilgelik ve zafer önermiştir."
+      },
+      {
+        "id": "C",
+        "text": "Eris",
+        "explanation": "Doğru — nifak tanrıçası Eris, davet edilmediği düğüne 'en güzele' yazılı elmayı atarak kavgayı başlattı."
+      },
+      {
+        "id": "D",
+        "text": "Afrodit",
+        "explanation": "Afrodit elmayı atan değil, Paris'ten alan tanrıçadır."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "arkeoloji-mitoloji-017",
@@ -235,12 +491,28 @@
     "difficulty": 2,
     "stem": "Paris, altın elmayı hangi tanrıçaya vermiş ve karşılığında ne almıştır?",
     "choices": [
-      { "id": "A", "text": "Afrodit'e — dünyanın en güzel kadını Helen'i", "explanation": "Doğru — bu seçim Helen'in kaçırılmasına ve Troya Savaşı'na yol açtı." },
-      { "id": "B", "text": "Hera'ya — Asya'nın krallığını", "explanation": "Hera bunu önerdi ama Paris reddetti." },
-      { "id": "C", "text": "Athena'ya — savaşta yenilmezliği", "explanation": "Athena'nın teklifiydi; kabul edilmedi." },
-      { "id": "D", "text": "Artemis'e — sonsuz gençliği", "explanation": "Artemis yarışmada bile değildi." }
+      {
+        "id": "A",
+        "text": "Hera'ya — Asya'nın krallığını",
+        "explanation": "Hera bunu önerdi ama Paris reddetti."
+      },
+      {
+        "id": "B",
+        "text": "Artemis'e — sonsuz gençliği",
+        "explanation": "Artemis yarışmada bile değildi."
+      },
+      {
+        "id": "C",
+        "text": "Afrodit'e — dünyanın en güzel kadını Helen'i",
+        "explanation": "Doğru — bu seçim Helen'in kaçırılmasına ve Troya Savaşı'na yol açtı."
+      },
+      {
+        "id": "D",
+        "text": "Athena'ya — savaşta yenilmezliği",
+        "explanation": "Athena'nın teklifiydi; kabul edilmedi."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "arkeoloji-mitoloji-018",
@@ -249,10 +521,26 @@
     "difficulty": 3,
     "stem": "Homeros'un İlyada destanı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "choices": [
-      { "id": "A", "text": "Savaşın son yılından yaklaşık 51 günü, Akhilleus'un öfkesi ekseninde anlatır", "explanation": "Doğru — İlyada 10 yılın tamamını değil, Akhilleus-Agamemnon çatışmasıyla başlayan kısa bir kesiti anlatır." },
-      { "id": "B", "text": "Tahta at hilesini ayrıntısıyla anlatır", "explanation": "Tahta at İlyada'da yer almaz; Odysseia'da anılır, ayrıntısı Vergilius'un Aeneis'indedir." },
-      { "id": "C", "text": "Odysseus'un yurduna dönüşünü konu alır", "explanation": "Bu, Odysseia'nın konusudur." },
-      { "id": "D", "text": "Troya'nın kuruluşunu anlatır", "explanation": "İlyada kuruluşla değil, savaşın bir kesitiyle ilgilidir." }
+      {
+        "id": "A",
+        "text": "Savaşın son yılından yaklaşık 51 günü, Akhilleus'un öfkesi ekseninde anlatır",
+        "explanation": "Doğru — İlyada 10 yılın tamamını değil, Akhilleus-Agamemnon çatışmasıyla başlayan kısa bir kesiti anlatır."
+      },
+      {
+        "id": "B",
+        "text": "Odysseus'un yurduna dönüşünü konu alır",
+        "explanation": "Bu, Odysseia'nın konusudur."
+      },
+      {
+        "id": "C",
+        "text": "Troya'nın kuruluşunu anlatır",
+        "explanation": "İlyada kuruluşla değil, savaşın bir kesitiyle ilgilidir."
+      },
+      {
+        "id": "D",
+        "text": "Tahta at hilesini ayrıntısıyla anlatır",
+        "explanation": "Tahta at İlyada'da yer almaz; Odysseia'da anılır, ayrıntısı Vergilius'un Aeneis'indedir."
+      }
     ],
     "correct": "A",
     "trick": "'İlyada'da tahta at' ifadesi her zaman yanlıştır — sınavın sevdiği ayrıntı."
@@ -264,12 +552,28 @@
     "difficulty": 2,
     "stem": "Tahta at hilesini tasarlayan, Odysseia destanının da kahramanı olan İthake kralı kimdir?",
     "choices": [
-      { "id": "A", "text": "Odysseus", "explanation": "Doğru — kurnazlığıyla ünlü Odysseus (Roma: Ulysses) atı tasarladı; dönüş yolculuğu Odysseia'nın konusudur." },
-      { "id": "B", "text": "Akhilleus", "explanation": "Akhilleus at hilesinden önce ölmüştür; öfkesi İlyada'nın konusudur." },
-      { "id": "C", "text": "Agamemnon", "explanation": "Agamemnon, Akha ordusunun başkomutanıdır; hileyi tasarlayan o değildir." },
-      { "id": "D", "text": "Hektor", "explanation": "Hektor, Troya tarafının kahramanıdır; Akhilleus tarafından öldürülür." }
+      {
+        "id": "A",
+        "text": "Agamemnon",
+        "explanation": "Agamemnon, Akha ordusunun başkomutanıdır; hileyi tasarlayan o değildir."
+      },
+      {
+        "id": "B",
+        "text": "Hektor",
+        "explanation": "Hektor, Troya tarafının kahramanıdır; Akhilleus tarafından öldürülür."
+      },
+      {
+        "id": "C",
+        "text": "Akhilleus",
+        "explanation": "Akhilleus at hilesinden önce ölmüştür; öfkesi İlyada'nın konusudur."
+      },
+      {
+        "id": "D",
+        "text": "Odysseus",
+        "explanation": "Doğru — kurnazlığıyla ünlü Odysseus (Roma: Ulysses) atı tasarladı; dönüş yolculuğu Odysseia'nın konusudur."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "arkeoloji-mitoloji-020",
@@ -278,12 +582,28 @@
     "difficulty": 2,
     "stem": "Apollon ile müzik yarışmasına giren ve yenilince derisi yüzülen satyr aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Marsyas", "explanation": "Doğru — Marsyas, Athena'nın attığı aulos ile Apollon'un lirine meydan okudu; yarışma Kelainai'de (Dinar) geçer." },
-      { "id": "B", "text": "Pan", "explanation": "Pan da Apollon'la yarışmıştır ama o yarışmanın sonucu Midas'ın eşek kulaklarıdır — deri yüzülme Marsyas'ınkidir." },
-      { "id": "C", "text": "Silenos", "explanation": "Silenos, Dionysos'un yaşlı hocasıdır; Midas'ın altın dileğiyle ilişkilidir." },
-      { "id": "D", "text": "Khiron", "explanation": "Khiron satyr değil, bilge kentaurdur; kahramanların eğitmenidir." }
+      {
+        "id": "A",
+        "text": "Silenos",
+        "explanation": "Silenos, Dionysos'un yaşlı hocasıdır; Midas'ın altın dileğiyle ilişkilidir."
+      },
+      {
+        "id": "B",
+        "text": "Pan",
+        "explanation": "Pan da Apollon'la yarışmıştır ama o yarışmanın sonucu Midas'ın eşek kulaklarıdır — deri yüzülme Marsyas'ınkidir."
+      },
+      {
+        "id": "C",
+        "text": "Khiron",
+        "explanation": "Khiron satyr değil, bilge kentaurdur; kahramanların eğitmenidir."
+      },
+      {
+        "id": "D",
+        "text": "Marsyas",
+        "explanation": "Doğru — Marsyas, Athena'nın attığı aulos ile Apollon'un lirine meydan okudu; yarışma Kelainai'de (Dinar) geçer."
+      }
     ],
-    "correct": "A",
+    "correct": "D",
     "trick": "İki müzik yarışması var: Apollon-Marsyas (sonuç: deri yüzme) ve Apollon-Pan (sonuç: Midas'ın eşek kulakları)."
   },
   {
@@ -293,12 +613,28 @@
     "difficulty": 2,
     "stem": "Çocuklarıyla övünerek Leto'yu küçümseyen ve cezalandırılınca Manisa'daki 'Ağlayan Kaya'ya dönüştüğüne inanılan mitolojik kadın kimdir?",
     "choices": [
-      { "id": "A", "text": "Niobe", "explanation": "Doğru — 14 çocuğu Apollon ve Artemis'çe öldürülen Niobe, acısından Sipylos (Spil) Dağı'nda taşa dönüştü." },
-      { "id": "B", "text": "Medusa", "explanation": "Medusa bakışıyla taşlaştıran Gorgo'dur; kendisi kayaya dönüşmemiştir." },
-      { "id": "C", "text": "Arakhne", "explanation": "Arakhne, Athena ile dokuma yarışına girip örümceğe dönüştürülen Lidyalı kızdır — dokuma teması ayırt edicidir." },
-      { "id": "D", "text": "Ekho", "explanation": "Ekho, sesi kalan nymphadır; Narkissos mitine aittir." }
+      {
+        "id": "A",
+        "text": "Arakhne",
+        "explanation": "Arakhne, Athena ile dokuma yarışına girip örümceğe dönüştürülen Lidyalı kızdır — dokuma teması ayırt edicidir."
+      },
+      {
+        "id": "B",
+        "text": "Ekho",
+        "explanation": "Ekho, sesi kalan nymphadır; Narkissos mitine aittir."
+      },
+      {
+        "id": "C",
+        "text": "Niobe",
+        "explanation": "Doğru — 14 çocuğu Apollon ve Artemis'çe öldürülen Niobe, acısından Sipylos (Spil) Dağı'nda taşa dönüştü."
+      },
+      {
+        "id": "D",
+        "text": "Medusa",
+        "explanation": "Medusa bakışıyla taşlaştıran Gorgo'dur; kendisi kayaya dönüşmemiştir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "arkeoloji-mitoloji-022",
@@ -307,10 +643,26 @@
     "difficulty": 2,
     "stem": "Kral Midas'ın 'altın dokunuşundan' kurtulmak için yıkandığı, kumları bu yüzden altınlı kabul edilen çay aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Paktolos (Sart Çayı)", "explanation": "Doğru — Sardes'ten geçen Paktolos'un alüvyonlarındaki elektron, Lidya'nın zenginliğinin de kaynağı sayılır; mit bu gerçeğe bağlanır." },
-      { "id": "B", "text": "Meandros (Büyük Menderes)", "explanation": "Menderes, kıvrımlarıyla 'meander' desenine ad vermiştir; Midas mitiyle ilgisi yoktur." },
-      { "id": "C", "text": "Halys (Kızılırmak)", "explanation": "Kızılırmak, Lidya-Med sınırıdır; mitle ilgisi yoktur." },
-      { "id": "D", "text": "Skamandros", "explanation": "Skamandros, Troya ovasının nehridir." }
+      {
+        "id": "A",
+        "text": "Paktolos (Sart Çayı)",
+        "explanation": "Doğru — Sardes'ten geçen Paktolos'un alüvyonlarındaki elektron, Lidya'nın zenginliğinin de kaynağı sayılır; mit bu gerçeğe bağlanır."
+      },
+      {
+        "id": "B",
+        "text": "Meandros (Büyük Menderes)",
+        "explanation": "Menderes, kıvrımlarıyla 'meander' desenine ad vermiştir; Midas mitiyle ilgisi yoktur."
+      },
+      {
+        "id": "C",
+        "text": "Skamandros",
+        "explanation": "Skamandros, Troya ovasının nehridir."
+      },
+      {
+        "id": "D",
+        "text": "Halys (Kızılırmak)",
+        "explanation": "Kızılırmak, Lidya-Med sınırıdır; mitle ilgisi yoktur."
+      }
     ],
     "correct": "A"
   },
@@ -321,12 +673,28 @@
     "difficulty": 3,
     "stem": "Bellerophon'un kanatlı at Pegasus'la öldürdüğü, ağzından ateş püsküren Khimaira'nın izini taşıdığına inanılan doğal alan neresidir?",
     "choices": [
-      { "id": "A", "text": "Yanartaş (Çıralı/Antalya)", "explanation": "Doğru — Olympos yakınındaki Yanartaş'ta yüzyıllardır sönmeyen doğal gaz alevleri Khimaira mitine bağlanır." },
-      { "id": "B", "text": "Pamukkale", "explanation": "Pamukkale travertenleri Hierapolis ile ilişkilidir; mitolojik bağı Pluto'nun mağarasıdır (Plutonium)." },
-      { "id": "C", "text": "Kapadokya", "explanation": "Peribacaları vulkanik erozyon ürünüdür; Khimaira ile ilgisi yoktur." },
-      { "id": "D", "text": "Nemrut Dağı", "explanation": "Nemrut, Kommagene anıt mezarıdır." }
+      {
+        "id": "A",
+        "text": "Kapadokya",
+        "explanation": "Peribacaları vulkanik erozyon ürünüdür; Khimaira ile ilgisi yoktur."
+      },
+      {
+        "id": "B",
+        "text": "Yanartaş (Çıralı/Antalya)",
+        "explanation": "Doğru — Olympos yakınındaki Yanartaş'ta yüzyıllardır sönmeyen doğal gaz alevleri Khimaira mitine bağlanır."
+      },
+      {
+        "id": "C",
+        "text": "Pamukkale",
+        "explanation": "Pamukkale travertenleri Hierapolis ile ilişkilidir; mitolojik bağı Pluto'nun mağarasıdır (Plutonium)."
+      },
+      {
+        "id": "D",
+        "text": "Nemrut Dağı",
+        "explanation": "Nemrut, Kommagene anıt mezarıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "arkeoloji-mitoloji-024",
@@ -335,12 +703,28 @@
     "difficulty": 2,
     "stem": "Anadolu'daki en önemli Apollon kehanet merkezlerinden biri olan Didyma hangi ildedir?",
     "choices": [
-      { "id": "A", "text": "Aydın", "explanation": "Doğru — Didim (Aydın) ilçesindeki Apollon Tapınağı, antik dünyanın en büyük tapınaklarından ve kehanet merkezlerindendir." },
-      { "id": "B", "text": "İzmir", "explanation": "İzmir'deki kehanet merkezi Klaros'tur — iki merkez birbirinin çeldiricisidir." },
-      { "id": "C", "text": "Antalya", "explanation": "Antalya'da Apollon kehanet ocağı olan büyük merkez yoktur (Patara'daki Letoon bölgesi Likya kültüne aittir)." },
-      { "id": "D", "text": "Muğla", "explanation": "Didyma Muğla sınırında değil, Aydın'dadır." }
+      {
+        "id": "A",
+        "text": "Antalya",
+        "explanation": "Antalya'da Apollon kehanet ocağı olan büyük merkez yoktur (Patara'daki Letoon bölgesi Likya kültüne aittir)."
+      },
+      {
+        "id": "B",
+        "text": "Aydın",
+        "explanation": "Doğru — Didim (Aydın) ilçesindeki Apollon Tapınağı, antik dünyanın en büyük tapınaklarından ve kehanet merkezlerindendir."
+      },
+      {
+        "id": "C",
+        "text": "Muğla",
+        "explanation": "Didyma Muğla sınırında değil, Aydın'dadır."
+      },
+      {
+        "id": "D",
+        "text": "İzmir",
+        "explanation": "İzmir'deki kehanet merkezi Klaros'tur — iki merkez birbirinin çeldiricisidir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "arkeoloji-mitoloji-025",
@@ -349,10 +733,26 @@
     "difficulty": 2,
     "stem": "Tıbbın simgesi haline gelen tek yılanlı asa hangi mitolojik figüre aittir?",
     "choices": [
-      { "id": "A", "text": "Asklepios", "explanation": "Doğru — sağlık tanrısı Asklepios'un tek yılanlı asası bugünkü tıp simgesinin kökenidir." },
-      { "id": "B", "text": "Hermes", "explanation": "Hermes'in kadüsesi ÇİFT yılanlı ve kanatlıdır; ticaret simgesidir — en klasik karıştırma." },
-      { "id": "C", "text": "Apollon", "explanation": "Apollon, Asklepios'un babası ve hekimliğin koruyucusudur ama yılanlı asa oğlunundur." },
-      { "id": "D", "text": "Hygieia", "explanation": "Hygieia (hijyen kelimesinin kökeni), Asklepios'un kızıdır; kâseden yılana içirirken betimlenir — eczacılık simgesi." }
+      {
+        "id": "A",
+        "text": "Asklepios",
+        "explanation": "Doğru — sağlık tanrısı Asklepios'un tek yılanlı asası bugünkü tıp simgesinin kökenidir."
+      },
+      {
+        "id": "B",
+        "text": "Hygieia",
+        "explanation": "Hygieia (hijyen kelimesinin kökeni), Asklepios'un kızıdır; kâseden yılana içirirken betimlenir — eczacılık simgesi."
+      },
+      {
+        "id": "C",
+        "text": "Apollon",
+        "explanation": "Apollon, Asklepios'un babası ve hekimliğin koruyucusudur ama yılanlı asa oğlunundur."
+      },
+      {
+        "id": "D",
+        "text": "Hermes",
+        "explanation": "Hermes'in kadüsesi ÇİFT yılanlı ve kanatlıdır; ticaret simgesidir — en klasik karıştırma."
+      }
     ],
     "correct": "A",
     "trick": "Tek yılan = Asklepios (tıp); çift yılan + kanat = Hermes kadüsesi (ticaret). Kâse + yılan = Hygieia (eczacılık)."
@@ -364,10 +764,26 @@
     "difficulty": 2,
     "stem": "Antik dünyanın en ünlü sağlık merkezlerinden Bergama Asklepionu'nda yetişen ünlü hekim aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Galenos", "explanation": "Doğru — Bergamalı Galenos, gladyatör hekimliğinden imparator hekimliğine yükseldi; öğretisi 1500 yıl tıbba egemen oldu." },
-      { "id": "B", "text": "Hipokrat", "explanation": "Hipokrat, İstanköy'de (Kos) yaşamıştır; 'tıbbın babası'dır ama Bergamalı değildir." },
-      { "id": "C", "text": "İbn-i Sina", "explanation": "İbn-i Sina, İslam dünyasının hekimidir; antik dönemle ilgisi yoktur." },
-      { "id": "D", "text": "Herodot", "explanation": "Herodot hekim değil, 'tarihin babası'dır." }
+      {
+        "id": "A",
+        "text": "Galenos",
+        "explanation": "Doğru — Bergamalı Galenos, gladyatör hekimliğinden imparator hekimliğine yükseldi; öğretisi 1500 yıl tıbba egemen oldu."
+      },
+      {
+        "id": "B",
+        "text": "Herodot",
+        "explanation": "Herodot hekim değil, 'tarihin babası'dır."
+      },
+      {
+        "id": "C",
+        "text": "Hipokrat",
+        "explanation": "Hipokrat, İstanköy'de (Kos) yaşamıştır; 'tıbbın babası'dır ama Bergamalı değildir."
+      },
+      {
+        "id": "D",
+        "text": "İbn-i Sina",
+        "explanation": "İbn-i Sina, İslam dünyasının hekimidir; antik dönemle ilgisi yoktur."
+      }
     ],
     "correct": "A"
   },
@@ -378,12 +794,28 @@
     "difficulty": 2,
     "stem": "Bir kabartmada asma dalı, üzüm salkımı ve thyrsos değneğiyle betimlenen tanrı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Dionysos", "explanation": "Doğru — şarap ve coşku tanrısı Dionysos (Baküs), asma-üzüm-thyrsos üçlüsüyle tanınır; yanında panter ve satyrler olur." },
-      { "id": "B", "text": "Apollon", "explanation": "Apollon lir ve defneyle betimlenir." },
-      { "id": "C", "text": "Hermes", "explanation": "Hermes kanatlı sandalet ve kadüseyle tanınır." },
-      { "id": "D", "text": "Poseidon", "explanation": "Poseidon üç dişli mızrakla betimlenir." }
+      {
+        "id": "A",
+        "text": "Hermes",
+        "explanation": "Hermes kanatlı sandalet ve kadüseyle tanınır."
+      },
+      {
+        "id": "B",
+        "text": "Dionysos",
+        "explanation": "Doğru — şarap ve coşku tanrısı Dionysos (Baküs), asma-üzüm-thyrsos üçlüsüyle tanınır; yanında panter ve satyrler olur."
+      },
+      {
+        "id": "C",
+        "text": "Poseidon",
+        "explanation": "Poseidon üç dişli mızrakla betimlenir."
+      },
+      {
+        "id": "D",
+        "text": "Apollon",
+        "explanation": "Apollon lir ve defneyle betimlenir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "arkeoloji-mitoloji-028",
@@ -392,12 +824,28 @@
     "difficulty": 2,
     "stem": "Aslan postu ve topuzla betimlenen, 12 görevini tamamlamış kahraman aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Herakles", "explanation": "Doğru — Nemea aslanının postu ve topuz, Herakles'in (Herkül) değişmez atribüleridir." },
-      { "id": "B", "text": "Perseus", "explanation": "Perseus, Medusa'nın kesik başı ve kanatlı sandaletlerle betimlenir." },
-      { "id": "C", "text": "Theseus", "explanation": "Theseus, Minotauros'la mücadelesiyle bilinir; aslan postu taşımaz." },
-      { "id": "D", "text": "Akhilleus", "explanation": "Akhilleus zırh ve mızrakla betimlenen bir savaşçıdır; posta ve topuza sahip değildir." }
+      {
+        "id": "A",
+        "text": "Theseus",
+        "explanation": "Theseus, Minotauros'la mücadelesiyle bilinir; aslan postu taşımaz."
+      },
+      {
+        "id": "B",
+        "text": "Herakles",
+        "explanation": "Doğru — Nemea aslanının postu ve topuz, Herakles'in (Herkül) değişmez atribüleridir."
+      },
+      {
+        "id": "C",
+        "text": "Perseus",
+        "explanation": "Perseus, Medusa'nın kesik başı ve kanatlı sandaletlerle betimlenir."
+      },
+      {
+        "id": "D",
+        "text": "Akhilleus",
+        "explanation": "Akhilleus zırh ve mızrakla betimlenen bir savaşçıdır; posta ve topuza sahip değildir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "arkeoloji-mitoloji-029",
@@ -406,12 +854,28 @@
     "difficulty": 3,
     "stem": "Kule biçimli taç takan ve aslanlarla (ya da aslanlı arabayla) betimlenen ana tanrıça aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kibele", "explanation": "Doğru — Anadolu ana tanrıçası Kibele, kule tacı (polos/corona muralis) ve aslanlarıyla tanınır; kültü Roma'ya taşınmıştır." },
-      { "id": "B", "text": "Demeter", "explanation": "Demeter başak demeti taşır; aslanla betimlenmez." },
-      { "id": "C", "text": "Hera", "explanation": "Hera'nın kutsal hayvanı tavus kuşudur." },
-      { "id": "D", "text": "Afrodit", "explanation": "Afrodit güvercin ve gülle simgelenir." }
+      {
+        "id": "A",
+        "text": "Hera",
+        "explanation": "Hera'nın kutsal hayvanı tavus kuşudur."
+      },
+      {
+        "id": "B",
+        "text": "Afrodit",
+        "explanation": "Afrodit güvercin ve gülle simgelenir."
+      },
+      {
+        "id": "C",
+        "text": "Kibele",
+        "explanation": "Doğru — Anadolu ana tanrıçası Kibele, kule tacı (polos/corona muralis) ve aslanlarıyla tanınır; kültü Roma'ya taşınmıştır."
+      },
+      {
+        "id": "D",
+        "text": "Demeter",
+        "explanation": "Demeter başak demeti taşır; aslanla betimlenmez."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "arkeoloji-mitoloji-030",
@@ -420,12 +884,28 @@
     "difficulty": 3,
     "stem": "Efes Artemisi'nin kült heykeliyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "choices": [
-      { "id": "A", "text": "Anadolu ana tanrıça geleneğini sürdüren, çok göğüslü/toplu bereket simgesi bir betimlemedir", "explanation": "Doğru — Efes Artemisi klasik Yunan avcı Artemis'inden tamamen farklıdır; Kibele geleneğinin devamıdır." },
-      { "id": "B", "text": "Yay ve geyikle betimlenen klasik avcı tipindedir", "explanation": "Bu, Yunan Artemis'idir; Efes kült heykeli farklıdır — sınavın hedeflediği ayrım tam budur." },
-      { "id": "C", "text": "Baykuşuyla bilgeliği temsil eder", "explanation": "Baykuş Athena'nındır." },
-      { "id": "D", "text": "Elinde buğday başağı taşır", "explanation": "Başak Demeter'in atribüsüdür." }
+      {
+        "id": "A",
+        "text": "Yay ve geyikle betimlenen klasik avcı tipindedir",
+        "explanation": "Bu, Yunan Artemis'idir; Efes kült heykeli farklıdır — sınavın hedeflediği ayrım tam budur."
+      },
+      {
+        "id": "B",
+        "text": "Baykuşuyla bilgeliği temsil eder",
+        "explanation": "Baykuş Athena'nındır."
+      },
+      {
+        "id": "C",
+        "text": "Anadolu ana tanrıça geleneğini sürdüren, çok göğüslü/toplu bereket simgesi bir betimlemedir",
+        "explanation": "Doğru — Efes Artemisi klasik Yunan avcı Artemis'inden tamamen farklıdır; Kibele geleneğinin devamıdır."
+      },
+      {
+        "id": "D",
+        "text": "Elinde buğday başağı taşır",
+        "explanation": "Başak Demeter'in atribüsüdür."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "arkeoloji-mitoloji-031",
@@ -434,10 +914,26 @@
     "difficulty": 2,
     "stem": "'Yedi kent Homeros'u paylaşamaz' sözü bağlamında, Homeros'un doğduğu kabul edilen kent aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Smyrna (İzmir)", "explanation": "Doğru — gelenek, ozanın Smyrna doğumlu olduğunu ve Khios'ta (Sakız) yaşadığını kabul eder." },
-      { "id": "B", "text": "Atina", "explanation": "Atina, Homeros'un kenti olarak anılmaz." },
-      { "id": "C", "text": "Troya", "explanation": "Homeros Troya'yı anlatmıştır ama oralı değildir." },
-      { "id": "D", "text": "Milet", "explanation": "Milet filozoflarıyla ünlüdür; Homeros iddiası zayıftır." }
+      {
+        "id": "A",
+        "text": "Smyrna (İzmir)",
+        "explanation": "Doğru — gelenek, ozanın Smyrna doğumlu olduğunu ve Khios'ta (Sakız) yaşadığını kabul eder."
+      },
+      {
+        "id": "B",
+        "text": "Atina",
+        "explanation": "Atina, Homeros'un kenti olarak anılmaz."
+      },
+      {
+        "id": "C",
+        "text": "Milet",
+        "explanation": "Milet filozoflarıyla ünlüdür; Homeros iddiası zayıftır."
+      },
+      {
+        "id": "D",
+        "text": "Troya",
+        "explanation": "Homeros Troya'yı anlatmıştır ama oralı değildir."
+      }
     ],
     "correct": "A"
   },
@@ -448,12 +944,28 @@
     "difficulty": 2,
     "stem": "Altın Post'u aramak için Argo gemisiyle Karadeniz'e (Kolkhis) sefer düzenleyen kahraman aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "İason", "explanation": "Doğru — İason ve Argonautlar, Kolkhis kralının kızı Medeia'nın yardımıyla Altın Post'u ele geçirdi." },
-      { "id": "B", "text": "Odysseus", "explanation": "Odysseus'un yolculuğu Troya dönüşüdür; Altın Post'la ilgisi yoktur." },
-      { "id": "C", "text": "Perseus", "explanation": "Perseus'un görevi Medusa'nın başıdır." },
-      { "id": "D", "text": "Bellerophon", "explanation": "Bellerophon, Khimaira'yı öldüren kahramandır." }
+      {
+        "id": "A",
+        "text": "Odysseus",
+        "explanation": "Odysseus'un yolculuğu Troya dönüşüdür; Altın Post'la ilgisi yoktur."
+      },
+      {
+        "id": "B",
+        "text": "Perseus",
+        "explanation": "Perseus'un görevi Medusa'nın başıdır."
+      },
+      {
+        "id": "C",
+        "text": "İason",
+        "explanation": "Doğru — İason ve Argonautlar, Kolkhis kralının kızı Medeia'nın yardımıyla Altın Post'u ele geçirdi."
+      },
+      {
+        "id": "D",
+        "text": "Bellerophon",
+        "explanation": "Bellerophon, Khimaira'yı öldüren kahramandır."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "arkeoloji-mitoloji-033",
@@ -462,12 +974,28 @@
     "difficulty": 3,
     "stem": "Yunan yaratılış mitinde Zeus'un devirerek Olimpos düzenini kurduğu babası aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kronos", "explanation": "Doğru — çocuklarını yutan titan Kronos, Rhea'nın sakladığı Zeus tarafından devrildi (Titanomakhia)." },
-      { "id": "B", "text": "Uranos", "explanation": "Uranos, Kronos'un devirdiği dededir — kuşak sırası tuzağı." },
-      { "id": "C", "text": "Okeanos", "explanation": "Okeanos, dünyayı çevreleyen ırmağın titanıdır; taht mücadelesine girmemiştir." },
-      { "id": "D", "text": "Prometheus", "explanation": "Prometheus, insanlara ateşi veren titandır; Zeus'un babası değildir." }
+      {
+        "id": "A",
+        "text": "Uranos",
+        "explanation": "Uranos, Kronos'un devirdiği dededir — kuşak sırası tuzağı."
+      },
+      {
+        "id": "B",
+        "text": "Okeanos",
+        "explanation": "Okeanos, dünyayı çevreleyen ırmağın titanıdır; taht mücadelesine girmemiştir."
+      },
+      {
+        "id": "C",
+        "text": "Kronos",
+        "explanation": "Doğru — çocuklarını yutan titan Kronos, Rhea'nın sakladığı Zeus tarafından devrildi (Titanomakhia)."
+      },
+      {
+        "id": "D",
+        "text": "Prometheus",
+        "explanation": "Prometheus, insanlara ateşi veren titandır; Zeus'un babası değildir."
+      }
     ],
-    "correct": "A",
+    "correct": "C",
     "trick": "Kuşak zinciri: Uranos → (Kronos devirir) → Kronos → (Zeus devirir). 'Zeus'un babası' = Kronos, 'dedesi' = Uranos."
   },
   {
@@ -477,10 +1005,26 @@
     "difficulty": 2,
     "stem": "İnsanlara ateşi verdiği için Kafkas Dağı'nda zincire vurulan ve ciğeri her gün kartala yediren titan aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Prometheus", "explanation": "Doğru — 'öngörülü' titan Prometheus, ateşi çalıp insanlığa verdi; Herakles onu sonunda kurtardı." },
-      { "id": "B", "text": "Atlas", "explanation": "Atlas'ın cezası gök kubbeyi omuzlarında taşımaktır." },
-      { "id": "C", "text": "Epimetheus", "explanation": "Epimetheus ('sonradan düşünen'), Pandora'yı kabul eden kardeştir." },
-      { "id": "D", "text": "Tantalos", "explanation": "Tantalos'un cezası ulaşamadığı su ve meyvedir (Sipylos/Manisa bölgesi kralı)." }
+      {
+        "id": "A",
+        "text": "Prometheus",
+        "explanation": "Doğru — 'öngörülü' titan Prometheus, ateşi çalıp insanlığa verdi; Herakles onu sonunda kurtardı."
+      },
+      {
+        "id": "B",
+        "text": "Tantalos",
+        "explanation": "Tantalos'un cezası ulaşamadığı su ve meyvedir (Sipylos/Manisa bölgesi kralı)."
+      },
+      {
+        "id": "C",
+        "text": "Atlas",
+        "explanation": "Atlas'ın cezası gök kubbeyi omuzlarında taşımaktır."
+      },
+      {
+        "id": "D",
+        "text": "Epimetheus",
+        "explanation": "Epimetheus ('sonradan düşünen'), Pandora'yı kabul eden kardeştir."
+      }
     ],
     "correct": "A"
   },
@@ -491,12 +1035,28 @@
     "difficulty": 2,
     "stem": "'Çingene Kızı' mozaiği hangi müzenin simgesidir?",
     "choices": [
-      { "id": "A", "text": "Zeugma Mozaik Müzesi (Gaziantep)", "explanation": "Doğru — Belkıs/Zeugma antik kentinden çıkarılan mozaik, dünyanın en büyük mozaik müzelerinden olan Zeugma'nın simgesidir." },
-      { "id": "B", "text": "Hatay Arkeoloji Müzesi", "explanation": "Hatay da mozaikleriyle ünlüdür ama Çingene Kızı Gaziantep'tedir — iki mozaik müzesi klasik çeldiricidir." },
-      { "id": "C", "text": "İstanbul Mozaik Müzesi", "explanation": "İstanbul'daki müze Büyük Saray mozaiklerini sergiler." },
-      { "id": "D", "text": "Antalya Müzesi", "explanation": "Antalya Müzesi Perge heykelleriyle ünlüdür." }
+      {
+        "id": "A",
+        "text": "Antalya Müzesi",
+        "explanation": "Antalya Müzesi Perge heykelleriyle ünlüdür."
+      },
+      {
+        "id": "B",
+        "text": "İstanbul Mozaik Müzesi",
+        "explanation": "İstanbul'daki müze Büyük Saray mozaiklerini sergiler."
+      },
+      {
+        "id": "C",
+        "text": "Hatay Arkeoloji Müzesi",
+        "explanation": "Hatay da mozaikleriyle ünlüdür ama Çingene Kızı Gaziantep'tedir — iki mozaik müzesi klasik çeldiricidir."
+      },
+      {
+        "id": "D",
+        "text": "Zeugma Mozaik Müzesi (Gaziantep)",
+        "explanation": "Doğru — Belkıs/Zeugma antik kentinden çıkarılan mozaik, dünyanın en büyük mozaik müzelerinden olan Zeugma'nın simgesidir."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "arkeoloji-mitoloji-036",
@@ -505,12 +1065,28 @@
     "difficulty": 3,
     "stem": "İskender ile III. Darius'un İssos Savaşı'nı betimleyen ünlü mozaiğin aslı bugün nerededir?",
     "choices": [
-      { "id": "A", "text": "Napoli Ulusal Arkeoloji Müzesi", "explanation": "Doğru — Pompeii'deki Faun Evi'nde bulunan mozaik Napoli'dedir (Şubat 2025 sınavında soruldu)." },
-      { "id": "B", "text": "Hatay Arkeoloji Müzesi", "explanation": "Savaş Hatay yakınında geçse de mozaik İtalya'da bulunmuştur — coğrafya tuzağı." },
-      { "id": "C", "text": "Louvre Müzesi", "explanation": "Louvre'da değildir." },
-      { "id": "D", "text": "İstanbul Arkeoloji Müzeleri", "explanation": "İstanbul'da İskender Lahdi vardır; İssos Mozaiği yoktur — iki 'İskender eseri' birbirine karıştırılır." }
+      {
+        "id": "A",
+        "text": "Hatay Arkeoloji Müzesi",
+        "explanation": "Savaş Hatay yakınında geçse de mozaik İtalya'da bulunmuştur — coğrafya tuzağı."
+      },
+      {
+        "id": "B",
+        "text": "Louvre Müzesi",
+        "explanation": "Louvre'da değildir."
+      },
+      {
+        "id": "C",
+        "text": "Napoli Ulusal Arkeoloji Müzesi",
+        "explanation": "Doğru — Pompeii'deki Faun Evi'nde bulunan mozaik Napoli'dedir (Şubat 2025 sınavında soruldu)."
+      },
+      {
+        "id": "D",
+        "text": "İstanbul Arkeoloji Müzeleri",
+        "explanation": "İstanbul'da İskender Lahdi vardır; İssos Mozaiği yoktur — iki 'İskender eseri' birbirine karıştırılır."
+      }
     ],
-    "correct": "A",
+    "correct": "C",
     "trick": "İskender ikilisi: İskender LAHDİ → İstanbul; İssos MOZAİĞİ → Napoli."
   },
   {
@@ -520,12 +1096,28 @@
     "difficulty": 2,
     "stem": "Arkeolojik buluntunun hiç yerinden oynatılmamış, özgün konumunda ele geçmesini ifade eden terim aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "İn situ", "explanation": "Doğru — Latince 'yerinde' anlamındaki terim, buluntunun bağlamıyla birlikte korunduğunu gösterir; bilimsel değeri en yüksek durumdur." },
-      { "id": "B", "text": "Replika", "explanation": "Replika, eserin birebir kopyasıdır." },
-      { "id": "C", "text": "Ex situ", "explanation": "Ex situ, yerinden taşınmış olmayı ifade eder — tam tersi." },
-      { "id": "D", "text": "Restitüsyon", "explanation": "Restitüsyon, yapının özgün halinin çizim/modelle canlandırılmasıdır." }
+      {
+        "id": "A",
+        "text": "Ex situ",
+        "explanation": "Ex situ, yerinden taşınmış olmayı ifade eder — tam tersi."
+      },
+      {
+        "id": "B",
+        "text": "Replika",
+        "explanation": "Replika, eserin birebir kopyasıdır."
+      },
+      {
+        "id": "C",
+        "text": "Restitüsyon",
+        "explanation": "Restitüsyon, yapının özgün halinin çizim/modelle canlandırılmasıdır."
+      },
+      {
+        "id": "D",
+        "text": "İn situ",
+        "explanation": "Doğru — Latince 'yerinde' anlamındaki terim, buluntunun bağlamıyla birlikte korunduğunu gösterir; bilimsel değeri en yüksek durumdur."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "arkeoloji-mitoloji-038",
@@ -534,12 +1126,28 @@
     "difficulty": 2,
     "stem": "Troya antik kenti hangi il sınırlarında yer alır ve hangi yıl UNESCO Dünya Mirası Listesi'ne girmiştir?",
     "choices": [
-      { "id": "A", "text": "Çanakkale — 1998", "explanation": "Doğru — Hisarlık Tepesi'ndeki Troya, Çanakkale'dedir; 1998'de listeye girmiş, 2018'de Troya Müzesi açılmıştır." },
-      { "id": "B", "text": "Balıkesir — 1998", "explanation": "Troya, Balıkesir'de değil Çanakkale'dedir." },
-      { "id": "C", "text": "Çanakkale — 1985", "explanation": "1985 Türkiye'nin ilk UNESCO adaylık dönemidir; Troya 1998'de girmiştir." },
-      { "id": "D", "text": "İzmir — 2018", "explanation": "2018, müzenin açılış yılıdır; kent İzmir'de değildir." }
+      {
+        "id": "A",
+        "text": "İzmir — 2018",
+        "explanation": "2018, müzenin açılış yılıdır; kent İzmir'de değildir."
+      },
+      {
+        "id": "B",
+        "text": "Çanakkale — 1985",
+        "explanation": "1985 Türkiye'nin ilk UNESCO adaylık dönemidir; Troya 1998'de girmiştir."
+      },
+      {
+        "id": "C",
+        "text": "Balıkesir — 1998",
+        "explanation": "Troya, Balıkesir'de değil Çanakkale'dedir."
+      },
+      {
+        "id": "D",
+        "text": "Çanakkale — 1998",
+        "explanation": "Doğru — Hisarlık Tepesi'ndeki Troya, Çanakkale'dedir; 1998'de listeye girmiş, 2018'de Troya Müzesi açılmıştır."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "arkeoloji-mitoloji-039",
@@ -548,12 +1156,28 @@
     "difficulty": 1,
     "stem": "Haberci tanrı Hermes'in taşıdığı çift yılanlı, kanatlı değneğin adı nedir?",
     "choices": [
-      { "id": "A", "text": "Kadüse", "explanation": "Doğru — kadüse (kerykeion), Hermes'in habercilik ve ticaret simgesidir." },
-      { "id": "B", "text": "Thyrsos", "explanation": "Thyrsos, Dionysos'un çam kozalaklı değneğidir." },
-      { "id": "C", "text": "Trident", "explanation": "Trident, Poseidon'un üç dişli mızrağıdır." },
-      { "id": "D", "text": "Asa-yı Musa", "explanation": "Musa'nın asası dini bir semboldür; Yunan mitolojisine ait değildir." }
+      {
+        "id": "A",
+        "text": "Asa-yı Musa",
+        "explanation": "Musa'nın asası dini bir semboldür; Yunan mitolojisine ait değildir."
+      },
+      {
+        "id": "B",
+        "text": "Trident",
+        "explanation": "Trident, Poseidon'un üç dişli mızrağıdır."
+      },
+      {
+        "id": "C",
+        "text": "Thyrsos",
+        "explanation": "Thyrsos, Dionysos'un çam kozalaklı değneğidir."
+      },
+      {
+        "id": "D",
+        "text": "Kadüse",
+        "explanation": "Doğru — kadüse (kerykeion), Hermes'in habercilik ve ticaret simgesidir."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "arkeoloji-mitoloji-040",
@@ -562,12 +1186,28 @@
     "difficulty": 3,
     "stem": "Athena ile dokuma yarışına girdiği için örümceğe dönüştürülen Lidyalı genç kız aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Arakhne", "explanation": "Doğru — hybris'in (tanrıya meydan okuma) cezasını örümceğe dönüşerek ödedi; 'araknofobi' sözcüğünün kökenidir." },
-      { "id": "B", "text": "Niobe", "explanation": "Niobe'nin kibri çocuklarıyla övünmekti; taşa dönüştü — dönüşüm tipini karıştırma." },
-      { "id": "C", "text": "Penelope", "explanation": "Penelope dokumasıyla ünlüdür ama Odysseus'un sadık eşidir; cezalandırılmamıştır." },
-      { "id": "D", "text": "Daphne", "explanation": "Daphne, Apollon'dan kaçarken defne ağacına dönüşen nymphadır." }
+      {
+        "id": "A",
+        "text": "Penelope",
+        "explanation": "Penelope dokumasıyla ünlüdür ama Odysseus'un sadık eşidir; cezalandırılmamıştır."
+      },
+      {
+        "id": "B",
+        "text": "Daphne",
+        "explanation": "Daphne, Apollon'dan kaçarken defne ağacına dönüşen nymphadır."
+      },
+      {
+        "id": "C",
+        "text": "Arakhne",
+        "explanation": "Doğru — hybris'in (tanrıya meydan okuma) cezasını örümceğe dönüşerek ödedi; 'araknofobi' sözcüğünün kökenidir."
+      },
+      {
+        "id": "D",
+        "text": "Niobe",
+        "explanation": "Niobe'nin kibri çocuklarıyla övünmekti; taşa dönüştü — dönüşüm tipini karıştırma."
+      }
     ],
-    "correct": "A",
+    "correct": "C",
     "trick": "Dönüşüm mitleri seti: Arakhne→örümcek, Niobe→kaya, Daphne→defne. Kim neye dönüştü, çapraz sorulur."
   }
 ]

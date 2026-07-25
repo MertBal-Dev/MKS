@@ -6,12 +6,28 @@
     "difficulty": 1,
     "stem": "Başlığında akantus yaprağı bezemesi bulunan, üç düzenin en süslüsü olan sütun düzeni aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Korint", "explanation": "Doğru — akantus yapraklı başlık Korint düzeninin imzasıdır; Roma döneminde çok sevilmiştir." },
-      { "id": "B", "text": "Dor", "explanation": "Dor en sade düzendir; başlığı yastık biçimlidir ve kaidesizdir." },
-      { "id": "C", "text": "İyon", "explanation": "İyon düzeninin işareti volüt (kıvrım) başlıktır." },
-      { "id": "D", "text": "Toskan", "explanation": "Toskan, Dor'un Roma'daki sade varyantıdır; süslü değildir." }
+      {
+        "id": "A",
+        "text": "Dor",
+        "explanation": "Dor en sade düzendir; başlığı yastık biçimlidir ve kaidesizdir."
+      },
+      {
+        "id": "B",
+        "text": "Korint",
+        "explanation": "Doğru — akantus yapraklı başlık Korint düzeninin imzasıdır; Roma döneminde çok sevilmiştir."
+      },
+      {
+        "id": "C",
+        "text": "İyon",
+        "explanation": "İyon düzeninin işareti volüt (kıvrım) başlıktır."
+      },
+      {
+        "id": "D",
+        "text": "Toskan",
+        "explanation": "Toskan, Dor'un Roma'daki sade varyantıdır; süslü değildir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "sanat-tarihi-002",
@@ -20,12 +36,28 @@
     "difficulty": 2,
     "stem": "Kaidesi olmayan, sütunu doğrudan stylobata oturan en sade antik düzen aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Dor", "explanation": "Doğru — Dor düzeninde kaide yoktur; Assos Athena Tapınağı Anadolu'daki arkaik Dor örneğidir." },
-      { "id": "B", "text": "İyon", "explanation": "İyon sütunu daima kaide üzerine oturur." },
-      { "id": "C", "text": "Korint", "explanation": "Korint de kaidelidir ve en süslü düzendir." },
-      { "id": "D", "text": "Kompozit", "explanation": "Kompozit, İyon+Korint karışımı Roma düzenidir; kaidelidir." }
+      {
+        "id": "A",
+        "text": "İyon",
+        "explanation": "İyon sütunu daima kaide üzerine oturur."
+      },
+      {
+        "id": "B",
+        "text": "Kompozit",
+        "explanation": "Kompozit, İyon+Korint karışımı Roma düzenidir; kaidelidir."
+      },
+      {
+        "id": "C",
+        "text": "Korint",
+        "explanation": "Korint de kaidelidir ve en süslü düzendir."
+      },
+      {
+        "id": "D",
+        "text": "Dor",
+        "explanation": "Doğru — Dor düzeninde kaide yoktur; Assos Athena Tapınağı Anadolu'daki arkaik Dor örneğidir."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "sanat-tarihi-003",
@@ -34,12 +66,28 @@
     "difficulty": 2,
     "stem": "Antik tapınakta kült heykelinin bulunduğu ana mekâna verilen ad aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Naos (cella)", "explanation": "Doğru — tanrı heykeli naosta durur; halk buraya girmez, tören dışarıdaki sunakta yapılırdı." },
-      { "id": "B", "text": "Pronaos", "explanation": "Pronaos, naosun önündeki giriş bölümüdür." },
-      { "id": "C", "text": "Peristasis", "explanation": "Peristasis, tapınağı çeviren sütun dizisidir." },
-      { "id": "D", "text": "Opisthodomos", "explanation": "Opisthodomos, arka odadır; genellikle hazine olarak kullanılırdı." }
+      {
+        "id": "A",
+        "text": "Peristasis",
+        "explanation": "Peristasis, tapınağı çeviren sütun dizisidir."
+      },
+      {
+        "id": "B",
+        "text": "Naos (cella)",
+        "explanation": "Doğru — tanrı heykeli naosta durur; halk buraya girmez, tören dışarıdaki sunakta yapılırdı."
+      },
+      {
+        "id": "C",
+        "text": "Opisthodomos",
+        "explanation": "Opisthodomos, arka odadır; genellikle hazine olarak kullanılırdı."
+      },
+      {
+        "id": "D",
+        "text": "Pronaos",
+        "explanation": "Pronaos, naosun önündeki giriş bölümüdür."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "sanat-tarihi-004",
@@ -48,12 +96,28 @@
     "difficulty": 2,
     "stem": "Antik kentte kent meclisinin toplandığı yapı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Bouleuterion", "explanation": "Doğru — boule (meclis) üyelerinin toplandığı, küçük tiyatro biçimli kapalı yapıdır." },
-      { "id": "B", "text": "Stoa", "explanation": "Stoa, agorayı çeviren sütunlu galeridir." },
-      { "id": "C", "text": "Gymnasium", "explanation": "Gymnasium, beden ve zihin eğitimi kompleksidir." },
-      { "id": "D", "text": "Odeon", "explanation": "Odeon, müzik dinletileri için küçük gösteri yapısıdır — bouleuterionla karıştırılır ama işlevi sanattır." }
+      {
+        "id": "A",
+        "text": "Gymnasium",
+        "explanation": "Gymnasium, beden ve zihin eğitimi kompleksidir."
+      },
+      {
+        "id": "B",
+        "text": "Stoa",
+        "explanation": "Stoa, agorayı çeviren sütunlu galeridir."
+      },
+      {
+        "id": "C",
+        "text": "Odeon",
+        "explanation": "Odeon, müzik dinletileri için küçük gösteri yapısıdır — bouleuterionla karıştırılır ama işlevi sanattır."
+      },
+      {
+        "id": "D",
+        "text": "Bouleuterion",
+        "explanation": "Doğru — boule (meclis) üyelerinin toplandığı, küçük tiyatro biçimli kapalı yapıdır."
+      }
     ],
-    "correct": "A",
+    "correct": "D",
     "trick": "Bouleuterion ile odeon mimari olarak benzeşir; ayrım işlevdedir (meclis vs müzik)."
   },
   {
@@ -63,10 +127,26 @@
     "difficulty": 2,
     "stem": "Roma tiyatrosunu Yunan tiyatrosundan ayıran temel özellik aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kemer-tonoz teknolojisiyle düz zemine kurulabilmesi ve yarım daire orkestrası", "explanation": "Doğru — Yunan tiyatrosu yamaç ister ve tam daire orkestralıdır; Roma tiyatrosu bağımsız yapıdadır, sahne binası yüksektir." },
-      { "id": "B", "text": "Yamaca yaslanması", "explanation": "Yamaca yaslanma Yunan tiyatrosunun özelliğidir." },
-      { "id": "C", "text": "Orkestrasının tam daire olması", "explanation": "Tam daire orkestra Yunan geleneğidir; Roma'da yarımdır." },
-      { "id": "D", "text": "Sahne binasının hiç olmaması", "explanation": "Tam tersine, Roma'da çok katlı gösterişli scaenae frons vardır." }
+      {
+        "id": "A",
+        "text": "Kemer-tonoz teknolojisiyle düz zemine kurulabilmesi ve yarım daire orkestrası",
+        "explanation": "Doğru — Yunan tiyatrosu yamaç ister ve tam daire orkestralıdır; Roma tiyatrosu bağımsız yapıdadır, sahne binası yüksektir."
+      },
+      {
+        "id": "B",
+        "text": "Sahne binasının hiç olmaması",
+        "explanation": "Tam tersine, Roma'da çok katlı gösterişli scaenae frons vardır."
+      },
+      {
+        "id": "C",
+        "text": "Yamaca yaslanması",
+        "explanation": "Yamaca yaslanma Yunan tiyatrosunun özelliğidir."
+      },
+      {
+        "id": "D",
+        "text": "Orkestrasının tam daire olması",
+        "explanation": "Tam daire orkestra Yunan geleneğidir; Roma'da yarımdır."
+      }
     ],
     "correct": "A"
   },
@@ -77,12 +157,28 @@
     "difficulty": 1,
     "stem": "MS 2. yüzyılda mimar Zenon tarafından yapılan, günümüze en sağlam ulaşmış Roma tiyatrolarından biri olan yapı nerededir?",
     "choices": [
-      { "id": "A", "text": "Aspendos (Antalya)", "explanation": "Doğru — Aspendos Tiyatrosu, sahne binasıyla birlikte ayakta kalan ender Roma tiyatrolarındandır; opera-bale festivaline ev sahipliği yapar." },
-      { "id": "B", "text": "Efes", "explanation": "Efes tiyatrosu büyüktür (24.000 kişi) ama sahne binası Aspendos kadar korunmamıştır." },
-      { "id": "C", "text": "Hierapolis", "explanation": "Hierapolis tiyatrosu görkemlidir ama 'en iyi korunmuş' unvanı Aspendos'undur." },
-      { "id": "D", "text": "Milet", "explanation": "Milet tiyatrosu önemlidir ama sorunun aradığı Aspendos'tur." }
+      {
+        "id": "A",
+        "text": "Milet",
+        "explanation": "Milet tiyatrosu önemlidir ama sorunun aradığı Aspendos'tur."
+      },
+      {
+        "id": "B",
+        "text": "Efes",
+        "explanation": "Efes tiyatrosu büyüktür (24.000 kişi) ama sahne binası Aspendos kadar korunmamıştır."
+      },
+      {
+        "id": "C",
+        "text": "Hierapolis",
+        "explanation": "Hierapolis tiyatrosu görkemlidir ama 'en iyi korunmuş' unvanı Aspendos'undur."
+      },
+      {
+        "id": "D",
+        "text": "Aspendos (Antalya)",
+        "explanation": "Doğru — Aspendos Tiyatrosu, sahne binasıyla birlikte ayakta kalan ender Roma tiyatrolarındandır; opera-bale festivaline ev sahipliği yapar."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "sanat-tarihi-007",
@@ -91,12 +187,28 @@
     "difficulty": 2,
     "stem": "Roma hamamında sıcaklık bölümüne verilen ad aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Caldarium", "explanation": "Doğru — sıra: apodyterium (soyunma), frigidarium (soğuk), tepidarium (ılık), caldarium (sıcak)." },
-      { "id": "B", "text": "Frigidarium", "explanation": "Frigidarium soğukluk bölümüdür (frigo = soğuk)." },
-      { "id": "C", "text": "Tepidarium", "explanation": "Tepidarium ılıklık bölümüdür." },
-      { "id": "D", "text": "Apodyterium", "explanation": "Apodyterium soyunma odasıdır." }
+      {
+        "id": "A",
+        "text": "Frigidarium",
+        "explanation": "Frigidarium soğukluk bölümüdür (frigo = soğuk)."
+      },
+      {
+        "id": "B",
+        "text": "Tepidarium",
+        "explanation": "Tepidarium ılıklık bölümüdür."
+      },
+      {
+        "id": "C",
+        "text": "Apodyterium",
+        "explanation": "Apodyterium soyunma odasıdır."
+      },
+      {
+        "id": "D",
+        "text": "Caldarium",
+        "explanation": "Doğru — sıra: apodyterium (soyunma), frigidarium (soğuk), tepidarium (ılık), caldarium (sıcak)."
+      }
     ],
-    "correct": "A",
+    "correct": "D",
     "trick": "Kanca: 'kalorifer' ↔ caldarium (sıcak); 'frigo' ↔ frigidarium (soğuk)."
   },
   {
@@ -106,12 +218,28 @@
     "difficulty": 3,
     "stem": "Roma hamamlarında döşeme altından sıcak hava dolaştırılarak yapılan ısıtma sistemine ne ad verilir?",
     "choices": [
-      { "id": "A", "text": "Hypocaust", "explanation": "Doğru — zemin, tuğla ayaklar (pilae) üzerine oturtulur; külhandan gelen sıcak hava altta dolaşır. Türk hamamı bu sistemin mirasçısıdır." },
-      { "id": "B", "text": "Külhan", "explanation": "Külhan, ateşin yakıldığı ocak bölümüdür; sistemin tamamının adı değildir." },
-      { "id": "C", "text": "Atrium", "explanation": "Atrium, Roma evinin orta avlusudur." },
-      { "id": "D", "text": "Impluvium", "explanation": "Impluvium, atriumdaki yağmur suyu havuzudur." }
+      {
+        "id": "A",
+        "text": "Atrium",
+        "explanation": "Atrium, Roma evinin orta avlusudur."
+      },
+      {
+        "id": "B",
+        "text": "Hypocaust",
+        "explanation": "Doğru — zemin, tuğla ayaklar (pilae) üzerine oturtulur; külhandan gelen sıcak hava altta dolaşır. Türk hamamı bu sistemin mirasçısıdır."
+      },
+      {
+        "id": "C",
+        "text": "Külhan",
+        "explanation": "Külhan, ateşin yakıldığı ocak bölümüdür; sistemin tamamının adı değildir."
+      },
+      {
+        "id": "D",
+        "text": "Impluvium",
+        "explanation": "Impluvium, atriumdaki yağmur suyu havuzudur."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "sanat-tarihi-009",
@@ -120,12 +248,28 @@
     "difficulty": 1,
     "stem": "Ayasofya'yı 532-537 yılları arasında yaptıran Bizans imparatoru kimdir?",
     "choices": [
-      { "id": "A", "text": "Justinianus", "explanation": "Doğru — Nika İsyanı'nda yanan kilisenin yerine Justinianus bugünkü Ayasofya'yı yaptırdı." },
-      { "id": "B", "text": "Konstantin", "explanation": "Konstantin kenti başkent yapan imparatordur (330); ilk Ayasofya sonradan yapılmıştır." },
-      { "id": "C", "text": "Theodosius", "explanation": "II. Theodosius, ikinci Ayasofya'yı ve kara surlarını yaptırmıştır." },
-      { "id": "D", "text": "Herakleios", "explanation": "Herakleios 7. yüzyıl imparatorudur." }
+      {
+        "id": "A",
+        "text": "Konstantin",
+        "explanation": "Konstantin kenti başkent yapan imparatordur (330); ilk Ayasofya sonradan yapılmıştır."
+      },
+      {
+        "id": "B",
+        "text": "Justinianus",
+        "explanation": "Doğru — Nika İsyanı'nda yanan kilisenin yerine Justinianus bugünkü Ayasofya'yı yaptırdı."
+      },
+      {
+        "id": "C",
+        "text": "Herakleios",
+        "explanation": "Herakleios 7. yüzyıl imparatorudur."
+      },
+      {
+        "id": "D",
+        "text": "Theodosius",
+        "explanation": "II. Theodosius, ikinci Ayasofya'yı ve kara surlarını yaptırmıştır."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "sanat-tarihi-010",
@@ -134,12 +278,28 @@
     "difficulty": 2,
     "stem": "Ayasofya'nın mimarları aşağıdakilerden hangileridir?",
     "choices": [
-      { "id": "A", "text": "Tralles'li Anthemios ve Milet'li İsidoros", "explanation": "Doğru — ikisi de Batı Anadolulu bilim insanlarıdır; kubbeyi pandantiflerle kare plana oturttular." },
-      { "id": "B", "text": "Mimar Sinan ve Sedefkâr Mehmed Ağa", "explanation": "İkisi Osmanlı mimarıdır; Sinan Ayasofya'ya payanda eklemiştir ama yapının mimarı değildir." },
-      { "id": "C", "text": "İktinos ve Kallikrates", "explanation": "Bu ikili Atina Parthenonu'nun mimarlarıdır." },
-      { "id": "D", "text": "Vitruvius ve Apollodoros", "explanation": "Vitruvius mimarlık kuramcısı, Apollodoros Traianus'un mimarıdır." }
+      {
+        "id": "A",
+        "text": "İktinos ve Kallikrates",
+        "explanation": "Bu ikili Atina Parthenonu'nun mimarlarıdır."
+      },
+      {
+        "id": "B",
+        "text": "Tralles'li Anthemios ve Milet'li İsidoros",
+        "explanation": "Doğru — ikisi de Batı Anadolulu bilim insanlarıdır; kubbeyi pandantiflerle kare plana oturttular."
+      },
+      {
+        "id": "C",
+        "text": "Vitruvius ve Apollodoros",
+        "explanation": "Vitruvius mimarlık kuramcısı, Apollodoros Traianus'un mimarıdır."
+      },
+      {
+        "id": "D",
+        "text": "Mimar Sinan ve Sedefkâr Mehmed Ağa",
+        "explanation": "İkisi Osmanlı mimarıdır; Sinan Ayasofya'ya payanda eklemiştir ama yapının mimarı değildir."
+      }
     ],
-    "correct": "A",
+    "correct": "B",
     "trick": "Ayasofya'nın mimarları Anadolulu iki 'geometri ustası'dır: Aydınlı Anthemios + Miletli İsidoros."
   },
   {
@@ -149,12 +309,28 @@
     "difficulty": 2,
     "stem": "Kare planlı mekânı yuvarlak kubbeye bağlayan küresel üçgen geçiş elemanı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Pandantif", "explanation": "Doğru — Ayasofya'nın devrimsel çözümüdür; dört pandantif kubbenin yükünü ayaklara aktarır." },
-      { "id": "B", "text": "Tromp", "explanation": "Tromp köşe kemeridir; benzer işlevi görür ama küresel üçgen değildir — Doğu/İslam mimarisinde yaygındır." },
-      { "id": "C", "text": "Mukarnas", "explanation": "Mukarnas, sarkıtlı süsleme elemanıdır; İslam mimarisine aittir." },
-      { "id": "D", "text": "Payanda", "explanation": "Payanda, yapıyı dıştan destekleyen ağırlık duvarıdır." }
+      {
+        "id": "A",
+        "text": "Payanda",
+        "explanation": "Payanda, yapıyı dıştan destekleyen ağırlık duvarıdır."
+      },
+      {
+        "id": "B",
+        "text": "Tromp",
+        "explanation": "Tromp köşe kemeridir; benzer işlevi görür ama küresel üçgen değildir — Doğu/İslam mimarisinde yaygındır."
+      },
+      {
+        "id": "C",
+        "text": "Mukarnas",
+        "explanation": "Mukarnas, sarkıtlı süsleme elemanıdır; İslam mimarisine aittir."
+      },
+      {
+        "id": "D",
+        "text": "Pandantif",
+        "explanation": "Doğru — Ayasofya'nın devrimsel çözümüdür; dört pandantif kubbenin yükünü ayaklara aktarır."
+      }
     ],
-    "correct": "A",
+    "correct": "D",
     "trick": "'Küresel üçgen' ifadesi geçiyorsa cevap pandantiftir; 'köşe kemeri' geçiyorsa tromp."
   },
   {
@@ -164,12 +340,28 @@
     "difficulty": 2,
     "stem": "Bizans'ta dini tasvirlerin yasaklanıp tahrip edildiği 726-842 arası döneme ne ad verilir?",
     "choices": [
-      { "id": "A", "text": "İkonoklazma", "explanation": "Doğru — tasvir kırıcılık dönemi; birçok mozaik ve ikona bu dönemde yok edildi." },
-      { "id": "B", "text": "Rönesans", "explanation": "Rönesans, 14-16. yy Avrupa yeniden doğuşudur." },
-      { "id": "C", "text": "Reform", "explanation": "Reform, 16. yy'da Luther'le başlayan din hareketidir." },
-      { "id": "D", "text": "Skolastik", "explanation": "Skolastik, Orta Çağ düşünce sistemidir; tasvirle ilgili değildir." }
+      {
+        "id": "A",
+        "text": "Rönesans",
+        "explanation": "Rönesans, 14-16. yy Avrupa yeniden doğuşudur."
+      },
+      {
+        "id": "B",
+        "text": "Skolastik",
+        "explanation": "Skolastik, Orta Çağ düşünce sistemidir; tasvirle ilgili değildir."
+      },
+      {
+        "id": "C",
+        "text": "Reform",
+        "explanation": "Reform, 16. yy'da Luther'le başlayan din hareketidir."
+      },
+      {
+        "id": "D",
+        "text": "İkonoklazma",
+        "explanation": "Doğru — tasvir kırıcılık dönemi; birçok mozaik ve ikona bu dönemde yok edildi."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "sanat-tarihi-013",
@@ -178,12 +370,28 @@
     "difficulty": 2,
     "stem": "Geç Bizans (Palaiologos) döneminin en görkemli mozaik ve fresklerini barındıran İstanbul'daki yapı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kariye (Khora)", "explanation": "Doğru — 14. yüzyıl başındaki Khora mozaik-freskleri 'Bizans rönesansı'nın doruğudur." },
-      { "id": "B", "text": "Aya İrini", "explanation": "Aya İrini erken Bizans yapısıdır; ikonoklazma dönemi yalın haçı ile bilinir." },
-      { "id": "C", "text": "Hipodrom", "explanation": "Hipodrom, araba yarışı alanıdır; mozaik programı yoktur." },
-      { "id": "D", "text": "Yerebatan Sarnıcı", "explanation": "Sarnıç su deposudur; Medusa başlı sütun kaideleriyle ünlüdür." }
+      {
+        "id": "A",
+        "text": "Aya İrini",
+        "explanation": "Aya İrini erken Bizans yapısıdır; ikonoklazma dönemi yalın haçı ile bilinir."
+      },
+      {
+        "id": "B",
+        "text": "Kariye (Khora)",
+        "explanation": "Doğru — 14. yüzyıl başındaki Khora mozaik-freskleri 'Bizans rönesansı'nın doruğudur."
+      },
+      {
+        "id": "C",
+        "text": "Yerebatan Sarnıcı",
+        "explanation": "Sarnıç su deposudur; Medusa başlı sütun kaideleriyle ünlüdür."
+      },
+      {
+        "id": "D",
+        "text": "Hipodrom",
+        "explanation": "Hipodrom, araba yarışı alanıdır; mozaik programı yoktur."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "sanat-tarihi-014",
@@ -192,10 +400,26 @@
     "difficulty": 2,
     "stem": "Noel Baba olarak bilinen Aziz Nikolaos'a adanmış kilise hangi ilçededir?",
     "choices": [
-      { "id": "A", "text": "Demre (Antalya)", "explanation": "Doğru — Myra piskoposu Aziz Nikolaos'un kilisesi Demre'dedir; her yıl aralıkta anma törenleri yapılır." },
-      { "id": "B", "text": "Selçuk (İzmir)", "explanation": "Selçuk'taki ünlü dini yapı Meryem Ana Evi ve St. Jean Bazilikası'dır." },
-      { "id": "C", "text": "İznik (Bursa)", "explanation": "İznik konsil kentidir; Aziz Nikolaos kilisesi Demre'dedir." },
-      { "id": "D", "text": "Alanya (Antalya)", "explanation": "Alanya, Selçuklu tersanesi ve kalesiyle ünlüdür." }
+      {
+        "id": "A",
+        "text": "Demre (Antalya)",
+        "explanation": "Doğru — Myra piskoposu Aziz Nikolaos'un kilisesi Demre'dedir; her yıl aralıkta anma törenleri yapılır."
+      },
+      {
+        "id": "B",
+        "text": "Alanya (Antalya)",
+        "explanation": "Alanya, Selçuklu tersanesi ve kalesiyle ünlüdür."
+      },
+      {
+        "id": "C",
+        "text": "İznik (Bursa)",
+        "explanation": "İznik konsil kentidir; Aziz Nikolaos kilisesi Demre'dedir."
+      },
+      {
+        "id": "D",
+        "text": "Selçuk (İzmir)",
+        "explanation": "Selçuk'taki ünlü dini yapı Meryem Ana Evi ve St. Jean Bazilikası'dır."
+      }
     ],
     "correct": "A"
   },
@@ -206,10 +430,26 @@
     "difficulty": 1,
     "stem": "Anadolu Selçuklu devlet arması olarak kabul edilen figür aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Çift başlı kartal", "explanation": "Doğru — çift başlı kartal Selçuklu'nun simgesidir; Konya ve Sivas yapılarında görülür." },
-      { "id": "B", "text": "Hilal", "explanation": "Hilal, Osmanlı ve İslam simgeselliğinde öne çıkar." },
-      { "id": "C", "text": "Lale", "explanation": "Lale, Osmanlı (özellikle Lale Devri) motifi ve modern Türkiye turizm logosudur." },
-      { "id": "D", "text": "Bozkurt", "explanation": "Bozkurt, eski Türk destan simgesidir; Selçuklu mimari arması değildir." }
+      {
+        "id": "A",
+        "text": "Çift başlı kartal",
+        "explanation": "Doğru — çift başlı kartal Selçuklu'nun simgesidir; Konya ve Sivas yapılarında görülür."
+      },
+      {
+        "id": "B",
+        "text": "Hilal",
+        "explanation": "Hilal, Osmanlı ve İslam simgeselliğinde öne çıkar."
+      },
+      {
+        "id": "C",
+        "text": "Bozkurt",
+        "explanation": "Bozkurt, eski Türk destan simgesidir; Selçuklu mimari arması değildir."
+      },
+      {
+        "id": "D",
+        "text": "Lale",
+        "explanation": "Lale, Osmanlı (özellikle Lale Devri) motifi ve modern Türkiye turizm logosudur."
+      }
     ],
     "correct": "A"
   },
@@ -220,10 +460,26 @@
     "difficulty": 2,
     "stem": "Selçuklu kervansaraylarının yaklaşık 30-40 km aralıklarla yapılmasının nedeni aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Bir kervanın günlük yürüyüş mesafesi olması", "explanation": "Doğru — deve kervanı günde ortalama bu mesafeyi alır; her akşam güvenli konaklama sağlanırdı." },
-      { "id": "B", "text": "Vergi toplama bölgelerinin sınırı olması", "explanation": "Kervansaray aralığı vergiyle değil, yol konforuyla ilgilidir." },
-      { "id": "C", "text": "Su kaynaklarının bu aralıkta bulunması", "explanation": "Su önemlidir ama belirleyici ölçü kervanın günlük menzilidir." },
-      { "id": "D", "text": "Askeri garnizonların yerleşim planı", "explanation": "Kervansaraylar ticari yapıdır; ordu planlamasına göre kurulmazlar." }
+      {
+        "id": "A",
+        "text": "Bir kervanın günlük yürüyüş mesafesi olması",
+        "explanation": "Doğru — deve kervanı günde ortalama bu mesafeyi alır; her akşam güvenli konaklama sağlanırdı."
+      },
+      {
+        "id": "B",
+        "text": "Vergi toplama bölgelerinin sınırı olması",
+        "explanation": "Kervansaray aralığı vergiyle değil, yol konforuyla ilgilidir."
+      },
+      {
+        "id": "C",
+        "text": "Su kaynaklarının bu aralıkta bulunması",
+        "explanation": "Su önemlidir ama belirleyici ölçü kervanın günlük menzilidir."
+      },
+      {
+        "id": "D",
+        "text": "Askeri garnizonların yerleşim planı",
+        "explanation": "Kervansaraylar ticari yapıdır; ordu planlamasına göre kurulmazlar."
+      }
     ],
     "correct": "A"
   },
@@ -234,10 +490,26 @@
     "difficulty": 3,
     "stem": "Konya'daki Karatay Medresesi bugün hangi eserlerin müzesi olarak kullanılmaktadır?",
     "choices": [
-      { "id": "A", "text": "Çini eserler", "explanation": "Doğru — Karatay (1251), kubbesindeki firuze mozaik çinileriyle çini müzesine dönüştürülmüştür." },
-      { "id": "B", "text": "Taş ve ahşap eserler", "explanation": "Taş-ahşap müzesi, İnce Minareli Medrese'dedir — iki Konya medresesi çapraz sorulur." },
-      { "id": "C", "text": "Halı ve kilim", "explanation": "Konya'nın etnografik halı koleksiyonları başka müzelerdedir." },
-      { "id": "D", "text": "Sikke", "explanation": "Karatay sikke müzesi değildir." }
+      {
+        "id": "A",
+        "text": "Çini eserler",
+        "explanation": "Doğru — Karatay (1251), kubbesindeki firuze mozaik çinileriyle çini müzesine dönüştürülmüştür."
+      },
+      {
+        "id": "B",
+        "text": "Taş ve ahşap eserler",
+        "explanation": "Taş-ahşap müzesi, İnce Minareli Medrese'dedir — iki Konya medresesi çapraz sorulur."
+      },
+      {
+        "id": "C",
+        "text": "Sikke",
+        "explanation": "Karatay sikke müzesi değildir."
+      },
+      {
+        "id": "D",
+        "text": "Halı ve kilim",
+        "explanation": "Konya'nın etnografik halı koleksiyonları başka müzelerdedir."
+      }
     ],
     "correct": "A",
     "trick": "Karatay = çini; İnce Minareli = taş-ahşap. 'Konya medrese müzesi' sorusunun anahtarı."
@@ -249,12 +521,28 @@
     "difficulty": 2,
     "stem": "Taç kapılarındaki olağanüstü taş süslemeleriyle 1985'te UNESCO Dünya Mirası Listesi'ne giren Selçuklu dönemi yapısı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Divriği Ulu Camii ve Darüşşifası", "explanation": "Doğru — Sivas Divriği'deki yapı, benzersiz 'fantastik' taş işçiliğiyle Türkiye'nin ilk UNESCO varlıklarındandır." },
-      { "id": "B", "text": "Sivas Gök Medrese", "explanation": "Gök Medrese görkemlidir ama UNESCO ana listesinde değildir." },
-      { "id": "C", "text": "Konya Alaeddin Camii", "explanation": "Alaeddin Camii Selçuklu sultan camisidir; listede değildir." },
-      { "id": "D", "text": "Malabadi Köprüsü", "explanation": "Malabadi, Artuklu köprüsüdür; geçici listededir." }
+      {
+        "id": "A",
+        "text": "Sivas Gök Medrese",
+        "explanation": "Gök Medrese görkemlidir ama UNESCO ana listesinde değildir."
+      },
+      {
+        "id": "B",
+        "text": "Malabadi Köprüsü",
+        "explanation": "Malabadi, Artuklu köprüsüdür; geçici listededir."
+      },
+      {
+        "id": "C",
+        "text": "Divriği Ulu Camii ve Darüşşifası",
+        "explanation": "Doğru — Sivas Divriği'deki yapı, benzersiz 'fantastik' taş işçiliğiyle Türkiye'nin ilk UNESCO varlıklarındandır."
+      },
+      {
+        "id": "D",
+        "text": "Konya Alaeddin Camii",
+        "explanation": "Alaeddin Camii Selçuklu sultan camisidir; listede değildir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "sanat-tarihi-019",
@@ -263,12 +551,28 @@
     "difficulty": 2,
     "stem": "Silindirik gövdeli ve konik külahlı Selçuklu mezar anıtlarına verilen ad aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kümbet", "explanation": "Doğru — Kayseri Döner Kümbet ve Ahlat kümbetleri en tanınmış örneklerdir." },
-      { "id": "B", "text": "Külliye", "explanation": "Külliye, cami merkezli yapı topluluğudur." },
-      { "id": "C", "text": "Hazire", "explanation": "Hazire, cami avlusundaki etrafı çevrili mezarlık alanıdır." },
-      { "id": "D", "text": "Lahit", "explanation": "Lahit, taş mezar sandukasıdır; yapı değildir." }
+      {
+        "id": "A",
+        "text": "Lahit",
+        "explanation": "Lahit, taş mezar sandukasıdır; yapı değildir."
+      },
+      {
+        "id": "B",
+        "text": "Külliye",
+        "explanation": "Külliye, cami merkezli yapı topluluğudur."
+      },
+      {
+        "id": "C",
+        "text": "Kümbet",
+        "explanation": "Doğru — Kayseri Döner Kümbet ve Ahlat kümbetleri en tanınmış örneklerdir."
+      },
+      {
+        "id": "D",
+        "text": "Hazire",
+        "explanation": "Hazire, cami avlusundaki etrafı çevrili mezarlık alanıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "sanat-tarihi-020",
@@ -277,12 +581,28 @@
     "difficulty": 1,
     "stem": "Mimar Sinan'ın 'ustalık eserim' dediği cami ve bulunduğu şehir aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Selimiye Camii — Edirne", "explanation": "Doğru — 1575'te tamamlanan Selimiye, 2011'de UNESCO listesine girmiştir; kubbesi 31,25 m çapındadır." },
-      { "id": "B", "text": "Süleymaniye Camii — İstanbul", "explanation": "Süleymaniye 'kalfalık' eseridir." },
-      { "id": "C", "text": "Şehzade Camii — İstanbul", "explanation": "Şehzade 'çıraklık' eseridir." },
-      { "id": "D", "text": "Selimiye Camii — Konya", "explanation": "Konya Selimiye'si başka bir yapıdır; Sinan'ın ustalık eseri Edirne'dedir — şehir tuzağı!" }
+      {
+        "id": "A",
+        "text": "Selimiye Camii — Konya",
+        "explanation": "Konya Selimiye'si başka bir yapıdır; Sinan'ın ustalık eseri Edirne'dedir — şehir tuzağı!"
+      },
+      {
+        "id": "B",
+        "text": "Şehzade Camii — İstanbul",
+        "explanation": "Şehzade 'çıraklık' eseridir."
+      },
+      {
+        "id": "C",
+        "text": "Selimiye Camii — Edirne",
+        "explanation": "Doğru — 1575'te tamamlanan Selimiye, 2011'de UNESCO listesine girmiştir; kubbesi 31,25 m çapındadır."
+      },
+      {
+        "id": "D",
+        "text": "Süleymaniye Camii — İstanbul",
+        "explanation": "Süleymaniye 'kalfalık' eseridir."
+      }
     ],
-    "correct": "A",
+    "correct": "C",
     "trick": "Şubat 2025'te 'Selimiye nerede?' tarzı soru geldi: cevap her zaman Edirne."
   },
   {
@@ -292,12 +612,28 @@
     "difficulty": 2,
     "stem": "Mimar Sinan'ın çıraklık, kalfalık ve ustalık eserleri sırasıyla aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Şehzade — Süleymaniye — Selimiye", "explanation": "Doğru — Sinan'ın kendi sınıflandırması bu üçlemedir." },
-      { "id": "B", "text": "Süleymaniye — Şehzade — Selimiye", "explanation": "İlk ikisi yer değiştirmiş; Şehzade (1548) Süleymaniye'den (1557) öncedir." },
-      { "id": "C", "text": "Şehzade — Selimiye — Süleymaniye", "explanation": "Selimiye (1575) en son yapılmıştır; ustalık eseri odur." },
-      { "id": "D", "text": "Mihrimah — Süleymaniye — Sultanahmet", "explanation": "Sultanahmet Sinan'ın değil, öğrencisi Sedefkâr Mehmed Ağa'nın eseridir." }
+      {
+        "id": "A",
+        "text": "Süleymaniye — Şehzade — Selimiye",
+        "explanation": "İlk ikisi yer değiştirmiş; Şehzade (1548) Süleymaniye'den (1557) öncedir."
+      },
+      {
+        "id": "B",
+        "text": "Şehzade — Süleymaniye — Selimiye",
+        "explanation": "Doğru — Sinan'ın kendi sınıflandırması bu üçlemedir."
+      },
+      {
+        "id": "C",
+        "text": "Mihrimah — Süleymaniye — Sultanahmet",
+        "explanation": "Sultanahmet Sinan'ın değil, öğrencisi Sedefkâr Mehmed Ağa'nın eseridir."
+      },
+      {
+        "id": "D",
+        "text": "Şehzade — Selimiye — Süleymaniye",
+        "explanation": "Selimiye (1575) en son yapılmıştır; ustalık eseri odur."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "sanat-tarihi-022",
@@ -306,12 +642,28 @@
     "difficulty": 2,
     "stem": "Altı minaresi ve iç mekânını kaplayan mavi İznik çinileri nedeniyle 'Mavi Cami' olarak anılan yapının mimarı kimdir?",
     "choices": [
-      { "id": "A", "text": "Sedefkâr Mehmed Ağa", "explanation": "Doğru — Sultanahmet Camii'ni (1609-1616) Sinan'ın öğrencisi Sedefkâr Mehmed Ağa yapmıştır." },
-      { "id": "B", "text": "Mimar Sinan", "explanation": "Sinan 1588'de ölmüştür; Sultanahmet ondan sonradır — en klasik tuzak." },
-      { "id": "C", "text": "Mimar Hayreddin", "explanation": "Hayreddin, II. Bayezid dönemi mimarıdır." },
-      { "id": "D", "text": "Davud Ağa", "explanation": "Davud Ağa, Sinan'ın halefidir; Yeni Cami'yi başlatmıştır ama Sultanahmet'i yapmamıştır." }
+      {
+        "id": "A",
+        "text": "Mimar Hayreddin",
+        "explanation": "Hayreddin, II. Bayezid dönemi mimarıdır."
+      },
+      {
+        "id": "B",
+        "text": "Mimar Sinan",
+        "explanation": "Sinan 1588'de ölmüştür; Sultanahmet ondan sonradır — en klasik tuzak."
+      },
+      {
+        "id": "C",
+        "text": "Davud Ağa",
+        "explanation": "Davud Ağa, Sinan'ın halefidir; Yeni Cami'yi başlatmıştır ama Sultanahmet'i yapmamıştır."
+      },
+      {
+        "id": "D",
+        "text": "Sedefkâr Mehmed Ağa",
+        "explanation": "Doğru — Sultanahmet Camii'ni (1609-1616) Sinan'ın öğrencisi Sedefkâr Mehmed Ağa yapmıştır."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "sanat-tarihi-023",
@@ -320,12 +672,28 @@
     "difficulty": 2,
     "stem": "Cami merkezli olarak medrese, imaret, darüşşifa, hamam gibi yapıların oluşturduğu topluluğa ne ad verilir?",
     "choices": [
-      { "id": "A", "text": "Külliye", "explanation": "Doğru — külliye, Osmanlı'nın sosyal devlet anlayışının mimari ifadesidir (Süleymaniye, Fatih külliyeleri)." },
-      { "id": "B", "text": "Arasta", "explanation": "Arasta, aynı esnafın sıralandığı çarşıdır; genellikle külliyenin gelir kaynağıdır." },
-      { "id": "C", "text": "Tabhane", "explanation": "Tabhane, gezgin dervişlerin konakladığı bölümdür; külliyenin parçasıdır." },
-      { "id": "D", "text": "Bedesten", "explanation": "Bedesten, değerli malların satıldığı kâgir çarşı yapısıdır." }
+      {
+        "id": "A",
+        "text": "Arasta",
+        "explanation": "Arasta, aynı esnafın sıralandığı çarşıdır; genellikle külliyenin gelir kaynağıdır."
+      },
+      {
+        "id": "B",
+        "text": "Bedesten",
+        "explanation": "Bedesten, değerli malların satıldığı kâgir çarşı yapısıdır."
+      },
+      {
+        "id": "C",
+        "text": "Tabhane",
+        "explanation": "Tabhane, gezgin dervişlerin konakladığı bölümdür; külliyenin parçasıdır."
+      },
+      {
+        "id": "D",
+        "text": "Külliye",
+        "explanation": "Doğru — külliye, Osmanlı'nın sosyal devlet anlayışının mimari ifadesidir (Süleymaniye, Fatih külliyeleri)."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "sanat-tarihi-024",
@@ -334,12 +702,28 @@
     "difficulty": 3,
     "stem": "Osmanlı mimarisinde Barok üslubun ilk anıtsal örneği kabul edilen cami aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Nuruosmaniye Camii", "explanation": "Doğru — 1755'te tamamlanan Nuruosmaniye, oval avlusu ve kıvrımlı hatlarıyla Osmanlı Barokunun manifestosudur." },
-      { "id": "B", "text": "Süleymaniye Camii", "explanation": "Süleymaniye klasik dönemin zirvesidir." },
-      { "id": "C", "text": "Rüstem Paşa Camii", "explanation": "Rüstem Paşa, klasik dönem Sinan eseridir; İznik çinileriyle ünlüdür." },
-      { "id": "D", "text": "Eyüp Sultan Camii", "explanation": "Eyüp Sultan fetih dönemi kökenlidir; bugünkü yapı III. Selim yenilemesidir ama Barokun ilk örneği sayılmaz." }
+      {
+        "id": "A",
+        "text": "Eyüp Sultan Camii",
+        "explanation": "Eyüp Sultan fetih dönemi kökenlidir; bugünkü yapı III. Selim yenilemesidir ama Barokun ilk örneği sayılmaz."
+      },
+      {
+        "id": "B",
+        "text": "Süleymaniye Camii",
+        "explanation": "Süleymaniye klasik dönemin zirvesidir."
+      },
+      {
+        "id": "C",
+        "text": "Rüstem Paşa Camii",
+        "explanation": "Rüstem Paşa, klasik dönem Sinan eseridir; İznik çinileriyle ünlüdür."
+      },
+      {
+        "id": "D",
+        "text": "Nuruosmaniye Camii",
+        "explanation": "Doğru — 1755'te tamamlanan Nuruosmaniye, oval avlusu ve kıvrımlı hatlarıyla Osmanlı Barokunun manifestosudur."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "sanat-tarihi-025",
@@ -348,12 +732,28 @@
     "difficulty": 2,
     "stem": "1856'da tamamlanan, Balyan ailesinin inşa ettiği Batı üslubundaki Osmanlı sarayı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Dolmabahçe Sarayı", "explanation": "Doğru — Abdülmecid'in yaptırdığı Dolmabahçe, imparatorluğun Batılılaşma yüzüdür; Atatürk 10 Kasım 1938'de burada vefat etmiştir." },
-      { "id": "B", "text": "Topkapı Sarayı", "explanation": "Topkapı, Fatih döneminden itibaren gelişen klasik Osmanlı saray külliyesidir." },
-      { "id": "C", "text": "Yıldız Sarayı", "explanation": "Yıldız, II. Abdülhamid'in saray kompleksidir; ana yapı Dolmabahçe'den sonradır." },
-      { "id": "D", "text": "İshak Paşa Sarayı", "explanation": "İshak Paşa, Doğubayazıt'taki 18. yy beylik sarayıdır." }
+      {
+        "id": "A",
+        "text": "Yıldız Sarayı",
+        "explanation": "Yıldız, II. Abdülhamid'in saray kompleksidir; ana yapı Dolmabahçe'den sonradır."
+      },
+      {
+        "id": "B",
+        "text": "Topkapı Sarayı",
+        "explanation": "Topkapı, Fatih döneminden itibaren gelişen klasik Osmanlı saray külliyesidir."
+      },
+      {
+        "id": "C",
+        "text": "Dolmabahçe Sarayı",
+        "explanation": "Doğru — Abdülmecid'in yaptırdığı Dolmabahçe, imparatorluğun Batılılaşma yüzüdür; Atatürk 10 Kasım 1938'de burada vefat etmiştir."
+      },
+      {
+        "id": "D",
+        "text": "İshak Paşa Sarayı",
+        "explanation": "İshak Paşa, Doğubayazıt'taki 18. yy beylik sarayıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "sanat-tarihi-026",
@@ -362,12 +762,28 @@
     "difficulty": 1,
     "stem": "Geometrik ahşap parçaların çivi veya yapıştırıcı kullanılmadan birbirine geçirilmesiyle uygulanan teknik aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kündekari", "explanation": "Doğru — minber ve kapı kanatlarında kullanılan bu teknik, ahşabın çalışmasına izin verdiği için yüzyıllarca bozulmaz (Şubat 2025 sorusu)." },
-      { "id": "B", "text": "Oyma", "explanation": "Oyma, ahşabın yontulmasıdır; parça birleştirme tekniği değildir." },
-      { "id": "C", "text": "Kakma", "explanation": "Kakma, ahşaba sedef/fildişi gömmedir." },
-      { "id": "D", "text": "Telkari", "explanation": "Telkari, gümüş tel işçiliğidir; ahşapla ilgisi yoktur." }
+      {
+        "id": "A",
+        "text": "Kakma",
+        "explanation": "Kakma, ahşaba sedef/fildişi gömmedir."
+      },
+      {
+        "id": "B",
+        "text": "Telkari",
+        "explanation": "Telkari, gümüş tel işçiliğidir; ahşapla ilgisi yoktur."
+      },
+      {
+        "id": "C",
+        "text": "Oyma",
+        "explanation": "Oyma, ahşabın yontulmasıdır; parça birleştirme tekniği değildir."
+      },
+      {
+        "id": "D",
+        "text": "Kündekari",
+        "explanation": "Doğru — minber ve kapı kanatlarında kullanılan bu teknik, ahşabın çalışmasına izin verdiği için yüzyıllarca bozulmaz (Şubat 2025 sorusu)."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "sanat-tarihi-027",
@@ -376,10 +792,26 @@
     "difficulty": 2,
     "stem": "İnce gümüş veya altın tellerin örülüp kaynatılmasıyla yapılan, Midyat ve Beypazarı ile özdeşleşen el sanatı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Telkari", "explanation": "Doğru — 'filigran' olarak da bilinen telkari, Mardin Midyat'ın ve Beypazarı'nın simge zanaatıdır." },
-      { "id": "B", "text": "Savat", "explanation": "Savat, gümüş üzerine kurşun-kükürt alaşımıyla siyah desen işlemedir (Van)." },
-      { "id": "C", "text": "Kalemkâr", "explanation": "Kalemkâri, metal veya kumaş üzerine kalemle desen işlemektir." },
-      { "id": "D", "text": "Mıhlama", "explanation": "Mıhlama, taşların metale çakılarak tutturulmasıdır (kuyumculuk tekniği)." }
+      {
+        "id": "A",
+        "text": "Telkari",
+        "explanation": "Doğru — 'filigran' olarak da bilinen telkari, Mardin Midyat'ın ve Beypazarı'nın simge zanaatıdır."
+      },
+      {
+        "id": "B",
+        "text": "Mıhlama",
+        "explanation": "Mıhlama, taşların metale çakılarak tutturulmasıdır (kuyumculuk tekniği)."
+      },
+      {
+        "id": "C",
+        "text": "Savat",
+        "explanation": "Savat, gümüş üzerine kurşun-kükürt alaşımıyla siyah desen işlemedir (Van)."
+      },
+      {
+        "id": "D",
+        "text": "Kalemkâr",
+        "explanation": "Kalemkâri, metal veya kumaş üzerine kalemle desen işlemektir."
+      }
     ],
     "correct": "A"
   },
@@ -390,12 +822,28 @@
     "difficulty": 2,
     "stem": "16. yüzyıl İznik çinisinin en karakteristik, başka merkezlerce taklit edilemeyen rengi aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Mercan kırmızısı", "explanation": "Doğru — sır altında hafif kabaran mercan kırmızısı, İznik'in zirve dönemi imzasıdır; Rüstem Paşa Camii'nde izlenir." },
-      { "id": "B", "text": "Kobalt mavisi", "explanation": "Kobalt mavi yaygındır ama İznik'e özgü 'taklit edilemeyen' renk kırmızıdır." },
-      { "id": "C", "text": "Firuze", "explanation": "Firuze, Selçuklu çiniciliğinin karakteristik rengidir." },
-      { "id": "D", "text": "Altın yaldız", "explanation": "Yaldız, çini değil tezhip tekniğidir." }
+      {
+        "id": "A",
+        "text": "Firuze",
+        "explanation": "Firuze, Selçuklu çiniciliğinin karakteristik rengidir."
+      },
+      {
+        "id": "B",
+        "text": "Kobalt mavisi",
+        "explanation": "Kobalt mavi yaygındır ama İznik'e özgü 'taklit edilemeyen' renk kırmızıdır."
+      },
+      {
+        "id": "C",
+        "text": "Mercan kırmızısı",
+        "explanation": "Doğru — sır altında hafif kabaran mercan kırmızısı, İznik'in zirve dönemi imzasıdır; Rüstem Paşa Camii'nde izlenir."
+      },
+      {
+        "id": "D",
+        "text": "Altın yaldız",
+        "explanation": "Yaldız, çini değil tezhip tekniğidir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "sanat-tarihi-029",
@@ -404,12 +852,28 @@
     "difficulty": 3,
     "stem": "17. yüzyıldan itibaren İznik'in gerilemesiyle çini üretiminin merkezi hangi şehre kaymıştır?",
     "choices": [
-      { "id": "A", "text": "Kütahya", "explanation": "Doğru — Kütahya, İznik'in gerilemesinden sonra günümüze dek süren çini merkezimiz oldu (UNESCO Yaratıcı Şehirler ağındadır)." },
-      { "id": "B", "text": "Bursa", "explanation": "Bursa erken Osmanlı çiniciliğinde (Yeşil Külliye) önemlidir; sonraki merkez Kütahya'dır." },
-      { "id": "C", "text": "Çanakkale", "explanation": "Çanakkale seramiği vardır ama İznik'in ana halefi Kütahya'dır." },
-      { "id": "D", "text": "Konya", "explanation": "Konya, Selçuklu çiniciliğinin merkeziydi; Osmanlı sonrası üretim Kütahya'dadır." }
+      {
+        "id": "A",
+        "text": "Konya",
+        "explanation": "Konya, Selçuklu çiniciliğinin merkeziydi; Osmanlı sonrası üretim Kütahya'dadır."
+      },
+      {
+        "id": "B",
+        "text": "Bursa",
+        "explanation": "Bursa erken Osmanlı çiniciliğinde (Yeşil Külliye) önemlidir; sonraki merkez Kütahya'dır."
+      },
+      {
+        "id": "C",
+        "text": "Çanakkale",
+        "explanation": "Çanakkale seramiği vardır ama İznik'in ana halefi Kütahya'dır."
+      },
+      {
+        "id": "D",
+        "text": "Kütahya",
+        "explanation": "Doğru — Kütahya, İznik'in gerilemesinden sonra günümüze dek süren çini merkezimiz oldu (UNESCO Yaratıcı Şehirler ağındadır)."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "sanat-tarihi-030",
@@ -418,12 +882,28 @@
     "difficulty": 2,
     "stem": "El yazması kitap sayfalarını altın ve boya ile bezeme sanatına ne ad verilir?",
     "choices": [
-      { "id": "A", "text": "Tezhip", "explanation": "Doğru — 'altınlama' anlamındaki tezhip, sayfa kenarlarını ve serlevhaları bezer." },
-      { "id": "B", "text": "Hat", "explanation": "Hat, güzel yazı sanatıdır." },
-      { "id": "C", "text": "Ebru", "explanation": "Ebru, su yüzeyindeki boyayla kâğıt desenlemedir." },
-      { "id": "D", "text": "Minyatür", "explanation": "Minyatür, kitap resimleme sanatıdır; bezeme değil tasvirdir." }
+      {
+        "id": "A",
+        "text": "Minyatür",
+        "explanation": "Minyatür, kitap resimleme sanatıdır; bezeme değil tasvirdir."
+      },
+      {
+        "id": "B",
+        "text": "Hat",
+        "explanation": "Hat, güzel yazı sanatıdır."
+      },
+      {
+        "id": "C",
+        "text": "Tezhip",
+        "explanation": "Doğru — 'altınlama' anlamındaki tezhip, sayfa kenarlarını ve serlevhaları bezer."
+      },
+      {
+        "id": "D",
+        "text": "Ebru",
+        "explanation": "Ebru, su yüzeyindeki boyayla kâğıt desenlemedir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "sanat-tarihi-031",
@@ -432,12 +912,28 @@
     "difficulty": 3,
     "stem": "Beyan-ı Menazil adlı eserinde sefer güzergâhındaki şehirleri kuşbakışı tasvir eden, topografik minyatürün öncüsü Osmanlı sanatçısı kimdir?",
     "choices": [
-      { "id": "A", "text": "Matrakçı Nasuh", "explanation": "Doğru — Kanuni'nin Irakeyn Seferi güzergâhını resmettiği minyatürleri, belge değerinde şehir panoramalarıdır." },
-      { "id": "B", "text": "Levni", "explanation": "Levni, Lale Devri'nin nakkaşıdır (Surname-i Vehbi)." },
-      { "id": "C", "text": "Nakkaş Osman", "explanation": "Nakkaş Osman, III. Murad dönemi Surname'sinin ustasıdır." },
-      { "id": "D", "text": "Şeyh Hamdullah", "explanation": "Şeyh Hamdullah hattatların piridir; minyatürcü değildir." }
+      {
+        "id": "A",
+        "text": "Levni",
+        "explanation": "Levni, Lale Devri'nin nakkaşıdır (Surname-i Vehbi)."
+      },
+      {
+        "id": "B",
+        "text": "Matrakçı Nasuh",
+        "explanation": "Doğru — Kanuni'nin Irakeyn Seferi güzergâhını resmettiği minyatürleri, belge değerinde şehir panoramalarıdır."
+      },
+      {
+        "id": "C",
+        "text": "Şeyh Hamdullah",
+        "explanation": "Şeyh Hamdullah hattatların piridir; minyatürcü değildir."
+      },
+      {
+        "id": "D",
+        "text": "Nakkaş Osman",
+        "explanation": "Nakkaş Osman, III. Murad dönemi Surname'sinin ustasıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "sanat-tarihi-032",
@@ -446,12 +942,28 @@
     "difficulty": 2,
     "stem": "Kitre katılmış su yüzeyine serpilen boyaların kâğıda alınmasıyla yapılan, 2014'te UNESCO Somut Olmayan Kültürel Miras Listesi'ne giren sanat aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Ebru", "explanation": "Doğru — ebru 2014'te UNESCO SOKÜM listesine kaydedilmiştir; battal ve gelgit klasik desenlerindendir." },
-      { "id": "B", "text": "Tezhip", "explanation": "Tezhip altınla bezemedir; su tekniği kullanılmaz." },
-      { "id": "C", "text": "Katı'", "explanation": "Katı', kâğıt oyma sanatıdır." },
-      { "id": "D", "text": "Cilt", "explanation": "Cilt, kitap kapağı sanatıdır (şemse motifi)." }
+      {
+        "id": "A",
+        "text": "Cilt",
+        "explanation": "Cilt, kitap kapağı sanatıdır (şemse motifi)."
+      },
+      {
+        "id": "B",
+        "text": "Ebru",
+        "explanation": "Doğru — ebru 2014'te UNESCO SOKÜM listesine kaydedilmiştir; battal ve gelgit klasik desenlerindendir."
+      },
+      {
+        "id": "C",
+        "text": "Katı'",
+        "explanation": "Katı', kâğıt oyma sanatıdır."
+      },
+      {
+        "id": "D",
+        "text": "Tezhip",
+        "explanation": "Tezhip altınla bezemedir; su tekniği kullanılmaz."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "sanat-tarihi-033",
@@ -460,12 +972,28 @@
     "difficulty": 3,
     "stem": "Zeus Sunağı'ndaki Gigantomakhia frizi ve 'Ölen Galyalı' heykeliyle tanınan, Helenistik coşkunun temsilcisi heykel okulu aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Bergama Okulu", "explanation": "Doğru — dramatik hareket ve duygu yüklü 'Helenistik Barok' üslubun merkezi Bergama'dır." },
-      { "id": "B", "text": "Afrodisias Okulu", "explanation": "Afrodisias, Roma döneminin mermer heykel okulu olarak ünlüdür — dönem farkına dikkat." },
-      { "id": "C", "text": "Atina Okulu", "explanation": "Klasik dönemin dengeli idealizmi Atina'yla anılır (Fidias)." },
-      { "id": "D", "text": "Sikyon Okulu", "explanation": "Sikyon, Lysippos'un okulu olarak bilinir; Gigantomakhia ile ilgisi yoktur." }
+      {
+        "id": "A",
+        "text": "Atina Okulu",
+        "explanation": "Klasik dönemin dengeli idealizmi Atina'yla anılır (Fidias)."
+      },
+      {
+        "id": "B",
+        "text": "Bergama Okulu",
+        "explanation": "Doğru — dramatik hareket ve duygu yüklü 'Helenistik Barok' üslubun merkezi Bergama'dır."
+      },
+      {
+        "id": "C",
+        "text": "Afrodisias Okulu",
+        "explanation": "Afrodisias, Roma döneminin mermer heykel okulu olarak ünlüdür — dönem farkına dikkat."
+      },
+      {
+        "id": "D",
+        "text": "Sikyon Okulu",
+        "explanation": "Sikyon, Lysippos'un okulu olarak bilinir; Gigantomakhia ile ilgisi yoktur."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "sanat-tarihi-034",
@@ -474,10 +1002,26 @@
     "difficulty": 3,
     "stem": "Yirmi kubbesi ve devasa iç mekânıyla 'ulu cami' tipinin en anıtsal örneği kabul edilen erken Osmanlı camisi aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Bursa Ulu Camii", "explanation": "Doğru — Yıldırım Bayezid'in yaptırdığı (1399) cami, çok ayaklı-çok kubbeli tipin zirvesidir; devasa hat levhalarıyla da ünlüdür." },
-      { "id": "B", "text": "Edirne Üç Şerefeli Cami", "explanation": "Üç Şerefeli, merkezi kubbeye geçişin öncüsüdür; ulu cami tipi değildir." },
-      { "id": "C", "text": "İznik Yeşil Cami", "explanation": "İznik Yeşil Cami tek kubbeli küçük bir yapıdır; minare çinileriyle ünlüdür." },
-      { "id": "D", "text": "İstanbul Fatih Camii", "explanation": "Fatih Camii, İstanbul'un fethi sonrası merkezi planlı külliye camisidir." }
+      {
+        "id": "A",
+        "text": "Bursa Ulu Camii",
+        "explanation": "Doğru — Yıldırım Bayezid'in yaptırdığı (1399) cami, çok ayaklı-çok kubbeli tipin zirvesidir; devasa hat levhalarıyla da ünlüdür."
+      },
+      {
+        "id": "B",
+        "text": "İznik Yeşil Cami",
+        "explanation": "İznik Yeşil Cami tek kubbeli küçük bir yapıdır; minare çinileriyle ünlüdür."
+      },
+      {
+        "id": "C",
+        "text": "İstanbul Fatih Camii",
+        "explanation": "Fatih Camii, İstanbul'un fethi sonrası merkezi planlı külliye camisidir."
+      },
+      {
+        "id": "D",
+        "text": "Edirne Üç Şerefeli Cami",
+        "explanation": "Üç Şerefeli, merkezi kubbeye geçişin öncüsüdür; ulu cami tipi değildir."
+      }
     ],
     "correct": "A"
   },
@@ -488,12 +1032,28 @@
     "difficulty": 2,
     "stem": "Gladyatör dövüşleri ve vahşi hayvan gösterileri için yapılan tam oval planlı Roma yapısı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Amfitiyatro", "explanation": "Doğru — 'iki tiyatronun birleşimi' anlamındaki amfitiyatro tam ovaldir (Colosseum); Anadolu'da nadirdir (Kyzikos, Anazarbos)." },
-      { "id": "B", "text": "Tiyatro", "explanation": "Tiyatro yarım planlıdır ve sahne oyunları içindir — halk dilinde karıştırılır, sınav bunu yoklar." },
-      { "id": "C", "text": "Stadion", "explanation": "Stadion, U biçimli koşu alanıdır (Afrodisias'ınki çok iyi korunmuştur)." },
-      { "id": "D", "text": "Hipodrom", "explanation": "Hipodrom, at arabası yarışları içindir (İstanbul Sultanahmet Meydanı)." }
+      {
+        "id": "A",
+        "text": "Hipodrom",
+        "explanation": "Hipodrom, at arabası yarışları içindir (İstanbul Sultanahmet Meydanı)."
+      },
+      {
+        "id": "B",
+        "text": "Stadion",
+        "explanation": "Stadion, U biçimli koşu alanıdır (Afrodisias'ınki çok iyi korunmuştur)."
+      },
+      {
+        "id": "C",
+        "text": "Amfitiyatro",
+        "explanation": "Doğru — 'iki tiyatronun birleşimi' anlamındaki amfitiyatro tam ovaldir (Colosseum); Anadolu'da nadirdir (Kyzikos, Anazarbos)."
+      },
+      {
+        "id": "D",
+        "text": "Tiyatro",
+        "explanation": "Tiyatro yarım planlıdır ve sahne oyunları içindir — halk dilinde karıştırılır, sınav bunu yoklar."
+      }
     ],
-    "correct": "A",
+    "correct": "C",
     "trick": "'Aspendos amfitiyatrosu' demek yanlıştır — Aspendos bir TİYATRODUR. Amfitiyatro = tam oval arena."
   },
   {
@@ -503,12 +1063,28 @@
     "difficulty": 3,
     "stem": "Osmanlı hat sanatının kurucusu sayılan, 'kıbletü'l-küttab' (hattatların kıblesi) olarak anılan sanatçı kimdir?",
     "choices": [
-      { "id": "A", "text": "Şeyh Hamdullah", "explanation": "Doğru — II. Bayezid'in hocası Amasyalı Şeyh Hamdullah, aklam-ı sitteyi Osmanlı zevkine göre yeniden yorumladı." },
-      { "id": "B", "text": "Hafız Osman", "explanation": "Hafız Osman 17. yy'da üslubu zirveye taşımıştır; 'ikinci Şeyh' diye anılır ama kurucu Hamdullah'tır." },
-      { "id": "C", "text": "Ahmed Karahisari", "explanation": "Karahisari, celi yazının dehasıdır (Süleymaniye kubbe yazısı geleneği), kurucu unvanı Hamdullah'ındır." },
-      { "id": "D", "text": "Mustafa Rakım", "explanation": "Rakım, celi sülüsün 19. yy reformcusudur." }
+      {
+        "id": "A",
+        "text": "Hafız Osman",
+        "explanation": "Hafız Osman 17. yy'da üslubu zirveye taşımıştır; 'ikinci Şeyh' diye anılır ama kurucu Hamdullah'tır."
+      },
+      {
+        "id": "B",
+        "text": "Mustafa Rakım",
+        "explanation": "Rakım, celi sülüsün 19. yy reformcusudur."
+      },
+      {
+        "id": "C",
+        "text": "Şeyh Hamdullah",
+        "explanation": "Doğru — II. Bayezid'in hocası Amasyalı Şeyh Hamdullah, aklam-ı sitteyi Osmanlı zevkine göre yeniden yorumladı."
+      },
+      {
+        "id": "D",
+        "text": "Ahmed Karahisari",
+        "explanation": "Karahisari, celi yazının dehasıdır (Süleymaniye kubbe yazısı geleneği), kurucu unvanı Hamdullah'ındır."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "sanat-tarihi-037",
@@ -517,12 +1093,28 @@
     "difficulty": 2,
     "stem": "Avrupa Rönesans ressamlarının tablolarında betimlendiği için 'Lotto' ve 'Holbein' adlarıyla anılan halılar hangi merkezde dokunmuştur?",
     "choices": [
-      { "id": "A", "text": "Uşak", "explanation": "Doğru — 15-17. yy Uşak halıları Avrupa'ya ihraç edildi ve ressamların tablolarına girdi; madalyonlu ve yıldızlı tipleri ünlüdür." },
-      { "id": "B", "text": "Hereke", "explanation": "Hereke, 1843'te kurulan saray dokumhanesidir — çok sonraki dönem." },
-      { "id": "C", "text": "Isparta", "explanation": "Isparta halıcılığı 19-20. yy'da gelişmiştir." },
-      { "id": "D", "text": "Buhara", "explanation": "Buhara, Orta Asya (Türkmen) halı geleneğidir; Anadolu merkezi değildir." }
+      {
+        "id": "A",
+        "text": "Isparta",
+        "explanation": "Isparta halıcılığı 19-20. yy'da gelişmiştir."
+      },
+      {
+        "id": "B",
+        "text": "Uşak",
+        "explanation": "Doğru — 15-17. yy Uşak halıları Avrupa'ya ihraç edildi ve ressamların tablolarına girdi; madalyonlu ve yıldızlı tipleri ünlüdür."
+      },
+      {
+        "id": "C",
+        "text": "Hereke",
+        "explanation": "Hereke, 1843'te kurulan saray dokumhanesidir — çok sonraki dönem."
+      },
+      {
+        "id": "D",
+        "text": "Buhara",
+        "explanation": "Buhara, Orta Asya (Türkmen) halı geleneğidir; Anadolu merkezi değildir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "sanat-tarihi-038",
@@ -531,12 +1123,28 @@
     "difficulty": 2,
     "stem": "İslam mimarisinde yarım kubbe, taç kapı ve mihrap kavsaralarında kullanılan sarkıtlı geçiş-süsleme öğesi aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Mukarnas", "explanation": "Doğru — petek/sarkıt görünümlü mukarnas, Selçuklu taç kapılarının ve Osmanlı mihraplarının karakteristik öğesidir." },
-      { "id": "B", "text": "Pandantif", "explanation": "Pandantif, Bizans'ın küresel üçgen geçiş elemanıdır." },
-      { "id": "C", "text": "Akant", "explanation": "Akantus, Korint başlığının yaprak motifidir." },
-      { "id": "D", "text": "Palmet", "explanation": "Palmet, yelpaze biçimli bitkisel motiftir; sarkıtlı yapı öğesi değildir." }
+      {
+        "id": "A",
+        "text": "Akant",
+        "explanation": "Akantus, Korint başlığının yaprak motifidir."
+      },
+      {
+        "id": "B",
+        "text": "Pandantif",
+        "explanation": "Pandantif, Bizans'ın küresel üçgen geçiş elemanıdır."
+      },
+      {
+        "id": "C",
+        "text": "Palmet",
+        "explanation": "Palmet, yelpaze biçimli bitkisel motiftir; sarkıtlı yapı öğesi değildir."
+      },
+      {
+        "id": "D",
+        "text": "Mukarnas",
+        "explanation": "Doğru — petek/sarkıt görünümlü mukarnas, Selçuklu taç kapılarının ve Osmanlı mihraplarının karakteristik öğesidir."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "sanat-tarihi-039",
@@ -545,12 +1153,28 @@
     "difficulty": 3,
     "stem": "Bursa'daki Yeşil Türbe ve Yeşil Cami hangi Osmanlı padişahı döneminde yapılmıştır?",
     "choices": [
-      { "id": "A", "text": "Çelebi Mehmed (I. Mehmed)", "explanation": "Doğru — Fetret Devri'ni bitiren Çelebi Mehmed'in yaptırdığı Yeşil Külliye, Bursa üslubu çiniciliğin şaheseridir; türbe onun mezarıdır." },
-      { "id": "B", "text": "Orhan Gazi", "explanation": "Orhan Gazi erken dönemin kurucu yapılarıyla anılır; Yeşil Külliye ondan yaklaşık bir asır sonradır." },
-      { "id": "C", "text": "Yıldırım Bayezid", "explanation": "Yıldırım'ın külliyesi ayrıdır; Ulu Cami de onun dönemindendir." },
-      { "id": "D", "text": "II. Murad", "explanation": "II. Murad'ın Bursa'daki eseri Muradiye Külliyesi'dir." }
+      {
+        "id": "A",
+        "text": "Orhan Gazi",
+        "explanation": "Orhan Gazi erken dönemin kurucu yapılarıyla anılır; Yeşil Külliye ondan yaklaşık bir asır sonradır."
+      },
+      {
+        "id": "B",
+        "text": "Çelebi Mehmed (I. Mehmed)",
+        "explanation": "Doğru — Fetret Devri'ni bitiren Çelebi Mehmed'in yaptırdığı Yeşil Külliye, Bursa üslubu çiniciliğin şaheseridir; türbe onun mezarıdır."
+      },
+      {
+        "id": "C",
+        "text": "Yıldırım Bayezid",
+        "explanation": "Yıldırım'ın külliyesi ayrıdır; Ulu Cami de onun dönemindendir."
+      },
+      {
+        "id": "D",
+        "text": "II. Murad",
+        "explanation": "II. Murad'ın Bursa'daki eseri Muradiye Külliyesi'dir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "sanat-tarihi-040",
@@ -559,11 +1183,27 @@
     "difficulty": 2,
     "stem": "Osmanlı çarşı sisteminde değerli malların alınıp satıldığı, kalın duvarlı ve kubbeli merkez yapıya ne ad verilir?",
     "choices": [
-      { "id": "A", "text": "Bedesten", "explanation": "Doğru — bedesten çarşının kasası ve kalbidir; kentin ticari büyüklüğünün göstergesidir (Bursa, İstanbul, Edirne bedestenleri)." },
-      { "id": "B", "text": "Arasta", "explanation": "Arasta, aynı esnaf kolunun dükkân sırasıdır (Selimiye Arastası)." },
-      { "id": "C", "text": "Kapan", "explanation": "Kapan (kapan hanı), toptan gıda tartı-dağıtım hanıdır (Unkapanı, Balkapanı)." },
-      { "id": "D", "text": "Tımarhane", "explanation": "Tımarhane, akıl hastanesidir; ticaretle ilgisi yoktur." }
+      {
+        "id": "A",
+        "text": "Kapan",
+        "explanation": "Kapan (kapan hanı), toptan gıda tartı-dağıtım hanıdır (Unkapanı, Balkapanı)."
+      },
+      {
+        "id": "B",
+        "text": "Bedesten",
+        "explanation": "Doğru — bedesten çarşının kasası ve kalbidir; kentin ticari büyüklüğünün göstergesidir (Bursa, İstanbul, Edirne bedestenleri)."
+      },
+      {
+        "id": "C",
+        "text": "Tımarhane",
+        "explanation": "Tımarhane, akıl hastanesidir; ticaretle ilgisi yoktur."
+      },
+      {
+        "id": "D",
+        "text": "Arasta",
+        "explanation": "Arasta, aynı esnaf kolunun dükkân sırasıdır (Selimiye Arastası)."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   }
 ]

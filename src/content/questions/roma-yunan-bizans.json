@@ -6,10 +6,26 @@
     "difficulty": 1,
     "stem": "Antik Yunan'da kendi yasaları ve ordusu olan bağımsız şehir devletlerine verilen ad aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Polis", "explanation": "Doğru — Atina, Sparta, Korint gibi polisler antik Yunan siyasi düzeninin temelidir." },
-      { "id": "B", "text": "Satraplık", "explanation": "Satraplık, Pers eyalet sistemidir." },
-      { "id": "C", "text": "Thema", "explanation": "Thema, Bizans askeri eyaletidir." },
-      { "id": "D", "text": "Karum", "explanation": "Karum, Asur ticaret kolonisidir." }
+      {
+        "id": "A",
+        "text": "Polis",
+        "explanation": "Doğru — Atina, Sparta, Korint gibi polisler antik Yunan siyasi düzeninin temelidir."
+      },
+      {
+        "id": "B",
+        "text": "Thema",
+        "explanation": "Thema, Bizans askeri eyaletidir."
+      },
+      {
+        "id": "C",
+        "text": "Karum",
+        "explanation": "Karum, Asur ticaret kolonisidir."
+      },
+      {
+        "id": "D",
+        "text": "Satraplık",
+        "explanation": "Satraplık, Pers eyalet sistemidir."
+      }
     ],
     "correct": "A"
   },
@@ -20,12 +36,28 @@
     "difficulty": 2,
     "stem": "Byzantion'u (İstanbul) MÖ 7. yüzyılda kuran koloniciler hangi kentten gelmiştir?",
     "choices": [
-      { "id": "A", "text": "Megara", "explanation": "Doğru — Megaralılar, efsanevi liderleri Byzas önderliğinde Sarayburnu'na yerleşti." },
-      { "id": "B", "text": "Milet", "explanation": "Milet'in kolonileri Karadeniz'dedir (Sinop, Samsun, Trabzon) — en klasik çeldirici." },
-      { "id": "C", "text": "Atina", "explanation": "Atina'nın kolonizasyonda payı sınırlıdır; Byzantion Megara'nındır." },
-      { "id": "D", "text": "Foça", "explanation": "Foçalılar Batı Akdeniz'e (Marsilya) gitmiştir." }
+      {
+        "id": "A",
+        "text": "Milet",
+        "explanation": "Milet'in kolonileri Karadeniz'dedir (Sinop, Samsun, Trabzon) — en klasik çeldirici."
+      },
+      {
+        "id": "B",
+        "text": "Foça",
+        "explanation": "Foçalılar Batı Akdeniz'e (Marsilya) gitmiştir."
+      },
+      {
+        "id": "C",
+        "text": "Atina",
+        "explanation": "Atina'nın kolonizasyonda payı sınırlıdır; Byzantion Megara'nındır."
+      },
+      {
+        "id": "D",
+        "text": "Megara",
+        "explanation": "Doğru — Megaralılar, efsanevi liderleri Byzas önderliğinde Sarayburnu'na yerleşti."
+      }
     ],
-    "correct": "A",
+    "correct": "D",
     "trick": "Koloni haritası: Megara→İstanbul, Milet→Karadeniz, Foça→Marsilya."
   },
   {
@@ -35,12 +67,28 @@
     "difficulty": 2,
     "stem": "Sinop, Samsun ve Trabzon'un antik çağdaki kurucusu olan İyon kenti aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Milet", "explanation": "Doğru — Milet, Karadeniz kıyısında 80'den fazla koloni kurmuştur; Sinope, Amisos ve Trapezus bunlardandır." },
-      { "id": "B", "text": "Efes", "explanation": "Efes büyük bir İyon merkeziydi ama Karadeniz kolonizasyonunun öncüsü Milet'tir." },
-      { "id": "C", "text": "Megara", "explanation": "Megara'nın ünlü kolonisi Byzantion'dur." },
-      { "id": "D", "text": "Korint", "explanation": "Korint, batıya (Sicilya, Syrakusa) koloni göndermiştir." }
+      {
+        "id": "A",
+        "text": "Megara",
+        "explanation": "Megara'nın ünlü kolonisi Byzantion'dur."
+      },
+      {
+        "id": "B",
+        "text": "Milet",
+        "explanation": "Doğru — Milet, Karadeniz kıyısında 80'den fazla koloni kurmuştur; Sinope, Amisos ve Trapezus bunlardandır."
+      },
+      {
+        "id": "C",
+        "text": "Efes",
+        "explanation": "Efes büyük bir İyon merkeziydi ama Karadeniz kolonizasyonunun öncüsü Milet'tir."
+      },
+      {
+        "id": "D",
+        "text": "Korint",
+        "explanation": "Korint, batıya (Sicilya, Syrakusa) koloni göndermiştir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "roma-yunan-bizans-004",
@@ -49,12 +97,28 @@
     "difficulty": 3,
     "stem": "Atina'da borç köleliğini kaldırarak demokrasiye giden yolu açan MÖ 6. yüzyıl reformcusu aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Solon", "explanation": "Doğru — Solon'un 'seisakhtheia' (yük atma) reformu borç köleliğini kaldırdı; sınıfları gelire göre yeniden düzenledi." },
-      { "id": "B", "text": "Drakon", "explanation": "Drakon, sertliğiyle ünlü ilk yazılı yasaların sahibidir ('drakonik' sözcüğü buradan gelir)." },
-      { "id": "C", "text": "Perikles", "explanation": "Perikles, demokrasinin altın çağının (MÖ 5. yy) lideridir; kurucu reformcu değildir." },
-      { "id": "D", "text": "Likurgos", "explanation": "Likurgos, Sparta düzeninin efsanevi yasa koyucusudur." }
+      {
+        "id": "A",
+        "text": "Likurgos",
+        "explanation": "Likurgos, Sparta düzeninin efsanevi yasa koyucusudur."
+      },
+      {
+        "id": "B",
+        "text": "Solon",
+        "explanation": "Doğru — Solon'un 'seisakhtheia' (yük atma) reformu borç köleliğini kaldırdı; sınıfları gelire göre yeniden düzenledi."
+      },
+      {
+        "id": "C",
+        "text": "Drakon",
+        "explanation": "Drakon, sertliğiyle ünlü ilk yazılı yasaların sahibidir ('drakonik' sözcüğü buradan gelir)."
+      },
+      {
+        "id": "D",
+        "text": "Perikles",
+        "explanation": "Perikles, demokrasinin altın çağının (MÖ 5. yy) lideridir; kurucu reformcu değildir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "roma-yunan-bizans-005",
@@ -63,12 +127,28 @@
     "difficulty": 2,
     "stem": "MÖ 480'de Yunanların Pers donanmasını yendiği deniz savaşı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Salamis", "explanation": "Doğru — Themistokles'in stratejisiyle dar boğaza çekilen Pers donanması Salamis'te yok edildi." },
-      { "id": "B", "text": "Maraton", "explanation": "Maraton (MÖ 490) bir kara savaşıdır." },
-      { "id": "C", "text": "Termopylae", "explanation": "Termopylae, Leonidas'ın 300 Spartalısının kara savunmasıdır; Yunanlar kaybetmiştir." },
-      { "id": "D", "text": "Granikos", "explanation": "Granikos (MÖ 334), İskender'in Anadolu'ya giriş savaşıdır — 150 yıl sonra." }
+      {
+        "id": "A",
+        "text": "Maraton",
+        "explanation": "Maraton (MÖ 490) bir kara savaşıdır."
+      },
+      {
+        "id": "B",
+        "text": "Salamis",
+        "explanation": "Doğru — Themistokles'in stratejisiyle dar boğaza çekilen Pers donanması Salamis'te yok edildi."
+      },
+      {
+        "id": "C",
+        "text": "Granikos",
+        "explanation": "Granikos (MÖ 334), İskender'in Anadolu'ya giriş savaşıdır — 150 yıl sonra."
+      },
+      {
+        "id": "D",
+        "text": "Termopylae",
+        "explanation": "Termopylae, Leonidas'ın 300 Spartalısının kara savunmasıdır; Yunanlar kaybetmiştir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "roma-yunan-bizans-006",
@@ -77,12 +157,28 @@
     "difficulty": 2,
     "stem": "Roma'nın bilinen ilk yazılı kanunları aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "12 Levha Kanunları", "explanation": "Doğru — MÖ 450 civarında patrici-pleb mücadelesi sonucunda yazıya geçirilen 12 Levha, Roma hukukunun temelidir." },
-      { "id": "B", "text": "Corpus Juris Civilis", "explanation": "Corpus Juris Civilis, yaklaşık 1000 yıl sonra Justinianus'un derlemesidir — 'ilk' değil 'külliyat'tır." },
-      { "id": "C", "text": "Hammurabi Kanunları", "explanation": "Hammurabi, Babil kralıdır; Roma ile ilgisi yoktur." },
-      { "id": "D", "text": "Drakon Yasaları", "explanation": "Drakon, Atina yasa koyucusudur." }
+      {
+        "id": "A",
+        "text": "Drakon Yasaları",
+        "explanation": "Drakon, Atina yasa koyucusudur."
+      },
+      {
+        "id": "B",
+        "text": "Corpus Juris Civilis",
+        "explanation": "Corpus Juris Civilis, yaklaşık 1000 yıl sonra Justinianus'un derlemesidir — 'ilk' değil 'külliyat'tır."
+      },
+      {
+        "id": "C",
+        "text": "12 Levha Kanunları",
+        "explanation": "Doğru — MÖ 450 civarında patrici-pleb mücadelesi sonucunda yazıya geçirilen 12 Levha, Roma hukukunun temelidir."
+      },
+      {
+        "id": "D",
+        "text": "Hammurabi Kanunları",
+        "explanation": "Hammurabi, Babil kralıdır; Roma ile ilgisi yoktur."
+      }
     ],
-    "correct": "A",
+    "correct": "C",
     "trick": "'İlk yazılı Roma hukuku' = 12 Levha; 'modern hukukun temeli derleme' = Corpus Juris Civilis (Justinianus)."
   },
   {
@@ -92,12 +188,28 @@
     "difficulty": 1,
     "stem": "Roma'da imparatorluk dönemini başlatan ilk imparator aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Augustus", "explanation": "Doğru — Octavianus, MÖ 27'de 'Augustus' unvanını alarak imparatorluk dönemini başlattı; Pax Romana onunla açılır." },
-      { "id": "B", "text": "Julius Caesar", "explanation": "Caesar diktatördü ama imparator unvanı almadan öldürüldü (MÖ 44) — en klasik tuzak." },
-      { "id": "C", "text": "Neron", "explanation": "Neron, Julio-Claudius hanedanının son imparatorudur." },
-      { "id": "D", "text": "Konstantin", "explanation": "Konstantin, yaklaşık 350 yıl sonra yaşamıştır." }
+      {
+        "id": "A",
+        "text": "Konstantin",
+        "explanation": "Konstantin, yaklaşık 350 yıl sonra yaşamıştır."
+      },
+      {
+        "id": "B",
+        "text": "Neron",
+        "explanation": "Neron, Julio-Claudius hanedanının son imparatorudur."
+      },
+      {
+        "id": "C",
+        "text": "Augustus",
+        "explanation": "Doğru — Octavianus, MÖ 27'de 'Augustus' unvanını alarak imparatorluk dönemini başlattı; Pax Romana onunla açılır."
+      },
+      {
+        "id": "D",
+        "text": "Julius Caesar",
+        "explanation": "Caesar diktatördü ama imparator unvanı almadan öldürüldü (MÖ 44) — en klasik tuzak."
+      }
     ],
-    "correct": "A",
+    "correct": "C",
     "trick": "Caesar imparator DEĞİLDİR; ilk imparator evlatlığı Augustus'tur."
   },
   {
@@ -107,12 +219,28 @@
     "difficulty": 2,
     "stem": "Roma'nın Anadolu'da kurduğu ilk eyalet olan Asia'nın başkenti aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Efes", "explanation": "Doğru — MÖ 133 Bergama vasiyetiyle kurulan Asia eyaletinin yönetim merkezi Efes oldu; kent 200.000 nüfusa ulaştı." },
-      { "id": "B", "text": "Bergama", "explanation": "Bergama eski krallık başkentiydi; Roma eyalet merkezi olarak Efes'i yükseltti — sınavın sevdiği ayrım." },
-      { "id": "C", "text": "Ankyra", "explanation": "Ankyra (Ankara), Galatia eyaletinin merkezidir." },
-      { "id": "D", "text": "Antakya", "explanation": "Antakya, Suriye eyaletinin başkentidir." }
+      {
+        "id": "A",
+        "text": "Antakya",
+        "explanation": "Antakya, Suriye eyaletinin başkentidir."
+      },
+      {
+        "id": "B",
+        "text": "Bergama",
+        "explanation": "Bergama eski krallık başkentiydi; Roma eyalet merkezi olarak Efes'i yükseltti — sınavın sevdiği ayrım."
+      },
+      {
+        "id": "C",
+        "text": "Efes",
+        "explanation": "Doğru — MÖ 133 Bergama vasiyetiyle kurulan Asia eyaletinin yönetim merkezi Efes oldu; kent 200.000 nüfusa ulaştı."
+      },
+      {
+        "id": "D",
+        "text": "Ankyra",
+        "explanation": "Ankyra (Ankara), Galatia eyaletinin merkezidir."
+      }
     ],
-    "correct": "A",
+    "correct": "C",
     "trick": "Krallık başkenti Bergama ≠ eyalet başkenti Efes. Soru 'eyalet' diyorsa Efes."
   },
   {
@@ -122,12 +250,28 @@
     "difficulty": 3,
     "stem": "Roma'ya karşı Anadolu'da üç büyük savaş vererek direnen Pontus kralı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "VI. Mithridates", "explanation": "Doğru — 'Roma'nın en tehlikeli düşmanı' sayılan VI. Mithridates Eupator, MÖ 88'de Anadolu'daki Romalıları katletti; Pompeius tarafından yenildi." },
-      { "id": "B", "text": "III. Attalos", "explanation": "Attalos direnmek şöyle dursun, krallığını Roma'ya vasiyet etmiştir." },
-      { "id": "C", "text": "I. Antiokhos", "explanation": "Kommagene kralı Antiokhos, Roma ile ittifak dengesi kurmuştur." },
-      { "id": "D", "text": "Krezüs", "explanation": "Krezüs, Roma'dan yüzyıllar önce yaşamış Lidya kralıdır." }
+      {
+        "id": "A",
+        "text": "III. Attalos",
+        "explanation": "Attalos direnmek şöyle dursun, krallığını Roma'ya vasiyet etmiştir."
+      },
+      {
+        "id": "B",
+        "text": "VI. Mithridates",
+        "explanation": "Doğru — 'Roma'nın en tehlikeli düşmanı' sayılan VI. Mithridates Eupator, MÖ 88'de Anadolu'daki Romalıları katletti; Pompeius tarafından yenildi."
+      },
+      {
+        "id": "C",
+        "text": "I. Antiokhos",
+        "explanation": "Kommagene kralı Antiokhos, Roma ile ittifak dengesi kurmuştur."
+      },
+      {
+        "id": "D",
+        "text": "Krezüs",
+        "explanation": "Krezüs, Roma'dan yüzyıllar önce yaşamış Lidya kralıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "roma-yunan-bizans-010",
@@ -136,12 +280,28 @@
     "difficulty": 2,
     "stem": "Antalya'daki Hadrian Kapısı hangi olay anısına inşa edilmiştir?",
     "choices": [
-      { "id": "A", "text": "İmparator Hadrianus'un 130 yılında kenti ziyareti", "explanation": "Doğru — üç gözlü mermer tak, 'gezgin imparator' Hadrianus'un Attaleia ziyareti onuruna dikildi." },
-      { "id": "B", "text": "Roma'nın Pamfilya'yı fethi", "explanation": "Fetih anıtı değildir; ziyaret takıdır." },
-      { "id": "C", "text": "Bir deniz zaferi", "explanation": "Deniz zaferiyle ilgisi yoktur." },
-      { "id": "D", "text": "Hadrianus'un doğumu", "explanation": "İmparator İspanya doğumludur; kapı ziyaret anısınadır." }
+      {
+        "id": "A",
+        "text": "Bir deniz zaferi",
+        "explanation": "Deniz zaferiyle ilgisi yoktur."
+      },
+      {
+        "id": "B",
+        "text": "İmparator Hadrianus'un 130 yılında kenti ziyareti",
+        "explanation": "Doğru — üç gözlü mermer tak, 'gezgin imparator' Hadrianus'un Attaleia ziyareti onuruna dikildi."
+      },
+      {
+        "id": "C",
+        "text": "Hadrianus'un doğumu",
+        "explanation": "İmparator İspanya doğumludur; kapı ziyaret anısınadır."
+      },
+      {
+        "id": "D",
+        "text": "Roma'nın Pamfilya'yı fethi",
+        "explanation": "Fetih anıtı değildir; ziyaret takıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "roma-yunan-bizans-011",
@@ -150,12 +310,28 @@
     "difficulty": 2,
     "stem": "313 tarihli Milano Fermanı'nın sonucu aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Hristiyanlığa ibadet serbestliği tanınması", "explanation": "Doğru — Konstantin ve Licinius'un fermanı Hristiyanlığı yasal hale getirdi; resmi din yapmadı." },
-      { "id": "B", "text": "Hristiyanlığın resmi din ilan edilmesi", "explanation": "Resmi din ilanı 380'de I. Theodosius'ladır — sınavın en sevdiği tuzak." },
-      { "id": "C", "text": "İncil'in derlenmesi", "explanation": "Kanonik metin süreci konsillerle ilgilidir, fermanla değil." },
-      { "id": "D", "text": "İkonaların yasaklanması", "explanation": "İkona yasağı (ikonoklazma) 726'da başlar." }
+      {
+        "id": "A",
+        "text": "Hristiyanlığın resmi din ilan edilmesi",
+        "explanation": "Resmi din ilanı 380'de I. Theodosius'ladır — sınavın en sevdiği tuzak."
+      },
+      {
+        "id": "B",
+        "text": "İncil'in derlenmesi",
+        "explanation": "Kanonik metin süreci konsillerle ilgilidir, fermanla değil."
+      },
+      {
+        "id": "C",
+        "text": "Hristiyanlığa ibadet serbestliği tanınması",
+        "explanation": "Doğru — Konstantin ve Licinius'un fermanı Hristiyanlığı yasal hale getirdi; resmi din yapmadı."
+      },
+      {
+        "id": "D",
+        "text": "İkonaların yasaklanması",
+        "explanation": "İkona yasağı (ikonoklazma) 726'da başlar."
+      }
     ],
-    "correct": "A",
+    "correct": "C",
     "trick": "313 Milano = serbestlik (Konstantin); 380 = resmi din (Theodosius). İki tarih çapraz sorulur."
   },
   {
@@ -165,12 +341,28 @@
     "difficulty": 2,
     "stem": "Konstantin'in Byzantion'u 'Yeni Roma' olarak başkent ilan ettiği yıl aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "330", "explanation": "Doğru — 11 Mayıs 330'daki törenle kent Konstantinopolis adıyla başkent oldu." },
-      { "id": "B", "text": "313", "explanation": "313, Milano Fermanı'nın tarihidir." },
-      { "id": "C", "text": "395", "explanation": "395, imparatorluğun Doğu-Batı olarak ayrılma tarihidir." },
-      { "id": "D", "text": "476", "explanation": "476, Batı Roma'nın yıkılış tarihidir." }
+      {
+        "id": "A",
+        "text": "313",
+        "explanation": "313, Milano Fermanı'nın tarihidir."
+      },
+      {
+        "id": "B",
+        "text": "476",
+        "explanation": "476, Batı Roma'nın yıkılış tarihidir."
+      },
+      {
+        "id": "C",
+        "text": "330",
+        "explanation": "Doğru — 11 Mayıs 330'daki törenle kent Konstantinopolis adıyla başkent oldu."
+      },
+      {
+        "id": "D",
+        "text": "395",
+        "explanation": "395, imparatorluğun Doğu-Batı olarak ayrılma tarihidir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "roma-yunan-bizans-013",
@@ -179,12 +371,28 @@
     "difficulty": 2,
     "stem": "532'de Konstantinopolis hipodromunda başlayan ve bastırılmasının ardından Ayasofya'nın inşasına vesile olan ayaklanma aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Nika İsyanı", "explanation": "Doğru — araba yarışı taraftarlarının (Maviler-Yeşiller) 'Nika!' (zafer) sloganıyla başlattığı isyan; yanan kilisenin yerine bugünkü Ayasofya yapıldı." },
-      { "id": "B", "text": "İkonoklazma", "explanation": "İkonoklazma isyan değil, tasvir karşıtı resmi dönemdir (726-842)." },
-      { "id": "C", "text": "Zelotlar Ayaklanması", "explanation": "Zelotlar, 14. yüzyıl Selanik hareketidir." },
-      { "id": "D", "text": "Spartaküs İsyanı", "explanation": "Spartaküs, MÖ 73'teki Roma köle ayaklanmasıdır." }
+      {
+        "id": "A",
+        "text": "Spartaküs İsyanı",
+        "explanation": "Spartaküs, MÖ 73'teki Roma köle ayaklanmasıdır."
+      },
+      {
+        "id": "B",
+        "text": "Nika İsyanı",
+        "explanation": "Doğru — araba yarışı taraftarlarının (Maviler-Yeşiller) 'Nika!' (zafer) sloganıyla başlattığı isyan; yanan kilisenin yerine bugünkü Ayasofya yapıldı."
+      },
+      {
+        "id": "C",
+        "text": "İkonoklazma",
+        "explanation": "İkonoklazma isyan değil, tasvir karşıtı resmi dönemdir (726-842)."
+      },
+      {
+        "id": "D",
+        "text": "Zelotlar Ayaklanması",
+        "explanation": "Zelotlar, 14. yüzyıl Selanik hareketidir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "roma-yunan-bizans-014",
@@ -193,12 +401,28 @@
     "difficulty": 2,
     "stem": "Katolik ve Ortodoks kiliselerinin 1054'te kesin olarak ayrılmasına ne ad verilir?",
     "choices": [
-      { "id": "A", "text": "Büyük Schisma", "explanation": "Doğru — Roma ile Konstantinopolis'in karşılıklı aforozuyla Hristiyanlık kalıcı olarak Doğu-Batı diye bölündü." },
-      { "id": "B", "text": "Reform", "explanation": "Reform, 1517'de Luther'in başlattığı Protestan harekettir." },
-      { "id": "C", "text": "İznik Konsili", "explanation": "İznik Konsili (325), inanç esaslarını belirleyen toplantıdır; ayrılık değildir." },
-      { "id": "D", "text": "Rönesans", "explanation": "Rönesans, sanat-düşünce yeniden doğuşudur." }
+      {
+        "id": "A",
+        "text": "İznik Konsili",
+        "explanation": "İznik Konsili (325), inanç esaslarını belirleyen toplantıdır; ayrılık değildir."
+      },
+      {
+        "id": "B",
+        "text": "Reform",
+        "explanation": "Reform, 1517'de Luther'in başlattığı Protestan harekettir."
+      },
+      {
+        "id": "C",
+        "text": "Rönesans",
+        "explanation": "Rönesans, sanat-düşünce yeniden doğuşudur."
+      },
+      {
+        "id": "D",
+        "text": "Büyük Schisma",
+        "explanation": "Doğru — Roma ile Konstantinopolis'in karşılıklı aforozuyla Hristiyanlık kalıcı olarak Doğu-Batı diye bölündü."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "roma-yunan-bizans-015",
@@ -207,10 +431,26 @@
     "difficulty": 3,
     "stem": "1204'te Konstantinopolis'i yağmalayarak Latin İmparatorluğu'nu kuran güç aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "IV. Haçlı Seferi orduları", "explanation": "Doğru — Kudüs'e gitmesi gereken Haçlılar, Venedik'in yönlendirmesiyle Konstantinopolis'i yağmaladı; Bizans 1261'e dek İznik'ten yönetildi." },
-      { "id": "B", "text": "Selçuklu ordusu", "explanation": "Selçuklular İstanbul'u kuşatmamıştır." },
-      { "id": "C", "text": "Avarlar ve Sasaniler", "explanation": "Avar-Sasani kuşatması 626'dadır ve başarısız olmuştur." },
-      { "id": "D", "text": "Normanlar", "explanation": "Normanlar Balkan seferleri yaptı ama İstanbul'u alamadı." }
+      {
+        "id": "A",
+        "text": "IV. Haçlı Seferi orduları",
+        "explanation": "Doğru — Kudüs'e gitmesi gereken Haçlılar, Venedik'in yönlendirmesiyle Konstantinopolis'i yağmaladı; Bizans 1261'e dek İznik'ten yönetildi."
+      },
+      {
+        "id": "B",
+        "text": "Avarlar ve Sasaniler",
+        "explanation": "Avar-Sasani kuşatması 626'dadır ve başarısız olmuştur."
+      },
+      {
+        "id": "C",
+        "text": "Normanlar",
+        "explanation": "Normanlar Balkan seferleri yaptı ama İstanbul'u alamadı."
+      },
+      {
+        "id": "D",
+        "text": "Selçuklu ordusu",
+        "explanation": "Selçuklular İstanbul'u kuşatmamıştır."
+      }
     ],
     "correct": "A",
     "trick": "İstanbul 1453'ten önce bir kez düştü: 1204'te Haçlılara. 'İznik neden Bizans merkezi oldu?' sorusunun cevabı da budur."
@@ -222,12 +462,28 @@
     "difficulty": 2,
     "stem": "Bizans'ın asker-çiftçi temelli askeri eyalet sistemi aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Thema", "explanation": "Doğru — 7. yüzyıldan itibaren kurulan themalarda askerlere toprak verilir, karşılığında ordu beslenirdi." },
-      { "id": "B", "text": "Pronoia", "explanation": "Pronoia, geç dönemde gelir kaynağının tahsisidir; tımara benzer ama sorudaki tanım themadır." },
-      { "id": "C", "text": "Satraplık", "explanation": "Satraplık Pers sistemidir." },
-      { "id": "D", "text": "Eyalet-i mümtaze", "explanation": "Osmanlı ayrıcalıklı eyaletidir." }
+      {
+        "id": "A",
+        "text": "Satraplık",
+        "explanation": "Satraplık Pers sistemidir."
+      },
+      {
+        "id": "B",
+        "text": "Eyalet-i mümtaze",
+        "explanation": "Osmanlı ayrıcalıklı eyaletidir."
+      },
+      {
+        "id": "C",
+        "text": "Pronoia",
+        "explanation": "Pronoia, geç dönemde gelir kaynağının tahsisidir; tımara benzer ama sorudaki tanım themadır."
+      },
+      {
+        "id": "D",
+        "text": "Thema",
+        "explanation": "Doğru — 7. yüzyıldan itibaren kurulan themalarda askerlere toprak verilir, karşılığında ordu beslenirdi."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "roma-yunan-bizans-017",
@@ -236,12 +492,28 @@
     "difficulty": 2,
     "stem": "1453'te İstanbul surlarında hayatını kaybeden son Bizans imparatoru aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "XI. Konstantinos", "explanation": "Doğru — Palaiologos hanedanından XI. Konstantinos, 29 Mayıs 1453'te savaşarak öldü; kent kurucusuyla aynı adı taşıyan imparatorla kapandı." },
-      { "id": "B", "text": "Justinianus", "explanation": "Justinianus, 6. yüzyılın imparatorudur." },
-      { "id": "C", "text": "Aleksios Komnenos", "explanation": "I. Aleksios, Haçlı Seferleri döneminin (11-12. yy) imparatorudur." },
-      { "id": "D", "text": "II. Theodosius", "explanation": "II. Theodosius, kara surlarını yaptıran 5. yüzyıl imparatorudur." }
+      {
+        "id": "A",
+        "text": "II. Theodosius",
+        "explanation": "II. Theodosius, kara surlarını yaptıran 5. yüzyıl imparatorudur."
+      },
+      {
+        "id": "B",
+        "text": "Aleksios Komnenos",
+        "explanation": "I. Aleksios, Haçlı Seferleri döneminin (11-12. yy) imparatorudur."
+      },
+      {
+        "id": "C",
+        "text": "XI. Konstantinos",
+        "explanation": "Doğru — Palaiologos hanedanından XI. Konstantinos, 29 Mayıs 1453'te savaşarak öldü; kent kurucusuyla aynı adı taşıyan imparatorla kapandı."
+      },
+      {
+        "id": "D",
+        "text": "Justinianus",
+        "explanation": "Justinianus, 6. yüzyılın imparatorudur."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "roma-yunan-bizans-018",
@@ -250,12 +522,28 @@
     "difficulty": 2,
     "stem": "Efes'teki Celsus Kütüphanesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "choices": [
-      { "id": "A", "text": "Aynı zamanda Vali Celsus'un anıt mezarıdır; lahdi zemin katın altındadır", "explanation": "Doğru — oğlunun babası için yaptırdığı yapı hem kütüphane hem heroon (anıt mezar) işlevi taşır." },
-      { "id": "B", "text": "Bizans döneminde inşa edilmiştir", "explanation": "Yapı Roma dönemine (MS 117-135) aittir." },
-      { "id": "C", "text": "Parşömenin icat edildiği yerdir", "explanation": "Parşömen Bergama ile ilişkilidir." },
-      { "id": "D", "text": "Antik dünyanın en büyük kütüphanesidir", "explanation": "En büyükler İskenderiye ve Bergama'dır; Celsus üçüncü büyük sayılır." }
+      {
+        "id": "A",
+        "text": "Parşömenin icat edildiği yerdir",
+        "explanation": "Parşömen Bergama ile ilişkilidir."
+      },
+      {
+        "id": "B",
+        "text": "Antik dünyanın en büyük kütüphanesidir",
+        "explanation": "En büyükler İskenderiye ve Bergama'dır; Celsus üçüncü büyük sayılır."
+      },
+      {
+        "id": "C",
+        "text": "Aynı zamanda Vali Celsus'un anıt mezarıdır; lahdi zemin katın altındadır",
+        "explanation": "Doğru — oğlunun babası için yaptırdığı yapı hem kütüphane hem heroon (anıt mezar) işlevi taşır."
+      },
+      {
+        "id": "D",
+        "text": "Bizans döneminde inşa edilmiştir",
+        "explanation": "Yapı Roma dönemine (MS 117-135) aittir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "roma-yunan-bizans-019",
@@ -264,10 +552,26 @@
     "difficulty": 2,
     "stem": "Hristiyan inanışında Meryem Ana'nın son yıllarını geçirdiğine inanılan ve Papalarca ziyaret edilen ev hangi il sınırlarındadır?",
     "choices": [
-      { "id": "A", "text": "İzmir (Selçuk-Bülbüldağı)", "explanation": "Doğru — Meryem Ana Evi, Efes yakınındaki Bülbüldağı'ndadır; Vatikan'ın hac statüsü verdiği bir ziyaretgâhtır." },
-      { "id": "B", "text": "Antalya", "explanation": "Antalya'daki ünlü Hristiyan mekânı Demre Aziz Nikolaos'tur." },
-      { "id": "C", "text": "Hatay", "explanation": "Hatay'ın ünlü mekânı St. Pierre Mağara Kilisesi'dir." },
-      { "id": "D", "text": "Mardin", "explanation": "Mardin, Süryani manastırlarıyla (Deyrulzafaran, Mor Gabriel) ünlüdür." }
+      {
+        "id": "A",
+        "text": "İzmir (Selçuk-Bülbüldağı)",
+        "explanation": "Doğru — Meryem Ana Evi, Efes yakınındaki Bülbüldağı'ndadır; Vatikan'ın hac statüsü verdiği bir ziyaretgâhtır."
+      },
+      {
+        "id": "B",
+        "text": "Hatay",
+        "explanation": "Hatay'ın ünlü mekânı St. Pierre Mağara Kilisesi'dir."
+      },
+      {
+        "id": "C",
+        "text": "Mardin",
+        "explanation": "Mardin, Süryani manastırlarıyla (Deyrulzafaran, Mor Gabriel) ünlüdür."
+      },
+      {
+        "id": "D",
+        "text": "Antalya",
+        "explanation": "Antalya'daki ünlü Hristiyan mekânı Demre Aziz Nikolaos'tur."
+      }
     ],
     "correct": "A"
   },
@@ -278,12 +582,28 @@
     "difficulty": 2,
     "stem": "Hierapolis'te zehirli gaz çıkışı nedeniyle 'cehenneme açılan kapı' kabul edilen kutsal alan aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Plutonium", "explanation": "Doğru — yeraltı tanrısı Pluton'a adanan mağara ağzından çıkan karbondioksit, içeri giren hayvanları öldürürdü; rahipler bunu 'mucize' olarak sahnelerdi." },
-      { "id": "B", "text": "Nymphaion", "explanation": "Nymphaion, anıtsal çeşme yapısıdır." },
-      { "id": "C", "text": "Martyrion", "explanation": "Martyrion, din şehidi anıtıdır — Hierapolis'teki Aziz Philippus Martyrionu ayrı bir yapıdır." },
-      { "id": "D", "text": "Asklepion", "explanation": "Asklepion, sağlık tapınağıdır (Bergama'daki ünlüdür)." }
+      {
+        "id": "A",
+        "text": "Asklepion",
+        "explanation": "Asklepion, sağlık tapınağıdır (Bergama'daki ünlüdür)."
+      },
+      {
+        "id": "B",
+        "text": "Nymphaion",
+        "explanation": "Nymphaion, anıtsal çeşme yapısıdır."
+      },
+      {
+        "id": "C",
+        "text": "Martyrion",
+        "explanation": "Martyrion, din şehidi anıtıdır — Hierapolis'teki Aziz Philippus Martyrionu ayrı bir yapıdır."
+      },
+      {
+        "id": "D",
+        "text": "Plutonium",
+        "explanation": "Doğru — yeraltı tanrısı Pluton'a adanan mağara ağzından çıkan karbondioksit, içeri giren hayvanları öldürürdü; rahipler bunu 'mucize' olarak sahnelerdi."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "roma-yunan-bizans-021",
@@ -292,12 +612,28 @@
     "difficulty": 3,
     "stem": "2017'de UNESCO Dünya Mirası Listesi'ne giren, antik dünyanın en iyi korunmuş stadionuna ve ünlü bir heykel okuluna sahip kent aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Afrodisias", "explanation": "Doğru — Aydın Karacasu'daki Afrodisias, 30.000 kişilik stadionu, Sebasteion'u ve mermer heykel okuluyla ünlüdür; Kenan Erim'in kazı alanıdır." },
-      { "id": "B", "text": "Efes", "explanation": "Efes 2015'te listeye girdi; stadionu Afrodisias'ınki kadar korunmuş değildir." },
-      { "id": "C", "text": "Perge", "explanation": "Perge'nin stadionu iyi durumdadır ama UNESCO ana listesinde değildir." },
-      { "id": "D", "text": "Sagalassos", "explanation": "Sagalassos geçici listededir; çeşmesiyle ünlüdür." }
+      {
+        "id": "A",
+        "text": "Perge",
+        "explanation": "Perge'nin stadionu iyi durumdadır ama UNESCO ana listesinde değildir."
+      },
+      {
+        "id": "B",
+        "text": "Afrodisias",
+        "explanation": "Doğru — Aydın Karacasu'daki Afrodisias, 30.000 kişilik stadionu, Sebasteion'u ve mermer heykel okuluyla ünlüdür; Kenan Erim'in kazı alanıdır."
+      },
+      {
+        "id": "C",
+        "text": "Efes",
+        "explanation": "Efes 2015'te listeye girdi; stadionu Afrodisias'ınki kadar korunmuş değildir."
+      },
+      {
+        "id": "D",
+        "text": "Sagalassos",
+        "explanation": "Sagalassos geçici listededir; çeşmesiyle ünlüdür."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "roma-yunan-bizans-022",
@@ -306,12 +642,28 @@
     "difficulty": 2,
     "stem": "Sultanahmet Meydanı'ndaki Dikilitaş (Obelisk) hangi uygarlıktan getirilmiştir?",
     "choices": [
-      { "id": "A", "text": "Mısır", "explanation": "Doğru — Firavun III. Thutmosis'in Karnak'taki obeliski, I. Theodosius döneminde (390) hipodroma dikildi." },
-      { "id": "B", "text": "Yunan", "explanation": "Delphi'den gelen eser Yılanlı Sütun'dur — iki anıt karıştırılır." },
-      { "id": "C", "text": "Hitit", "explanation": "Hipodromda Hitit eseri yoktur." },
-      { "id": "D", "text": "Pers", "explanation": "Hipodrom anıtları arasında Pers eseri yoktur." }
+      {
+        "id": "A",
+        "text": "Yunan",
+        "explanation": "Delphi'den gelen eser Yılanlı Sütun'dur — iki anıt karıştırılır."
+      },
+      {
+        "id": "B",
+        "text": "Hitit",
+        "explanation": "Hipodromda Hitit eseri yoktur."
+      },
+      {
+        "id": "C",
+        "text": "Mısır",
+        "explanation": "Doğru — Firavun III. Thutmosis'in Karnak'taki obeliski, I. Theodosius döneminde (390) hipodroma dikildi."
+      },
+      {
+        "id": "D",
+        "text": "Pers",
+        "explanation": "Hipodrom anıtları arasında Pers eseri yoktur."
+      }
     ],
-    "correct": "A",
+    "correct": "C",
     "trick": "Hipodrom üçlüsü: Dikilitaş = Mısır; Yılanlı Sütun = Delphi/Yunan; Örme Sütun = yerli."
   },
   {
@@ -321,12 +673,28 @@
     "difficulty": 2,
     "stem": "Yerebatan Sarnıcı'ndaki sütun kaidelerinde yer alan ünlü mitolojik figür aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Medusa", "explanation": "Doğru — biri ters, biri yan yerleştirilmiş iki Medusa başı, devşirme malzeme olarak kullanılmıştır." },
-      { "id": "B", "text": "Pegasus", "explanation": "Kanatlı at Pegasus sarnıçta betimlenmemiştir." },
-      { "id": "C", "text": "Minotauros", "explanation": "Minotauros, Girit labirentinin canavarıdır; sarnıçla ilgisi yoktur." },
-      { "id": "D", "text": "Sfenks", "explanation": "Sfenks, Mısır-Yunan karışımı bekçi figürüdür; sarnıçta yoktur." }
+      {
+        "id": "A",
+        "text": "Minotauros",
+        "explanation": "Minotauros, Girit labirentinin canavarıdır; sarnıçla ilgisi yoktur."
+      },
+      {
+        "id": "B",
+        "text": "Medusa",
+        "explanation": "Doğru — biri ters, biri yan yerleştirilmiş iki Medusa başı, devşirme malzeme olarak kullanılmıştır."
+      },
+      {
+        "id": "C",
+        "text": "Sfenks",
+        "explanation": "Sfenks, Mısır-Yunan karışımı bekçi figürüdür; sarnıçta yoktur."
+      },
+      {
+        "id": "D",
+        "text": "Pegasus",
+        "explanation": "Kanatlı at Pegasus sarnıçta betimlenmemiştir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "roma-yunan-bizans-024",
@@ -335,12 +703,28 @@
     "difficulty": 3,
     "stem": "1453'e kadar hiçbir ordunun aşamadığı İstanbul kara surlarını yaptıran imparator aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "II. Theodosius", "explanation": "Doğru — 5. yüzyılda yapılan üç sıralı Theodosius surları, bin yıl boyunca kenti korudu." },
-      { "id": "B", "text": "Konstantin", "explanation": "Konstantin'in suru daha içerideydi; bugünkü kara surları II. Theodosius'undur." },
-      { "id": "C", "text": "Justinianus", "explanation": "Justinianus surları değil, Ayasofya'yı yaptırdı." },
-      { "id": "D", "text": "Herakleios", "explanation": "Herakleios döneminde surlara ek yapıldı ama ana sistem Theodosius'undur." }
+      {
+        "id": "A",
+        "text": "Konstantin",
+        "explanation": "Konstantin'in suru daha içerideydi; bugünkü kara surları II. Theodosius'undur."
+      },
+      {
+        "id": "B",
+        "text": "Herakleios",
+        "explanation": "Herakleios döneminde surlara ek yapıldı ama ana sistem Theodosius'undur."
+      },
+      {
+        "id": "C",
+        "text": "Justinianus",
+        "explanation": "Justinianus surları değil, Ayasofya'yı yaptırdı."
+      },
+      {
+        "id": "D",
+        "text": "II. Theodosius",
+        "explanation": "Doğru — 5. yüzyılda yapılan üç sıralı Theodosius surları, bin yıl boyunca kenti korudu."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "roma-yunan-bizans-025",
@@ -349,12 +733,28 @@
     "difficulty": 2,
     "stem": "'Hristiyan' adının tarihte ilk kez kullanıldığı kent aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Antakya", "explanation": "Doğru — Yeni Ahit'e göre İsa'nın takipçilerine ilk kez Antakya'da 'Hristiyan' denildi; St. Pierre Mağara Kilisesi ilk ibadet mekânlarındandır." },
-      { "id": "B", "text": "Kudüs", "explanation": "Hareket Kudüs'te doğdu ama 'Hristiyan' adlandırması Antakya'da ortaya çıktı." },
-      { "id": "C", "text": "Efes", "explanation": "Efes önemli bir misyon merkezidir ama adlandırma Antakya'dandır." },
-      { "id": "D", "text": "Tarsus", "explanation": "Tarsus, Aziz Pavlus'un doğum yeridir — çeldirici bağlantı budur." }
+      {
+        "id": "A",
+        "text": "Efes",
+        "explanation": "Efes önemli bir misyon merkezidir ama adlandırma Antakya'dandır."
+      },
+      {
+        "id": "B",
+        "text": "Kudüs",
+        "explanation": "Hareket Kudüs'te doğdu ama 'Hristiyan' adlandırması Antakya'da ortaya çıktı."
+      },
+      {
+        "id": "C",
+        "text": "Tarsus",
+        "explanation": "Tarsus, Aziz Pavlus'un doğum yeridir — çeldirici bağlantı budur."
+      },
+      {
+        "id": "D",
+        "text": "Antakya",
+        "explanation": "Doğru — Yeni Ahit'e göre İsa'nın takipçilerine ilk kez Antakya'da 'Hristiyan' denildi; St. Pierre Mağara Kilisesi ilk ibadet mekânlarındandır."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "roma-yunan-bizans-026",
@@ -363,12 +763,28 @@
     "difficulty": 2,
     "stem": "Hristiyanlığı Anadolu'da yayan, Tarsus doğumlu havari aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Aziz Pavlus (Paulus)", "explanation": "Doğru — üç büyük misyon yolculuğuyla Perge, Pisidya Antiokheia'sı, Efes hattında Hristiyanlığı yaydı." },
-      { "id": "B", "text": "Aziz Petrus", "explanation": "Petrus, Antakya ve Roma ile ilişkilendirilir; Tarsuslu değildir." },
-      { "id": "C", "text": "Aziz Yuhanna", "explanation": "Yuhanna, Efes'te yaşamış ve orada gömülmüştür (St. Jean Bazilikası)." },
-      { "id": "D", "text": "Aziz Nikolaos", "explanation": "Nikolaos, 4. yüzyılda Myra piskoposudur — havari değildir." }
+      {
+        "id": "A",
+        "text": "Aziz Nikolaos",
+        "explanation": "Nikolaos, 4. yüzyılda Myra piskoposudur — havari değildir."
+      },
+      {
+        "id": "B",
+        "text": "Aziz Yuhanna",
+        "explanation": "Yuhanna, Efes'te yaşamış ve orada gömülmüştür (St. Jean Bazilikası)."
+      },
+      {
+        "id": "C",
+        "text": "Aziz Pavlus (Paulus)",
+        "explanation": "Doğru — üç büyük misyon yolculuğuyla Perge, Pisidya Antiokheia'sı, Efes hattında Hristiyanlığı yaydı."
+      },
+      {
+        "id": "D",
+        "text": "Aziz Petrus",
+        "explanation": "Petrus, Antakya ve Roma ile ilişkilendirilir; Tarsuslu değildir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "roma-yunan-bizans-027",
@@ -377,10 +793,26 @@
     "difficulty": 3,
     "stem": "Vahiy Kitabı'nda adı geçen 'Yedi Kilise'den biri OLMAYAN kent aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Antakya", "explanation": "Doğru cevap bu — Yedi Kilise: Efes, İzmir, Bergama, Thyateira (Akhisar), Sardes, Filadelfya (Alaşehir), Laodikeia. Antakya listede yoktur." },
-      { "id": "B", "text": "Efes", "explanation": "Efes, yedi kilisenin ilkidir." },
-      { "id": "C", "text": "Laodikeia", "explanation": "Denizli'deki Laodikeia listededir." },
-      { "id": "D", "text": "Sardes", "explanation": "Sardes listededir." }
+      {
+        "id": "A",
+        "text": "Antakya",
+        "explanation": "Doğru cevap bu — Yedi Kilise: Efes, İzmir, Bergama, Thyateira (Akhisar), Sardes, Filadelfya (Alaşehir), Laodikeia. Antakya listede yoktur."
+      },
+      {
+        "id": "B",
+        "text": "Efes",
+        "explanation": "Efes, yedi kilisenin ilkidir."
+      },
+      {
+        "id": "C",
+        "text": "Laodikeia",
+        "explanation": "Denizli'deki Laodikeia listededir."
+      },
+      {
+        "id": "D",
+        "text": "Sardes",
+        "explanation": "Sardes listededir."
+      }
     ],
     "correct": "A",
     "trick": "Yedi Kilise'nin tamamı Batı Anadolu'dadır; Antakya ve Kudüs listede YOKTUR."
@@ -392,12 +824,28 @@
     "difficulty": 2,
     "stem": "Izgara (grid) şehir planının babası kabul edilen Miletli düşünür aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Hippodamos", "explanation": "Doğru — Hippodamos'un dik kesişen cadde sistemi (Hippodamik plan), Milet ve Priene'de uygulanmış, Roma şehirciliğine temel olmuştur." },
-      { "id": "B", "text": "Vitruvius", "explanation": "Vitruvius, Roma'nın mimarlık kuramcısıdır (De Architectura); plan sisteminin mucidi değildir." },
-      { "id": "C", "text": "Thales", "explanation": "Thales Miletlidir ama doğa filozofudur." },
-      { "id": "D", "text": "Pytheos", "explanation": "Pytheos, Priene Athena Tapınağı ve Mausoleion'un mimarıdır." }
+      {
+        "id": "A",
+        "text": "Thales",
+        "explanation": "Thales Miletlidir ama doğa filozofudur."
+      },
+      {
+        "id": "B",
+        "text": "Pytheos",
+        "explanation": "Pytheos, Priene Athena Tapınağı ve Mausoleion'un mimarıdır."
+      },
+      {
+        "id": "C",
+        "text": "Vitruvius",
+        "explanation": "Vitruvius, Roma'nın mimarlık kuramcısıdır (De Architectura); plan sisteminin mucidi değildir."
+      },
+      {
+        "id": "D",
+        "text": "Hippodamos",
+        "explanation": "Doğru — Hippodamos'un dik kesişen cadde sistemi (Hippodamik plan), Milet ve Priene'de uygulanmış, Roma şehirciliğine temel olmuştur."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "roma-yunan-bizans-029",
@@ -406,12 +854,28 @@
     "difficulty": 3,
     "stem": "Bizans donanmasının düşman gemilerini yakmak için kullandığı, suda bile yanan gizli silah aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Rum ateşi (Grejuva)", "explanation": "Doğru — formülü devlet sırrı olan yanıcı karışım, özellikle Arap kuşatmalarında (674-678, 717-718) kenti kurtardı." },
-      { "id": "B", "text": "Mancınık", "explanation": "Mancınık taş fırlatır; yanıcı silah değildir." },
-      { "id": "C", "text": "Barut", "explanation": "Barut Çin buluşudur ve Avrupa'ya çok sonra ulaşmıştır." },
-      { "id": "D", "text": "Neft bombası", "explanation": "Neft, karışımın olası bileşenidir ama silahın tarihi adı 'Rum ateşi'dir." }
+      {
+        "id": "A",
+        "text": "Neft bombası",
+        "explanation": "Neft, karışımın olası bileşenidir ama silahın tarihi adı 'Rum ateşi'dir."
+      },
+      {
+        "id": "B",
+        "text": "Rum ateşi (Grejuva)",
+        "explanation": "Doğru — formülü devlet sırrı olan yanıcı karışım, özellikle Arap kuşatmalarında (674-678, 717-718) kenti kurtardı."
+      },
+      {
+        "id": "C",
+        "text": "Barut",
+        "explanation": "Barut Çin buluşudur ve Avrupa'ya çok sonra ulaşmıştır."
+      },
+      {
+        "id": "D",
+        "text": "Mancınık",
+        "explanation": "Mancınık taş fırlatır; yanıcı silah değildir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "roma-yunan-bizans-030",
@@ -420,12 +884,28 @@
     "difficulty": 2,
     "stem": "1071 Malazgirt Savaşı'nda Alparslan'a yenilen Bizans imparatoru aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Romanos Diogenes", "explanation": "Doğru — IV. Romanos Diogenes esir düştü; savaş sonrası Anadolu'nun kapıları Türklere açıldı." },
-      { "id": "B", "text": "Aleksios Komnenos", "explanation": "Aleksios, Malazgirt'ten sonra tahta çıkıp Haçlıları çağıran imparatordur." },
-      { "id": "C", "text": "XI. Konstantinos", "explanation": "XI. Konstantinos, 1453'ün son imparatorudur." },
-      { "id": "D", "text": "II. Basileios", "explanation": "II. Basileios ('Bulgar kasabı'), Malazgirt'ten yarım yüzyıl önce ölmüştür." }
+      {
+        "id": "A",
+        "text": "II. Basileios",
+        "explanation": "II. Basileios ('Bulgar kasabı'), Malazgirt'ten yarım yüzyıl önce ölmüştür."
+      },
+      {
+        "id": "B",
+        "text": "Aleksios Komnenos",
+        "explanation": "Aleksios, Malazgirt'ten sonra tahta çıkıp Haçlıları çağıran imparatordur."
+      },
+      {
+        "id": "C",
+        "text": "Romanos Diogenes",
+        "explanation": "Doğru — IV. Romanos Diogenes esir düştü; savaş sonrası Anadolu'nun kapıları Türklere açıldı."
+      },
+      {
+        "id": "D",
+        "text": "XI. Konstantinos",
+        "explanation": "XI. Konstantinos, 1453'ün son imparatorudur."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "roma-yunan-bizans-031",
@@ -434,12 +914,28 @@
     "difficulty": 2,
     "stem": "İstanbul'daki Bozdoğan (Valens) Kemeri'nin işlevi aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kente su taşımak", "explanation": "Doğru — 4. yüzyılda İmparator Valens döneminde tamamlanan kemer, isale hattının vadi geçişidir; Osmanlı döneminde de kullanılmıştır." },
-      { "id": "B", "text": "Zafer takı olmak", "explanation": "Zafer takı tören kapısıdır; Bozdoğan bir su yapısıdır." },
-      { "id": "C", "text": "Sur kapısı olmak", "explanation": "Sur sistemiyle ilgisi yoktur." },
-      { "id": "D", "text": "Köprü olarak ulaşım sağlamak", "explanation": "Altından yol geçse de yapının amacı su iletimidir." }
+      {
+        "id": "A",
+        "text": "Köprü olarak ulaşım sağlamak",
+        "explanation": "Altından yol geçse de yapının amacı su iletimidir."
+      },
+      {
+        "id": "B",
+        "text": "Kente su taşımak",
+        "explanation": "Doğru — 4. yüzyılda İmparator Valens döneminde tamamlanan kemer, isale hattının vadi geçişidir; Osmanlı döneminde de kullanılmıştır."
+      },
+      {
+        "id": "C",
+        "text": "Sur kapısı olmak",
+        "explanation": "Sur sistemiyle ilgisi yoktur."
+      },
+      {
+        "id": "D",
+        "text": "Zafer takı olmak",
+        "explanation": "Zafer takı tören kapısıdır; Bozdoğan bir su yapısıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "roma-yunan-bizans-032",
@@ -448,10 +944,26 @@
     "difficulty": 2,
     "stem": "Antik Olimpiyat Oyunları hangi tanrı onuruna, nerede düzenlenirdi?",
     "choices": [
-      { "id": "A", "text": "Zeus onuruna — Olympia'da", "explanation": "Doğru — MÖ 776'dan itibaren dört yılda bir Olympia'da (Peloponnesos) yapılırdı; oyunlar sırasında savaşlar dururdu (ekekheiria)." },
-      { "id": "B", "text": "Apollon onuruna — Delphi'de", "explanation": "Delphi'deki oyunlar Pythia Oyunları'dır." },
-      { "id": "C", "text": "Poseidon onuruna — Korint'te", "explanation": "Korint yakınındaki oyunlar İsthmia'dır." },
-      { "id": "D", "text": "Zeus onuruna — Atina'da", "explanation": "Atina'nın festivali Panathenaia'dır; modern ilk olimpiyat (1896) Atina'da yapılmıştır — dönem tuzağı." }
+      {
+        "id": "A",
+        "text": "Zeus onuruna — Olympia'da",
+        "explanation": "Doğru — MÖ 776'dan itibaren dört yılda bir Olympia'da (Peloponnesos) yapılırdı; oyunlar sırasında savaşlar dururdu (ekekheiria)."
+      },
+      {
+        "id": "B",
+        "text": "Poseidon onuruna — Korint'te",
+        "explanation": "Korint yakınındaki oyunlar İsthmia'dır."
+      },
+      {
+        "id": "C",
+        "text": "Apollon onuruna — Delphi'de",
+        "explanation": "Delphi'deki oyunlar Pythia Oyunları'dır."
+      },
+      {
+        "id": "D",
+        "text": "Zeus onuruna — Atina'da",
+        "explanation": "Atina'nın festivali Panathenaia'dır; modern ilk olimpiyat (1896) Atina'da yapılmıştır — dönem tuzağı."
+      }
     ],
     "correct": "A"
   },
@@ -462,12 +974,28 @@
     "difficulty": 3,
     "stem": "Atina demokrasisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "choices": [
-      { "id": "A", "text": "Yalnızca yetişkin erkek yurttaşların katıldığı doğrudan bir demokrasiydi", "explanation": "Doğru — kadınlar, köleler ve yabancılar (metoikos) siyasi haklardan yoksundu; kararlar halk meclisinde (ekklesia) doğrudan alınırdı." },
-      { "id": "B", "text": "Tüm kent sakinleri eşit oy hakkına sahipti", "explanation": "Nüfusun büyük bölümü (köleler, kadınlar, yabancılar) dışarıdaydı." },
-      { "id": "C", "text": "Temsili bir parlamento sistemi vardı", "explanation": "Atina demokrasisi temsili değil, doğrudandı." },
-      { "id": "D", "text": "Krallar meclis kararlarını onaylardı", "explanation": "Demokrasi döneminde Atina'da krallık yoktu." }
+      {
+        "id": "A",
+        "text": "Krallar meclis kararlarını onaylardı",
+        "explanation": "Demokrasi döneminde Atina'da krallık yoktu."
+      },
+      {
+        "id": "B",
+        "text": "Temsili bir parlamento sistemi vardı",
+        "explanation": "Atina demokrasisi temsili değil, doğrudandı."
+      },
+      {
+        "id": "C",
+        "text": "Tüm kent sakinleri eşit oy hakkına sahipti",
+        "explanation": "Nüfusun büyük bölümü (köleler, kadınlar, yabancılar) dışarıdaydı."
+      },
+      {
+        "id": "D",
+        "text": "Yalnızca yetişkin erkek yurttaşların katıldığı doğrudan bir demokrasiydi",
+        "explanation": "Doğru — kadınlar, köleler ve yabancılar (metoikos) siyasi haklardan yoksundu; kararlar halk meclisinde (ekklesia) doğrudan alınırdı."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "roma-yunan-bizans-034",
@@ -476,12 +1004,28 @@
     "difficulty": 3,
     "stem": "Roma dönemine ait, halen kullanılan Adana'daki ünlü köprü aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Taşköprü", "explanation": "Doğru — Seyhan üzerindeki Taşköprü, Hadrianus dönemine dayanır; dünyanın kullanımda olan en eski köprülerindendir." },
-      { "id": "B", "text": "Malabadi Köprüsü", "explanation": "Malabadi (Diyarbakır-Batman), Artuklu dönemine aittir." },
-      { "id": "C", "text": "Uzunköprü", "explanation": "Uzunköprü (Edirne), II. Murad dönemi Osmanlı eseridir." },
-      { "id": "D", "text": "Çobandede Köprüsü", "explanation": "Çobandede (Erzurum), İlhanlı dönemi eseridir." }
+      {
+        "id": "A",
+        "text": "Uzunköprü",
+        "explanation": "Uzunköprü (Edirne), II. Murad dönemi Osmanlı eseridir."
+      },
+      {
+        "id": "B",
+        "text": "Malabadi Köprüsü",
+        "explanation": "Malabadi (Diyarbakır-Batman), Artuklu dönemine aittir."
+      },
+      {
+        "id": "C",
+        "text": "Çobandede Köprüsü",
+        "explanation": "Çobandede (Erzurum), İlhanlı dönemi eseridir."
+      },
+      {
+        "id": "D",
+        "text": "Taşköprü",
+        "explanation": "Doğru — Seyhan üzerindeki Taşköprü, Hadrianus dönemine dayanır; dünyanın kullanımda olan en eski köprülerindendir."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "roma-yunan-bizans-035",
@@ -490,12 +1034,28 @@
     "difficulty": 2,
     "stem": "İstanbul'daki Fener Rum Patrikhanesi'nin dini statüsü aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Ortodoks dünyasının ekümenik (evrensel) patriklik merkezi", "explanation": "Doğru — Konstantinopolis Patrikhanesi, Ortodoks kiliseler arasında 'eşitler arasında birinci' kabul edilir." },
-      { "id": "B", "text": "Katolik Kilisesi'nin doğu temsilciliği", "explanation": "Katolik merkez Vatikan'dır; Fener Ortodoks'tur." },
-      { "id": "C", "text": "Ermeni Kilisesi'nin merkezi", "explanation": "Ermeni Patrikhanesi Kumkapı'dadır; ayrı bir kilisedir." },
-      { "id": "D", "text": "Süryani Kilisesi'nin merkezi", "explanation": "Süryani merkezi tarihsel olarak Antakya-Mardin hattıdır." }
+      {
+        "id": "A",
+        "text": "Katolik Kilisesi'nin doğu temsilciliği",
+        "explanation": "Katolik merkez Vatikan'dır; Fener Ortodoks'tur."
+      },
+      {
+        "id": "B",
+        "text": "Süryani Kilisesi'nin merkezi",
+        "explanation": "Süryani merkezi tarihsel olarak Antakya-Mardin hattıdır."
+      },
+      {
+        "id": "C",
+        "text": "Ermeni Kilisesi'nin merkezi",
+        "explanation": "Ermeni Patrikhanesi Kumkapı'dadır; ayrı bir kilisedir."
+      },
+      {
+        "id": "D",
+        "text": "Ortodoks dünyasının ekümenik (evrensel) patriklik merkezi",
+        "explanation": "Doğru — Konstantinopolis Patrikhanesi, Ortodoks kiliseler arasında 'eşitler arasında birinci' kabul edilir."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "roma-yunan-bizans-036",
@@ -504,12 +1064,28 @@
     "difficulty": 2,
     "stem": "Roma İmparatorluğu'nun kesin olarak Doğu ve Batı diye ikiye ayrıldığı 395 yılındaki olay aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "I. Theodosius'un ölümü ve toprakların iki oğlu arasında paylaşılması", "explanation": "Doğru — Arcadius Doğu'yu, Honorius Batı'yı aldı; ayrılık bir daha kapanmadı." },
-      { "id": "B", "text": "Konstantin'in başkent taşıması", "explanation": "Başkent taşıma 330'dadır; imparatorluk o tarihte hâlâ tekti." },
-      { "id": "C", "text": "Milano Fermanı'nın ilanı", "explanation": "313 tarihli ferman din özgürlüğüyle ilgilidir." },
-      { "id": "D", "text": "Kavimler Göçü'nün başlaması", "explanation": "Kavimler Göçü (375) ayrılığı hızlandıran süreçtir ama bölünme 395'teki veraset paylaşımıdır." }
+      {
+        "id": "A",
+        "text": "Konstantin'in başkent taşıması",
+        "explanation": "Başkent taşıma 330'dadır; imparatorluk o tarihte hâlâ tekti."
+      },
+      {
+        "id": "B",
+        "text": "I. Theodosius'un ölümü ve toprakların iki oğlu arasında paylaşılması",
+        "explanation": "Doğru — Arcadius Doğu'yu, Honorius Batı'yı aldı; ayrılık bir daha kapanmadı."
+      },
+      {
+        "id": "C",
+        "text": "Kavimler Göçü'nün başlaması",
+        "explanation": "Kavimler Göçü (375) ayrılığı hızlandıran süreçtir ama bölünme 395'teki veraset paylaşımıdır."
+      },
+      {
+        "id": "D",
+        "text": "Milano Fermanı'nın ilanı",
+        "explanation": "313 tarihli ferman din özgürlüğüyle ilgilidir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "roma-yunan-bizans-037",
@@ -518,12 +1094,28 @@
     "difficulty": 2,
     "stem": "Tarih yazıcılığının babası kabul edilen, Pers Savaşları'nı anlatan Halikarnas doğumlu yazar aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Herodot", "explanation": "Doğru — Bodrum (Halikarnas) doğumlu Herodot'un 'Historiai'si tarih yazıcılığının ilk büyük eseridir." },
-      { "id": "B", "text": "Thukydides", "explanation": "Thukydides, Peloponnesos Savaşı'nın 'bilimsel' tarihçisidir; Atinalıdır." },
-      { "id": "C", "text": "Homeros", "explanation": "Homeros destan ozanıdır; tarihçi değildir." },
-      { "id": "D", "text": "Strabon", "explanation": "Amasyalı Strabon, 'Geographika'nın yazarı — coğrafyanın babasıdır; tarihçilikte değil." }
+      {
+        "id": "A",
+        "text": "Strabon",
+        "explanation": "Amasyalı Strabon, 'Geographika'nın yazarı — coğrafyanın babasıdır; tarihçilikte değil."
+      },
+      {
+        "id": "B",
+        "text": "Herodot",
+        "explanation": "Doğru — Bodrum (Halikarnas) doğumlu Herodot'un 'Historiai'si tarih yazıcılığının ilk büyük eseridir."
+      },
+      {
+        "id": "C",
+        "text": "Homeros",
+        "explanation": "Homeros destan ozanıdır; tarihçi değildir."
+      },
+      {
+        "id": "D",
+        "text": "Thukydides",
+        "explanation": "Thukydides, Peloponnesos Savaşı'nın 'bilimsel' tarihçisidir; Atinalıdır."
+      }
     ],
-    "correct": "A",
+    "correct": "B",
     "trick": "Babalar üçlüsü: tarih = Herodot (Bodrum), coğrafya = Strabon (Amasya), tıp = Hipokrat (Kos)."
   },
   {
@@ -533,10 +1125,26 @@
     "difficulty": 3,
     "stem": "'Geographika' adlı 17 kitaplık eseriyle antik dünyanın coğrafyasını anlatan Amasyalı bilgin aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Strabon", "explanation": "Doğru — MÖ 64 Amasya doğumlu Strabon, Anadolu kentleri hakkında birinci elden bilgiler bırakmıştır; rehberlerin atası sayılır." },
-      { "id": "B", "text": "Ptolemaios", "explanation": "Ptolemaios (Batlamyus), İskenderiyeli haritacı-astronomdur." },
-      { "id": "C", "text": "Pausanias", "explanation": "Pausanias, Yunanistan gezi rehberinin (Periegesis) yazarıdır — Anadolulu değildir." },
-      { "id": "D", "text": "Ksenophon", "explanation": "Ksenophon, 'Anabasis'in (Onbinlerin Dönüşü) yazarı asker-tarihçidir." }
+      {
+        "id": "A",
+        "text": "Strabon",
+        "explanation": "Doğru — MÖ 64 Amasya doğumlu Strabon, Anadolu kentleri hakkında birinci elden bilgiler bırakmıştır; rehberlerin atası sayılır."
+      },
+      {
+        "id": "B",
+        "text": "Ksenophon",
+        "explanation": "Ksenophon, 'Anabasis'in (Onbinlerin Dönüşü) yazarı asker-tarihçidir."
+      },
+      {
+        "id": "C",
+        "text": "Pausanias",
+        "explanation": "Pausanias, Yunanistan gezi rehberinin (Periegesis) yazarıdır — Anadolulu değildir."
+      },
+      {
+        "id": "D",
+        "text": "Ptolemaios",
+        "explanation": "Ptolemaios (Batlamyus), İskenderiyeli haritacı-astronomdur."
+      }
     ],
     "correct": "A"
   },
@@ -547,12 +1155,28 @@
     "difficulty": 3,
     "stem": "Aziz Pavlus'un ilk misyon yolculuğunda vaaz verdiği, Antalya yakınlarındaki antik kent aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Perge", "explanation": "Doğru — Pavlus ve Barnabas, Kıbrıs'tan sonra Perge'ye geçmiş, oradan Pisidya Antiokheia'sına ilerlemiştir; Perge bu nedenle Hristiyan hac rotasındadır." },
-      { "id": "B", "text": "Aspendos", "explanation": "Aspendos tiyatrosuyla ünlüdür; Pavlus anlatısında geçmez." },
-      { "id": "C", "text": "Termessos", "explanation": "Termessos, İskender'in bile almadığı dağ kentidir; misyon rotasında yoktur." },
-      { "id": "D", "text": "Olympos", "explanation": "Olympos, Likya kentidir; ilk yolculuk rotasında değildir." }
+      {
+        "id": "A",
+        "text": "Olympos",
+        "explanation": "Olympos, Likya kentidir; ilk yolculuk rotasında değildir."
+      },
+      {
+        "id": "B",
+        "text": "Perge",
+        "explanation": "Doğru — Pavlus ve Barnabas, Kıbrıs'tan sonra Perge'ye geçmiş, oradan Pisidya Antiokheia'sına ilerlemiştir; Perge bu nedenle Hristiyan hac rotasındadır."
+      },
+      {
+        "id": "C",
+        "text": "Termessos",
+        "explanation": "Termessos, İskender'in bile almadığı dağ kentidir; misyon rotasında yoktur."
+      },
+      {
+        "id": "D",
+        "text": "Aspendos",
+        "explanation": "Aspendos tiyatrosuyla ünlüdür; Pavlus anlatısında geçmez."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "roma-yunan-bizans-040",
@@ -561,10 +1185,26 @@
     "difficulty": 1,
     "stem": "Bizans İmparatorluğu hangi olayla sona ermiştir?",
     "choices": [
-      { "id": "A", "text": "1453'te II. Mehmed'in İstanbul'u fethi", "explanation": "Doğru — 29 Mayıs 1453'te kentin düşüşüyle bin yıllık Doğu Roma tarihi kapandı." },
-      { "id": "B", "text": "1204 Haçlı yağması", "explanation": "1204 ağır bir darbeydi ama Bizans 1261'de kenti geri aldı." },
-      { "id": "C", "text": "1071 Malazgirt Savaşı", "explanation": "Malazgirt Anadolu'yu açtı ama imparatorluk 382 yıl daha yaşadı." },
-      { "id": "D", "text": "476'da Odoaker'in Roma'yı alması", "explanation": "476, BATI Roma'nın sonudur." }
+      {
+        "id": "A",
+        "text": "1453'te II. Mehmed'in İstanbul'u fethi",
+        "explanation": "Doğru — 29 Mayıs 1453'te kentin düşüşüyle bin yıllık Doğu Roma tarihi kapandı."
+      },
+      {
+        "id": "B",
+        "text": "476'da Odoaker'in Roma'yı alması",
+        "explanation": "476, BATI Roma'nın sonudur."
+      },
+      {
+        "id": "C",
+        "text": "1204 Haçlı yağması",
+        "explanation": "1204 ağır bir darbeydi ama Bizans 1261'de kenti geri aldı."
+      },
+      {
+        "id": "D",
+        "text": "1071 Malazgirt Savaşı",
+        "explanation": "Malazgirt Anadolu'yu açtı ama imparatorluk 382 yıl daha yaşadı."
+      }
     ],
     "correct": "A"
   }

@@ -6,12 +6,28 @@
     "difficulty": 2,
     "stem": "Doğadaki her varlığın bir ruhu olduğuna inanan ilkel din biçimi aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Animizm", "explanation": "Doğru — anima (ruh) kökünden gelir; dağ, ağaç, ırmak gibi varlıklara ruh atfeder." },
-      { "id": "B", "text": "Totemizm", "explanation": "Totemizm, topluluğun kutsal hayvan/bitkiden türediği inancıdır." },
-      { "id": "C", "text": "Politeizm", "explanation": "Politeizm çok tanrıcılıktır; ruhçuluk değildir." },
-      { "id": "D", "text": "Panteizm", "explanation": "Panteizm, Tanrı ile evreni özdeş sayar." }
+      {
+        "id": "A",
+        "text": "Politeizm",
+        "explanation": "Politeizm çok tanrıcılıktır; ruhçuluk değildir."
+      },
+      {
+        "id": "B",
+        "text": "Panteizm",
+        "explanation": "Panteizm, Tanrı ile evreni özdeş sayar."
+      },
+      {
+        "id": "C",
+        "text": "Animizm",
+        "explanation": "Doğru — anima (ruh) kökünden gelir; dağ, ağaç, ırmak gibi varlıklara ruh atfeder."
+      },
+      {
+        "id": "D",
+        "text": "Totemizm",
+        "explanation": "Totemizm, topluluğun kutsal hayvan/bitkiden türediği inancıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "dinler-tarihi-002",
@@ -20,10 +36,26 @@
     "difficulty": 2,
     "stem": "Zerdüştlüğün kutsal kitabı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Avesta", "explanation": "Doğru — Ahura Mazda inancını ve Zerdüşt'ün öğretisini içerir; ateş kutsal simgedir." },
-      { "id": "B", "text": "Veda", "explanation": "Vedalar, Hinduizmin kutsal metinleridir." },
-      { "id": "C", "text": "Tripitaka", "explanation": "Tripitaka, Budizmin 'üç sepet' külliyatıdır." },
-      { "id": "D", "text": "Talmud", "explanation": "Talmud, Yahudiliğin yorum külliyatıdır." }
+      {
+        "id": "A",
+        "text": "Avesta",
+        "explanation": "Doğru — Ahura Mazda inancını ve Zerdüşt'ün öğretisini içerir; ateş kutsal simgedir."
+      },
+      {
+        "id": "B",
+        "text": "Tripitaka",
+        "explanation": "Tripitaka, Budizmin 'üç sepet' külliyatıdır."
+      },
+      {
+        "id": "C",
+        "text": "Talmud",
+        "explanation": "Talmud, Yahudiliğin yorum külliyatıdır."
+      },
+      {
+        "id": "D",
+        "text": "Veda",
+        "explanation": "Vedalar, Hinduizmin kutsal metinleridir."
+      }
     ],
     "correct": "A"
   },
@@ -34,10 +66,26 @@
     "difficulty": 2,
     "stem": "Hinduizm'deki toplumsal tabakalaşma sistemi aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kast", "explanation": "Doğru — Brahmanlardan dokunulmazlara uzanan, doğuştan gelen katı tabaka düzenidir." },
-      { "id": "B", "text": "Karma", "explanation": "Karma, amellerin sonraki yaşamı belirlemesi yasasıdır; tabaka sistemi değildir." },
-      { "id": "C", "text": "Nirvana", "explanation": "Nirvana, Budizmin kurtuluş hedefidir." },
-      { "id": "D", "text": "Moksa", "explanation": "Moksa, doğum-ölüm döngüsünden kurtuluştur." }
+      {
+        "id": "A",
+        "text": "Kast",
+        "explanation": "Doğru — Brahmanlardan dokunulmazlara uzanan, doğuştan gelen katı tabaka düzenidir."
+      },
+      {
+        "id": "B",
+        "text": "Moksa",
+        "explanation": "Moksa, doğum-ölüm döngüsünden kurtuluştur."
+      },
+      {
+        "id": "C",
+        "text": "Nirvana",
+        "explanation": "Nirvana, Budizmin kurtuluş hedefidir."
+      },
+      {
+        "id": "D",
+        "text": "Karma",
+        "explanation": "Karma, amellerin sonraki yaşamı belirlemesi yasasıdır; tabaka sistemi değildir."
+      }
     ],
     "correct": "A"
   },
@@ -48,12 +96,28 @@
     "difficulty": 2,
     "stem": "Budizm ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "choices": [
-      { "id": "A", "text": "Kast sistemini reddeder; hedefi nirvanaya ulaşmaktır", "explanation": "Doğru — Buda'nın öğretisi kast ve kurban düzenine tepki olarak doğdu; arzuların sönmesi (nirvana) esastır." },
-      { "id": "B", "text": "Kast sistemini temel alır", "explanation": "Kast, Hinduizm'e aittir; Budizm reddeder — en klasik ayrım sorusu." },
-      { "id": "C", "text": "Tek tanrılı bir ilahi dindir", "explanation": "Budizm'de yaratıcı tanrı öğretisi merkezi değildir; ilahi din kategorisinde sayılmaz." },
-      { "id": "D", "text": "Kutsal kitabı Avesta'dır", "explanation": "Avesta Zerdüştlüğündür; Budizminki Tripitaka'dır." }
+      {
+        "id": "A",
+        "text": "Tek tanrılı bir ilahi dindir",
+        "explanation": "Budizm'de yaratıcı tanrı öğretisi merkezi değildir; ilahi din kategorisinde sayılmaz."
+      },
+      {
+        "id": "B",
+        "text": "Kast sistemini temel alır",
+        "explanation": "Kast, Hinduizm'e aittir; Budizm reddeder — en klasik ayrım sorusu."
+      },
+      {
+        "id": "C",
+        "text": "Kast sistemini reddeder; hedefi nirvanaya ulaşmaktır",
+        "explanation": "Doğru — Buda'nın öğretisi kast ve kurban düzenine tepki olarak doğdu; arzuların sönmesi (nirvana) esastır."
+      },
+      {
+        "id": "D",
+        "text": "Kutsal kitabı Avesta'dır",
+        "explanation": "Avesta Zerdüştlüğündür; Budizminki Tripitaka'dır."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "dinler-tarihi-005",
@@ -62,12 +126,28 @@
     "difficulty": 1,
     "stem": "Budizmin kurucusu aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Siddhartha Gautama (Buda)", "explanation": "Doğru — MÖ 6. yüzyılda Kuzey Hindistan'da yaşayan prens, 'aydınlanmış' (Buda) unvanını aldı." },
-      { "id": "B", "text": "Konfüçyüs", "explanation": "Konfüçyüs, Çin ahlak öğretisinin kurucusudur." },
-      { "id": "C", "text": "Lao Tzu", "explanation": "Lao Tzu, Taoizmle anılır." },
-      { "id": "D", "text": "Zerdüşt", "explanation": "Zerdüşt, İran dininin peygamberidir." }
+      {
+        "id": "A",
+        "text": "Lao Tzu",
+        "explanation": "Lao Tzu, Taoizmle anılır."
+      },
+      {
+        "id": "B",
+        "text": "Zerdüşt",
+        "explanation": "Zerdüşt, İran dininin peygamberidir."
+      },
+      {
+        "id": "C",
+        "text": "Konfüçyüs",
+        "explanation": "Konfüçyüs, Çin ahlak öğretisinin kurucusudur."
+      },
+      {
+        "id": "D",
+        "text": "Siddhartha Gautama (Buda)",
+        "explanation": "Doğru — MÖ 6. yüzyılda Kuzey Hindistan'da yaşayan prens, 'aydınlanmış' (Buda) unvanını aldı."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "dinler-tarihi-006",
@@ -76,12 +156,28 @@
     "difficulty": 1,
     "stem": "Yahudilerin ibadethanesine verilen ad aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Sinagog (havra)", "explanation": "Doğru — din adamı haham, ibadet günü Şabat'tır." },
-      { "id": "B", "text": "Bazilika", "explanation": "Bazilika, kilise plan tipidir." },
-      { "id": "C", "text": "Cemevi", "explanation": "Cemevi, Alevi-Bektaşi ibadet mekânıdır." },
-      { "id": "D", "text": "Pagoda", "explanation": "Pagoda, Uzakdoğu tapınağıdır." }
+      {
+        "id": "A",
+        "text": "Cemevi",
+        "explanation": "Cemevi, Alevi-Bektaşi ibadet mekânıdır."
+      },
+      {
+        "id": "B",
+        "text": "Sinagog (havra)",
+        "explanation": "Doğru — din adamı haham, ibadet günü Şabat'tır."
+      },
+      {
+        "id": "C",
+        "text": "Bazilika",
+        "explanation": "Bazilika, kilise plan tipidir."
+      },
+      {
+        "id": "D",
+        "text": "Pagoda",
+        "explanation": "Pagoda, Uzakdoğu tapınağıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "dinler-tarihi-007",
@@ -90,12 +186,28 @@
     "difficulty": 2,
     "stem": "Yahudilikte İsrailoğullarının Mısır'dan çıkışını anan bayram aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Pesah (Hamursuz)", "explanation": "Doğru — çıkış sırasında hamurun mayalanacak vakti olmadığından mayasız ekmek (matsa) yenir." },
-      { "id": "B", "text": "Hanuka", "explanation": "Hanuka, tapınağın yeniden adanmasını kutlayan ışık bayramıdır." },
-      { "id": "C", "text": "Yom Kipur", "explanation": "Yom Kipur, kefaret ve oruç günüdür." },
-      { "id": "D", "text": "Roş Aşana", "explanation": "Roş Aşana, Yahudi yılbaşısıdır." }
+      {
+        "id": "A",
+        "text": "Hanuka",
+        "explanation": "Hanuka, tapınağın yeniden adanmasını kutlayan ışık bayramıdır."
+      },
+      {
+        "id": "B",
+        "text": "Roş Aşana",
+        "explanation": "Roş Aşana, Yahudi yılbaşısıdır."
+      },
+      {
+        "id": "C",
+        "text": "Yom Kipur",
+        "explanation": "Yom Kipur, kefaret ve oruç günüdür."
+      },
+      {
+        "id": "D",
+        "text": "Pesah (Hamursuz)",
+        "explanation": "Doğru — çıkış sırasında hamurun mayalanacak vakti olmadığından mayasız ekmek (matsa) yenir."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "dinler-tarihi-008",
@@ -104,12 +216,28 @@
     "difficulty": 3,
     "stem": "Yahudiliğin simgesi olan yedi kollu şamdanın adı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Menora", "explanation": "Doğru — Süleyman Tapınağı'ndaki yedi kollu şamdan; İsrail devlet armasında da yer alır." },
-      { "id": "B", "text": "Hanukiya", "explanation": "Hanukiya, Hanuka bayramında yakılan DOKUZ kollu şamdandır — sayı tuzağı." },
-      { "id": "C", "text": "Mezuza", "explanation": "Mezuza, kapı pervazına asılan dua rulosudur." },
-      { "id": "D", "text": "Kipa", "explanation": "Kipa, başa takılan takkedir." }
+      {
+        "id": "A",
+        "text": "Mezuza",
+        "explanation": "Mezuza, kapı pervazına asılan dua rulosudur."
+      },
+      {
+        "id": "B",
+        "text": "Hanukiya",
+        "explanation": "Hanukiya, Hanuka bayramında yakılan DOKUZ kollu şamdandır — sayı tuzağı."
+      },
+      {
+        "id": "C",
+        "text": "Kipa",
+        "explanation": "Kipa, başa takılan takkedir."
+      },
+      {
+        "id": "D",
+        "text": "Menora",
+        "explanation": "Doğru — Süleyman Tapınağı'ndaki yedi kollu şamdan; İsrail devlet armasında da yer alır."
+      }
     ],
-    "correct": "A",
+    "correct": "D",
     "trick": "Menora 7, hanukiya 9 kollu. 'Kaç kollu' sorusu iki şamdanı ayırt ettirir."
   },
   {
@@ -119,10 +247,26 @@
     "difficulty": 2,
     "stem": "1492'de İspanya'dan sürülüp Osmanlı'ya kabul edilen Yahudi topluluğu ve dili aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Sefaradlar — Ladino", "explanation": "Doğru — II. Bayezid döneminde kabul edildiler; İstanbul, İzmir, Selanik'e yerleştiler." },
-      { "id": "B", "text": "Aşkenazlar — Yidiş", "explanation": "Aşkenazlar Orta-Doğu Avrupa Yahudileridir; 1492 göçü Sefarad'dır." },
-      { "id": "C", "text": "Karaylar — İbranice", "explanation": "Karaylar, Talmud'u reddeden ayrı bir gelenektir." },
-      { "id": "D", "text": "Samiriler — Aramice", "explanation": "Samiriler, Filistin'deki kadim topluluktur." }
+      {
+        "id": "A",
+        "text": "Sefaradlar — Ladino",
+        "explanation": "Doğru — II. Bayezid döneminde kabul edildiler; İstanbul, İzmir, Selanik'e yerleştiler."
+      },
+      {
+        "id": "B",
+        "text": "Aşkenazlar — Yidiş",
+        "explanation": "Aşkenazlar Orta-Doğu Avrupa Yahudileridir; 1492 göçü Sefarad'dır."
+      },
+      {
+        "id": "C",
+        "text": "Karaylar — İbranice",
+        "explanation": "Karaylar, Talmud'u reddeden ayrı bir gelenektir."
+      },
+      {
+        "id": "D",
+        "text": "Samiriler — Aramice",
+        "explanation": "Samiriler, Filistin'deki kadim topluluktur."
+      }
     ],
     "correct": "A"
   },
@@ -133,12 +277,28 @@
     "difficulty": 1,
     "stem": "Dört kanonik İncil'in yazarları aşağıdakilerden hangisinde doğru verilmiştir?",
     "choices": [
-      { "id": "A", "text": "Matta, Markos, Luka, Yuhanna", "explanation": "Doğru — Yeni Ahit'in ilk dört kitabıdır." },
-      { "id": "B", "text": "Matta, Markos, Luka, Pavlus", "explanation": "Pavlus İncil yazarı değildir; mektupların (epistula) yazarıdır — klasik tuzak." },
-      { "id": "C", "text": "Petrus, Yakup, Yuhanna, Andreas", "explanation": "Bunlar havarilerdir ama dördü de İncil yazarı değildir." },
-      { "id": "D", "text": "Matta, Barnabas, Luka, Markos", "explanation": "Barnabas İncili kanonik kabul edilmez." }
+      {
+        "id": "A",
+        "text": "Matta, Barnabas, Luka, Markos",
+        "explanation": "Barnabas İncili kanonik kabul edilmez."
+      },
+      {
+        "id": "B",
+        "text": "Matta, Markos, Luka, Pavlus",
+        "explanation": "Pavlus İncil yazarı değildir; mektupların (epistula) yazarıdır — klasik tuzak."
+      },
+      {
+        "id": "C",
+        "text": "Petrus, Yakup, Yuhanna, Andreas",
+        "explanation": "Bunlar havarilerdir ama dördü de İncil yazarı değildir."
+      },
+      {
+        "id": "D",
+        "text": "Matta, Markos, Luka, Yuhanna",
+        "explanation": "Doğru — Yeni Ahit'in ilk dört kitabıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "dinler-tarihi-011",
@@ -147,12 +307,28 @@
     "difficulty": 2,
     "stem": "Hristiyanlığın ilk ekümenik konsili nerede ve hangi yıl toplanmıştır?",
     "choices": [
-      { "id": "A", "text": "İznik — 325", "explanation": "Doğru — Konstantin'in çağrısıyla toplandı; Arius öğretisi reddedildi, İznik inanç bildirgesi kabul edildi." },
-      { "id": "B", "text": "Kadıköy — 451", "explanation": "Kadıköy dördüncü konsildir; monofizit ayrılığıyla sonuçlandı." },
-      { "id": "C", "text": "Efes — 431", "explanation": "Efes üçüncü konsildir (Theotokos kararı)." },
-      { "id": "D", "text": "Roma — 313", "explanation": "313 Milano Fermanı'nın yılıdır; konsil değildir." }
+      {
+        "id": "A",
+        "text": "Efes — 431",
+        "explanation": "Efes üçüncü konsildir (Theotokos kararı)."
+      },
+      {
+        "id": "B",
+        "text": "Kadıköy — 451",
+        "explanation": "Kadıköy dördüncü konsildir; monofizit ayrılığıyla sonuçlandı."
+      },
+      {
+        "id": "C",
+        "text": "İznik — 325",
+        "explanation": "Doğru — Konstantin'in çağrısıyla toplandı; Arius öğretisi reddedildi, İznik inanç bildirgesi kabul edildi."
+      },
+      {
+        "id": "D",
+        "text": "Roma — 313",
+        "explanation": "313 Milano Fermanı'nın yılıdır; konsil değildir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "dinler-tarihi-012",
@@ -161,12 +337,28 @@
     "difficulty": 3,
     "stem": "Ermeni ve Süryani kiliselerinin ana Hristiyan gövdesinden ayrılmasına yol açan konsil aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kadıköy Konsili (451)", "explanation": "Doğru — İsa'nın tabiatı (monofizitizm) tartışmasında Kadıköy kararlarını reddeden bu kiliseler 'Oryantal Ortodoks' ailesini oluşturdu." },
-      { "id": "B", "text": "İznik Konsili (325)", "explanation": "İznik, Arius tartışmasıyla ilgilidir." },
-      { "id": "C", "text": "İstanbul Konsili (381)", "explanation": "381, inanç bildirgesini genişletmiştir; ayrılık yaratmamıştır." },
-      { "id": "D", "text": "II. İznik Konsili (787)", "explanation": "787, ikona tartışmasını çözmüştür." }
+      {
+        "id": "A",
+        "text": "II. İznik Konsili (787)",
+        "explanation": "787, ikona tartışmasını çözmüştür."
+      },
+      {
+        "id": "B",
+        "text": "İstanbul Konsili (381)",
+        "explanation": "381, inanç bildirgesini genişletmiştir; ayrılık yaratmamıştır."
+      },
+      {
+        "id": "C",
+        "text": "Kadıköy Konsili (451)",
+        "explanation": "Doğru — İsa'nın tabiatı (monofizitizm) tartışmasında Kadıköy kararlarını reddeden bu kiliseler 'Oryantal Ortodoks' ailesini oluşturdu."
+      },
+      {
+        "id": "D",
+        "text": "İznik Konsili (325)",
+        "explanation": "İznik, Arius tartışmasıyla ilgilidir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "dinler-tarihi-013",
@@ -175,12 +367,28 @@
     "difficulty": 2,
     "stem": "Hristiyanlığın en büyük bayramı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Paskalya", "explanation": "Doğru — İsa'nın dirilişini kutlar; Hristiyan takviminin merkezidir. Noel yaygın bilinse de 'en büyük' Paskalya'dır." },
-      { "id": "B", "text": "Noel", "explanation": "Noel doğumu kutlar; teolojik olarak Paskalya'dan sonra gelir — bilinirlik tuzağı." },
-      { "id": "C", "text": "Epifani", "explanation": "Epifani, İsa'nın tanrısallığının açığa çıkışını kutlar." },
-      { "id": "D", "text": "Pentekost", "explanation": "Pentekost, Kutsal Ruh'un inişini kutlar." }
+      {
+        "id": "A",
+        "text": "Noel",
+        "explanation": "Noel doğumu kutlar; teolojik olarak Paskalya'dan sonra gelir — bilinirlik tuzağı."
+      },
+      {
+        "id": "B",
+        "text": "Epifani",
+        "explanation": "Epifani, İsa'nın tanrısallığının açığa çıkışını kutlar."
+      },
+      {
+        "id": "C",
+        "text": "Pentekost",
+        "explanation": "Pentekost, Kutsal Ruh'un inişini kutlar."
+      },
+      {
+        "id": "D",
+        "text": "Paskalya",
+        "explanation": "Doğru — İsa'nın dirilişini kutlar; Hristiyan takviminin merkezidir. Noel yaygın bilinse de 'en büyük' Paskalya'dır."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "dinler-tarihi-014",
@@ -189,12 +397,28 @@
     "difficulty": 2,
     "stem": "1517'de Martin Luther'in başlattığı hareketle doğan Hristiyan mezhebi aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Protestanlık", "explanation": "Doğru — endüljans satışına tepkiyle başlayan Reform, Papa otoritesini reddetti." },
-      { "id": "B", "text": "Ortodoksluk", "explanation": "Ortodoksluk, 1054 ayrılığıyla şekillenmiştir." },
-      { "id": "C", "text": "Katoliklik", "explanation": "Katoliklik, Reform'un karşısındaki Roma geleneğidir." },
-      { "id": "D", "text": "Monofizitizm", "explanation": "Monofizit tartışma 451'e aittir." }
+      {
+        "id": "A",
+        "text": "Monofizitizm",
+        "explanation": "Monofizit tartışma 451'e aittir."
+      },
+      {
+        "id": "B",
+        "text": "Katoliklik",
+        "explanation": "Katoliklik, Reform'un karşısındaki Roma geleneğidir."
+      },
+      {
+        "id": "C",
+        "text": "Ortodoksluk",
+        "explanation": "Ortodoksluk, 1054 ayrılığıyla şekillenmiştir."
+      },
+      {
+        "id": "D",
+        "text": "Protestanlık",
+        "explanation": "Doğru — endüljans satışına tepkiyle başlayan Reform, Papa otoritesini reddetti."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "dinler-tarihi-015",
@@ -203,12 +427,28 @@
     "difficulty": 1,
     "stem": "Hicri takvimin başlangıcı kabul edilen olay aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "622'deki Hicret (Mekke'den Medine'ye göç)", "explanation": "Doğru — Hz. Ömer döneminde takvim başlangıcı olarak kabul edildi." },
-      { "id": "B", "text": "İlk vahyin gelişi", "explanation": "İlk vahiy 610'dadır; takvim başlangıcı değildir." },
-      { "id": "C", "text": "Mekke'nin fethi", "explanation": "Mekke'nin fethi 630'dadır." },
-      { "id": "D", "text": "Veda Haccı", "explanation": "Veda Haccı 632'dedir." }
+      {
+        "id": "A",
+        "text": "İlk vahyin gelişi",
+        "explanation": "İlk vahiy 610'dadır; takvim başlangıcı değildir."
+      },
+      {
+        "id": "B",
+        "text": "Mekke'nin fethi",
+        "explanation": "Mekke'nin fethi 630'dadır."
+      },
+      {
+        "id": "C",
+        "text": "622'deki Hicret (Mekke'den Medine'ye göç)",
+        "explanation": "Doğru — Hz. Ömer döneminde takvim başlangıcı olarak kabul edildi."
+      },
+      {
+        "id": "D",
+        "text": "Veda Haccı",
+        "explanation": "Veda Haccı 632'dedir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "dinler-tarihi-016",
@@ -217,12 +457,28 @@
     "difficulty": 2,
     "stem": "Camide kıble yönünü gösteren mimari öğe aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Mihrap", "explanation": "Doğru — kıble duvarındaki niş; imam namazı mihrabın önünde kıldırır." },
-      { "id": "B", "text": "Minber", "explanation": "Minber, Cuma hutbesinin okunduğu merdivenli kürsüdür — mihrapla en çok karıştırılan öğe." },
-      { "id": "C", "text": "Mahfil", "explanation": "Mahfil, özel bölümdür (hünkâr/müezzin mahfili)." },
-      { "id": "D", "text": "Şadırvan", "explanation": "Şadırvan, avludaki abdest çeşmesidir." }
+      {
+        "id": "A",
+        "text": "Minber",
+        "explanation": "Minber, Cuma hutbesinin okunduğu merdivenli kürsüdür — mihrapla en çok karıştırılan öğe."
+      },
+      {
+        "id": "B",
+        "text": "Mihrap",
+        "explanation": "Doğru — kıble duvarındaki niş; imam namazı mihrabın önünde kıldırır."
+      },
+      {
+        "id": "C",
+        "text": "Şadırvan",
+        "explanation": "Şadırvan, avludaki abdest çeşmesidir."
+      },
+      {
+        "id": "D",
+        "text": "Mahfil",
+        "explanation": "Mahfil, özel bölümdür (hünkâr/müezzin mahfili)."
+      }
     ],
-    "correct": "A",
+    "correct": "B",
     "trick": "Mihrap = kıble nişi; minber = hutbe kürsüsü. Rehberlik sınavının değişmez sorusu."
   },
   {
@@ -232,12 +488,28 @@
     "difficulty": 2,
     "stem": "Cuma hutbesinin okunduğu merdivenli kürsü aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Minber", "explanation": "Doğru — hatip hutbeyi minberde okur; kündekari minberler Selçuklu-Osmanlı ahşap sanatının şaheserleridir." },
-      { "id": "B", "text": "Vaaz kürsüsü", "explanation": "Vaaz kürsüsü hutbe için değil, vaaz için kullanılır." },
-      { "id": "C", "text": "Mihrap", "explanation": "Mihrap, kıble nişidir." },
-      { "id": "D", "text": "Şerefe", "explanation": "Şerefe, minarenin balkonudur." }
+      {
+        "id": "A",
+        "text": "Şerefe",
+        "explanation": "Şerefe, minarenin balkonudur."
+      },
+      {
+        "id": "B",
+        "text": "Mihrap",
+        "explanation": "Mihrap, kıble nişidir."
+      },
+      {
+        "id": "C",
+        "text": "Vaaz kürsüsü",
+        "explanation": "Vaaz kürsüsü hutbe için değil, vaaz için kullanılır."
+      },
+      {
+        "id": "D",
+        "text": "Minber",
+        "explanation": "Doğru — hatip hutbeyi minberde okur; kündekari minberler Selçuklu-Osmanlı ahşap sanatının şaheserleridir."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "dinler-tarihi-018",
@@ -246,10 +518,26 @@
     "difficulty": 2,
     "stem": "Türkiye'de en yaygın olan Sünni fıkıh mezhebi aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Hanefilik", "explanation": "Doğru — İmam-ı Azam Ebu Hanife'nin okulu; Türkler İslam'ı büyük ölçüde bu yorum üzerinden benimsedi." },
-      { "id": "B", "text": "Şafiilik", "explanation": "Şafiilik, Güneydoğu'da yaygındır ama ülke genelinde Hanefilik öndedir." },
-      { "id": "C", "text": "Malikilik", "explanation": "Malikilik, Kuzey Afrika'da yaygındır." },
-      { "id": "D", "text": "Hanbelilik", "explanation": "Hanbelilik, Arap Yarımadası'nda yaygındır." }
+      {
+        "id": "A",
+        "text": "Hanefilik",
+        "explanation": "Doğru — İmam-ı Azam Ebu Hanife'nin okulu; Türkler İslam'ı büyük ölçüde bu yorum üzerinden benimsedi."
+      },
+      {
+        "id": "B",
+        "text": "Malikilik",
+        "explanation": "Malikilik, Kuzey Afrika'da yaygındır."
+      },
+      {
+        "id": "C",
+        "text": "Hanbelilik",
+        "explanation": "Hanbelilik, Arap Yarımadası'nda yaygındır."
+      },
+      {
+        "id": "D",
+        "text": "Şafiilik",
+        "explanation": "Şafiilik, Güneydoğu'da yaygındır ama ülke genelinde Hanefilik öndedir."
+      }
     ],
     "correct": "A"
   },
@@ -260,10 +548,26 @@
     "difficulty": 2,
     "stem": "2008 yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne giren Mevlevi ritüeli aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Sema töreni", "explanation": "Doğru — semazenlerin dönüşü evrenin dönüşünü simgeler; tennure, sikke ve hırka sembolik kıyafetlerdir." },
-      { "id": "B", "text": "Semah", "explanation": "Semah, Alevi-Bektaşi ritüelidir ve 2010'da listeye girmiştir — yıl ve gelenek farkı." },
-      { "id": "C", "text": "Zikir", "explanation": "Zikir genel tasavvuf pratiğidir; UNESCO kaydı sema içindir." },
-      { "id": "D", "text": "Şeb-i Arus", "explanation": "Şeb-i Arus anma törenidir; listeye giren ritüel semadır." }
+      {
+        "id": "A",
+        "text": "Sema töreni",
+        "explanation": "Doğru — semazenlerin dönüşü evrenin dönüşünü simgeler; tennure, sikke ve hırka sembolik kıyafetlerdir."
+      },
+      {
+        "id": "B",
+        "text": "Şeb-i Arus",
+        "explanation": "Şeb-i Arus anma törenidir; listeye giren ritüel semadır."
+      },
+      {
+        "id": "C",
+        "text": "Zikir",
+        "explanation": "Zikir genel tasavvuf pratiğidir; UNESCO kaydı sema içindir."
+      },
+      {
+        "id": "D",
+        "text": "Semah",
+        "explanation": "Semah, Alevi-Bektaşi ritüelidir ve 2010'da listeye girmiştir — yıl ve gelenek farkı."
+      }
     ],
     "correct": "A"
   },
@@ -274,12 +578,28 @@
     "difficulty": 2,
     "stem": "Alevi-Bektaşi geleneğinde ibadetin yapıldığı mekân ve müzikli ritüel aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Cemevi — cem ve semah", "explanation": "Doğru — bağlama eşliğinde deyişler söylenir; semah 2010'da UNESCO SOKÜM listesine girmiştir." },
-      { "id": "B", "text": "Tekke — sema", "explanation": "Sema, Mevlevi ritüelidir." },
-      { "id": "C", "text": "Cami — mukabele", "explanation": "Mukabele, Ramazan Kur'an okuma geleneğidir." },
-      { "id": "D", "text": "Dergâh — ayin-i şerif", "explanation": "Ayin-i şerif, Mevlevi müzik formudur." }
+      {
+        "id": "A",
+        "text": "Dergâh — ayin-i şerif",
+        "explanation": "Ayin-i şerif, Mevlevi müzik formudur."
+      },
+      {
+        "id": "B",
+        "text": "Cami — mukabele",
+        "explanation": "Mukabele, Ramazan Kur'an okuma geleneğidir."
+      },
+      {
+        "id": "C",
+        "text": "Tekke — sema",
+        "explanation": "Sema, Mevlevi ritüelidir."
+      },
+      {
+        "id": "D",
+        "text": "Cemevi — cem ve semah",
+        "explanation": "Doğru — bağlama eşliğinde deyişler söylenir; semah 2010'da UNESCO SOKÜM listesine girmiştir."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "dinler-tarihi-021",
@@ -288,12 +608,28 @@
     "difficulty": 2,
     "stem": "Papaların da ziyaret ettiği, Vatikan'ın hac yeri statüsü verdiği Meryem Ana Evi hangi antik kentin yakınındadır?",
     "choices": [
-      { "id": "A", "text": "Efes", "explanation": "Doğru — Bülbüldağı'ndaki ev, Aziz Yuhanna'nın Meryem'i Efes'e getirdiği inancına dayanır." },
-      { "id": "B", "text": "Antakya", "explanation": "Antakya'nın hac mekânı St. Pierre'dir." },
-      { "id": "C", "text": "Myra", "explanation": "Myra (Demre), Aziz Nikolaos'la anılır." },
-      { "id": "D", "text": "İznik", "explanation": "İznik, konsilleriyle önemlidir." }
+      {
+        "id": "A",
+        "text": "Myra",
+        "explanation": "Myra (Demre), Aziz Nikolaos'la anılır."
+      },
+      {
+        "id": "B",
+        "text": "Antakya",
+        "explanation": "Antakya'nın hac mekânı St. Pierre'dir."
+      },
+      {
+        "id": "C",
+        "text": "Efes",
+        "explanation": "Doğru — Bülbüldağı'ndaki ev, Aziz Yuhanna'nın Meryem'i Efes'e getirdiği inancına dayanır."
+      },
+      {
+        "id": "D",
+        "text": "İznik",
+        "explanation": "İznik, konsilleriyle önemlidir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "dinler-tarihi-022",
@@ -302,12 +638,28 @@
     "difficulty": 2,
     "stem": "MS 397'de kurulan, dünyanın en eski faal manastırlarından Mor Gabriel hangi ildedir?",
     "choices": [
-      { "id": "A", "text": "Mardin", "explanation": "Doğru — Midyat yakınındaki Mor Gabriel, Süryani Kadim geleneğinin yaşayan merkezidir; Deyrulzafaran ile birlikte anılır." },
-      { "id": "B", "text": "Hatay", "explanation": "Hatay'ın simgesi St. Pierre Mağara Kilisesi'dir." },
-      { "id": "C", "text": "Trabzon", "explanation": "Trabzon'un manastırı Sümela'dır (Rum Ortodoks geleneği)." },
-      { "id": "D", "text": "Nevşehir", "explanation": "Nevşehir, kaya kiliseleri ve Hacıbektaş dergâhıyla bilinir." }
+      {
+        "id": "A",
+        "text": "Hatay",
+        "explanation": "Hatay'ın simgesi St. Pierre Mağara Kilisesi'dir."
+      },
+      {
+        "id": "B",
+        "text": "Mardin",
+        "explanation": "Doğru — Midyat yakınındaki Mor Gabriel, Süryani Kadim geleneğinin yaşayan merkezidir; Deyrulzafaran ile birlikte anılır."
+      },
+      {
+        "id": "C",
+        "text": "Nevşehir",
+        "explanation": "Nevşehir, kaya kiliseleri ve Hacıbektaş dergâhıyla bilinir."
+      },
+      {
+        "id": "D",
+        "text": "Trabzon",
+        "explanation": "Trabzon'un manastırı Sümela'dır (Rum Ortodoks geleneği)."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "dinler-tarihi-023",
@@ -316,12 +668,28 @@
     "difficulty": 2,
     "stem": "Mevlana'nın vuslat yıl dönümünde Konya'da düzenlenen anma törenlerinin adı ve tarihi aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Şeb-i Arus — 17 Aralık", "explanation": "Doğru — 'düğün gecesi' anlamındaki törenler her yıl aralık ayında yüz binlerce ziyaretçi çeker." },
-      { "id": "B", "text": "Nevruz — 21 Mart", "explanation": "Nevruz, bahar bayramıdır." },
-      { "id": "C", "text": "Hıdırellez — 6 Mayıs", "explanation": "Hıdırellez, halk takviminin yaz başlangıcıdır." },
-      { "id": "D", "text": "Aşure Günü — Muharrem 10", "explanation": "Aşure, Muharrem ayının matем ve paylaşım günüdür." }
+      {
+        "id": "A",
+        "text": "Aşure Günü — Muharrem 10",
+        "explanation": "Aşure, Muharrem ayının matем ve paylaşım günüdür."
+      },
+      {
+        "id": "B",
+        "text": "Nevruz — 21 Mart",
+        "explanation": "Nevruz, bahar bayramıdır."
+      },
+      {
+        "id": "C",
+        "text": "Şeb-i Arus — 17 Aralık",
+        "explanation": "Doğru — 'düğün gecesi' anlamındaki törenler her yıl aralık ayında yüz binlerce ziyaretçi çeker."
+      },
+      {
+        "id": "D",
+        "text": "Hıdırellez — 6 Mayıs",
+        "explanation": "Hıdırellez, halk takviminin yaz başlangıcıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "dinler-tarihi-024",
@@ -330,12 +698,28 @@
     "difficulty": 2,
     "stem": "Yahudilik, Hristiyanlık ve İslam'ın haftalık toplu ibadet günleri sırasıyla aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Cumartesi (Şabat) — Pazar — Cuma", "explanation": "Doğru — üç dinin ibadet günleri rehberin tur planlamasında da kritiktir." },
-      { "id": "B", "text": "Cuma — Cumartesi — Pazar", "explanation": "Sıra tersine karışmış; Cuma İslam'ındır." },
-      { "id": "C", "text": "Pazar — Cumartesi — Cuma", "explanation": "Pazar Hristiyanlığın, Şabat Yahudiliğindir." },
-      { "id": "D", "text": "Cumartesi — Cuma — Pazar", "explanation": "Hristiyan günü Pazar'dır; sıralama bozuk." }
+      {
+        "id": "A",
+        "text": "Pazar — Cumartesi — Cuma",
+        "explanation": "Pazar Hristiyanlığın, Şabat Yahudiliğindir."
+      },
+      {
+        "id": "B",
+        "text": "Cumartesi (Şabat) — Pazar — Cuma",
+        "explanation": "Doğru — üç dinin ibadet günleri rehberin tur planlamasında da kritiktir."
+      },
+      {
+        "id": "C",
+        "text": "Cuma — Cumartesi — Pazar",
+        "explanation": "Sıra tersine karışmış; Cuma İslam'ındır."
+      },
+      {
+        "id": "D",
+        "text": "Cumartesi — Cuma — Pazar",
+        "explanation": "Hristiyan günü Pazar'dır; sıralama bozuk."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "dinler-tarihi-025",
@@ -344,12 +728,28 @@
     "difficulty": 3,
     "stem": "Efes Konsili'nde (431) Meryem'e verilen ve 'Tanrı doğuran' anlamına gelen unvan aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Theotokos", "explanation": "Doğru — bu karar Meryem kültünü güçlendirdi; konsilin Efes'te toplanması kentin Meryem geleneğiyle bağlantılıdır." },
-      { "id": "B", "text": "Panagia", "explanation": "Panagia ('tamamen kutsal') yaygın bir sıfattır ama konsil kararı Theotokos'tur." },
-      { "id": "C", "text": "Madonna", "explanation": "Madonna, İtalyanca 'hanımefendi'den gelen sanat terimidir." },
-      { "id": "D", "text": "Regina Coeli", "explanation": "'Göklerin Kraliçesi' Latin ilahisidir; konsil unvanı değildir." }
+      {
+        "id": "A",
+        "text": "Panagia",
+        "explanation": "Panagia ('tamamen kutsal') yaygın bir sıfattır ama konsil kararı Theotokos'tur."
+      },
+      {
+        "id": "B",
+        "text": "Theotokos",
+        "explanation": "Doğru — bu karar Meryem kültünü güçlendirdi; konsilin Efes'te toplanması kentin Meryem geleneğiyle bağlantılıdır."
+      },
+      {
+        "id": "C",
+        "text": "Regina Coeli",
+        "explanation": "'Göklerin Kraliçesi' Latin ilahisidir; konsil unvanı değildir."
+      },
+      {
+        "id": "D",
+        "text": "Madonna",
+        "explanation": "Madonna, İtalyanca 'hanımefendi'den gelen sanat terimidir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "dinler-tarihi-026",
@@ -358,10 +758,26 @@
     "difficulty": 2,
     "stem": "Aşağıdakilerden hangisi İslam'ın beş şartından biri DEĞİLDİR?",
     "choices": [
-      { "id": "A", "text": "Kurban kesmek", "explanation": "Doğru cevap bu — kurban vacip/sünnet kabul edilir ama beş şarttan değildir; beş şart: şehadet, namaz, oruç, zekât, hac." },
-      { "id": "B", "text": "Namaz kılmak", "explanation": "Namaz beş şarttandır." },
-      { "id": "C", "text": "Zekât vermek", "explanation": "Zekât beş şarttandır." },
-      { "id": "D", "text": "Hacca gitmek", "explanation": "Hac (gücü yetene) beş şarttandır." }
+      {
+        "id": "A",
+        "text": "Kurban kesmek",
+        "explanation": "Doğru cevap bu — kurban vacip/sünnet kabul edilir ama beş şarttan değildir; beş şart: şehadet, namaz, oruç, zekât, hac."
+      },
+      {
+        "id": "B",
+        "text": "Zekât vermek",
+        "explanation": "Zekât beş şarttandır."
+      },
+      {
+        "id": "C",
+        "text": "Namaz kılmak",
+        "explanation": "Namaz beş şarttandır."
+      },
+      {
+        "id": "D",
+        "text": "Hacca gitmek",
+        "explanation": "Hac (gücü yetene) beş şarttandır."
+      }
     ],
     "correct": "A"
   },
@@ -372,12 +788,28 @@
     "difficulty": 3,
     "stem": "Tek tanrı inancını (Ahura Mazda) merkeze almasına rağmen iyilik-kötülük ikiliğine dayandığı için düalist sayılan din aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Zerdüştlük", "explanation": "Doğru — Ahura Mazda'ya karşı kötülük ilkesi Angra Mainyu (Ehrimen) durur; bu ikilik düalizm tartışmasının kaynağıdır." },
-      { "id": "B", "text": "Yahudilik", "explanation": "Yahudilik katı monoteizmdir; düalist yapı içermez." },
-      { "id": "C", "text": "Budizm", "explanation": "Budizm'de yaratıcı tanrı merkezi kavram değildir." },
-      { "id": "D", "text": "Şintoizm", "explanation": "Şintoizm çok sayıda kami içeren bir doğa dinidir." }
+      {
+        "id": "A",
+        "text": "Yahudilik",
+        "explanation": "Yahudilik katı monoteizmdir; düalist yapı içermez."
+      },
+      {
+        "id": "B",
+        "text": "Zerdüştlük",
+        "explanation": "Doğru — Ahura Mazda'ya karşı kötülük ilkesi Angra Mainyu (Ehrimen) durur; bu ikilik düalizm tartışmasının kaynağıdır."
+      },
+      {
+        "id": "C",
+        "text": "Budizm",
+        "explanation": "Budizm'de yaratıcı tanrı merkezi kavram değildir."
+      },
+      {
+        "id": "D",
+        "text": "Şintoizm",
+        "explanation": "Şintoizm çok sayıda kami içeren bir doğa dinidir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "dinler-tarihi-028",
@@ -386,12 +818,28 @@
     "difficulty": 2,
     "stem": "Hz. İbrahim'in ateşe atılışı efsanesiyle özdeşleşen ve 'peygamberler şehri' diye anılan inanç turizmi merkezi aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Şanlıurfa", "explanation": "Doğru — Balıklıgöl (Halil-ür Rahman) ve Ayn Zeliha bu efsaneye dayanır; Hz. Eyyub makamı da Urfa'dadır." },
-      { "id": "B", "text": "Mardin", "explanation": "Mardin, Süryani manastırlarıyla ünlüdür." },
-      { "id": "C", "text": "Konya", "explanation": "Konya, Mevlana'yla özdeştir." },
-      { "id": "D", "text": "Hatay", "explanation": "Hatay, ilk kiliselerle ve hoşgörü kültürüyle anılır." }
+      {
+        "id": "A",
+        "text": "Konya",
+        "explanation": "Konya, Mevlana'yla özdeştir."
+      },
+      {
+        "id": "B",
+        "text": "Şanlıurfa",
+        "explanation": "Doğru — Balıklıgöl (Halil-ür Rahman) ve Ayn Zeliha bu efsaneye dayanır; Hz. Eyyub makamı da Urfa'dadır."
+      },
+      {
+        "id": "C",
+        "text": "Mardin",
+        "explanation": "Mardin, Süryani manastırlarıyla ünlüdür."
+      },
+      {
+        "id": "D",
+        "text": "Hatay",
+        "explanation": "Hatay, ilk kiliselerle ve hoşgörü kültürüyle anılır."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "dinler-tarihi-029",
@@ -400,10 +848,26 @@
     "difficulty": 3,
     "stem": "Kapadokya ile özdeşleşen, 4. yüzyılda yaşamış 'Kapadokyalı Babalar'ın en tanınmışı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Aziz Basil (Büyük Vasil)", "explanation": "Doğru — Kayseri (Caesarea) piskoposu Basil, manastır kurallarının babasıdır; kardeşi Nissalı Gregor ve arkadaşı Nazianzlı Gregor'la üçlüyü oluşturur." },
-      { "id": "B", "text": "Aziz Nikolaos", "explanation": "Nikolaos, Likya'nın (Myra) azizidir." },
-      { "id": "C", "text": "Aziz Pavlus", "explanation": "Pavlus, 1. yüzyıl havarisidir." },
-      { "id": "D", "text": "Aziz Georgios", "explanation": "Georgios, ejderha efsanesiyle anılan askerdir." }
+      {
+        "id": "A",
+        "text": "Aziz Basil (Büyük Vasil)",
+        "explanation": "Doğru — Kayseri (Caesarea) piskoposu Basil, manastır kurallarının babasıdır; kardeşi Nissalı Gregor ve arkadaşı Nazianzlı Gregor'la üçlüyü oluşturur."
+      },
+      {
+        "id": "B",
+        "text": "Aziz Pavlus",
+        "explanation": "Pavlus, 1. yüzyıl havarisidir."
+      },
+      {
+        "id": "C",
+        "text": "Aziz Nikolaos",
+        "explanation": "Nikolaos, Likya'nın (Myra) azizidir."
+      },
+      {
+        "id": "D",
+        "text": "Aziz Georgios",
+        "explanation": "Georgios, ejderha efsanesiyle anılan askerdir."
+      }
     ],
     "correct": "A"
   },
@@ -414,12 +878,28 @@
     "difficulty": 2,
     "stem": "Aşağıdaki din-kutsal metin eşleştirmelerinden hangisi yanlıştır?",
     "choices": [
-      { "id": "A", "text": "Hinduizm — Tripitaka", "explanation": "Doğru cevap bu (yanlış eşleştirme) — Tripitaka Budizmindir; Hinduizminki Vedalar'dır." },
-      { "id": "B", "text": "Zerdüştlük — Avesta", "explanation": "Doğru eşleştirmedir." },
-      { "id": "C", "text": "Yahudilik — Tanah", "explanation": "Doğru eşleştirmedir." },
-      { "id": "D", "text": "İslam — Kur'an", "explanation": "Doğru eşleştirmedir." }
+      {
+        "id": "A",
+        "text": "İslam — Kur'an",
+        "explanation": "Doğru eşleştirmedir."
+      },
+      {
+        "id": "B",
+        "text": "Yahudilik — Tanah",
+        "explanation": "Doğru eşleştirmedir."
+      },
+      {
+        "id": "C",
+        "text": "Zerdüştlük — Avesta",
+        "explanation": "Doğru eşleştirmedir."
+      },
+      {
+        "id": "D",
+        "text": "Hinduizm — Tripitaka",
+        "explanation": "Doğru cevap bu (yanlış eşleştirme) — Tripitaka Budizmindir; Hinduizminki Vedalar'dır."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "dinler-tarihi-031",
@@ -428,12 +908,28 @@
     "difficulty": 3,
     "stem": "Camilerde ezan okumak için yapılan minarenin balkon kısmına ne ad verilir?",
     "choices": [
-      { "id": "A", "text": "Şerefe", "explanation": "Doğru — Edirne Üç Şerefeli Cami adını üç balkonlu minaresinden alır; Selimiye minarelerinde üçer şerefe vardır." },
-      { "id": "B", "text": "Alem", "explanation": "Alem, minare ve kubbe tepesindeki hilalli metal süstür." },
-      { "id": "C", "text": "Petek", "explanation": "Petek, şerefe üstündeki gövde bölümüdür." },
-      { "id": "D", "text": "Külah", "explanation": "Külah, minarenin konik çatısıdır." }
+      {
+        "id": "A",
+        "text": "Külah",
+        "explanation": "Külah, minarenin konik çatısıdır."
+      },
+      {
+        "id": "B",
+        "text": "Petek",
+        "explanation": "Petek, şerefe üstündeki gövde bölümüdür."
+      },
+      {
+        "id": "C",
+        "text": "Alem",
+        "explanation": "Alem, minare ve kubbe tepesindeki hilalli metal süstür."
+      },
+      {
+        "id": "D",
+        "text": "Şerefe",
+        "explanation": "Doğru — Edirne Üç Şerefeli Cami adını üç balkonlu minaresinden alır; Selimiye minarelerinde üçer şerefe vardır."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "dinler-tarihi-032",
@@ -442,12 +938,28 @@
     "difficulty": 3,
     "stem": "Kudüs'te Yahudiler için en kutsal yer kabul edilen mekân aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Ağlama Duvarı (Batı Duvarı)", "explanation": "Doğru — Herod dönemindeki İkinci Tapınak'tan kalan istinat duvarıdır; dualar yazılıp taş aralarına bırakılır." },
-      { "id": "B", "text": "Kutsal Kabir Kilisesi", "explanation": "Kutsal Kabir, Hristiyanlığın kutsal mekânıdır." },
-      { "id": "C", "text": "Kubbetü's-Sahra", "explanation": "Kubbetü's-Sahra, İslam'ın kutsal yapısıdır." },
-      { "id": "D", "text": "Zeytin Dağı", "explanation": "Zeytin Dağı üç din için önemlidir ama Yahudiliğin 'en kutsalı' Batı Duvarı'dır." }
+      {
+        "id": "A",
+        "text": "Zeytin Dağı",
+        "explanation": "Zeytin Dağı üç din için önemlidir ama Yahudiliğin 'en kutsalı' Batı Duvarı'dır."
+      },
+      {
+        "id": "B",
+        "text": "Kutsal Kabir Kilisesi",
+        "explanation": "Kutsal Kabir, Hristiyanlığın kutsal mekânıdır."
+      },
+      {
+        "id": "C",
+        "text": "Ağlama Duvarı (Batı Duvarı)",
+        "explanation": "Doğru — Herod dönemindeki İkinci Tapınak'tan kalan istinat duvarıdır; dualar yazılıp taş aralarına bırakılır."
+      },
+      {
+        "id": "D",
+        "text": "Kubbetü's-Sahra",
+        "explanation": "Kubbetü's-Sahra, İslam'ın kutsal yapısıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "dinler-tarihi-033",
@@ -456,12 +968,28 @@
     "difficulty": 2,
     "stem": "Suyla dine kabul törenini ifade eden Hristiyan sakramenti aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Vaftiz", "explanation": "Doğru — kişi su ile kilise topluluğuna kabul edilir; vaftizhaneler (baptisterium) bu tören içindir." },
-      { "id": "B", "text": "Evharistiya", "explanation": "Evharistiya, ekmek-şarap ayinidir." },
-      { "id": "C", "text": "Krizmasyon", "explanation": "Krizmasyon, kutsal yağla mesh edilmedir." },
-      { "id": "D", "text": "İtiraf", "explanation": "İtiraf, günah çıkarma sakramentidir." }
+      {
+        "id": "A",
+        "text": "Evharistiya",
+        "explanation": "Evharistiya, ekmek-şarap ayinidir."
+      },
+      {
+        "id": "B",
+        "text": "Krizmasyon",
+        "explanation": "Krizmasyon, kutsal yağla mesh edilmedir."
+      },
+      {
+        "id": "C",
+        "text": "Vaftiz",
+        "explanation": "Doğru — kişi su ile kilise topluluğuna kabul edilir; vaftizhaneler (baptisterium) bu tören içindir."
+      },
+      {
+        "id": "D",
+        "text": "İtiraf",
+        "explanation": "İtiraf, günah çıkarma sakramentidir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "dinler-tarihi-034",
@@ -470,12 +998,28 @@
     "difficulty": 3,
     "stem": "Japonya'nın milli dini olan Şintoizm'de doğa ruhlarına verilen ad aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kami", "explanation": "Doğru — dağdan ırmağa her varlıkta kami bulunabilir; tapınak girişindeki kırmızı kapılar 'torii'dir." },
-      { "id": "B", "text": "Karma", "explanation": "Karma, Hint dinlerinin amel yasasıdır." },
-      { "id": "C", "text": "Tao", "explanation": "Tao, Çin düşüncesinde 'yol'dur." },
-      { "id": "D", "text": "Nirvana", "explanation": "Nirvana, Budist kurtuluş hâlidir." }
+      {
+        "id": "A",
+        "text": "Nirvana",
+        "explanation": "Nirvana, Budist kurtuluş hâlidir."
+      },
+      {
+        "id": "B",
+        "text": "Kami",
+        "explanation": "Doğru — dağdan ırmağa her varlıkta kami bulunabilir; tapınak girişindeki kırmızı kapılar 'torii'dir."
+      },
+      {
+        "id": "C",
+        "text": "Tao",
+        "explanation": "Tao, Çin düşüncesinde 'yol'dur."
+      },
+      {
+        "id": "D",
+        "text": "Karma",
+        "explanation": "Karma, Hint dinlerinin amel yasasıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "dinler-tarihi-035",
@@ -484,12 +1028,28 @@
     "difficulty": 2,
     "stem": "Hacı Bektaş Veli'yi anma törenleri her yıl hangi ilde ve hangi ayda yapılır?",
     "choices": [
-      { "id": "A", "text": "Nevşehir (Hacıbektaş) — Ağustos", "explanation": "Doğru — 16-18 Ağustos törenleri, Alevi-Bektaşi dünyasının en büyük buluşmasıdır." },
-      { "id": "B", "text": "Konya — Aralık", "explanation": "Aralık-Konya, Mevlana'nın Şeb-i Arus'udur." },
-      { "id": "C", "text": "Kırşehir — Eylül", "explanation": "Kırşehir'de Ahilik Haftası kutlanır (Ahi Evran)." },
-      { "id": "D", "text": "Sivas — Temmuz", "explanation": "Böyle bir anma geleneği tanımlı değildir." }
+      {
+        "id": "A",
+        "text": "Sivas — Temmuz",
+        "explanation": "Böyle bir anma geleneği tanımlı değildir."
+      },
+      {
+        "id": "B",
+        "text": "Nevşehir (Hacıbektaş) — Ağustos",
+        "explanation": "Doğru — 16-18 Ağustos törenleri, Alevi-Bektaşi dünyasının en büyük buluşmasıdır."
+      },
+      {
+        "id": "C",
+        "text": "Konya — Aralık",
+        "explanation": "Aralık-Konya, Mevlana'nın Şeb-i Arus'udur."
+      },
+      {
+        "id": "D",
+        "text": "Kırşehir — Eylül",
+        "explanation": "Kırşehir'de Ahilik Haftası kutlanır (Ahi Evran)."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "dinler-tarihi-036",
@@ -498,12 +1058,28 @@
     "difficulty": 2,
     "stem": "İbadethane-din eşleştirmelerinden hangisi yanlıştır?",
     "choices": [
-      { "id": "A", "text": "Pagoda — Yahudilik", "explanation": "Doğru cevap bu (yanlış eşleştirme) — pagoda Uzakdoğu (Budist) tapınağıdır; Yahudiliğinki sinagogdur." },
-      { "id": "B", "text": "Kilise — Hristiyanlık", "explanation": "Doğru eşleştirmedir." },
-      { "id": "C", "text": "Cami — İslam", "explanation": "Doğru eşleştirmedir." },
-      { "id": "D", "text": "Cemevi — Alevilik-Bektaşilik", "explanation": "Doğru eşleştirmedir." }
+      {
+        "id": "A",
+        "text": "Cami — İslam",
+        "explanation": "Doğru eşleştirmedir."
+      },
+      {
+        "id": "B",
+        "text": "Kilise — Hristiyanlık",
+        "explanation": "Doğru eşleştirmedir."
+      },
+      {
+        "id": "C",
+        "text": "Pagoda — Yahudilik",
+        "explanation": "Doğru cevap bu (yanlış eşleştirme) — pagoda Uzakdoğu (Budist) tapınağıdır; Yahudiliğinki sinagogdur."
+      },
+      {
+        "id": "D",
+        "text": "Cemevi — Alevilik-Bektaşilik",
+        "explanation": "Doğru eşleştirmedir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "dinler-tarihi-037",
@@ -512,12 +1088,28 @@
     "difficulty": 3,
     "stem": "İstanbul'daki Fener Rum Patrikhanesi'nin bugünkü ana kilisesi aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Aya Yorgi (St. George) Kilisesi", "explanation": "Doğru — 1601'den beri patriklik katedrali Fener'deki Aya Yorgi'dir." },
-      { "id": "B", "text": "Ayasofya", "explanation": "Ayasofya 1453 sonrası camiye çevrilmiştir; patriklik oradan taşınmıştır." },
-      { "id": "C", "text": "Aya İrini", "explanation": "Aya İrini, Topkapı avlusundaki müze-konser mekânıdır." },
-      { "id": "D", "text": "Kariye", "explanation": "Kariye, mozaikleriyle ünlü eski manastır kilisesidir." }
+      {
+        "id": "A",
+        "text": "Kariye",
+        "explanation": "Kariye, mozaikleriyle ünlü eski manastır kilisesidir."
+      },
+      {
+        "id": "B",
+        "text": "Ayasofya",
+        "explanation": "Ayasofya 1453 sonrası camiye çevrilmiştir; patriklik oradan taşınmıştır."
+      },
+      {
+        "id": "C",
+        "text": "Aya İrini",
+        "explanation": "Aya İrini, Topkapı avlusundaki müze-konser mekânıdır."
+      },
+      {
+        "id": "D",
+        "text": "Aya Yorgi (St. George) Kilisesi",
+        "explanation": "Doğru — 1601'den beri patriklik katedrali Fener'deki Aya Yorgi'dir."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "dinler-tarihi-038",
@@ -526,10 +1118,26 @@
     "difficulty": 3,
     "stem": "Ramazan ayının son on gününde aranan, Kur'an'da 'bin aydan hayırlı' olarak nitelenen gece aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kadir Gecesi", "explanation": "Doğru — Kur'an'ın indirilmeye başlandığı gece kabul edilir; genellikle 27. gecede ihya edilir." },
-      { "id": "B", "text": "Miraç Kandili", "explanation": "Miraç, Recep ayındadır." },
-      { "id": "C", "text": "Berat Kandili", "explanation": "Berat, Şaban ayının 15. gecesidir." },
-      { "id": "D", "text": "Mevlid Kandili", "explanation": "Mevlid, Hz. Muhammed'in doğum gecesidir (Rebiülevvel 12)." }
+      {
+        "id": "A",
+        "text": "Kadir Gecesi",
+        "explanation": "Doğru — Kur'an'ın indirilmeye başlandığı gece kabul edilir; genellikle 27. gecede ihya edilir."
+      },
+      {
+        "id": "B",
+        "text": "Berat Kandili",
+        "explanation": "Berat, Şaban ayının 15. gecesidir."
+      },
+      {
+        "id": "C",
+        "text": "Miraç Kandili",
+        "explanation": "Miraç, Recep ayındadır."
+      },
+      {
+        "id": "D",
+        "text": "Mevlid Kandili",
+        "explanation": "Mevlid, Hz. Muhammed'in doğum gecesidir (Rebiülevvel 12)."
+      }
     ],
     "correct": "A"
   },
@@ -540,10 +1148,26 @@
     "difficulty": 3,
     "stem": "Üç ilahi dinin ortak saydığı, 'inananların atası' kabul edilen peygamber aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Hz. İbrahim", "explanation": "Doğru — Yahudilik, Hristiyanlık ve İslam bu yüzden 'İbrahimî dinler' olarak anılır; Urfa-Harran bölgesi onunla özdeşleşmiştir." },
-      { "id": "B", "text": "Hz. Musa", "explanation": "Musa merkezî peygamberdir ama 'ortak ata' sıfatı İbrahim'indir." },
-      { "id": "C", "text": "Hz. Davud", "explanation": "Davud, kral-peygamberdir; ata kabul edilen İbrahim'dir." },
-      { "id": "D", "text": "Hz. Nuh", "explanation": "Nuh, tufanla anılır; 'İbrahimî dinler' kavramının merkezinde İbrahim vardır." }
+      {
+        "id": "A",
+        "text": "Hz. İbrahim",
+        "explanation": "Doğru — Yahudilik, Hristiyanlık ve İslam bu yüzden 'İbrahimî dinler' olarak anılır; Urfa-Harran bölgesi onunla özdeşleşmiştir."
+      },
+      {
+        "id": "B",
+        "text": "Hz. Nuh",
+        "explanation": "Nuh, tufanla anılır; 'İbrahimî dinler' kavramının merkezinde İbrahim vardır."
+      },
+      {
+        "id": "C",
+        "text": "Hz. Musa",
+        "explanation": "Musa merkezî peygamberdir ama 'ortak ata' sıfatı İbrahim'indir."
+      },
+      {
+        "id": "D",
+        "text": "Hz. Davud",
+        "explanation": "Davud, kral-peygamberdir; ata kabul edilen İbrahim'dir."
+      }
     ],
     "correct": "A"
   },
@@ -554,11 +1178,27 @@
     "difficulty": 2,
     "stem": "Hristiyan geleneğinde ilk mağara kiliselerden kabul edilen St. Pierre hangi ildedir?",
     "choices": [
-      { "id": "A", "text": "Hatay (Antakya)", "explanation": "Doğru — Aziz Petrus'un cemaate vaaz verdiğine inanılan mağara kilise, Vatikan'ca hac yeri ilan edilmiştir; her 29 Haziran'da ayin yapılır." },
-      { "id": "B", "text": "İzmir", "explanation": "İzmir'in kutsal mekânları Meryem Ana ve St. Polycarp'tır." },
-      { "id": "C", "text": "Antalya", "explanation": "Antalya'nın ünlüsü Demre Aziz Nikolaos'tur." },
-      { "id": "D", "text": "Trabzon", "explanation": "Trabzon'un simgesi Sümela'dır." }
+      {
+        "id": "A",
+        "text": "Trabzon",
+        "explanation": "Trabzon'un simgesi Sümela'dır."
+      },
+      {
+        "id": "B",
+        "text": "Hatay (Antakya)",
+        "explanation": "Doğru — Aziz Petrus'un cemaate vaaz verdiğine inanılan mağara kilise, Vatikan'ca hac yeri ilan edilmiştir; her 29 Haziran'da ayin yapılır."
+      },
+      {
+        "id": "C",
+        "text": "İzmir",
+        "explanation": "İzmir'in kutsal mekânları Meryem Ana ve St. Polycarp'tır."
+      },
+      {
+        "id": "D",
+        "text": "Antalya",
+        "explanation": "Antalya'nın ünlüsü Demre Aziz Nikolaos'tur."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   }
 ]

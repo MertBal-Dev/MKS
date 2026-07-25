@@ -6,12 +6,28 @@
     "difficulty": 1,
     "stem": "Onlu ordu sistemini kurarak dünya askerlik tarihini etkileyen Hun hükümdarı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Mete Han", "explanation": "Doğru — MÖ 209'da tahta çıkan Mete'nin onlu sistemi bugünkü ordu teşkilatlarının temelidir." },
-      { "id": "B", "text": "Bumin Kağan", "explanation": "Bumin, Göktürk Kağanlığı'nın kurucusudur." },
-      { "id": "C", "text": "Attila", "explanation": "Attila, Avrupa Hun hükümdarıdır." },
-      { "id": "D", "text": "Bilge Kağan", "explanation": "Bilge Kağan, II. Göktürk dönemindendir." }
+      {
+        "id": "A",
+        "text": "Bumin Kağan",
+        "explanation": "Bumin, Göktürk Kağanlığı'nın kurucusudur."
+      },
+      {
+        "id": "B",
+        "text": "Attila",
+        "explanation": "Attila, Avrupa Hun hükümdarıdır."
+      },
+      {
+        "id": "C",
+        "text": "Bilge Kağan",
+        "explanation": "Bilge Kağan, II. Göktürk dönemindendir."
+      },
+      {
+        "id": "D",
+        "text": "Mete Han",
+        "explanation": "Doğru — MÖ 209'da tahta çıkan Mete'nin onlu sistemi bugünkü ordu teşkilatlarının temelidir."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "genel-turk-tarihi-002",
@@ -20,12 +36,28 @@
     "difficulty": 2,
     "stem": "Tarihte 'Türk' adını taşıyan ilk devlet aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Göktürk Kağanlığı", "explanation": "Doğru — 552'de Bumin Kağan'ın kurduğu devlet, 'Türk' adını resmi olarak taşıyan ilktir." },
-      { "id": "B", "text": "Asya Hun Devleti", "explanation": "Hunlar bilinen ilk Türk devletidir ama adında 'Türk' geçmez — soru farkı tam budur." },
-      { "id": "C", "text": "Uygur Kağanlığı", "explanation": "Uygurlar, Göktürklerden sonra kurulmuştur." },
-      { "id": "D", "text": "Karahanlılar", "explanation": "Karahanlılar ilk Müslüman Türk devletidir." }
+      {
+        "id": "A",
+        "text": "Asya Hun Devleti",
+        "explanation": "Hunlar bilinen ilk Türk devletidir ama adında 'Türk' geçmez — soru farkı tam budur."
+      },
+      {
+        "id": "B",
+        "text": "Karahanlılar",
+        "explanation": "Karahanlılar ilk Müslüman Türk devletidir."
+      },
+      {
+        "id": "C",
+        "text": "Uygur Kağanlığı",
+        "explanation": "Uygurlar, Göktürklerden sonra kurulmuştur."
+      },
+      {
+        "id": "D",
+        "text": "Göktürk Kağanlığı",
+        "explanation": "Doğru — 552'de Bumin Kağan'ın kurduğu devlet, 'Türk' adını resmi olarak taşıyan ilktir."
+      }
     ],
-    "correct": "A",
+    "correct": "D",
     "trick": "'İlk Türk devleti' = Hun; ''Türk' adlı ilk devlet' = Göktürk. Soru kökü her şeydir."
   },
   {
@@ -35,12 +67,28 @@
     "difficulty": 2,
     "stem": "Türkçenin bilinen ilk yazılı belgeleri aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Orhun Yazıtları", "explanation": "Doğru — 8. yüzyıl Göktürk anıtları (Tonyukuk, Kül Tigin, Bilge Kağan); 1893'te Thomsen çözmüştür." },
-      { "id": "B", "text": "Kapadokya Tabletleri", "explanation": "Kültepe tabletleri Asurca'dır; Anadolu'nun ilk yazılı belgeleridir ama Türkçe değildir." },
-      { "id": "C", "text": "Kutadgu Bilig", "explanation": "Kutadgu Bilig (1069), İslami dönemin ilk büyük eseridir; ilk yazılı belge değildir." },
-      { "id": "D", "text": "Manas Destanı", "explanation": "Manas sözlü gelenekle aktarılmış Kırgız destanıdır." }
+      {
+        "id": "A",
+        "text": "Manas Destanı",
+        "explanation": "Manas sözlü gelenekle aktarılmış Kırgız destanıdır."
+      },
+      {
+        "id": "B",
+        "text": "Orhun Yazıtları",
+        "explanation": "Doğru — 8. yüzyıl Göktürk anıtları (Tonyukuk, Kül Tigin, Bilge Kağan); 1893'te Thomsen çözmüştür."
+      },
+      {
+        "id": "C",
+        "text": "Kutadgu Bilig",
+        "explanation": "Kutadgu Bilig (1069), İslami dönemin ilk büyük eseridir; ilk yazılı belge değildir."
+      },
+      {
+        "id": "D",
+        "text": "Kapadokya Tabletleri",
+        "explanation": "Kültepe tabletleri Asurca'dır; Anadolu'nun ilk yazılı belgeleridir ama Türkçe değildir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "genel-turk-tarihi-004",
@@ -49,12 +97,28 @@
     "difficulty": 2,
     "stem": "Yerleşik hayata geçen ilk Türk topluluğu aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Uygurlar", "explanation": "Doğru — şehirler kurdular, tarım yaptılar, kâğıt ve matbaayı kullandılar; Mani dinini benimsediler." },
-      { "id": "B", "text": "Göktürkler", "explanation": "Göktürkler konargöçer bozkır devletidir." },
-      { "id": "C", "text": "Hunlar", "explanation": "Hunlar da göçebedir; Mete yerleşmeye karşı uyarmıştır." },
-      { "id": "D", "text": "Peçenekler", "explanation": "Peçenekler göçebe savaşçı boylardır." }
+      {
+        "id": "A",
+        "text": "Göktürkler",
+        "explanation": "Göktürkler konargöçer bozkır devletidir."
+      },
+      {
+        "id": "B",
+        "text": "Hunlar",
+        "explanation": "Hunlar da göçebedir; Mete yerleşmeye karşı uyarmıştır."
+      },
+      {
+        "id": "C",
+        "text": "Peçenekler",
+        "explanation": "Peçenekler göçebe savaşçı boylardır."
+      },
+      {
+        "id": "D",
+        "text": "Uygurlar",
+        "explanation": "Doğru — şehirler kurdular, tarım yaptılar, kâğıt ve matbaayı kullandılar; Mani dinini benimsediler."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "genel-turk-tarihi-005",
@@ -63,12 +127,28 @@
     "difficulty": 2,
     "stem": "Eski Türklerde yönetme yetkisinin Tanrı tarafından verildiğine inanılan kavram aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kut", "explanation": "Doğru — kut kan yoluyla geçtiğinden tüm hanedan üyeleri taht hakkı iddia edebilir; taht kavgalarının kökenidir." },
-      { "id": "B", "text": "Töre", "explanation": "Töre, yazısız hukuk kurallarıdır." },
-      { "id": "C", "text": "Yuğ", "explanation": "Yuğ, cenaze törenidir." },
-      { "id": "D", "text": "Toy", "explanation": "Toy (kurultay), danışma meclisidir." }
+      {
+        "id": "A",
+        "text": "Yuğ",
+        "explanation": "Yuğ, cenaze törenidir."
+      },
+      {
+        "id": "B",
+        "text": "Toy",
+        "explanation": "Toy (kurultay), danışma meclisidir."
+      },
+      {
+        "id": "C",
+        "text": "Töre",
+        "explanation": "Töre, yazısız hukuk kurallarıdır."
+      },
+      {
+        "id": "D",
+        "text": "Kut",
+        "explanation": "Doğru — kut kan yoluyla geçtiğinden tüm hanedan üyeleri taht hakkı iddia edebilir; taht kavgalarının kökenidir."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "genel-turk-tarihi-006",
@@ -77,12 +157,28 @@
     "difficulty": 2,
     "stem": "Dünyanın bilinen en eski düğümlü halısı hangi buluntu yerinden çıkarılmıştır?",
     "choices": [
-      { "id": "A", "text": "Pazırık Kurganı (Altaylar)", "explanation": "Doğru — MÖ 4.-3. yüzyıla tarihlenen Pazırık halısı bir kurgandan çıktı; St. Petersburg Ermitaj'dadır." },
-      { "id": "B", "text": "Çatalhöyük", "explanation": "Çatalhöyük'te dokuma izleri var ama düğümlü halı Pazırık'ındır." },
-      { "id": "C", "text": "Gordion Tümülüsü", "explanation": "Gordion'dan ahşap mobilya ve tekstil çıktı; ünlü halı Pazırık'tandır." },
-      { "id": "D", "text": "Ani Ören Yeri", "explanation": "Ani, Ortaçağ kentidir; halının çıktığı yer değildir." }
+      {
+        "id": "A",
+        "text": "Gordion Tümülüsü",
+        "explanation": "Gordion'dan ahşap mobilya ve tekstil çıktı; ünlü halı Pazırık'tandır."
+      },
+      {
+        "id": "B",
+        "text": "Çatalhöyük",
+        "explanation": "Çatalhöyük'te dokuma izleri var ama düğümlü halı Pazırık'ındır."
+      },
+      {
+        "id": "C",
+        "text": "Ani Ören Yeri",
+        "explanation": "Ani, Ortaçağ kentidir; halının çıktığı yer değildir."
+      },
+      {
+        "id": "D",
+        "text": "Pazırık Kurganı (Altaylar)",
+        "explanation": "Doğru — MÖ 4.-3. yüzyıla tarihlenen Pazırık halısı bir kurgandan çıktı; St. Petersburg Ermitaj'dadır."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "genel-turk-tarihi-007",
@@ -91,12 +187,28 @@
     "difficulty": 3,
     "stem": "Aşağıdaki destan-topluluk eşleştirmelerinden hangisi yanlıştır?",
     "choices": [
-      { "id": "A", "text": "Manas — Uygur", "explanation": "Doğru cevap bu (yanlış eşleştirme) — Manas, KIRGIZ destanıdır; Uygurların destanları Türeyiş ve Göç'tür." },
-      { "id": "B", "text": "Oğuz Kağan — Hun", "explanation": "Doğru eşleştirmedir." },
-      { "id": "C", "text": "Ergenekon — Göktürk", "explanation": "Doğru eşleştirmedir." },
-      { "id": "D", "text": "Göç — Uygur", "explanation": "Doğru eşleştirmedir." }
+      {
+        "id": "A",
+        "text": "Ergenekon — Göktürk",
+        "explanation": "Doğru eşleştirmedir."
+      },
+      {
+        "id": "B",
+        "text": "Göç — Uygur",
+        "explanation": "Doğru eşleştirmedir."
+      },
+      {
+        "id": "C",
+        "text": "Oğuz Kağan — Hun",
+        "explanation": "Doğru eşleştirmedir."
+      },
+      {
+        "id": "D",
+        "text": "Manas — Uygur",
+        "explanation": "Doğru cevap bu (yanlış eşleştirme) — Manas, KIRGIZ destanıdır; Uygurların destanları Türeyiş ve Göç'tür."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "genel-turk-tarihi-008",
@@ -105,12 +217,28 @@
     "difficulty": 2,
     "stem": "751 Talas Savaşı'nın sonuçları arasında aşağıdakilerden hangisi YER ALMAZ?",
     "choices": [
-      { "id": "A", "text": "Türklerin Anadolu'ya yerleşmeye başlaması", "explanation": "Doğru cevap bu — Anadolu'ya yerleşme Malazgirt (1071) sonrasıdır; Talas, Orta Asya'daki Türk-Arap ilişkisini değiştirmiştir." },
-      { "id": "B", "text": "Türk-İslam yakınlaşmasının başlaması", "explanation": "Bu gerçek bir sonuçtur; Karluklar Abbasilere destek vermiştir." },
-      { "id": "C", "text": "Kâğıdın Çin dışına yayılması", "explanation": "Esir Çinli ustalar kâğıt yapımını Semerkant'a taşıdı." },
-      { "id": "D", "text": "Çin'in Orta Asya'daki ilerleyişinin durması", "explanation": "Bu da gerçek sonuçlardandır." }
+      {
+        "id": "A",
+        "text": "Türk-İslam yakınlaşmasının başlaması",
+        "explanation": "Bu gerçek bir sonuçtur; Karluklar Abbasilere destek vermiştir."
+      },
+      {
+        "id": "B",
+        "text": "Türklerin Anadolu'ya yerleşmeye başlaması",
+        "explanation": "Doğru cevap bu — Anadolu'ya yerleşme Malazgirt (1071) sonrasıdır; Talas, Orta Asya'daki Türk-Arap ilişkisini değiştirmiştir."
+      },
+      {
+        "id": "C",
+        "text": "Çin'in Orta Asya'daki ilerleyişinin durması",
+        "explanation": "Bu da gerçek sonuçlardandır."
+      },
+      {
+        "id": "D",
+        "text": "Kâğıdın Çin dışına yayılması",
+        "explanation": "Esir Çinli ustalar kâğıt yapımını Semerkant'a taşıdı."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "genel-turk-tarihi-009",
@@ -119,12 +247,28 @@
     "difficulty": 1,
     "stem": "İlk Müslüman Türk devleti aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Karahanlılar", "explanation": "Doğru — Satuk Buğra Han'ın İslam'ı kabulüyle (10. yy) ilk Müslüman Türk devleti oldular; Türkçeyi resmi dil olarak korudular." },
-      { "id": "B", "text": "Gazneliler", "explanation": "Gazneliler çağdaş Müslüman Türk devletidir ama 'ilk' Karahanlılardır." },
-      { "id": "C", "text": "Büyük Selçuklu", "explanation": "Selçuklu daha sonra kurulmuştur (1040)." },
-      { "id": "D", "text": "Uygurlar", "explanation": "Uygurlar Mani ve Buda dinlerini benimsemişlerdi." }
+      {
+        "id": "A",
+        "text": "Uygurlar",
+        "explanation": "Uygurlar Mani ve Buda dinlerini benimsemişlerdi."
+      },
+      {
+        "id": "B",
+        "text": "Karahanlılar",
+        "explanation": "Doğru — Satuk Buğra Han'ın İslam'ı kabulüyle (10. yy) ilk Müslüman Türk devleti oldular; Türkçeyi resmi dil olarak korudular."
+      },
+      {
+        "id": "C",
+        "text": "Büyük Selçuklu",
+        "explanation": "Selçuklu daha sonra kurulmuştur (1040)."
+      },
+      {
+        "id": "D",
+        "text": "Gazneliler",
+        "explanation": "Gazneliler çağdaş Müslüman Türk devletidir ama 'ilk' Karahanlılardır."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "genel-turk-tarihi-010",
@@ -133,10 +277,26 @@
     "difficulty": 2,
     "stem": "'Mutluluk veren bilgi' anlamına gelen, ilk Türk-İslam siyasetnamesi kabul edilen eser ve yazarı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kutadgu Bilig — Yusuf Has Hacib", "explanation": "Doğru — 1069-70'te Karahanlı hükümdarına sunuldu; ideal devlet yönetimini dört sembolik kişiyle anlatır." },
-      { "id": "B", "text": "Divanü Lugati't-Türk — Kaşgarlı Mahmut", "explanation": "Kaşgarlı'nın eseri sözlüktür; siyasetname değildir — iki eser birbirinin klasik çeldiricisidir." },
-      { "id": "C", "text": "Siyasetname — Nizamülmülk", "explanation": "Nizamülmülk'ün Siyasetname'si Farsçadır ve Selçuklu dönemine aittir." },
-      { "id": "D", "text": "Atabetü'l-Hakayık — Edip Ahmet", "explanation": "Atabetü'l-Hakayık, ahlak-öğüt kitabıdır." }
+      {
+        "id": "A",
+        "text": "Kutadgu Bilig — Yusuf Has Hacib",
+        "explanation": "Doğru — 1069-70'te Karahanlı hükümdarına sunuldu; ideal devlet yönetimini dört sembolik kişiyle anlatır."
+      },
+      {
+        "id": "B",
+        "text": "Atabetü'l-Hakayık — Edip Ahmet",
+        "explanation": "Atabetü'l-Hakayık, ahlak-öğüt kitabıdır."
+      },
+      {
+        "id": "C",
+        "text": "Siyasetname — Nizamülmülk",
+        "explanation": "Nizamülmülk'ün Siyasetname'si Farsçadır ve Selçuklu dönemine aittir."
+      },
+      {
+        "id": "D",
+        "text": "Divanü Lugati't-Türk — Kaşgarlı Mahmut",
+        "explanation": "Kaşgarlı'nın eseri sözlüktür; siyasetname değildir — iki eser birbirinin klasik çeldiricisidir."
+      }
     ],
     "correct": "A"
   },
@@ -147,10 +307,26 @@
     "difficulty": 2,
     "stem": "Araplara Türkçe öğretmek amacıyla yazılan ilk Türkçe sözlük aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Divanü Lugati't-Türk", "explanation": "Doğru — Kaşgarlı Mahmut (1072-74); içindeki harita ilk Türk dünya haritası kabul edilir." },
-      { "id": "B", "text": "Kutadgu Bilig", "explanation": "Kutadgu Bilig siyasetnamedir." },
-      { "id": "C", "text": "Divan-ı Hikmet", "explanation": "Divan-ı Hikmet, Ahmed Yesevi'nin tasavvufi şiirleridir." },
-      { "id": "D", "text": "Kamus-ı Türki", "explanation": "Kamus-ı Türki, Şemseddin Sami'nin 1901 tarihli modern sözlüğüdür." }
+      {
+        "id": "A",
+        "text": "Divanü Lugati't-Türk",
+        "explanation": "Doğru — Kaşgarlı Mahmut (1072-74); içindeki harita ilk Türk dünya haritası kabul edilir."
+      },
+      {
+        "id": "B",
+        "text": "Divan-ı Hikmet",
+        "explanation": "Divan-ı Hikmet, Ahmed Yesevi'nin tasavvufi şiirleridir."
+      },
+      {
+        "id": "C",
+        "text": "Kamus-ı Türki",
+        "explanation": "Kamus-ı Türki, Şemseddin Sami'nin 1901 tarihli modern sözlüğüdür."
+      },
+      {
+        "id": "D",
+        "text": "Kutadgu Bilig",
+        "explanation": "Kutadgu Bilig siyasetnamedir."
+      }
     ],
     "correct": "A"
   },
@@ -161,12 +337,28 @@
     "difficulty": 2,
     "stem": "Hindistan'a düzenlediği 17 seferle İslamiyet'in bu coğrafyaya yayılmasını sağlayan hükümdar aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Gazneli Mahmut", "explanation": "Doğru — 'sultan' unvanını kullanan ilk hükümdar kabul edilir; sarayında Biruni ve Firdevsi'yi korudu." },
-      { "id": "B", "text": "Alp Arslan", "explanation": "Alp Arslan'ın yönü Anadolu'dur (Malazgirt)." },
-      { "id": "C", "text": "Timur", "explanation": "Timur'un Hindistan seferi tektir ve çok sonradır (1398)." },
-      { "id": "D", "text": "Babür", "explanation": "Babür, Hindistan'da imparatorluk kuran 16. yüzyıl hükümdarıdır." }
+      {
+        "id": "A",
+        "text": "Alp Arslan",
+        "explanation": "Alp Arslan'ın yönü Anadolu'dur (Malazgirt)."
+      },
+      {
+        "id": "B",
+        "text": "Gazneli Mahmut",
+        "explanation": "Doğru — 'sultan' unvanını kullanan ilk hükümdar kabul edilir; sarayında Biruni ve Firdevsi'yi korudu."
+      },
+      {
+        "id": "C",
+        "text": "Babür",
+        "explanation": "Babür, Hindistan'da imparatorluk kuran 16. yüzyıl hükümdarıdır."
+      },
+      {
+        "id": "D",
+        "text": "Timur",
+        "explanation": "Timur'un Hindistan seferi tektir ve çok sonradır (1398)."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "genel-turk-tarihi-013",
@@ -175,12 +367,28 @@
     "difficulty": 2,
     "stem": "Büyük Selçuklu Devleti'nin kuruluşunu kesinleştiren 1040 tarihli savaş aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Dandanakan", "explanation": "Doğru — Tuğrul ve Çağrı Beyler, Gazneli ordusunu Dandanakan'da yendi; Horasan'da devlet resmen kuruldu." },
-      { "id": "B", "text": "Malazgirt", "explanation": "Malazgirt (1071) kuruluş değil, Anadolu'nun kapısını açan zaferdir." },
-      { "id": "C", "text": "Katvan", "explanation": "Katvan (1141), çöküşü hızlandıran yenilgidir." },
-      { "id": "D", "text": "Pasinler", "explanation": "Pasinler (1048), Bizans'la ilk büyük karşılaşmadır." }
+      {
+        "id": "A",
+        "text": "Malazgirt",
+        "explanation": "Malazgirt (1071) kuruluş değil, Anadolu'nun kapısını açan zaferdir."
+      },
+      {
+        "id": "B",
+        "text": "Katvan",
+        "explanation": "Katvan (1141), çöküşü hızlandıran yenilgidir."
+      },
+      {
+        "id": "C",
+        "text": "Pasinler",
+        "explanation": "Pasinler (1048), Bizans'la ilk büyük karşılaşmadır."
+      },
+      {
+        "id": "D",
+        "text": "Dandanakan",
+        "explanation": "Doğru — Tuğrul ve Çağrı Beyler, Gazneli ordusunu Dandanakan'da yendi; Horasan'da devlet resmen kuruldu."
+      }
     ],
-    "correct": "A",
+    "correct": "D",
     "trick": "Selçuklu savaş zinciri: Dandanakan (kuruluş) → Pasinler (ilk Bizans teması) → Malazgirt (Anadolu) → Katvan (çöküş)."
   },
   {
@@ -190,12 +398,28 @@
     "difficulty": 1,
     "stem": "1071 Malazgirt Savaşı'nda Bizans ordusunu yenerek Anadolu'nun kapılarını Türklere açan sultan aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Alp Arslan", "explanation": "Doğru — Romanos Diogenes'i esir aldı; savaş 26 Ağustos 1071'de yapıldı." },
-      { "id": "B", "text": "Tuğrul Bey", "explanation": "Tuğrul Bey kurucudur; 1063'te ölmüştür." },
-      { "id": "C", "text": "Melikşah", "explanation": "Melikşah, Alp Arslan'ın oğlu ve devletin zirve sultanıdır." },
-      { "id": "D", "text": "Sultan Sencer", "explanation": "Sencer, son büyük sultandır (Katvan yenilgisi)." }
+      {
+        "id": "A",
+        "text": "Sultan Sencer",
+        "explanation": "Sencer, son büyük sultandır (Katvan yenilgisi)."
+      },
+      {
+        "id": "B",
+        "text": "Melikşah",
+        "explanation": "Melikşah, Alp Arslan'ın oğlu ve devletin zirve sultanıdır."
+      },
+      {
+        "id": "C",
+        "text": "Alp Arslan",
+        "explanation": "Doğru — Romanos Diogenes'i esir aldı; savaş 26 Ağustos 1071'de yapıldı."
+      },
+      {
+        "id": "D",
+        "text": "Tuğrul Bey",
+        "explanation": "Tuğrul Bey kurucudur; 1063'te ölmüştür."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "genel-turk-tarihi-015",
@@ -204,10 +428,26 @@
     "difficulty": 2,
     "stem": "Bağdat'ta Nizamiye Medreselerini kurduran ve Siyasetname'nin yazarı olan Selçuklu veziri kimdir?",
     "choices": [
-      { "id": "A", "text": "Nizamülmülk", "explanation": "Doğru — Alp Arslan ve Melikşah'ın büyük veziri; Batıni fedaisince öldürülmüştür." },
-      { "id": "B", "text": "Tacülmülk", "explanation": "Tacülmülk, Nizamülmülk'ün rakibi olan vezirdir." },
-      { "id": "C", "text": "İbn Sina", "explanation": "İbn Sina hekim-filozoftur; vezir değildir." },
-      { "id": "D", "text": "Ahi Evran", "explanation": "Ahi Evran, Anadolu'da ahiliğin kurucusudur." }
+      {
+        "id": "A",
+        "text": "Nizamülmülk",
+        "explanation": "Doğru — Alp Arslan ve Melikşah'ın büyük veziri; Batıni fedaisince öldürülmüştür."
+      },
+      {
+        "id": "B",
+        "text": "Tacülmülk",
+        "explanation": "Tacülmülk, Nizamülmülk'ün rakibi olan vezirdir."
+      },
+      {
+        "id": "C",
+        "text": "Ahi Evran",
+        "explanation": "Ahi Evran, Anadolu'da ahiliğin kurucusudur."
+      },
+      {
+        "id": "D",
+        "text": "İbn Sina",
+        "explanation": "İbn Sina hekim-filozoftur; vezir değildir."
+      }
     ],
     "correct": "A"
   },
@@ -218,12 +458,28 @@
     "difficulty": 3,
     "stem": "Melikşah adına hazırlanan ve Ömer Hayyam'ın da kurulunda yer aldığı güneş takvimi aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Celali Takvimi", "explanation": "Doğru — 1079'da yürürlüğe giren takvim, dönemine göre olağanüstü hassastır." },
-      { "id": "B", "text": "12 Hayvanlı Takvim", "explanation": "12 Hayvanlı, İslam öncesi Orta Asya takvimidir." },
-      { "id": "C", "text": "Hicri Takvim", "explanation": "Hicri takvim ay esaslıdır; Hz. Ömer döneminde düzenlenmiştir." },
-      { "id": "D", "text": "Rumi Takvim", "explanation": "Rumi takvim, Osmanlı mali takvimdir (19. yy)." }
+      {
+        "id": "A",
+        "text": "Hicri Takvim",
+        "explanation": "Hicri takvim ay esaslıdır; Hz. Ömer döneminde düzenlenmiştir."
+      },
+      {
+        "id": "B",
+        "text": "Rumi Takvim",
+        "explanation": "Rumi takvim, Osmanlı mali takvimdir (19. yy)."
+      },
+      {
+        "id": "C",
+        "text": "12 Hayvanlı Takvim",
+        "explanation": "12 Hayvanlı, İslam öncesi Orta Asya takvimidir."
+      },
+      {
+        "id": "D",
+        "text": "Celali Takvimi",
+        "explanation": "Doğru — 1079'da yürürlüğe giren takvim, dönemine göre olağanüstü hassastır."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "genel-turk-tarihi-017",
@@ -232,12 +488,28 @@
     "difficulty": 3,
     "stem": "UNESCO listesindeki Divriği Ulu Camii'ni yaptıran, Malazgirt sonrası kurulan beylik aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Mengücekliler", "explanation": "Doğru — Erzincan-Divriği yöresinde hüküm süren Mengüceklilerin Divriği kolu, camiyi ve darüşşifayı yaptırdı (1228)." },
-      { "id": "B", "text": "Danişmentliler", "explanation": "Danişmentliler Sivas-Kayseri-Tokat yöresindedir; Divriği eserinin banisi değildir." },
-      { "id": "C", "text": "Saltuklular", "explanation": "Saltuklular Erzurum'dadır (Üç Kümbetler, Kale Camii)." },
-      { "id": "D", "text": "Artuklular", "explanation": "Artuklular Mardin-Diyarbakır yöresindedir (Malabadi Köprüsü)." }
+      {
+        "id": "A",
+        "text": "Saltuklular",
+        "explanation": "Saltuklular Erzurum'dadır (Üç Kümbetler, Kale Camii)."
+      },
+      {
+        "id": "B",
+        "text": "Danişmentliler",
+        "explanation": "Danişmentliler Sivas-Kayseri-Tokat yöresindedir; Divriği eserinin banisi değildir."
+      },
+      {
+        "id": "C",
+        "text": "Artuklular",
+        "explanation": "Artuklular Mardin-Diyarbakır yöresindedir (Malabadi Köprüsü)."
+      },
+      {
+        "id": "D",
+        "text": "Mengücekliler",
+        "explanation": "Doğru — Erzincan-Divriği yöresinde hüküm süren Mengüceklilerin Divriği kolu, camiyi ve darüşşifayı yaptırdı (1228)."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "genel-turk-tarihi-018",
@@ -246,12 +518,28 @@
     "difficulty": 2,
     "stem": "İzmir merkezli beylik kurarak ilk Türk denizcisi kabul edilen bey aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Çaka Bey", "explanation": "Doğru — 1081'de İzmir'de donanma kuran Çaka Bey, Türk denizciliğinin kurucusu kabul edilir; Deniz Kuvvetleri kuruluş yılını 1081 sayar." },
-      { "id": "B", "text": "Umur Bey", "explanation": "Aydınoğlu Umur Bey, 14. yüzyılın büyük denizcisidir — dönemi farklıdır." },
-      { "id": "C", "text": "Barbaros", "explanation": "Barbaros, 16. yüzyıl Osmanlı kaptanıdır." },
-      { "id": "D", "text": "Piri Reis", "explanation": "Piri Reis, Osmanlı haritacısıdır." }
+      {
+        "id": "A",
+        "text": "Umur Bey",
+        "explanation": "Aydınoğlu Umur Bey, 14. yüzyılın büyük denizcisidir — dönemi farklıdır."
+      },
+      {
+        "id": "B",
+        "text": "Piri Reis",
+        "explanation": "Piri Reis, Osmanlı haritacısıdır."
+      },
+      {
+        "id": "C",
+        "text": "Barbaros",
+        "explanation": "Barbaros, 16. yüzyıl Osmanlı kaptanıdır."
+      },
+      {
+        "id": "D",
+        "text": "Çaka Bey",
+        "explanation": "Doğru — 1081'de İzmir'de donanma kuran Çaka Bey, Türk denizciliğinin kurucusu kabul edilir; Deniz Kuvvetleri kuruluş yılını 1081 sayar."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "genel-turk-tarihi-019",
@@ -260,12 +548,28 @@
     "difficulty": 2,
     "stem": "Anadolu'nun Türk yurdu olduğunu kesinleştiren 1176 tarihli savaş aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Miryokefalon", "explanation": "Doğru — II. Kılıç Arslan'ın zaferiyle Bizans'ın Anadolu'yu geri alma umudu sona erdi." },
-      { "id": "B", "text": "Malazgirt", "explanation": "Malazgirt (1071) kapıyı açmıştır; kesinleştiren Miryokefalon'dur — iki savaşın 'sonuç cümlesi' farklıdır." },
-      { "id": "C", "text": "Kösedağ", "explanation": "Kösedağ (1243), Moğollara karşı kaybedilen savaştır." },
-      { "id": "D", "text": "Yassıçemen", "explanation": "Yassıçemen (1230), Harzemşahlara karşı Alaeddin Keykubad zaferidir." }
+      {
+        "id": "A",
+        "text": "Kösedağ",
+        "explanation": "Kösedağ (1243), Moğollara karşı kaybedilen savaştır."
+      },
+      {
+        "id": "B",
+        "text": "Malazgirt",
+        "explanation": "Malazgirt (1071) kapıyı açmıştır; kesinleştiren Miryokefalon'dur — iki savaşın 'sonuç cümlesi' farklıdır."
+      },
+      {
+        "id": "C",
+        "text": "Yassıçemen",
+        "explanation": "Yassıçemen (1230), Harzemşahlara karşı Alaeddin Keykubad zaferidir."
+      },
+      {
+        "id": "D",
+        "text": "Miryokefalon",
+        "explanation": "Doğru — II. Kılıç Arslan'ın zaferiyle Bizans'ın Anadolu'yu geri alma umudu sona erdi."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "genel-turk-tarihi-020",
@@ -274,12 +578,28 @@
     "difficulty": 2,
     "stem": "1243'te Anadolu Selçuklu Devleti'ni Moğol egemenliğine sokan savaş aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kösedağ", "explanation": "Doğru — Sivas yakınındaki yenilgi sonrası devlet İlhanlı vergisine bağlandı; İkinci Beylikler Dönemi başladı." },
-      { "id": "B", "text": "Ankara", "explanation": "Ankara (1402), Osmanlı-Timur savaşıdır." },
-      { "id": "C", "text": "Otlukbeli", "explanation": "Otlukbeli (1473), Osmanlı-Akkoyunlu savaşıdır." },
-      { "id": "D", "text": "Katvan", "explanation": "Katvan (1141), Büyük Selçuklu-Karahitay savaşıdır." }
+      {
+        "id": "A",
+        "text": "Ankara",
+        "explanation": "Ankara (1402), Osmanlı-Timur savaşıdır."
+      },
+      {
+        "id": "B",
+        "text": "Otlukbeli",
+        "explanation": "Otlukbeli (1473), Osmanlı-Akkoyunlu savaşıdır."
+      },
+      {
+        "id": "C",
+        "text": "Kösedağ",
+        "explanation": "Doğru — Sivas yakınındaki yenilgi sonrası devlet İlhanlı vergisine bağlandı; İkinci Beylikler Dönemi başladı."
+      },
+      {
+        "id": "D",
+        "text": "Katvan",
+        "explanation": "Katvan (1141), Büyük Selçuklu-Karahitay savaşıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "genel-turk-tarihi-021",
@@ -288,12 +608,28 @@
     "difficulty": 2,
     "stem": "Alanya'yı fethedip tersane kuran, Anadolu Selçuklu'nun zirve dönemini yaşatan sultan aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "I. Alaeddin Keykubad", "explanation": "Doğru — Alaiye (Alanya) tersanesi ve Kızıl Kule onun eseridir; Kubadabad Sarayı'nı da yaptırmıştır." },
-      { "id": "B", "text": "II. Kılıç Arslan", "explanation": "II. Kılıç Arslan, Miryokefalon'un galibidir." },
-      { "id": "C", "text": "Süleyman Şah", "explanation": "Süleyman Şah, devletin kurucusudur." },
-      { "id": "D", "text": "I. Gıyaseddin Keyhüsrev", "explanation": "Keyhüsrev, Antalya'yı fethetmiştir; Alanya oğlu Alaeddin'indir." }
+      {
+        "id": "A",
+        "text": "I. Gıyaseddin Keyhüsrev",
+        "explanation": "Keyhüsrev, Antalya'yı fethetmiştir; Alanya oğlu Alaeddin'indir."
+      },
+      {
+        "id": "B",
+        "text": "II. Kılıç Arslan",
+        "explanation": "II. Kılıç Arslan, Miryokefalon'un galibidir."
+      },
+      {
+        "id": "C",
+        "text": "I. Alaeddin Keykubad",
+        "explanation": "Doğru — Alaiye (Alanya) tersanesi ve Kızıl Kule onun eseridir; Kubadabad Sarayı'nı da yaptırmıştır."
+      },
+      {
+        "id": "D",
+        "text": "Süleyman Şah",
+        "explanation": "Süleyman Şah, devletin kurucusudur."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "genel-turk-tarihi-022",
@@ -302,10 +638,26 @@
     "difficulty": 2,
     "stem": "13 Mayıs 1277'de Türkçeyi resmi dil ilan eden fermanıyla tanınan bey aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Karamanoğlu Mehmet Bey", "explanation": "Doğru — 'Bugünden sonra divanda, dergâhta... Türkçeden başka dil kullanılmaya' fermanı Türk Dil Bayramı'nın kaynağıdır." },
-      { "id": "B", "text": "Osman Bey", "explanation": "Osman Bey, Osmanlı'nın kurucusudur; dil fermanıyla anılmaz." },
-      { "id": "C", "text": "Germiyanoğlu Yakup Bey", "explanation": "Germiyanoğulları Kütahya beyliğidir; ferman Karaman'ındır." },
-      { "id": "D", "text": "Aydınoğlu Umur Bey", "explanation": "Umur Bey denizciliğiyle ünlüdür." }
+      {
+        "id": "A",
+        "text": "Karamanoğlu Mehmet Bey",
+        "explanation": "Doğru — 'Bugünden sonra divanda, dergâhta... Türkçeden başka dil kullanılmaya' fermanı Türk Dil Bayramı'nın kaynağıdır."
+      },
+      {
+        "id": "B",
+        "text": "Germiyanoğlu Yakup Bey",
+        "explanation": "Germiyanoğulları Kütahya beyliğidir; ferman Karaman'ındır."
+      },
+      {
+        "id": "C",
+        "text": "Osman Bey",
+        "explanation": "Osman Bey, Osmanlı'nın kurucusudur; dil fermanıyla anılmaz."
+      },
+      {
+        "id": "D",
+        "text": "Aydınoğlu Umur Bey",
+        "explanation": "Umur Bey denizciliğiyle ünlüdür."
+      }
     ],
     "correct": "A"
   },
@@ -316,10 +668,26 @@
     "difficulty": 1,
     "stem": "Mesnevi'nin yazarı olan ve türbesi Konya'da bulunan mutasavvıf aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Mevlana Celaleddin Rumi", "explanation": "Doğru — türbesi (Yeşil Kubbe) Türkiye'nin en çok ziyaret edilen müzelerindendir; Şeb-i Arus törenleri aralıkta yapılır." },
-      { "id": "B", "text": "Hacı Bektaş Veli", "explanation": "Hacı Bektaş'ın dergâhı Nevşehir'dedir." },
-      { "id": "C", "text": "Yunus Emre", "explanation": "Yunus Emre'nin türbe iddiası birçok ilde vardır; Mesnevi Mevlana'nındır." },
-      { "id": "D", "text": "Ahmed Yesevi", "explanation": "Yesevi'nin türbesi Türkistan'dadır (Kazakistan)." }
+      {
+        "id": "A",
+        "text": "Mevlana Celaleddin Rumi",
+        "explanation": "Doğru — türbesi (Yeşil Kubbe) Türkiye'nin en çok ziyaret edilen müzelerindendir; Şeb-i Arus törenleri aralıkta yapılır."
+      },
+      {
+        "id": "B",
+        "text": "Hacı Bektaş Veli",
+        "explanation": "Hacı Bektaş'ın dergâhı Nevşehir'dedir."
+      },
+      {
+        "id": "C",
+        "text": "Yunus Emre",
+        "explanation": "Yunus Emre'nin türbe iddiası birçok ilde vardır; Mesnevi Mevlana'nındır."
+      },
+      {
+        "id": "D",
+        "text": "Ahmed Yesevi",
+        "explanation": "Yesevi'nin türbesi Türkistan'dadır (Kazakistan)."
+      }
     ],
     "correct": "A"
   },
@@ -330,12 +698,28 @@
     "difficulty": 2,
     "stem": "Ahiliğin kurucusu kabul edilen ve türbesi Kırşehir'de bulunan isim aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Ahi Evran", "explanation": "Doğru — debbağların (dericilerin) piri Ahi Evran, esnaf ahlak örgütü ahiliğin kurucusudur." },
-      { "id": "B", "text": "Hacı Bayram Veli", "explanation": "Hacı Bayram, Ankara'nın manevi mimarıdır." },
-      { "id": "C", "text": "Mevlana", "explanation": "Mevlana, Mevleviliğin kaynağıdır." },
-      { "id": "D", "text": "Somuncu Baba", "explanation": "Somuncu Baba, Bursa-Darende hattında anılan mutasavvıftır." }
+      {
+        "id": "A",
+        "text": "Hacı Bayram Veli",
+        "explanation": "Hacı Bayram, Ankara'nın manevi mimarıdır."
+      },
+      {
+        "id": "B",
+        "text": "Ahi Evran",
+        "explanation": "Doğru — debbağların (dericilerin) piri Ahi Evran, esnaf ahlak örgütü ahiliğin kurucusudur."
+      },
+      {
+        "id": "C",
+        "text": "Somuncu Baba",
+        "explanation": "Somuncu Baba, Bursa-Darende hattında anılan mutasavvıftır."
+      },
+      {
+        "id": "D",
+        "text": "Mevlana",
+        "explanation": "Mevlana, Mevleviliğin kaynağıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "genel-turk-tarihi-025",
@@ -344,12 +728,28 @@
     "difficulty": 1,
     "stem": "Milli Mücadele'nin başlangıcı kabul edilen olay aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Mustafa Kemal'in 19 Mayıs 1919'da Samsun'a çıkışı", "explanation": "Doğru — Nutuk da '1919 senesi Mayısının 19. günü Samsun'a çıktım' cümlesiyle başlar." },
-      { "id": "B", "text": "TBMM'nin açılması", "explanation": "TBMM 23 Nisan 1920'de, süreç başladıktan sonra açıldı." },
-      { "id": "C", "text": "Mondros Mütarekesi", "explanation": "Mondros (1918), mücadelenin nedeni olan işgallerin kapısıdır." },
-      { "id": "D", "text": "Erzurum Kongresi", "explanation": "Erzurum Kongresi, 23 Temmuz 1919'dadır." }
+      {
+        "id": "A",
+        "text": "TBMM'nin açılması",
+        "explanation": "TBMM 23 Nisan 1920'de, süreç başladıktan sonra açıldı."
+      },
+      {
+        "id": "B",
+        "text": "Mustafa Kemal'in 19 Mayıs 1919'da Samsun'a çıkışı",
+        "explanation": "Doğru — Nutuk da '1919 senesi Mayısının 19. günü Samsun'a çıktım' cümlesiyle başlar."
+      },
+      {
+        "id": "C",
+        "text": "Erzurum Kongresi",
+        "explanation": "Erzurum Kongresi, 23 Temmuz 1919'dadır."
+      },
+      {
+        "id": "D",
+        "text": "Mondros Mütarekesi",
+        "explanation": "Mondros (1918), mücadelenin nedeni olan işgallerin kapısıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "genel-turk-tarihi-026",
@@ -358,12 +758,28 @@
     "difficulty": 2,
     "stem": "Yeni Türk devletinin uluslararası alanda tanındığı, kapitülasyonların kaldırıldığı antlaşma aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Lozan Antlaşması (24 Temmuz 1923)", "explanation": "Doğru — İsmet Paşa başkanlığındaki heyetle imzalanan Lozan, cumhuriyetin tapu senedidir." },
-      { "id": "B", "text": "Sevr Antlaşması", "explanation": "Sevr (1920) uygulanamayan, reddedilen dayatmadır." },
-      { "id": "C", "text": "Mudanya Mütarekesi", "explanation": "Mudanya (Ekim 1922) ateşkestir; barış antlaşması değildir." },
-      { "id": "D", "text": "Ankara Antlaşması", "explanation": "Ankara (1921), Fransa'yla yapılan ikili antlaşmadır." }
+      {
+        "id": "A",
+        "text": "Mudanya Mütarekesi",
+        "explanation": "Mudanya (Ekim 1922) ateşkestir; barış antlaşması değildir."
+      },
+      {
+        "id": "B",
+        "text": "Sevr Antlaşması",
+        "explanation": "Sevr (1920) uygulanamayan, reddedilen dayatmadır."
+      },
+      {
+        "id": "C",
+        "text": "Lozan Antlaşması (24 Temmuz 1923)",
+        "explanation": "Doğru — İsmet Paşa başkanlığındaki heyetle imzalanan Lozan, cumhuriyetin tapu senedidir."
+      },
+      {
+        "id": "D",
+        "text": "Ankara Antlaşması",
+        "explanation": "Ankara (1921), Fransa'yla yapılan ikili antlaşmadır."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "genel-turk-tarihi-027",
@@ -372,12 +788,28 @@
     "difficulty": 2,
     "stem": "Türk Tarih Kurumu ve Türk Dil Kurumu'nun kuruluş yılları aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "TTK 1931 — TDK 1932", "explanation": "Doğru — Atatürk'ün kültür politikasının iki kurumu; İş Bankası hisselerinden pay vasiyet etmiştir." },
-      { "id": "B", "text": "TTK 1923 — TDK 1924", "explanation": "Cumhuriyetin ilk yıllarında değil, 1930'larda kuruldular." },
-      { "id": "C", "text": "TTK 1928 — TDK 1929", "explanation": "1928 Harf İnkılabı yılıdır; kurumlar sonradır." },
-      { "id": "D", "text": "TTK 1938 — TDK 1939", "explanation": "1938 Atatürk'ün vefat yılıdır; kurumlar ondan öncedir." }
+      {
+        "id": "A",
+        "text": "TTK 1928 — TDK 1929",
+        "explanation": "1928 Harf İnkılabı yılıdır; kurumlar sonradır."
+      },
+      {
+        "id": "B",
+        "text": "TTK 1938 — TDK 1939",
+        "explanation": "1938 Atatürk'ün vefat yılıdır; kurumlar ondan öncedir."
+      },
+      {
+        "id": "C",
+        "text": "TTK 1931 — TDK 1932",
+        "explanation": "Doğru — Atatürk'ün kültür politikasının iki kurumu; İş Bankası hisselerinden pay vasiyet etmiştir."
+      },
+      {
+        "id": "D",
+        "text": "TTK 1923 — TDK 1924",
+        "explanation": "Cumhuriyetin ilk yıllarında değil, 1930'larda kuruldular."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "genel-turk-tarihi-028",
@@ -386,12 +818,28 @@
     "difficulty": 3,
     "stem": "Orhun Yazıtları'nı 1893'te çözerek okuyan bilim insanı aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Wilhelm Thomsen", "explanation": "Doğru — Danimarkalı dilbilimci Thomsen, önce 'Tengri', 'Türk' ve 'Kül Tigin' sözcüklerini çözdü." },
-      { "id": "B", "text": "Wilhelm Radloff", "explanation": "Radloff yazıtları yayımlayan büyük Türkologdur ama çözüm Thomsen'indir — ikili sık karıştırılır." },
-      { "id": "C", "text": "Heinrich Schliemann", "explanation": "Schliemann, Troya kazıcısıdır." },
-      { "id": "D", "text": "Jean-François Champollion", "explanation": "Champollion, Mısır hiyeroglifini çözmüştür." }
+      {
+        "id": "A",
+        "text": "Heinrich Schliemann",
+        "explanation": "Schliemann, Troya kazıcısıdır."
+      },
+      {
+        "id": "B",
+        "text": "Jean-François Champollion",
+        "explanation": "Champollion, Mısır hiyeroglifini çözmüştür."
+      },
+      {
+        "id": "C",
+        "text": "Wilhelm Radloff",
+        "explanation": "Radloff yazıtları yayımlayan büyük Türkologdur ama çözüm Thomsen'indir — ikili sık karıştırılır."
+      },
+      {
+        "id": "D",
+        "text": "Wilhelm Thomsen",
+        "explanation": "Doğru — Danimarkalı dilbilimci Thomsen, önce 'Tengri', 'Türk' ve 'Kül Tigin' sözcüklerini çözdü."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "genel-turk-tarihi-029",
@@ -400,12 +848,28 @@
     "difficulty": 2,
     "stem": "Eski Türk devletlerinde devlet işlerinin görüşüldüğü boy beyleri meclisine ne ad verilir?",
     "choices": [
-      { "id": "A", "text": "Kurultay", "explanation": "Doğru — kurultay (toy), kağan seçimi ve savaş kararlarında toplanırdı; 'kurultay' sözcüğü bugün de yaşar." },
-      { "id": "B", "text": "Divan-ı Hümayun", "explanation": "Divan, Osmanlı kurumudur." },
-      { "id": "C", "text": "Pankuş", "explanation": "Pankuş, Hitit meclisidir." },
-      { "id": "D", "text": "Ekklesia", "explanation": "Ekklesia, Atina halk meclisidir." }
+      {
+        "id": "A",
+        "text": "Ekklesia",
+        "explanation": "Ekklesia, Atina halk meclisidir."
+      },
+      {
+        "id": "B",
+        "text": "Kurultay",
+        "explanation": "Doğru — kurultay (toy), kağan seçimi ve savaş kararlarında toplanırdı; 'kurultay' sözcüğü bugün de yaşar."
+      },
+      {
+        "id": "C",
+        "text": "Pankuş",
+        "explanation": "Pankuş, Hitit meclisidir."
+      },
+      {
+        "id": "D",
+        "text": "Divan-ı Hümayun",
+        "explanation": "Divan, Osmanlı kurumudur."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "genel-turk-tarihi-030",
@@ -414,12 +878,28 @@
     "difficulty": 3,
     "stem": "Anadolu'da 'ikinci beylikler dönemi'nin başlamasına yol açan gelişme aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Kösedağ yenilgisi sonrası Selçuklu otoritesinin çökmesi", "explanation": "Doğru — 1243 sonrası uç beyleri bağımsızlaşarak Osmanlı, Karaman, Germiyan gibi beylikleri kurdu." },
-      { "id": "B", "text": "Malazgirt Zaferi", "explanation": "Malazgirt, BİRİNCİ beylikler döneminin (Saltuklu, Danişmentli...) kapısıdır — iki dönem karıştırılır." },
-      { "id": "C", "text": "İstanbul'un fethi", "explanation": "Fetih (1453), beylikler döneminden çok sonradır." },
-      { "id": "D", "text": "Talas Savaşı", "explanation": "Talas, Orta Asya olayıdır." }
+      {
+        "id": "A",
+        "text": "Talas Savaşı",
+        "explanation": "Talas, Orta Asya olayıdır."
+      },
+      {
+        "id": "B",
+        "text": "İstanbul'un fethi",
+        "explanation": "Fetih (1453), beylikler döneminden çok sonradır."
+      },
+      {
+        "id": "C",
+        "text": "Malazgirt Zaferi",
+        "explanation": "Malazgirt, BİRİNCİ beylikler döneminin (Saltuklu, Danişmentli...) kapısıdır — iki dönem karıştırılır."
+      },
+      {
+        "id": "D",
+        "text": "Kösedağ yenilgisi sonrası Selçuklu otoritesinin çökmesi",
+        "explanation": "Doğru — 1243 sonrası uç beyleri bağımsızlaşarak Osmanlı, Karaman, Germiyan gibi beylikleri kurdu."
+      }
     ],
-    "correct": "A",
+    "correct": "D",
     "trick": "Birinci beylikler = Malazgirt sonrası (1071+); ikinci beylikler = Kösedağ sonrası (1243+)."
   },
   {
@@ -429,12 +909,28 @@
     "difficulty": 3,
     "stem": "Uygurların kullandığı, Mani ve Buda kültürüyle beslenen sanat alanı Türk-İslam sanatına aşağıdakilerden hangisiyle miras kalmıştır?",
     "choices": [
-      { "id": "A", "text": "Minyatür geleneği", "explanation": "Doğru — Uygur duvar resmi ve kitap resmi, İslami dönemin minyatür sanatının köklerinden sayılır." },
-      { "id": "B", "text": "Çini mozaik", "explanation": "Çini, İslami dönemde İran-Orta Asya etkileşimiyle gelişti; Uygur mirası resimdir." },
-      { "id": "C", "text": "Hat sanatı", "explanation": "Hat, Arap yazısının estetiğidir." },
-      { "id": "D", "text": "Ebru", "explanation": "Ebru, çok sonraki bir kitap sanatıdır." }
+      {
+        "id": "A",
+        "text": "Hat sanatı",
+        "explanation": "Hat, Arap yazısının estetiğidir."
+      },
+      {
+        "id": "B",
+        "text": "Ebru",
+        "explanation": "Ebru, çok sonraki bir kitap sanatıdır."
+      },
+      {
+        "id": "C",
+        "text": "Minyatür geleneği",
+        "explanation": "Doğru — Uygur duvar resmi ve kitap resmi, İslami dönemin minyatür sanatının köklerinden sayılır."
+      },
+      {
+        "id": "D",
+        "text": "Çini mozaik",
+        "explanation": "Çini, İslami dönemde İran-Orta Asya etkileşimiyle gelişti; Uygur mirası resimdir."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "genel-turk-tarihi-032",
@@ -443,10 +939,26 @@
     "difficulty": 3,
     "stem": "Tuğrul Bey'in 1055 Bağdat seferinin sonucu aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Abbasi halifesini Şii Büveyhi baskısından kurtarıp 'Doğu'nun ve Batı'nın Sultanı' unvanını alması", "explanation": "Doğru — bu olayla Selçuklu, İslam dünyasının siyasi koruyucusu haline geldi." },
-      { "id": "B", "text": "Halifeliğin Selçuklu hanedanına geçmesi", "explanation": "Halifelik Abbasilerde kaldı; koruma Selçuklu'ya geçti. (Osmanlı'ya geçiş 1517'dir.)" },
-      { "id": "C", "text": "Bağdat'ın başkent yapılması", "explanation": "Selçuklu başkentleri Rey-İsfahan hattıdır." },
-      { "id": "D", "text": "Bizans'la ittifak kurulması", "explanation": "Bizans'la ittifak söz konusu değildir." }
+      {
+        "id": "A",
+        "text": "Abbasi halifesini Şii Büveyhi baskısından kurtarıp 'Doğu'nun ve Batı'nın Sultanı' unvanını alması",
+        "explanation": "Doğru — bu olayla Selçuklu, İslam dünyasının siyasi koruyucusu haline geldi."
+      },
+      {
+        "id": "B",
+        "text": "Bağdat'ın başkent yapılması",
+        "explanation": "Selçuklu başkentleri Rey-İsfahan hattıdır."
+      },
+      {
+        "id": "C",
+        "text": "Halifeliğin Selçuklu hanedanına geçmesi",
+        "explanation": "Halifelik Abbasilerde kaldı; koruma Selçuklu'ya geçti. (Osmanlı'ya geçiş 1517'dir.)"
+      },
+      {
+        "id": "D",
+        "text": "Bizans'la ittifak kurulması",
+        "explanation": "Bizans'la ittifak söz konusu değildir."
+      }
     ],
     "correct": "A"
   },
@@ -457,12 +969,28 @@
     "difficulty": 2,
     "stem": "'Misak-ı Milli' kararlarının temeli olan, 'Manda ve himaye kabul olunamaz' kararının ilk kez alındığı kongre aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Erzurum Kongresi", "explanation": "Doğru — 23 Temmuz-7 Ağustos 1919; bölgesel toplanmasına rağmen ulusal kararlar aldı." },
-      { "id": "B", "text": "Sivas Kongresi", "explanation": "Sivas (4-11 Eylül 1919) kararları ulusal ölçekte BİRLEŞTİRDİ; 'ilk kez' Erzurum'dadır." },
-      { "id": "C", "text": "Amasya Görüşmeleri", "explanation": "Amasya Görüşmeleri, İstanbul hükümetiyle yapılan temastır (Ekim 1919)." },
-      { "id": "D", "text": "Ankara Kongresi", "explanation": "'Ankara Kongresi' diye bir kongre yoktur." }
+      {
+        "id": "A",
+        "text": "Sivas Kongresi",
+        "explanation": "Sivas (4-11 Eylül 1919) kararları ulusal ölçekte BİRLEŞTİRDİ; 'ilk kez' Erzurum'dadır."
+      },
+      {
+        "id": "B",
+        "text": "Amasya Görüşmeleri",
+        "explanation": "Amasya Görüşmeleri, İstanbul hükümetiyle yapılan temastır (Ekim 1919)."
+      },
+      {
+        "id": "C",
+        "text": "Erzurum Kongresi",
+        "explanation": "Doğru — 23 Temmuz-7 Ağustos 1919; bölgesel toplanmasına rağmen ulusal kararlar aldı."
+      },
+      {
+        "id": "D",
+        "text": "Ankara Kongresi",
+        "explanation": "'Ankara Kongresi' diye bir kongre yoktur."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "genel-turk-tarihi-034",
@@ -471,12 +999,28 @@
     "difficulty": 2,
     "stem": "Türk mutfak ve çadır kültürünün simgesi olan keçe kaplı, sökülüp taşınabilir konuta ne ad verilir?",
     "choices": [
-      { "id": "A", "text": "Yurt (topak ev)", "explanation": "Doğru — bozkır yaşamının konutu; kubbeli ahşap iskeleti ve keçesiyle Orta Asya'da hâlâ kullanılır." },
-      { "id": "B", "text": "Konak", "explanation": "Konak, yerleşik kültürün büyük ahşap evidir." },
-      { "id": "C", "text": "Yayla evi", "explanation": "Yayla evi sabittir; taşınmaz." },
-      { "id": "D", "text": "Baraka", "explanation": "Baraka, derme çatma modern yapıdır." }
+      {
+        "id": "A",
+        "text": "Yayla evi",
+        "explanation": "Yayla evi sabittir; taşınmaz."
+      },
+      {
+        "id": "B",
+        "text": "Konak",
+        "explanation": "Konak, yerleşik kültürün büyük ahşap evidir."
+      },
+      {
+        "id": "C",
+        "text": "Yurt (topak ev)",
+        "explanation": "Doğru — bozkır yaşamının konutu; kubbeli ahşap iskeleti ve keçesiyle Orta Asya'da hâlâ kullanılır."
+      },
+      {
+        "id": "D",
+        "text": "Baraka",
+        "explanation": "Baraka, derme çatma modern yapıdır."
+      }
     ],
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "genel-turk-tarihi-035",
@@ -485,12 +1029,28 @@
     "difficulty": 2,
     "stem": "Latin esaslı yeni Türk alfabesinin kabul edildiği yıl aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "1928", "explanation": "Doğru — 1 Kasım 1928'de kabul edildi; Millet Mektepleri ile okuma-yazma seferberliği başladı." },
-      { "id": "B", "text": "1923", "explanation": "1923, cumhuriyetin ilanıdır." },
-      { "id": "C", "text": "1924", "explanation": "1924, halifeliğin kaldırılması ve Tevhid-i Tedrisat yılıdır." },
-      { "id": "D", "text": "1934", "explanation": "1934, soyadı kanunu yılıdır." }
+      {
+        "id": "A",
+        "text": "1934",
+        "explanation": "1934, soyadı kanunu yılıdır."
+      },
+      {
+        "id": "B",
+        "text": "1923",
+        "explanation": "1923, cumhuriyetin ilanıdır."
+      },
+      {
+        "id": "C",
+        "text": "1924",
+        "explanation": "1924, halifeliğin kaldırılması ve Tevhid-i Tedrisat yılıdır."
+      },
+      {
+        "id": "D",
+        "text": "1928",
+        "explanation": "Doğru — 1 Kasım 1928'de kabul edildi; Millet Mektepleri ile okuma-yazma seferberliği başladı."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "genel-turk-tarihi-036",
@@ -499,12 +1059,28 @@
     "difficulty": 3,
     "stem": "Karahanlılar ile Gaznelileri ayıran temel kültürel fark aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Karahanlıların Türkçeyi resmi dil olarak koruması, Gaznelilerde yönetim dilinin Farsça-Arapça olması", "explanation": "Doğru — bu yüzden ilk Türk-İslam edebiyatı eserleri Karahanlı sahasında doğdu." },
-      { "id": "B", "text": "Karahanlıların Budist kalması", "explanation": "Karahanlılar Müslümandır (ilk Müslüman Türk devleti!)." },
-      { "id": "C", "text": "Gaznelilerin denizci olması", "explanation": "Gazne, karasal Afganistan merkezlidir." },
-      { "id": "D", "text": "Karahanlıların Anadolu'da kurulması", "explanation": "Karahanlılar Orta Asya'dadır (Kaşgar-Balasagun)." }
+      {
+        "id": "A",
+        "text": "Karahanlıların Budist kalması",
+        "explanation": "Karahanlılar Müslümandır (ilk Müslüman Türk devleti!)."
+      },
+      {
+        "id": "B",
+        "text": "Karahanlıların Türkçeyi resmi dil olarak koruması, Gaznelilerde yönetim dilinin Farsça-Arapça olması",
+        "explanation": "Doğru — bu yüzden ilk Türk-İslam edebiyatı eserleri Karahanlı sahasında doğdu."
+      },
+      {
+        "id": "C",
+        "text": "Gaznelilerin denizci olması",
+        "explanation": "Gazne, karasal Afganistan merkezlidir."
+      },
+      {
+        "id": "D",
+        "text": "Karahanlıların Anadolu'da kurulması",
+        "explanation": "Karahanlılar Orta Asya'dadır (Kaşgar-Balasagun)."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "genel-turk-tarihi-037",
@@ -513,12 +1089,28 @@
     "difficulty": 3,
     "stem": "Hoca Ahmed Yesevi'nin Türk tasavvuf edebiyatını başlatan eseri aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Divan-ı Hikmet", "explanation": "Doğru — 'hikmet' adlı şiirlerden oluşur; Yesevilik yoluyla Anadolu tasavvufunu (Yunus Emre çizgisini) besledi." },
-      { "id": "B", "text": "Mesnevi", "explanation": "Mesnevi, Mevlana'nın Farsça başyapıtıdır." },
-      { "id": "C", "text": "Makalat", "explanation": "Makalat, Hacı Bektaş Veli'ye atfedilir." },
-      { "id": "D", "text": "Risaletü'n-Nushiyye", "explanation": "Bu eser Yunus Emre'nindir." }
+      {
+        "id": "A",
+        "text": "Risaletü'n-Nushiyye",
+        "explanation": "Bu eser Yunus Emre'nindir."
+      },
+      {
+        "id": "B",
+        "text": "Divan-ı Hikmet",
+        "explanation": "Doğru — 'hikmet' adlı şiirlerden oluşur; Yesevilik yoluyla Anadolu tasavvufunu (Yunus Emre çizgisini) besledi."
+      },
+      {
+        "id": "C",
+        "text": "Mesnevi",
+        "explanation": "Mesnevi, Mevlana'nın Farsça başyapıtıdır."
+      },
+      {
+        "id": "D",
+        "text": "Makalat",
+        "explanation": "Makalat, Hacı Bektaş Veli'ye atfedilir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "genel-turk-tarihi-038",
@@ -527,12 +1119,28 @@
     "difficulty": 2,
     "stem": "Kurtuluş Savaşı'nda 'hattı müdafaa yoktur, sathı müdafaa vardır' emrinin verildiği savaş aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Sakarya Meydan Muharebesi", "explanation": "Doğru — 23 Ağustos-13 Eylül 1921; Mustafa Kemal başkomutan olarak ilk kez bu savaşı yönetti." },
-      { "id": "B", "text": "Büyük Taarruz", "explanation": "Büyük Taarruz'un (1922) ünlü emri 'Ordular! İlk hedefiniz Akdeniz'dir'." },
-      { "id": "C", "text": "I. İnönü", "explanation": "İnönü savaşları 1921 başındadır; emir Sakarya'ya aittir." },
-      { "id": "D", "text": "Çanakkale", "explanation": "Çanakkale'nin (1915) ünlü emri 'Size ölmeyi emrediyorum'dur." }
+      {
+        "id": "A",
+        "text": "Büyük Taarruz",
+        "explanation": "Büyük Taarruz'un (1922) ünlü emri 'Ordular! İlk hedefiniz Akdeniz'dir'."
+      },
+      {
+        "id": "B",
+        "text": "Sakarya Meydan Muharebesi",
+        "explanation": "Doğru — 23 Ağustos-13 Eylül 1921; Mustafa Kemal başkomutan olarak ilk kez bu savaşı yönetti."
+      },
+      {
+        "id": "C",
+        "text": "Çanakkale",
+        "explanation": "Çanakkale'nin (1915) ünlü emri 'Size ölmeyi emrediyorum'dur."
+      },
+      {
+        "id": "D",
+        "text": "I. İnönü",
+        "explanation": "İnönü savaşları 1921 başındadır; emir Sakarya'ya aittir."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "genel-turk-tarihi-039",
@@ -541,12 +1149,28 @@
     "difficulty": 2,
     "stem": "Orhun Yazıtları'nın içeriğiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "choices": [
-      { "id": "A", "text": "Devlet yönetimi anlayışını ve hükümdarın halka hesap vermesini içerir", "explanation": "Doğru — 'Aç halkı doyurdum, çıplak halkı giydirdim' ifadeleri sosyal devlet anlayışının erken örneğidir." },
-      { "id": "B", "text": "Yalnızca dini dualardan oluşur", "explanation": "Yazıtlar siyasi vasiyet niteliğindedir; dua derlemesi değildir." },
-      { "id": "C", "text": "Çince yazılmıştır", "explanation": "Ana metin Göktürk alfabesiyle Türkçedir (bir yüzünde Çince özet vardır)." },
-      { "id": "D", "text": "İslam'ın kabulünü anlatır", "explanation": "Yazıtlar İslam öncesidir; Gök Tanrı inancını yansıtır." }
+      {
+        "id": "A",
+        "text": "Çince yazılmıştır",
+        "explanation": "Ana metin Göktürk alfabesiyle Türkçedir (bir yüzünde Çince özet vardır)."
+      },
+      {
+        "id": "B",
+        "text": "İslam'ın kabulünü anlatır",
+        "explanation": "Yazıtlar İslam öncesidir; Gök Tanrı inancını yansıtır."
+      },
+      {
+        "id": "C",
+        "text": "Yalnızca dini dualardan oluşur",
+        "explanation": "Yazıtlar siyasi vasiyet niteliğindedir; dua derlemesi değildir."
+      },
+      {
+        "id": "D",
+        "text": "Devlet yönetimi anlayışını ve hükümdarın halka hesap vermesini içerir",
+        "explanation": "Doğru — 'Aç halkı doyurdum, çıplak halkı giydirdim' ifadeleri sosyal devlet anlayışının erken örneğidir."
+      }
     ],
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": "genel-turk-tarihi-040",
@@ -555,11 +1179,27 @@
     "difficulty": 3,
     "stem": "Kütahya merkezli olup Osmanlı'ya çeyiz yoluyla toprak bırakan, kültür hayatıyla ünlü beylik aşağıdakilerden hangisidir?",
     "choices": [
-      { "id": "A", "text": "Germiyanoğulları", "explanation": "Doğru — Süleyman Şah'ın kızının Yıldırım'la evliliğiyle Kütahya çevresi Osmanlı'ya çeyiz olarak geçti; şair Şeyhi bu saraydandır." },
-      { "id": "B", "text": "Karamanoğulları", "explanation": "Karaman, Osmanlı'nın en uzun direnen rakibidir; çeyiz değil fetihle alındı." },
-      { "id": "C", "text": "Candaroğulları", "explanation": "Candarlılar Kastamonu-Sinop beyliğidir." },
-      { "id": "D", "text": "Dulkadiroğulları", "explanation": "Dulkadir, Maraş yöresindedir; Osmanlı'ya en son katılan beyliktir (1515)." }
+      {
+        "id": "A",
+        "text": "Candaroğulları",
+        "explanation": "Candarlılar Kastamonu-Sinop beyliğidir."
+      },
+      {
+        "id": "B",
+        "text": "Germiyanoğulları",
+        "explanation": "Doğru — Süleyman Şah'ın kızının Yıldırım'la evliliğiyle Kütahya çevresi Osmanlı'ya çeyiz olarak geçti; şair Şeyhi bu saraydandır."
+      },
+      {
+        "id": "C",
+        "text": "Dulkadiroğulları",
+        "explanation": "Dulkadir, Maraş yöresindedir; Osmanlı'ya en son katılan beyliktir (1515)."
+      },
+      {
+        "id": "D",
+        "text": "Karamanoğulları",
+        "explanation": "Karaman, Osmanlı'nın en uzun direnen rakibidir; çeyiz değil fetihle alındı."
+      }
     ],
-    "correct": "A"
+    "correct": "B"
   }
 ]
