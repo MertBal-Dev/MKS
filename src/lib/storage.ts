@@ -28,7 +28,13 @@ export const AppStateSchema = z.object({
   attempts: z.record(z.string(), AttemptSchema),
   flagged: z.array(z.string()),
   wrongPool: z.record(z.string(), z.object({ addedAt: z.string(), consecutiveCorrect: z.number().int().min(0) })),
-  srs: z.record(z.string(), z.object({ box: z.number().int().min(1).max(5), dueAt: z.string() })),
+  srs: z.record(
+    z.string(),
+    z.object({
+      box: z.union([z.literal(1), z.literal(2), z.literal(3), z.literal(4), z.literal(5)]),
+      dueAt: z.string(),
+    }),
+  ),
   examResults: z.array(ExamResultSchema),
   planProgress: z.record(z.string(), z.boolean()),
   streak: z.object({ lastStudyDay: z.string(), current: z.number().int().min(0), best: z.number().int().min(0) }),
