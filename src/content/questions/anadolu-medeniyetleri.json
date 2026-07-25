@@ -1,0 +1,578 @@
+[
+  {
+    "id": "anadolu-medeniyetleri-001",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Neolitik Çağ",
+    "difficulty": 1,
+    "stem": "Bilinen en eski anıtsal tapınak kompleksi olan Göbeklitepe hangi ilimizdedir?",
+    "choices": [
+      { "id": "A", "text": "Şanlıurfa", "explanation": "Doğru — Göbeklitepe, Şanlıurfa'dadır; MÖ 9600'lere tarihlenir ve 2018'de UNESCO listesine girmiştir." },
+      { "id": "B", "text": "Konya", "explanation": "Konya'daki ünlü Neolitik merkez Çatalhöyük'tür, Göbeklitepe değil." },
+      { "id": "C", "text": "Diyarbakır", "explanation": "Diyarbakır'daki erken Neolitik merkez Çayönü'dür." },
+      { "id": "D", "text": "Aksaray", "explanation": "Aksaray'daki Neolitik merkez Aşıklı Höyük'tür." }
+    ],
+    "correct": "A",
+    "trick": "Göbeklitepe-Şanlıurfa, Çatalhöyük-Konya, Çayönü-Diyarbakır eşleşmeleri sık sık birbirinin çeldiricisi olur."
+  },
+  {
+    "id": "anadolu-medeniyetleri-002",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Neolitik Çağ",
+    "difficulty": 1,
+    "stem": "Evlerine damdan girilen, sokakları olmayan ve ana tanrıça figürinleriyle ünlü Neolitik yerleşim aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Göbeklitepe", "explanation": "Göbeklitepe bir yerleşim değil, tapınak kompleksidir." },
+      { "id": "B", "text": "Çatalhöyük", "explanation": "Doğru — Çatalhöyük'te evler bitişik düzendedir, giriş damdandır; ana tanrıça figürinleri ve duvar resimleri buradan çıkmıştır." },
+      { "id": "C", "text": "Alacahöyük", "explanation": "Alacahöyük, Hatti kral mezarları ve güneş kurslarıyla ünlüdür; Tunç Çağı merkezi olarak öne çıkar." },
+      { "id": "D", "text": "Kültepe", "explanation": "Kültepe, Asur Ticaret Kolonileri Çağı'nın merkezi olan Kaneş karumudur." }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "anadolu-medeniyetleri-003",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Neolitik Çağ",
+    "difficulty": 3,
+    "stem": "Göbeklitepe kazılarını uzun yıllar yöneten ve alanı dünyaya tanıtan Alman arkeolog kimdir?",
+    "choices": [
+      { "id": "A", "text": "Klaus Schmidt", "explanation": "Doğru — Klaus Schmidt 1995'ten 2014'teki ölümüne dek Göbeklitepe kazılarını yönetti." },
+      { "id": "B", "text": "James Mellaart", "explanation": "Mellaart, Çatalhöyük'ün ilk kazıcısıdır." },
+      { "id": "C", "text": "Heinrich Schliemann", "explanation": "Schliemann, Troya'yı kazan araştırmacıdır." },
+      { "id": "D", "text": "Carl Humann", "explanation": "Humann, Bergama Zeus Sunağı'nı ortaya çıkaran mühendistir." }
+    ],
+    "correct": "A",
+    "trick": "Kazıcı eşleştirmesi klasik sorudur: Schmidt-Göbeklitepe, Mellaart-Çatalhöyük, Schliemann-Troya, Humann-Bergama."
+  },
+  {
+    "id": "anadolu-medeniyetleri-004",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Hatti",
+    "difficulty": 2,
+    "stem": "Ankara'nın da simgesi olan güneş kursları hangi uygarlığın eseridir?",
+    "choices": [
+      { "id": "A", "text": "Hitit", "explanation": "Güneş kursları Hititlerden önceki Hatti dönemine aittir; Hititler Hatti kültüründen etkilenmiştir ama eser Hatti'dir." },
+      { "id": "B", "text": "Frig", "explanation": "Frigler tapates dokumaları ve fibulayla anılır, güneş kurslarıyla değil." },
+      { "id": "C", "text": "Hatti", "explanation": "Doğru — Alacahöyük kral mezarlarından çıkan tunç güneş kursları Hatti sanatının simgesidir." },
+      { "id": "D", "text": "Urartu", "explanation": "Urartular kale mimarisi ve su kanallarıyla ünlüdür." }
+    ],
+    "correct": "C",
+    "trick": "'Hatti mi Hitit mi?' — güneş kursu sorulursa cevap her zaman Hatti'dir."
+  },
+  {
+    "id": "anadolu-medeniyetleri-005",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Asur Ticaret Kolonileri",
+    "difficulty": 1,
+    "stem": "Anadolu'nun bilinen ilk yazılı belgeleri aşağidaki merkezlerin hangisinde bulunmuştur?",
+    "choices": [
+      { "id": "A", "text": "Hattuşa", "explanation": "Hattuşa arşivleri önemlidir ama Anadolu'nun İLK yazılı belgeleri daha eski olan Kültepe tabletleridir." },
+      { "id": "B", "text": "Kültepe (Kaneş)", "explanation": "Doğru — Kayseri Kültepe'deki karumda bulunan Asurca çivi yazılı 'Kapadokya Tabletleri' Anadolu'nun ilk yazılı belgeleridir." },
+      { "id": "C", "text": "Gordion", "explanation": "Gordion, Friglerin başkentidir; ilk yazılı belgelerle ilgisi yoktur." },
+      { "id": "D", "text": "Troya", "explanation": "Troya'da bu nitelikte erken yazılı arşiv bulunmamıştır." }
+    ],
+    "correct": "B",
+    "trick": "Anadolu'da tarih çağları Kültepe tabletleriyle başlar — yazıyı getiren Hititler değil, Asurlu tüccarlardır."
+  },
+  {
+    "id": "anadolu-medeniyetleri-006",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Asur Ticaret Kolonileri",
+    "difficulty": 2,
+    "stem": "Asur Ticaret Kolonileri Çağı'nda Anadolu'daki pazar yerlerine verilen ad aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Karum", "explanation": "Doğru — Asurlu tüccarların kurduğu ticaret merkezlerine karum denir; en büyüğü Kültepe/Kaneş karumudur." },
+      { "id": "B", "text": "Agora", "explanation": "Agora, Yunan şehir devletlerindeki pazar ve toplanma alanıdır." },
+      { "id": "C", "text": "Forum", "explanation": "Forum, Roma şehirlerindeki meydandır." },
+      { "id": "D", "text": "Bedesten", "explanation": "Bedesten, Osmanlı çarşılarında değerli malların satıldığı kapalı yapıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-007",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Hitit",
+    "difficulty": 1,
+    "stem": "Hitit Devleti'nin kurucusu aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "I. Hattuşili", "explanation": "Doğru — I. Hattuşili MÖ 1650 civarında Hattuşa merkezli Hitit Devleti'ni kurdu (bu soru Şubat 2025 oturumunda soruldu)." },
+      { "id": "B", "text": "I. Şuppiluliuma", "explanation": "Şuppiluliuma kurucusu değil, imparatorluk dönemini başlatan kraldır." },
+      { "id": "C", "text": "II. Muvatalli", "explanation": "Muvatalli, Kadeş Savaşı'nı yapan kraldır." },
+      { "id": "D", "text": "IV. Tuthaliya", "explanation": "IV. Tuthaliya geç dönem krallarındandır; Yazılıkaya'yı son haline getirtmiştir." }
+    ],
+    "correct": "A",
+    "trick": "Kurucu = I. Hattuşili. Şuppiluliuma 'en güçlü kral' diye kurucu sanılır — klasik tuzak."
+  },
+  {
+    "id": "anadolu-medeniyetleri-008",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Hitit",
+    "difficulty": 1,
+    "stem": "Tarihin bilinen ilk yazılı barış antlaşması aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kadeş Antlaşması", "explanation": "Doğru — MÖ 1259'da Hitit kralı III. Hattuşili ile Mısır firavunu II. Ramses arasında imzalandı." },
+      { "id": "B", "text": "Vestfalya Antlaşması", "explanation": "Vestfalya (1648) modern diplomasi açısından önemlidir ama ilk yazılı antlaşma değildir." },
+      { "id": "C", "text": "Apameia Antlaşması", "explanation": "Apameia (MÖ 188), Roma ile Selevkoslar arasındadır; Kadeş'ten çok sonradır." },
+      { "id": "D", "text": "Amasya Antlaşması", "explanation": "Amasya (1555), Osmanlı-Safevi antlaşmasıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-009",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Hitit",
+    "difficulty": 3,
+    "stem": "Kadeş Antlaşması'nı Hitit tarafında imzalayan kral aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "II. Muvatalli", "explanation": "Muvatalli Kadeş SAVAŞI'nı yaptı (MÖ 1274) ama antlaşmadan önce öldü." },
+      { "id": "B", "text": "III. Hattuşili", "explanation": "Doğru — antlaşma MÖ 1259'da III. Hattuşili döneminde imzalandı; eşi Puduhepa'nın mührü de antlaşmada yer alır." },
+      { "id": "C", "text": "I. Murşili", "explanation": "I. Murşili, Babil'i yağmalayan erken dönem kralıdır." },
+      { "id": "D", "text": "I. Hattuşili", "explanation": "I. Hattuşili kurucu kraldır; Kadeş'ten yaklaşık 400 yıl önce yaşamıştır." }
+    ],
+    "correct": "B",
+    "trick": "Savaşı yapan Muvatalli, antlaşmayı imzalayan III. Hattuşili — soru kökünde 'savaş' mı 'antlaşma' mı geçtiğine bak."
+  },
+  {
+    "id": "anadolu-medeniyetleri-010",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Hitit",
+    "difficulty": 2,
+    "stem": "Hititlerde soylulardan oluşan danışma meclisine verilen ad aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Pankuş", "explanation": "Doğru — Pankuş, kralın yetkilerini törpüleyen soylular meclisiydi." },
+      { "id": "B", "text": "Tavananna", "explanation": "Tavananna meclis değil, Hitit kraliçesinin unvanıdır." },
+      { "id": "C", "text": "Satraplık", "explanation": "Satraplık, Pers eyalet sistemidir." },
+      { "id": "D", "text": "Apella", "explanation": "Apella, Sparta'daki halk meclisidir." }
+    ],
+    "correct": "A",
+    "trick": "Pankuş = meclis, Tavananna = kraliçe. İkisi neredeyse her sınavda birbirinin çeldiricisidir."
+  },
+  {
+    "id": "anadolu-medeniyetleri-011",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Hitit",
+    "difficulty": 2,
+    "stem": "Hitit krallarının tanrılara hesap vermek amacıyla tarafsız biçimde yazdırdığı yıllıklara ne ad verilir?",
+    "choices": [
+      { "id": "A", "text": "Anal", "explanation": "Doğru — anallar, kralların zaferleriyle birlikte yenilgilerini de içerdiği için tarafsız tarih yazıcılığının ilk örnekleri sayılır." },
+      { "id": "B", "text": "Sagu", "explanation": "Böyle bir yıllık türü yoktur; çeldiricidir." },
+      { "id": "C", "text": "Vekayiname", "explanation": "Vekayiname, Osmanlı dönemi olay yazıcılığıdır." },
+      { "id": "D", "text": "Şehname", "explanation": "Şehname, Firdevsi'nin İran destanıdır; Osmanlı'da da şehnamecilik vardır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-012",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Hitit",
+    "difficulty": 2,
+    "stem": "Hattuşa yakınlarındaki Yazılıkaya açık hava tapınağı hangi uygarlığa aittir?",
+    "choices": [
+      { "id": "A", "text": "Frig", "explanation": "Friglerin kaya anıtları (Midas Anıtı/Yazılıkaya-Midas Kenti Eskişehir'dedir) farklıdır — bu klasik bir isim tuzağıdır." },
+      { "id": "B", "text": "Hitit", "explanation": "Doğru — Çorum'daki Yazılıkaya, Hititlerin en önemli açık hava tapınağıdır; 12 yeraltı tanrısı kabartmasıyla ünlüdür." },
+      { "id": "C", "text": "Urartu", "explanation": "Urartu kaya mimarisi Van çevresindedir." },
+      { "id": "D", "text": "Lidya", "explanation": "Lidya'nın dini kaya anıtı geleneği yoktur; Sardes ve tümülüsleriyle bilinir." }
+    ],
+    "correct": "B",
+    "trick": "İki Yazılıkaya vardır: Çorum Yazılıkaya = Hitit tapınağı; Eskişehir Yazılıkaya (Midas Kenti) = Frig. Şehre dikkat!"
+  },
+  {
+    "id": "anadolu-medeniyetleri-013",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Hitit",
+    "difficulty": 3,
+    "stem": "MÖ 1595 civarında Babil'i yağmalayan Hitit kralı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "I. Murşili", "explanation": "Doğru — I. Murşili Halep'i aldıktan sonra Babil'e sefer düzenleyip Hammurabi hanedanına son verdi." },
+      { "id": "B", "text": "I. Hattuşili", "explanation": "Hattuşili Murşili'nin selefi ve büyükbabasıdır; Babil seferini yapamadan öldü." },
+      { "id": "C", "text": "II. Muvatalli", "explanation": "Muvatalli çok sonra, Kadeş döneminde yaşamıştır." },
+      { "id": "D", "text": "Telipinu", "explanation": "Telipinu, taht kavgalarını düzenleyen fermanıyla (Telipinu Fermanı) bilinir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-014",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Frig",
+    "difficulty": 1,
+    "stem": "Friglerin başkenti aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Gordion", "explanation": "Doğru — Ankara Polatlı yakınındaki Gordion, Frig başkentidir; 2023'te UNESCO Dünya Mirası Listesi'ne girmiştir." },
+      { "id": "B", "text": "Tuşpa", "explanation": "Tuşpa (Van), Urartu başkentidir." },
+      { "id": "C", "text": "Sardes", "explanation": "Sardes, Lidya başkentidir." },
+      { "id": "D", "text": "Hattuşa", "explanation": "Hattuşa, Hitit başkentidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-015",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Frig",
+    "difficulty": 2,
+    "stem": "Frig dokumalarına verilen ad aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Tapates", "explanation": "Doğru — Friglerin yün kilim ve dokumaları 'tapates' adıyla ünlüydü." },
+      { "id": "B", "text": "Fibula", "explanation": "Fibula da Frig buluşudur ama dokuma değil, çengelli iğnedir." },
+      { "id": "C", "text": "Sümerbank", "explanation": "Cumhuriyet dönemi kurumudur; çeldiricidir." },
+      { "id": "D", "text": "Hereke", "explanation": "Hereke ipek halısı Osmanlı dönemine aittir." }
+    ],
+    "correct": "A",
+    "trick": "Frig ikilisi: tapates = dokuma, fibula = çengelli iğne. Soru hangisini soruyor, karıştırma."
+  },
+  {
+    "id": "anadolu-medeniyetleri-016",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Frig",
+    "difficulty": 2,
+    "stem": "Frig dini inancının merkezinde yer alan ana tanrıça aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kibele", "explanation": "Doğru — Kibele (Matar), Friglerin ana tanrıçasıdır; kültü Roma'ya kadar yayılmıştır." },
+      { "id": "B", "text": "Artemis", "explanation": "Artemis, Yunan tanrıçasıdır; Efes'te Kibele kültüyle kaynaşmış olsa da Frig ana tanrıçasının adı Kibele'dir." },
+      { "id": "C", "text": "Hepat", "explanation": "Hepat, Hurri-Hitit panteonunun baş tanrıçasıdır." },
+      { "id": "D", "text": "İştar", "explanation": "İştar, Mezopotamya tanrıçasıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-017",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Frig",
+    "difficulty": 3,
+    "stem": "Frig Devleti'ne son veren topluluk aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kimmerler", "explanation": "Doğru — Kafkaslar üzerinden gelen Kimmer akınları MÖ 676 civarında Gordion'u yakıp Frig Devleti'ni yıktı." },
+      { "id": "B", "text": "Medler", "explanation": "Medler, Urartu'yu ortadan kaldıran güçtür." },
+      { "id": "C", "text": "Persler", "explanation": "Persler, Lidya'yı yıkmıştır (MÖ 546)." },
+      { "id": "D", "text": "Asurlular", "explanation": "Asur, Friglerle çağdaştır ama yıkan güç Kimmerlerdir." }
+    ],
+    "correct": "A",
+    "trick": "Yıkılış zinciri ezberi: Frig'i Kimmerler, Urartu'yu Medler, Lidya'yı Persler yıktı."
+  },
+  {
+    "id": "anadolu-medeniyetleri-018",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Urartu",
+    "difficulty": 1,
+    "stem": "Urartu Devleti'nin başkenti aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Tuşpa", "explanation": "Doğru — Van Kalesi'nin bulunduğu Tuşpa, Urartu başkentidir." },
+      { "id": "B", "text": "Kaneş", "explanation": "Kaneş (Kültepe), Asur ticaret kolonisidir." },
+      { "id": "C", "text": "Ksanthos", "explanation": "Ksanthos, Likya'nın başkentidir." },
+      { "id": "D", "text": "Gordion", "explanation": "Gordion, Frig başkentidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-019",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Urartu",
+    "difficulty": 2,
+    "stem": "Bugün bile kısmen işlev gören Şamran (Menua) Kanalı hangi uygarlığın su mühendisliği eseridir?",
+    "choices": [
+      { "id": "A", "text": "Urartu", "explanation": "Doğru — Urartular baraj, gölet ve kanallarıyla İlk Çağ'ın en usta su mühendisleriydi; 56 km'lik Menua Kanalı hâlâ kısmen çalışır." },
+      { "id": "B", "text": "Roma", "explanation": "Roma su kemerleriyle ünlüdür ama Şamran Kanalı Urartu eseridir ve Roma'dan yüzyıllar öncedir." },
+      { "id": "C", "text": "Hitit", "explanation": "Hititlerde baraj örnekleri vardır ama Şamran Kanalı Urartu'ya aittir." },
+      { "id": "D", "text": "Pers", "explanation": "Perslerin Anadolu'daki mirası yol ve satraplık sistemidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-020",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Urartu",
+    "difficulty": 3,
+    "stem": "Urartuların baş tanrısı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Haldi", "explanation": "Doğru — savaş tanrısı Haldi, Urartu panteonunun başıdır; krallar seferlerini Haldi adına yapardı." },
+      { "id": "B", "text": "Teşup", "explanation": "Teşup, Hurri-Hitit fırtına tanrısıdır; Urartu'da Teişeba adıyla ikinci sırada yer alır." },
+      { "id": "C", "text": "Marduk", "explanation": "Marduk, Babil'in baş tanrısıdır." },
+      { "id": "D", "text": "Ahura Mazda", "explanation": "Ahura Mazda, Zerdüştlüğün (Pers) yüce tanrısıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-021",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Lidya",
+    "difficulty": 1,
+    "stem": "Tarihte parayı ilk kez kullanan uygarlık aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Lidyalılar", "explanation": "Doğru — MÖ 7. yüzyılda elektron (altın-gümüş alaşımı) sikkeleri basan Lidyalılar parayı icat etti." },
+      { "id": "B", "text": "Fenikeliler", "explanation": "Fenikelilerin insanlığa armağanı alfabedir, para değil." },
+      { "id": "C", "text": "Sümerler", "explanation": "Sümerler yazıyı bulmuştur; takas ve mal-para kullanırlardı." },
+      { "id": "D", "text": "İyonlar", "explanation": "İyonya bilim ve felsefenin beşiğidir; parayı Lidya'dan almışlardır." }
+    ],
+    "correct": "A",
+    "trick": "'İlk'ler üçlemesi: para-Lidya, alfabe-Fenike, yazı-Sümer. Sınav bu üçünü çapraz sorar."
+  },
+  {
+    "id": "anadolu-medeniyetleri-022",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Lidya",
+    "difficulty": 2,
+    "stem": "Lidya Devleti'nin başkenti aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Sardes", "explanation": "Doğru — Manisa Salihli'deki Sardes (Sart), Lidya'nın başkenti ve Kral Yolu'nun batı ucudur." },
+      { "id": "B", "text": "Milet", "explanation": "Milet, İyon şehridir." },
+      { "id": "C", "text": "Efes", "explanation": "Efes, İyon şehridir; Artemis Tapınağı ile ünlüdür." },
+      { "id": "D", "text": "Halikarnas", "explanation": "Halikarnas (Bodrum), Karya bölgesindedir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-023",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Lidya",
+    "difficulty": 2,
+    "stem": "Efes ve Sardes'ten başlayarak Mezopotamya'daki Sus'a ulaşan ünlü ticaret güzergâhı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kral Yolu", "explanation": "Doğru — Lidya döneminde işlerlik kazanan, Pers kralı I. Darius'un geliştirdiği Kral Yolu, Sardes'i Sus'a bağlar." },
+      { "id": "B", "text": "İpek Yolu", "explanation": "İpek Yolu Çin'den başlar; çok daha sonraki dönemlerin güzergâhıdır." },
+      { "id": "C", "text": "Baharat Yolu", "explanation": "Baharat Yolu Hindistan kaynaklıdır ve deniz ağırlıklıdır." },
+      { "id": "D", "text": "Kervan Yolu", "explanation": "Genel bir ifadedir; tarihî adlandırma 'Kral Yolu'dur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-024",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Lidya",
+    "difficulty": 3,
+    "stem": "Zenginliği deyimlere konu olan son Lidya kralı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Krezüs", "explanation": "Doğru — 'Karun kadar zengin' deyimindeki Karun, son Lidya kralı Krezüs'tür; MÖ 546'da Pers kralı Kyros'a yenildi." },
+      { "id": "B", "text": "Giges", "explanation": "Giges, Lidya'nın kurucu kralıdır (Mermnad hanedanı)." },
+      { "id": "C", "text": "Midas", "explanation": "Midas, Frig kralıdır; 'altın dokunuş' efsanesi ona aittir — zenginlik temasında klasik çeldirici." },
+      { "id": "D", "text": "Mausolos", "explanation": "Mausolos, Karya satrapıdır; mozole onun anıt mezarıdır." }
+    ],
+    "correct": "A",
+    "trick": "Zenginlik çağrışımı iki kralı karıştırtır: Karun/Krezüs = Lidya (gerçek), Midas = Frig (efsane)."
+  },
+  {
+    "id": "anadolu-medeniyetleri-025",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "İyonya",
+    "difficulty": 2,
+    "stem": "Suyu her şeyin başlangıcı sayan ve güneş tutulmasını önceden hesaplayan Miletli düşünür aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Thales", "explanation": "Doğru — Thales, İyonya doğa felsefesinin kurucusudur; MÖ 585 güneş tutulmasını öngörmüştür." },
+      { "id": "B", "text": "Herakleitos", "explanation": "Herakleitos Efeslidir ve ana madde olarak ateşi öne sürer ('değişim' filozofu)." },
+      { "id": "C", "text": "Sokrates", "explanation": "Sokrates Atinalıdır, İyonyalı değildir." },
+      { "id": "D", "text": "Pisagor", "explanation": "Pisagor Sisam (Samos) doğumludur; sayı mistisizmiyle ünlüdür ve İtalya'da okul kurmuştur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-026",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "İyonya",
+    "difficulty": 2,
+    "stem": "Antik dünyanın yedi harikasından biri olan Artemis Tapınağı hangi antik kenttedir?",
+    "choices": [
+      { "id": "A", "text": "Efes", "explanation": "Doğru — Artemis Tapınağı (Artemision) Efes'tedir; bugün Selçuk ilçesinde tek sütunu ayaktadır." },
+      { "id": "B", "text": "Milet", "explanation": "Milet'in ünlü kutsal alanı yakınındaki Didim Apollon Tapınağı'dır — klasik çeldirici." },
+      { "id": "C", "text": "Bergama", "explanation": "Bergama'nın ünlü sunağı Zeus Sunağı'dır." },
+      { "id": "D", "text": "Sardes", "explanation": "Sardes'te Artemis Tapınağı kalıntısı vardır ama 'yedi harika'daki tapınak Efes'tekidir." }
+    ],
+    "correct": "A",
+    "trick": "Tapınak eşleştirmesi: Artemis-Efes, Apollon-Didim, Zeus Sunağı-Bergama. Sardes Artemis'i çeldirici olarak kullanılır."
+  },
+  {
+    "id": "anadolu-medeniyetleri-027",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "İyonya",
+    "difficulty": 3,
+    "stem": "İyonya'da bilim ve özgür düşüncenin gelişmesinin temel nedeni aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Şehir devletlerinin özgür ortamı ve ticaretle zenginleşen liman kentleri", "explanation": "Doğru — merkezi otorite ve dogmatik din baskısı olmayan, ticaretle farklı kültürlere açılan İyon kentleri özgür düşünceye zemin hazırladı." },
+      { "id": "B", "text": "Güçlü bir merkezi krallığın bilim insanlarını koruması", "explanation": "İyonya'da merkezi krallık yoktu; tam tersine bağımsız polis'ler vardı." },
+      { "id": "C", "text": "Rahip sınıfının yönetimde etkin olması", "explanation": "İyonya'da teokratik yapı yoktur; bu Mısır-Mezopotamya modelidir." },
+      { "id": "D", "text": "Tarım ekonomisinin kapalı toplum yaratması", "explanation": "İyonya ekonomisi tarım değil deniz ticareti ağırlıklıydı ve topluma dışa açıklık kazandırdı." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-028",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Likya",
+    "difficulty": 2,
+    "stem": "Tarihteki ilk demokratik federasyon kabul edilen birlik aşağıdaki uygarlıkların hangisine aittir?",
+    "choices": [
+      { "id": "A", "text": "Likya", "explanation": "Doğru — 23 kentin oy ağırlıklı temsille katıldığı Likya Birliği, ilk demokratik federasyon kabul edilir; ABD anayasasına ilham verdiği söylenir." },
+      { "id": "B", "text": "İyonya", "explanation": "İyon kentlerinin Panionion birliği dinsel-kültürel ağırlıklıydı; federatif temsil sistemi Likya'nınki kadar gelişmemişti." },
+      { "id": "C", "text": "Karya", "explanation": "Karya, satraplıkla yönetilmiştir; birlik sistemi yoktur." },
+      { "id": "D", "text": "Frigya", "explanation": "Frigya krallıkla yönetilmiştir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-029",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Likya",
+    "difficulty": 2,
+    "stem": "Likya uygarlığının başkenti olan ve Letoon ile birlikte UNESCO Dünya Mirası Listesi'nde yer alan antik kent aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Ksanthos", "explanation": "Doğru — Ksanthos (Kınık/Antalya), Likya'nın başkentidir; 1988'de Letoon ile birlikte UNESCO listesine girmiştir." },
+      { "id": "B", "text": "Patara", "explanation": "Patara önemli bir Likya liman kentidir (birliğin meclis binası buradadır) ama başkent Ksanthos'tur." },
+      { "id": "C", "text": "Myra", "explanation": "Myra kaya mezarları ve Noel Baba (Aziz Nikolaos) ile ünlüdür." },
+      { "id": "D", "text": "Olympos", "explanation": "Olympos, birliğin altı büyük kentinden biridir ama başkent değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-030",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Karya",
+    "difficulty": 2,
+    "stem": "'Mozole' (anıt mezar) sözcüğü kökenini nereden alır?",
+    "choices": [
+      { "id": "A", "text": "Karya kralı Mausolos'un Halikarnas'taki anıt mezarından", "explanation": "Doğru — karısı II. Artemisia'nın Mausolos için yaptırdığı Halikarnas Mozolesi, dünyanın yedi harikasındandır; 'mausoleum' sözcüğü buradan türedi." },
+      { "id": "B", "text": "Mısır firavunu Menes'in piramidinden", "explanation": "Piramitler firavun mezarıdır ama 'mozole' sözcüğüyle etimolojik bağı yoktur." },
+      { "id": "C", "text": "Lidya kralı Alyattes'in tümülüsünden", "explanation": "Bintepeler'deki Alyattes tümülüsü devasa bir yığma tepedir; sözcüğün kökeni değildir." },
+      { "id": "D", "text": "Roma imparatoru Augustus'un mezarından", "explanation": "Augustus Mausoleumu adını zaten Mausolos'tan almıştır — köken yine Karya'dadır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-031",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Pers Dönemi",
+    "difficulty": 2,
+    "stem": "Perslerin Anadolu'yu yönetmek için kurduğu eyalet sistemine verilen ad aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Satraplık", "explanation": "Doğru — Persler MÖ 546'dan itibaren Anadolu'yu satrap adı verilen valilerin yönettiği satraplıklara böldü." },
+      { "id": "B", "text": "Eyalet-i mümtaze", "explanation": "Bu, Osmanlı'nın ayrıcalıklı eyalet sistemidir." },
+      { "id": "C", "text": "Thema", "explanation": "Thema, Bizans askeri eyalet sistemidir." },
+      { "id": "D", "text": "Polis", "explanation": "Polis, Yunan şehir devletidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-032",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Helenistik Dönem",
+    "difficulty": 2,
+    "stem": "Büyük İskender'in Anadolu'ya girişini sağlayan MÖ 334 tarihli savaş aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Granikos", "explanation": "Doğru — Biga Çayı (Granikos) kıyısındaki zafer, İskender'e Anadolu kapılarını açtı." },
+      { "id": "B", "text": "İssos", "explanation": "İssos (MÖ 333) daha sonra, Çukurova'da yapıldı; İskender III. Darius'u ilk kez burada yendi." },
+      { "id": "C", "text": "Gaugamela", "explanation": "Gaugamela (MÖ 331) Mezopotamya'dadır; Pers İmparatorluğu'nu bitiren savaştır." },
+      { "id": "D", "text": "Kadeş", "explanation": "Kadeş, İskender'den yaklaşık 950 yıl önceki Hitit-Mısır savaşıdır." }
+    ],
+    "correct": "A",
+    "trick": "İskender kronolojisi: Granikos (334, giriş) → İssos (333, Darius ilk yenilgi) → Gaugamela (331, final)."
+  },
+  {
+    "id": "anadolu-medeniyetleri-033",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Helenistik Dönem",
+    "difficulty": 2,
+    "stem": "İskender'in 'çözen Asya'ya hükmedecek' kehanetiyle ünlü kördüğümü kılıcıyla kestiği kent aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Gordion", "explanation": "Doğru — Frig başkenti Gordion'daki ünlü Gordion düğümünü İskender kılıç darbesiyle 'çözdü'." },
+      { "id": "B", "text": "Sardes", "explanation": "Sardes savaşsız teslim oldu; düğüm efsanesi Gordion'a aittir." },
+      { "id": "C", "text": "Milet", "explanation": "Milet kuşatmayla alındı; düğümle ilgisi yoktur." },
+      { "id": "D", "text": "Tarsus", "explanation": "Tarsus'ta İskender hastalanmıştır; düğüm Gordion'dadır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-034",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Helenistik Dönem",
+    "difficulty": 1,
+    "stem": "Parşömen kâğıdı hangi antik kentte geliştirilmiştir?",
+    "choices": [
+      { "id": "A", "text": "Bergama", "explanation": "Doğru — Mısır'ın papirüs ihracını durdurması üzerine Bergama'da deriden 'pergament' (parşömen) geliştirildi; adını kentten alır." },
+      { "id": "B", "text": "Efes", "explanation": "Efes'in ünlü yapısı Celsus Kütüphanesi'dir ama parşömen Bergama buluşudur." },
+      { "id": "C", "text": "İskenderiye", "explanation": "İskenderiye papirüsün ve büyük kütüphanenin merkeziydi — parşömenin rakibi." },
+      { "id": "D", "text": "Antakya", "explanation": "Antakya Helenistik başkenttir ama parşömenle anılmaz." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-035",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Helenistik Dönem",
+    "difficulty": 3,
+    "stem": "Krallığını MÖ 133'te vasiyet yoluyla Roma'ya bırakan Bergama kralı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "III. Attalos", "explanation": "Doğru — III. Attalos'un vasiyetiyle Bergama toprakları Roma'nın Asya (Asia) eyaleti oldu; Anadolu'da Roma dönemi böyle başladı." },
+      { "id": "B", "text": "I. Eumenes", "explanation": "Eumenes'ler krallığı büyüten erken hükümdarlardır." },
+      { "id": "C", "text": "I. Antiokhos", "explanation": "I. Antiokhos, Nemrut'u yaptıran Kommagene kralıdır — farklı krallık!" },
+      { "id": "D", "text": "Lizimahos", "explanation": "Lizimahos, İskender'in generalidir; Bergama hazinesini emanet ettiği Philetairos krallığın temelini attı." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-036",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Helenistik Dönem",
+    "difficulty": 2,
+    "stem": "Nemrut Dağı'ndaki dev heykelleri ve tümülüsü yaptıran Kommagene kralı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "I. Antiokhos", "explanation": "Doğru — Kommagene kralı I. Antiokhos Theos, Nemrut'taki anıt mezarı ve tanrı heykellerini yaptırdı (UNESCO 1987)." },
+      { "id": "B", "text": "III. Attalos", "explanation": "Attalos, Bergama'nın son kralıdır." },
+      { "id": "C", "text": "Mithridates VI", "explanation": "VI. Mithridates, Roma'ya direnen Pontus kralıdır." },
+      { "id": "D", "text": "Büyük İskender", "explanation": "Nemrut, İskender'den yaklaşık 270 yıl sonra yapılmıştır; Antiokhos soyunu İskender'e dayandırsa da eser onun değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-037",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Genel",
+    "difficulty": 3,
+    "stem": "Aşağıdaki uygarlık-yıkan güç eşleştirmelerinden hangisi yanlıştır?",
+    "choices": [
+      { "id": "A", "text": "Frigya — Kimmerler", "explanation": "Bu eşleştirme doğrudur; Kimmer akınları Frig Devleti'ni yıktı." },
+      { "id": "B", "text": "Urartu — Medler", "explanation": "Bu eşleştirme doğrudur; Medler MÖ 585 civarında Urartu'ya son verdi." },
+      { "id": "C", "text": "Lidya — Persler", "explanation": "Bu eşleştirme doğrudur; Kyros MÖ 546'da Sardes'i aldı." },
+      { "id": "D", "text": "Hitit — Asurlular", "explanation": "Doğru cevap bu (yanlış eşleştirme) — Hitit İmparatorluğu'nu Asurlular değil, Ege göçleri/Deniz Kavimleri yıktı; güneydoğudaki Geç Hitit beyliklerini ise sonradan Asur ortadan kaldırdı." }
+    ],
+    "correct": "D",
+    "trick": "Büyük Hitit İmparatorluğu'nu yıkan Deniz Kavimleri'dir (MÖ 1200 civarı); Asur yalnızca Geç Hitit şehir devletlerini bitirmiştir."
+  },
+  {
+    "id": "anadolu-medeniyetleri-038",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Genel",
+    "difficulty": 2,
+    "stem": "Anadolu'da tarih öncesi devirlerin sona erip tarih çağlarının başlaması aşağıdakilerden hangisiyle olmuştur?",
+    "choices": [
+      { "id": "A", "text": "Asurlu tüccarların Kültepe'ye çivi yazısını getirmesiyle", "explanation": "Doğru — MÖ 1950 civarında Kapadokya Tabletleri ile Anadolu yazıyla tanıştı ve tarih çağlarına girdi." },
+      { "id": "B", "text": "Hititlerin hiyeroglif yazısını icat etmesiyle", "explanation": "Hitit yazılı kültürü Kültepe'den sonradır; ayrıca çivi yazısını Asur'dan almışlardır." },
+      { "id": "C", "text": "Friglerin Fenike alfabesini kullanmasıyla", "explanation": "Frig yazısı MÖ 8. yüzyıla aittir — çok geç bir tarih." },
+      { "id": "D", "text": "İyonların Yunan alfabesini geliştirmesiyle", "explanation": "İyon alfabesi de MÖ 1. binyıla aittir; ilk yazı Kültepe'dedir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-039",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Genel",
+    "difficulty": 2,
+    "stem": "Aşağıdaki UNESCO Dünya Mirası alanlarından hangisi Hitit uygarlığıyla ilgilidir?",
+    "choices": [
+      { "id": "A", "text": "Hattuşa", "explanation": "Doğru — Hitit başkenti Hattuşa (Boğazköy) 1986'da UNESCO Dünya Mirası Listesi'ne alınmıştır." },
+      { "id": "B", "text": "Nemrut Dağı", "explanation": "Nemrut, Kommagene Krallığı'nın eseridir." },
+      { "id": "C", "text": "Ksanthos-Letoon", "explanation": "Ksanthos, Likya uygarlığına aittir." },
+      { "id": "D", "text": "Göbeklitepe", "explanation": "Göbeklitepe, Neolitik döneme aittir; Hititlerden yaklaşık 8000 yıl eskidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "anadolu-medeniyetleri-040",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Genel",
+    "difficulty": 3,
+    "stem": "MÖ 585'te Kızılırmak (Halys) kıyısında yapılan ve güneş tutulması nedeniyle sona eren savaş hangi iki devlet arasındadır?",
+    "choices": [
+      { "id": "A", "text": "Lidya — Med", "explanation": "Doğru — Thales'in öngördüğü güneş tutulması savaşı durdurdu; Kızılırmak iki devlet arasında sınır kabul edildi." },
+      { "id": "B", "text": "Lidya — Pers", "explanation": "Lidya-Pers hesaplaşması MÖ 546'dadır ve Lidya'nın yıkılışıyla biter." },
+      { "id": "C", "text": "Frig — Kimmer", "explanation": "Kimmer akınları savaş meydanı antlaşmasıyla değil, Gordion'un yıkımıyla sonuçlandı." },
+      { "id": "D", "text": "Urartu — Asur", "explanation": "Urartu-Asur mücadelesi Doğu Anadolu'dadır ve tutulma olayıyla ilişkili değildir." }
+    ],
+    "correct": "A",
+    "trick": "'Güneş tutulması savaşı' = Halys Savaşı (Lidya-Med, MÖ 585). Thales bağlantısıyla İyonya sorusu gibi de gelebilir."
+  }
+]
