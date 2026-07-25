@@ -1,3 +1,4 @@
+import { useCallback, useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
 import { BrowserRouter, Route, Routes, useLocation } from 'react-router-dom';
 import { AppStateProvider } from '@/hooks/useAppState';
@@ -5,6 +6,7 @@ import { AiHocaProvider } from '@/hooks/useAiHoca';
 import { AppShell } from '@/components/AppShell';
 import { AiHocaPanel } from '@/components/AiHocaPanel';
 import { BackupReminder } from '@/components/BackupReminder';
+import { DuyguIntro } from '@/components/DuyguIntro';
 import Dashboard from '@/pages/Dashboard';
 import Konular from '@/pages/Konular';
 import KonuDetay from '@/pages/KonuDetay';
@@ -59,10 +61,21 @@ function AnimatedRoutes() {
 }
 
 export default function App() {
+  // İlk render'da okunur; aksi halde perde bir kare boyunca görünüp kaybolur.
+  const [showIntro, setShowIntro] = useState(
+    () => typeof window !== 'undefined' && !sessionStorage.getItem('hasSeenIntro'),
+  );
+
+  const handleIntroComplete = useCallback(() => {
+    sessionStorage.setItem('hasSeenIntro', 'true');
+    setShowIntro(false);
+  }, []);
+
   return (
     <AppStateProvider>
       <AiHocaProvider>
         <BrowserRouter>
+          {showIntro && <DuyguIntro onComplete={handleIntroComplete} />}
           <AppShell>
             <AnimatedRoutes />
           </AppShell>
