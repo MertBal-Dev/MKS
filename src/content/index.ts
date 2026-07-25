@@ -14,6 +14,8 @@ import genelTurizmTopic from './topics/genel-turizm.json';
 import genelTurizmQuestions from './questions/genel-turizm.json';
 import osmanliTarihiTopic from './topics/osmanli-tarihi.json';
 import osmanliTarihiQuestions from './questions/osmanli-tarihi.json';
+import genelTurkTarihiTopic from './topics/genel-turk-tarihi.json';
+import genelTurkTarihiQuestions from './questions/genel-turk-tarihi.json';
 
 /**
  * İçerik kayıt noktası. Yeni içerik eklemek = JSON dosyası + buraya bir satır.
@@ -27,6 +29,7 @@ export const topics: Topic[] = [
   turizmCografyasiTopic as unknown as Topic,
   genelTurizmTopic as unknown as Topic,
   osmanliTarihiTopic as unknown as Topic,
+  genelTurkTarihiTopic as unknown as Topic,
 ];
 
 export const questionBank: Question[] = [
@@ -37,6 +40,7 @@ export const questionBank: Question[] = [
   ...(turizmCografyasiQuestions as unknown as Question[]),
   ...(genelTurizmQuestions as unknown as Question[]),
   ...(osmanliTarihiQuestions as unknown as Question[]),
+  ...(genelTurkTarihiQuestions as unknown as Question[]),
 ];
 
 export const exams: Exam[] = [];
