@@ -2,28 +2,44 @@
   "id": "genel-turizm",
   "fullNotes": [
     {
-      "heading": "Temel Kavramlar: Turist Kimdir?",
-      "markdown": "**Ziyaretçi (visitor):** Sürekli yaşadığı yer dışına, bir yıldan kısa süreyle ve gelir elde etme amacı gütmeden seyahat eden kişi. İkiye ayrılır:\n- **Turist:** Gittiği yerde **en az bir gece konaklayan** ziyaretçi.\n- **Günübirlikçi (excursionist):** Konaklamadan aynı gün dönen ziyaretçi (kruvaziyer yolcuları tipik örnek).\n\n**Turizm:** İnsanların sürekli yaşadıkları yer dışına yaptıkları seyahatler ile gittikleri yerlerdeki konaklama ve ilişkili faaliyetlerin bütünü.\n\n**Turizm arzı:** Doğal-kültürel çekicilikler + ulaşım + konaklama + altyapı + hizmetler. **Turizm talebi:** Seyahat etme isteği + satın alma gücü + boş zaman üçlüsü.\n\n**Turizmin bileşenleri (3A):** **Attraction** (çekicilik), **Accessibility** (ulaşılabilirlik), **Accommodation** (konaklama). Bazı kaynaklar Amenities (olanaklar) ekler.\n\n**Turizm çeşitleri:** kitle turizmi ↔ alternatif turizm; iç turizm ↔ dış turizm; aktif dış turizm (ülkeye gelen, döviz kazandıran) ↔ pasif dış turizm (yurttaşın dışarı gitmesi, döviz kaybettiren)."
+      "heading": "Turizmin Tanımı ve Temel Kavramlar",
+      "markdown": "**Turizm:** İnsanların sürekli yaşadıkları yer dışında, **sürekli yerleşme ve kazanç sağlama amacı gütmeden**, boş zamanlarını değerlendirmek üzere yaptıkları seyahat ve konaklamalardan doğan ilişkiler bütünü.\n\n**Tanımın üç şartı — sınavda tam bu üçü sorulur:**\n1. Sürekli yaşanan yerin **dışına** çıkmak\n2. **Kazanç sağlama amacı** gütmemek\n3. **Sürekli yerleşme** amacı gütmemek\n\n**UNWTO'ya göre ziyaretçi (visitor) ikiye ayrılır:**\n- **Turist:** Gittiği yerde **en az bir gece konaklayan** ziyaretçi\n- **Günübirlikçi (excursionist):** Konaklamayan ziyaretçi — kruvaziyer yolcusu klasik örnektir\n\nSüre sınırı: **24 saatten fazla, 1 yıldan az.** Bir yılı aşarsa turizm değil göç sayılır.\n\n**Turizmin temel özellikleri:**\n- **Mevsimliktir** — talep yıl içinde dalgalanır; Türkiye'de deniz turizmi Mayıs-Ekim'de yoğunlaşır\n- **Emek yoğundur** — makineyle ikame edilemeyen insan hizmeti\n- **Ürün stoklanamaz** — satılamayan otel odası veya uçak koltuğu o gün yok olur (kayıp gelirdir)\n- **Üretim ve tüketim aynı anda, aynı yerde** olur\n- **Talep esnektir** — ekonomik kriz, salgın, terör olaylarından hızla etkilenir\n- **Ürün soyuttur** — satın almadan önce denenemez, bu yüzden **imaj** ve **güven** belirleyicidir\n\n**Turizm arzı:** Doğal, kültürel ve yapay çekicilikler + altyapı + üstyapı + ulaşılabilirlik.\n**Turizm talebi:** Satın alma gücü, boş zaman ve seyahat isteğinin birleşimi. Üçünden biri eksikse talep oluşmaz.\n\n**Sık karıştırılan ikili:** *Çekicilik* turistin gelme sebebidir (Efes, Kapadokya); *tesis* onun kalmasını sağlayan araçtır. Efes bir çekicilik, yanındaki otel bir üstyapıdır."
     },
     {
-      "heading": "Turizm Tarihi: Grand Tour'dan Paket Tura",
-      "markdown": "**Antik kökler:** Olimpiyat seyahatleri, Roma'nın termal-yazlık gezileri, Ortaçağ'da hac yolculukları (Kudüs, Santiago, Mekke).\n\n**Grand Tour (17.-19. yy):** Aristokrat İngiliz gençlerinin eğitim amaçlı uzun Avrupa turu — 'turist' ve 'turizm' sözcükleri bu gelenekten türedi.\n\n**Thomas Cook (1841):** Leicester-Loughborough arasında trenle **ilk organize/paket turu** düzenledi → modern seyahat acentacılığının babası. 1863'te ilk yurtdışı turlar, 1872'de ilk dünya turu.\n\n**Türkiye'de kilometre taşları:**\n- 1863 — Sergi-i Umumi-i Osmani (ilk fuar sayılır); **Pera Palas (1892)** Orient Express yolcuları için açıldı\n- 1923 — Seyyahin Cemiyeti (sonra Türkiye Turing ve Otomobil Kurumu)\n- 1953 — 6086 sayılı Turizm Endüstrisini Teşvik Kanunu\n- 1963 — **Turizm ve Tanıtma Bakanlığı** kuruldu; planlı dönem başladı\n- 1972 — **TÜRSAB** (Türkiye Seyahat Acentaları Birliği) kuruldu (1618 sayılı Kanun'la)\n- 1982 — **2634 sayılı Turizm Teşvik Kanunu** (turizm bölge/alan/merkezleri, belgeli işletmeler)\n- 1980'ler — Özal dönemi 'turizm patlaması'; Güney Antalya Projesi\n- 2012 — **6326 sayılı Turist Rehberliği Meslek Kanunu**"
+      "heading": "Turizm Türleri",
+      "markdown": "**Katılan kişi sayısına göre:** Bireysel (FIT — Free Independent Traveller) / Grup (GIT — Group Inclusive Tour)\n\n**Yönüne göre:**\n- **İç turizm (domestic):** Ülke vatandaşının kendi ülkesinde\n- **Dış turizm:** Uluslararası hareket\n- **Incoming (gelen):** Yabancının Türkiye'ye gelmesi — döviz **girdisi**\n- **Outgoing (giden):** Türk vatandaşının yurt dışına gitmesi — döviz **çıktısı**\n\n**Amaca göre — MKS'de en çok soru gelen başlık:**\n\n| Tür | Ne demektir | Türkiye'den örnek |\n|---|---|---|\n| **Kültür turizmi** | Tarihi ve arkeolojik miras | Efes, Kapadokya, Göbeklitepe |\n| **İnanç turizmi** | Dini mekân ziyareti | Meryem Ana Evi, Sümela, Hacı Bektaş, Mevlana |\n| **Kongre turizmi (MICE)** | Toplantı, teşvik, konferans, fuar | İstanbul, Antalya |\n| **Termal / sağlık** | Kaplıca, şifalı su, tedavi | Afyon, Yalova, Bursa, Pamukkale |\n| **Kış turizmi** | Kayak merkezleri | Uludağ, Palandöken, Erciyes, Kartalkaya |\n| **Yayla turizmi** | Yayla ve doğa | Ayder, Pokut, Kümbet |\n| **Kruvaziyer** | Gemiyle liman ziyareti | Kuşadası, İstanbul, Bodrum |\n| **Golf turizmi** | Golf sahaları | **Belek (Antalya)** |\n| **Agroturizm / ekoturizm** | Çiftlik, doğa ile uyumlu | Şirince, Kaz Dağları |\n| **Gastronomi turizmi** | Mutfak kültürü | Gaziantep, Hatay, Adana |\n| **Mağara turizmi** | Mağaralar | Damlataş, Karain, Dim |\n| **Botanik / kuş gözlem** | Doğa gözlemi | Kuş Cenneti, Sultansazlığı |\n\n**Sağlık turizminde ayrım:** *Termal turizm* şifalı sudur; *medikal turizm* ameliyat, saç ekimi, diş, tüp bebek gibi tıbbi işlemlerdir. Türkiye özellikle **saç ekimi ve diş tedavisinde** dünyada ilk sıralardadır.\n\n**Alternatif turizm:** Deniz-kum-güneş (3S) dışındaki tüm türler. Amacı **sezonu 12 aya yaymak** ve talebi çeşitlendirmektir. Sınavda \"alternatif turizmin temel amacı\" sorulursa cevap: mevsimselliği kırmak."
     },
     {
-      "heading": "6326 Sayılı Turist Rehberliği Meslek Kanunu (2012)",
-      "markdown": "**Rehber olabilmenin yolları (Madde 3):**\n1. Üniversitelerin **turist rehberliği bölümlerinden** önlisans, lisans veya yüksek lisans mezunu olmak, **VEYA**\n2. Bakanlığın belirlediği dillerde **TUREB'in açtığı sertifika programını** başarıyla tamamlamak (sertifika programına başvuru için en az lisans mezunu olmak gerekir)\n\n**+ Ortak şartlar:** T.C. vatandaşı olmak (ya da karşılıklılık), 18 yaş, **Bakanlığın yaptırdığı/onayladığı yabancı dil sınavında başarı**, belirli suçlardan hüküm giymemiş olmak, **uygulama gezisini tamamlamak** ve **mesleğe kabul sınavında (MKS) başarılı olmak**.\n\n**Belgeler:**\n- **Ruhsatname:** Mesleğe kabul koşullarını tamamlayana **Bakanlık** verir; süresizdir.\n- **Çalışma kartı:** Fiilen çalışabilmek için **birlik/oda** tarafından **her yıl** verilir. Çalışma kartı olan = **eylemli rehber**; ruhsatnamesi olup kart almayan = **eylemsiz rehber**.\n\n**Sınıflandırma:** **Ülkesel** (tüm Türkiye) veya **bölgesel** rehberlik.\n\n**Meslek örgütlenmesi:** Rehber odaları + üst kuruluş **TUREB** (Turist Rehberleri Birliği). Rehberler odaya üye olmak zorundadır.\n\n**Taban ücret:** Her yıl birliğin görüşü alınarak **Bakanlıkça** ilan edilir.\n\n**Disiplin cezaları (hafiften ağıra):** uyarma → kınama → geçici olarak meslekten men (**para cezası yoktur!**) → meslekten çıkarma.\n\n**Denetim:** Bakanlık ve birlikler yapar. **Rehber çalıştırma zorunluluğu:** Seyahat acentaları, paket tur ve transferlerde eylemli rehber bulundurmak zorundadır; rehbersiz tur yaptıran acentaya ve belgesiz rehberlik yapana idari yaptırım uygulanır."
+      "heading": "Dünyada ve Türkiye'de Turizmin Tarihçesi",
+      "markdown": "**Antik dönem:** Olimpiyat oyunları, kâhin merkezleri (Delphi, Didyma), şifa merkezleri (Bergama Asklepion) ilk kitlesel seyahatleri doğurdu.\n\n**Orta Çağ:** Hac yolculukları (Kudüs, Roma, Mekke, Santiago de Compostela) ve **kervansaray-han** ağı. Selçuklu kervansarayları yolcuya **üç gün ücretsiz** konaklama verirdi — sınavda çıkan bir ayrıntıdır.\n\n**Grand Tour (17.-18. yy):** Avrupalı aristokrat gençlerin eğitim amaçlı İtalya-Fransa gezisi. Modern turizmin fikrî atası sayılır.\n\n**Thomas Cook (1841):** Leicester-Loughborough arasında **570 kişilik ilk paket turu** düzenledi. Modern turizmin ve seyahat acenteciliğinin başlangıcı kabul edilir. Sınavda \"ilk paket tur / turizmin babası\" sorusunun cevabı **Thomas Cook**'tur.\n\n**Kitle turizminin patlaması (1950 sonrası):** Ücretli izin hakkı, jet uçakları, artan refah ve otomobil sahipliği.\n\n**Türkiye'de turizm — dönüm noktaları:**\n- **1923-1950:** Türkiye Seyyahin Cemiyeti (1923), sonra **Türkiye Turing ve Otomobil Kurumu**\n- **1953:** Turizm Endüstrisini Teşvik Kanunu\n- **1963:** Planlı döneme geçiş; turizm kalkınma planlarına girdi\n- **1972:** **1618 sayılı Kanun** — seyahat acentaları düzenlendi, **TÜRSAB** kuruldu\n- **1982:** **2634 sayılı Turizmi Teşvik Kanunu** — turizmin asıl sıçraması. Turizm bölgeleri ilan edildi, yatırımcıya arazi tahsisi ve kredi verildi. Antalya kıyıları bu kanunla doldu\n- **2003:** Kültür Bakanlığı ile Turizm Bakanlığı birleşti → **Kültür ve Turizm Bakanlığı** (4848 sayılı Kanun)\n- **2012:** **6326 sayılı Turist Rehberliği Meslek Kanunu** — rehberlik ilk kez kendi kanununa kavuştu, **TUREB** kuruldu\n\n**Kritik ayrım:** Turizmin *kurumsallaşması* 1972 (1618), *ekonomik sıçraması* 1982 (2634), *rehberliğin meslekleşmesi* 2012 (6326)."
     },
     {
-      "heading": "Turizm Sosyolojisi ve Turist Tipolojileri",
-      "markdown": "**Plog tipolojisi (1974):**\n- **Psikosentrik (içe dönük):** Tanıdık ortam ister, riskten kaçınır, paket turu ve popüler destinasyonu sever.\n- **Allosentrik (dışa dönük):** Yeni, keşfedilmemiş yerleri arar; bireysel seyahat eder.\n- **Mid-sentrik (orta):** İkisinin arası — kitle turizminin ana gövdesi. *(Şubat 2025'te 'turistleri içe/dışa dönük sınıflandıran araştırmacı' diye soruldu — cevap: Plog.)*\n\n**Cohen tipolojisi (1972):**\n- **Örgütlenmiş kitle turisti** (her şey pakette, 'çevre balonu' en kalın)\n- **Bireysel kitle turisti** (paket + biraz esneklik)\n- **Kâşif (explorer)** (kendi planlar, yerelle temas eder)\n- **Başıboş gezgin (drifter)** (tam yerel yaşam, plan yok)\n\n**Smith tipolojisi (1977):** Kâşiften charter turistine yedi kademe.\n\n**Turizmin sosyokültürel etkileri:** Olumlu — kültürlerarası anlayış, el sanatlarının canlanması, kültürel mirasın korunması. Olumsuz — **kültürel metalaşma** (ritüellerin gösteriye dönüşmesi), **gösteri etkisi/taklit** (yerel gençlerin turist yaşam tarzını taklidi), otantikliğin yitimi, yerel halkın dışlanması.\n\n**Doxey'in rahatsızlık indeksi (Irridex):** Yerel halkın turiste bakışının evrimi: **coşku → ilgisizlik → rahatsızlık → düşmanlık**.\n\n**Butler'ın Destinasyon Yaşam Döngüsü:** keşif → katılım → gelişme → pekişme → durgunluk → gerileme *veya* yenilenme.\n\n**Taşıma kapasitesi:** Bir destinasyonun bozulmadan kaldırabileceği ziyaretçi yükü (fiziksel-ekolojik-sosyal). **Sürdürülebilir turizm** bu kapasiteyi aşmamayı hedefler; **aşırı turizm (overtourism)** kavramının panzehiridir."
+      "heading": "Türkiye Turizminin Bugünkü Yapısı",
+      "markdown": "**Büyüklük:** Türkiye, uluslararası ziyaretçi sayısında dünyada **ilk 5 içinde** yer alır (Fransa, İspanya, ABD, İtalya ile birlikte anılır). 2024'te yaklaşık **52 milyon yabancı ziyaretçi** ve **61 milyar dolar** civarında turizm geliri gerçekleşmiştir. *(Rakamlar her yıl değişir; sınavda kesin sayı yerine \"ilk 5 ülke arasında\" bilgisi sorulur.)*\n\n**En çok ziyaretçi alan iller:** İstanbul, Antalya, Muğla, İzmir, Edirne (sınır kapısı geçişleri nedeniyle).\n\n**Başlıca pazarlar:** Rusya, Almanya, İngiltere, Bulgaristan, İran.\n\n**Ortalama kalış süresi** yaklaşık 10 gün; **kişi başı harcama** yaklaşık 970-1000 dolar bandındadır.\n\n**Turizmin ekonomiye katkısı:**\n- **Döviz girdisi** sağlar; dış ticaret açığını kapatıcı etkisi vardır\n- **İstihdam** yaratır — emek yoğun olduğu için istihdam çarpanı yüksektir\n- **Çarpan etkisi (multiplier):** Turistin harcadığı 1 lira, otel-çiftçi-nakliyeci zincirinde birden çok kez el değiştirerek ekonomiye katlanarak girer\n- **Bölgesel kalkınmayı** dengeler\n- **Görünmeyen ihracat** olarak adlandırılır: mal yurt dışına gitmez, alıcı ayağına gelir\n\n**Turizmin olumsuz etkileri (sınavda sorulur):**\n- Fiyat artışı ve kıyı arazi rantı\n- Çevre tahribatı, taşıma kapasitesinin aşılması\n- Kültürel yozlaşma ve **demonstrasyon (gösteriş) etkisi** — yerel halkın turisti taklit etmesi\n- Mevsimlik istihdamın güvencesizliği\n\n**Taşıma kapasitesi:** Bir destinasyonun doğal ve kültürel dokusu bozulmadan ağırlayabileceği azami ziyaretçi sayısı. Aşılırsa **aşırı turizm (overtourism)** ortaya çıkar.\n\n**Sürdürülebilir turizm:** Bugünün ihtiyacını, gelecek kuşakların hakkını tüketmeden karşılamak. Üç ayağı vardır: **çevresel, ekonomik, sosyo-kültürel.**\n\n**Mavi Bayrak:** Plaj ve marinalara verilen uluslararası çevre ödülü. **FEE (Foundation for Environmental Education)** tarafından verilir; Türkiye plaj sayısında dünyada ilk sıralardadır."
     },
     {
-      "heading": "Turizm Örgütleri ve İşletmeleri",
-      "markdown": "**Uluslararası:**\n- **UNWTO / UN Tourism** — BM Dünya Turizm Örgütü; merkezi **Madrid**; 27 Eylül **Dünya Turizm Günü** (1980'den beri)\n- **WTTC** — Dünya Seyahat ve Turizm Konseyi (özel sektör)\n- **IATA** — Uluslararası Hava Taşımacılığı Birliği (Montreal; uçak bileti standartları)\n- **UNESCO** — Dünya Mirası ve somut olmayan miras listeleri\n\n**Ulusal:**\n- **Kültür ve Turizm Bakanlığı** (2003'te iki bakanlık birleşti)\n- **TÜRSAB** (1972) — seyahat acentalarının zorunlu birliği\n- **TUREB** — turist rehberlerinin üst birliği\n- **TGA** (Türkiye Turizm Tanıtım ve Geliştirme Ajansı, 2019)\n\n**Seyahat acentası grupları (1618 sayılı Kanun):**\n- **A grubu:** Tüm acentacılık hizmetleri (tur düzenleme dahil — rehber çalıştırma yükümlülüğü esas olarak bunlarda)\n- **B grubu:** Uluslararası ulaştırma biletleri + A grubu ürünlerinin satışı\n- **C grubu:** Yalnızca Türk vatandaşları için **yurt içi** turlar\n\n**Konaklama işletmeleri:** Bakanlık belgeli (turizm işletme belgesi — yıldız sistemi) ↔ belediye belgeli. Butik otel, özel konaklama, pansiyon, tatil köyü tanımları 2634 kapsamındaki yönetmeliklere dayanır."
+      "heading": "1618 Sayılı Kanun: Seyahat Acentaları",
+      "markdown": "**1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu (1972)** seyahat acentacılığını düzenler ve **TÜRSAB**'ı kurar.\n\n**Seyahat acentası:** Turizm ve seyahat hizmeti veren, kâr amacı güden **ticari kuruluş.** İşletme belgesini **Kültür ve Turizm Bakanlığı** verir.\n\n**Üç grup — MKS'nin klasik sorusu:**\n\n| Grup | Yetkisi |\n|---|---|\n| **A grubu** | **Bütün** seyahat acentacılığı hizmetlerini yapar: tur düzenler, transfer, rezervasyon, bilet satışı |\n| **B grubu** | Uluslararası kara, deniz, hava **ulaştırma araçlarıyla bilet satar**; A grubunun turlarını pazarlar |\n| **C grubu** | **Yalnızca Türk vatandaşları** için **yurt içi** turlar düzenler |\n\n**Aklında kalsın:** Tur düzenleme yetkisi asıl olarak **A grubundadır.** B ve C grubu acentalar, A grubu acentaların düzenlediği turları **satabilir** ama kendileri yurt dışı turu düzenleyemez. C grubunun sınırı çift yönlüdür: hem **yalnız yurt içi** hem **yalnız Türk vatandaşı.**\n\n**TÜRSAB (Türkiye Seyahat Acentaları Birliği):**\n- 1972'de 1618 sayılı Kanun'la kuruldu, merkezi **İstanbul**'dadır\n- **Kamu kurumu niteliğinde meslek kuruluşudur**\n- Seyahat acentalarının üye olması **zorunludur** — üye olmayan acenta faaliyet gösteremez\n\n**Paket tur:** Ulaştırma, konaklama ve bunlara yardımcı olmayan diğer turistik hizmetlerden **en az ikisinin** bir arada, **24 saatten uzun** süreyi kapsayacak şekilde ve **her şey dahil fiyatla** satılmasıdır. \"En az iki hizmet + 24 saat + tek fiyat\" üçlüsü sınavda doğrudan sorulur.\n\n**Enformasyon memuru:** Acentalarda çalışan, rehberlik yapamayan, yalnızca bilgi veren personeldir. **Tur anlatamaz** — rehberin yerini alamaz."
     },
     {
-      "heading": "Rehberlik Mesleği: Görevler, Etik, İletişim",
-      "markdown": "**Rehberin temel görevleri:** Doğru ve tarafsız bilgi aktarmak, tur programını acenta-tüketici sözleşmesine uygun yürütmek, grup güvenliğini gözetmek, ülke imajını temsil etmek, kültürel mirası koruma bilinci aşılamak.\n\n**Meslek etiği ilkeleri:** Dürüstlük, tarafsızlık (siyasi/dini propaganda yasağı), gizlilik, meslektaş dayanışması, taban ücretin altında çalışmama, kendine haksız çıkar sağlamama (zorla alışveriş baskısı etik ihlaldir; 'hanutçuluk' hem etik hem hukuki sorundur).\n\n**Turist psikolojisi pratiği:**\n- İlk izlenim ilk dakikalarda oluşur; karşılama ve ilk anons kritiktir.\n- **Jet lag**, kültür şoku ve 'tatil beklentisi stresi' davranışları etkiler; sabırlı iletişim esastır.\n- **Kültür şoku evreleri:** balayı → şok/kriz → uyum → kabullenme.\n- Şikâyet yönetimi: dinle → empati kur → çözüm öner → takip et (grup önünde tartışmaya girme).\n- Grup dinamiği: 'zor katılımcı' tipleri (her şeyi bilen, sürekli geciken, şikâyetçi) grupla değil birebir yönetilir.\n\n**Anlatım tekniği:** Hikâyeleştirme, soru-cevapla katılım, 'görüyorsunuz' değil 'sağınızda göreceksiniz' gibi yönlendirici dil, mikrofonda kısa cümleler; bilgi yoğunluğunu molalarla dengeleme."
+      "heading": "6326 Sayılı Kanun: Turist Rehberliği Mesleği",
+      "markdown": "**6326 sayılı Turist Rehberliği Meslek Kanunu (2012)** rehberliği bağımsız bir meslek olarak tanımlar ve **TUREB**'i kurar.\n\n**Turist rehberi:** Bakanlıkça verilen mesleki yeterliliğe sahip, ülkenin kültürel, turistik, tarihi, doğal ve arkeolojik değerlerini tanıtan, ziyaretçilere **rehberlik eden** kişi.\n\n**Rehberliğin iki türü:**\n- **Ülkesel rehberlik:** Türkiye'nin **tamamında** rehberlik yapma yetkisi\n- **Bölgesel rehberlik:** Yalnızca belirlenen **bölgede** rehberlik yetkisi\n\n**Eylemli / eylemsiz ayrımı — sınavda sık çıkar:**\n- **Eylemli (fiilen çalışan) rehber:** **Çalışma kartı** olan, mesleği fiilen yapan rehber\n- **Eylemsiz rehber:** Ruhsatnamesi var ama çalışma kartı yok; **rehberlik yapamaz**\n\n**Çalışma kartı** her yıl **vize** ettirilir. Vize için o yıl içinde belirli sayıda **meslek içi eğitime** katılmak gerekir.\n\n**Rehber olabilmenin şartları:**\n1. **T.C. vatandaşı** olmak\n2. **Turist rehberliği ön lisans/lisans** mezunu olmak **veya** herhangi bir lisans mezunu olup Bakanlıkça verilen **rehberlik kursunu** bitirmek\n3. **Yabancı dil yeterliliğini** belgelemek\n4. **Mesleğe Kabul Sınavı'nda (MKS)** başarılı olmak\n5. Kasten işlenen suçlardan belirli cezalar almamış olmak\n6. Mesleği yapmaya engel **sağlık** sorunu bulunmamak\n\n**TUREB (Turist Rehberleri Birliği):**\n- 6326 sayılı Kanun'la 2012'de kuruldu, merkezi **Ankara**'dadır\n- **Kamu kurumu niteliğinde meslek kuruluşudur**\n- Rehber **odalarının** üst birliğidir; rehber önce **odaya**, oda da TUREB'e bağlıdır\n- Rehberin odaya üyeliği **zorunludur**\n\n**Zincir doğru kurulmalı:** Rehber → **Oda** → **TUREB**. Acenta → **TÜRSAB**. Sınavda bu iki zincir bilinçli olarak karıştırılır.\n\n**Turizm mevzuatının üç kanunu tek bakışta:**\n| Kanun | Yıl | Konusu | Kurduğu birlik |\n|---|---|---|---|\n| **1618** | 1972 | Seyahat acentaları | **TÜRSAB** |\n| **2634** | 1982 | Turizmi teşvik, yatırım, belgelendirme | — |\n| **6326** | 2012 | Turist rehberliği | **TUREB** |"
+    },
+    {
+      "heading": "Rehberin Görev, Yetki ve Sorumlulukları",
+      "markdown": "**Rehberin temel görevi** turistin gezisini güvenli, doğru bilgiyle ve programa uygun biçimde tamamlamasını sağlamaktır. Rehber aynı anda **bilgi kaynağı, temsilci, kriz yöneticisi ve ülke tanıtıcısıdır.**\n\n**Tur öncesi:**\n- Programı, voucher'ı ve katılımcı listesini kontrol etmek\n- Güzergâhı, açılış-kapanış saatlerini, müze günlerini doğrulamak\n- Ulaşım aracını ve şoförü kontrol etmek\n\n**Tur sırasında:**\n- Grubu zamanında toplamak, **sayım yapmak** (araca binerken ve inerken)\n- Anlatımı yapmak; **doğru, tarafsız ve güncel bilgi** vermek\n- Güvenliği gözetmek, ilk yardım gerektiren durumda müdahale etmek\n- Programda yer alan hizmetlerin verilip verilmediğini denetlemek\n\n**Tur sonrası:**\n- Değerlendirme formlarını toplamak, acentaya rapor vermek\n\n**Rehberin yapamayacakları:**\n- Turistten **habersiz komisyon** almak veya alışverişe zorlamak\n- **Siyasi, dini veya ideolojik propaganda** yapmak\n- Programı turistin onayı olmadan **keyfi olarak değiştirmek**\n- **Ruhsatsız/kartsız** rehberlik yapmak\n- Alkollü olarak göreve gelmek\n- Yanlış veya **uydurma bilgi** vermek\n\n**Kritik bilgi:** Türkiye'de **turist rehberliği yalnızca ruhsatlı rehberler tarafından yapılabilir.** Müze ve ören yerlerinde grup anlatımı yapmak, kartsız kişiler için yasaktır — acenta yetkilisi veya yabancı tur lideri bunu yapamaz. Tur lideri (tour leader) gruba eşlik eder ama **Türkiye'de anlatım yapamaz.**\n\n**Rehber-tur lideri farkı sınavda sorulur:** Rehber ülkeyi anlatır ve ruhsatlıdır; tur lideri grubun kendi ülkesinden gelen sorumlusudur, organizasyonla ilgilenir, anlatım yapamaz."
+    },
+    {
+      "heading": "Meslek Etiği",
+      "markdown": "**Etik:** Doğru ve yanlış davranışı belirleyen ilkeler bütünü. **Ahlak** toplumun benimsediği değerler; **etik** ise bu değerlerin mesleğe uyarlanmış, sorgulanabilir hâlidir.\n\n**Turist rehberliği meslek etiğinin temel ilkeleri:**\n\n**1. Doğruluk ve dürüstlük.** Bilmediğini bilmiyorum demek, uydurmaktan iyidir. Yanlış bilgi hem turisti hem ülkeyi yanıltır. Rehber, sonradan öğrenip düzeltmekten çekinmemelidir.\n\n**2. Tarafsızlık.** Siyasi görüş, dini inanç ve etnik köken konusunda taraf tutulmaz. Tartışmalı konularda rehber **bilgi verir, taraf olmaz.**\n\n**3. Ayrım gözetmeme.** Din, dil, ırk, cinsiyet, yaş, engellilik durumu veya bahşiş miktarına göre turistler arasında ayrım yapılmaz.\n\n**4. Çıkar çatışmasından kaçınma.** Alışveriş yönlendirmesi, gizli komisyon, turisti belirli bir dükkâna mahkûm bırakmak etik dışıdır.\n\n**5. Gizlilik.** Turistin özel bilgileri, sağlık durumu ve konuşmaları başkasıyla paylaşılmaz.\n\n**6. Mesleki yeterliliği sürdürme.** Rehber bilgisini güncel tutmakla yükümlüdür; meslek içi eğitim bu yüzden vize şartıdır.\n\n**7. Meslektaş dayanışması.** Başka bir rehberin işini haksız rekabetle elinden almak, fiyat kırmak veya meslektaşı turist önünde küçük düşürmek etik dışıdır.\n\n**8. Kültürel mirasa saygı.** Ören yerinde esere dokundurmamak, flaşlı fotoğrafı engellemek, taş-parça toplanmasına izin vermemek rehberin sorumluluğudur.\n\n**9. Ülke temsilciliği bilinci.** Rehber, turistin ülke hakkındaki izleniminin büyük bölümünü şekillendirir; davranışı kişisel değil, temsilîdir.\n\n**Etik ikilem örneği:** Grup programda olmayan bir yeri görmek istiyor. Rehber ne yapar? **Acentayı bilgilendirir, sorumluluğu tek başına üstlenmez.** Program değişikliği rehberin keyfi kararı olamaz.\n\n**Bahşiş:** Yasak değildir, gönüllüdür. Ancak **talep edilmesi**, ima edilmesi veya miktarına göre hizmet farklılaştırılması etik dışıdır."
+    },
+    {
+      "heading": "İletişim Becerileri ve Grup Yönetimi",
+      "markdown": "**İletişimin ögeleri:** Kaynak (rehber) → Mesaj → Kanal → Alıcı (turist) → **Geri bildirim.** Süreci bozan her etkene **gürültü** denir: otobüs motoru, kötü mikrofon, dil engeli, ön yargı.\n\n**Sözsüz iletişim (beden dili) iletişimin çok büyük bölümünü taşır.** Rehberin duruşu, göz teması ve ses tonu, söylediği kelimelerden daha çok etki eder.\n\n**Rehber için beden dili kuralları:**\n- Anlatırken **gruba dönük** durulur; esere sırt dönülmez ama gruba da sırt dönülmez — yan durulur\n- Anlatılan yer **eliyle** gösterilir, parmakla işaret edilmez\n- **Göz teması** grubun tamamına dağıtılır, tek kişiye kilitlenilmez\n- Kollar kavuşturulmaz (savunmacı okunur)\n- Güneş **rehberin yüzüne**, turistin sırtına gelecek şekilde durulur — turist gözünü kısmamalıdır\n\n**Anlatım teknikleri:**\n- Önce **genel çerçeve**, sonra ayrıntı verilir\n- Tarih ve rakam yığmak yerine **hikâye** anlatılır; insan hikâyeyi hatırlar, tarihi unutur\n- Karşılaştırma yapılır: \"Bu tapınak, Notre Dame'dan 700 yıl eskidir\"\n- Grubun **kültürel arka planına** göre örnek seçilir\n- Anlatım süresi ayakta 15-20 dakikayı geçmemelidir\n\n**Grup yönetimi:**\n- Tur başında **isim, buluşma saati, buluşma noktası ve telefon** paylaşılır\n- Serbest zamanda **buluşma noktası görünür bir işaretle** belirlenir\n- Her hareketten önce ve sonra **sayım** yapılır\n- Yavaş yürüyenler öne alınır; grup rehberin arkasında değil, **çevresinde** toplanır\n\n**Zor turist tipleri ve doğru yaklaşım:**\n| Tip | Doğru yaklaşım |\n|---|---|\n| **Bilgiç** | Bilgisi onaylanır, sonra doğrusu nazikçe eklenir; tartışmaya girilmez |\n| **Şikâyetçi** | Önce **dinlenir**, savunmaya geçilmez; çözüm önerilir |\n| **Sürekli geç kalan** | Grup önünde küçük düşürülmez, **birebir** konuşulur |\n| **Sessiz/çekingen** | Doğrudan soruyla zorlanmaz, küçük sohbetle dahil edilir |\n| **Alkollü** | Güvenlik önceliklidir; gerekirse tur dışında bırakılır ve acenta bilgilendirilir |\n\n**Şikâyet yönetiminin altın kuralı:** **Dinle → Özür dile → Çözüm üret → Takip et.** Şikâyet asla kişisel algılanmaz ve turist grubun önünde haksız çıkarılmaz. Çözülemeyen şikâyet **acentaya yazılı** olarak aktarılır.\n\n**Kriz anında** rehber sakinliğini korur; panik gruba yayılır. Önce **can güvenliği**, sonra bilgilendirme, sonra kurumsal bildirim gelir."
+    },
+    {
+      "heading": "Seyahat İşletmeciliği Terimleri",
+      "markdown": "Bu terimler MKS'de doğrudan tanım sorusu olarak çıkar.\n\n**Konaklama ve pansiyon türleri:**\n- **OB / BB (Bed & Breakfast):** Oda + kahvaltı\n- **HB (Half Board):** Yarım pansiyon — kahvaltı + akşam yemeği\n- **FB (Full Board):** Tam pansiyon — üç öğün\n- **AI (All Inclusive):** Her şey dahil\n- **UAI (Ultra All Inclusive):** Her şey dahil + ithal içki ve ekstra hizmetler\n\n**Rezervasyon ve operasyon:**\n- **Voucher:** Acentanın turiste verdiği, hizmetin ödendiğini gösteren belge\n- **Opsiyon:** Rezervasyonun kesinleşmesi için tanınan süre\n- **No-show:** Rezervasyonu olduğu hâlde gelmeyen müşteri\n- **Overbooking:** Kapasiteden fazla rezervasyon alma; no-show riskine karşı bilinçli yapılır\n- **Early booking:** Erken rezervasyon indirimi\n- **Transfer:** Havalimanı-otel arası ulaşım\n- **Check-in / check-out:** Giriş ve çıkış işlemi\n- **Late check-out:** Geç çıkış hakkı\n- **Rooming list:** Oda dağılım listesi\n- **Waiting list:** Bekleme listesi\n\n**Ulaşım:**\n- **Charter:** Tarifesiz, kiralık sefer\n- **Transit yolcu:** Aktarma yapan yolcu\n- **PNR (Passenger Name Record):** Rezervasyon kayıt kodu\n- **Open ticket:** Dönüş tarihi belirsiz bilet\n- **Excursion:** Ek ücretli günübirlik gezi\n\n**Kuruluşlar:**\n- **UNWTO:** BM Dünya Turizm Örgütü — merkezi **Madrid**\n- **IATA:** Uluslararası Hava Taşımacılığı Birliği — merkezi **Montreal**\n- **ICAO:** Uluslararası Sivil Havacılık Örgütü — 1944 **Chicago** Sözleşmesi ile\n- **UNESCO:** BM Eğitim, Bilim ve Kültür Örgütü — merkezi **Paris**; Dünya Mirası Listesi'ni yönetir\n- **FEE:** Mavi Bayrak'ı veren kuruluş\n- **TÜRSAB:** Seyahat acentaları birliği — **İstanbul**\n- **TUREB:** Turist rehberleri birliği — **Ankara**\n\n**Merkez şehirleri karıştırma:** UNWTO **Madrid**, UNESCO **Paris**, IATA **Montreal**. Bu üçü sınavda birbirinin yerine konur."
     }
   ],
   "shortNotes": "**Tanımlar:** Turist = en az 1 gece konaklayan ziyaretçi; günübirlikçi = konaklamayan. Aktif dış turizm = ülkeye gelen (döviz +). 3A: Attraction-Accessibility-Accommodation.\n\n**Tarih:** İlk paket tur Thomas Cook 1841. Grand Tour = 'turizm' sözcüğünün kaynağı. TÜRSAB 1972 (1618 s.K.), Turizm Teşvik K. 2634/1982, Rehberlik K. **6326/2012**, Bakanlık birleşmesi 2003, TGA 2019.\n\n**6326 özet:** Rehberlik bölümü mezunu VEYA TUREB sertifika programı (+lisans şartı) → dil sınavı + uygulama gezisi + MKS → **ruhsatname (Bakanlık, süresiz)** → **çalışma kartı (birlik, yıllık)** → eylemli rehber. Kartsız = eylemsiz. Ülkesel/bölgesel. Taban ücreti Bakanlık ilan eder. Disiplin: uyarma-kınama-geçici men-çıkarma (PARA CEZASI YOK). Denetim: Bakanlık + birlikler.\n\n**Tipolojiler:** Plog = psikosentrik (içe)/allosentrik (dışa)/mid-sentrik. Cohen = örgütlü kitle/bireysel kitle/kâşif/başıboş. Doxey Irridex = coşku→ilgisizlik→rahatsızlık→düşmanlık. Butler = destinasyon yaşam döngüsü. Taşıma kapasitesi ↔ overtourism.\n\n**Örgütler:** UNWTO-Madrid (27 Eylül Turizm Günü), IATA-Montreal, TÜRSAB-acentalar, TUREB-rehberler. Acenta grupları: A = her şey (tur düzenler), B = uluslararası bilet, C = sadece yurttaşa yurt içi.\n\n**Etik kırmızı çizgiler:** taban ücret altı çalışmak, hanutçuluk/alışveriş baskısı, siyasi-dini propaganda, belgesiz rehberlik.",
@@ -41,35 +57,155 @@
     "**Doxey sırası ezber:** Coşku-İlgisizlik-Rahatsızlık-Düşmanlık (CİRD). Sıra değiştirilerek sorulur."
   ],
   "flashcards": [
-    { "id": "genel-turizm-k001", "front": "Turist ile günübirlikçiyi ayıran ölçüt?", "back": "Konaklama — turist gittiği yerde en az bir gece konaklar, günübirlikçi aynı gün döner." },
-    { "id": "genel-turizm-k002", "front": "Aktif dış turizm nedir?", "back": "Yabancıların ülkeye gelmesi — ülkeye döviz kazandıran turizm türü." },
-    { "id": "genel-turizm-k003", "front": "Turizmin 3A bileşeni?", "back": "Attraction (çekicilik), Accessibility (ulaşılabilirlik), Accommodation (konaklama)" },
-    { "id": "genel-turizm-k004", "front": "İlk paket turu kim, ne zaman düzenledi?", "back": "Thomas Cook — 1841, Leicester-Loughborough tren yolculuğu" },
-    { "id": "genel-turizm-k005", "front": "'Turizm' sözcüğü hangi gelenekten doğdu?", "back": "Grand Tour — İngiliz aristokrat gençlerinin Avrupa eğitim turu" },
-    { "id": "genel-turizm-k006", "front": "Turist Rehberliği Meslek Kanunu'nun numarası ve yılı?", "back": "6326 sayılı Kanun — 2012" },
-    { "id": "genel-turizm-k007", "front": "Turizm Teşvik Kanunu'nun numarası ve yılı?", "back": "2634 sayılı Kanun — 1982" },
-    { "id": "genel-turizm-k008", "front": "Seyahat acentalarını düzenleyen kanun?", "back": "1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu (1972; TÜRSAB bu kanunla kuruldu)" },
-    { "id": "genel-turizm-k009", "front": "Ruhsatnameyi kim verir, süresi nedir?", "back": "Kültür ve Turizm Bakanlığı — süresizdir." },
-    { "id": "genel-turizm-k010", "front": "Çalışma kartını kim verir, süresi nedir?", "back": "Bağlı olunan rehber odası/birlik — her yıl yenilenir." },
-    { "id": "genel-turizm-k011", "front": "Eylemli ve eylemsiz rehber farkı?", "back": "Eylemli: o yıl için çalışma kartı almış, fiilen çalışabilen rehber. Eylemsiz: ruhsatnamesi olup kart almamış rehber." },
-    { "id": "genel-turizm-k012", "front": "Rehber taban ücretini kim belirler/ilan eder?", "back": "Birliğin görüşü alınarak Kültür ve Turizm Bakanlığı — her yıl ilan edilir." },
-    { "id": "genel-turizm-k013", "front": "Rehberlik disiplin cezaları (sırayla)?", "back": "Uyarma → kınama → geçici olarak meslekten men → meslekten çıkarma (para cezası yoktur)" },
-    { "id": "genel-turizm-k014", "front": "Rehberlikte iki sınıflandırma türü?", "back": "Ülkesel (tüm Türkiye) ve bölgesel rehberlik" },
-    { "id": "genel-turizm-k015", "front": "Sertifika programıyla rehber olmak için asgari eğitim şartı?", "back": "En az lisans mezunu olmak (program TUREB tarafından açılır)" },
-    { "id": "genel-turizm-k016", "front": "Plog'a göre içe dönük turist tipi?", "back": "Psikosentrik — tanıdık ortam ister, paket turu ve popüler yerleri tercih eder." },
-    { "id": "genel-turizm-k017", "front": "Plog'a göre dışa dönük turist tipi?", "back": "Allosentrik — yeni ve keşfedilmemiş destinasyonları bireysel gezmeyi sever." },
-    { "id": "genel-turizm-k018", "front": "Cohen'in dört turist tipi?", "back": "Örgütlenmiş kitle turisti, bireysel kitle turisti, kâşif (explorer), başıboş gezgin (drifter)" },
-    { "id": "genel-turizm-k019", "front": "Doxey Irridex evreleri?", "back": "Coşku → ilgisizlik → rahatsızlık → düşmanlık (yerel halkın turiste bakışı)" },
-    { "id": "genel-turizm-k020", "front": "Butler'ın destinasyon yaşam döngüsü evreleri?", "back": "Keşif → katılım → gelişme → pekişme → durgunluk → gerileme veya yenilenme" },
-    { "id": "genel-turizm-k021", "front": "Taşıma kapasitesi nedir?", "back": "Destinasyonun fiziksel-ekolojik-sosyal bozulma olmadan kaldırabileceği ziyaretçi yükü" },
-    { "id": "genel-turizm-k022", "front": "UNWTO'nun merkezi ve Dünya Turizm Günü?", "back": "Madrid — 27 Eylül" },
-    { "id": "genel-turizm-k023", "front": "IATA nedir, merkezi neresidir?", "back": "Uluslararası Hava Taşımacılığı Birliği — Montreal; bilet ve havayolu standartlarını belirler." },
-    { "id": "genel-turizm-k024", "front": "A, B, C grubu acentaların yetkileri?", "back": "A: tüm hizmetler + tur düzenleme; B: uluslararası ulaştırma biletleri; C: yalnızca Türk vatandaşlarına yurt içi tur" },
-    { "id": "genel-turizm-k025", "front": "TÜRSAB ve TUREB'in farkı?", "back": "TÜRSAB: seyahat acentalarının birliği (1972). TUREB: turist rehberleri odalarının üst birliği (6326 ile)." },
-    { "id": "genel-turizm-k026", "front": "Turizm ve Tanıtma Bakanlığı hangi yıl kuruldu?", "back": "1963 (2003'te Kültür Bakanlığı ile birleşti: Kültür ve Turizm Bakanlığı)" },
-    { "id": "genel-turizm-k027", "front": "Kültür şoku evreleri?", "back": "Balayı → şok/kriz → uyum → kabullenme" },
-    { "id": "genel-turizm-k028", "front": "Gösteri (taklit) etkisi nedir?", "back": "Yerel halkın, özellikle gençlerin, turistlerin yaşam tarzını ve tüketimini taklit etmesi — olumsuz sosyokültürel etki." },
-    { "id": "genel-turizm-k029", "front": "Hanutçuluk nedir?", "back": "Turisti komisyon karşılığı belirli işletmelere yönlendirme/baskı — etik ihlal ve yasaktır." },
-    { "id": "genel-turizm-k030", "front": "Pera Palas neden turizm tarihimizde önemlidir?", "back": "1892'de Orient Express yolcuları için açılan, Türkiye'nin ilk modern otellerinden biridir." }
+    {
+      "id": "genel-turizm-k001",
+      "front": "Turist ile günübirlikçiyi ayıran ölçüt?",
+      "back": "Konaklama — turist gittiği yerde en az bir gece konaklar, günübirlikçi aynı gün döner."
+    },
+    {
+      "id": "genel-turizm-k002",
+      "front": "Aktif dış turizm nedir?",
+      "back": "Yabancıların ülkeye gelmesi — ülkeye döviz kazandıran turizm türü."
+    },
+    {
+      "id": "genel-turizm-k003",
+      "front": "Turizmin 3A bileşeni?",
+      "back": "Attraction (çekicilik), Accessibility (ulaşılabilirlik), Accommodation (konaklama)"
+    },
+    {
+      "id": "genel-turizm-k004",
+      "front": "İlk paket turu kim, ne zaman düzenledi?",
+      "back": "Thomas Cook — 1841, Leicester-Loughborough tren yolculuğu"
+    },
+    {
+      "id": "genel-turizm-k005",
+      "front": "'Turizm' sözcüğü hangi gelenekten doğdu?",
+      "back": "Grand Tour — İngiliz aristokrat gençlerinin Avrupa eğitim turu"
+    },
+    {
+      "id": "genel-turizm-k006",
+      "front": "Turist Rehberliği Meslek Kanunu'nun numarası ve yılı?",
+      "back": "6326 sayılı Kanun — 2012"
+    },
+    {
+      "id": "genel-turizm-k007",
+      "front": "Turizm Teşvik Kanunu'nun numarası ve yılı?",
+      "back": "2634 sayılı Kanun — 1982"
+    },
+    {
+      "id": "genel-turizm-k008",
+      "front": "Seyahat acentalarını düzenleyen kanun?",
+      "back": "1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu (1972; TÜRSAB bu kanunla kuruldu)"
+    },
+    {
+      "id": "genel-turizm-k009",
+      "front": "Ruhsatnameyi kim verir, süresi nedir?",
+      "back": "Kültür ve Turizm Bakanlığı — süresizdir."
+    },
+    {
+      "id": "genel-turizm-k010",
+      "front": "Çalışma kartını kim verir, süresi nedir?",
+      "back": "Bağlı olunan rehber odası/birlik — her yıl yenilenir."
+    },
+    {
+      "id": "genel-turizm-k011",
+      "front": "Eylemli ve eylemsiz rehber farkı?",
+      "back": "Eylemli: o yıl için çalışma kartı almış, fiilen çalışabilen rehber. Eylemsiz: ruhsatnamesi olup kart almamış rehber."
+    },
+    {
+      "id": "genel-turizm-k012",
+      "front": "Rehber taban ücretini kim belirler/ilan eder?",
+      "back": "Birliğin görüşü alınarak Kültür ve Turizm Bakanlığı — her yıl ilan edilir."
+    },
+    {
+      "id": "genel-turizm-k013",
+      "front": "Rehberlik disiplin cezaları (sırayla)?",
+      "back": "Uyarma → kınama → geçici olarak meslekten men → meslekten çıkarma (para cezası yoktur)"
+    },
+    {
+      "id": "genel-turizm-k014",
+      "front": "Rehberlikte iki sınıflandırma türü?",
+      "back": "Ülkesel (tüm Türkiye) ve bölgesel rehberlik"
+    },
+    {
+      "id": "genel-turizm-k015",
+      "front": "Sertifika programıyla rehber olmak için asgari eğitim şartı?",
+      "back": "En az lisans mezunu olmak (program TUREB tarafından açılır)"
+    },
+    {
+      "id": "genel-turizm-k016",
+      "front": "Plog'a göre içe dönük turist tipi?",
+      "back": "Psikosentrik — tanıdık ortam ister, paket turu ve popüler yerleri tercih eder."
+    },
+    {
+      "id": "genel-turizm-k017",
+      "front": "Plog'a göre dışa dönük turist tipi?",
+      "back": "Allosentrik — yeni ve keşfedilmemiş destinasyonları bireysel gezmeyi sever."
+    },
+    {
+      "id": "genel-turizm-k018",
+      "front": "Cohen'in dört turist tipi?",
+      "back": "Örgütlenmiş kitle turisti, bireysel kitle turisti, kâşif (explorer), başıboş gezgin (drifter)"
+    },
+    {
+      "id": "genel-turizm-k019",
+      "front": "Doxey Irridex evreleri?",
+      "back": "Coşku → ilgisizlik → rahatsızlık → düşmanlık (yerel halkın turiste bakışı)"
+    },
+    {
+      "id": "genel-turizm-k020",
+      "front": "Butler'ın destinasyon yaşam döngüsü evreleri?",
+      "back": "Keşif → katılım → gelişme → pekişme → durgunluk → gerileme veya yenilenme"
+    },
+    {
+      "id": "genel-turizm-k021",
+      "front": "Taşıma kapasitesi nedir?",
+      "back": "Destinasyonun fiziksel-ekolojik-sosyal bozulma olmadan kaldırabileceği ziyaretçi yükü"
+    },
+    {
+      "id": "genel-turizm-k022",
+      "front": "UNWTO'nun merkezi ve Dünya Turizm Günü?",
+      "back": "Madrid — 27 Eylül"
+    },
+    {
+      "id": "genel-turizm-k023",
+      "front": "IATA nedir, merkezi neresidir?",
+      "back": "Uluslararası Hava Taşımacılığı Birliği — Montreal; bilet ve havayolu standartlarını belirler."
+    },
+    {
+      "id": "genel-turizm-k024",
+      "front": "A, B, C grubu acentaların yetkileri?",
+      "back": "A: tüm hizmetler + tur düzenleme; B: uluslararası ulaştırma biletleri; C: yalnızca Türk vatandaşlarına yurt içi tur"
+    },
+    {
+      "id": "genel-turizm-k025",
+      "front": "TÜRSAB ve TUREB'in farkı?",
+      "back": "TÜRSAB: seyahat acentalarının birliği (1972). TUREB: turist rehberleri odalarının üst birliği (6326 ile)."
+    },
+    {
+      "id": "genel-turizm-k026",
+      "front": "Turizm ve Tanıtma Bakanlığı hangi yıl kuruldu?",
+      "back": "1963 (2003'te Kültür Bakanlığı ile birleşti: Kültür ve Turizm Bakanlığı)"
+    },
+    {
+      "id": "genel-turizm-k027",
+      "front": "Kültür şoku evreleri?",
+      "back": "Balayı → şok/kriz → uyum → kabullenme"
+    },
+    {
+      "id": "genel-turizm-k028",
+      "front": "Gösteri (taklit) etkisi nedir?",
+      "back": "Yerel halkın, özellikle gençlerin, turistlerin yaşam tarzını ve tüketimini taklit etmesi — olumsuz sosyokültürel etki."
+    },
+    {
+      "id": "genel-turizm-k029",
+      "front": "Hanutçuluk nedir?",
+      "back": "Turisti komisyon karşılığı belirli işletmelere yönlendirme/baskı — etik ihlal ve yasaktır."
+    },
+    {
+      "id": "genel-turizm-k030",
+      "front": "Pera Palas neden turizm tarihimizde önemlidir?",
+      "back": "1892'de Orient Express yolcuları için açılan, Türkiye'nin ilk modern otellerinden biridir."
+    }
   ]
 }

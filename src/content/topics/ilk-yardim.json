@@ -2,28 +2,32 @@
   "id": "ilk-yardim",
   "fullNotes": [
     {
-      "heading": "İlk Yardımın Temelleri",
-      "markdown": "**İlk yardım:** Olay yerinde, **ilaçsız** ve **tıbbi araç gerektirmeden**, hayat kurtarmak ya da durumun kötüleşmesini önlemek için yapılan uygulamalardır. (İlaç vermek ilk yardım DEĞİLDİR — acil tedavinin işidir.)\n\n**Acil numara: 112** (Türkiye'de sağlık-itfaiye-polis tek çatı altında).\n\n**İlk yardımın KBK temel adımları:**\n1. **Koruma:** Olay yerini güvenli hale getir (trafik güvenliği, reflektör, kontak kapatma)\n2. **Bildirme:** 112'yi ara — sakin, net; yer/olay/yaralı sayısı bildir\n3. **Kurtarma:** Öncelik sırasına göre müdahale et\n\n**Hayat kurtarma zinciri:** erken 112 → erken TYD (temel yaşam desteği) → erken defibrilasyon → erken ileri yaşam desteği.\n\n**İlk yardımın ABC'si:**\n- **A (Airway):** Hava yolu açıklığı (baş-çene pozisyonu)\n- **B (Breathing):** Solunum kontrolü — **bak-dinle-hisset (10 saniye)**\n- **C (Circulation):** Dolaşım (yetişkinde şah damarından nabız)\n\n**Turdaki öncelik üçgeni:** Önce kendi güvenliğin → sonra çevre → sonra yaralı. Panik yönetimi rehberin işidir; kalabalığı uzaklaştır, görevlendirme yap ('siz 112'yi arayın')."
+      "heading": "Temel Kavramlar ve İlk Yardımın Altın Kuralları",
+      "markdown": "**İlk yardım:** Herhangi bir kaza veya yaşamı tehlikeye düşüren durumda, sağlık görevlilerinin yardımı sağlanıncaya kadar, hayatın kurtarılması veya durumun kötüleşmesini önlemek amacıyla **ilaçsız** olarak, olay yerinde, mevcut araç-gereçlerle yapılan uygulamadır.\n\n**Acil tedavi:** Hastanede veya olay yerinde, **doktor ve sağlık personeli** tarafından, **gerekli ekipman ve ilaçla** yapılan müdahaledir.\n\n**En kritik ayrım (sınavda mutlaka sorulur):** İlk yardım **ilaçsızdır** ve **herkes** tarafından yapılabilir; acil tedavi **ilaçlıdır** ve yalnızca **sağlık personeli** tarafından yapılır.\n\n**İlk yardımın öncelikli amaçları — sırasıyla:**\n1. **Hayati tehlikeyi ortadan kaldırmak**\n2. Yaşamsal fonksiyonların sürdürülmesini sağlamak\n3. Hasta/yaralının durumunun **kötüleşmesini önlemek**\n4. İyileşmeyi kolaylaştırmak\n\n**İlk yardımın temel uygulamaları — KBK:**\n- **K**oruma: Olay yerini ve kendini güvene almak\n- **B**ildirme: **112**'yi aramak\n- **K**urtarma: Hasta/yaralıya müdahale etmek\n\n**\"Önce kendi güvenliğin\" kuralı:** İlk yardımcı önce **kendi can güvenliğini** sağlar. Kendisi de yaralanan bir ilk yardımcı, kurtarılacak kişi sayısını artırmaktan başka işe yaramaz. Trafik kazasında yansıtıcı yelek giymek, aracı emniyete almak, elektrik kazasında akımı kesmek bu kuralın gereğidir.\n\n**İlk yardımcının özellikleri:** Sakin ve kararlı olmalı, çevredekileri organize edebilmeli, eldeki imkânı en iyi şekilde kullanmalı, **kesin olarak bilmediği uygulamayı yapmamalıdır.**\n\n**112 aranırken bildirilecekler:**\n- **Kesin yer ve adres** (il, ilçe, cadde, bilinen bir nokta)\n- Kimin, hangi numaradan aradığı\n- Olayın **ne olduğu** (kaza, düşme, yangın...)\n- **Hasta/yaralı sayısı ve durumu**\n- Yapılan ilk yardım uygulamaları\n\n**Telefonu ilk yardımcı değil, GÖREVLİ kapatır.** Bu ayrıntı sınavda sorulur.\n\n**Rehber için özel not:** Turist grubunda ilk yardım gerektiren bir durumda rehber; grubu uzaklaştırır, 112'yi arar, hastanın **sigorta ve pasaport bilgilerine** ulaşır ve acentayı bilgilendirir. Yabancı hastanın **kronik hastalığı ve kullandığı ilaçlar** mutlaka öğrenilmelidir."
     },
     {
-      "heading": "Temel Yaşam Desteği (CPR)",
-      "markdown": "**Bilinç kontrolü:** Omuzlara dokun, 'iyi misiniz?' diye sesli sor. Yanıt yoksa → 112 + TYD.\n\n**Yetişkin CPR:**\n- Göğüs kemiğinin (sternum) **alt yarısına**, iki el üst üste\n- **30 bası : 2 solunum** oranı\n- Bası hızı **dakikada 100-120**\n- Bası derinliği **5-6 cm**\n- Göğsün geri gelmesine izin ver; kesintiyi en aza indir\n\n**Çocukta (1 yaş-ergenlik):** Tek elle, 5 cm; ilk 5 kurtarıcı soluk. **Bebekte (<1 yaş):** İki parmakla, 4 cm; nabız üst koldan (brakiyal).\n\n**OED/AED (otomatik dış defibrilatör):** Açık talimatları izle; elektrot yapıştır; şok sırasında dokunma. Havalimanı ve müzelerde yaygınlaşıyor.\n\n**Hava yolu tıkanması (yabancı cisim):**\n- **Kısmi tıkanma** (öksürebiliyor, konuşabiliyor): Dokunma, **öksürmeye teşvik et**.\n- **Tam tıkanma** (konuşamıyor, morarıyor, elleri boynunda): **Heimlich manevrası** — arkadan sar, göbek ile göğüs kemiği arasına yumrukla içe-yukarı bası (5 sırt darbesi + 5 karın basısı döngüsü). Gebede/aşırı kiloluda göğüs basısı; bebekte 5 sırt + 5 göğüs (iki parmak).\n\n**Koma (derlenme) pozisyonu:** Bilinci kapalı AMA solunumu olan hastaya — **yan yatırılır** (yarı yüzükoyun); dil geriye kaçmaz, kusmuk aspirasyonu önlenir. Omurga şüphesinde uygulanmaz!"
+      "heading": "Hasta/Yaralı ve Olay Yerinin Değerlendirilmesi",
+      "markdown": "**Olay yeri değerlendirmesinin amacı:** Yeni kazaların oluşmasını önlemek, kendinin ve çevrenin güvenliğini sağlamak.\n\n**Yapılacaklar:** Olay yerinde **gereksiz kalabalık önlenir**, hasta/yaralı **zorunlu olmadıkça yerinden kımıldatılmaz**, kazaya uğrayan araç **kontak kapatılarak** emniyete alınır, yaralı sayısı ve türü belirlenir.\n\n**Hasta/yaralının değerlendirilmesi — ABC:**\n- **A (Airway):** **Hava yolu** açıklığı\n- **B (Breathing):** **Solunum** var mı\n- **C (Circulation):** **Dolaşım / kanama** kontrolü\n\n**Bilinç kontrolü:** Hafifçe omuzlarından dokunarak \"İyi misiniz?\" diye seslenilir. Yanıt yoksa **bilinç kapalıdır.**\n\n**Hava yolu açma — Baş geri-çene yukarı pozisyonu:** Bir el alına, diğer elin iki parmağı çene kemiğinin üzerine konur; baş geriye itilir, çene yukarı kaldırılır. Bu, **dilin geriye kaçarak hava yolunu tıkamasını** önler.\n**İstisna:** **Boyun/omurga yaralanması şüphesi** varsa baş geri itilmez; yalnızca çene öne çekilir.\n\n**Solunum kontrolü — BAK-DİNLE-HİSSET:** İlk yardımcı yüzünü hastanın göğsüne dönerek **en fazla 10 saniye** boyunca göğsün kalkıp inmesine **BAKAR**, solunum sesini **DİNLER**, nefesi yanağında **HİSSEDER.**\n\n**Normal değerler — sınavda tablo hâlinde sorulur:**\n| Değer | Yetişkin | Çocuk (1-8 yaş) | Bebek (0-12 ay) |\n|---|---|---|---|\n| **Nabız** | **60-100/dk** | 100-120/dk | 100-140/dk |\n| **Solunum** | **12-20/dk** | 20-25/dk | 30-60/dk |\n| **Vücut ısısı** | **36,5 °C** | 36,5 °C | 36,5 °C |\n\n**Nabız alınan yerler:** Yetişkin ve çocukta **şah damarı (karotis)**, bebekte **kol atardamarı (brakiyal)**. Bilek (radial) nabzı bilinç açıkken kullanılır.\n\n**Kanama kontrolü:** Vücutta görünür bir kanama olup olmadığına bakılır; **hızlı kan kaybı** en acil müdahaleyi gerektirir."
     },
     {
-      "heading": "Kanamalar ve Şok",
-      "markdown": "**Kanama türleri:**\n- **Arteriyel (atardamar):** Açık kırmızı, **kalp atımıyla fışkırır** — en tehlikeli\n- **Venöz (toplardamar):** Koyu kırmızı, sızarak akar\n- **Kılcal:** Sızıntı şeklinde\n\n**Dış kanamada müdahale sırası:** 1) Yara üzerine **doğrudan bası** (temiz bez/steril kompres) 2) Bez ıslanırsa üstüne yenisini ekle (ilkini KALDIRMA) 3) Uzvu kalp seviyesinden yukarı kaldır 4) Basınç noktalarına bası 5) **Turnike = SON ÇARE** (uzuv kopması, çoklu yaralı, ulaşımın geciktiği durum). Turnike uygulanan saat-dakika **görünür şekilde yazılır**; geniş malzemeyle (tel/ip asla), eklem üzerine uygulanmaz.\n\n**Burun kanaması:** Baş hafif **öne** eğilir (geriye DEĞİL), burun kanatlarına 5-10 dk bası.\n\n**İç kanama belirtileri:** soğuk-soluk-nemli cilt, hızlı zayıf nabız, susuzluk, huzursuzluk → hiçbir şey yedirme-içirme, şok pozisyonu, 112.\n\n**Şok:** Dolaşımın dokulara yetememesi. **Şok pozisyonu:** Sırtüstü, **bacaklar ~30 cm yukarıda**; üstü örtülür (ısı kaybı önlenir); ağızdan bir şey verilmez.\n\n**Bayılma:** Kısa süreli bilinç kaybı — sırtüstü yatır, ayakları yükselt, sıkan giysileri gevşet, temiz hava; kendine gelince yavaş kaldır. (Yüzüne su çarpmak, koklatmak ilk yardım değildir!)"
+      "heading": "Temel Yaşam Desteği (TYD)",
+      "markdown": "**Temel yaşam desteği:** Solunumu ve/veya kalbi durmuş kişiye, **hiçbir alet kullanmadan**, yapay solunum ve dış kalp masajıyla dolaşımın sağlanmasıdır.\n\n**Hayat kurtarma zinciri:**\n1. Erken **fark etme** ve 112'yi arama\n2. Erken **TYD (kalp masajı + suni solunum)**\n3. Erken **defibrilasyon (OED)**\n4. Erken **ileri yaşam desteği**\n\n**RESMİ TÜRK STANDARDI (MEB İlk Yardım Yönetmeliği) — sınavda geçerli olan budur:**\n\n| | **Yetişkin** | **Çocuk (1-8 yaş)** | **Bebek (0-12 ay)** |\n|---|---|---|---|\n| **Bası/solunum oranı** | **30:2** | **30:2** | **30:2** |\n| **Bası hızı** | **dakikada 100** | dakikada 100 | dakikada 100 |\n| **Bası derinliği** | **5 cm** | **5 cm** | **4 cm** |\n| **Bası şekli** | **İki el** (bir elin topuğu, diğeri üzerine) | **Tek el topuğu** (iri çocukta iki el) | **İki parmak** (orta + yüzük) |\n\n**Not:** Uluslararası kılavuzlar (ERC/AHA) dakikada **100-120** bası ve **5-6 cm** derinlik önerir. **MKS'de Türkiye'nin resmi rakamları (100/dk, 5 cm) esas alınmalıdır.**\n\n**Bası yeri:** **Göğüs kemiğinin (sternum) alt yarısı.** Bebekte iki meme başını birleştiren çizginin hemen altı.\n\n**Uygulama basamakları:**\n1. Bilinç kontrol edilir\n2. **112 aranır**\n3. Hasta **sert ve düz zemine sırtüstü** yatırılır\n4. Hava yolu açılır (baş geri-çene yukarı)\n5. Solunum **10 saniye** kontrol edilir\n6. Solunum yoksa **30 bası + 2 soluk** döngüsü başlatılır\n7. **5 döngüde bir** (yaklaşık 2 dakika) solunum yeniden değerlendirilir\n\n**TYD ne zaman sonlandırılır?**\n- Hasta **kendiliğinden solumaya** başlarsa\n- **Sağlık ekibi** gelip devraldığında\n- İlk yardımcı **tamamen yorulduğunda**\n- Ortam **güvensiz** hâle geldiğinde\n\n**OED (Otomatik Eksternal Defibrilatör):** Bulunduğu anda derhal kullanılır; cihazın **sesli ve görsel komutları** izlenir. Şok verilirken **kimse hastaya dokunmamalıdır.**\n\n**Sık yapılan hatalar:** Yumuşak zeminde masaj yapmak, kolları bükmek (kollar **dirsekten bükülmez**, dik olmalıdır), basıdan sonra göğsün tam geri gelmesini beklememek, gereksiz ara vermek."
     },
     {
-      "heading": "Kırık-Çıkık-Burkulma ve Travmalar",
-      "markdown": "**Kırık şüphesinde:** Bölgeyi **hareket ettirme**, gördüğün şekliyle **tespit et (atel)** — bir üst ve bir alt eklemi de içine alacak şekilde. Açık kırıkta kemiği içeri itme; üzerini temiz bezle ört.\n\n**Burkulma-ezikte RICE/DEBS kuralı:** **R**est (istirahat) — **I**ce (soğuk uygulama, 20 dk aralıklı) — **C**ompression (elastik bandaj) — **E**levation (yükseltme). Sıcak uygulama İLK 24-48 saatte yapılmaz.\n\n**Çıkık:** Eklem yerinden çıkmıştır — **asla yerine oturtmaya çalışma**; bulduğun pozisyonda tespit et, soğuk uygula, hastaneye sevk.\n\n**Baş-boyun-omurga travması (trafik kazası, yüksekten düşme):**\n- Hastayı **hareket ettirme, taşıma zorunluysa baş-boyun-gövde ekseni bozulmadan** (kütük yuvarlama tekniği, en az 3 kişi)\n- Boynu iki yandan sabitle; bilinçliyse 'kımıldamayın' telkini\n- Motosiklet kaskı solunum engeli yoksa çıkarılmaz\n\n**Göğüs-karın yaralanması:** Saplanan cismi **ÇIKARMA**, etrafını destekleyerek sabitle. Karnından organları dışarı çıkmış hastada organlar içeri sokulmaz; nemli temiz bezle örtülür, dizler bükülü sırtüstü pozisyon verilir."
+      "heading": "Solunum Yolu Tıkanıklığı (Boğulma)",
+      "markdown": "Turist gruplarında yemek sırasında **en sık karşılaşılan acil durumdur.** Rehberin mutlaka bilmesi gerekir.\n\n**Kısmi tıkanıklık:** Kişi **öksürebiliyor, konuşabiliyor, nefes alabiliyor.**\n→ **Müdahale edilmez!** Kişi **öksürmeye teşvik edilir**, yakından izlenir. Sırtına vurulmaz — bu, cismi daha derine kaçırabilir.\n\n**Tam tıkanıklık:** Kişi **konuşamaz, öksüremez, nefes alamaz**; elleriyle **boğazını tutar** (evrensel boğulma işareti), yüzü morarır.\n→ **Derhal Heimlich manevrası** uygulanır.\n\n**HEIMLİCH MANEVRASI (Yetişkin ve çocukta):**\n1. Arkasına geçilir, **kollar koltuk altlarından** geçirilerek gövde kavranır\n2. Bir el **yumruk** yapılır, başparmak **göbek ile göğüs kemiği ucu arasına** konur\n3. Diğer el yumruğu kavrar\n4. **Kuvvetlice içe ve yukarı** doğru bastırılır\n5. Cisim çıkana veya kişi bilincini kaybedene kadar tekrarlanır\n\n**Bilinç kaybolursa:** Hasta yere yatırılır, **112 aranır** ve **TYD'ye başlanır.**\n\n**BEBEKLERDE (0-12 ay) — farklıdır:**\nHeimlich **uygulanmaz.** Bunun yerine:\n1. Bebek **yüzüstü**, başı gövdesinden **aşağıda** olacak şekilde ön kola yatırılır\n2. **Sırtına, kürek kemikleri arasına 5 kez** vurulur\n3. Bebek **sırtüstü** çevrilir; göğüs kemiğinin alt yarısına **2 parmakla 5 kez** bası yapılır\n4. **5 sırt vuruşu + 5 göğüs basısı** dönüşümlü tekrarlanır\n\n**Hamilelerde ve çok şişman kişilerde:** Bası **göbek bölgesine değil, göğüs kemiği üzerine** yapılır.\n\n**Kendine Heimlich:** Kişi bir sandalyenin arkalığına veya masa kenarına göbek üstünü bastırarak kendi kendine uygulayabilir.\n\n**Asla yapılmaz:** Ağza kör parmakla girmek. Cisim görünmüyorsa parmakla aranmaz — daha derine itilir."
     },
     {
-      "heading": "Yanık, Sıcak Çarpması, Donma ve Zehirlenmeler",
-      "markdown": "**Yanık dereceleri:** 1. derece — kızarıklık (güneş yanığı); 2. derece — **su toplama (bül)**; 3. derece — tüm katmanlar, siyah/beyaz kuru doku (ağrı az olabilir — sinirler de yanmıştır).\n\n**Yanıkta yapılacaklar:** Bölgeyi **15-20 dk akan soğuk suyla** soğut (buz DEĞİL); yapışan giysiyi çekme, çevresinden kes; bülleri PATLATMA; **diş macunu, yoğurt, salça sürme** (halk yanlışları!); temiz nemli bezle ört. Yüz/eklem/geniş yanıklar → hastane.\n\n**Kimyasal yanık:** Bol suyla en az 20-25 dk yıka. **Elektrik yanığı:** Önce akımı kes; giriş-çıkış deliği ara; ritim bozukluğu riski → mutlaka hastane.\n\n**Sıcak çarpması (turların baş belası):** Baş ağrısı, bulantı, kızarık kuru cilt, yüksek ateş → gölgeye al, giysileri gevşet, ıslak kompres (koltuk altı-kasık), bilinç yerindeyse **su + tuzlu ayran** içir. Önleme: 11.00-15.00 arası gölge planı, şapka, su molaları.\n\n**Donma:** Kişiyi ılık ortama al, ıslak giysileri değiştir, **ovma/ateşle ısıtma yapılmaz**, ılık (sıcak değil) suyla yavaş ısıt; su toplamış bölgeleri patlatma.\n\n**Zehirlenme:** Ağızdan zehirlenmede bilinç yerindeyse **kusturma standart uygulama DEĞİLDİR** (asit/bazda kesinlikle yasak); 114 UZEM (Ulusal Zehir Danışma) aranabilir. **Karbonmonoksit (soba/şofben):** Kişiyi temiz havaya çıkar, camları aç, 112.\n\n**Sokmalar:** Arı — iğneyi kartla sıyır (cımbızla sıkma), soğuk uygula; ağız-boğaz sokması ve **alerji (anafilaksi: yaygın kurdeşen, dilde şişme, nefes darlığı)** acildir. **Yılan** — hastayı sakinleştir, uzvu kalp altında sabit tut, **kesme-emme-turnike YOK**, hızla hastane. **Kene** — cımbızla deriye en yakın yerden düz çek; koparsa/ezersen risk artar; ateş takibi (KKKA)."
+      "heading": "Kanamalar, Şok ve Yaralanmalar",
+      "markdown": "**Kanama türleri:**\n- **Atardamar (arter) kanaması:** **Açık kırmızı**, **kalp atımıyla uyumlu fışkırır.** En tehlikelisidir\n- **Toplardamar (ven) kanaması:** **Koyu kırmızı**, sızarak akar\n- **Kılcal damar kanaması:** Yüzeyel, sızıntı şeklinde\n\n**Dış kanamada müdahale sırası:**\n1. **Doğrudan basınç** — yara üzerine temiz bez ile bastırılır (ilk ve en etkili yöntem)\n2. Kanayan bölge **kalp seviyesinden yukarı** kaldırılır\n3. Durmuyorsa **basınç noktasına** bası uygulanır\n4. **Turnike EN SON çaredir** — yalnızca **uzuv kopması** veya durdurulamayan hayati kanamada\n\n**TURNİKE KURALLARI (sınavda çok sorulur):**\n- Yalnızca **kol ve uyluk** bölgesine uygulanır (tek kemikli bölgeler)\n- **Dirsek ve diz altına** uygulanmaz\n- Uygulama **saati mutlaka yazılır** ve hastanın **alnına/görünür yerine** not edilir\n- **En geç 20 dakikada bir gevşetilir** (kural olarak sağlık ekibi gelene dek)\n- **Tel, ip, ince malzeme kullanılmaz**; en az **5 cm genişliğinde** bez kullanılır\n\n**İç kanama belirtileri:** Solgun ve soğuk cilt, hızlı ve zayıf nabız, hızlı yüzeysel solunum, huzursuzluk, susuzluk hissi, bilinç bulanıklığı. Görünür kanama olmadan şok tablosu varsa **iç kanama** düşünülür. **Ağızdan hiçbir şey verilmez.**\n\n**ŞOK:** Dolaşım sisteminin, dokulara yeterli oksijeni götürememesi durumu.\n**Belirtileri:** Hızlı ve zayıf nabız, **soğuk, soluk ve nemli cilt**, hızlı yüzeysel solunum, endişe ve huzursuzluk, susama hissi, bilinç düzeyinde azalma.\n\n**Şok pozisyonu:** Hasta **sırtüstü** yatırılır, **ayakları 30 cm yukarı** kaldırılır, üzeri **örtülerek sıcak tutulur**, **ağızdan bir şey verilmez.**\n\n**Koma (yarı yüzükoyun yan) pozisyonu:** **Bilinci kapalı ama solunumu olan** hastaya uygulanır. Amaç, **kusmuk veya dilin hava yolunu tıkamasını** önlemektir. Bilinci kapalı her hastada — omurga şüphesi yoksa — bu pozisyon verilir.\n\n**Yaralanmalar:**\n- **Kesik/delici yara:** Üzerindeki **saplanmış cisim ÇIKARILMAZ**, etrafı desteklenerek sabitlenir\n- **Açık karın yarası:** Dışarı çıkan organ **içeri sokulmaz**; temiz nemli bezle örtülür, dizler karına çekilir\n- **Göğüs yarası:** Hava girişini önlemek için **hava geçirmez** malzemeyle üç kenarından kapatılır\n- **Kopan uzuv:** Temiz beze sarılır, **su geçirmez torbaya** konur, torba **buzlu suyun içine** yerleştirilir. **Uzuv doğrudan buza veya suya değdirilmez**"
     },
     {
-      "heading": "Rehberin Saha Senaryoları",
-      "markdown": "**Otobüs kazası:** Aracı güvenli yere çektir/kontağı kapattır, reflektör; yaralı **triyajı**: önce solunumu olmayanlar → ağır kanamalılar; yürüyebilenleri güvenli alanda topla; 112'ye 'otobüs kazası, X yaralı' net bilgisi.\n\n**Kalp krizi şüphesi (göğüste baskı, sol kola-çeneye yayılan ağrı, terleme):** Hastayı **yarı oturur** pozisyona al, sakinleştir, sıkan giysileri gevşet, 112; biliniyorsa kendi dilaltı ilacına yardım et. Bilinç kaybolur, solunum durursa → CPR.\n\n**Epilepsi nöbeti:** **Müdahale etme** — kasılmayı durdurmaya çalışma, **ağzına hiçbir şey sokma** (kaşık dahil — kırık diş/aspirasyon riski); çevredeki sert cisimleri uzaklaştır, başının altına yumuşak koy, süre tut; nöbet sonrası derlenme pozisyonu. 5 dk'dan uzun sürerse/tekrarlıyorsa 112.\n\n**Şeker düşmesi (hipoglisemi):** Bilinç açıksa şekerli içecek/kesme şeker; bilinç kapalıysa ağızdan bir şey VERME, 112.\n\n**Deniz kazaları:** Boğulan kişiye yüzerek yaklaşmak risklidir — cisim uzat (can simidi, ip); sudan çıkarınca solunum kontrolü → gerekiyorsa CPR. Denizanası — sirke/deniz suyuyla yıka (tatlı su ve ovma zararlı).\n\n**Turist ishali & hijyen:** Şüpheli sulardan kaçınma uyarısı, şişe su; bol sıvı + tuz-şeker çözeltisi; kanlı ishal/yüksek ateş → doktor.\n\n**Rehber çantası asgari:** steril kompres, sargı, üçgen bandaj, flaster, eldiven, makas, ateş ölçer, soğuk kompres torbası, elektrolit tozu. (Rehber İLAÇ DAĞITMAZ — hukuki sorumluluk!)"
+      "heading": "Kırık, Çıkık, Burkulma ve Diğer Acil Durumlar",
+      "markdown": "**Kırık:** Kemik bütünlüğünün bozulması. **Açık kırıkta** kemik uçları deriyi delmiştir; enfeksiyon riski yüksektir.\n**Çıkık:** Eklem yüzeylerinin kalıcı olarak ayrılması.\n**Burkulma:** Eklem bağlarının zorlanması; kemikler yerindedir.\n\n**Ortak ilke:** Hepsinde **hareketsizlik (immobilizasyon)** esastır.\n- Yaralı bölge **bulunduğu şekliyle** tespit edilir; **düzeltmeye çalışılmaz**\n- Tespit, kırığın **bir alt ve bir üst eklemini** içine alacak şekilde yapılır\n- Tespitten sonra **parmak uçlarında nabız, renk ve ısı** kontrol edilir (dolaşım engellenmemeli)\n- Şişliği azaltmak için **soğuk uygulama** yapılır (buz doğrudan cilde değdirilmez)\n- Açık kırıkta yara **temiz bezle örtülür**, kemik içeri itilmez\n\n**RICE ilkesi (burkulmada):** **R**est (istirahat), **I**ce (buz), **C**ompression (baskı), **E**levation (yükseltme).\n\n**Baş, boyun, omurga yaralanması şüphesi:** Hasta **kesinlikle hareket ettirilmez** (yangın gibi hayati tehlike yoksa). Baş-boyun-gövde ekseni **tek parça** hâlinde korunur. Kask **çıkarılmaz.**\n\n**Bilinç bozuklukları:**\n- **Bayılma:** Kısa süreli, yüzeysel bilinç kaybı. Sırtüstü yatırılır, **ayaklar yükseltilir**, sıkan giysiler gevşetilir, temiz hava sağlanır\n- **Havale (konvülsiyon):** Kişinin **etrafındaki tehlikeli cisimler uzaklaştırılır**, başının altına yumuşak bir şey konur. **Kollarına asla tutulmaz, ağzına hiçbir şey sokulmaz.** Nöbet sonrası koma pozisyonu verilir\n- **Koma:** Bilinç kapalı, solunum var → **koma pozisyonu** + 112\n\n**Sıcak çarpması ve güneş çarpması (turist grubunda sık):** Serin ve gölge bir yere alınır, sıkan giysiler gevşetilir, **bilinci açıksa** sıvı verilir, vücut ıslak bezle serinletilir. Rehber, yaz turlarında grubu şapka, su ve gölge molası konusunda **önceden uyarmalıdır.**\n\n**Zehirlenmeler:** Zehirin **ağız yoluyla, solunum yoluyla veya deri yoluyla** alınmasına göre değişir.\n- **Kusturma ASLA kendiliğinden yapılmaz** — özellikle asit/baz ve petrol ürünlerinde kusturmak yemek borusunu ikinci kez yakar\n- Solunum yoluyla zehirlenmede kişi **temiz havaya** çıkarılır; ilk yardımcı **kendi güvenliğini** almadan girmez\n- **114 Zehir Danışma Merkezi** aranabilir\n\n**Yanıklar:**\n- Yanan bölge **en az 20 dakika soğuk suyun altında** tutulur (buz kullanılmaz)\n- Su toplamışsa **patlatılmaz**\n- Yanık üzerine **diş macunu, yoğurt, salça gibi maddeler sürülmez**\n- Yapışan giysi **çıkarılmaz**\n- Kimyasal yanıkta bol suyla yıkanır\n\n**Hayvan ısırıkları:** Yara bol **sabunlu suyla** yıkanır; kuduz riski nedeniyle mutlaka sağlık kuruluşuna başvurulur. Yılan sokmasında **kesinlikle emilmez ve kesi yapılmaz**; ısırılan bölge **kalp seviyesinin altında** tutulur, hareket ettirilmez.\n\n**Acil telefonlar:** **112** (Acil Çağrı Merkezi — tüm acil durumlar tek numarada toplanmıştır), **114** (Zehir Danışma)."
+    },
+    {
+      "heading": "Sağlık Turizmi ve Rehberin Sorumluluğu",
+      "markdown": "**Sağlık turizmi:** Kişilerin tedavi, bakım veya sağlıklı yaşam amacıyla yaşadıkları ülke dışına seyahat etmesidir. MKS'nin resmi konu başlığında ilk yardım ile **birlikte** anılır.\n\n**Üç ana dal:**\n1. **Medikal turizm:** Ameliyat, **saç ekimi, diş tedavisi, estetik, tüp bebek, göz (LASIK), onkoloji.** Türkiye özellikle **saç ekimi ve diş tedavisinde** dünyada ilk sıradadır\n2. **Termal ve SPA turizmi:** Şifalı su, çamur ve iklim tedavisi. Merkezler: **Afyonkarahisar (termal başkent), Yalova, Bursa Çekirge, Pamukkale/Karahayıt, Balçova (İzmir), Kızılcahamam, Haymana, Sandıklı**\n3. **İleri yaş ve engelli turizmi:** Bakım hizmeti, rehabilitasyon, huzurevi turizmi\n\n**Türkiye'nin avantajları:** Yüksek nitelikli hekim, **JCI akreditasyonlu** hastane sayısının fazlalığı, kısa bekleme süresi, uygun maliyet, coğrafi yakınlık ve zengin termal kaynaklar. **Türkiye jeotermal kaynak zenginliğinde Avrupa'da ilk sıralarda, dünyada ilk yedi içindedir.**\n\n**Rehberin sağlıkla ilgili sorumlulukları:**\n- Tur öncesi grubun **kronik hastalık, alerji ve ilaç** bilgilerini öğrenmek\n- **Seyahat sağlık sigortası** kapsamını bilmek\n- Yakındaki **hastane ve eczaneleri** önceden tespit etmek\n- Araçta **ilk yardım çantası** bulunmasını sağlamak ve içeriğini bilmek\n- Yaz aylarında **su, şapka, gölge molası**; kışın hipotermi konusunda grubu uyarmak\n- **İlaç vermemek** — rehber hastaya kendi ilacını dahi öneremez; bu **acil tedavi** kapsamındadır ve yetkisi yoktur\n\n**İlk yardım çantasında bulunması gerekenler:** Steril gazlı bez, sargı bezi, üçgen sargı, flaster, makas, çengelli iğne, eldiven, antiseptik solüsyon, turnike bezi, alüminyum örtü. **İlaç bulunmaz.**\n\n**Yasal çerçeve:** Turist rehberi, **ilk yardım eğitimi almış** olmalıdır. İlk yardımcı, iyi niyetle ve bildiği ölçüde yaptığı müdahaleden dolayı sorumlu tutulmaz; ancak **bilmediği bir uygulamayı yapmak** sorumluluk doğurur. Bu yüzden temel kural değişmez: **emin değilsen müdahale etme, 112'yi ara ve hastayı koru.**"
     }
   ],
   "shortNotes": "**Tanım:** İlk yardım = olay yerinde, İLAÇSIZ, araç-gereçsiz uygulama. Acil no: 112 (zehir: 114). KBK: Koruma-Bildirme-Kurtarma. ABC: hava yolu-solunum-dolaşım; bak-dinle-hisset 10 sn.\n\n**CPR ezberi:** 30:2 — hız 100-120/dk — derinlik 5-6 cm — sternum alt yarısı. Bebek: iki parmak, 4 cm, brakiyal nabız. Tam tıkanma → Heimlich; kısmi → öksürt. Bilinçsiz + soluyor → derlenme (yan) pozisyonu.\n\n**Kanama:** Atardamar = fışkırır/açık kırmızı. Sıra: bası → bez ekle (ilkini kaldırma) → yükselt → turnike SON ÇARE + saat yaz. Burun: baş ÖNE. Şok pozisyonu: sırtüstü + bacaklar 30 cm yukarı. \n\n**Travma:** Kırık = bulunduğu gibi atelle (alt+üst eklem dahil). Çıkık = yerine OTURTMA. Burkulma = RICE (soğuk; ilk 48 saat sıcak yasak). Omurga şüphesi = HAREKET ETTİRME. Saplanan cisim = ÇIKARMA.\n\n**Yanık:** 2. derece = su toplar. 15-20 dk akan soğuk su; bül patlatma; macun-yoğurt sürme. Elektrikte önce akımı kes.\n\n**Sıcak çarpması:** gölge + ıslak kompres + tuzlu ayran. Yılan: kesme-emme-turnike YOK. Arı: kartla sıyır. Kene: cımbızla düz çek. Epilepsi: ağza HİÇBİR ŞEY sokma. Kalp krizi: yarı oturur + 112. Hipoglisemi: bilinç açıksa şeker.\n\n**Rehber ilkesi:** İlaç dağıtmaz, tanı koymaz; güvenlik-112-temel destek üçgeninde kalır.",
@@ -42,35 +46,155 @@
     "**Bilinci kapalı hiçbir hastaya ağızdan bir şey verilmez** — su, şeker, ilaç... 'bilinçsiz' kelimesini gördüğünde yedirme-içirme şıklarını ele."
   ],
   "flashcards": [
-    { "id": "ilk-yardim-k001", "front": "İlk yardımın tanımındaki iki kritik sınır?", "back": "İlaçsız ve tıbbi araç-gereç gerektirmeden — olay yerinde yapılan uygulamalardır." },
-    { "id": "ilk-yardim-k002", "front": "KBK adımları nedir?", "back": "Koruma (olay yeri güvenliği) → Bildirme (112) → Kurtarma (öncelikli müdahale)" },
-    { "id": "ilk-yardim-k003", "front": "İlk yardımın ABC'si?", "back": "A: hava yolu açıklığı, B: solunum (bak-dinle-hisset 10 sn), C: dolaşım" },
-    { "id": "ilk-yardim-k004", "front": "Yetişkin CPR oranı, hızı, derinliği?", "back": "30 bası : 2 soluk — 100-120/dk — 5-6 cm (sternum alt yarısı)" },
-    { "id": "ilk-yardim-k005", "front": "Bebek CPR farkları?", "back": "İki parmakla, 4 cm derinlik; nabız brakiyal (üst kol) arterden; ilk 5 kurtarıcı soluk" },
-    { "id": "ilk-yardim-k006", "front": "Tam ve kısmi hava yolu tıkanmasında ne yapılır?", "back": "Kısmi (öksürebiliyor): öksürmeye teşvik. Tam (konuşamıyor): Heimlich — 5 sırt + 5 karın basısı." },
-    { "id": "ilk-yardim-k007", "front": "Derlenme (koma) pozisyonu kime, nasıl?", "back": "Bilinci kapalı ama SOLUNUMU OLAN hastaya — yan (yarı yüzükoyun) yatırılır; omurga şüphesinde yapılmaz." },
-    { "id": "ilk-yardim-k008", "front": "Atardamar kanaması nasıl tanınır?", "back": "Açık kırmızı, kalp atımıyla FIŞKIRIR — en tehlikeli kanamadır." },
-    { "id": "ilk-yardim-k009", "front": "Dış kanamada müdahale sırası?", "back": "Doğrudan bası → ıslanınca üstüne bez ekle (ilkini kaldırma) → uzvu yükselt → basınç noktası → turnike (son çare + saat yazılır)" },
-    { "id": "ilk-yardim-k010", "front": "Şok pozisyonu nasıl verilir?", "back": "Sırtüstü, bacaklar ~30 cm yükseltilir; üstü örtülür; ağızdan bir şey verilmez." },
-    { "id": "ilk-yardim-k011", "front": "Burun kanamasında baş hangi yöne eğilir?", "back": "ÖNE — burun kanatlarına 5-10 dk bası (geriye yatırmak kanı yutturur)." },
-    { "id": "ilk-yardim-k012", "front": "Kırıkta atel kuralı?", "back": "Bulunduğu şekilde tespit; bir üst ve bir alt eklem de atele dahil edilir." },
-    { "id": "ilk-yardim-k013", "front": "Burkulmada RICE nedir?", "back": "Rest-istirahat, Ice-soğuk (20 dk aralıklı), Compression-bandaj, Elevation-yükseltme; ilk 48 saat sıcak yasak." },
-    { "id": "ilk-yardim-k014", "front": "Çıkıkta altın kural?", "back": "Asla yerine oturtma — bulduğun pozisyonda tespit et, soğuk uygula, hastaneye götür." },
-    { "id": "ilk-yardim-k015", "front": "Omurga yaralanması şüphesinde ne yapılır?", "back": "Hasta hareket ettirilmez; zorunluysa baş-boyun-gövde ekseni korunarak en az 3 kişiyle taşınır." },
-    { "id": "ilk-yardim-k016", "front": "Yanık dereceleri nasıl ayrılır?", "back": "1°: kızarıklık; 2°: SU TOPLAMA (bül); 3°: tüm katmanlar, kuru siyah/beyaz doku" },
-    { "id": "ilk-yardim-k017", "front": "Yanıkta doğru soğutma?", "back": "15-20 dk AKAN soğuk su (buz değil); bül patlatılmaz; yoğurt/macun sürülmez." },
-    { "id": "ilk-yardim-k018", "front": "Sıcak çarpmasında müdahale?", "back": "Gölgeye al, giysileri gevşet, koltuk altı-kasığa ıslak kompres, bilinçliyse su + tuzlu ayran." },
-    { "id": "ilk-yardim-k019", "front": "Yılan sokmasında üç yasak?", "back": "Kesme, emme, turnike — hasta sakinleştirilir, uzuv kalp altında sabitlenir, hızla hastane." },
-    { "id": "ilk-yardim-k020", "front": "Arı sokması ve kene çıkarma tekniği?", "back": "Arı iğnesi kartla sıyrılır (sıkılmaz); kene cımbızla deriye en yakın yerden düz çekilir." },
-    { "id": "ilk-yardim-k021", "front": "Anafilaksi belirtileri?", "back": "Yaygın kurdeşen, dil-dudakta şişme, nefes darlığı, tansiyon düşmesi — dakikalar içinde 112!" },
-    { "id": "ilk-yardim-k022", "front": "Epilepsi nöbetinde yapılMAYACAKlar?", "back": "Kasılma zapt edilmez, ağza hiçbir şey sokulmaz; çevre güvenliği sağlanır, süre tutulur, sonrası yan pozisyon." },
-    { "id": "ilk-yardim-k023", "front": "Kalp krizi belirtileri ve pozisyonu?", "back": "Göğüste baskı, sol kola/çeneye yayılan ağrı, soğuk terleme — yarı oturur pozisyon + 112." },
-    { "id": "ilk-yardim-k024", "front": "Hipoglisemide müdahale?", "back": "Bilinç açıksa şekerli içecek; bilinç kapalıysa ağızdan hiçbir şey verilmez → 112." },
-    { "id": "ilk-yardim-k025", "front": "Karbonmonoksit zehirlenmesinde ilk iş?", "back": "Kişiyi temiz havaya çıkarmak, ortamı havalandırmak, 112 (kendi güvenliğini unutma)." },
-    { "id": "ilk-yardim-k026", "front": "Bilinci kapalı hastaya ağızdan bir şey verilir mi?", "back": "ASLA — su, şeker, ilaç dahil; aspirasyon (soluk yoluna kaçma) riski ölümcüldür." },
-    { "id": "ilk-yardim-k027", "front": "Zehir danışma hattı?", "back": "114 — UZEM (Ulusal Zehir Danışma Merkezi)" },
-    { "id": "ilk-yardim-k028", "front": "Saplanmış cisimde kural?", "back": "Cisim ÇIKARILMAZ; etrafı desteklenerek sabitlenir, hastane yolu." },
-    { "id": "ilk-yardim-k029", "front": "Boğulan kişiye yaklaşım ilkesi?", "back": "Yüzerek yaklaşmak risklidir — önce cisim uzat (simit, ip, sopa); çıkarınca solunum kontrolü → CPR." },
-    { "id": "ilk-yardim-k030", "front": "Rehberin ilaç konusundaki sınırı?", "back": "Rehber turiste ilaç DAĞITMAZ, tanı koymaz — hukuki sorumluluk doğurur; hastanın kendi ilacına yardım edebilir." }
+    {
+      "id": "ilk-yardim-k001",
+      "front": "İlk yardımın tanımındaki iki kritik sınır?",
+      "back": "İlaçsız ve tıbbi araç-gereç gerektirmeden — olay yerinde yapılan uygulamalardır."
+    },
+    {
+      "id": "ilk-yardim-k002",
+      "front": "KBK adımları nedir?",
+      "back": "Koruma (olay yeri güvenliği) → Bildirme (112) → Kurtarma (öncelikli müdahale)"
+    },
+    {
+      "id": "ilk-yardim-k003",
+      "front": "İlk yardımın ABC'si?",
+      "back": "A: hava yolu açıklığı, B: solunum (bak-dinle-hisset 10 sn), C: dolaşım"
+    },
+    {
+      "id": "ilk-yardim-k004",
+      "front": "Yetişkin CPR oranı, hızı, derinliği?",
+      "back": "30 bası : 2 soluk — 100-120/dk — 5-6 cm (sternum alt yarısı)"
+    },
+    {
+      "id": "ilk-yardim-k005",
+      "front": "Bebek CPR farkları?",
+      "back": "İki parmakla, 4 cm derinlik; nabız brakiyal (üst kol) arterden; ilk 5 kurtarıcı soluk"
+    },
+    {
+      "id": "ilk-yardim-k006",
+      "front": "Tam ve kısmi hava yolu tıkanmasında ne yapılır?",
+      "back": "Kısmi (öksürebiliyor): öksürmeye teşvik. Tam (konuşamıyor): Heimlich — 5 sırt + 5 karın basısı."
+    },
+    {
+      "id": "ilk-yardim-k007",
+      "front": "Derlenme (koma) pozisyonu kime, nasıl?",
+      "back": "Bilinci kapalı ama SOLUNUMU OLAN hastaya — yan (yarı yüzükoyun) yatırılır; omurga şüphesinde yapılmaz."
+    },
+    {
+      "id": "ilk-yardim-k008",
+      "front": "Atardamar kanaması nasıl tanınır?",
+      "back": "Açık kırmızı, kalp atımıyla FIŞKIRIR — en tehlikeli kanamadır."
+    },
+    {
+      "id": "ilk-yardim-k009",
+      "front": "Dış kanamada müdahale sırası?",
+      "back": "Doğrudan bası → ıslanınca üstüne bez ekle (ilkini kaldırma) → uzvu yükselt → basınç noktası → turnike (son çare + saat yazılır)"
+    },
+    {
+      "id": "ilk-yardim-k010",
+      "front": "Şok pozisyonu nasıl verilir?",
+      "back": "Sırtüstü, bacaklar ~30 cm yükseltilir; üstü örtülür; ağızdan bir şey verilmez."
+    },
+    {
+      "id": "ilk-yardim-k011",
+      "front": "Burun kanamasında baş hangi yöne eğilir?",
+      "back": "ÖNE — burun kanatlarına 5-10 dk bası (geriye yatırmak kanı yutturur)."
+    },
+    {
+      "id": "ilk-yardim-k012",
+      "front": "Kırıkta atel kuralı?",
+      "back": "Bulunduğu şekilde tespit; bir üst ve bir alt eklem de atele dahil edilir."
+    },
+    {
+      "id": "ilk-yardim-k013",
+      "front": "Burkulmada RICE nedir?",
+      "back": "Rest-istirahat, Ice-soğuk (20 dk aralıklı), Compression-bandaj, Elevation-yükseltme; ilk 48 saat sıcak yasak."
+    },
+    {
+      "id": "ilk-yardim-k014",
+      "front": "Çıkıkta altın kural?",
+      "back": "Asla yerine oturtma — bulduğun pozisyonda tespit et, soğuk uygula, hastaneye götür."
+    },
+    {
+      "id": "ilk-yardim-k015",
+      "front": "Omurga yaralanması şüphesinde ne yapılır?",
+      "back": "Hasta hareket ettirilmez; zorunluysa baş-boyun-gövde ekseni korunarak en az 3 kişiyle taşınır."
+    },
+    {
+      "id": "ilk-yardim-k016",
+      "front": "Yanık dereceleri nasıl ayrılır?",
+      "back": "1°: kızarıklık; 2°: SU TOPLAMA (bül); 3°: tüm katmanlar, kuru siyah/beyaz doku"
+    },
+    {
+      "id": "ilk-yardim-k017",
+      "front": "Yanıkta doğru soğutma?",
+      "back": "15-20 dk AKAN soğuk su (buz değil); bül patlatılmaz; yoğurt/macun sürülmez."
+    },
+    {
+      "id": "ilk-yardim-k018",
+      "front": "Sıcak çarpmasında müdahale?",
+      "back": "Gölgeye al, giysileri gevşet, koltuk altı-kasığa ıslak kompres, bilinçliyse su + tuzlu ayran."
+    },
+    {
+      "id": "ilk-yardim-k019",
+      "front": "Yılan sokmasında üç yasak?",
+      "back": "Kesme, emme, turnike — hasta sakinleştirilir, uzuv kalp altında sabitlenir, hızla hastane."
+    },
+    {
+      "id": "ilk-yardim-k020",
+      "front": "Arı sokması ve kene çıkarma tekniği?",
+      "back": "Arı iğnesi kartla sıyrılır (sıkılmaz); kene cımbızla deriye en yakın yerden düz çekilir."
+    },
+    {
+      "id": "ilk-yardim-k021",
+      "front": "Anafilaksi belirtileri?",
+      "back": "Yaygın kurdeşen, dil-dudakta şişme, nefes darlığı, tansiyon düşmesi — dakikalar içinde 112!"
+    },
+    {
+      "id": "ilk-yardim-k022",
+      "front": "Epilepsi nöbetinde yapılMAYACAKlar?",
+      "back": "Kasılma zapt edilmez, ağza hiçbir şey sokulmaz; çevre güvenliği sağlanır, süre tutulur, sonrası yan pozisyon."
+    },
+    {
+      "id": "ilk-yardim-k023",
+      "front": "Kalp krizi belirtileri ve pozisyonu?",
+      "back": "Göğüste baskı, sol kola/çeneye yayılan ağrı, soğuk terleme — yarı oturur pozisyon + 112."
+    },
+    {
+      "id": "ilk-yardim-k024",
+      "front": "Hipoglisemide müdahale?",
+      "back": "Bilinç açıksa şekerli içecek; bilinç kapalıysa ağızdan hiçbir şey verilmez → 112."
+    },
+    {
+      "id": "ilk-yardim-k025",
+      "front": "Karbonmonoksit zehirlenmesinde ilk iş?",
+      "back": "Kişiyi temiz havaya çıkarmak, ortamı havalandırmak, 112 (kendi güvenliğini unutma)."
+    },
+    {
+      "id": "ilk-yardim-k026",
+      "front": "Bilinci kapalı hastaya ağızdan bir şey verilir mi?",
+      "back": "ASLA — su, şeker, ilaç dahil; aspirasyon (soluk yoluna kaçma) riski ölümcüldür."
+    },
+    {
+      "id": "ilk-yardim-k027",
+      "front": "Zehir danışma hattı?",
+      "back": "114 — UZEM (Ulusal Zehir Danışma Merkezi)"
+    },
+    {
+      "id": "ilk-yardim-k028",
+      "front": "Saplanmış cisimde kural?",
+      "back": "Cisim ÇIKARILMAZ; etrafı desteklenerek sabitlenir, hastane yolu."
+    },
+    {
+      "id": "ilk-yardim-k029",
+      "front": "Boğulan kişiye yaklaşım ilkesi?",
+      "back": "Yüzerek yaklaşmak risklidir — önce cisim uzat (simit, ip, sopa); çıkarınca solunum kontrolü → CPR."
+    },
+    {
+      "id": "ilk-yardim-k030",
+      "front": "Rehberin ilaç konusundaki sınırı?",
+      "back": "Rehber turiste ilaç DAĞITMAZ, tanı koymaz — hukuki sorumluluk doğurur; hastanın kendi ilacına yardım edebilir."
+    }
   ]
 }

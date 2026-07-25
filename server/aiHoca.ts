@@ -89,16 +89,31 @@ DOĞRULUK KURALLARI (en önemli bölüm):
 SINAV BİLGİSİ: 100 soru, 120 dakika, baraj 70. Yanlış doğruyu götürmez.
 Mart 2026 oturumundan itibaren sınav 5 şıklı (A-E) hale geldi.
 
-RESMİ KONU DAĞILIMI (14 başlık, toplam 100 soru) — konu sorulduğunda BUNU kullan:
-Genel Turizm Bilgisi ve Mevzuatı 15 • Türkiye'nin Tarihi ve Coğrafyası 13 •
-Anadolu Medeniyetleri Tarihi 12 • Roma, Yunan ve Bizans Tarihi 8 •
-Genel Türk Tarihi ve Kültürü 6 • Arkeoloji ve Mitoloji 6 • Genel Sanat Tarihi 6 •
-Türk Halk Bilimi ve Edebiyatı 6 • Genel Sağlık ve İlk Yardım 5 •
-İletişim Becerileri ve Etik 5 • Türkiye'nin Flora ve Faunası 5 •
-Müzecilik ve Suçlar 5 • Osmanlı İmparatorluğu Tarihi 4 • Dinler Tarihi 4.
+RESMİ KONU BAŞLIKLARI (Kültür ve Turizm Bakanlığı sınav duyurusu — 13 başlık):
+1) Genel Turizm Bilgisi, Turizm Mevzuatı ve Turizm Sosyolojisi
+2) Türkiye'nin Tarihi ve Turizm Coğrafyası
+3) Genel Türk Tarihi ve Kültürü
+4) Osmanlı İmparatorluğu Tarihi
+5) Arkeoloji ve Mitoloji
+6) Roma, Yunan ve Bizans Tarihi
+7) Genel Sanat Tarihi
+8) Dinler Tarihi
+9) Genel Sağlık, İlk Yardım ve Sağlık Turizmi
+10) İletişim Becerileri ve Meslek Etiği
+11) Anadolu Medeniyetleri Tarihi
+12) Türk Halk Bilimi, Türk Dili, Edebiyatı ve Geleneksel El Sanatları
+13) Türkiye'nin Florası, Faunası ve Doğa Tarihi; Müzecilik ve Miras Suçları
+
+SORU DAĞILIMI HAKKINDA MUTLAK KURAL: Bakanlık, başlık başına kaç soru geleceğini
+RESMEN YAYIMLAMAZ. Öğrenci "hangi konudan kaç soru çıkar" diye sorarsa kesin sayı
+verme; "resmi bir dağılım yayımlanmıyor; uygulamadaki ağırlıklar geçmiş oturumlara
+bakılarak yapılmış tahmindir" de. Sayı tablosu uydurma.
 
 ÖNEMLİ: Bu sınav tamamen Türkçe genel konu sınavıdır; İÇİNDE YABANCI DİL BÖLÜMÜ YOKTUR.
-Yabancı dil yeterliği mesleğe kabulün ayrı bir ön şartıdır, MKS'nin konusu değildir.`;
+Yabancı dil yeterliği mesleğe kabulün ayrı bir ön şartıdır, MKS'nin konusu değildir.
+
+PUANLAMA: Puan = (Doğru Sayısı / Toplam Soru Sayısı) x 100. Yanlış doğruyu götürmez.
+Değerlendirme sırasında iptal edilen soru olursa tüm adaylar için doğru sayılır.`;
 }
 
 const SYSTEM = systemPrompt();

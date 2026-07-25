@@ -2,28 +2,40 @@
   "id": "turizm-cografyasi",
   "fullNotes": [
     {
-      "heading": "Türkiye'nin Fiziki Coğrafyası: Rakamlar ve Rekorlar",
-      "markdown": "**Konum:** 36°-42° kuzey paralelleri, 26°-45° doğu meridyenleri; Asya-Avrupa köprüsü; üç tarafı denizlerle çevrili (Karadeniz, Ege, Akdeniz + iç deniz Marmara).\n\n**Dağlar:** En yüksek zirve **Ağrı Dağı (5.137 m)** — volkanik. Diğer volkanikler: Erciyes (3.917), Süphan, Nemrut (Bitlis'teki krater gölü olan!), Hasandağı. Kıvrımlı sistemler: kuzeyde **Kuzey Anadolu Dağları**, güneyde **Toroslar**. Kaçkar (3.937) Karadeniz'in çatısı; Uludağ (2.543) antik Mysia Olympos'u.\n\n**Göller:** **Van Gölü** — en büyük (3.712 km²), **sodalı**, inci kefali ve mikrobiyalitleriyle ünlü; içinde **Akdamar Adası** (Ermeni Kutsal Haç Kilisesi). **Tuz Gölü** — ikinci büyük, en sığ, tuz üretimi ve flamingolar. **Beyşehir** — **en büyük tatlı su gölü**. Eğirdir, İznik, Sapanca, Salda ('Türkiye'nin Maldivleri', beyaz hidromanyezit plajı — Mars araştırmalarına konu oldu).\n\n**Akarsular:** **Kızılırmak (1.355 km)** — tamamı Türkiye'de olan en uzun nehir. Fırat ve Dicle — Mezopotamya'nın can damarları (GAP projesi). Sakarya, Yeşilırmak, Meriç (Yunanistan sınırı), Çoruh (rafting!), Manavgat, Aksu.\n\n**İklim:** Karadeniz (her mevsim yağışlı), Akdeniz (yazı kurak-sıcak), karasal (İç-Doğu Anadolu), Marmara (geçiş). Rize — en yağışlı il."
+      "heading": "Türkiye'nin Konumu ve Sınırları",
+      "markdown": "**Matematik konum:** **36°-42° kuzey** enlemleri, **26°-45° doğu** boylamları arasında.\n\n**Enlemin sonuçları:** Orta kuşakta yer alır → **dört mevsim** belirgindir. Kuzeyden güneye gidildikçe sıcaklık artar, güneşlenme süresi uzar.\n**Boylamın sonucu:** Doğu ile batı arasında **76 dakika** yerel saat farkı vardır. Ülke tek saat dilimi kullanır.\n\n**Özel konum:** Asya ve Avrupa'yı bağlar; üç tarafı denizlerle çevrilidir. **Boğazlar (İstanbul ve Çanakkale)** Karadeniz'i Akdeniz'e bağlayan tek yoldur — bu, Türkiye'nin jeopolitik önemini belirler.\n\n**Yüzölçümü:** 783.562 km². Asya'daki bölüm **Anadolu**, Avrupa'daki bölüm **Trakya**'dır.\n\n**Sekiz komşu:** Yunanistan, Bulgaristan (Avrupa'da) — Gürcistan, Ermenistan, Nahçıvan (Azerbaycan), İran, Irak, Suriye (Asya'da).\n\n**En uç noktalar:**\n- Kuzey: Sinop **İnceburun**\n- Güney: Hatay **Beysun (Topraktutan)** köyü\n- Batı: Çanakkale **Baba Burnu** (Gökçeada ile birlikte anılır)\n- Doğu: Iğdır **Dilucu**\n\n**Turizm açısından konumun anlamı:** Avrupa pazarına 3-4 saatlik uçuş mesafesi, Orta Doğu ve Rusya pazarına yakınlık, ve üç deniz + dört mevsim çeşitliliği. Türkiye'nin turizmde ilk 5'te olmasının coğrafi temeli budur."
     },
     {
-      "heading": "Yedi Coğrafi Bölge",
-      "markdown": "1941 **Birinci Türk Coğrafya Kongresi** yedi bölgeyi belirledi:\n\n| Bölge | Kimlik | Turizm yıldızları |\n|---|---|---|\n| **Marmara** | En kalabalık, sanayi | İstanbul, Bursa+Cumalıkızık, Edirne, Truva, İznik |\n| **Ege** | Antik kent yoğunluğu | Efes, Bergama, Pamukkale, Afrodisias, Bodrum, Didim |\n| **Akdeniz** | Kıyı turizminin başkenti | Antalya (Kaleiçi, Perge, Aspendos, Side), Kaş, Alanya, Anamur |\n| **İç Anadolu** | Bozkır ve tarih | Kapadokya, Konya (Mevlana), Ankara (Anıtkabir, Anadolu Medeniyetleri Müzesi), Hattuşa, Tuz Gölü |\n| **Karadeniz** | Yeşil ve yayla | Safranbolu, Sümela (Trabzon-Maçka), Ayder, Uzungöl, Amasra, Amasya |\n| **Doğu Anadolu** | Zirveler ve kadim sınır | Ani (Kars), Van Gölü+Akdamar, İshak Paşa Sarayı (Doğubayazıt), Palandöken, Ağrı Dağı |\n| **Güneydoğu Anadolu** | Mezopotamya mirası | Göbeklitepe, Şanlıurfa (Balıklıgöl), Mardin, Gaziantep (Zeugma), Nemrut (Adıyaman), Hasankeyf |\n\n> **Dikkat:** İki Nemrut var — **Adıyaman Nemrut** (heykeller, Güneydoğu) ve **Bitlis Nemrut** (krater gölü, Doğu Anadolu)."
+      "heading": "Yer Şekilleri",
+      "markdown": "Türkiye **dağlık ve yüksek** bir ülkedir; ortalama yükselti yaklaşık **1132 metredir** (Avrupa ortalamasının iki katından fazla). Yükselti **batıdan doğuya doğru artar.**\n\n**Üç ana dağ kuşağı:**\n1. **Kuzey Anadolu Dağları:** Küre, Ilgaz, Canik ve Doğu Karadeniz Dağları. Kıyıya **paralel** uzanır → nemli hava içeri giremez, kıyıda çok yağış olur, iç kesim kurur.\n2. **Toroslar:** Batı, Orta (Bolkar, Aladağlar) ve Güneydoğu Toroslar. Yine kıyıya paraleldir.\n3. **Doğu Anadolu'daki volkanik ve kıvrım dağları.**\n\n**Kıyıya paralel uzanmanın turizm sonucu:** Karadeniz ve Akdeniz'de **kıyı ovaları dar**, koylar girintili çıkıntılıdır — bu da Ege ve Akdeniz'de **yat ve koy turizmini** doğurmuştur.\n\n**Önemli zirveler:**\n- **Ağrı Dağı — 5137 m** (Türkiye'nin en yüksek noktası, **volkanik**)\n- **Kaçkar — 3937 m** (Doğu Karadeniz)\n- **Erciyes — 3917 m** (volkanik, Kayseri)\n- **Süphan, Nemrut, Tendürek, Hasandağı, Melendiz** — volkanik\n- **Uludağ — 2543 m** (kış turizmi)\n\n**Volkanizmanın turizme armağanı:** Kapadokya'nın peribacaları, Erciyes-Hasandağı-Göllüdağ'ın püskürttüğü tüf tabakasının aşınmasıyla oluşmuştur. Nemrut krater gölü ve Meke Gölü de volkaniktir.\n\n**Karstik şekiller (kireç taşının erimesiyle):** Mağaralar (**Damlataş, Karain, Dim, Cennet-Cehennem, Zonguldak Mencilis**), obruklar (Konya çevresi), **traverten** (Pamukkale), polye ve düdenler. Pamukkale travertenleri, kalsiyum karbonatlı suyun çökelmesiyle oluşur.\n\n**Ovalar:** Çukurova (en büyük delta ovası), Konya, Bafra, Çarşamba, Amik, Harran, Muş, Iğdır, Gediz, Bakırçay, Büyük ve Küçük Menderes.\n\n**Platolar:** Obruk, Cihanbeyli, Haymana, Bozok, Uzunyayla, Erzurum-Kars, Ardahan, Gaziantep, Şanlıurfa.\n\n**Kıyı tipleri:** Ege'de **enine (boyuna olmayan) dağ uzanışı** nedeniyle kıyı çok girintili — Türkiye'nin en uzun kıyısı Ege'dedir. Bu yapı doğal limanları ve yat turizmini doğurmuştur."
     },
     {
-      "heading": "UNESCO Dünya Mirası Listesi'ndeki Türkiye",
-      "markdown": "**Kronolojik liste (yıl — varlık):**\n1. 1985 — Divriği Ulu Camii ve Darüşşifası\n2. 1985 — **Göreme Milli Parkı ve Kapadokya (KARMA)**\n3. 1985 — İstanbul'un Tarihi Alanları\n4. 1986 — Hattuşa\n5. 1987 — Nemrut Dağı\n6. 1988 — Ksanthos-Letoon\n7. 1988 — **Hierapolis-Pamukkale (KARMA)**\n8. 1994 — Safranbolu\n9. 1998 — Truva\n10. 2011 — Edirne Selimiye Camii ve Külliyesi\n11. 2012 — Çatalhöyük\n12. 2014 — Bursa ve Cumalıkızık\n13. 2014 — Bergama\n14. 2015 — Diyarbakır Kalesi ve Hevsel Bahçeleri\n15. 2015 — Efes\n16. 2016 — Ani\n17. 2017 — Afrodisias\n18. 2018 — Göbeklitepe\n19. 2021 — Arslantepe Höyüğü (Malatya)\n20. 2023 — Gordion\n21. 2023 — Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil (Direkli) Camileri (Eskişehir Sivrihisar Ulu, Afyon Ulu, Ankara Arslanhane, Kastamonu Mahmut Bey, Beyşehir Eşrefoğlu)\n22. 2025 — Sardes ve Bintepeler Lidya Tümülüsleri\n\n**Kancalar:** Karma (hem doğal hem kültürel) yalnızca **iki** varlık: Göreme-Kapadokya ve Hierapolis-Pamukkale. İlk yıl (1985) üç varlık birden girdi. Somut olmayan miras ayrı listedir: Mevlevi Seması (2008), Karagöz, Meddahlık, Âşıklık geleneği, Ebru, Nevruz, Türk kahvesi (2013), İnce ekmek (lavaş, ortak dosya), Islık dili (Kuşköy), Çini ustalığı..."
+      "heading": "İklim ve Bitki Örtüsü",
+      "markdown": "**Üç ana iklim tipi:**\n\n| İklim | Nerede | Yaz | Kış | Yağış | Bitki örtüsü |\n|---|---|---|---|---|---|\n| **Akdeniz** | Akdeniz ve Ege kıyıları | Sıcak, kurak | Ilık, yağışlı | Kışın | **Maki** |\n| **Karadeniz** | Karadeniz kıyıları | Serin | Ilık | **Her mevsim** | **Orman** |\n| **Karasal** | İç, Doğu, Güneydoğu | Sıcak, kurak | Soğuk | İlkbahar | **Bozkır (step)** |\n\n**En çok yağış alan yer:** **Rize** (Doğu Karadeniz kıyısı) — 2200 mm üzeri.\n**En az yağış alan yerler:** Iğdır Ovası ve Konya-Tuz Gölü çevresi (250-350 mm).\n**En soğuk bölge:** Doğu Anadolu (Erzurum, Kars, Ağrı).\n\n**Bitki örtüsü türleri:**\n- **Maki:** Akdeniz ikliminin **kısa boylu, sert ve kalın yapraklı, kuraklığa dayanıklı** çalı topluluğu. Üyeleri: **zeytin, defne, mersin, keçiboynuzu, sandal, kocayemiş, funda, zakkum, katran ardıcı.**\n- **Garig:** Makinin tahrip olmuş, daha cılız hâli (lavanta, kekik, adaçayı).\n- **Psödomaki (yalancı maki):** Karadeniz'de görülen, **yaprak döken** maki benzeri örtü.\n- **Bozkır (step):** İlkbaharda yeşerip yazın kuruyan otsu bitkiler — geven, çoban yastığı, üzerlik, yavşan.\n- **Orman:** Karadeniz'de **kayın, gürgen, kestane, ıhlamur, ladin, göknar, sarıçam.** Akdeniz'de **kızılçam** (en yaygın ağacımız), yükseklerde **karaçam, sedir (Toros sediri), ardıç.**\n- **Alpin çayır:** Orman sınırının üstündeki yüksek dağ çayırları — **yayla turizminin** temelidir.\n\n**Yükseldikçe değişim:** Akdeniz kıyısında maki → kızılçam → karaçam-sedir → ardıç → alpin çayır. Bu dizilim sınavda \"yükselti basamakları\" olarak sorulur."
     },
     {
-      "heading": "Turizm Türleri ve Türkiye'deki Adresleri",
-      "markdown": "- **Deniz-kum-güneş:** Antalya (turist sayısında lider), Muğla (Bodrum, Marmaris, Fethiye-Ölüdeniz), Kuşadası, Çeşme\n- **Kültür turizmi:** İstanbul, Kapadokya, Efes, Göbeklitepe\n- **İnanç turizmi:** Meryem Ana Evi (Selçuk), Aziz Nikolaos (Demre), St. Pierre (Hatay), Mevlana Müzesi (Konya — en çok ziyaret edilen müzelerden), Eyüp Sultan, Hacı Bektaş, Süryani manastırları (Mardin Deyrulzafaran, Mor Gabriel), Sümela\n- **Termal:** Pamukkale, **Afyonkarahisar (termal başkent)**, Yalova, Bursa Çekirge, Sivas Balıklı Kaplıca\n- **Kış:** Uludağ (Bursa), Palandöken (Erzurum), Erciyes (Kayseri), Kartalkaya (Bolu), Sarıkamış (kristal kar — Kars), Ilgaz\n- **Yayla:** Ayder (Rize), Pokut, Uzungöl (Trabzon)\n- **Golf:** **Belek (Antalya)** — Avrupa'nın golf merkezlerinden\n- **Mağara:** Damlataş (Alanya — astım tedavisi), Karain (Antalya — prehistorik), İnsuyu (Burdur), Ballıca (Tokat)\n- **Rafting/doğa sporları:** Çoruh (Artvin), Köprülü Kanyon (Antalya), Melen; yamaç paraşütü — **Ölüdeniz Babadağ**; sıcak hava balonu — **Kapadokya** ve Pamukkale\n- **Gastronomi:** UNESCO Yaratıcı Şehirler: **Gaziantep (2015)**, **Hatay (2017)**, **Afyonkarahisar (2019)** gastronomi; **Kütahya** zanaat (2017); **İstanbul** tasarım (2017)\n- **Sağlık turizmi:** İstanbul-Antalya (saç ekimi, estetik, diş) — Türkiye dünya liderlerinden"
+      "heading": "Türkiye'nin Florası",
+      "markdown": "Türkiye, bitki çeşitliliği bakımından **dünyanın en zengin ülkelerinden biridir.**\n\n**Rakamlar:** Yaklaşık **11.700 bitki türü** vardır ve bunun yaklaşık **3.700'ü endemiktir** (dünyada yalnızca Türkiye'de yetişir). Bu, tür sayısının yaklaşık **üçte biridir.** Karşılaştırma: **Avrupa kıtasının tamamında yaklaşık 12.000 tür vardır** — Türkiye tek başına neredeyse bir kıta kadar zengindir. Sınavda bu karşılaştırma doğrudan sorulur.\n\n**Bu zenginliğin üç sebebi:**\n1. **Üç bitki coğrafyası bölgesinin kesiştiği yerde** olması\n2. Kısa mesafede büyük **yükselti ve iklim** farkları\n3. Buzul çağlarında **sığınak (refuge)** görevi görmesi — türler yok olmadan kaldı\n\n**Üç bitki coğrafyası bölgesi (fitocoğrafya) — sınavda çıkar:**\n- **Avrupa-Sibirya:** Karadeniz kıyıları ve Trakya'nın kuzeyi — nemli ormanlar\n- **Akdeniz:** Akdeniz ve Ege kıyıları — maki ve kızılçam\n- **İran-Turan:** İç Anadolu, Doğu ve Güneydoğu — bozkır\n\n**Simge endemik ve nadir bitkiler:**\n- **Sığla ağacı (Günlük ağacı, Liquidambar orientalis):** Dünyada **yalnızca Güneybatı Anadolu'da** (Muğla, Köyceğiz, Dalaman) doğal yayılış gösterir. Sığla yağı üretilir. Türkiye'nin en ünlü endemiğidir.\n- **Kazdağı göknarı (Abies equi-trojani):** Yalnızca **Kaz Dağları'nda.**\n- **Ters lale (Fritillaria imperialis):** Tunceli, Hakkari ve Adıyaman yaylalarında; **koparılması yasaktır.** \"Ağlayan gelin\" efsanesiyle anılır.\n- **Datça hurması (Phoenix theophrasti):** Datça Yarımadası — Avrupa'nın tek doğal hurma türü.\n- **Ehrami karaçam:** Kütahya Türkmen Dağı — piramit biçimli nadir karaçam.\n- **Kasnak meşesi:** Isparta çevresi.\n- **Toros sediri (Cedrus libani):** Toroslar'ın simge ağacı; Elmalı Sedir Ormanı korunmaktadır.\n- **Anadolu kestanesi, salep orkideleri, çiğdem, sümbül, lale.**\n\n**Lale notu:** Lale Anadolu kökenlidir; Osmanlı'dan Hollanda'ya gitmiştir. \"Lale Devri\" (1718-1730) adını bu çiçekten alır. Hollanda lalesinin atası Anadolu'dur — sınavda sevilen bir ayrıntıdır.\n\n**Tıbbi ve aromatik bitkiler:** Kekik (Türkiye dünya kekik ihracatında ilk sırada), defne, adaçayı, lavanta (Isparta Kuyucak), gül (**Isparta** — gül yağında dünya lideri), anason (Burdur, Denizli), safran (**Safranbolu** adını buradan alır)."
     },
     {
-      "heading": "Milli Parklar, Ramsar Alanları ve Doğal Anıtlar",
-      "markdown": "**İlk milli park:** **Yozgat Çamlığı (1958)**. Bugün 40'tan fazla milli park vardır.\n\n**Öne çıkan milli parklar:** Göreme Tarihi Milli Parkı, Olimpos-Beydağları (Antalya), Dilek Yarımadası (Aydın), Kaçkar Dağları (Rize), Nemrut Dağı (Adıyaman), Munzur Vadisi (en büyüklerden, Tunceli), Kuşcenneti/Manyas (Balıkesir), Yedigöller (Bolu), Kazdağı (Balıkesir — İda Dağı; Zeus'un Troya'yı izlediği dağ), Gala Gölü, Boğazköy-Alacahöyük.\n\n**Ramsar (uluslararası öneme sahip sulak alanlar) — 14 alan; en bilinenleri:** Manyas Kuş Cenneti, Sultan Sazlığı (Kayseri), Göksu Deltası (Mersin), Gediz Deltası (İzmir), Akyatan Lagünü (Adana — yeşil deniz kaplumbağası), Kızılırmak Deltası (Samsun), Uluabat Gölü, Seyfe Gölü, Burdur Gölü, Kızören Obruğu, Meke Maarı (Konya — 'nazar boncuğu' krater gölü; kurudu ama tescilli).\n\n**Deniz kaplumbağası (Caretta caretta) yuvalama plajları:** **İztuzu (Dalyan)**, Patara (18 km — Türkiye'nin en uzun plajlarından), Belek, Anamur.\n\n**Doğal anıt örnekleri:** Peribacaları, pamuk travertenler, Manavgat ve Düden şelaleleri, Cennet-Cehennem obrukları (Mersin), Nemrut Krater Gölü (Bitlis), Kula peribacaları (Manisa — UNESCO Global Jeopark!)."
+      "heading": "Türkiye'nin Faunası",
+      "markdown": "Türkiye, Avrupa ve Asya faunasının buluştuğu yerde olduğu için hayvan çeşitliliği de yüksektir: yaklaşık **80.000 hayvan türü** (böcekler dâhil), **480'in üzerinde kuş türü**, yaklaşık **160 memeli** türü.\n\n**Simge memeliler:**\n- **Van kedisi:** Beyaz tüylü, gözlerinden biri mavi diğeri kehribar (**heterokromi**), suyu seven tek kedi ırkı. Van Yüzüncü Yıl Üniversitesi'nde koruma altındadır.\n- **Ankara kedisi (Angora):** Beyaz, uzun tüylü; Ankara Hayvanat Bahçesi'nde korunur.\n- **Ankara keçisi (Tiftik keçisi):** **Tiftik (mohair)** yününün kaynağı.\n- **Kangal çoban köpeği:** Sivas Kangal kökenli, tescilli ırk.\n- **Anadolu parsı:** Nesli kritik derecede tehlikede.\n- **Yaban keçisi (dağ keçisi), çengel boynuzlu dağ keçisi, karaca, kızıl geyik, alageyik** (Antalya Düzlerçamı'nda korunur), **yaban koyunu (Konya Bozdağ)**, boz ayı, kurt, vaşak, çakal, su samuru.\n\n**Deniz canlıları:**\n- **Akdeniz foku (Monachus monachus):** Dünyanın **en nadir fok türü.** Foça, Gökova, Bodrum, Karaburun kıyılarında. Foça'da özel koruma alanı vardır.\n- **Caretta caretta (İri başlı deniz kaplumbağası):** Yuvalama kumsalları — **Dalyan/İztuzu, Patara, Belek, Fethiye, Anamur, Göksu Deltası.** İztuzu Plajı \"Kaplumbağa Plajı\" olarak bilinir.\n- **Chelonia mydas (Yeşil deniz kaplumbağası):** Akyatan, Samandağ, Kazanlı kumsalları.\n- **Yunuslar, Akdeniz keşiş foku, kılıç balığı, orkinos.**\n\n**Kuşlar:**\n- **Kelaynak (Geronticus eremita):** Dünyada doğal olarak **Şanlıurfa Birecik**'te korunur. Nesli tükenmek üzere olan, kültürel önemi olan kuş — Nuh Tufanı efsaneleriyle anılır. MKS'nin sevdiği bir sorudur.\n- **Toy kuşu:** Uçabilen en ağır kuşlardan; İç Anadolu bozkırında.\n- **Flamingo:** **Tuz Gölü** (üreme alanı), Gediz Deltası, Acıgöl.\n- **Kızıl akbaba, şah kartal, turna, leylek, pelikan, angıt, sakarmeke.**\n\n**Önemli kuş alanları (kuş cennetleri):**\n| Alan | İl |\n|---|---|\n| **Manyas Kuş Cenneti (Kuşcenneti Milli Parkı)** | Balıkesir |\n| **Sultansazlığı** | Kayseri |\n| **Gediz Deltası (Çamaltı)** | İzmir |\n| **Göksu Deltası** | Mersin |\n| **Kızılırmak Deltası** | Samsun |\n| **Bafa Gölü** | Muğla-Aydın |\n| **Uluabat Gölü** | Bursa |\n\n**Ramsar Sözleşmesi:** Uluslararası öneme sahip **sulak alanların** korunmasına dair sözleşme. Türkiye'de Manyas, Sultansazlığı, Göksu Deltası, Uluabat, Seyfe, Burdur, Kızılırmak Deltası, Akyatan gibi alanlar Ramsar listesindedir. **Ramsar = sulak alan** eşleşmesi sınavda doğrudan sorulur.\n\n**CITES:** Nesli tehlike altındaki türlerin ticaretini düzenleyen sözleşme. Rehber, turistin fosil, deniz kabuğu, mercan veya endemik bitki götürmesini önlemekle yükümlüdür."
     },
     {
-      "heading": "Tarihi Yollar, Kervan Rotaları ve Modern Rotalar",
-      "markdown": "**Kral Yolu:** Efes/Sardes → Sus (Pers). **İpek Yolu:** Çin'den Anadolu'ya; Selçuklu kervansaray zinciri bu rotanın mirasıdır (Alanya-Konya-Aksaray-Kayseri-Sivas-Erzurum hattı).\n\n**Baharat Yolu:** Hindistan → Kızıldeniz/Basra → Akdeniz; Osmanlı'nın Mısır'ı fethiyle (1517) kontrolüne girdi.\n\n**Modern yürüyüş rotaları (turist rehberinin araç çantası):**\n- **Likya Yolu** — Türkiye'nin ilk uzun mesafe rotası (~540 km, Fethiye→Antalya; Kate Clow tarafından işaretlendi)\n- **Aziz Pavlus (St. Paul) Yolu** — Perge/Aspendos→Yalvaç (~500 km)\n- **Evliya Çelebi Yolu**, **Frig Yolu** (Yazılıkaya/Midas vadileri), **Kaçkar/TransKaçkar**, **Efeler Yolu**, **Via Egnatia**'nın Trakya kesimi\n\n**Mavi Yolculuk:** Bodrum-Gökova-Fethiye koylarında gulet turizmi; kavramın babası yazar **Cevat Şakir Kabaağaçlı ('Halikarnas Balıkçısı')**.\n\n**Önemli müzeler (ziyaret sıralamasının değişmezleri):** Topkapı Sarayı, Ayasofya, Mevlana Müzesi, Anadolu Medeniyetleri (Ankara — 1997 'Avrupa'da Yılın Müzesi'), Göreme Açık Hava, Efes, Zeugma, Antalya, Troya, İstanbul Arkeoloji."
+      "heading": "Milli Parklar ve Korunan Alanlar",
+      "markdown": "**Milli park:** Bilimsel ve estetik bakımından ulusal ve uluslararası ender bulunan doğal ve kültürel kaynak değerlerine sahip, koruma-dinlenme-turizm alanlarına sahip doğa parçası. Türkiye'de **40'ın üzerinde** milli park vardır.\n\n**Türkiye'nin ilk milli parkı: Yozgat Çamlığı Milli Parkı (1958).** Bu, sınavda en çok sorulan doğa bilgisidir.\n**En büyük milli park:** Munzur Vadisi (Tunceli).\n\n**Bilinmesi gereken milli parklar:**\n| Milli park | İl | Öne çıkan değeri |\n|---|---|---|\n| **Yozgat Çamlığı** | Yozgat | **İlk milli park (1958)** |\n| **Göreme Tarihi** | Nevşehir | Peribacaları, kaya kiliseleri — **UNESCO** |\n| **Nemrut Dağı** | Adıyaman | Kommagene heykelleri — **UNESCO** |\n| **Gelibolu Yarımadası Tarihi** | Çanakkale | Çanakkale Savaşı alanları |\n| **Uludağ** | Bursa | Kış turizmi |\n| **Kuşcenneti (Manyas)** | Balıkesir | Kuş göç yolu |\n| **Dilek Yarımadası-B. Menderes Deltası** | Aydın | Maki + delta ekosistemi |\n| **Köprülü Kanyon** | Antalya | Rafting, Oluk Köprü |\n| **Olimpos-Beydağları** | Antalya | **Yanartaş (Khimaira)**, Olympos |\n| **Güllük Dağı (Termessos)** | Antalya | Antik kent + dağ ekosistemi |\n| **Kaçkar Dağları** | Rize-Artvin | Buzul gölleri, yaylalar |\n| **Altındere Vadisi** | Trabzon | **Sümela Manastırı** |\n| **Yedigöller** | Bolu | Heyelan set gölleri, sonbahar renkleri |\n| **Kazdağı** | Balıkesir | Endemik göknar, **oksijen** |\n| **Ilgaz Dağı** | Kastamonu-Çankırı | Kış turizmi |\n| **Munzur Vadisi** | Tunceli | En büyük milli park |\n| **Beyşehir Gölü** | Konya | En büyük tatlı su gölü |\n| **Honaz Dağı** | Denizli | Ege'nin en yüksek dağı |\n| **Spil Dağı** | Manisa | **Ağlayan Kaya (Niobe)**, Manisa lalesi |\n| **Hatila Vadisi** | Artvin | Kanyon ekosistemi |\n\n**Diğer koruma statüleri — karıştırılmaması gerekir:**\n- **Tabiat parkı:** Manzara bütünlüğü içinde halkın dinlenmesine uygun alan\n- **Tabiat anıtı:** Tek bir doğal oluşum (anıt ağaç, şelale, kaya)\n- **Tabiatı koruma alanı:** Bilimsel değeri yüksek, **ziyaretin en sınırlı** olduğu statü\n- **Özel Çevre Koruma Bölgesi (ÖÇKB):** Pamukkale, Köyceğiz-Dalyan, Fethiye-Göcek, Gökova, Datça-Bozburun, Belek, Kaş-Kekova, Tuz Gölü, Foça, Uzungöl, Ihlara, Salda\n\n**Sınav tuzağı:** *Tabiatı koruma alanı* en katı statüdür; *milli park* ziyarete açıktır. \"En sınırlı ziyaret hangi statüdedir?\" sorusunun cevabı **tabiatı koruma alanıdır.**"
+    },
+    {
+      "heading": "Akarsular, Göller ve Denizler",
+      "markdown": "**Akarsular:**\n- **Kızılırmak (1355 km):** Türkiye sınırları içindeki **en uzun** akarsu; kaynağı ve ağzı Türkiye'dedir. Sivas'tan doğar, Samsun'dan (Bafra Deltası) Karadeniz'e dökülür.\n- **Fırat:** Türkiye'den doğan **en uzun** akarsu (toplam uzunluğu Kızılırmak'tan fazladır ama bir kısmı yurt dışındadır). Murat ve Karasu birleşiminden oluşur.\n- **Dicle:** Güneydoğu'dan doğar, Irak'a geçer. Fırat ile birleşip Şattülarap'ı oluşturur.\n- **Sakarya, Yeşilırmak, Seyhan, Ceyhan, Susurluk, Büyük Menderes, Gediz, Bakırçay, Çoruh** (Türkiye'nin en hızlı akan akarsuyu — **rafting**), **Meriç** (Yunanistan sınırı).\n\n**Akarsuların turizm değeri:** Rafting → **Çoruh (Artvin), Köprüçay (Antalya), Zamantı, Dalaman, Melen.** Kanyon → **Köprülü, Ihlara, Saklıkent, Valla, Ulubey.**\n\n**Göller — sınavda en sık sorulan tablo:**\n\n| Göl | Özelliği |\n|---|---|\n| **Van Gölü** | Türkiye'nin **en büyük** gölü; **sodalı**, volkanik set gölü. İçinde **inci kefali** yaşar; **Akdamar Adası** vardır |\n| **Tuz Gölü** | **İkinci büyük**; çok tuzlu ve **sığ**; Türkiye tuz ihtiyacının büyük kısmı buradan; **flamingo** üreme alanı |\n| **Beyşehir** | **En büyük tatlı su** gölü |\n| **Eğirdir, Burdur, Acıgöl** | Göller Yöresi |\n| **İznik, Sapanca, Ulubey** | Tektonik/set gölleri |\n| **Salda** | Beyaz kumu ve **stromatolitleri** ile \"Türkiye'nin Maldivleri\"; NASA'nın Mars araştırmalarında referans |\n| **Bafa** | Eskiden Ege'nin körfeziydi, alüvyonla göle dönüştü |\n| **Nemrut Krater Gölü** | Türkiye'nin **en büyük krater gölü** (Bitlis) |\n| **Meke, Acıgöl (Konya)** | Volkanik krater gölleri |\n| **Çıldır** | Kars-Ardahan; kışın üzerinde buz balıkçılığı |\n| **Abant, Yedigöller, Uzungöl, Tortum** | **Heyelan set** gölleri |\n| **Sarıkum** | Kıyı set (lagün) gölü |\n\n**Baraj gölleri:** **Atatürk Barajı** (en büyük, Fırat üzerinde, GAP'ın kalbi), Keban, Karakaya, Hirfanlı, Altınkaya.\n\n**Denizler:**\n- **Karadeniz:** Tuzluluk **en düşük** (bol akarsu + az buharlaşma); kıyıları az girintili\n- **Akdeniz:** Tuzluluk **en yüksek**, sıcaklık en fazla; turizmde en uzun sezon\n- **Ege:** **En girintili çıkıntılı** kıyı, en çok ada; yat turizminin merkezi\n- **Marmara:** **Tamamen Türkiye'ye ait iç deniz**\n\n**Adalar:** **Gökçeada (en büyük ada)** ve **Bozcaada** (Çanakkale), Marmara Adası, Prens Adaları.\n\n**Tuzluluk sıralaması:** Akdeniz > Ege > Marmara > Karadeniz. Bu sıra doğrudan sorulur."
+    },
+    {
+      "heading": "Coğrafi Bölgeler ve Turistik Değerleri",
+      "markdown": "Türkiye **1941 Birinci Coğrafya Kongresi**'nde **7 coğrafi bölge** ve **21 bölüme** ayrılmıştır. Bölgeler **il sınırlarına göre değil**, coğrafi ölçütlere göre belirlenmiştir — bir il iki bölgeye ait olabilir.\n\n| Bölge | Bölüm | Özellik |\n|---|---|---|\n| **Marmara** | 4 | **En kalabalık**, en gelişmiş; sanayi ve turizm birlikte |\n| **Ege** | 2 | En girintili kıyı; **en çok antik kent** |\n| **Akdeniz** | 2 | En uzun deniz turizmi sezonu; Toroslar |\n| **İç Anadolu** | 4 | Bozkır, Kapadokya, Konya |\n| **Karadeniz** | 3 | En çok yağış, en dağlık kıyı, yaylalar |\n| **Doğu Anadolu** | 4 | **En büyük**, en yüksek, en soğuk |\n| **Güneydoğu Anadolu** | 2 | **En küçük**, en sıcak; GAP |\n\n**Kolay hatırlama:** En **büyük** Doğu Anadolu, en **küçük** Güneydoğu Anadolu, en **kalabalık** Marmara. En çok **bölüm** Marmara, İç Anadolu ve Doğu Anadolu'da (4'er).\n\n**Bölgelerin turistik omurgası:**\n\n**Marmara:** İstanbul (Ayasofya, Topkapı, Sultanahmet, Kapalıçarşı — **UNESCO**), Bursa-Cumalıkızık (**UNESCO**), Edirne Selimiye (**UNESCO**), Troya (**UNESCO**), Gelibolu, İznik, Safranbolu'ya komşu Karadeniz geçişi.\n\n**Ege:** Efes (**UNESCO**), Bergama (**UNESCO**), Aphrodisias (**UNESCO**), Pamukkale-Hierapolis (**UNESCO, karma**), Didyma, Milet, Priene, Bodrum, Çeşme, Kuşadası, Şirince, Alaçatı.\n\n**Akdeniz:** Antalya (Kaleiçi, Hadrian Kapısı), Aspendos (tiyatrosu Anadolu'nun **en iyi korunmuşu**), Perge, Side, Termessos, Olympos-Yanartaş, Myra-Demre (**Noel Baba**), Patara, Xanthos-Letoon (**UNESCO**), Kekova, Alanya Kalesi ve **Kızıl Kule**, Kaş.\n\n**İç Anadolu:** Kapadokya-Göreme (**UNESCO**), Derinkuyu ve Kaymaklı yeraltı şehirleri, Ihlara Vadisi, Konya (Mevlana), Çatalhöyük (**UNESCO**), Hattuşa (**UNESCO**), Gordion (**UNESCO**), Ankara (Anıtkabir, Anadolu Medeniyetleri Müzesi), Alacahöyük, Sivas Divriği (**UNESCO**).\n\n**Karadeniz:** Safranbolu (**UNESCO**), Sümela Manastırı, Uzungöl, Ayder ve Pokut yaylaları, Amasya (kral kaya mezarları), Sinop, Amasra, Trabzon Ayasofya.\n\n**Doğu Anadolu:** Ani (**UNESCO**), Nemrut Dağı'na komşu Malatya **Arslantepe (UNESCO)**, Van Kalesi ve **Akdamar Kilisesi**, İshak Paşa Sarayı (Doğubayazıt), Palandöken, Erzurum Çifte Minareli Medrese, Ahlat mezar taşları.\n\n**Güneydoğu Anadolu:** **Göbeklitepe (UNESCO)**, Diyarbakır Surları ve Hevsel Bahçeleri (**UNESCO**), Mardin, Midyat, Halfeti, Zeugma Mozaik Müzesi (Gaziantep), Şanlıurfa Balıklıgöl, Harran, Nemrut Dağı (**UNESCO**, Adıyaman)."
+    },
+    {
+      "heading": "UNESCO Dünya Mirası ve Türkiye",
+      "markdown": "**UNESCO Dünya Mirası Sözleşmesi 1972**'de kabul edilmiştir; Türkiye **1983**'te taraf olmuştur. Merkezi **Paris**'tir.\n\n**Üç kategori:** **Kültürel**, **Doğal**, **Karma (kültürel + doğal).**\n\n**Türkiye'nin Dünya Mirası Listesi'nde 22 varlığı vardır** (2025 itibarıyla; **20 kültürel + 2 karma**):\n\n| # | Varlık | Yıl |\n|---|---|---|\n| 1 | **İstanbul'un Tarihi Alanları** | 1985 |\n| 2 | **Göreme Milli Parkı ve Kapadokya** (karma) | 1985 |\n| 3 | **Divriği Ulu Camii ve Darüşşifası** | 1985 |\n| 4 | **Hattuşa (Boğazköy) — Hitit Başkenti** | 1986 |\n| 5 | **Nemrut Dağı** | 1987 |\n| 6 | **Xanthos-Letoon** | 1988 |\n| 7 | **Hierapolis-Pamukkale** (karma) | 1988 |\n| 8 | **Safranbolu Şehri** | 1994 |\n| 9 | **Truva Arkeolojik Alanı** | 1998 |\n| 10 | **Selimiye Camii ve Külliyesi (Edirne)** | 2011 |\n| 11 | **Çatalhöyük Neolitik Alanı** | 2012 |\n| 12 | **Bursa ve Cumalıkızık** | 2014 |\n| 13 | **Bergama Çok Katmanlı Kültürel Peyzaj** | 2014 |\n| 14 | **Diyarbakır Kalesi ve Hevsel Bahçeleri** | 2015 |\n| 15 | **Efes** | 2015 |\n| 16 | **Ani Arkeolojik Alanı** | 2016 |\n| 17 | **Aphrodisias** | 2017 |\n| 18 | **Göbeklitepe** | 2018 |\n| 19 | **Arslantepe Höyüğü (Malatya)** | 2021 |\n| 20 | **Gordion (Yassıhöyük, Polatlı)** | 2023 |\n| 21 | **Orta Çağ Anadolu Ahşap Hipostil Camileri** | 2023 |\n| 22 | **Sardes ve Bin Tepeler Lidya Tümülüsleri (Manisa)** | **2025** |\n\n**En çok sorulan üç ayrıntı:**\n1. Türkiye'nin listeye giren **ilk** varlıkları **1985**'te üç tanedir: İstanbul, Göreme-Kapadokya, Divriği.\n2. Türkiye'nin **karma** mirası **yalnızca ikidir: Göreme-Kapadokya ve Hierapolis-Pamukkale.**\n3. Türkiye'nin **saf doğal mirası YOKTUR** — 22 varlığın 20'si kültürel, 2'si karmadır. Bu, sınavda en çok tuzağa düşürülen bilgidir.\n\n**En yeni varlık:** 2025'te listeye giren **Sardes ve Bin Tepeler**, Lidya Krallığı'nın başkenti ile kral tümülüslerini kapsar — yani **parayı icat eden uygarlığın** başkenti artık Dünya Mirası'dır. Güncel bir soru gelirse cevap budur.\n\n**Somut Olmayan Kültürel Miras (UNESCO, ayrı liste):** Meddahlık, Mevlevi Sema Töreni, Âşıklık geleneği, Karagöz, Nevruz, Kırkpınar Yağlı Güreşleri, geleneksel sohbet toplantıları (Yaren), Mesir Macunu Festivali, Türk kahvesi kültürü, ebru, çini, Nasreddin Hoca anlatıları, ıslık dili (Kuşköy), Hıdrellez, Dede Korkut, minyatür, Ahilik, Türk yay yapımı.\n\n**Ayrım kritik:** Somut Olmayan Kültürel Miras **Dünya Mirası Listesi değildir.** Sema, Karagöz veya Türk kahvesi \"Dünya Mirası\" değil, \"Somut Olmayan Kültürel Miras\"tır. Sınav bunu bilerek karıştırır."
     }
   ],
   "shortNotes": "**Rekorlar:** En yüksek dağ Ağrı (5.137). En büyük göl Van (sodalı; Akdamar oradadır). En büyük TATLI su: Beyşehir. En sığ+tuzlu: Tuz Gölü. Tamamı yurtiçindeki en uzun nehir: Kızılırmak (1.355 km). En yağışlı il: Rize. İlk milli park: Yozgat Çamlığı (1958).\n\n**İki Nemrut:** Adıyaman = heykeller; Bitlis = krater gölü.\n\n**UNESCO kancaları:** İlk üçlü 1985: Divriği + Göreme + İstanbul. KARMA yalnızca 2: Göreme ve Pamukkale. Son girenler: Arslantepe 2021, Gordion + Ahşap Camiler 2023, Sardes-Bintepeler 2025. Selimiye 2011, Efes 2015, Ani 2016, Göbeklitepe 2018.\n\n**Yaratıcı Şehirler:** Gastronomi = Gaziantep/Hatay/Afyon; Zanaat = Kütahya; Tasarım = İstanbul.\n\n**Turizm eşleşmeleri:** Golf=Belek, balon=Kapadokya, yamaç paraşütü=Ölüdeniz Babadağ, rafting=Çoruh+Köprülü, astım mağarası=Damlataş, caretta=İztuzu/Patara, termal başkent=Afyon, kış=Palandöken/Uludağ/Erciyes/Sarıkamış, yayla=Ayder, Mavi Yolculuk=Halikarnas Balıkçısı.\n\n**Rotalar:** Likya Yolu = ilk uzun mesafe rotası (Fethiye→Antalya). St. Paul Yolu = Perge→Yalvaç. Kral Yolu = Sardes→Sus. Ramsar yıldızları: Manyas, Sultan Sazlığı, Göksu, Akyatan.\n\n**Bölge yıldızları:** Marmara-İstanbul/Bursa/Truva; Ege-Efes/Pamukkale; Akdeniz-Antalya üçlüsü (Perge-Aspendos-Side); İç-Kapadokya/Konya/Hattuşa; Karadeniz-Safranbolu/Sümela; Doğu-Ani/Akdamar/İshak Paşa; Güneydoğu-Göbeklitepe/Mardin/Zeugma.",
@@ -41,35 +53,155 @@
     "**Patara hem en uzun plajlardan hem caretta yuvası hem Likya Birliği meclisi** — üç farklı konudan sorulabilir; Noel Baba'nın (Aziz Nikolaos) doğum yeri de Patara'dır!"
   ],
   "flashcards": [
-    { "id": "turizm-cografyasi-k001", "front": "Türkiye'nin en yüksek dağı ve yüksekliği?", "back": "Ağrı Dağı — 5.137 m (volkanik)" },
-    { "id": "turizm-cografyasi-k002", "front": "Türkiye'nin en büyük gölü ve özelliği?", "back": "Van Gölü (3.712 km²) — sodalı; Akdamar Adası ve inci kefaliyle ünlü" },
-    { "id": "turizm-cografyasi-k003", "front": "En büyük tatlı su gölü?", "back": "Beyşehir Gölü (Konya-Isparta)" },
-    { "id": "turizm-cografyasi-k004", "front": "Tamamı Türkiye'de olan en uzun nehir?", "back": "Kızılırmak — 1.355 km (Sivas'tan doğar, Bafra'dan Karadeniz'e dökülür)" },
-    { "id": "turizm-cografyasi-k005", "front": "Yedi coğrafi bölge ne zaman belirlendi?", "back": "1941 Birinci Türk Coğrafya Kongresi'nde" },
-    { "id": "turizm-cografyasi-k006", "front": "Türkiye'nin ilk milli parkı?", "back": "Yozgat Çamlığı Milli Parkı (1958)" },
-    { "id": "turizm-cografyasi-k007", "front": "UNESCO listesine 1985'te giren üç varlık?", "back": "Divriği Ulu Camii ve Darüşşifası, Göreme-Kapadokya, İstanbul'un Tarihi Alanları" },
-    { "id": "turizm-cografyasi-k008", "front": "Türkiye'nin iki KARMA (doğal+kültürel) UNESCO varlığı?", "back": "Göreme-Kapadokya ve Hierapolis-Pamukkale" },
-    { "id": "turizm-cografyasi-k009", "front": "Göbeklitepe ve Arslantepe hangi yıllarda listeye girdi?", "back": "Göbeklitepe 2018, Arslantepe (Malatya) 2021" },
-    { "id": "turizm-cografyasi-k010", "front": "2023'te UNESCO'ya giren iki Türkiye varlığı?", "back": "Gordion ve Anadolu'nun Ahşap Direkli (Hipostil) Camileri (5 cami)" },
-    { "id": "turizm-cografyasi-k011", "front": "UNESCO gastronomi şehirlerimiz?", "back": "Gaziantep (2015), Hatay (2017), Afyonkarahisar (2019)" },
-    { "id": "turizm-cografyasi-k012", "front": "Golf turizminin Türkiye'deki merkezi?", "back": "Belek (Antalya)" },
-    { "id": "turizm-cografyasi-k013", "front": "Astım tedavisine iyi geldiğine inanılan mağara?", "back": "Damlataş Mağarası — Alanya" },
-    { "id": "turizm-cografyasi-k014", "front": "Caretta caretta'ların ünlü yuvalama plajları?", "back": "İztuzu (Dalyan), Patara, Belek, Anamur" },
-    { "id": "turizm-cografyasi-k015", "front": "Türkiye'nin termal turizm başkenti?", "back": "Afyonkarahisar" },
-    { "id": "turizm-cografyasi-k016", "front": "Ünlü kış turizm merkezleri ve illeri?", "back": "Uludağ-Bursa, Palandöken-Erzurum, Erciyes-Kayseri, Kartalkaya-Bolu, Sarıkamış-Kars" },
-    { "id": "turizm-cografyasi-k017", "front": "Yamaç paraşütünün ve sıcak hava balonunun adresleri?", "back": "Yamaç paraşütü: Ölüdeniz-Babadağ; balon: Kapadokya (ve Pamukkale)" },
-    { "id": "turizm-cografyasi-k018", "front": "Türkiye'nin ilk uzun mesafe yürüyüş rotası?", "back": "Likya Yolu (~540 km, Fethiye→Antalya)" },
-    { "id": "turizm-cografyasi-k019", "front": "Mavi Yolculuk kavramının babası?", "back": "Cevat Şakir Kabaağaçlı — 'Halikarnas Balıkçısı'" },
-    { "id": "turizm-cografyasi-k020", "front": "Manyas, Sultan Sazlığı ve Göksu Deltası'nın ortak statüsü?", "back": "Ramsar alanı (uluslararası öneme sahip sulak alan)" },
-    { "id": "turizm-cografyasi-k021", "front": "Sümela Manastırı nerededir, kime adanmıştır?", "back": "Trabzon-Maçka, Altındere Vadisi — Meryem Ana'ya adanmış kaya manastırı" },
-    { "id": "turizm-cografyasi-k022", "front": "Ani Ören Yeri nerededir?", "back": "Kars — 'Bin bir kiliseli şehir'; Ortaçağ Ermeni başkenti (UNESCO 2016)" },
-    { "id": "turizm-cografyasi-k023", "front": "İshak Paşa Sarayı nerededir?", "back": "Doğubayazıt (Ağrı) — 18. yüzyıl; Osmanlı-İran-Selçuklu üsluplarının karışımı" },
-    { "id": "turizm-cografyasi-k024", "front": "Salda Gölü neden ünlüdür?", "back": "Beyaz hidromanyezit plajı ('Türkiye'nin Maldivleri'); NASA'nın Mars analog araştırmalarına konu oldu (Burdur)" },
-    { "id": "turizm-cografyasi-k025", "front": "İki Nemrut'un farkı?", "back": "Adıyaman Nemrut: Kommagene heykelleri (UNESCO). Bitlis Nemrut: Türkiye'nin en büyük krater gölü." },
-    { "id": "turizm-cografyasi-k026", "front": "Kapadokya'yı oluşturan volkanlar?", "back": "Erciyes, Hasandağı ve Güllüdağ'ın tüfleri — rüzgar/su erozyonuyla peribacaları oluştu" },
-    { "id": "turizm-cografyasi-k027", "front": "Kula'nın (Manisa) uluslararası statüsü?", "back": "Kula-Salihli UNESCO Global Jeoparkı — Türkiye'nin ilk jeoparkı" },
-    { "id": "turizm-cografyasi-k028", "front": "Türkiye'nin en yağışlı ili?", "back": "Rize (Karadeniz iklimi — her mevsim yağışlı)" },
-    { "id": "turizm-cografyasi-k029", "front": "Uludağ'ın antik adı?", "back": "Mysia Olympos'u — keşişler dağı (Bithynia Olympos'u olarak da anılır)" },
-    { "id": "turizm-cografyasi-k030", "front": "St. Paul Yolu nereden nereye gider?", "back": "Perge/Aspendos'tan Yalvaç'a (Pisidya Antiokheia'sı) — ~500 km" }
+    {
+      "id": "turizm-cografyasi-k001",
+      "front": "Türkiye'nin en yüksek dağı ve yüksekliği?",
+      "back": "Ağrı Dağı — 5.137 m (volkanik)"
+    },
+    {
+      "id": "turizm-cografyasi-k002",
+      "front": "Türkiye'nin en büyük gölü ve özelliği?",
+      "back": "Van Gölü (3.712 km²) — sodalı; Akdamar Adası ve inci kefaliyle ünlü"
+    },
+    {
+      "id": "turizm-cografyasi-k003",
+      "front": "En büyük tatlı su gölü?",
+      "back": "Beyşehir Gölü (Konya-Isparta)"
+    },
+    {
+      "id": "turizm-cografyasi-k004",
+      "front": "Tamamı Türkiye'de olan en uzun nehir?",
+      "back": "Kızılırmak — 1.355 km (Sivas'tan doğar, Bafra'dan Karadeniz'e dökülür)"
+    },
+    {
+      "id": "turizm-cografyasi-k005",
+      "front": "Yedi coğrafi bölge ne zaman belirlendi?",
+      "back": "1941 Birinci Türk Coğrafya Kongresi'nde"
+    },
+    {
+      "id": "turizm-cografyasi-k006",
+      "front": "Türkiye'nin ilk milli parkı?",
+      "back": "Yozgat Çamlığı Milli Parkı (1958)"
+    },
+    {
+      "id": "turizm-cografyasi-k007",
+      "front": "UNESCO listesine 1985'te giren üç varlık?",
+      "back": "Divriği Ulu Camii ve Darüşşifası, Göreme-Kapadokya, İstanbul'un Tarihi Alanları"
+    },
+    {
+      "id": "turizm-cografyasi-k008",
+      "front": "Türkiye'nin iki KARMA (doğal+kültürel) UNESCO varlığı?",
+      "back": "Göreme-Kapadokya ve Hierapolis-Pamukkale"
+    },
+    {
+      "id": "turizm-cografyasi-k009",
+      "front": "Göbeklitepe ve Arslantepe hangi yıllarda listeye girdi?",
+      "back": "Göbeklitepe 2018, Arslantepe (Malatya) 2021"
+    },
+    {
+      "id": "turizm-cografyasi-k010",
+      "front": "2023'te UNESCO'ya giren iki Türkiye varlığı?",
+      "back": "Gordion ve Anadolu'nun Ahşap Direkli (Hipostil) Camileri (5 cami)"
+    },
+    {
+      "id": "turizm-cografyasi-k011",
+      "front": "UNESCO gastronomi şehirlerimiz?",
+      "back": "Gaziantep (2015), Hatay (2017), Afyonkarahisar (2019)"
+    },
+    {
+      "id": "turizm-cografyasi-k012",
+      "front": "Golf turizminin Türkiye'deki merkezi?",
+      "back": "Belek (Antalya)"
+    },
+    {
+      "id": "turizm-cografyasi-k013",
+      "front": "Astım tedavisine iyi geldiğine inanılan mağara?",
+      "back": "Damlataş Mağarası — Alanya"
+    },
+    {
+      "id": "turizm-cografyasi-k014",
+      "front": "Caretta caretta'ların ünlü yuvalama plajları?",
+      "back": "İztuzu (Dalyan), Patara, Belek, Anamur"
+    },
+    {
+      "id": "turizm-cografyasi-k015",
+      "front": "Türkiye'nin termal turizm başkenti?",
+      "back": "Afyonkarahisar"
+    },
+    {
+      "id": "turizm-cografyasi-k016",
+      "front": "Ünlü kış turizm merkezleri ve illeri?",
+      "back": "Uludağ-Bursa, Palandöken-Erzurum, Erciyes-Kayseri, Kartalkaya-Bolu, Sarıkamış-Kars"
+    },
+    {
+      "id": "turizm-cografyasi-k017",
+      "front": "Yamaç paraşütünün ve sıcak hava balonunun adresleri?",
+      "back": "Yamaç paraşütü: Ölüdeniz-Babadağ; balon: Kapadokya (ve Pamukkale)"
+    },
+    {
+      "id": "turizm-cografyasi-k018",
+      "front": "Türkiye'nin ilk uzun mesafe yürüyüş rotası?",
+      "back": "Likya Yolu (~540 km, Fethiye→Antalya)"
+    },
+    {
+      "id": "turizm-cografyasi-k019",
+      "front": "Mavi Yolculuk kavramının babası?",
+      "back": "Cevat Şakir Kabaağaçlı — 'Halikarnas Balıkçısı'"
+    },
+    {
+      "id": "turizm-cografyasi-k020",
+      "front": "Manyas, Sultan Sazlığı ve Göksu Deltası'nın ortak statüsü?",
+      "back": "Ramsar alanı (uluslararası öneme sahip sulak alan)"
+    },
+    {
+      "id": "turizm-cografyasi-k021",
+      "front": "Sümela Manastırı nerededir, kime adanmıştır?",
+      "back": "Trabzon-Maçka, Altındere Vadisi — Meryem Ana'ya adanmış kaya manastırı"
+    },
+    {
+      "id": "turizm-cografyasi-k022",
+      "front": "Ani Ören Yeri nerededir?",
+      "back": "Kars — 'Bin bir kiliseli şehir'; Ortaçağ Ermeni başkenti (UNESCO 2016)"
+    },
+    {
+      "id": "turizm-cografyasi-k023",
+      "front": "İshak Paşa Sarayı nerededir?",
+      "back": "Doğubayazıt (Ağrı) — 18. yüzyıl; Osmanlı-İran-Selçuklu üsluplarının karışımı"
+    },
+    {
+      "id": "turizm-cografyasi-k024",
+      "front": "Salda Gölü neden ünlüdür?",
+      "back": "Beyaz hidromanyezit plajı ('Türkiye'nin Maldivleri'); NASA'nın Mars analog araştırmalarına konu oldu (Burdur)"
+    },
+    {
+      "id": "turizm-cografyasi-k025",
+      "front": "İki Nemrut'un farkı?",
+      "back": "Adıyaman Nemrut: Kommagene heykelleri (UNESCO). Bitlis Nemrut: Türkiye'nin en büyük krater gölü."
+    },
+    {
+      "id": "turizm-cografyasi-k026",
+      "front": "Kapadokya'yı oluşturan volkanlar?",
+      "back": "Erciyes, Hasandağı ve Güllüdağ'ın tüfleri — rüzgar/su erozyonuyla peribacaları oluştu"
+    },
+    {
+      "id": "turizm-cografyasi-k027",
+      "front": "Kula'nın (Manisa) uluslararası statüsü?",
+      "back": "Kula-Salihli UNESCO Global Jeoparkı — Türkiye'nin ilk jeoparkı"
+    },
+    {
+      "id": "turizm-cografyasi-k028",
+      "front": "Türkiye'nin en yağışlı ili?",
+      "back": "Rize (Karadeniz iklimi — her mevsim yağışlı)"
+    },
+    {
+      "id": "turizm-cografyasi-k029",
+      "front": "Uludağ'ın antik adı?",
+      "back": "Mysia Olympos'u — keşişler dağı (Bithynia Olympos'u olarak da anılır)"
+    },
+    {
+      "id": "turizm-cografyasi-k030",
+      "front": "St. Paul Yolu nereden nereye gider?",
+      "back": "Perge/Aspendos'tan Yalvaç'a (Pisidya Antiokheia'sı) — ~500 km"
+    }
   ]
 }
