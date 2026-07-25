@@ -1,0 +1,563 @@
+[
+  {
+    "id": "ilk-yardim-001",
+    "topicId": "ilk-yardim",
+    "subtopic": "Temel kavramlar",
+    "difficulty": 1,
+    "stem": "İlk yardım tanımıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "choices": [
+      { "id": "A", "text": "Olay yerinde, ilaçsız ve tıbbi araç gerektirmeden yapılan uygulamalardır", "explanation": "Doğru — ilk yardımın sınırı budur; ilaçlı müdahale acil tedavinin (sağlık personelinin) işidir." },
+      { "id": "B", "text": "Hastaya ağrı kesici verilerek başlanır", "explanation": "İlaç vermek ilk yardım DEĞİLDİR — tanımın kilit noktası." },
+      { "id": "C", "text": "Yalnızca sağlık personeli yapabilir", "explanation": "İlk yardımı eğitim almış herkes yapabilir; acil tedavi personel işidir." },
+      { "id": "D", "text": "Hastanede yapılan ilk müdahaledir", "explanation": "İlk yardım olay yerinde yapılır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-002",
+    "topicId": "ilk-yardim",
+    "subtopic": "Temel kavramlar",
+    "difficulty": 1,
+    "stem": "Türkiye'de tüm acil çağrıların toplandığı numara aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "112", "explanation": "Doğru — sağlık, itfaiye, polis ve jandarma tek çatı altında 112'de toplanmıştır." },
+      { "id": "B", "text": "155", "explanation": "155 eski polis imdat hattıdır; artık 112'ye yönlenir." },
+      { "id": "C", "text": "110", "explanation": "110 eski itfaiye hattıdır; 112'ye entegre edilmiştir." },
+      { "id": "D", "text": "114", "explanation": "114, Ulusal Zehir Danışma Merkezi'dir (UZEM)." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-003",
+    "topicId": "ilk-yardim",
+    "subtopic": "Temel kavramlar",
+    "difficulty": 2,
+    "stem": "İlk yardımın 'KBK' olarak bilinen temel uygulamaları aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Koruma — Bildirme — Kurtarma", "explanation": "Doğru — önce olay yeri güvenliği, sonra 112'ye haber, sonra öncelik sırasına göre müdahale." },
+      { "id": "B", "text": "Kontrol — Bakım — Kaldırma", "explanation": "Böyle bir üçleme yoktur; 'kaldırma' özellikle omurga travmasında tehlikelidir." },
+      { "id": "C", "text": "Kurtarma — Bildirme — Koruma", "explanation": "Sıralama yanlış: koruma her zaman ilktir (yeni kazazede yaratmamak için)." },
+      { "id": "D", "text": "Koşma — Bağırma — Kaçma", "explanation": "Panik davranışlarıdır; ilk yardım ilkesi değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-004",
+    "topicId": "ilk-yardim",
+    "subtopic": "Temel yaşam desteği",
+    "difficulty": 2,
+    "stem": "Solunum değerlendirmesinde kullanılan 'bak-dinle-hisset' yöntemi en fazla kaç saniye uygulanır?",
+    "choices": [
+      { "id": "A", "text": "10 saniye", "explanation": "Doğru — göğüs hareketine bakılır, solunum sesi dinlenir, yanakla nefes hissedilir; 10 saniyede karar verilir." },
+      { "id": "B", "text": "60 saniye", "explanation": "Bir dakika beklemek CPR'ı geciktirir; süre 10 saniyedir." },
+      { "id": "C", "text": "2 saniye", "explanation": "2 saniye güvenilir değerlendirme için yetersizdir." },
+      { "id": "D", "text": "30 saniye", "explanation": "30 saniye fazladır; standart 10 saniyedir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-005",
+    "topicId": "ilk-yardim",
+    "subtopic": "Temel yaşam desteği",
+    "difficulty": 1,
+    "stem": "Yetişkinde kalp masajı-suni solunum oranı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "30 bası : 2 solunum", "explanation": "Doğru — güncel kılavuzların tek kurtarıcı standardıdır." },
+      { "id": "B", "text": "15 : 2", "explanation": "15:2, iki kurtarıcılı ÇOCUK protokolüdür — klasik çeldirici." },
+      { "id": "C", "text": "5 : 1", "explanation": "Eski protokoldür; güncel değildir." },
+      { "id": "D", "text": "10 : 2", "explanation": "Böyle bir oran tanımlı değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-006",
+    "topicId": "ilk-yardim",
+    "subtopic": "Temel yaşam desteği",
+    "difficulty": 2,
+    "stem": "Yetişkinde kalp basısının hızı ve derinliği aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Dakikada 100-120 bası — 5-6 cm derinlik", "explanation": "Doğru — bası göğüs kemiğinin alt yarısına, göğsün geri gelmesine izin verilerek uygulanır." },
+      { "id": "B", "text": "Dakikada 60 bası — 2-3 cm", "explanation": "Bu değerler yetersiz dolaşım sağlar." },
+      { "id": "C", "text": "Dakikada 160 bası — 8-10 cm", "explanation": "Aşırı hız ve derinlik etkisiz ve zararlıdır." },
+      { "id": "D", "text": "Dakikada 100-120 bası — 1-2 cm", "explanation": "Hız doğru ama derinlik yetersizdir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-007",
+    "topicId": "ilk-yardim",
+    "subtopic": "Hava yolu",
+    "difficulty": 2,
+    "stem": "Yemek yerken öksüren ve konuşabilen bir kişiye ilk yaklaşım ne olmalıdır?",
+    "choices": [
+      { "id": "A", "text": "Öksürmeye teşvik etmek, müdahale etmemek", "explanation": "Doğru — kısmi tıkanmada en etkili mekanizma kişinin kendi öksürüğüdür; Heimlich yapılmaz." },
+      { "id": "B", "text": "Hemen Heimlich manevrası yapmak", "explanation": "Heimlich yalnız TAM tıkanmada (konuşamıyor, morarıyor) uygulanır." },
+      { "id": "C", "text": "Sırtüstü yatırıp su içirmek", "explanation": "Tıkanma sırasında su içirmek aspirasyonu artırır." },
+      { "id": "D", "text": "Parmakla ağzından cismi aramak", "explanation": "Kör dalış cismi derine itebilir." }
+    ],
+    "correct": "A",
+    "trick": "Öksürebiliyor/konuşabiliyor = kısmi tıkanma = DOKUNMA. Heimlich sadece tam tıkanmada."
+  },
+  {
+    "id": "ilk-yardim-008",
+    "topicId": "ilk-yardim",
+    "subtopic": "Hava yolu",
+    "difficulty": 2,
+    "stem": "Tam hava yolu tıkanmasında uygulanan, karına içe-yukarı bası yapılan manevra aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Heimlich manevrası", "explanation": "Doğru — arkadan sarılıp göbek ile göğüs kemiği arasına yumrukla bası uygulanır; 5 sırt darbesiyle dönüşümlü yapılır." },
+      { "id": "B", "text": "Rautek manevrası", "explanation": "Rautek, kazazedeyi araçtan çıkarma tekniğidir." },
+      { "id": "C", "text": "Trendelenburg pozisyonu", "explanation": "Bacakların yükseltildiği şok pozisyonunun tıbbi adıdır." },
+      { "id": "D", "text": "Valsalva manevrası", "explanation": "Valsalva, kulak basıncı dengeleme tekniğidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-009",
+    "topicId": "ilk-yardim",
+    "subtopic": "Pozisyonlar",
+    "difficulty": 2,
+    "stem": "Bilinci kapalı ancak solunumu normal olan hastaya verilecek pozisyon aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Derlenme (koma) pozisyonu — yan yatış", "explanation": "Doğru — dilin geriye kaçması ve kusmuğun soluk yoluna gitmesi önlenir; omurga şüphesinde uygulanmaz." },
+      { "id": "B", "text": "Şok pozisyonu", "explanation": "Şok pozisyonu, dolaşım yetmezliği belirtilerinde kullanılır." },
+      { "id": "C", "text": "Yarı oturur pozisyon", "explanation": "Yarı oturur, kalp krizi ve solunum güçlüğünde tercih edilir." },
+      { "id": "D", "text": "Yüzüstü pozisyon", "explanation": "Yüzüstü yatırmak solunumu izlemeyi engeller." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-010",
+    "topicId": "ilk-yardim",
+    "subtopic": "Kanama",
+    "difficulty": 2,
+    "stem": "Açık kırmızı renkte ve kalp atımıyla eş zamanlı fışkıran kanama hangi damar türündendir?",
+    "choices": [
+      { "id": "A", "text": "Atardamar (arter)", "explanation": "Doğru — en tehlikeli kanamadır; dakikalar içinde hayatı tehdit eder." },
+      { "id": "B", "text": "Toplardamar (ven)", "explanation": "Venöz kanama koyu kırmızıdır ve sızarak akar." },
+      { "id": "C", "text": "Kılcal damar", "explanation": "Kılcal kanama sızıntı biçimindedir." },
+      { "id": "D", "text": "Lenf", "explanation": "Lenf sıvısı kanama tablosu oluşturmaz." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-011",
+    "topicId": "ilk-yardim",
+    "subtopic": "Kanama",
+    "difficulty": 2,
+    "stem": "Kanayan yaranın üzerine konan kompres kanla ıslandığında ne yapılmalıdır?",
+    "choices": [
+      { "id": "A", "text": "İlk bez kaldırılmadan üzerine yeni bez eklenmelidir", "explanation": "Doğru — ilk bezi kaldırmak oluşmakta olan pıhtıyı koparır ve kanamayı artırır." },
+      { "id": "B", "text": "Islanan bez atılıp yenisiyle değiştirilmelidir", "explanation": "Değiştirmek pıhtıyı bozar — en klasik tuzak şık." },
+      { "id": "C", "text": "Yara yıkanmalıdır", "explanation": "Aktif kanamada yıkamak kanamayı artırır." },
+      { "id": "D", "text": "Bası bırakılıp turnikeye geçilmelidir", "explanation": "Turnike son çaredir; bası sürdürülür." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-012",
+    "topicId": "ilk-yardim",
+    "subtopic": "Kanama",
+    "difficulty": 2,
+    "stem": "Turnike uygulamasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "choices": [
+      { "id": "A", "text": "Son çare olarak uygulanır ve uygulama saati görünür şekilde yazılır", "explanation": "Doğru — uzuv kopması ya da bası ile durmayan kanamada, geniş malzemeyle, eklem üzerine gelmeyecek şekilde uygulanır." },
+      { "id": "B", "text": "Her kanamada ilk uygulamadır", "explanation": "İlk uygulama her zaman doğrudan basıdır." },
+      { "id": "C", "text": "İnce tel veya iple yapılması gerekir", "explanation": "İnce malzeme dokuyu keser; geniş sargı kullanılır." },
+      { "id": "D", "text": "Yarım saatte bir tamamen gevşetilir", "explanation": "Kontrolsüz gevşetme, toksinlerin dolaşıma karışmasına yol açar; sağlık ekibine bırakılır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-013",
+    "topicId": "ilk-yardim",
+    "subtopic": "Kanama",
+    "difficulty": 1,
+    "stem": "Burun kanamasında doğru uygulama aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Başı hafif öne eğip burun kanatlarına 5-10 dakika bası yapmak", "explanation": "Doğru — öne eğmek kanın yutulmasını engeller." },
+      { "id": "B", "text": "Başı geriye yatırmak", "explanation": "Geriye yatırmak kanı mideye/soluk yoluna gönderir — yaygın halk yanlışı." },
+      { "id": "C", "text": "Burna pamuk tıkayıp yatırmak", "explanation": "Derin tampon ve yatırma önerilmez." },
+      { "id": "D", "text": "Sıcak kompres uygulamak", "explanation": "Sıcak, damarları genişletip kanamayı artırır; soğuk tercih edilir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-014",
+    "topicId": "ilk-yardim",
+    "subtopic": "Şok",
+    "difficulty": 2,
+    "stem": "Şoktaki hastaya verilecek pozisyon aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Sırtüstü yatırıp bacakları yaklaşık 30 cm yükseltmek", "explanation": "Doğru — kanın hayati organlara dönüşü desteklenir; hasta örtülür, ağızdan bir şey verilmez." },
+      { "id": "B", "text": "Yüzüstü yatırmak", "explanation": "Yüzüstü pozisyonun şokta yeri yoktur." },
+      { "id": "C", "text": "Oturtup su içirmek", "explanation": "Şokta ağızdan sıvı verilmez." },
+      { "id": "D", "text": "Ayakta yürütmek", "explanation": "Yürütmek dolaşımı daha da bozar." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-015",
+    "topicId": "ilk-yardim",
+    "subtopic": "Kırık-çıkık",
+    "difficulty": 2,
+    "stem": "Kırık şüphesi olan bölgeye yapılacak en doğru uygulama aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Bulunduğu şekilde, alt ve üst eklemleri de kapsayacak biçimde tespit etmek", "explanation": "Doğru — düzeltme denemeleri damar-sinir yaralanmasına yol açar." },
+      { "id": "B", "text": "Kemiği düzeltip sargı yapmak", "explanation": "Kırık asla düzeltilmez." },
+      { "id": "C", "text": "Bölgeye masaj yapmak", "explanation": "Masaj, kırık uçlarını oynatır — zararlıdır." },
+      { "id": "D", "text": "Hastayı hemen ayağa kaldırmak", "explanation": "Yük vermek kırığı ağırlaştırır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-016",
+    "topicId": "ilk-yardim",
+    "subtopic": "Kırık-çıkık",
+    "difficulty": 2,
+    "stem": "Burkulmalarda uygulanan RICE kuralındaki 'I' harfi neyi ifade eder?",
+    "choices": [
+      { "id": "A", "text": "Ice — soğuk uygulama", "explanation": "Doğru — 20'şer dakikalık aralıklarla soğuk uygulanır; ilk 48 saatte sıcak yasaktır." },
+      { "id": "B", "text": "Immobilization — alçıya alma", "explanation": "Tespit önemli olsa da RICE'taki I, Ice'tır." },
+      { "id": "C", "text": "Injection — iğne yapma", "explanation": "İlaç uygulaması ilk yardımın dışındadır." },
+      { "id": "D", "text": "Inspection — gözlem", "explanation": "Gözlem sürekli yapılır ama kısaltmadaki I değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-017",
+    "topicId": "ilk-yardim",
+    "subtopic": "Travma",
+    "difficulty": 2,
+    "stem": "Trafik kazasında boyun ağrısı olan bilinçli yaralıya yaklaşımda en doğru davranış aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Baş-boyun sabitlenip hasta kesinlikle hareket ettirilmez", "explanation": "Doğru — omurga yaralanması şüphesinde yanlış hareket felce yol açabilir; araç güvenli ise hasta içinde bekletilir." },
+      { "id": "B", "text": "Hızla araçtan çıkarılıp yan yatırılır", "explanation": "Yangın/patlama gibi zorunluluk yoksa çıkarılmaz; çıkarma Rautek ile ve eksen korunarak yapılır." },
+      { "id": "C", "text": "Boynu iki yana çevirtilerek kontrol edilir", "explanation": "Boyun hareket ettirilmez." },
+      { "id": "D", "text": "Yürüyebiliyorsa sorun yok demektir", "explanation": "Yürüyebilmek omurga hasarını dışlamaz." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-018",
+    "topicId": "ilk-yardim",
+    "subtopic": "Yanık",
+    "difficulty": 2,
+    "stem": "Derinin su toplaması (bül) hangi derece yanığın belirtisidir?",
+    "choices": [
+      { "id": "A", "text": "İkinci derece", "explanation": "Doğru — 2. derecede epidermis altı etkilenir ve içi sıvı dolu kabarcıklar oluşur; büller patlatılmaz." },
+      { "id": "B", "text": "Birinci derece", "explanation": "1. derece yalnız kızarıklık ve hassasiyettir (güneş yanığı)." },
+      { "id": "C", "text": "Üçüncü derece", "explanation": "3. derecede doku kömürleşir/beyazlaşır; ağrı azalabilir." },
+      { "id": "D", "text": "Dördüncü derece", "explanation": "Kas-kemik tutulumudur; su toplamayla tanımlanmaz." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-019",
+    "topicId": "ilk-yardim",
+    "subtopic": "Yanık",
+    "difficulty": 2,
+    "stem": "Yanıkta İLK yapılması gereken aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Bölgeyi 15-20 dakika akan soğuk su altında tutmak", "explanation": "Doğru — ısının dokuda ilerlemesi durdurulur; buz doğrudan uygulanmaz." },
+      { "id": "B", "text": "Diş macunu veya yoğurt sürmek", "explanation": "Halk yanlışıdır; enfeksiyon riski yaratır ve değerlendirmeyi zorlaştırır." },
+      { "id": "C", "text": "Su toplayan yerleri patlatmak", "explanation": "Büller steril kalkandır; patlatılmaz." },
+      { "id": "D", "text": "Yapışan giysiyi çekerek çıkarmak", "explanation": "Yapışan giysi çekilmez; çevresinden kesilir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-020",
+    "topicId": "ilk-yardim",
+    "subtopic": "Sıcak-soğuk",
+    "difficulty": 2,
+    "stem": "Yaz turunda sıcak çarpması belirtileri gösteren misafire ilk müdahale aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Gölge ve serin yere alıp koltuk altı-kasığa ıslak kompres uygulamak, bilinçliyse sıvı vermek", "explanation": "Doğru — vücut ısısı hızla düşürülmeli; tuz kaybı için ayran/maden suyu idealdir." },
+      { "id": "B", "text": "Güneşte dinlendirmek", "explanation": "Güneşte kalmak tabloyu ağırlaştırır." },
+      { "id": "C", "text": "Soğuk duş yerine sıcak çay içirmek", "explanation": "Sıcak içecek ısıyı artırır." },
+      { "id": "D", "text": "Koşturarak terletmek", "explanation": "Efor kesinlikle yanlıştır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-021",
+    "topicId": "ilk-yardim",
+    "subtopic": "Zehirlenme-sokma",
+    "difficulty": 2,
+    "stem": "Yılan sokmasında yapılMAMASI gerekenler aşağıdakilerden hangisinde birlikte verilmiştir?",
+    "choices": [
+      { "id": "A", "text": "Yarayı kesmek, zehri emmek, turnike uygulamak", "explanation": "Doğru — üçü de yasaktır; hasta sakinleştirilir, uzuv kalp seviyesi altında sabitlenir, hızla hastaneye ulaştırılır." },
+      { "id": "B", "text": "Sakinleştirmek ve uzvu hareketsiz tutmak", "explanation": "Bunlar doğru uygulamalardır." },
+      { "id": "C", "text": "Takıları çıkarmak", "explanation": "Şişme öncesi takı çıkarmak doğrudur." },
+      { "id": "D", "text": "112'yi aramak", "explanation": "Elbette doğru uygulamadır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-022",
+    "topicId": "ilk-yardim",
+    "subtopic": "Zehirlenme-sokma",
+    "difficulty": 2,
+    "stem": "Arı sokmasında iğne deriden nasıl çıkarılmalıdır?",
+    "choices": [
+      { "id": "A", "text": "Kredi kartı gibi sert bir kenarla sıyırarak", "explanation": "Doğru — cımbızla sıkmak zehir kesesini boşaltır; sıyırma tekniği güvenlidir, ardından soğuk uygulanır." },
+      { "id": "B", "text": "Cımbızla sıkıca çekerek", "explanation": "Sıkmak kesedeki zehri deriye pompalar." },
+      { "id": "C", "text": "Ağızla emerek", "explanation": "Emme hem etkisiz hem risklidir." },
+      { "id": "D", "text": "İğneye dokunmadan beklemek", "explanation": "İğne kaldıkça zehir salınımı sürer; çıkarılmalıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-023",
+    "topicId": "ilk-yardim",
+    "subtopic": "Zehirlenme-sokma",
+    "difficulty": 3,
+    "stem": "Kene çıkarmada doğru teknik aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Cımbızla deriye en yakın noktadan tutup düz ve yavaş çekmek", "explanation": "Doğru — kene ezilmez, döndürülmez; ısırık bölgesi izlenir, ateş çıkarsa (KKKA riski) doktora gidilir." },
+      { "id": "B", "text": "Üzerine kolonya döküp beklemek", "explanation": "Kimyasal dökmek kenenin kusmasına ve mikrop bulaşına yol açar." },
+      { "id": "C", "text": "Sigara ile yakmak", "explanation": "Yakmak da aynı riski taşır; halk yanlışıdır." },
+      { "id": "D", "text": "El ile koparmak", "explanation": "Baş kısmı deride kalabilir; cımbız gerekir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-024",
+    "topicId": "ilk-yardim",
+    "subtopic": "Saha senaryoları",
+    "difficulty": 2,
+    "stem": "Epilepsi nöbeti geçiren kişiye yapılacak doğru uygulama aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Çevredeki sert cisimleri uzaklaştırıp başını korumak ve nöbetin geçmesini beklemek", "explanation": "Doğru — kasılma zapt edilmez, ağza hiçbir şey sokulmaz; nöbet sonrası derlenme pozisyonu verilir." },
+      { "id": "B", "text": "Dilini yutmasın diye ağzına kaşık koymak", "explanation": "En tehlikeli halk yanlışı — diş kırığı ve aspirasyona yol açar." },
+      { "id": "C", "text": "Kollarını bastırarak kasılmayı durdurmak", "explanation": "Zorla tutmak kas-kemik yaralanması yaratır." },
+      { "id": "D", "text": "Yüzüne su dökmek", "explanation": "Etkisizdir; aspirasyon riski doğurur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-025",
+    "topicId": "ilk-yardim",
+    "subtopic": "Saha senaryoları",
+    "difficulty": 2,
+    "stem": "Göğsünde baskı hissi, sol kola yayılan ağrı ve soğuk terleme tarifleyen misafire verilecek pozisyon aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Yarı oturur pozisyon", "explanation": "Doğru — kalp krizi şüphesinde kalbin yükü azaltılır; 112 aranır, hasta sakinleştirilir, yürütülmez." },
+      { "id": "B", "text": "Şok pozisyonu", "explanation": "Bacakları kaldırmak kalbe dönüşü artırır — kalp krizinde önerilmez." },
+      { "id": "C", "text": "Yüzükoyun", "explanation": "Solunum ve izlem açısından uygun değildir." },
+      { "id": "D", "text": "Ayakta yürüyüş", "explanation": "Efor, krizi derinleştirir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-026",
+    "topicId": "ilk-yardim",
+    "subtopic": "Saha senaryoları",
+    "difficulty": 2,
+    "stem": "Bilinci açık, terleyen ve titreyen diyabetli misafire (şeker düşmesi şüphesi) ilk uygulama aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Şekerli içecek veya kesme şeker vermek", "explanation": "Doğru — hipoglisemide hızlı şeker hayat kurtarır; 10-15 dk'da düzelme olmazsa 112." },
+      { "id": "B", "text": "İnsülin iğnesi yapmak", "explanation": "İnsülin şekeri DAHA DA düşürür; ayrıca ilaç uygulaması ilk yardım dışıdır." },
+      { "id": "C", "text": "Su içirip yürütmek", "explanation": "Sade su şekeri yükseltmez." },
+      { "id": "D", "text": "Hiçbir şey vermeden beklemek", "explanation": "Bilinç açıkken şeker verilmezse tablo bilinç kaybına ilerleyebilir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-027",
+    "topicId": "ilk-yardim",
+    "subtopic": "Saha senaryoları",
+    "difficulty": 2,
+    "stem": "Bilinci kapalı bir hastaya ağızdan su verilmesinin yaratacağı temel tehlike aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Sıvının soluk borusuna kaçması (aspirasyon)", "explanation": "Doğru — yutma refleksi kaybolduğundan verilecek her şey akciğere kaçabilir; bilinçsize ağızdan hiçbir şey verilmez." },
+      { "id": "B", "text": "Tansiyonun yükselmesi", "explanation": "Ana risk tansiyon değildir." },
+      { "id": "C", "text": "Alerji gelişmesi", "explanation": "Su alerjisi pratik bir risk değildir." },
+      { "id": "D", "text": "Mide bulantısı", "explanation": "Bulantı ikincil dertken aspirasyon ölümcüldür." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-028",
+    "topicId": "ilk-yardim",
+    "subtopic": "Zehirlenme",
+    "difficulty": 3,
+    "stem": "Sobadan sızan gazla (karbonmonoksit) zehirlenen kişiye ilk müdahale aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kendi güvenliğini alarak kişiyi temiz havaya çıkarmak ve 112'yi aramak", "explanation": "Doğru — CO renksiz-kokusuzdur; kurtarıcı da zehirlenebilir, kapı-cam açılır, kaynak kapatılır." },
+      { "id": "B", "text": "Odada kusturmaya çalışmak", "explanation": "Solunum zehirlenmesinde kusturmanın yeri yoktur; ortamda kalmak öldürür." },
+      { "id": "C", "text": "Ayran içirmek", "explanation": "Halk inanışıdır; CO zehirlenmesine etkisi yoktur." },
+      { "id": "D", "text": "Üzerini örtüp uyutmak", "explanation": "Uyutmak, ölüme terk etmektir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-029",
+    "topicId": "ilk-yardim",
+    "subtopic": "Saha senaryoları",
+    "difficulty": 3,
+    "stem": "Kalabalık bir kazada ilk yardımcının müdahale önceliği hangi hastadadır?",
+    "choices": [
+      { "id": "A", "text": "Solunumu durmuş olanlar ve ağır kanamalılar", "explanation": "Doğru — triyaj ilkesi: yaşamı dakikalarla sınırlı olanlar önceliklidir; bağıran hasta soluyor demektir." },
+      { "id": "B", "text": "En çok bağıran hastalar", "explanation": "Ses çıkarabilen hastanın solunumu vardır; sessiz hasta daha kritiktir." },
+      { "id": "C", "text": "En yakında duranlar", "explanation": "Mesafe değil, yaşamsal tehlike önceliği belirler." },
+      { "id": "D", "text": "Yaşlılar", "explanation": "Yaş tek başına öncelik ölçütü değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-030",
+    "topicId": "ilk-yardim",
+    "subtopic": "Temel yaşam desteği",
+    "difficulty": 3,
+    "stem": "OED (otomatik dış defibrilatör) kullanımıyla ilgili doğru ifade aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Cihaz sesli talimat verir; şok düğmesine basılırken hastaya kimse dokunmamalıdır", "explanation": "Doğru — OED ritmi analiz eder ve yalnız gerekliyse şok önerir; halk kullanımı için tasarlanmıştır." },
+      { "id": "B", "text": "Yalnızca doktorlar kullanabilir", "explanation": "OED'ler halkın kullanımı için havalimanı ve AVM'lere konur." },
+      { "id": "C", "text": "Islak zeminde de aynen kullanılır", "explanation": "Hasta ıslak zeminden kurtarılır, göğüs kurulanır." },
+      { "id": "D", "text": "Şok sırasında hastanın eli tutulur", "explanation": "Şok anında temas, akımı kurtarıcıya iletir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-031",
+    "topicId": "ilk-yardim",
+    "subtopic": "Travma",
+    "difficulty": 3,
+    "stem": "Vücuda saplanmış bir cisim (bıçak, demir çubuk) için doğru yaklaşım aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Cisim çıkarılmaz; etrafı desteklenerek sabitlenir", "explanation": "Doğru — saplı cisim damarı tıkaç gibi kapatıyor olabilir; çıkarmak masif kanama başlatır." },
+      { "id": "B", "text": "Hızla çekip çıkarılır ve yara kapatılır", "explanation": "Çıkarmak ilk yardımın en ağır hatalarındandır." },
+      { "id": "C", "text": "Cisim yerinde döndürülerek gevşetilir", "explanation": "Döndürmek dokuyu daha çok keser." },
+      { "id": "D", "text": "Cismin üzerine bası yapılır", "explanation": "Bası cismin çevresine yapılır, üzerine değil." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-032",
+    "topicId": "ilk-yardim",
+    "subtopic": "Sıcak-soğuk",
+    "difficulty": 3,
+    "stem": "Donma vakasında yapılMAMASI gereken uygulama aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Bölgeyi karla ovmak veya doğrudan ateşle ısıtmak", "explanation": "Doğru cevap bu (yapılmaması gereken) — ovma doku kristallerini parçalар, ateş yanık ekler; ılık suyla yavaş ısıtma esastır." },
+      { "id": "B", "text": "Islak giysileri değiştirmek", "explanation": "Bu doğru bir uygulamadır." },
+      { "id": "C", "text": "Ilık ortama almak", "explanation": "Bu doğru bir uygulamadır." },
+      { "id": "D", "text": "Ilık ve şekerli içecek vermek (bilinç açıksa)", "explanation": "Bu doğru bir uygulamadır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-033",
+    "topicId": "ilk-yardim",
+    "subtopic": "Saha senaryoları",
+    "difficulty": 2,
+    "stem": "Denizde boğulma tehlikesi geçiren kişiye kıyıdan ilk yaklaşım nasıl olmalıdır?",
+    "choices": [
+      { "id": "A", "text": "Can simidi, ip veya uzun cisim uzatmak", "explanation": "Doğru — panik halindeki kazazede kurtarıcıyı da batırabilir; yüzerek kurtarma en son ve eğitimli kişilerce denenir." },
+      { "id": "B", "text": "Hemen yüzerek yanına gitmek", "explanation": "Eğitimsiz kurtarıcı için en riskli seçenektir." },
+      { "id": "C", "text": "Kıyıdan bağırarak yüzmesini söylemek", "explanation": "Panikteki kişi talimat uygulayamaz; araç uzatılmalıdır." },
+      { "id": "D", "text": "Suya taş atarak yönlendirmek", "explanation": "Anlamsız ve tehlikelidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-034",
+    "topicId": "ilk-yardim",
+    "subtopic": "Kanama",
+    "difficulty": 3,
+    "stem": "İç kanama şüphesinde ilk yardımcının yapması gereken aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Hastaya şok pozisyonu verip hiçbir şey yedirip içirmeden 112'yi beklemek", "explanation": "Doğru — iç kanama dışarıdan durdurulamaz; soğuk-soluk cilt, hızlı zayıf nabız uyarıcıdır, ameliyat gerekebileceği için ağızdan verilen her şey risklidir." },
+      { "id": "B", "text": "Ağrı kesici verip dinlendirmek", "explanation": "İlaç ilk yardım dışıdır ve tabloyu maskeler." },
+      { "id": "C", "text": "Karna sıcak su torbası koymak", "explanation": "Sıcak, kanamayı artırır." },
+      { "id": "D", "text": "Bol su içirmek", "explanation": "Olası cerrahi öncesi ağızdan sıvı verilmez." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-035",
+    "topicId": "ilk-yardim",
+    "subtopic": "Temel kavramlar",
+    "difficulty": 2,
+    "stem": "112'yi arayan rehberin vermesi gereken bilgiler arasında aşağıdakilerden hangisi ÖNCELİKLİ değildir?",
+    "choices": [
+      { "id": "A", "text": "Turistlerin uyruk dağılımı", "explanation": "Doğru cevap bu — uyruk bilgisi acil müdahale için öncelik değildir; adres, olay türü, yaralı sayısı ve durumu önceliklidir." },
+      { "id": "B", "text": "Olay yerinin açık adresi/konumu", "explanation": "En kritik bilgidir." },
+      { "id": "C", "text": "Yaralı sayısı ve durumu", "explanation": "Ekip planlaması için gereklidir." },
+      { "id": "D", "text": "Olayın türü (kaza, bayılma, yangın...)", "explanation": "Doğru ekip yönlendirmesi için gereklidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-036",
+    "topicId": "ilk-yardim",
+    "subtopic": "Saha senaryoları",
+    "difficulty": 3,
+    "stem": "Denizanası temasında doğru ilk yardım aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Bölgeyi deniz suyu veya sirkeyle yıkamak, kalan dokunaçları kartla sıyırmak", "explanation": "Doğru — tatlı su ve ovalama, patlamamış kapsülleri aktive eder; ağrı için sıcak su (43°C civarı) uygulanabilir." },
+      { "id": "B", "text": "Tatlı suyla ovarak yıkamak", "explanation": "Tatlı su ozmotik şokla zehir kapsüllerini patlatır." },
+      { "id": "C", "text": "Bölgeyi kumla ovmak", "explanation": "Ovmak zehri yayar." },
+      { "id": "D", "text": "Buzla doğrudan dondurmak", "explanation": "Doğrudan buz doku hasarı ekler; önerilmez." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-037",
+    "topicId": "ilk-yardim",
+    "subtopic": "Temel yaşam desteği",
+    "difficulty": 3,
+    "stem": "Bebeklerde (1 yaş altı) kalp basısı nasıl uygulanır?",
+    "choices": [
+      { "id": "A", "text": "İki parmakla, göğüs kemiğinin alt yarısına, yaklaşık 4 cm derinlikte", "explanation": "Doğru — bebekte nabız brakiyal arterden kontrol edilir; 30:2 oranı korunur." },
+      { "id": "B", "text": "İki elle 6 cm derinlikte", "explanation": "İki el yetişkin tekniğidir; bebekte ağır hasar verir." },
+      { "id": "C", "text": "Tek elle 5 cm derinlikte", "explanation": "Tek el, çocuk (1 yaş-ergenlik) tekniğidir." },
+      { "id": "D", "text": "Başparmakla sırttan", "explanation": "Bası göğüsten yapılır; sırt darbeleri tıkanma içindir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-038",
+    "topicId": "ilk-yardim",
+    "subtopic": "Saha senaryoları",
+    "difficulty": 2,
+    "stem": "Bayılan bir misafire yapılacak doğru uygulama aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Sırtüstü yatırıp ayaklarını yükseltmek, sıkan giysileri gevşetmek", "explanation": "Doğru — beyne kan akışı desteklenir; kendine gelince yavaşça kaldırılır, ani ayağa kaldırılmaz." },
+      { "id": "B", "text": "Yüzüne tokat atıp kolonya koklatmak", "explanation": "Halk yanlışıdır; aspirasyon ve travma riski yaratır." },
+      { "id": "C", "text": "Oturtup su içirmek", "explanation": "Bilinç tam yerine gelmeden ağızdan bir şey verilmez." },
+      { "id": "D", "text": "Koşturarak ayıltmak", "explanation": "Tam tersine istirahat gerekir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-039",
+    "topicId": "ilk-yardim",
+    "subtopic": "Temel kavramlar",
+    "difficulty": 3,
+    "stem": "Turist rehberinin sağlık olaylarındaki hukuki sınırı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "İlaç dağıtamaz ve tanı koyamaz; temel ilk yardım ve 112 koordinasyonu yapar", "explanation": "Doğru — misafirin KENDİ ilacını almasına yardım edebilir ama kendi çantasından ilaç vermek sorumluluk doğurur." },
+      { "id": "B", "text": "Basit ilaçları (ağrı kesici) dağıtabilir", "explanation": "En sık yapılan hatadır; alerji/etkileşim riski rehberin üzerinde kalır." },
+      { "id": "C", "text": "Hafif vakalarda tanı koyup tur devam ettirebilir", "explanation": "Tanı yetkisi yoktur; şüpheli her durumda sağlık görüşü alınır." },
+      { "id": "D", "text": "Sağlık olaylarına hiç karışamaz", "explanation": "İlk yardım herkesin hakkı ve sorumluluğudur; sınır ilaç ve tanıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "ilk-yardim-040",
+    "topicId": "ilk-yardim",
+    "subtopic": "Kanama",
+    "difficulty": 3,
+    "stem": "Kulaktan kan gelen bir kafa travması hastasında doğru uygulama aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kanayan kulak ALTA gelecek şekilde yan yatırıp kulağı tıkamadan bekletmek", "explanation": "Doğru — kafa içi basıncın artmaması için akış engellenmez; tampon yapılmaz, 112 beklenir." },
+      { "id": "B", "text": "Kulağı pamukla sıkıca tıkamak", "explanation": "Tıkamak kafa içi basıncı artırır — tehlikelidir." },
+      { "id": "C", "text": "Kanayan kulak üstte kalacak şekilde yatırmak", "explanation": "Akış engellenmiş olur; kanayan taraf alta gelir." },
+      { "id": "D", "text": "Baş geriye eğilerek oturtulur", "explanation": "Kafa travmasında pozisyon yönetimi bu şekilde yapılmaz." }
+    ],
+    "correct": "A"
+  }
+]

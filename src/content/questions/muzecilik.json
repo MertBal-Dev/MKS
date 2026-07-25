@@ -1,0 +1,565 @@
+[
+  {
+    "id": "muzecilik-001",
+    "topicId": "muzecilik",
+    "subtopic": "Türk müzeciliği",
+    "difficulty": 1,
+    "stem": "Türk müzeciliğinin başlangıcı kabul edilen, eski eserlerin Aya İrini'de toplanması kimin girişimidir?",
+    "choices": [
+      { "id": "A", "text": "Ahmed Fethi Paşa", "explanation": "Doğru — Tophane Müşiri Fethi Paşa 1846'da eski silah ve eserleri Aya İrini'de topladı." },
+      { "id": "B", "text": "Osman Hamdi Bey", "explanation": "Osman Hamdi 1881'de müdür olup müzeciliği bilimselleştirdi; başlangıç Fethi Paşa'nındır." },
+      { "id": "C", "text": "Halil Edhem Bey", "explanation": "Halil Edhem, Osman Hamdi'nin halefidir." },
+      { "id": "D", "text": "Mustafa Reşid Paşa", "explanation": "Reşid Paşa, Tanzimat'ın mimarıdır; müzecilikle anılmaz." }
+    ],
+    "correct": "A",
+    "trick": "1846 Fethi Paşa (başlangıç) — 1869 Müze-i Hümayun — 1881 Osman Hamdi (bilimsel dönem). Üç aşama karıştırılır."
+  },
+  {
+    "id": "muzecilik-002",
+    "topicId": "muzecilik",
+    "subtopic": "Türk müzeciliği",
+    "difficulty": 1,
+    "stem": "Osmanlı'nın ilk resmi müzesi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Müze-i Hümayun", "explanation": "Doğru — 1869'da kurulan İmparatorluk Müzesi, bugünkü İstanbul Arkeoloji Müzeleri'nin atasıdır." },
+      { "id": "B", "text": "Topkapı Sarayı Müzesi", "explanation": "Topkapı 1924'te, Cumhuriyet döneminde müze oldu." },
+      { "id": "C", "text": "Ankara Etnografya Müzesi", "explanation": "Etnografya (1930), Cumhuriyet'in ilk müze binasıdır." },
+      { "id": "D", "text": "Askeri Müze", "explanation": "Askeri Müze'nin kökeni Aya İrini koleksiyonudur ama 'ilk resmi müze' unvanı Müze-i Hümayun'undur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-003",
+    "topicId": "muzecilik",
+    "subtopic": "Türk müzeciliği",
+    "difficulty": 2,
+    "stem": "Cumhuriyet döneminde müze olarak inşa edilen ilk bina aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Ankara Etnografya Müzesi", "explanation": "Doğru — 1930'da açıldı; Atatürk'ün naaşı 1938-1953 arasında burada kaldı." },
+      { "id": "B", "text": "Topkapı Sarayı", "explanation": "Topkapı saraydan dönüştürülmüştür; müze olarak inşa edilmemiştir." },
+      { "id": "C", "text": "Anadolu Medeniyetleri Müzesi", "explanation": "Bedesten yapısından dönüştürülmüştür." },
+      { "id": "D", "text": "Ayasofya", "explanation": "Ayasofya 1934'te camiden müzeye çevrilmiş bir dönüşümdür." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-004",
+    "topicId": "muzecilik",
+    "subtopic": "Kavramlar",
+    "difficulty": 2,
+    "stem": "Bir yapının kendi özgün parçaları kullanılarak yeniden ayağa kaldırılmasına ne ad verilir?",
+    "choices": [
+      { "id": "A", "text": "Anastylosis", "explanation": "Doğru — Efes Celsus Kütüphanesi cephesi bu yöntemin en ünlü Türkiye örneğidir." },
+      { "id": "B", "text": "Restitüsyon", "explanation": "Restitüsyon, özgün halin çizim/maketle canlandırılmasıdır — fiziksel ayağa kaldırma değildir." },
+      { "id": "C", "text": "Replika", "explanation": "Replika, yeni malzemeyle yapılan kopyadır." },
+      { "id": "D", "text": "Konservasyon", "explanation": "Konservasyon, bozulmayı durdurma işlemidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-005",
+    "topicId": "muzecilik",
+    "subtopic": "Kavramlar",
+    "difficulty": 2,
+    "stem": "Eserin bozulma sürecini durdurmaya yönelik koruma işlemlerine ne ad verilir?",
+    "choices": [
+      { "id": "A", "text": "Konservasyon", "explanation": "Doğru — nem-ışık-sıcaklık kontrolü ve kimyasal stabilizasyon konservasyonun alanıdır." },
+      { "id": "B", "text": "Restorasyon", "explanation": "Restorasyon onarımdır; eksik parçaların tamamlanması gibi müdahaleleri içerir." },
+      { "id": "C", "text": "Envanter", "explanation": "Envanter, eserin kimlik kaydıdır." },
+      { "id": "D", "text": "Tescil", "explanation": "Tescil, varlığın resmi koruma listesine alınmasıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-006",
+    "topicId": "muzecilik",
+    "subtopic": "Mevzuat",
+    "difficulty": 1,
+    "stem": "Türkiye'de kültür ve tabiat varlıklarını koruyan temel kanun aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "2863 sayılı Kanun (1983)", "explanation": "Doğru — kültür varlıklarının devlet malı olduğunu, kaçakçılığın ağır cezasını ve sit sistemini düzenler." },
+      { "id": "B", "text": "6326 sayılı Kanun", "explanation": "6326, turist rehberliği meslek kanunudur." },
+      { "id": "C", "text": "2634 sayılı Kanun", "explanation": "2634, Turizm Teşvik Kanunu'dur." },
+      { "id": "D", "text": "5846 sayılı Kanun", "explanation": "5846, Fikir ve Sanat Eserleri Kanunu'dur (telif)." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-007",
+    "topicId": "muzecilik",
+    "subtopic": "Mevzuat",
+    "difficulty": 2,
+    "stem": "2863 sayılı Kanun'a göre toprak altından çıkan kültür varlığının mülkiyeti kime aittir?",
+    "choices": [
+      { "id": "A", "text": "Devlete", "explanation": "Doğru — bulan kişi en yakın müzeye/mülki amire bildirir; ikramiye alabilir ama mülkiyet devletindir." },
+      { "id": "B", "text": "Bulan kişiye", "explanation": "'Bulan sahiplenir' anlayışı suçtur; saklamak ve satmak ağır cezalıktır." },
+      { "id": "C", "text": "Arazi sahibine", "explanation": "Arazi sahipliği eser mülkiyeti doğurmaz." },
+      { "id": "D", "text": "Belediyeye", "explanation": "Yerel yönetim değil, devlet (Bakanlık) adına müzeler yetkilidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-008",
+    "topicId": "muzecilik",
+    "subtopic": "Uluslararası",
+    "difficulty": 2,
+    "stem": "Kültür varlıklarının yasa dışı ithal ve ihracının önlenmesini düzenleyen, iade davalarının dayanağı olan sözleşme aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "1970 UNESCO Sözleşmesi", "explanation": "Doğru — Türkiye'nin yurt dışındaki eser iade taleplerinin ana hukuki zeminidir." },
+      { "id": "B", "text": "1972 Dünya Mirası Sözleşmesi", "explanation": "1972, miras LİSTELERİNİ düzenler; kaçakçılıkla ilgili değildir." },
+      { "id": "C", "text": "1954 Lahey Sözleşmesi", "explanation": "Lahey, savaş durumunda korumayı düzenler (Mavi Kalkan)." },
+      { "id": "D", "text": "2003 SOKÜM Sözleşmesi", "explanation": "2003, somut olmayan mirasla ilgilidir." }
+    ],
+    "correct": "A",
+    "trick": "Sözleşme üçlüsü: 1954 savaş, 1970 kaçakçılık-iade, 1972 miras listesi. Yıl-işlev eşleşmesi ezber ister."
+  },
+  {
+    "id": "muzecilik-009",
+    "topicId": "muzecilik",
+    "subtopic": "İadeler",
+    "difficulty": 2,
+    "stem": "2011 yılında Almanya'dan iade edilen ünlü Hitit eseri aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Boğazköy Sfenksi", "explanation": "Doğru — restorasyon için 1917'de Berlin'e giden sfenks, 94 yıl sonra döndü; Boğazköy Müzesi'ndedir." },
+      { "id": "B", "text": "Kadeş Antlaşması tableti", "explanation": "Kadeş tableti İstanbul Arkeoloji'dedir; Almanya iadesi değildir." },
+      { "id": "C", "text": "Yazılıkaya kabartması", "explanation": "Yazılıkaya yerinde duran kaya anıtıdır." },
+      { "id": "D", "text": "Alacahöyük güneş kursu", "explanation": "Güneş kursları Anadolu Medeniyetleri Müzesi'ndedir; iade öyküsü sfenksindir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-010",
+    "topicId": "muzecilik",
+    "subtopic": "İadeler",
+    "difficulty": 2,
+    "stem": "ABD'den 1993'te iade edilen Karun (Lidya) Hazinesi bugün hangi müzededir?",
+    "choices": [
+      { "id": "A", "text": "Uşak Müzesi", "explanation": "Doğru — Metropolitan'la yapılan davayı Türkiye kazandı; hazine Uşak Arkeoloji Müzesi'ndedir." },
+      { "id": "B", "text": "Manisa Müzesi", "explanation": "Hazine Lidya coğrafyasından çıksa da sergilendiği yer Uşak'tır — coğrafya tuzağı." },
+      { "id": "C", "text": "İstanbul Arkeoloji Müzeleri", "explanation": "İstanbul'da değildir." },
+      { "id": "D", "text": "Anadolu Medeniyetleri Müzesi", "explanation": "Ankara'da değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-011",
+    "topicId": "muzecilik",
+    "subtopic": "İadeler",
+    "difficulty": 3,
+    "stem": "Üst gövdesi 2011'de Boston'dan iade edilerek Antalya Müzesi'ndeki alt parçasıyla birleştirilen heykel aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Yorgun Herakles", "explanation": "Doğru — Perge kazısından kaçırılan üst gövde, 30 yıllık mücadele sonunda döndü." },
+      { "id": "B", "text": "Ölen Galyalı", "explanation": "Ölen Galyalı'nın Roma kopyası İtalya'dadır; Bergama Okulu eseridir." },
+      { "id": "C", "text": "Efes Artemisi", "explanation": "Artemis heykelleri Efes Müzesi'ndedir; kaçırılma öyküsü yoktur." },
+      { "id": "D", "text": "Urfa Adamı", "explanation": "Urfa Adamı Şanlıurfa'da bulunmuştur; iade öyküsü yoktur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-012",
+    "topicId": "muzecilik",
+    "subtopic": "İadeler",
+    "difficulty": 3,
+    "stem": "Aşağıdaki eserlerden hangisi halen yurt dışındadır?",
+    "choices": [
+      { "id": "A", "text": "Bergama Zeus Sunağı", "explanation": "Doğru — sunak, Berlin Bergama Müzesi'ndedir; iade süreci sonuçlanmamıştır." },
+      { "id": "B", "text": "Boğazköy Sfenksi", "explanation": "Sfenks 2011'de dönmüştür." },
+      { "id": "C", "text": "Karun Hazinesi", "explanation": "Hazine 1993'te dönmüştür (Uşak)." },
+      { "id": "D", "text": "Çingene Kızı mozaiğinin kayıp parçaları", "explanation": "Parçalar 2018'de dönmüş, Zeugma'da birleştirilmiştir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-013",
+    "topicId": "muzecilik",
+    "subtopic": "Müzeler",
+    "difficulty": 2,
+    "stem": "Kaşıkçı Elması ve Kutsal Emanetler hangi müzede sergilenmektedir?",
+    "choices": [
+      { "id": "A", "text": "Topkapı Sarayı Müzesi", "explanation": "Doğru — Hazine dairesinde Kaşıkçı Elması, Has Oda'da kutsal emanetler yer alır." },
+      { "id": "B", "text": "Dolmabahçe Sarayı", "explanation": "Dolmabahçe'nin ünlüleri kristal merdiven ve Atatürk'ün odasıdır." },
+      { "id": "C", "text": "İstanbul Arkeoloji Müzeleri", "explanation": "Arkeoloji Müzesi'nin yıldızı İskender Lahdi'dir." },
+      { "id": "D", "text": "Türk ve İslam Eserleri Müzesi", "explanation": "TİEM, halı ve el yazması koleksiyonuyla ünlüdür." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-014",
+    "topicId": "muzecilik",
+    "subtopic": "Müzeler",
+    "difficulty": 2,
+    "stem": "Türkiye'nin ilk özel müzesi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Sadberk Hanım Müzesi", "explanation": "Doğru — Vehbi Koç Vakfı'nca 1980'de Büyükdere'deki Azaryan Yalısı'nda açıldı." },
+      { "id": "B", "text": "Pera Müzesi", "explanation": "Pera (2005), Suna-İnan Kıraç Vakfı'nındır; ilk değildir." },
+      { "id": "C", "text": "Sakıp Sabancı Müzesi", "explanation": "SSM 2002'de açılmıştır." },
+      { "id": "D", "text": "Rahmi Koç Müzesi", "explanation": "Rahmi Koç (1994), ilk büyük endüstri müzesidir ama ilk özel müze Sadberk Hanım'dır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-015",
+    "topicId": "muzecilik",
+    "subtopic": "Müzeler",
+    "difficulty": 2,
+    "stem": "Osman Hamdi Bey'in 'Kaplumbağa Terbiyecisi' tablosu hangi müzededir?",
+    "choices": [
+      { "id": "A", "text": "Pera Müzesi", "explanation": "Doğru — 2004'te rekor bedelle alınan tablo, Suna-İnan Kıraç koleksiyonunda (Pera) sergilenir." },
+      { "id": "B", "text": "İstanbul Resim Heykel Müzesi", "explanation": "Resim Heykel'de başka Osman Hamdi eserleri vardır; Kaplumbağa Terbiyecisi Pera'dadır." },
+      { "id": "C", "text": "Ankara Resim Heykel", "explanation": "Ankara'da değildir." },
+      { "id": "D", "text": "Louvre", "explanation": "Tablo yurt dışında değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-016",
+    "topicId": "muzecilik",
+    "subtopic": "Müzeler",
+    "difficulty": 2,
+    "stem": "Bilinen en eski doğal boyutlu insan heykeli 'Urfa Adamı' hangi müzededir?",
+    "choices": [
+      { "id": "A", "text": "Şanlıurfa Arkeoloji Müzesi", "explanation": "Doğru — MÖ 9000'lere tarihlenen heykel, Göbeklitepe kültürü sergisinin yıldızıdır." },
+      { "id": "B", "text": "Anadolu Medeniyetleri Müzesi", "explanation": "Ankara'da değildir; buluntu yerinin müzesindedir." },
+      { "id": "C", "text": "Mardin Müzesi", "explanation": "Mardin'de değildir." },
+      { "id": "D", "text": "Gaziantep Arkeoloji Müzesi", "explanation": "Gaziantep'in yıldızı Zeugma mozaikleridir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-017",
+    "topicId": "muzecilik",
+    "subtopic": "Kavramlar",
+    "difficulty": 2,
+    "stem": "Müzelerde flaşlı fotoğraf çekiminin yasaklanmasının temel nedeni aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Yoğun ışığın boya pigmentlerini ve organik malzemeyi bozması", "explanation": "Doğru — UV ve güçlü ışık, tekstil, el yazması ve boyalı yüzeylerde geri dönüşsüz solmaya yol açar." },
+      { "id": "B", "text": "Fotoğrafçılık gelirini korumak", "explanation": "Ticari kaygı değil, koruma gerekçesi esastır." },
+      { "id": "C", "text": "Ziyaretçileri hızlandırmak", "explanation": "Akış yönetimi ayrı bir konudur." },
+      { "id": "D", "text": "Telif hakları", "explanation": "Telif bazı sergilerde gündemdir ama flaş yasağının nedeni koruma-ışık hasarıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-018",
+    "topicId": "muzecilik",
+    "subtopic": "Uluslararası",
+    "difficulty": 2,
+    "stem": "Savaş ve silahlı çatışmalarda kültür varlıklarını koruma amacıyla imzalanan sözleşme ve simgesi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "1954 Lahey Sözleşmesi — Mavi Kalkan", "explanation": "Doğru — korunacak varlıklar mavi kalkan işaretiyle belirlenir." },
+      { "id": "B", "text": "1970 UNESCO — Kızılhaç", "explanation": "Kızılhaç insani yardım simgesidir; 1970 kaçakçılıkla ilgilidir." },
+      { "id": "C", "text": "1972 UNESCO — Zeytin dalı", "explanation": "1972 miras listesi sözleşmesidir; simgesi bu değildir." },
+      { "id": "D", "text": "1995 UNIDROIT — Mavi Bayrak", "explanation": "Mavi Bayrak, temiz plaj sertifikasıdır — bambaşka bir program!" }
+    ],
+    "correct": "A",
+    "trick": "Mavi KALKAN = kültür varlığı koruması; Mavi BAYRAK = temiz plaj. İki 'mavi' çaprazlanır."
+  },
+  {
+    "id": "muzecilik-019",
+    "topicId": "muzecilik",
+    "subtopic": "Müzeler",
+    "difficulty": 2,
+    "stem": "Orhan Pamuk'un aynı adlı romanından doğan ve 2014'te 'Avrupa Yılın Müzesi' seçilen müze aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Masumiyet Müzesi", "explanation": "Doğru — Çukurcuma'daki müze, romanın nesneler dünyasını sergiler; edebiyat-müzecilik ilişkisinin dünyadaki en özgün örneklerindendir." },
+      { "id": "B", "text": "Baksı Müzesi", "explanation": "Baksı (Bayburt), 2014 Avrupa KONSEYİ Müze Ödülü'nü almıştır — iki ödül karıştırılır." },
+      { "id": "C", "text": "İstanbul Modern", "explanation": "İstanbul Modern çağdaş sanat müzesidir." },
+      { "id": "D", "text": "Troya Müzesi", "explanation": "Troya Müzesi 2020'lerde özel övgü almıştır; romanla ilgisi yoktur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-020",
+    "topicId": "muzecilik",
+    "subtopic": "Kavramlar",
+    "difficulty": 2,
+    "stem": "ICOMOS'un görevi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Anıtlar ve sitler konusunda UNESCO'ya danışmanlık yapmak", "explanation": "Doğru — Dünya Mirası adaylık dosyalarını ICOMOS uzmanları değerlendirir." },
+      { "id": "B", "text": "Müzeler arası eser değişimini yönetmek", "explanation": "Müzelerin çatı örgütü ICOM'dur." },
+      { "id": "C", "text": "Turist rehberlerini belgelendirmek", "explanation": "Rehber belgelendirmesi ulusal mevzuatın (6326) işidir; uluslararası federasyon WFTGA'dır." },
+      { "id": "D", "text": "Kazı izinlerini vermek", "explanation": "Türkiye'de kazı izni Kültür ve Turizm Bakanlığı'nındır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-021",
+    "topicId": "muzecilik",
+    "subtopic": "Pratik",
+    "difficulty": 2,
+    "stem": "Yerli ziyaretçilere bir yıl boyunca yüzlerce müze ve ören yerine giriş sağlayan abonelik sistemi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Müzekart", "explanation": "Doğru — Müzekart, DÖSİMM'in yerli ziyaretçi aboneliğidir; turist versiyonu MuseumPass'tır." },
+      { "id": "B", "text": "MuseumPass", "explanation": "MuseumPass yabancı ziyaretçilere dönük süreli pakettir." },
+      { "id": "C", "text": "İstanbulkart", "explanation": "İstanbulkart, toplu taşıma kartıdır." },
+      { "id": "D", "text": "GençKart", "explanation": "Böyle bir müze aboneliği tanımlı değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-022",
+    "topicId": "muzecilik",
+    "subtopic": "Pratik",
+    "difficulty": 3,
+    "stem": "Turunda bir misafirin ören yerinden 'hatıra taşı' almak istediğini gören rehberin doğru davranışı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "2863 kapsamında bunun suç olduğunu açıklayıp engellemek", "explanation": "Doğru — ören yerinden taş-seramik parçası almak dahi kaçakçılık kapsamına girebilir; havalimanında turist ağır yaptırımla karşılaşır." },
+      { "id": "B", "text": "Küçük parçaysa göz yummak", "explanation": "Boyut ayrımı yoktur; rehberin göz yumması mesleki sorumluluk doğurur." },
+      { "id": "C", "text": "Kendisinin almasına yardım etmek", "explanation": "Suça iştirak olur." },
+      { "id": "D", "text": "Sadece fotoğrafını çekmesini söyleyip konuyu kapatmak", "explanation": "Fotoğraf önerisi güzel ama yasal uyarı görevi de yapılmalıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-023",
+    "topicId": "muzecilik",
+    "subtopic": "Müzeler",
+    "difficulty": 2,
+    "stem": "Hitit, Frig ve Urartu koleksiyonlarıyla ünlü, Mahmut Paşa Bedesteni'nde kurulu müze aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Anadolu Medeniyetleri Müzesi", "explanation": "Doğru — 1997'de 'Avrupa'da Yılın Müzesi' seçilmiştir; Ankara Kalesi eteğindedir." },
+      { "id": "B", "text": "Etnografya Müzesi", "explanation": "Etnografya, halk kültürü eserlerini barındırır." },
+      { "id": "C", "text": "Çorum Müzesi", "explanation": "Çorum'da önemli Hitit eserleri vardır ama bedesten tanımı Ankara'yı işaret eder." },
+      { "id": "D", "text": "MTA Tabiat Tarihi Müzesi", "explanation": "MTA, fosil-jeoloji müzesidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-024",
+    "topicId": "muzecilik",
+    "subtopic": "Kavramlar",
+    "difficulty": 3,
+    "stem": "Sit alanı türleri arasında aşağıdakilerden hangisi YER ALMAZ?",
+    "choices": [
+      { "id": "A", "text": "Endüstriyel sit", "explanation": "Doğru cevap bu — 2863'teki sit türleri arkeolojik, kentsel, tarihi ve doğal sittir; 'endüstriyel sit' ayrı bir yasal kategori değildir (endüstri mirası tescili farklı işler)." },
+      { "id": "B", "text": "Arkeolojik sit", "explanation": "Vardır — 1., 2., 3. derece olarak kademelenir." },
+      { "id": "C", "text": "Kentsel sit", "explanation": "Vardır — Safranbolu gibi dokular bu statüdedir." },
+      { "id": "D", "text": "Doğal sit", "explanation": "Vardır — bugün Çevre Bakanlığı'nca yönetilir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-025",
+    "topicId": "muzecilik",
+    "subtopic": "Dünya müzeciliği",
+    "difficulty": 2,
+    "stem": "Devrim sonrasında saray koleksiyonunun halka açılmasıyla 1793'te kurulan müze aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Louvre", "explanation": "Doğru — Fransız Devrimi kraliyet koleksiyonunu 'ulusun malı' ilan ederek Louvre'u açtı." },
+      { "id": "B", "text": "British Museum", "explanation": "British Museum 1753'te bağış koleksiyonuyla kurulmuştur — 'ilk ulusal müze' odur, devrim müzesi Louvre'dur." },
+      { "id": "C", "text": "Ermitaj", "explanation": "Ermitaj, çariçe koleksiyonundan doğmuştur." },
+      { "id": "D", "text": "Prado", "explanation": "Prado 1819'da açılmıştır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-026",
+    "topicId": "muzecilik",
+    "subtopic": "Pratik",
+    "difficulty": 2,
+    "stem": "Müze gezisinde kalabalık grup yöneten rehber için en doğru anlatım tekniği aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Vitrin önünü kapatmadan, akışı tıkamayacak noktada toplanıp kulaklık (whisper) sistemi kullanmak", "explanation": "Doğru — hem diğer ziyaretçilerin hakkı korunur hem grup net duyar; birçok büyük müzede kulaklık zorunludur." },
+      { "id": "B", "text": "Her vitrinin önünde yüksek sesle uzun anlatım yapmak", "explanation": "Akışı tıkar ve ses kirliliği yaratır; müze kurallarına aykırıdır." },
+      { "id": "C", "text": "Grubu serbest bırakıp çıkışta buluşmak", "explanation": "Rehberli tur anlamını yitirir; yönlendirme rehberin görevidir." },
+      { "id": "D", "text": "Eserleri gruba elden dolaştırmak", "explanation": "Esere dokunmak kesinlikle yasaktır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-027",
+    "topicId": "muzecilik",
+    "subtopic": "İadeler",
+    "difficulty": 3,
+    "stem": "Zeugma 'Çingene Kızı' mozaiğinin kayıp parçaları 2018'de nereden iade edilmiştir?",
+    "choices": [
+      { "id": "A", "text": "ABD Bowling Green Eyalet Üniversitesi'nden", "explanation": "Doğru — 1960'larda kaçırılan 12 parça, üniversite kampüsünden alınıp Zeugma Müzesi'nde ana mozaikle buluşturuldu." },
+      { "id": "B", "text": "Louvre'dan", "explanation": "Louvre'un bu mozaikle ilgisi yoktur." },
+      { "id": "C", "text": "Berlin Bergama Müzesi'nden", "explanation": "Berlin'in gündemi Zeus Sunağı'dır." },
+      { "id": "D", "text": "Britanya Müzesi'nden", "explanation": "İade Bowling Green'dendir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-028",
+    "topicId": "muzecilik",
+    "subtopic": "Kavramlar",
+    "difficulty": 2,
+    "stem": "Uluslararası Müzeler Günü hangi tarihte kutlanır?",
+    "choices": [
+      { "id": "A", "text": "18 Mayıs", "explanation": "Doğru — ICOM'un 1977'den beri kutlattığı günde birçok müze ücretsiz/uzun süre açık olur." },
+      { "id": "B", "text": "27 Eylül", "explanation": "27 Eylül, Dünya Turizm Günü'dür." },
+      { "id": "C", "text": "23 Nisan", "explanation": "23 Nisan, Ulusal Egemenlik ve Çocuk Bayramı'dır." },
+      { "id": "D", "text": "5 Haziran", "explanation": "5 Haziran, Dünya Çevre Günü'dür." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-029",
+    "topicId": "muzecilik",
+    "subtopic": "Türk müzeciliği",
+    "difficulty": 3,
+    "stem": "İstanbul Arkeoloji Müzeleri'nin bugünkü ana binası hangi eserlerin sergilenmesi amacıyla inşa edilmiştir?",
+    "choices": [
+      { "id": "A", "text": "Sayda kazısından gelen lahitler (İskender Lahdi ve diğerleri)", "explanation": "Doğru — Osman Hamdi'nin 1887 Sayda buluntuları için 1891'de 'Lahitler Müzesi' olarak açıldı; mimarı Alexandre Vallaury'dir." },
+      { "id": "B", "text": "Truva hazineleri", "explanation": "Truva hazinesi Almanya'ya kaçırılmıştı; bina lahitler içindir." },
+      { "id": "C", "text": "Mısır mumyaları", "explanation": "Mumya koleksiyonu küçüktür; kuruluş amacı değildir." },
+      { "id": "D", "text": "Osmanlı silahları", "explanation": "Silahlar Askeri Müze geleneğine aittir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-030",
+    "topicId": "muzecilik",
+    "subtopic": "Kavramlar",
+    "difficulty": 3,
+    "stem": "Müzecilikte 'envanter' kaydının işlevi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Eserin kimliğini (numara, tanım, ölçü, buluntu yeri) resmi olarak belgelemek", "explanation": "Doğru — envanter, eserin nüfus cüzdanıdır; kaçakçılık davalarında aidiyetin kanıtıdır." },
+      { "id": "B", "text": "Eserin satış fiyatını belirlemek", "explanation": "Devlet müzelerinde eser satışı yoktur." },
+      { "id": "C", "text": "Ziyaretçi sayısını ölçmek", "explanation": "Ziyaretçi istatistiği ayrı bir kayıttır." },
+      { "id": "D", "text": "Sergi bileti üretmek", "explanation": "Biletleme DÖSİMM'in işletme işidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-031",
+    "topicId": "muzecilik",
+    "subtopic": "Müzeler",
+    "difficulty": 2,
+    "stem": "Perge tiyatrosu kökenli heykelleri ve 'Yorgun Herakles' ile ünlü müze aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Antalya Müzesi", "explanation": "Doğru — 'heykel müzesi' olarak da anılan Antalya Müzesi, Perge kazı buluntularının evidir." },
+      { "id": "B", "text": "Side Müzesi", "explanation": "Side Müzesi antik hamamda kurulu küçük bir müzedir." },
+      { "id": "C", "text": "Burdur Müzesi", "explanation": "Burdur, Sagalassos buluntularıyla ünlüdür." },
+      { "id": "D", "text": "Alanya Müzesi", "explanation": "Alanya Müzesi'nin yıldızı tunç Herakles'tir ama Perge koleksiyonu Antalya'dadır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-032",
+    "topicId": "muzecilik",
+    "subtopic": "Mevzuat",
+    "difficulty": 3,
+    "stem": "Türkiye'de bilimsel kazı izni verme yetkisi kime aittir?",
+    "choices": [
+      { "id": "A", "text": "Cumhurbaşkanlığı kararı çerçevesinde Kültür ve Turizm Bakanlığı'na", "explanation": "Doğru — kazılar Bakanlık izni ve denetiminde, bilim kurullarıyla yürütülür; izinsiz kazı ağır suçtur." },
+      { "id": "B", "text": "Üniversite rektörlüklerine", "explanation": "Üniversiteler yürütücü olabilir ama İZİN makamı Bakanlıktır." },
+      { "id": "C", "text": "Belediyelere", "explanation": "Belediyelerin kazı izni yetkisi yoktur." },
+      { "id": "D", "text": "Müze müdürlerine", "explanation": "Müze müdürlükleri kurtarma kazısı yürütür; genel izin Bakanlığındır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-033",
+    "topicId": "muzecilik",
+    "subtopic": "Dünya müzeciliği",
+    "difficulty": 3,
+    "stem": "ICOM Kırmızı Listeleri'nin amacı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kaçakçılık riski altındaki eser kategorilerini yayımlayarak gümrük ve müzayedeleri uyarmak", "explanation": "Doğru — savaş bölgeleri başta olmak üzere risk altındaki tipolojiler listelenir; alım-satımda kırmızı alarm işlevi görür." },
+      { "id": "B", "text": "En değerli 100 eseri sıralamak", "explanation": "Değer sıralaması yapılmaz." },
+      { "id": "C", "text": "Yasaklı müzeleri ilan etmek", "explanation": "Müze kara listesi değildir." },
+      { "id": "D", "text": "Restorasyon hatalarını teşhir etmek", "explanation": "Restorasyon etiği ayrı belgelerle izlenir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-034",
+    "topicId": "muzecilik",
+    "subtopic": "Müzeler",
+    "difficulty": 3,
+    "stem": "2018'de açılan ve 'Avrupa Yılın Müzesi' özel övgüsü alan, kazı alanının hemen yanındaki modern müze aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Troya Müzesi", "explanation": "Doğru — paslanmış korten çeliği kaplı küp bina, Troya kazı alanının girişindedir; UNESCO yılında (kentin listeye girişinin 20. yılı) açıldı." },
+      { "id": "B", "text": "Zeugma Mozaik Müzesi", "explanation": "Zeugma 2011'de açılmıştır." },
+      { "id": "C", "text": "Göbeklitepe Karşılama Merkezi", "explanation": "Karşılama merkezi müze statüsünde değildir; eserler Şanlıurfa Müzesi'ndedir." },
+      { "id": "D", "text": "İzmir Ege Medeniyetleri", "explanation": "Farklı ve daha yeni bir projedir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-035",
+    "topicId": "muzecilik",
+    "subtopic": "Pratik",
+    "difficulty": 2,
+    "stem": "Müze ve ören yerlerinde rehberin kokart (çalışma kartı) taşımasının nedeni aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Yasal rehberlik yetkisinin denetimlerde görünür kanıtı olması", "explanation": "Doğru — belgesiz 'rehberlik' yapanlarla mücadelede kokart kontrolü esastır; denetimi Bakanlık ve TUREB yapar." },
+      { "id": "B", "text": "Müzeye ücretsiz girmek için yeterli olması", "explanation": "Giriş hakları ayrıca tanımlanır; kokartın asıl işlevi yetki kanıtıdır." },
+      { "id": "C", "text": "Turistlerin bahşiş vermesini kolaylaştırması", "explanation": "Bahşişle ilgisi yoktur." },
+      { "id": "D", "text": "Moda aksesuarı olması", "explanation": "Elbette değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-036",
+    "topicId": "muzecilik",
+    "subtopic": "Kavramlar",
+    "difficulty": 3,
+    "stem": "'Sanal müze' uygulamalarının en doğru tanımı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Koleksiyonların dijital ortamda 360° gezilebilir biçimde erişime açılması", "explanation": "Doğru — sanalmuze.gov.tr Türkiye'nin resmi platformudur; pandemi döneminde kültürel erişimin ana kanalı olmuştur." },
+      { "id": "B", "text": "Müzelerin video oyunlarına dönüştürülmesi", "explanation": "Oyunlaştırma araç olabilir ama tanım bu değildir." },
+      { "id": "C", "text": "Replika müze binası inşa edilmesi", "explanation": "Fiziksel kopya, sanal müze değildir." },
+      { "id": "D", "text": "Sadece sosyal medya hesabı açılması", "explanation": "Sosyal medya iletişimdir; sanal müze koleksiyon erişimidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-037",
+    "topicId": "muzecilik",
+    "subtopic": "Türk müzeciliği",
+    "difficulty": 2,
+    "stem": "Mevlana Müzesi'nin yapısal kökeni aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Mevlevi dergâhı (Asitane) ve türbe kompleksi", "explanation": "Doğru — 1926'da müzeye dönüştürülen dergâh, Yeşil Kubbe'siyle Konya'nın simgesidir; en çok ziyaret edilen müzelerimizdendir." },
+      { "id": "B", "text": "Selçuklu sarayı", "explanation": "Saray değil, tekke kompleksidir." },
+      { "id": "C", "text": "Osmanlı medresesi", "explanation": "Karatay gibi medrese-müzelerle karıştırılmasın." },
+      { "id": "D", "text": "Bizans kilisesi", "explanation": "Kilise kökenli değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-038",
+    "topicId": "muzecilik",
+    "subtopic": "Mevzuat",
+    "difficulty": 3,
+    "stem": "Yurt dışına çıkışta turistin çantasında ören yerinden alınmış seramik parçası bulunursa süreç nasıl işler?",
+    "choices": [
+      { "id": "A", "text": "2863 kapsamında kaçakçılık soruşturması açılır; eser müsadere edilir", "explanation": "Doğru — 'hatıra' savunması geçerli değildir; hapis cezasına varan yaptırımlar uygulanabilir. Rehberin önceden uyarması bu yüzden kritiktir." },
+      { "id": "B", "text": "Küçük bir gümrük vergisi alınır", "explanation": "Eski eser vergiyle çıkarılamaz; suçtur." },
+      { "id": "C", "text": "Sadece eser elinden alınır, işlem yapılmaz", "explanation": "El koymayla birlikte adli süreç başlar." },
+      { "id": "D", "text": "Fatura gösterirse sorun olmaz", "explanation": "Gerçek eski eserin satışı da yasa dışıdır; fatura koruma sağlamaz (sertifikalı replika ayrıdır)." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-039",
+    "topicId": "muzecilik",
+    "subtopic": "Müzeler",
+    "difficulty": 3,
+    "stem": "Türk ve İslam Eserleri Müzesi hangi tarihi yapıda hizmet vermektedir?",
+    "choices": [
+      { "id": "A", "text": "İbrahim Paşa Sarayı (Sultanahmet)", "explanation": "Doğru — Kanuni'nin sadrazamı Pargalı İbrahim Paşa'nın sarayı; dünyanın en zengin halı koleksiyonlarından birine ev sahipliği yapar." },
+      { "id": "B", "text": "Yıldız Sarayı", "explanation": "Yıldız, ayrı bir saray-müzedir." },
+      { "id": "C", "text": "Çinili Köşk", "explanation": "Çinili Köşk, Arkeoloji Müzeleri kompleksindedir." },
+      { "id": "D", "text": "Beylerbeyi Sarayı", "explanation": "Beylerbeyi, Boğaz'daki yazlık saraydır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "muzecilik-040",
+    "topicId": "muzecilik",
+    "subtopic": "Kavramlar",
+    "difficulty": 2,
+    "stem": "Müzecilikte 'koleksiyon yönetimi' ile 'sergileme' arasındaki temel fark aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Koleksiyon yönetimi toplama-belgeleme-korumayı, sergileme ise seçilmiş eserlerin yorumlanarak sunumunu kapsar", "explanation": "Doğru — bir müzenin eserlerinin çoğu depodadır; sergi, koleksiyondan yapılan anlatı odaklı seçkidir." },
+      { "id": "B", "text": "İkisi aynı işin iki adıdır", "explanation": "Farklı uzmanlık alanlarıdır (küratörlük ↔ koleksiyon yöneticiliği)." },
+      { "id": "C", "text": "Koleksiyon yönetimi yalnız satın almayı kapsar", "explanation": "Bağış, kazı ve belgeleme de koleksiyon yönetimindedir." },
+      { "id": "D", "text": "Sergileme yalnız depolamayı kapsar", "explanation": "Tam tersi — depolama koleksiyon yönetiminin parçasıdır." }
+    ],
+    "correct": "A"
+  }
+]
