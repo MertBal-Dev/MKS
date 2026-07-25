@@ -4,6 +4,7 @@ import {
   BarChart3,
   BookOpen,
   CalendarRange,
+  History,
   Home,
   Layers,
   ListChecks,
@@ -24,6 +25,7 @@ const PRIMARY = [
 
 const SECONDARY = [
   { to: '/denemeler', label: 'Denemeler', icon: Timer },
+  { to: '/cozduklerim', label: 'Çözdüklerim', icon: History },
   { to: '/yanlis-havuzu', label: 'Yanlış Havuzu', icon: XCircle },
   { to: '/istatistik', label: 'İstatistik', icon: BarChart3 },
   { to: '/plan', label: 'Sprint Planı', icon: CalendarRange },

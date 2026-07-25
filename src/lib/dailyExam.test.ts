@@ -24,12 +24,21 @@ describe('getDailyExam', () => {
     expect(a).not.toBe(b);
   });
 
-  it('konu dağılımı resmi ağırlıkların yarısıdır', () => {
+  it('konu dağılımı resmi ağırlıklarla orantılıdır (toplam tam 50)', () => {
     const counts: Record<string, number> = {};
     for (const q of exam.questions) counts[q.topicId] = (counts[q.topicId] || 0) + 1;
+
+    const totalWeight = TOPIC_IDS.reduce((s, id) => s + TOPICS[id].examWeight, 0);
+    let sum = 0;
     for (const id of TOPIC_IDS) {
-      expect(counts[id] ?? 0, `konu ${id}`).toBe(TOPICS[id].examWeight / 2);
+      const exact = (TOPICS[id].examWeight * 50) / totalWeight;
+      const got = counts[id] ?? 0;
+      // Tam sayıya yuvarlama nedeniyle bir alt ya da bir üst değer kabul edilir
+      expect(got, `konu ${id} (beklenen ~${exact})`).toBeGreaterThanOrEqual(Math.floor(exact));
+      expect(got, `konu ${id} (beklenen ~${exact})`).toBeLessThanOrEqual(Math.ceil(exact));
+      sum += got;
     }
+    expect(sum).toBe(50);
   });
 
   it('sorular tekrarsızdır ve bankadan gelir', () => {

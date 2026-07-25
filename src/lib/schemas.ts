@@ -1,7 +1,11 @@
 import { z } from 'zod';
 import { TOPIC_IDS } from './constants';
 
-export const ChoiceIdSchema = z.enum(['A', 'B', 'C', 'D']);
+/**
+ * Şık kimlikleri. MKS-1 (Şub 2025) ve MKS-2 (Ağu 2025) dört şıklıydı;
+ * MKS-3'te (Mar 2026) sınav BEŞ şıka geçti — bu yüzden E de destekleniyor.
+ */
+export const ChoiceIdSchema = z.enum(['A', 'B', 'C', 'D', 'E']);
 
 export const ChoiceSchema = z.object({
   id: ChoiceIdSchema,
@@ -16,14 +20,14 @@ export const QuestionSchema = z
     subtopic: z.string().min(1),
     difficulty: z.union([z.literal(1), z.literal(2), z.literal(3)]),
     stem: z.string().min(1),
-    choices: z.array(ChoiceSchema).length(4),
+    choices: z.array(ChoiceSchema).min(4).max(5),
     correct: ChoiceIdSchema,
     trick: z.string().min(1).optional(),
   })
   .superRefine((q, ctx) => {
     const order = q.choices.map((c) => c.id).join('');
-    if (order !== 'ABCD') {
-      ctx.addIssue({ code: z.ZodIssueCode.custom, message: `Şıklar A,B,C,D sırasında olmalı (bulunan: ${order})` });
+    if (order !== 'ABCD' && order !== 'ABCDE') {
+      ctx.addIssue({ code: z.ZodIssueCode.custom, message: `Şıklar A..D veya A..E sırasında olmalı (bulunan: ${order})` });
     }
     if (!q.choices.some((c) => c.id === q.correct)) {
       ctx.addIssue({ code: z.ZodIssueCode.custom, message: `correct=${q.correct} şıklar arasında yok` });

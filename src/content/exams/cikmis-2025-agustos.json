@@ -1,0 +1,3008 @@
+{
+ "id": "cikmis-2025-agustos",
+ "title": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+ "kind": "cikmis",
+ "note": "Gerçek oturum • 100 soru • 4 şıklı. Kaynak: trkutuphane.com ücretsiz test arşivi. Çözümler için AI Hoca butonunu kullan.",
+ "questions": [
+  {
+   "id": "cikmis-2025-agustos-001",
+   "topicId": "halk-bilimi-edebiyat",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Aşağıdaki Antik Yunan destanlarından hangisinde, Troya Savaşı'nın son yılındaki 51 günlük süreç ve olaylar konu edilmektedir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Odysseia",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Aethiopis",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Theogonia",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "İlyada",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-002",
+   "topicId": "turizm-cografyasi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Türkiye’de jeotermal enerji santrali kurulumlarının yoğunlaştığı ve jeotermal potansiyelinin en yüksek olduğu coğrafi bölge aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Marmara Bölgesi",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Ege Bölgesi",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Doğu Anadolu Bölgesi",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "İç Anadolu Bölgesi",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-003",
+   "topicId": "genel-turk-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "**Sınavda hatalı çıkmış, düzeltilmiş soru** Aşağıdaki Türk devletlerinden hangisi merkezi Anadolu topraklarında olacak şekilde kurulmamıştır?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Danişmentliler",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Anadolu Selçuklu Devleti",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Karahanlılar",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Artuklular",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-004",
+   "topicId": "roma-yunan-bizans",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Antik kentlerde, genellikle agoraların çevresinde bulunan, yağmur ve güneşten korunmayı sağlayan, üstü kapalı ve önü sütunlu (revaklı) yürüyüş yollarına ne ad verilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Stoa",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Bouleuterion",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Propylon",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Peristil",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-005",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "George Doxey tarafından geliştirilen 'Tolerans Modeli'ne (Irridex) göre; turist sayısının artışıyla beraber yerel halkın turistlere karşı kanıksama ve umursamazlık göstermeye başladığı evredeki davranışı aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Turistlere düşmanca davranırlar.",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Turistlerle ticari ilişki kurmaya başlarlar.",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Turistleri sevinçle karşılarlar.",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Turistlere karşı ilgisiz davranırlar.",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-006",
+   "topicId": "osmanli-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Osmanlı tarihinde, 1402 Ankara Savaşı sonrası yaşanan ve 'Fetret Devri' olarak adlandırılan otorite boşluğu dönemi, hangi padişahın Timur'a esir düşmesiyle başlamıştır?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "I. Murat",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "II. Osman",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Yıldırım Bayezid",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "I. Mehmet",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-007",
+   "topicId": "turizm-cografyasi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Sadece Van Gölü havzasında yaşayan ve üreme döneminde tatlı sulara göç etmesiyle bilinen endemik balık türü aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Pullu Sazan",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Gökkuşağı Alabalığı",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Yayın Balığı",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "İnci Kefali",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-008",
+   "topicId": "roma-yunan-bizans",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Roma İmparatoru Hadrianus'un şehri ziyareti onuruna inşa edilen ve halk arasında 'Üç Kapılar' olarak da bilinen Hadrianus Kapısı, aşağıdaki illerimizin hangisinde bulunmaktadır?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "İstanbul",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Edirne",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Antalya",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "İzmir",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-009",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "I. Kalp, II. Akciğer, III. Damarlar, IV. Kan, V. Yutak. Yukarıdakilerden hangileri, insan vücudundaki 'Dolaşım Sistemi'ni oluşturan temel yapı ve organlardandır?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "I, II ve III",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "II, III ve IV",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "I, III ve IV",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "I, IV ve V",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-010",
+   "topicId": "roma-yunan-bizans",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Bizans İmparatoru Valens tarafından İstanbul'un su ihtiyacını karşılamak amacıyla yaptırılan ve günümüzde 'Bozdoğan Kemeri' olarak bilinen yapının orijinal (Latince) tür adı nedir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Cisterna",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Forum",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Aqueduct",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Hippodrome",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-011",
+   "topicId": "muzecilik",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu'na göre, aşağıdakilerden hangisi 'taşınmaz kültür varlığı' statüsünde değerlendirilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Heykel",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Akropol",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Sikke",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "El yazması eserler",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-012",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Bir turistin, gerçekleştirdiği seyahatten elde ettiği faydalar ile katlandığı seyahat maliyetini karşılaştırdığı genel değerlendirme süreci, pazarlama literatüründe aşağıdakilerden hangisiyle ifade edilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Müşteri yaşam değeri",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Müşteri değeri",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Müşteri tatmini",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Müşteri sadakati",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-013",
+   "topicId": "sanat-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Antik Yunan mimarisinde, sütun başlığı yerine kullanılarak üst yapıyı (arşitravı) taşıyan kadın heykellerine ne ad verilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Atlant",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Korint",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Karyatid",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Dor",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-014",
+   "topicId": "arkeoloji-mitoloji",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Aşağıdaki 'Uygarlık - Baş Tanrı/Tanrıça' eşleştirmelerinden hangisi yanlış verilmiştir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Urartu - Haldi",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Frigya - Kybele",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Hitit - Teişeba",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Lidya - Kubaba",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-015",
+   "topicId": "anadolu-medeniyetleri",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Kaynağını Sivas'taki Kızıldağ’dan alan ve Samsun'un Bafra ilçesinden Karadeniz'e dökülen Türkiye'nin en uzun nehirlerinden biri hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Yeşilırmak",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Kızılırmak",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Çoruh Nehri",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Sakarya Nehri",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-016",
+   "topicId": "osmanli-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Osmanlı İmparatorluğu'nda şehzadelerin sünnet düğünlerini veya hanımsultanların evlilik törenlerini ve bu sırada düzenlenen şenlikleri tasvir eden resimli eserlere ne ad verilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Surname",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Siyer-i Nebi",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Hamse",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Şehname",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-017",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Aşağıdakilerden hangisi, konusunu daha çok kahramanlık mücadelelerinden ve epik olaylardan alan Türk Halk Hikâyelerine örnek olarak gösterilebilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Tahir ile Zühre",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Köroğlu",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Kerem ile Aslı",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Arzu ile Kamber",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-018",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Antik Dünyanın Yedi Harikası'ndan biri olarak kabul edilen 'Babil’in Asma Bahçeleri', günümüz siyasi haritasına göre hangi ülke sınırları içerisinde yer almaktadır?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "İran",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Irak",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Suriye",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Ürdün",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-019",
+   "topicId": "anadolu-medeniyetleri",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Taban suyunun yükselmesiyle oluşan ve 'Su basar ormanları' olarak da bilinen, Avrupa'nın en büyük longoz ekosistemine sahip 'İğneada Longoz Ormanları' aşağıdaki illerimizden hangisinin sınırları içerisinde bulunmaktadır?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Kırklareli",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Artvin",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Sakarya",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Mersin",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-020",
+   "topicId": "arkeoloji-mitoloji",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Urartu Krallığı'nın panteonunda 'Baş Tanrı' olarak kabul edilen ve genellikle bir aslan üzerinde betimlenen tanrı aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Haldi",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Teişeba",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Şivini",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Ahura Mazda",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-021",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Aşağıdakilerden hangisi, insan vücudunun işleyişini sağlayan temel biyolojik sistemlerden biri değildir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Düşünme sistemi",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Dolaşım sistemi",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Sindirim sistemi",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Boşaltım sistemi",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-022",
+   "topicId": "muzecilik",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "**Sınavda hatalı çıkmış, düzeltilmiş soru** 2863 Sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu’na göre, aşağıdakilerden hangisi temel 'SİT Alanı' kategorileri arasında yer almaz?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Arkeolojik SİT",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Ticari SİT",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Kentsel SİT",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Doğal SİT",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-023",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Makedonya Kralı Büyük İskender'in hocalığını yapmış olan ve Batı düşünce tarihinin en önemli isimlerinden biri sayılan filozof aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Sokrates",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Platon",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Aristoteles",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Demokritos",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-024",
+   "topicId": "muzecilik",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "İskender Lahdi'nin Sayda (Sidon) kazılarından çıkarılarak İstanbul'a getirilmesini sağlayan, 'Kaplumbağa Terbiyecisi' tablosunun ressamı ve Türk müzeciliğinin kurucusu kabul edilen isim kimdir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Halil Ethem Bey",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Osman Hamdi Bey",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Ahmet Fethi Paşa",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Şeker Ahmet Paşa",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-025",
+   "topicId": "genel-turk-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Türk adını taşıyan ilk devlet olan I. Göktürk Devleti’nin kurucusu aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "İlteriş Kağan",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Bilge Kağan",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Mukan Kağan",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Bumin Kağan",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-026",
+   "topicId": "osmanli-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Selçuklu taş işçiliği, Osmanlı çini sanatı ve İran estetiğinin bir sentezi olarak inşa edilen ve yapımı 1784 yılında tamamlanan saray aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Beylerbeyi Sarayı",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Topkapı Sarayı",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Yıldız Sarayı",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "İshak Paşa Sarayı",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-027",
+   "topicId": "turizm-cografyasi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Aşağıdaki kuş türlerinden hangisi, Türkiye'nin üzerinden geçen göç yolları üzerinde görülmesi beklenen veya Türkiye'nin doğal faunasına ait bir tür değildir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Leylek",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Turna",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Tukan",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Üveyik",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-028",
+   "topicId": "dinler-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Hristiyanlık inancında, Tanrı'nın 'Baba, Oğul ve Kutsal Ruh' olmak üzere üçlü bir tabiatta tezahür ettiğini savunan doktrine ne ad verilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Vaftiz",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Efkaristiya",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Teslis",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Konfirmasyon",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-029",
+   "topicId": "arkeoloji-mitoloji",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "UNESCO Dünya Mirası Geçici Listesi'nde yer alan, Lidya Krallığı'na başkentlik yapmış olması ve 'Bintepeler' tümülüsleri ile bilinen antik kentimiz aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Gordion",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Sardes ve Bintepeler",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Efes",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Afrodisias",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-030",
+   "topicId": "halk-bilimi-edebiyat",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Zonguldak-Ankara karayolu üzerinde yer alan, yaklaşık 3.350 metrelik uzunluğuyla Türkiye'nin en uzun mağaralarından biri kabul edilen ve içerisinden aktif bir yeraltı nehri geçen turistik mağara aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Dupnisa Mağarası",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Damlataş Mağarası",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Karain Mağarası",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Gökgöl Mağarası",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-031",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Kişinin satın alma gücü ve isteği olduğu halde; sunulan olanaklar, destinasyon veya faaliyetler hakkında yeterli bilgiye sahip olmaması nedeniyle gerçekleşmeyen turizm talebi aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Ertelenmiş talep",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Potansiyel talep",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Efektif talep",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Pasif talep",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-032",
+   "topicId": "arkeoloji-mitoloji",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Efsanelere konu olan ve kimsenin çözemediği 'Kördüğüm'ü bir kılıç darbesiyle çözdüğü (veya kestiği) rivayet edilen, ancak aslında tarım aracı saban ile ilgili bir düğümü simgeleyen efsanedeki Frig kralı/figürü kimdir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Midas",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Gyges",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Gordios",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Tantalos",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-033",
+   "topicId": "turizm-cografyasi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Karadeniz Bölgesi'nde yer alan ve 3937 metreye ulaşan zirvesiyle dağcılık, buzul tırmanışı ve doğa sporları için elverişli olan Milli Park aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Altındere Vadisi Milli Parkı",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Hatila Vadisi Milli Parkı",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Kaçkar Dağları Milli Parkı",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Ilgaz Dağı Milli Parkı",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-034",
+   "topicId": "roma-yunan-bizans",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Antik Yunan ve Roma şehirlerinde, şehir meclisinin toplandığı ve kentin idari kararlarının alındığı kapalı meclis binalarına ne ad verilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Bouleuterion",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Odeon",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Agora",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Gymnasium",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-035",
+   "topicId": "roma-yunan-bizans",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Büyük İskender’in ölümünden sonra imparatorluğun parçalanmasıyla, komutanlarından I. Seleukos tarafından kurulan ve merkezi Antakya olan krallık aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Ptolemaios Krallığı",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Pergamon Krallığı",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Seleukos Krallığı",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Bitinya Krallığı",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-036",
+   "topicId": "muzecilik",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Tarihte bilinen ilk yazılı barış antlaşması olma özelliği taşıyan Kadeş Antlaşması'nın kil tabletten oluşan orijinal nüshası, aşağıdaki müzelerin hangisinde sergilenmektedir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Kahire Müzesi",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "British Museum",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "İstanbul Arkeoloji Müzesi",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Louvre Müzesi",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-037",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Sürekli ikamet ettiği yerden ayrılarak, gittiği yerde en az 24 saat, en fazla 1 yıl kalarak turistik mal ve hizmetleri tüketen kişi, turizm tanımlarında nasıl ifade edilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Günübirlikçi",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Turist",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Ziyaretçi",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Göçmen",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-038",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Turist tipolojilerini psikografik özelliklerine göre sınıflandırarak 'İçe Dönük (Allocentric)', 'Dışa Dönük (Psychocentric)' ve 'Orta Merkezli (Midcentric)' kavramlarını geliştiren bilim insanı kimdir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Erik Cohen",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Stanley Plog",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Valene Smith",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "John Urry",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-039",
+   "topicId": "dinler-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Bizans İmparatorluğu döneminde, Hristiyanlık tarihinin I. Ekümenik Konsili'ne ev sahipliği yapan şehir aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Konstantinopolis",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Nikea",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Efes",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Trabzon",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-040",
+   "topicId": "anadolu-medeniyetleri",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Asur Ticaret Kolonileri Çağı'nda, Anadolu'daki yerel krallıkların yakınında kurulan uluslararası ticaret merkezlerine veya pazar yerlerine verilen ad aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Wabartum",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Karum",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Ziggurat",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Höyük",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-041",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Aşağıdakilerden hangisi, yerel kalkınmayı ve yaşam kalitesini artırmayı hedefleyen uluslararası 'Cittaslow' (Sakin Şehir) ağına üye olan Türkiye'deki yerleşim yerlerinden biri değildir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Halfeti (Şanlıurfa)",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Hemşin (Rize)",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Şavşat (Artvin)",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Yenipazar (Aydın)",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-042",
+   "topicId": "dinler-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Sanat tarihinin en bilinen eserlerinden biri olan ve Milano'daki Santa Maria delle Grazie Kilisesi'nde bulunan 'Son Akşam Yemeği' freskinin yaratıcısı kimdir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Michelangelo",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Leonardo da Vinci",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Vincent Van Gogh",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Salvador Dali",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-043",
+   "topicId": "genel-turk-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "'Üstte mavi gök çökmedikçe, altta yağız yer delinmedikçe, Türk milleti, senin ilini, senin töreni kim bozabilir?' ifadesinin yer aldığı Türk tarihinin en eski yazılı belgelerinden biri aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Orhun Yazıtları",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Şine-Usu Yazıtı",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Karabalgasun Yazıtı",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Yenisey Yazıtları",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-044",
+   "topicId": "ilk-yardim",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Rönesans döneminin başyapıtlarından biri kabul edilen ve Floransa'da sergilenen dünyaca ünlü 'Davut (David) Heykeli' hangi sanatçıya aittir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Donatello",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Bernini",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Michelangelo",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Raphael",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-045",
+   "topicId": "dinler-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Camilerde, Cuma ve bayram namazlarında hatibin üzerine çıkarak hutbe okuduğu merdivenli mimari öğeye ne ad verilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Mihrap",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Vaaz Kürsüsü",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Minber",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Müezzin Mahfili",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-046",
+   "topicId": "turizm-cografyasi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Türkiye'nin en büyük mağaralarından biri olan ve 3 milyon yıllık oluşum geçmişine sahip Oylat Mağarası, hangi ilimiz sınırları içerisindedir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Balıkesir",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Antalya",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Bursa",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Konya",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-047",
+   "topicId": "anadolu-medeniyetleri",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "İnsanlık tarihinde 'Neanderthal' (Homo neanderthalensis) insan türünün varlık gösterdiği tarih öncesi dönem aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Neolitik Çağ",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Orta Paleolitik Çağ",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Mezolitik Çağ",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Kalkolitik Çağ",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-048",
+   "topicId": "muzecilik",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Anadolu'dan yasa dışı yollarla yurt dışına götürülen ve günümüzde Almanya'da sergilenen 'Milet Agora Kapısı', hangi müzede yer almaktadır?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Pergamon Müzesi (Berlin)",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "British Museum (Londra)",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Louvre Müzesi (Paris)",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Metropolitan Müzesi (New York)",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-049",
+   "topicId": "roma-yunan-bizans",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Roma İmparatoru Jül Sezar’ın (Julius Caesar), Pontus Kralı II. Pharnakes'e karşı kazandığı zaferin ardından ünlü “Veni, vidi, vici” (Geldim, gördüm, yendim) sözünü söylediği yer aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Zela (Tokat)",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Roma (İtalya)",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Efes (İzmir)",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "İskenderiye (Mısır)",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-050",
+   "topicId": "halk-bilimi-edebiyat",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "I. İkiztepe - Samsun, II. Arslantepe - Malatya, III. Küllüoba - Eskişehir, IV. Alacahöyük - Çorum, V. Aşıklı Höyük - Aksaray. Yukarıdaki höyük ve bulunduğu şehir eşleştirmelerinden hangileri doğrudur?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "I, II ve III",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "I, IV ve V",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "III, IV ve V",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "I, II, III, IV ve V",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-051",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Eski Türk inanç sisteminde ve bazı Budist metinlerde sıkça geçen, ölümden sonra gidilen kötü yeri ifade eden 'Tamu' kavramının günümüzdeki karşılığı aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Cennet",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Cehennem",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Araf",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Mezar",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-052",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "İletişim sürecinde, alıcı üzerinde bırakılan 'ilk izlenim'de en yüksek etkiye sahip olan unsur aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Kullanılan kelimeler",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Ses tonu",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Fiziksel görünüş",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Konuşma hızı",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-053",
+   "topicId": "dinler-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Aşağıda verilen şehir ve bu şehirde bulunan inanç merkezi eşleştirmelerinden hangisi doğrudur?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Deyrulzafaran Manastırı - Van",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Akdamar Kilisesi - Ağrı",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Surp Giragos Kilisesi - Diyarbakır",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Mor Gabriel Manastırı - Antakya",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-054",
+   "topicId": "turizm-cografyasi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Türkiye, bitki coğrafyası ve floristik bölgeler bakımından aşağıdaki flora alemlerinden hangisinin sınırları içerisinde yer almaktadır?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Neotropikal",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Paleotropikal",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Holarktik",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Kapensis",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-055",
+   "topicId": "halk-bilimi-edebiyat",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Geleneksel 'Mesir Macunu Şenlikleri', aşağıdaki illerimizden hangisiyle özdeşleşmiş ve UNESCO Somut Olmayan Kültürel Miras Listesi'ne girmiş bir kutlamadır?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "İzmir",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Manisa",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Aydın",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Muğla",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-056",
+   "topicId": "anadolu-medeniyetleri",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Tarihte 'parayı icat ederek' takas usulüne son veren ve ticarette büyük bir devrim yaratan Anadolu uygarlığı aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Frigler",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "İyonlar",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Urartular",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Lidyalılar",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-057",
+   "topicId": "arkeoloji-mitoloji",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Türkiye'nin UNESCO Dünya Miras Listesi’nde hem 'Doğal' hem de 'Kültürel' (Karma) miras kategorisinde yer alan varlığı aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Troya",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Pamukkale",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Efes",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Göbeklitepe",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-058",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Phokaia (Foça), Pitane (Çandarlı) ve Erythrai (Ildırı) gibi antik kentlerde önemli kazılar gerçekleştirmiş olan ve 'Anadolu Uygarlıkları' adlı eseriyle tanınan duayen arkeolog kimdir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Halet Çambel",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Jale İnan",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Ekrem Akurgal",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Kenan Erim",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-059",
+   "topicId": "turizm-cografyasi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Türkiye'nin yer şekillerinin oluşumunda etkili olan faktörlerden hangisi, kaynağını magmadan alan 'iç kuvvetler' grubunda yer almaz?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Orojenez (Dağ oluşumu)",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Akarsular",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Epirojenez (Kıta oluşumu)",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Volkanizma",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-060",
+   "topicId": "muzecilik",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Zeugma Antik Kenti kazılarında ortaya çıkarılan ve bakışlarındaki ifadeyle dikkat çeken ünlü 'Çingene Kızı' mozaiği, günümüzde hangi müzede sergilenmektedir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Hatay Arkeoloji Müzesi",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Şanlıurfa Müzesi",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Antalya Müzesi",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Gaziantep Zeugma Mozaik Müzesi",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-061",
+   "topicId": "halk-bilimi-edebiyat",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Aşağıdakilerden hangisi, konusu ve oluşumu itibarıyla İslamiyet öncesi döneme ait bir Türk destanıdır?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Battal Gazi Destanı",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Bozkurt Destanı",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Danişmendname",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Saltukname",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-062",
+   "topicId": "turizm-cografyasi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "**Sınavda hatalı çıkmış, düzeltilmiş soru** Aşağıda verilen dağ ve bulunduğu il eşleştirmelerinden hangisi, Türkiye'nin volkanik kökenli dağlarından biridir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Kaçkar Dağları - Rize",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Yıldız Dağları - Kırklareli",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Küre Dağları - Kastamonu",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Nemrut Dağı - Bitlis",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-063",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "6326 sayılı Turist Rehberliği Meslek Kanunu'na göre, aşağıdakilerden hangisi turist rehberinin görev ve sorumluluklarından biri değildir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Tur programını yönetmek",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Turistlere doğru bilgi aktarmak",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Turistlerin vize ve pasaport işlemlerini bizzat yapmak",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Tur sonu raporlarını hazırlamak",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-064",
+   "topicId": "arkeoloji-mitoloji",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Lidya Kralı Alyattes'e ait olduğu düşünülen ve 'Anadolu'daki en büyük tümülüs' olma özelliğini taşıyan anıt mezar aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Gordion Tümülüsü",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Bintepeler Tümülüsü",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Nemrut Tümülüsü",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Belevi Anıt Mezarı",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-065",
+   "topicId": "roma-yunan-bizans",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Sınırları içerisinde 2000'den fazla mezar barındıran geniş nekropolü ve antik dünyada 'Cehennem Kapısı' sayılan Plutonium'u ile ünlü, UNESCO listesindeki antik kent hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Laodikeia",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Afrodisias",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Hierapolis",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Sardes",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-066",
+   "topicId": "roma-yunan-bizans",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Antik Yunanistan'da, kendi yasaları ve yönetim biçimi olan bağımsız şehir devletlerine verilen ad aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Akropol",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Asty",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Polis",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Dem",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-067",
+   "topicId": "halk-bilimi-edebiyat",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Persler tarafından inşa edilen, Susa’dan başlayıp Anadolu'yu geçerek Sardes’e (Manisa) kadar uzanan tarihi ticaret ve haberleşme yolu aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "İpek Yolu",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Baharat Yolu",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Kral Yolu",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Kürk Yolu",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-068",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Eski Türklerde, ölen bir savaşçının hayattayken öldürdüğü düşman sayısını simgelemek amacıyla mezarının (kurgan) etrafına dikilen taşlara ne ad verilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Bengütaş",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Balbal",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Stupa",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Ongun",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-069",
+   "topicId": "halk-bilimi-edebiyat",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Türk Halk Kültüründe, sanatçının aksesuarlar (mendil, sopa vb.) kullanarak ve taklit yeteneğine dayanarak hikâyeler anlattığı geleneksel tiyatro türü aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Karagöz",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Orta Oyunu",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Meddah",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Köy Seyirlik Oyunları",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-070",
+   "topicId": "roma-yunan-bizans",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Yunan mitolojisinde; avcılığın, vahşi doğanın, ayın ve doğumun tanrıçası olarak bilinen figür aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Afrodit",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Artemis",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Hera",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Athena",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-071",
+   "topicId": "halk-bilimi-edebiyat",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Aşağıdaki eserlerden hangisi, UNESCO Dünya Kültür Mirası Listesi'nde yer alan 'Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri' seri adaylığı kapsamında koruma altına alınan yapılardan biridir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Bursa Ulu Camii",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Edirne Selimiye Camii",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Ankara Ahi Şerafettin Camii",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "İstanbul Süleymaniye Camii",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-072",
+   "topicId": "osmanli-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Klasik dönem Osmanlı çini sanatında (özellikle 16. yüzyıl İznik çinilerinde) en sık kullanılan ve dönemin karakteristik özelliğini yansıtan renk grubu aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Sadece siyah ve beyaz",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Sarı ve kahverengi tonları",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Mor ve pembe tonları",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Mercan kırmızısı, turkuaz ve kobalt mavisi",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-073",
+   "topicId": "anadolu-medeniyetleri",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Geç Hitit Krallıklarından biri olan Gurgum Krallığı, günümüz Türkiye haritasında hangi ilimiz ve çevresinde hüküm sürmüştür?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Gaziantep",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Kahramanmaraş",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Malatya",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Adana",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-074",
+   "topicId": "halk-bilimi-edebiyat",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Geleneksel kitap süsleme sanatında, perspektif ve ışık-gölge kurallarına bağlı kalmadan, kendine has boyama teknikleriyle yapılan küçük boyutlu resimlere ne ad verilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Tezhip",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Hat",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Çini",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Minyatür",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-075",
+   "topicId": "sanat-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Antik Dünyanın Yedi Harikası'ndan biri kabul edilen ve ünlü heykeltıraş Phidias tarafından yapılan Zeus Heykeli, antik dönemde hangi şehirde bulunmaktaydı?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Atina",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Rodos",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Halikarnas",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Olympia",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-076",
+   "topicId": "turizm-cografyasi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Kapadokya bölgesindeki Peri Bacaları'nın oluşumunda etkili olan temel dış kuvvetler aşağıdakilerin hangisinde doğru verilmiştir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Buzul aşındırması",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Dalga aşındırması",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Akarsu aşındırması ve Rüzgar",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Yeraltı suları",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-077",
+   "topicId": "roma-yunan-bizans",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "M.Ö. 5. yüzyılda Atina ve Sparta arasında gerçekleşen Peloponnes Savaşları'nı tarafsız bir gözlemle kaleme alarak 'Bilimsel Tarihçiliğin' kurucusu sayılan tarihçi kimdir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Thukydides",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Herodot",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Ksenofon",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Homeros",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-078",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Hz. Muhammed'in Mekke'den Medine'ye göçü (Hicret) ile ilgili aşağıdaki ifadelerden hangileri doğrudur? I. Hicret olayı, Hicri takvimin başlangıcı kabul edilir. II. Mescid-i Nebevi hicretten sonra inşa edilmiştir. III. Hz. Muhammed hicreti sadece kendi ailesi için yapmıştır.",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Yalnız I",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "I ve II",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "II ve III",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "I, II ve III",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-079",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Aşağıdakilerden hangisi, bir turist rehberinin meslek etiğine aykırı davranışlarından biri olarak kabul edilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Turistlere yerel kültürü tanıtmak",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Tur programına sadık kalmak",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Grup güvenliğini sağlamak",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Kendi siyasi veya dini görüşlerini genel geçer doğru gibi empoze etmek",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-080",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "UNESCO Dünya Miras Listesi'nde yer alan Pamukkale-Hierapolis, listeye hangi temel kriterleri nedeniyle dahil edilmiştir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Travertenlerin oluşturduğu görsel güzellik ve jeolojik önem",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Sadece Hierapolis antik kentinin varlığı",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Termal suların sağlık turizmindeki yeri",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Bölgedeki endemik bitki türleri",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-081",
+   "topicId": "muzecilik",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Uluslararası turizm istatistiklerine göre, turistlerin seyahat bütçelerinde en büyük payı oluşturan harcama kalemi genellikle aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Yeme-içme",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Hediyelik eşya",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Konaklama",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Müze giriş ücretleri",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-082",
+   "topicId": "halk-bilimi-edebiyat",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Trakya ve Güney Marmara yöresine özgü, oyuncuların birbirine tutunmadan, karşılıklı ve ritmik hareketlerle oynadıkları halk oyunu türü aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Halay",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Horon",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Karşılama",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Bar",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-083",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Bir destinasyondaki yerel halkın, turist yoğunluğuna ve turizmin yarattığı olumsuz etkilere karşı gösterebileceği 'tahammül sınırı' kavramı, turizm literatüründe aşağıdakilerden hangisiyle açıklanır?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Fiziksel Taşıma Kapasitesi",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Sosyal ve Kültürel Taşıma Kapasitesi",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Ekonomik Taşıma Kapasitesi",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Ekolojik Taşıma Kapasitesi",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-084",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Bir rehberin, tur sırasında meydana gelen beklenmedik bir sorunu yok saymak yerine kabul edip çözüm yolları araması, kriz yönetiminin hangi aşamasını ifade eder?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Krize hazırlık",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Krizi önleme",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Sorunu tanıma ve kabul etme",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Kriz sonrası değerlendirme",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-085",
+   "topicId": "genel-turk-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Termal sular, çamur ve gazların; banyo, içme ve soluma (inhalasyon) yoluyla tedavi amaçlı kullanıldığı yöntemlerin geneline ne ad verilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Balneoterapi",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Fitoterapi",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Talassoterapi",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Aromaterapi",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-086",
+   "topicId": "turizm-cografyasi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Aşağıdakilerden hangisi, Türkiye ormanlarında yaygın olarak görülen iğne yapraklı ağaç türlerinden biri değildir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Doğu Kayını",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Lübnan Sediri",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Karaçam",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Göknar",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-087",
+   "topicId": "dinler-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "I. Smyrna (İzmir), II. Efes (Ephesos), III. Laodikeia, IV. Thyateira (Akhisar). Yeni Ahit'te (İncil) adı geçen ve Hristiyanlıkça kutsal sayılan '7 Kilise'den hangileri yukarıdaki antik kentlerde yer alır?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "I ve II",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "I, II ve III",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "III ve IV",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "I, II, III ve IV",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-088",
+   "topicId": "arkeoloji-mitoloji",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "İslamiyet öncesi Arap Yarımadası'ndaki 'Cahiliye Dönemi'nde, toplumsal yapıyı ve düzeni ayakta tutan en güçlü unsur aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Merkezi devlet otoritesi",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Yazılı hukuk kuralları",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Tek tanrı inancı",
+     "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Kabile asabiyeti ve dayanışması",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "id": "cikmis-2025-agustos-089",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "I. Göz, II. El, III. Ayak, IV. Ağız. İletişimde 'mimik' hareketlerinin oluşumunda, yukarıdaki organlardan hangileri doğrudan etkilidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "I ve IV",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "I, II ve III",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "II ve III",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "III ve IV",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-090",
+   "topicId": "osmanli-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Osmanlı Devleti’nin kuruluş döneminde, Bizans'tan alınan ve Türklerin Rumeli'ye geçişinde askeri üs olarak kullanılan ilk kale hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Karacahisar Kalesi",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "İznik Kalesi",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Çimpe Kalesi",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Bursa Kalesi",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-091",
+   "topicId": "genel-turk-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Anadolu Selçuklu dönemine (13. yy) ait olan ve 'Anadolu'nun ilk kervansarayı' olarak kabul edilen 'Alay Han', günümüzde hangi ilimizin sınırları içerisindedir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Aksaray",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Kayseri",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Konya",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Sivas",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-092",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Katılan kişi sayısının çokluğu ve standartlaştırılmış paket turlarla karakterize edilen turizm çeşidi aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Alternatif Turizm",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Kitle Turizmi",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Eko Turizm",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Butik Turizm",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-093",
+   "topicId": "osmanli-tarihi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "**Sınavda hatalı çıkmış, düzeltilmiş soru** Osmanlı Devleti’nin Bağdat Demiryolu imtiyaz sözleşmesine göre Alman şirketine verilen ayrıcalıklardan biri aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Hattın her iki yanında belirli mesafedeki madenleri işletme hakkı",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Osmanlı posta teşkilatını kurma ve yönetme yetkisi",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Bölgedeki askeri birlikleri denetleme ve örgütleme hakkı",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Osmanlı gümrük gelirlerini toplama, varlıkları planlama hakkı",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "id": "cikmis-2025-agustos-094",
+   "topicId": "muzecilik",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Bizans tarihinde 8. ve 9. yüzyıllarda yaşanan, kiliselerdeki kutsal tasvirlerin yasaklandığı ve tahrip edildiği döneme tarih literatüründe ne ad verilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Helenistik Dönem",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "İkonoklazm Dönemi",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Skolastik Dönem",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Rönesans",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-095",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Bir turist rehberinin, turistin duygu ve düşüncelerini anlayarak olaylara onun penceresinden bakabilme yeteneği aşağıdaki kavramlardan hangisiyle ifade edilir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Sempati",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Empati",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Antipati",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Telepati",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-096",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Tüketiciye, bir konaklama tesisinde yılda belirli bir süre (genellikle 1 hafta) kullanım hakkı sağlayan ve mülkiyet hakkı da içerebilen sözleşme veya sistem türü hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Paket Tur",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Devre Tatil / Devre Mülk",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Pansiyon Sözleşmesi",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Acente Sözleşmesi",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-097",
+   "topicId": "turizm-cografyasi",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Aşağıdaki coğrafi bölgelerden hangisi, tarih boyunca Türklerin ana yurdu veya yerleşim alanı olarak kabul edilmemiştir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Ötüken ve çevresi",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Hazar Denizi çevresi",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Batı Avrupa",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Altay Dağları",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-098",
+   "topicId": "anadolu-medeniyetleri",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Hitit İmparatorluğu'na başkentlik yapmış olan ve UNESCO Dünya Mirası Listesi'nde yer alan Hattuşa antik kenti, günümüzde hangi ilimizin sınırları içerisindedir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Yozgat",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Çorum",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "C",
+     "text": "Amasya",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Tokat",
+     "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "id": "cikmis-2025-agustos-099",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Bireylerin günlük yaşamın stresinden, rutininden uzaklaşmak ve farklı yerler görerek yenilenmek amacıyla seyahat etme isteği, turizm motivasyonunun hangi boyutuyla açıklanır?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Ekonomik",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "B",
+     "text": "Fiziksel",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Psikolojik",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "D",
+     "text": "Statü",
+     "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "id": "cikmis-2025-agustos-100",
+   "topicId": "genel-turizm",
+   "subtopic": "10 Ağustos 2025 (MKS-2)",
+   "difficulty": 2,
+   "stem": "Seyahat edeceği destinasyonu seçerken o yerin 'marka değerini', 'imajını' ve kendisine katacağı 'sosyal statüyü' ön planda tutan turist tipi aşağıdakilerden hangisidir?",
+   "choices": [
+    {
+     "id": "A",
+     "text": "Sembolik Turist",
+     "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+    },
+    {
+     "id": "B",
+     "text": "Kaşif Turist",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "C",
+     "text": "Maceracı Turist",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    },
+    {
+     "id": "D",
+     "text": "Ekonomik Turist",
+     "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+    }
+   ],
+   "correct": "A"
+  }
+ ]
+}

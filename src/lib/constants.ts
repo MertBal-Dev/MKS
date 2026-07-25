@@ -26,7 +26,12 @@ export interface TopicMeta {
   title: string;
   short: string;
   order: number;
-  /** Deneme sınavlarında bu konudan kaç soru gelir (toplam 100). */
+  /**
+   * Deneme sınavlarında bu konudan kaç soru gelir (toplam 100).
+   * Kaynak: Bakanlığın açıkladığı 14 başlıklı resmi dağılım
+   * (Genel Turizm 15 + İletişim-Etik 5 → genel-turizm 20;
+   *  Tarih-Coğrafya 13 + Flora-Fauna 5 → turizm-cografyasi 18; ...).
+   */
   examWeight: number;
 }
 
@@ -35,55 +40,55 @@ export const TOPICS: Record<TopicId, TopicMeta> = {
     title: 'Genel Turizm Bilgisi, Mevzuat ve Turizm Sosyolojisi',
     short: 'Genel Turizm',
     order: 1,
-    examWeight: 10,
+    examWeight: 20,
   },
   'turizm-cografyasi': {
     title: "Türkiye'nin Tarihi ve Turizm Coğrafyası",
     short: 'Turizm Coğrafyası',
     order: 2,
-    examWeight: 10,
+    examWeight: 18,
   },
   'genel-turk-tarihi': {
     title: 'Genel Türk Tarihi ve Kültürü',
     short: 'Türk Tarihi',
     order: 3,
-    examWeight: 8,
+    examWeight: 6,
   },
   'osmanli-tarihi': {
     title: 'Osmanlı İmparatorluğu Tarihi',
     short: 'Osmanlı',
     order: 4,
-    examWeight: 8,
+    examWeight: 4,
   },
   'arkeoloji-mitoloji': {
     title: 'Arkeoloji ve Mitoloji',
     short: 'Arkeoloji & Mitoloji',
     order: 5,
-    examWeight: 12,
+    examWeight: 6,
   },
   'roma-yunan-bizans': {
     title: 'Roma, Yunan ve Bizans Tarihi',
     short: 'Roma-Yunan-Bizans',
     order: 6,
-    examWeight: 10,
+    examWeight: 8,
   },
   'sanat-tarihi': {
     title: 'Genel Sanat Tarihi',
     short: 'Sanat Tarihi',
     order: 7,
-    examWeight: 10,
+    examWeight: 6,
   },
   'dinler-tarihi': {
     title: 'Dinler Tarihi',
     short: 'Dinler Tarihi',
     order: 8,
-    examWeight: 6,
+    examWeight: 4,
   },
   'ilk-yardim': {
     title: 'Genel Sağlık Bilgisi ve İlk Yardım',
     short: 'İlk Yardım',
     order: 9,
-    examWeight: 4,
+    examWeight: 5,
   },
   'anadolu-medeniyetleri': {
     title: 'Anadolu Medeniyetleri Tarihi',
@@ -101,6 +106,6 @@ export const TOPICS: Record<TopicId, TopicMeta> = {
     title: 'Müzecilik, Eser Kaçakçılığı ve Koruma',
     short: 'Müzecilik',
     order: 12,
-    examWeight: 4,
+    examWeight: 5,
   },
 };

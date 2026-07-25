@@ -26,6 +26,8 @@ import muzecilikTopic from './topics/muzecilik.json';
 import muzecilikQuestions from './questions/muzecilik.json';
 import deneme1 from './exams/deneme-1.json';
 import cikmis2025Subat from './exams/cikmis-2025-subat.json';
+import cikmis2025Agustos from './exams/cikmis-2025-agustos.json';
+import cikmis2026Mart from './exams/cikmis-2026-mart.json';
 
 /**
  * İçerik kayıt noktası. Yeni içerik eklemek = JSON dosyası + buraya bir satır.
@@ -62,8 +64,11 @@ export const questionBank: Question[] = [
 ];
 
 export const exams: Exam[] = [
-  deneme1 as unknown as Exam,
+  // En güncel oturum en üstte: MKS-4'e hazırlanırken önce buna bakılmalı
+  cikmis2026Mart as unknown as Exam,
+  cikmis2025Agustos as unknown as Exam,
   cikmis2025Subat as unknown as Exam,
+  deneme1 as unknown as Exam,
 ];
 
 export function topicQuestions(topicId: string): Question[] {

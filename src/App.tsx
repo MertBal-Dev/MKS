@@ -6,6 +6,7 @@ import Konular from '@/pages/Konular';
 import KonuDetay from '@/pages/KonuDetay';
 import SoruBankasi from '@/pages/SoruBankasi';
 import Pratik from '@/pages/Pratik';
+import Cozduklerim from '@/pages/Cozduklerim';
 import Denemeler from '@/pages/Denemeler';
 import SinavOdasi from '@/pages/SinavOdasi';
 import SinavSonuc from '@/pages/SinavSonuc';
@@ -26,6 +27,7 @@ export default function App() {
             <Route path="/konular/:topicId" element={<KonuDetay />} />
             <Route path="/soru-bankasi" element={<SoruBankasi />} />
             <Route path="/pratik" element={<Pratik />} />
+            <Route path="/cozduklerim" element={<Cozduklerim />} />
             <Route path="/denemeler" element={<Denemeler />} />
             <Route path="/sinav/:examId" element={<SinavOdasi />} />
             <Route path="/sinav/:examId/sonuc" element={<SinavSonuc />} />
