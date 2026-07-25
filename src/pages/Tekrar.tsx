@@ -1,5 +1,6 @@
 import { useMemo, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
+import { CheckCircle2 } from 'lucide-react';
 import { PageHeader } from '@/components/PageHeader';
 import { FlipCard } from '@/components/Flashcard';
 import { useAppState } from '@/hooks/useAppState';
@@ -54,9 +55,10 @@ export default function Tekrar() {
     const tomorrow = nextDue.length > 0 ? Math.min(...nextDue) : null;
     return (
       <div>
-        <PageHeader title="Akıllı Tekrar" />
+        <PageHeader eyebrow="HAFIZA" title="Akıllı Tekrar" />
         <div className="rise-in rounded-(--radius-card) border border-line bg-surface p-8 text-center">
-          <p className="font-display mb-2 text-xl">Bugünlük tamam 🎉</p>
+          <CheckCircle2 size={30} className="mx-auto mb-3 text-turkuaz" aria-hidden />
+          <p className="font-display mb-2 text-xl">Bugünlük tamam</p>
           <p className="text-sm text-muted">
             {tomorrow
               ? `Sıradaki kartlar ${new Date(tomorrow).toLocaleDateString('tr-TR', { day: 'numeric', month: 'long' })} günü seni bekliyor.`
@@ -81,7 +83,7 @@ export default function Tekrar() {
           </p>
           <p className="text-sm text-muted">
             Bilemediklerin yarın tekrar karşına çıkacak — sistem böyle çalışır. Beynin şu an bu bağlantıları
-            güçlendiriyor; yarın aynı kartlar daha kolay gelecek. 🌱
+            güçlendiriyor; yarın aynı kartlar daha kolay gelecek.
           </p>
           <Link to="/" className="mt-5 inline-block rounded-full bg-mercan px-6 py-2.5 text-sm font-semibold text-mercan-ink">
             Ana sayfa

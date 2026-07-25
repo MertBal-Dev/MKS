@@ -16,7 +16,7 @@ export default function Istatistik() {
 
   return (
     <div>
-      <PageHeader title="İstatistik" subtitle="Nerede güçlüsün, neresi çalışmak istiyor — hepsi burada" />
+      <PageHeader eyebrow="DURUM" title="İstatistik" subtitle="Nerede güçlüsün, neresi çalışmak istiyor — hepsi burada" />
 
       {/* Tahmini puan */}
       <section className="rise-in mb-6 rounded-(--radius-card) border border-line bg-surface p-6 text-center">
@@ -39,8 +39,8 @@ export default function Istatistik() {
             </p>
             <p className="mt-2 text-sm text-muted">
               {estimate >= PASS_SCORE
-                ? `Baraj ${PASS_SCORE} — şu an üstündesin! Bu tempoyu koruyan herkes o salondan gülerek çıkar. 🌟`
-                : `Baraja ${(PASS_SCORE - estimate).toLocaleString('tr-TR')} puan var — kapanmayacak mesafe değil. Kırmızı konulara yüklendikçe bu sayının yükselişini izleyeceksin. 💪`}
+                ? `Baraj ${PASS_SCORE} — şu an üstündesin! Bu tempoyu koruyan herkes o salondan gülerek çıkar.`
+                : `Baraja ${(PASS_SCORE - estimate).toLocaleString('tr-TR')} puan var — kapanmayacak mesafe değil. Kırmızı konulara yüklendikçe bu sayının yükselişini izleyeceksin.`}
             </p>
           </>
         )}

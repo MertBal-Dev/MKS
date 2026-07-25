@@ -15,10 +15,10 @@ import { DAILY_EXAM_PREFIX } from '@/lib/dailyExam';
 
 /** Güne göre dönen, baskı kurmayan cesaretlendirme cümleleri. */
 const MOTIVATION = [
-  'Bugün küçük bir adım, sınav günü büyük bir fark. 🌱',
+  'Bugün küçük bir adım, sınav günü büyük bir fark.',
   'Mükemmel gün bekleme — çalışılan her gün mükemmel sayılır.',
   'Şu an zor gelen konu, sınav salonunda senin bölgen olacak.',
-  'Yavaş ilerlemek durmak değildir. Devam. 💛',
+  'Yavaş ilerlemek durmak değildir. Devam.',
   'Dün ne olduysa olsun; bugünün üç küçük hedefi seni bekliyor.',
   'Sen soruları tanıdıkça sorular küçülür.',
   'Bir kart, bir soru, bir sayfa — hepsi birikiyor.',
@@ -91,7 +91,7 @@ export default function Dashboard() {
         >
           <div className="mb-4 flex items-center justify-between">
             <h2 className="font-display text-lg font-semibold">Bugünün Planı</h2>
-            <Link to="/plan" className="inline-flex items-center gap-1 text-sm text-kobalt transition-colors hover:text-ink">
+            <Link to="/plan" className="tap-target inline-flex items-center gap-1 text-sm text-kobalt transition-colors hover:text-ink">
               Tüm plan <ArrowRight size={14} aria-hidden />
             </Link>
           </div>
@@ -129,7 +129,7 @@ export default function Dashboard() {
                   animate={{ opacity: 1, y: 0 }}
                   className="mt-3 rounded-xl bg-turkuaz/10 px-4 py-3 text-sm text-turkuaz"
                 >
-                  Bugünü tamamladın — gerisi bonus. Kendine iyi davran. 🎉
+                  Bugünü tamamladın — gerisi bonus. Kendine iyi davran.
                 </motion.p>
               )}
             </>
@@ -143,7 +143,7 @@ export default function Dashboard() {
             <QuickAction
               to={`/sinav/${DAILY_EXAM_PREFIX}${today}`}
               icon={CalendarHeart}
-              label={dailyDone ? 'Günlük ✓' : 'Günün Seti'}
+              label={dailyDone ? 'Günlük' : 'Günün Seti'}
               accent="altin"
             />
             <QuickAction to="/tekrar" icon={Layers} label="Kartlar" badge={due} accent="altin" />
@@ -164,7 +164,7 @@ export default function Dashboard() {
           ) : (
             <>
               <DailyRing done={doneToday} total={totalToday} />
-              <p className="mt-3 text-sm text-muted">Halka her sabah sıfırlanır — bugünü tamamlamak yeter. 💪</p>
+              <p className="mt-3 text-sm text-muted">Halka her sabah sıfırlanır — bugünü tamamlamak yeter.</p>
             </>
           )}
 
@@ -173,7 +173,7 @@ export default function Dashboard() {
               <Flame size={16} className={state.streak.current > 0 ? 'text-mercan' : ''} aria-hidden />
               {state.streak.current > 0
                 ? state.streak.current >= 3
-                  ? `${state.streak.current} gündür buradasın — bu ritim seni taşır 🔥`
+                  ? `${state.streak.current} gündür buradasın — bu ritim seni taşır`
                   : `${state.streak.current} günlük seri`
                 : 'İlk soruyla seri başlar'}
             </span>
@@ -186,7 +186,7 @@ export default function Dashboard() {
                   <strong className={estimate >= 70 ? 'text-turkuaz' : 'text-altin'}>
                     <AnimatedNumber value={estimate} decimals={1} />
                   </strong>
-                  {estimate >= 70 && ' — baraj üstündesin! 🌟'}
+                  {estimate >= 70 && ' — baraj üstündesin!'}
                 </>
               )}
             </span>
@@ -199,7 +199,7 @@ export default function Dashboard() {
       <motion.section variants={item}>
         <div className="mb-3 flex items-center justify-between">
           <h2 className="font-display text-lg font-semibold">Konu İlerlemen</h2>
-          <Link to="/konular" className="inline-flex items-center gap-1 text-sm text-kobalt transition-colors hover:text-ink">
+          <Link to="/konular" className="tap-target inline-flex items-center gap-1 text-sm text-kobalt transition-colors hover:text-ink">
             Konulara git <ArrowRight size={14} aria-hidden />
           </Link>
         </div>

@@ -27,9 +27,8 @@ export default function Plan() {
 
   return (
     <div>
-      <PageHeader
-        title="Sprint Planı"
-        subtitle="Plan senin için düşünür — sen yalnızca bugüne odaklan. Günler birikir, baraj geçilir. 💛"
+      <PageHeader eyebrow="YOL HARİTASI" title="Sprint Planı"
+        subtitle="Plan senin için düşünür — sen yalnızca bugüne odaklan. Günler birikir, baraj geçilir."
       />
 
       <div className="space-y-6">

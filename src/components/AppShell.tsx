@@ -5,6 +5,7 @@ import {
   BarChart3,
   BookOpen,
   CalendarRange,
+  Flame,
   GraduationCap,
   History,
   Home,
@@ -94,11 +95,14 @@ export function AppShell({ children }: { children: ReactNode }) {
 
         <div className="mt-auto space-y-2 px-1 pb-1">
           {state.streak.current > 0 && (
-            <div className="rounded-xl border border-line bg-surface px-3 py-2.5">
-              <p className="text-xs text-muted">Çalışma serisi</p>
-              <p className="font-display text-lg" style={{ fontVariantNumeric: 'tabular-nums' }}>
-                {state.streak.current} gün 🔥
-              </p>
+            <div className="flex items-center gap-3 rounded-xl border border-line bg-surface px-3 py-2.5">
+              <Flame size={17} className="shrink-0 text-mercan" aria-hidden />
+              <div>
+                <p className="text-xs text-muted">Çalışma serisi</p>
+                <p className="font-display text-lg leading-tight" style={{ fontVariantNumeric: 'tabular-nums' }}>
+                  {state.streak.current} gün
+                </p>
+              </div>
             </div>
           )}
           <div className="px-2 text-[11px] leading-relaxed text-muted">

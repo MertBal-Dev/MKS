@@ -41,12 +41,12 @@ export function PracticePlayer({ questions, flagged, onToggleFlag, onAnswer }: P
           <span className="text-2xl text-muted"> / {questions.length}</span>
         </p>
         <p className={['mb-2 font-medium', pct >= 70 ? 'text-turkuaz' : 'text-altin'].join(' ')}>
-          {pct >= 70 ? 'Baraj üstü — harika gidiyorsun! 🌟' : 'Yanlışlar havuza eklendi; oradan tekrar çözeceksin.'}
+          {pct >= 70 ? 'Baraj üstü — harika gidiyorsun!' : 'Yanlışlar havuza eklendi; oradan tekrar çözeceksin.'}
         </p>
         <p className="mb-6 text-sm text-muted">
           {pct >= 70
             ? 'Bu istikrar sınav günü de seninle olacak.'
-            : 'Her yanlış, sınavdan önce yakalanmış bir puandır — şu an tam olarak yapman gerekeni yapıyorsun. 💪'}
+            : 'Her yanlış, sınavdan önce yakalanmış bir puandır — şu an tam olarak yapman gerekeni yapıyorsun.'}
         </p>
         <div className="flex justify-center gap-3">
           <Link to="/soru-bankasi" className="rounded-full border border-line bg-ground px-5 py-2.5 text-sm">

@@ -89,7 +89,7 @@ export function AiHocaPanel() {
             <div ref={scrollRef} className="flex-1 space-y-4 overflow-y-auto px-5 py-4">
               {turns.length === 0 && !loading && (
                 <div className="py-8 text-center">
-                  <p className="font-display mb-1 text-lg">Buyur, dinliyorum 👋</p>
+                  <p className="font-display mb-1 text-lg">Buyur, dinliyorum</p>
                   <p className="text-sm text-muted">
                     İstediğin konuyu sorabilir, anlamadığın yeri açtırabilirsin.
                   </p>

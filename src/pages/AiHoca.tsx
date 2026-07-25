@@ -20,8 +20,7 @@ export default function AiHocaPage() {
 
   return (
     <div>
-      <PageHeader
-        title="AI Hoca"
+      <PageHeader eyebrow="ASİSTAN" title="AI Hoca"
         subtitle="Aklına takılan her şeyi sor — konu anlatımı, karşılaştırma, ezber tekniği, sınav taktiği."
       />
 

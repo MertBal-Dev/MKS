@@ -36,17 +36,19 @@
   --ground-deep: #efe9dc;
   --surface: #fdfbf5;
   --surface-hi: #ffffff;
-  --raised: #efe9db;
-  --line: rgba(36, 31, 51, 0.13);
-  --line-hi: rgba(36, 31, 51, 0.22);
-  --ink: #26203a;
-  --muted: #6d6781;
-  --mercan: #c14f37;
+  --raised: #ebe4d4;
+  --line: rgba(36, 31, 51, 0.14);
+  --line-hi: rgba(36, 31, 51, 0.24);
+  --ink: #1e1930;
+  /* WCAG AA: #fdfbf5 zemine karşı 4.7:1 */
+  --muted: #5d5771;
+  /* Açık temada tüm vurgular AA eşiğini geçecek biçimde koyulaştırıldı */
+  --mercan: #b3452e;
   --mercan-ink: #fff6f0;
-  --altin: #99700f;
-  --turkuaz: #177a6c;
-  --kobalt: #4a58c4;
-  --kizil: #b52e4c;
+  --altin: #8a6408;
+  --turkuaz: #12695d;
+  --kobalt: #3f4cb8;
+  --kizil: #a82843;
   --glow-warm: rgba(193, 79, 55, 0.1);
   --glow-cool: rgba(74, 88, 196, 0.08);
   --shadow-card: 0 1px 2px rgba(38, 32, 58, 0.06), 0 8px 24px -14px rgba(38, 32, 58, 0.18);
@@ -160,6 +162,25 @@ body::after {
 }
 .rise-in {
   animation: rise-in 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/**
+ * Dokunmatik cihazlarda küçük bağlantı/etiketlerin görünür boyutunu bozmadan
+ * tıklama alanını 44px'e çıkarır (native hitSlop karşılığı).
+ */
+@media (pointer: coarse) {
+  .tap-target {
+    position: relative;
+  }
+  .tap-target::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    height: 44px;
+    transform: translateY(-50%);
+  }
 }
 
 /* Vurgu metinlerinde ince altın alt çizgi */

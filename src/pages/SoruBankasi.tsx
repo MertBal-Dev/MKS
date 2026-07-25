@@ -41,8 +41,7 @@ export default function SoruBankasi() {
 
   return (
     <div>
-      <PageHeader
-        title="Soru Bankası"
+      <PageHeader eyebrow="ÇALIŞMA" title="Soru Bankası"
         subtitle={`${questionBank.length.toLocaleString('tr-TR')} açıklamalı soru • ${solvedCount.toLocaleString('tr-TR')} soruyla tanıştın`}
       />
 

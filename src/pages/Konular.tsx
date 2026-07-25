@@ -11,7 +11,7 @@ export default function Konular() {
 
   return (
     <div>
-      <PageHeader title="Konular" subtitle="12 resmi başlık — anlatım, tuzaklar, kartlar ve mini testler" />
+      <PageHeader eyebrow="KÜTÜPHANE" title="Konular" subtitle="12 resmi başlık — anlatım, tuzaklar, kartlar ve mini testler" />
       <div className="space-y-3">
         {TOPIC_IDS.map((id, i) => {
           const meta = TOPICS[id];

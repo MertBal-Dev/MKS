@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { motion, useMotionValue, useSpring, useTransform } from 'framer-motion';
+import { Check } from 'lucide-react';
 import { EXAM_DATE, EXAM_NAME } from '@/lib/constants';
 
 /** Plan başlangıcı — madalyonun altın yayı bu tarihten sınava dolan zamanı gösterir. */
@@ -110,10 +111,11 @@ export function CountdownPill() {
   const days = Math.max(Math.ceil((EXAM_DATE.getTime() - now.getTime()) / 86_400_000), 0);
   return (
     <span
-      className="inline-flex items-center gap-1.5 rounded-full border border-line bg-ground/60 px-3.5 py-1.5 text-xs text-muted backdrop-blur"
+      className="inline-flex items-center gap-2 rounded-full border border-line bg-ground/60 px-3.5 py-1.5 text-xs text-muted backdrop-blur"
       style={{ fontVariantNumeric: 'tabular-nums' }}
     >
-      {EXAM_NAME} • 29 Ağustos'a {days} gün — hazırlanan bir gün daha 💛
+      <span className="size-1.5 rounded-full bg-altin" aria-hidden />
+      {EXAM_NAME} • 29 Ağustos'a {days} gün
     </span>
   );
 }
@@ -161,9 +163,14 @@ export function DailyRing({ done, total }: { done: number; total: number }) {
       </svg>
       <div className="relative text-center">
         {complete ? (
-          <motion.div initial={{ scale: 0.6, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ type: 'spring', stiffness: 260, damping: 16 }}>
-            <div className="font-display text-4xl text-turkuaz">✓</div>
-            <div className="mt-1 text-xs font-medium text-turkuaz">Bugün tamam!</div>
+          <motion.div
+            initial={{ scale: 0.6, opacity: 0 }}
+            animate={{ scale: 1, opacity: 1 }}
+            transition={{ type: 'spring', stiffness: 260, damping: 16 }}
+            className="flex flex-col items-center"
+          >
+            <Check size={34} strokeWidth={2.4} className="text-turkuaz" aria-hidden />
+            <div className="mt-1.5 text-xs font-medium text-turkuaz">Bugün tamam</div>
           </motion.div>
         ) : (
           <>

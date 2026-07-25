@@ -35,12 +35,12 @@ export default function SinavSonuc() {
           {result.score.toLocaleString('tr-TR')}
         </p>
         <p className="mt-2 font-medium">
-          {passed ? 'Geçtin! Baraj aşıldı 🎉' : `Barajın ${gap.toLocaleString('tr-TR')} puan altında — birlikte kapatacağız.`}
+          {passed ? 'Geçtin! Baraj aşıldı' : `Barajın ${gap.toLocaleString('tr-TR')} puan altında — birlikte kapatacağız.`}
         </p>
         <p className="mt-2 text-sm text-muted">
           {passed
-            ? 'Bu puan tesadüf değil; emeğinin karşılığı. Sınav günü de böyle olacak. 🌟'
-            : 'Unutma: bu yanlışlar artık sınavda karşına çıkamaz — hepsini burada yakaladın. Doğru yoldasın. 💪'}
+            ? 'Bu puan tesadüf değil; emeğinin karşılığı. Sınav günü de böyle olacak.'
+            : 'Unutma: bu yanlışlar artık sınavda karşına çıkamaz — hepsini burada yakaladın. Doğru yoldasın.'}
         </p>
         <p className="mt-3 text-sm text-muted" style={{ fontVariantNumeric: 'tabular-nums' }}>
           {result.correct} doğru • {result.wrong} yanlış • {result.blank} boş

@@ -47,7 +47,7 @@ export default function Ayarlar() {
 
   return (
     <div className="mx-auto max-w-xl">
-      <PageHeader title="Ayarlar" />
+      <PageHeader eyebrow="TERCİHLER" title="Ayarlar" />
 
       {/* Tema */}
       <section className="rise-in mb-6">
@@ -110,7 +110,7 @@ export default function Ayarlar() {
             onClick={download}
             className="flex w-full items-center gap-3 rounded-(--radius-card) border border-line bg-surface px-5 py-4 text-left transition-colors hover:bg-raised"
           >
-            <Download size={19} className="text-kobalt" aria-hidden />
+            <Download size={19} className="tap-target text-kobalt" aria-hidden />
             <span>
               <span className="block font-medium">Verini indir</span>
               <span className="text-xs text-muted">Tüm ilerlemen tek JSON dosyasında</span>
@@ -167,11 +167,11 @@ export default function Ayarlar() {
         </p>
         <p className="mt-2">
           Resmi duyurular:{' '}
-          <a href="https://www.ktb.gov.tr" target="_blank" rel="noreferrer" className="text-kobalt">
+          <a href="https://www.ktb.gov.tr" target="_blank" rel="noreferrer" className="tap-target text-kobalt">
             ktb.gov.tr
           </a>{' '}
           •{' '}
-          <a href="https://www.anadolu.edu.tr" target="_blank" rel="noreferrer" className="text-kobalt">
+          <a href="https://www.anadolu.edu.tr" target="_blank" rel="noreferrer" className="tap-target text-kobalt">
             anadolu.edu.tr
           </a>
         </p>

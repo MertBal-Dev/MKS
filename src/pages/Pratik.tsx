@@ -41,7 +41,7 @@ export default function Pratik() {
 
   return (
     <div className="mx-auto max-w-xl">
-      <Link to="/soru-bankasi" className="mb-4 inline-flex items-center gap-1 text-sm text-muted hover:text-ink">
+      <Link to="/soru-bankasi" className="tap-target mb-4 inline-flex items-center gap-1 text-sm text-muted hover:text-ink">
         <ArrowLeft size={15} aria-hidden /> Soru Bankası
       </Link>
 

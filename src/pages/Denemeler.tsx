@@ -26,8 +26,7 @@ export default function Denemeler() {
 
   return (
     <div>
-      <PageHeader
-        title="Denemeler & Çıkmış Sorular"
+      <PageHeader eyebrow="SINAV PROVASI" title="Denemeler & Çıkmış Sorular"
         subtitle={`Gerçek format: 100 soru • ${EXAM_DURATION_MIN} dk • baraj ${PASS_SCORE}`}
       />
 
@@ -67,7 +66,7 @@ export default function Denemeler() {
           )}
         </div>
         {todayResult && (
-          <p className="mt-3 text-sm text-turkuaz">Bugünün seti tamam — yarın sabah yepyeni 50 soru burada olacak. 🌞</p>
+          <p className="mt-3 text-sm text-turkuaz">Bugünün seti tamam — yarın sabah yepyeni 50 soru burada olacak.</p>
         )}
         {pastDailies.length > 0 && (
           <div className="mt-4 border-t border-line pt-3">

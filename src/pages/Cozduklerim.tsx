@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Bookmark, Check, X } from 'lucide-react';
+import { Bookmark, Check, NotebookPen, X } from 'lucide-react';
 import { PageHeader } from '@/components/PageHeader';
 import { QuestionCard } from '@/components/QuestionCard';
 import { useAppState } from '@/hooks/useAppState';
@@ -42,8 +42,7 @@ export default function Cozduklerim() {
 
   return (
     <div>
-      <PageHeader
-        title="Çözdüklerim"
+      <PageHeader eyebrow="ARŞİV" title="Çözdüklerim"
         subtitle={
           rows.length === 0
             ? 'Çözdüğün her soru buraya düşecek — geri dönüp istediğin zaman bakabilirsin.'
@@ -53,7 +52,8 @@ export default function Cozduklerim() {
 
       {rows.length === 0 ? (
         <div className="rise-in rounded-(--radius-card) border border-line bg-surface p-8 text-center">
-          <p className="font-display mb-2 text-xl">Burası senin defterin olacak 📖</p>
+          <NotebookPen size={30} className="mx-auto mb-3 text-kobalt" aria-hidden />
+          <p className="font-display mb-2 text-xl">Burası senin defterin olacak</p>
           <p className="text-sm text-muted">
             Çözdüğün sorular, verdiğin cevaplar ve açıklamalar burada birikecek. İlk soruyla başlayalım.
           </p>
@@ -107,7 +107,7 @@ export default function Cozduklerim() {
               onClick={() => setTopic('all')}
               aria-pressed={topic === 'all'}
               className={[
-                'rounded-full border px-3 py-1.5 text-xs transition-colors',
+                'tap-target rounded-full border px-3 py-1.5 text-xs transition-colors',
                 topic === 'all' ? 'border-kobalt bg-kobalt/15 text-kobalt' : 'border-line bg-surface text-muted',
               ].join(' ')}
             >
@@ -120,7 +120,7 @@ export default function Cozduklerim() {
                 onClick={() => setTopic(id)}
                 aria-pressed={topic === id}
                 className={[
-                  'rounded-full border px-3 py-1.5 text-xs transition-colors',
+                  'tap-target rounded-full border px-3 py-1.5 text-xs transition-colors',
                   topic === id ? 'border-kobalt bg-kobalt/15 text-kobalt' : 'border-line bg-surface text-muted',
                 ].join(' ')}
               >

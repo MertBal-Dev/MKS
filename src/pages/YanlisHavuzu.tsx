@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
+import { CheckCircle2 } from 'lucide-react';
 import { PageHeader } from '@/components/PageHeader';
 import { QuestionCard } from '@/components/QuestionCard';
 import { useAppState } from '@/hooks/useAppState';
@@ -17,8 +18,7 @@ export default function YanlisHavuzu() {
 
   return (
     <div>
-      <PageHeader
-        title="Yanlış Havuzu"
+      <PageHeader eyebrow="ODAK" title="Yanlış Havuzu"
         subtitle="Üst üste 2 kez doğru çözdüğün soru havuzdan çıkar"
         action={
           entries.length > 0 ? (
@@ -34,7 +34,8 @@ export default function YanlisHavuzu() {
 
       {entries.length === 0 ? (
         <div className="rise-in rounded-(--radius-card) border border-line bg-surface p-8 text-center">
-          <p className="font-display mb-2 text-xl">Havuz bomboş 🎉</p>
+          <CheckCircle2 size={30} className="mx-auto mb-3 text-turkuaz" aria-hidden />
+          <p className="font-display mb-2 text-xl">Havuz bomboş</p>
           <p className="text-sm text-muted">Yanlış yaptığın sorular buraya düşer; çözüp temizledikçe boşalır.</p>
           <Link to="/soru-bankasi" className="mt-4 inline-block text-sm text-kobalt">
             Soru çözmeye git

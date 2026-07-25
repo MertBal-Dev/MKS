@@ -115,7 +115,7 @@ export default function SinavOdasi() {
           </ul>
           {exam.note && <p className="mb-3 text-xs text-muted">{exam.note}</p>}
           <p className="mb-6 rounded-xl bg-altin/10 px-4 py-3 text-sm text-altin">
-            Bu bir prova — puan değil, öğrenmek için buradasın. Her deneme seni gerçek sınava biraz daha hazırlar. 💛
+            Bu bir prova — puan değil, öğrenmek için buradasın. Her deneme seni gerçek sınava biraz daha hazırlar.
           </p>
           <button
             type="button"

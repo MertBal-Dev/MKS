@@ -22,7 +22,7 @@ export default function KonuDetay() {
 
   return (
     <div>
-      <Link to="/konular" className="mb-3 inline-flex items-center gap-1 text-sm text-muted hover:text-ink">
+      <Link to="/konular" className="tap-target mb-3 inline-flex items-center gap-1 text-sm text-muted hover:text-ink">
         <ArrowLeft size={15} aria-hidden /> Konular
       </Link>
       <h1 className="font-display mb-1 text-2xl font-semibold lg:text-3xl">{meta.title}</h1>
