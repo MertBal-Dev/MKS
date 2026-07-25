@@ -1,0 +1,562 @@
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - img "Wayground" [ref=e8]
+    - generic [ref=e9]:
+      - button "search" [ref=e11] [cursor=pointer]:
+        - generic [ref=e12]: 
+      - button "Kodu girin" [ref=e16] [cursor=pointer]:
+        - paragraph [ref=e19]: Kodu girin
+      - button "Giriş yapmak" [ref=e21] [cursor=pointer]:
+        - paragraph [ref=e24]: Giriş yapmak
+  - generic [ref=e26]:
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - img "23 Şubat 2025 Turist Rehberliği Mesleğe Kabul Sınavı Soruları" [ref=e33]
+          - generic [ref=e34]:
+            - heading "23 Şubat 2025 Turist Rehberliği Mesleğe Kabul Sınavı Soruları" [level=1] [ref=e35]
+            - generic [ref=e36]:
+              - generic [ref=e37]:
+                - img "Assessment" [ref=e39]
+                - paragraph [ref=e40]: Sınav
+              - paragraph [ref=e41]: •
+              - paragraph [ref=e42]: History
+              - paragraph [ref=e43]: •
+              - paragraph [ref=e44]: Professional Development
+              - paragraph [ref=e45]: •
+              - paragraph [ref=e46]: Alıştırma Problemi
+              - paragraph [ref=e47]: •
+              - paragraph [ref=e48]: Hard
+        - generic [ref=e49]:
+          - generic [ref=e50]:
+            - button "Düzenlemek" [ref=e52] [cursor=pointer]:
+              - generic [ref=e54]:
+                - generic [ref=e55]: 
+                - paragraph [ref=e57]: Düzenlemek
+            - button "Çalışma kağıdı" [ref=e59] [cursor=pointer]:
+              - generic [ref=e61]:
+                - generic [ref=e62]: 
+                - paragraph [ref=e64]: Çalışma kağıdı
+            - button "Paylaş" [ref=e66] [cursor=pointer]:
+              - generic [ref=e68]:
+                - generic [ref=e69]: 
+                - paragraph [ref=e71]: Paylaş
+            - button "Kaydet" [ref=e73] [cursor=pointer]:
+              - generic [ref=e75]:
+                - generic [ref=e76]: 
+                - paragraph [ref=e78]: Kaydet
+            - button "ellipsis-vertical" [ref=e81] [cursor=pointer]:
+              - generic [ref=e82]: 
+          - generic [ref=e85]:
+            - button "Ön izleme" [ref=e86] [cursor=pointer]:
+              - generic [ref=e88]:
+                - generic [ref=e89]: 
+                - paragraph [ref=e91]: Ön izleme
+            - button "Bu aktiviteyi kullan" [ref=e92] [cursor=pointer]:
+              - generic [ref=e94]:
+                - paragraph [ref=e95]: Bu aktiviteyi kullan
+                - generic [ref=e96]: 
+      - generic [ref=e98]:
+        - generic [ref=e99]:
+          - img "Created by" [ref=e101]
+          - paragraph [ref=e102]: Muhammed Boğatekin
+        - generic [ref=e103]:
+          - generic [ref=e104]: 
+          - paragraph [ref=e106]: ÜCRETSİZ Kaynak
+    - generic [ref=e107]:
+      - generic [ref=e108]:
+        - generic [ref=e110]:
+          - paragraph [ref=e112]: Öğrenci önizlemesi
+          - img "quiz-placeholder" [ref=e115]
+          - button "Öğrenci olarak deneyin" [ref=e118] [cursor=pointer]:
+            - generic [ref=e120]:
+              - generic [ref=e121]: 
+              - paragraph [ref=e123]: Öğrenci olarak deneyin
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - heading "112 sorular" [level=2] [ref=e128]
+            - generic [ref=e129]:
+              - paragraph [ref=e130]: Tüm cevapları göster
+              - checkbox "Show all answers" [disabled] [ref=e136]
+          - generic [ref=e137] [cursor=pointer]:
+            - generic [ref=e140]:
+              - generic [ref=e141]:
+                - generic [ref=e144]:
+                  - paragraph [ref=e145]: "1."
+                  - paragraph [ref=e146]: MULTIPLE CHOICE QUESTION
+                - paragraph [ref=e148]: 30 sec • 1 pt
+                - text:    
+              - heading "Turistleri içe dönük, dışa dönük ve orta olarak sınıflandıran araştırmacı kimdir?" [level=3] [ref=e153]
+              - generic [ref=e154]:
+                - generic [ref=e155]:
+                  - generic [ref=e156]: 
+                  - generic [ref=e158]: Plog
+                - generic [ref=e162]:
+                  - generic [ref=e163]: 
+                  - generic [ref=e165]: Smith
+                - generic [ref=e169]:
+                  - generic [ref=e170]: 
+                  - generic [ref=e172]: Freud
+                - generic [ref=e176]:
+                  - generic [ref=e177]: 
+                  - generic [ref=e179]: Jung
+              - paragraph [ref=e183]: Answer explanation
+              - heading "Jupiter is a gas giant made primarily of hydrogen and helium. Unlike terrestrial planets that have solid surfaces, gas giants like Jupiter don't have a well-defined solid surface, allowing them to accumulate more mass in a gaseous form. This composition has allowed Jupiter to grow significantly larger than planets with solid surfaces." [level=3] [ref=e187]
+            - generic [ref=e190]:
+              - generic [ref=e191]:
+                - generic [ref=e194]:
+                  - paragraph [ref=e195]: "2."
+                  - paragraph [ref=e196]: MULTIPLE CHOICE QUESTION
+                - paragraph [ref=e198]: 30 sec • 1 pt
+                - text:    
+              - heading "Ahşap geometrik şekillerin çivi veya başka bir yapıştırıcı kullanmadan birbirine geçme olarak yapılan teknik nedir?" [level=3] [ref=e203]
+              - generic [ref=e204]:
+                - generic [ref=e205]:
+                  - generic [ref=e206]: 
+                  - generic [ref=e208]: Kündekari
+                - generic [ref=e212]:
+                  - generic [ref=e213]: 
+                  - generic [ref=e215]: Oyma
+                - generic [ref=e219]:
+                  - generic [ref=e220]: 
+                  - generic [ref=e222]: Kakma
+                - generic [ref=e226]:
+                  - generic [ref=e227]: 
+                  - generic [ref=e229]: Telkari
+            - generic [ref=e235]:
+              - generic [ref=e236]:
+                - generic [ref=e239]:
+                  - paragraph [ref=e240]: "3."
+                  - paragraph [ref=e241]: MULTIPLE CHOICE QUESTION
+                - paragraph [ref=e243]: 30 sec • 1 pt
+                - text:    
+              - heading "Hititlerin kurucusu kimdir?" [level=3] [ref=e248]
+              - generic [ref=e249]:
+                - generic [ref=e250]:
+                  - generic [ref=e251]: 
+                  - generic [ref=e253]: I. Hattuşili
+                - generic [ref=e257]:
+                  - generic [ref=e258]: 
+                  - generic [ref=e260]: I. Şuppiluliuma
+                - generic [ref=e264]:
+                  - generic [ref=e265]: 
+                  - generic [ref=e267]: II. Muvatalli
+                - generic [ref=e271]:
+                  - generic [ref=e272]: 
+                  - generic [ref=e274]: IV. Tuthaliya
+            - generic [ref=e280]:
+              - generic [ref=e281]:
+                - generic [ref=e284]:
+                  - paragraph [ref=e285]: "4."
+                  - paragraph [ref=e286]: MULTIPLE CHOICE QUESTION
+                - paragraph [ref=e288]: 30 sec • 1 pt
+                - text:    
+              - heading "Roma imparatoru, Anadolu’da büyük imar hareketlerine neden olan ve görkemli dönemlerden birini yaşatan imparator kimdir?" [level=3] [ref=e293]
+              - generic [ref=e294]:
+                - generic [ref=e295]:
+                  - generic [ref=e296]: 
+                  - generic [ref=e298]: I. Justinianus
+                - generic [ref=e302]:
+                  - generic [ref=e303]: 
+                  - generic [ref=e305]: II. Theodosius
+                - generic [ref=e309]:
+                  - generic [ref=e310]: 
+                  - generic [ref=e312]: Augustus
+                - generic [ref=e316]:
+                  - generic [ref=e317]: 
+                  - generic [ref=e319]: Hadrianus
+            - generic [ref=e325]:
+              - generic [ref=e326]:
+                - generic [ref=e329]:
+                  - paragraph [ref=e330]: "5."
+                  - paragraph [ref=e331]: MULTIPLE CHOICE QUESTION
+                - paragraph [ref=e333]: 30 sec • 1 pt
+                - text:    
+              - heading "İsos Savaşı Mozaiği nerede bulunmaktadır?" [level=3] [ref=e338]
+              - generic [ref=e339]:
+                - generic [ref=e340]:
+                  - generic [ref=e341]: 
+                  - generic [ref=e343]: Napoli
+                - generic [ref=e347]:
+                  - generic [ref=e348]: 
+                  - generic [ref=e350]: Antalya
+                - generic [ref=e354]:
+                  - generic [ref=e355]: 
+                  - generic [ref=e357]: İstanbul
+                - generic [ref=e361]:
+                  - generic [ref=e362]: 
+                  - generic [ref=e364]: Roma
+            - generic [ref=e370]:
+              - generic [ref=e371]:
+                - generic [ref=e374]:
+                  - paragraph [ref=e375]: "6."
+                  - paragraph [ref=e376]: MULTIPLE CHOICE QUESTION
+                - paragraph [ref=e378]: 30 sec • 1 pt
+                - text:    
+              - heading "“Kaplumbağa Terbiyecisi” tablosunun sahibi kimdir?" [level=3] [ref=e383]
+              - generic [ref=e384]:
+                - generic [ref=e385]:
+                  - generic [ref=e386]: 
+                  - generic [ref=e388]: Osman Hamdi Bey
+                - generic [ref=e392]:
+                  - generic [ref=e393]: 
+                  - generic [ref=e395]: Şeker Ahmet Paşa
+                - generic [ref=e399]:
+                  - generic [ref=e400]: 
+                  - generic [ref=e402]: İbrahim Çallı
+                - generic [ref=e406]:
+                  - generic [ref=e407]: 
+                  - generic [ref=e409]: Fikret Mualla
+            - generic [ref=e415]:
+              - generic [ref=e416]:
+                - generic [ref=e419]:
+                  - paragraph [ref=e420]: "7."
+                  - paragraph [ref=e421]: MULTIPLE CHOICE QUESTION
+                - paragraph [ref=e423]: 30 sec • 1 pt
+                - text:    
+              - heading "Aşağıdakilerden hangisi turist ürününün özelliklerinden biridir? (I) Üretildiği yerde tüketilir. (II) Stoklanamaz. (III) Emek ve iş gücü yoğundur. (IV) Homojendir." [level=3] [ref=e428]
+              - generic [ref=e429]:
+                - generic [ref=e430]:
+                  - generic [ref=e431]: 
+                  - generic [ref=e433]: I, II ve III
+                - generic [ref=e437]:
+                  - generic [ref=e438]: 
+                  - generic [ref=e440]: II ve III
+                - generic [ref=e444]:
+                  - generic [ref=e445]: 
+                  - generic [ref=e447]: I, II, III ve IV
+                - generic [ref=e451]:
+                  - generic [ref=e452]: 
+                  - generic [ref=e454]: Yalnız IV
+            - generic [ref=e458]:        
+            - generic [ref=e459]:        
+            - generic [ref=e460]:        
+          - generic [ref=e463]:
+            - generic [ref=e467]:
+              - generic [ref=e468]:
+                - generic [ref=e469]:
+                  - heading "Ücretsiz bir hesap oluşturarak tüm sorulara ve daha fazlasına erişin." [level=2] [ref=e470]
+                  - paragraph
+                  - generic [ref=e471]:
+                    - generic [ref=e472]:
+                      - generic [ref=e473]: 
+                      - paragraph [ref=e475]: Create resources
+                    - generic [ref=e476]:
+                      - generic [ref=e477]: 
+                      - paragraph [ref=e479]: Host any resource
+                    - generic [ref=e480]:
+                      - generic [ref=e481]: 
+                      - paragraph [ref=e483]: Get auto-graded reports
+                - generic [ref=e484]:
+                  - generic [ref=e485] [cursor=pointer]:
+                    - generic [ref=e486]:
+                      - img "Google" [ref=e488]
+                      - paragraph [ref=e489]: Google ile devam
+                    - generic [ref=e490]: 
+                  - generic [ref=e493] [cursor=pointer]:
+                    - generic [ref=e494]:
+                      - img "Email" [ref=e496]
+                      - paragraph [ref=e497]: Continue with Email
+                    - generic [ref=e498]: 
+                  - generic [ref=e501] [cursor=pointer]:
+                    - generic [ref=e502]:
+                      - img "Facebook" [ref=e504]
+                      - paragraph [ref=e505]: Continue with Facebook
+                    - generic [ref=e506]: 
+                - paragraph [ref=e509]: veya devam et
+                - generic [ref=e510]:
+                  - generic [ref=e511]:
+                    - img "Microsoft" [ref=e514] [cursor=pointer]
+                    - paragraph [ref=e515]: Microsoft
+                  - generic [ref=e516]:
+                    - img "Apple" [ref=e519] [cursor=pointer]
+                    - paragraph [ref=e520]: Apple
+                  - generic [ref=e521]:
+                    - img "Others" [ref=e524] [cursor=pointer]
+                    - paragraph [ref=e525]: Others
+              - generic [ref=e526]:
+                - paragraph [ref=e528]:
+                  - text: Kaydolarak, bizim
+                  - link "Kullanım Şartları" [ref=e529] [cursor=pointer]:
+                    - /url: /tos
+                  - text: "&"
+                  - link "Gizlilik Politikası" [ref=e530] [cursor=pointer]:
+                    - /url: /privacy
+                - generic [ref=e531]:
+                  - paragraph [ref=e532]: Zaten hesabınız var mı?
+                  - button "Giriş yapmak" [ref=e533] [cursor=pointer]:
+                    - paragraph [ref=e536]: Giriş yapmak
+            - button "önce onu okuyayım" [ref=e537] [cursor=pointer]:
+              - paragraph [ref=e540]: önce onu okuyayım
+      - generic [ref=e541]:
+        - generic [ref=e542]:
+          - generic [ref=e543]: 
+          - heading "Wayground'da Popüler Kaynaklar" [level=2] [ref=e546]
+        - generic [ref=e547]:
+          - generic [ref=e551]:
+            - link "PBIS-HGMS Day 10 24 sorular PBIS-HGMS Day 10 quiz Sınav • 6th - 8th Grade" [ref=e552] [cursor=pointer]:
+              - /url: /admin/quiz/62bf028d01798a001dce1ffe/pbis-hgms-day-10
+              - generic [ref=e554]:
+                - generic [ref=e555]:
+                  - img "PBIS-HGMS Day 10" [ref=e557]
+                  - paragraph [ref=e561]:
+                    - generic [ref=e562]: 24 sorular
+                - generic [ref=e564]:
+                  - paragraph [ref=e566]: PBIS-HGMS Day 10
+                  - generic [ref=e567]:
+                    - generic [ref=e568]:
+                      - img "quiz" [ref=e570]
+                      - paragraph [ref=e571]: Sınav
+                    - paragraph [ref=e572]: •
+                    - paragraph [ref=e573]: 6th - 8th Grade
+            - link "HCS SCI 03 Summer School Review 3 10 sorular HCS SCI 03 Summer School Review 3 quiz Sınav • 3rd Grade" [ref=e574] [cursor=pointer]:
+              - /url: /admin/quiz/69c6ac254100682b5686f853/hcs-sci-03-summer-school-review-3
+              - generic [ref=e576]:
+                - generic [ref=e577]:
+                  - img "HCS SCI 03 Summer School Review 3" [ref=e579]
+                  - paragraph [ref=e583]:
+                    - generic [ref=e584]: 10 sorular
+                - generic [ref=e586]:
+                  - paragraph [ref=e588]: HCS SCI 03 Summer School Review 3
+                  - generic [ref=e589]:
+                    - generic [ref=e590]:
+                      - img "quiz" [ref=e592]
+                      - paragraph [ref=e593]: Sınav
+                    - paragraph [ref=e594]: •
+                    - paragraph [ref=e595]: 3rd Grade
+            - link "Home Scope 11 sorular Home Scope quiz Sınav • 7th - 8th Grade" [ref=e596] [cursor=pointer]:
+              - /url: /admin/quiz/5fbebb641c66bd001b9bb2d7/home-scope
+              - generic [ref=e598]:
+                - generic [ref=e599]:
+                  - img "Home Scope" [ref=e601]
+                  - paragraph [ref=e605]:
+                    - generic [ref=e606]: 11 sorular
+                - generic [ref=e608]:
+                  - paragraph [ref=e610]: Home Scope
+                  - generic [ref=e611]:
+                    - generic [ref=e612]:
+                      - img "quiz" [ref=e614]
+                      - paragraph [ref=e615]: Sınav
+                    - paragraph [ref=e616]: •
+                    - paragraph [ref=e617]: 7th - 8th Grade
+            - link "HCS SCI 05 Summer School Assessment 3 Review 15 sorular HCS SCI 05 Summer School Assessment 3 Review quiz Sınav • 5th Grade" [ref=e618] [cursor=pointer]:
+              - /url: /admin/quiz/69c04bdd402553e02a6650c3/hcs-sci-05-summer-school-assessment-3-review
+              - generic [ref=e620]:
+                - generic [ref=e621]:
+                  - img "HCS SCI 05 Summer School Assessment 3 Review" [ref=e623]
+                  - paragraph [ref=e627]:
+                    - generic [ref=e628]: 15 sorular
+                - generic [ref=e630]:
+                  - paragraph [ref=e632]: HCS SCI 05 Summer School Assessment 3 Review
+                  - generic [ref=e633]:
+                    - generic [ref=e634]:
+                      - img "quiz" [ref=e636]
+                      - paragraph [ref=e637]: Sınav
+                    - paragraph [ref=e638]: •
+                    - paragraph [ref=e639]: 5th Grade
+            - link "Lufkin Road Middle School Student Handbook & Policies Assessment 35 sorular Lufkin Road Middle School Student Handbook & Policies Assessment quiz Sınav • 7th Grade" [ref=e640] [cursor=pointer]:
+              - /url: /admin/quiz/68797050e205c532cb57cd03/lufkin-road-middle-school-student-handbook-policies-assessment
+              - generic [ref=e642]:
+                - generic [ref=e643]:
+                  - img "Lufkin Road Middle School Student Handbook & Policies Assessment" [ref=e645]
+                  - paragraph [ref=e649]:
+                    - generic [ref=e650]: 35 sorular
+                - generic [ref=e652]:
+                  - paragraph [ref=e654]: Lufkin Road Middle School Student Handbook & Policies Assessment
+                  - generic [ref=e655]:
+                    - generic [ref=e656]:
+                      - img "quiz" [ref=e658]
+                      - paragraph [ref=e659]: Sınav
+                    - paragraph [ref=e660]: •
+                    - paragraph [ref=e661]: 7th Grade
+            - link "Geo 11.3 Area of Circles and Sectors 18 sorular Geo 11.3 Area of Circles and Sectors quiz Sınav • 9th - 11th Grade" [ref=e662] [cursor=pointer]:
+              - /url: /admin/quiz/60ad017ef6d714001ca7a3a1/geo-113-area-of-circles-and-sectors
+              - generic [ref=e664]:
+                - generic [ref=e665]:
+                  - img "Geo 11.3 Area of Circles and Sectors" [ref=e667]
+                  - paragraph [ref=e671]:
+                    - generic [ref=e672]: 18 sorular
+                - generic [ref=e674]:
+                  - paragraph [ref=e676]: Geo 11.3 Area of Circles and Sectors
+                  - generic [ref=e677]:
+                    - generic [ref=e678]:
+                      - img "quiz" [ref=e680]
+                      - paragraph [ref=e681]: Sınav
+                    - paragraph [ref=e682]: •
+                    - paragraph [ref=e683]: 9th - 11th Grade
+          - button "chevron-right" [ref=e688] [cursor=pointer]:
+            - generic [ref=e689]: 
+      - generic [ref=e692]:
+        - generic [ref=e696]:
+          - link " Pollinators" [ref=e698] [cursor=pointer]:
+            - /url: /library/science/life-science/ecosystems/habitats-and-environments/ecological-relationships/pollinators
+            - generic [ref=e699]:
+              - generic [ref=e700]: 
+              - generic [ref=e702]: Pollinators
+              - checkbox [ref=e705]
+          - link " Electrochemistry" [ref=e707] [cursor=pointer]:
+            - /url: /library/science/chemistry/physical-chemistry/electrochemistry
+            - generic [ref=e708]:
+              - generic [ref=e709]: 
+              - generic [ref=e711]: Electrochemistry
+              - checkbox [ref=e714]
+          - link " Solving multi-step real-world problems involving conversion of units of length" [ref=e716] [cursor=pointer]:
+            - /url: /library/math/number-system/number-concepts/working-with-units/converting-between-measurement-units-within-one-system-of-units/solving-multi-step-real-world-problems-involving-conversion-of-units-of-length
+            - generic [ref=e717]:
+              - generic [ref=e718]: 
+              - generic [ref=e720]: Solving multi-step real-world problems involving conversion of units of length
+              - checkbox [ref=e723]
+          - link " Environmental justice" [ref=e725] [cursor=pointer]:
+            - /url: /library/science/environmental-science/sustainable-development/environmental-policy/environmental-justice
+            - generic [ref=e726]:
+              - generic [ref=e727]: 
+              - generic [ref=e729]: Environmental justice
+              - checkbox [ref=e732]
+          - link " Using Simple Tools" [ref=e734] [cursor=pointer]:
+            - /url: /library/science/engineering-and-technology/science-and-technology/using-simple-tools
+            - generic [ref=e735]:
+              - generic [ref=e736]: 
+              - generic [ref=e738]: Using Simple Tools
+              - checkbox [ref=e741]
+          - link " Explaining community roles" [ref=e743] [cursor=pointer]:
+            - /url: /library/social-studies/social-studies-practices/communication/explaining-community-roles
+            - generic [ref=e744]:
+              - generic [ref=e745]: 
+              - generic [ref=e747]: Explaining community roles
+              - checkbox [ref=e750]
+          - link " Monoclonal antibody production" [ref=e752] [cursor=pointer]:
+            - /url: /library/science/biology/biotechnology/medical-biotechnology/monoclonal-antibody-production
+            - generic [ref=e753]:
+              - generic [ref=e754]: 
+              - generic [ref=e756]: Monoclonal antibody production
+              - checkbox [ref=e759]
+          - link " Transformations on absolute value linear functions" [ref=e761] [cursor=pointer]:
+            - /url: /library/math/functions/types-of-functions/linear-functions/graphing-linear-functions/transformations-on-absolute-value-linear-functions
+            - generic [ref=e762]:
+              - generic [ref=e763]: 
+              - generic [ref=e765]: Transformations on absolute value linear functions
+              - checkbox [ref=e768]
+          - link " Conflict and Cooperation" [ref=e770] [cursor=pointer]:
+            - /url: /library/social-studies/comparative-government-and-politics/global-politics/international-relations/conflict-and-cooperation
+            - generic [ref=e771]:
+              - generic [ref=e772]: 
+              - generic [ref=e774]: Conflict and Cooperation
+              - checkbox [ref=e777]
+          - link " Weather" [ref=e779] [cursor=pointer]:
+            - /url: /library/science/earth-and-space-science/weather-and-climate/weather
+            - generic [ref=e780]:
+              - generic [ref=e781]: 
+              - generic [ref=e783]: Weather
+              - checkbox [ref=e786]
+        - button "chevron-right" [ref=e791] [cursor=pointer]:
+          - generic [ref=e792]: 
+  - contentinfo [ref=e795]:
+    - generic [ref=e797]:
+      - generic [ref=e799]:
+        - generic [ref=e800]:
+          - heading "Özellikler" [level=2] [ref=e801]
+          - list [ref=e802]:
+            - listitem [ref=e803]:
+              - link "School & District" [ref=e804] [cursor=pointer]:
+                - /url: https://wayground.com/home/schools-and-districts?source_cat=product&feat=footer
+                - text: Okul bölgesi
+            - listitem [ref=e805]:
+              - link "Wayground for Business" [ref=e806] [cursor=pointer]:
+                - /url: https://wayground.com/forbusiness?source=admin_footer
+                - text: İşletmeler için Yol Haritası
+            - listitem [ref=e807]:
+              - link "Create a quiz" [ref=e808] [cursor=pointer]:
+                - /url: https://wayground.com/home/quiz-maker
+                - text: Bir test oluşturun
+            - listitem [ref=e809]:
+              - link "Create a lesson" [ref=e810] [cursor=pointer]:
+                - /url: /admin?modal=contentCreation&type=lesson
+                - text: Ders oluştur
+        - generic [ref=e811]:
+          - heading "konular" [level=2] [ref=e812]
+          - list [ref=e813]:
+            - listitem [ref=e814]:
+              - link "Mathematics" [ref=e815] [cursor=pointer]:
+                - /url: /en/mathematics-worksheets
+                - text: Matematik
+            - listitem [ref=e816]:
+              - link "Social Studies" [ref=e817] [cursor=pointer]:
+                - /url: /en/social-studies-worksheets
+                - text: Sosyal çalışmalar
+            - listitem [ref=e818]:
+              - link "Science" [ref=e819] [cursor=pointer]:
+                - /url: /en/science-worksheets
+                - text: Bilim
+            - listitem [ref=e820]:
+              - link "Physics" [ref=e821] [cursor=pointer]:
+                - /url: /en/physics-worksheets
+                - text: Fizik
+            - listitem [ref=e822]:
+              - link "Chemistry" [ref=e823] [cursor=pointer]:
+                - /url: /en/chemistry-worksheets
+                - text: Kimya
+            - listitem [ref=e824]:
+              - link "Biology" [ref=e825] [cursor=pointer]:
+                - /url: /en/biology-worksheets
+                - text: Biyoloji
+        - generic [ref=e826]:
+          - heading "Hakkında" [level=2] [ref=e827]
+          - list [ref=e828]:
+            - listitem [ref=e829]:
+              - link "Our Story" [ref=e830] [cursor=pointer]:
+                - /url: https://wayground.com/about
+                - text: Bizim hikayemiz
+            - listitem [ref=e831]:
+              - link "Wayground Blog" [ref=e832] [cursor=pointer]:
+                - /url: https://blog.wayground.com/
+            - listitem [ref=e833]:
+              - link "Media Kit" [ref=e834] [cursor=pointer]:
+                - /url: https://drive.google.com/drive/folders/17nhRoJJX7ST9vyLAEysBfwz0UVJa8cTf
+                - text: Medya kiti
+            - listitem [ref=e835]:
+              - link "Careers" [ref=e836] [cursor=pointer]:
+                - /url: https://wayground.com/careers
+                - text: Kariyer Fırsatları
+        - generic [ref=e837]:
+          - heading "Destek" [level=2] [ref=e838]
+          - list [ref=e839]:
+            - listitem [ref=e840]:
+              - link "F.A.Q." [ref=e841] [cursor=pointer]:
+                - /url: https://support.wayground.com/hc/en-us
+                - text: SSS.
+            - listitem [ref=e842]:
+              - link "Help & Support" [ref=e843] [cursor=pointer]:
+                - /url: https://support.wayground.com/hc/en-us
+                - text: Yardım desteği
+            - listitem [ref=e844]:
+              - link "Privacy Policy" [ref=e845] [cursor=pointer]:
+                - /url: https://wayground.com/privacy
+                - text: Gizlilik Politikası
+            - listitem [ref=e846]:
+              - link "Terms of Service" [ref=e847] [cursor=pointer]:
+                - /url: https://wayground.com/tos
+                - text: Kullanım Şartları
+            - listitem [ref=e848]:
+              - link "Teacher Resources" [ref=e849] [cursor=pointer]:
+                - /url: https://wayground.com/resources
+                - text: Öğretmen Kaynakları
+      - generic [ref=e850]:
+        - generic [ref=e852]:
+          - paragraph [ref=e853]: © 2026 Quizizz Inc. (DBA Wayground)
+          - generic [ref=e854]:
+            - link "Twitter" [ref=e855] [cursor=pointer]:
+              - /url: https://twitter.com/quizizz
+              - generic [ref=e856]: 
+            - link "Facebook" [ref=e857] [cursor=pointer]:
+              - /url: https://facebook.com/quizizz
+              - generic [ref=e858]: 
+            - link "Instagram" [ref=e859] [cursor=pointer]:
+              - /url: https://instagram.com/quizizz
+              - generic [ref=e860]: 
+            - link "Site Haritası" [ref=e862] [cursor=pointer]:
+              - /url: /practice/sitemaps
+        - generic [ref=e865]:
+          - link "App Store" [ref=e866] [cursor=pointer]:
+            - /url: https://share.quizizz.com/nz4P08MhCM
+          - link "Google Store" [ref=e868] [cursor=pointer]:
+            - /url: https://share.quizizz.com/EBAH8OlhCM

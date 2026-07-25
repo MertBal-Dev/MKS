@@ -25,6 +25,7 @@ import ilkYardimQuestions from './questions/ilk-yardim.json';
 import muzecilikTopic from './topics/muzecilik.json';
 import muzecilikQuestions from './questions/muzecilik.json';
 import deneme1 from './exams/deneme-1.json';
+import cikmis2025Subat from './exams/cikmis-2025-subat.json';
 
 /**
  * İçerik kayıt noktası. Yeni içerik eklemek = JSON dosyası + buraya bir satır.
@@ -60,7 +61,10 @@ export const questionBank: Question[] = [
   ...(muzecilikQuestions as unknown as Question[]),
 ];
 
-export const exams: Exam[] = [deneme1 as unknown as Exam];
+export const exams: Exam[] = [
+  deneme1 as unknown as Exam,
+  cikmis2025Subat as unknown as Exam,
+];
 
 export function topicQuestions(topicId: string): Question[] {
   return questionBank.filter((q) => q.topicId === topicId);
