@@ -37,6 +37,11 @@ export interface AiHocaRequest {
   question?: AiHocaQuestion;
   topic?: AiHocaTopic;
   messages?: AiHocaTurn[];
+  /**
+   * Serbest sohbette istemcinin ilettiği, uygulamanın doğrulanmış içeriğinden
+   * seçilmiş ilgili notlar. Modelin kendi hafızası yerine bunlara dayanmasını sağlar.
+   */
+  grounding?: string;
 }
 
 export interface AiHocaEnv {
@@ -47,10 +52,31 @@ export interface AiHocaEnv {
 
 const MODEL = 'gemini-2.5-flash';
 
-const SYSTEM = `Sen Türkiye'deki Turist Rehberliği Mesleğe Kabul Sınavı (MKS) için öğrenci çalıştıran,
+function systemPrompt(): string {
+  const today = new Date().toLocaleDateString('tr-TR', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+    timeZone: 'Europe/Istanbul',
+  });
+  return `Sen Türkiye'deki Turist Rehberliği Mesleğe Kabul Sınavı (MKS) için öğrenci çalıştıran,
 alanına hâkim, sıcak ve cesaretlendirici bir hocasın. Öğrencin 29 Ağustos 2026'daki MKS-4'e hazırlanıyor
 ve sınav kaygısı yaşıyor. Türkçe, net ve sınav odaklı konuş. Markdown kullan; başlıkları kısa tut.
-Gereksiz girizgah yapma, doğrudan konuya gir.
+Gereksiz girizgah yapma, doğrudan konuya gir. Uzun girizgah ve kapanış cümleleri yazma —
+cevabın gövdesi bilgi olsun.
+
+BUGÜNÜN TARİHİ: ${today}. Yapılmış oturumlar: MKS-1 (23 Şubat 2025), MKS-2 (10 Ağustos 2025),
+MKS-3 (14 Mart 2026). Sıradaki oturum MKS-4 (29 Ağustos 2026).
+
+ÇIKMIŞ SORULAR HAKKINDA MUTLAK KURAL:
+Bu oturumların soruları uygulamanın "Denemeler" bölümünde duruyor ama SEN o soru metinlerini
+GÖRMÜYORSUN. Bu yüzden hiçbir oturumun sorusunu, soru numarasını veya içeriğini ASLA yazma;
+"12. soruda şu çıkmıştı" türü cümleler kurma. Öğrenci çıkmış soruları sorarsa:
+"Bu oturumun soruları uygulamanın Denemeler bölümünde; oradan çözebilirsin" de ve
+sınavın GENEL çerçevesini anlatmakla yetin. Uydurma soru üretmek en ağır hatadır.
+Belirli bir oturumun neye "ağırlık verdiğini" de söyleme — o oturumu görmedin;
+yalnızca sınavın resmi konu dağılımından konuşabilirsin.
+(İstisna: Öğrenci sana bir sorunun metnini kendisi verirse onu çözebilirsin.)
 
 DOĞRULUK KURALLARI (en önemli bölüm):
 - YALNIZCA yüzde yüz emin olduğun, ders kitabı düzeyinde yerleşik olguları yaz.
@@ -61,7 +87,21 @@ DOĞRULUK KURALLARI (en önemli bölüm):
 - Öğrenci yanlış bir bilgi söylerse nazikçe düzelt.
 
 SINAV BİLGİSİ: 100 soru, 120 dakika, baraj 70. Yanlış doğruyu götürmez.
-Mart 2026 oturumundan itibaren sınav 5 şıklı (A-E) hale geldi.`;
+Mart 2026 oturumundan itibaren sınav 5 şıklı (A-E) hale geldi.
+
+RESMİ KONU DAĞILIMI (14 başlık, toplam 100 soru) — konu sorulduğunda BUNU kullan:
+Genel Turizm Bilgisi ve Mevzuatı 15 • Türkiye'nin Tarihi ve Coğrafyası 13 •
+Anadolu Medeniyetleri Tarihi 12 • Roma, Yunan ve Bizans Tarihi 8 •
+Genel Türk Tarihi ve Kültürü 6 • Arkeoloji ve Mitoloji 6 • Genel Sanat Tarihi 6 •
+Türk Halk Bilimi ve Edebiyatı 6 • Genel Sağlık ve İlk Yardım 5 •
+İletişim Becerileri ve Etik 5 • Türkiye'nin Flora ve Faunası 5 •
+Müzecilik ve Suçlar 5 • Osmanlı İmparatorluğu Tarihi 4 • Dinler Tarihi 4.
+
+ÖNEMLİ: Bu sınav tamamen Türkçe genel konu sınavıdır; İÇİNDE YABANCI DİL BÖLÜMÜ YOKTUR.
+Yabancı dil yeterliği mesleğe kabulün ayrı bir ön şartıdır, MKS'nin konusu değildir.`;
+}
+
+const SYSTEM = systemPrompt();
 
 function questionContext(q: AiHocaQuestion): string {
   const choiceLines = q.choices.map((c) => `${c.id}) ${c.text}`).join('\n');
@@ -162,6 +202,11 @@ export async function runAiHoca(req: AiHocaRequest, env: AiHocaEnv): Promise<str
       systemInstruction = `${SYSTEM}\n\nÖğrenci şu soru üzerinde çalışıyor:\n${questionContext(req.question)}`;
     } else if (req.topic) {
       systemInstruction = `${SYSTEM}\n\nÖğrenci şu konuyu çalışıyor:\n${topicContext(req.topic)}`;
+    } else if (req.grounding) {
+      // Serbest sohbette uygulamanın doğrulanmış notları önceliklidir
+      systemInstruction =
+        `${SYSTEM}\n\nUYGULAMANIN DOĞRULANMIŞ NOTLARI (kendi hafızanla çelişirse BUNLARA uy):\n` +
+        `"""\n${req.grounding.slice(0, 7000)}\n"""`;
     }
     contents = turns.slice(-12).map((t) => ({ role: t.role, parts: [{ text: t.text }] }));
   }
@@ -172,8 +217,14 @@ export async function runAiHoca(req: AiHocaRequest, env: AiHocaEnv): Promise<str
     config: {
       systemInstruction,
       temperature: 0.3,
-      // Konu derinleştirmesi uzun metin ister; soru çözümü daha kısadır
-      maxOutputTokens: mode === 'expand' ? 3500 : 1800,
+      /**
+       * Gemini 2.5 varsayılan olarak "düşünme" jetonu harcar ve bunlar
+       * maxOutputTokens bütçesinden düşülür; bu yüzden cevaplar yarıda kesiliyordu.
+       * Bu görev hatırlama + biçimlendirme olduğundan düşünmeyi kapatıp
+       * bütçenin tamamını metne ayırıyoruz.
+       */
+      thinkingConfig: { thinkingBudget: 0 },
+      maxOutputTokens: mode === 'expand' ? 8192 : 4096,
     },
   });
 

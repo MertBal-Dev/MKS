@@ -1,5 +1,6 @@
 import { createContext, useCallback, useContext, useMemo, useState, type ReactNode } from 'react';
 import { TOPICS } from '@/lib/constants';
+import { buildGrounding } from '@/lib/grounding';
 import type { ChoiceId, Question } from '@/lib/types';
 
 export interface ChatTurn {
@@ -162,8 +163,10 @@ export function AiHocaProvider({ children }: { children: ReactNode }) {
     setState((s) => {
       const turns: ChatTurn[] = [...s.turns, { role: 'user', text: trimmed }];
       const history = turns.map((t) => ({ role: t.role, text: t.text }));
+      // Soru/konu bağlamı yoksa, uygulamanın doğrulanmış notlarından ilgili olanı ekle
+      const grounding = !s.question && !s.topic ? buildGrounding(trimmed) : undefined;
 
-      callApi({ mode: 'chat', question: s.question, topic: s.topic, messages: history })
+      callApi({ mode: 'chat', question: s.question, topic: s.topic, grounding, messages: history })
         .then((answer) =>
           setState((cur) => ({ ...cur, turns: [...cur.turns, { role: 'model', text: answer }], loading: false })),
         )
