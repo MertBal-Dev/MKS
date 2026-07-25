@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- MKS Çalışma Odası — çini tabak madalyonu -->
+  <rect width="512" height="512" rx="112" fill="#131120"/>
+  <!-- çentikli dış halka -->
+  <circle cx="256" cy="256" r="196" fill="none" stroke="#2A2547" stroke-width="22" stroke-dasharray="6 22" stroke-linecap="round"/>
+  <!-- altın zaman yayı -->
+  <circle cx="256" cy="256" r="196" fill="none" stroke="#D9A441" stroke-width="10" stroke-dasharray="500 1232" stroke-linecap="round" transform="rotate(-90 256 256)"/>
+  <!-- iç ince çerçeve -->
+  <circle cx="256" cy="256" r="156" fill="none" stroke="#3A3458" stroke-width="3"/>
+  <!-- MKS monogramı -->
+  <text x="256" y="296" font-family="Georgia, 'Times New Roman', serif" font-size="118" font-weight="600" fill="#F2EFE7" text-anchor="middle" letter-spacing="2">MKS</text>
+  <!-- mercan nokta (İznik göbek motifi) -->
+  <circle cx="256" cy="352" r="10" fill="#E2725B"/>
+</svg>

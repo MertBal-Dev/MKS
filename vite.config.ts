@@ -48,7 +48,31 @@ export default defineConfig(({ mode }) => {
     plugins: [
       react(),
       tailwindcss(),
-      VitePWA({ registerType: 'autoUpdate', manifest: false }),
+      VitePWA({
+        registerType: 'autoUpdate',
+        includeAssets: ['favicon.svg', 'apple-touch-icon.png'],
+        manifest: {
+          name: 'MKS Çalışma Odası',
+          short_name: 'MKS',
+          description: 'Turist Rehberliği Mesleğe Kabul Sınavı hazırlık uygulaması',
+          lang: 'tr',
+          theme_color: '#131120',
+          background_color: '#131120',
+          display: 'standalone',
+          start_url: '/',
+          icons: [
+            { src: '/pwa-192.png', sizes: '192x192', type: 'image/png' },
+            { src: '/pwa-512.png', sizes: '512x512', type: 'image/png' },
+            { src: '/pwa-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+          ],
+        },
+        workbox: {
+          globPatterns: ['**/*.{js,css,html,woff2,png,svg}'],
+          navigateFallback: '/index.html',
+          navigateFallbackDenylist: [/^\/api\//],
+          maximumFileSizeToCacheInBytes: 6 * 1024 * 1024,
+        },
+      }),
       aiHocaDev(env),
     ],
     resolve: {
