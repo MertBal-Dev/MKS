@@ -8,7 +8,8 @@ export default async (req: Request): Promise<Response> => {
   let body: AiHocaRequest;
   try {
     body = (await req.json()) as AiHocaRequest;
-    if (!body || (!body.question && !body.messages?.length)) throw new Error('eksik alan');
+    // 'expand' modu yalnızca topic gönderir — question ve messages boştur.
+    if (!body || (!body.question && !body.topic && !body.messages?.length)) throw new Error('eksik alan');
   } catch {
     return Response.json({ error: 'Geçersiz istek gövdesi' }, { status: 400 });
   }

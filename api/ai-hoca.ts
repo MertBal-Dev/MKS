@@ -9,8 +9,9 @@ export default async function handler(req: any, res: any): Promise<void> {
     return;
   }
 
+  // 'expand' modu yalnızca topic gönderir — question ve messages boştur.
   const body = req.body as AiHocaRequest | undefined;
-  if (!body || (!body.question && !body.messages?.length)) {
+  if (!body || (!body.question && !body.topic && !body.messages?.length)) {
     res.status(400).json({ error: 'Geçersiz istek gövdesi' });
     return;
   }

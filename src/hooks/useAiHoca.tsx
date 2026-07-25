@@ -65,13 +65,32 @@ function toContext(question: Question, selected?: ChoiceId): AiQuestionContext {
   };
 }
 
+/**
+ * Arıza sebebini ayırt eden mesaj. Tek bir "yanıt veremiyor" metni, API'nin hiç
+ * bulunmadığı durumla kimlik bilgisi hatasını aynı gösterip teşhisi zorlaştırıyordu.
+ */
+function hataMesaji(status: number): string {
+  if (status === 404)
+    return 'AI Hoca bu adreste çalışmıyor. Statik önizlemede (vite preview) sunucu fonksiyonu bulunmaz — geliştirme sunucusunu veya yayındaki siteyi kullan.';
+  if (status === 502 || status === 500)
+    return 'AI Hoca sunucuya bağlanamadı. Vertex AI kimlik bilgileri (GOOGLE_CLOUD_PROJECT, GOOGLE_CLOUD_LOCATION, GOOGLE_CREDENTIALS_JSON) eksik veya hatalı olabilir.';
+  if (status === 400) return 'AI Hoca isteği anlayamadı. Sayfayı yenileyip tekrar dene.';
+  if (status === 429) return 'Çok fazla istek gönderildi. Birkaç saniye sonra tekrar dene.';
+  return 'AI Hoca şu an yanıt veremiyor. İnternet bağlantını kontrol edip tekrar dene.';
+}
+
 async function callApi(payload: unknown): Promise<string> {
-  const res = await fetch('/api/ai-hoca', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(payload),
-  });
-  if (!res.ok) throw new Error(String(res.status));
+  let res: Response;
+  try {
+    res = await fetch('/api/ai-hoca', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload),
+    });
+  } catch {
+    throw new Error('Ağa ulaşılamadı. İnternet bağlantını kontrol et.');
+  }
+  if (!res.ok) throw new Error(hataMesaji(res.status));
   const data = (await res.json()) as { text: string };
   return data.text;
 }
@@ -105,7 +124,7 @@ export function AiHocaProvider({ children }: { children: ReactNode }) {
         sessionStorage.setItem(cacheKey(question.stem), text);
         setState((s) => ({ ...s, turns: [{ role: 'model', text }], loading: false }));
       })
-      .catch(() => setState((s) => ({ ...s, loading: false, error: 'AI Hoca şu an yanıt veremiyor.' })));
+      .catch((e: Error) => setState((s) => ({ ...s, loading: false, error: e.message })));
   }, []);
 
   const expandTopic = useCallback((topic: AiTopicContext) => {
@@ -129,7 +148,7 @@ export function AiHocaProvider({ children }: { children: ReactNode }) {
         sessionStorage.setItem(key, text);
         setState((s) => ({ ...s, turns: [{ role: 'model', text }], loading: false }));
       })
-      .catch(() => setState((s) => ({ ...s, loading: false, error: 'AI Hoca şu an yanıt veremiyor.' })));
+      .catch((e: Error) => setState((s) => ({ ...s, loading: false, error: e.message })));
   }, []);
 
   const openTopicChat = useCallback((topic: AiTopicContext) => {
@@ -170,9 +189,7 @@ export function AiHocaProvider({ children }: { children: ReactNode }) {
         .then((answer) =>
           setState((cur) => ({ ...cur, turns: [...cur.turns, { role: 'model', text: answer }], loading: false })),
         )
-        .catch(() =>
-          setState((cur) => ({ ...cur, loading: false, error: 'AI Hoca şu an yanıt veremiyor.' })),
-        );
+        .catch((e: Error) => setState((cur) => ({ ...cur, loading: false, error: e.message })));
 
       return { ...s, turns, loading: true, error: null };
     });
