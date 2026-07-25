@@ -14,6 +14,7 @@ import {
   type ExamSessionState,
 } from '@/lib/examSession';
 import { gradeExam } from '@/lib/scoring';
+import { DAILY_DURATION_MIN, DAILY_EXAM_PREFIX, resolveDailyExam } from '@/lib/dailyExam';
 import { recordAnswer } from '@/lib/wrongPool';
 import { wrongToCard } from '@/lib/autoCards';
 import { newCard } from '@/lib/srs';
@@ -25,7 +26,8 @@ export default function SinavOdasi() {
   const navigate = useNavigate();
   const { update } = useAppState();
 
-  const exam = exams.find((e) => e.id === examId);
+  const exam = exams.find((e) => e.id === examId) ?? resolveDailyExam(examId);
+  const durationMin = exam?.id.startsWith(DAILY_EXAM_PREFIX) ? DAILY_DURATION_MIN : EXAM_DURATION_MIN;
 
   const [session, setSession] = useState<ExamSessionState | null>(() => {
     const existing = loadSession(sessionStorage);
@@ -76,7 +78,7 @@ export default function SinavOdasi() {
   );
 
   // Süre dolunca otomatik teslim
-  const msLeft = session ? remainingMs(session, new Date()) : null;
+  const msLeft = session ? remainingMs(session, new Date(), durationMin) : null;
   useEffect(() => {
     if (session && msLeft === 0) submit(session);
   }, [session, msLeft, submit]);
@@ -107,11 +109,14 @@ export default function SinavOdasi() {
           </p>
           <h1 className="font-display mb-4 text-2xl font-semibold">{exam.title}</h1>
           <ul className="mb-6 space-y-1 text-sm text-muted">
-            <li>{exam.questions.length} soru • {EXAM_DURATION_MIN} dakika</li>
+            <li>{exam.questions.length} soru • {durationMin} dakika</li>
             <li>Baraj: {PASS_SCORE} puan • Yanlış, doğruyu götürmez</li>
             <li>Cevaplar sınav bitene kadar gösterilmez</li>
           </ul>
-          {exam.note && <p className="mb-6 text-xs text-muted">{exam.note}</p>}
+          {exam.note && <p className="mb-3 text-xs text-muted">{exam.note}</p>}
+          <p className="mb-6 rounded-xl bg-altin/10 px-4 py-3 text-sm text-altin">
+            Bu bir prova — puan değil, öğrenmek için buradasın. Her deneme seni gerçek sınava biraz daha hazırlar. 💛
+          </p>
           <button
             type="button"
             onClick={() => {
@@ -174,7 +179,7 @@ export default function SinavOdasi() {
         <div className="h-1 overflow-hidden rounded-full bg-raised">
           <div
             className={['h-full rounded-full transition-all', urgent ? 'bg-mercan' : 'bg-altin'].join(' ')}
-            style={{ width: `${((msLeft ?? 0) / (EXAM_DURATION_MIN * 60_000)) * 100}%` }}
+            style={{ width: `${((msLeft ?? 0) / (durationMin * 60_000)) * 100}%` }}
           />
         </div>
       </header>

@@ -1,12 +1,28 @@
 import { Link } from 'react-router-dom';
-import { ChevronRight, FileText, Timer } from 'lucide-react';
+import { CalendarHeart, ChevronRight, FileText, Timer } from 'lucide-react';
 import { PageHeader } from '@/components/PageHeader';
 import { useAppState } from '@/hooks/useAppState';
 import { exams } from '@/content/index';
 import { EXAM_DURATION_MIN, PASS_SCORE } from '@/lib/constants';
+import { DAILY_DURATION_MIN, DAILY_EXAM_PREFIX, DAILY_QUESTION_COUNT } from '@/lib/dailyExam';
+import { todayKey } from '@/lib/streak';
 
 export default function Denemeler() {
   const { state } = useAppState();
+
+  const today = todayKey();
+  const todayId = `${DAILY_EXAM_PREFIX}${today}`;
+  const todayResult = [...state.examResults].reverse().find((r) => r.examId === todayId);
+  const todayLabel = new Date(`${today}T12:00:00+03:00`).toLocaleDateString('tr-TR', {
+    day: 'numeric',
+    month: 'long',
+    weekday: 'long',
+    timeZone: 'Europe/Istanbul',
+  });
+  const pastDailies = state.examResults
+    .filter((r) => r.examId.startsWith(DAILY_EXAM_PREFIX) && r.examId !== todayId)
+    .slice(-7)
+    .reverse();
 
   return (
     <div>
@@ -14,6 +30,67 @@ export default function Denemeler() {
         title="Denemeler & Çıkmış Sorular"
         subtitle={`Gerçek format: 100 soru • ${EXAM_DURATION_MIN} dk • baraj ${PASS_SCORE}`}
       />
+
+      {/* Günün Denemesi */}
+      <section className="rise-in mb-6 rounded-(--radius-card) border border-altin/40 bg-surface p-5">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <div className="flex min-w-0 items-center gap-4">
+            <span className="grid size-11 shrink-0 place-items-center rounded-xl bg-altin/15 text-altin" aria-hidden>
+              <CalendarHeart size={22} />
+            </span>
+            <div className="min-w-0">
+              <h2 className="font-display font-semibold">Günün Denemesi</h2>
+              <p className="mt-0.5 text-xs text-muted">
+                {todayLabel} • {DAILY_QUESTION_COUNT} soru • {DAILY_DURATION_MIN} dk — her güne özel yeni set
+              </p>
+            </div>
+          </div>
+          {todayResult ? (
+            <div className="flex items-center gap-3">
+              <span
+                className={['font-display text-2xl font-semibold', todayResult.score >= PASS_SCORE ? 'text-turkuaz' : 'text-altin'].join(' ')}
+                style={{ fontVariantNumeric: 'tabular-nums' }}
+              >
+                {todayResult.score.toLocaleString('tr-TR')}
+              </span>
+              <Link to={`/sinav/${todayId}/sonuc`} className="rounded-full border border-line px-4 py-2 text-sm text-muted hover:text-ink">
+                Sonucu Gör
+              </Link>
+            </div>
+          ) : (
+            <Link
+              to={`/sinav/${todayId}`}
+              className="rounded-full bg-altin px-5 py-2.5 text-sm font-semibold text-ground transition-transform active:scale-95"
+            >
+              Bugünün Setini Çöz
+            </Link>
+          )}
+        </div>
+        {todayResult && (
+          <p className="mt-3 text-sm text-turkuaz">Bugünün seti tamam — yarın sabah yepyeni 50 soru burada olacak. 🌞</p>
+        )}
+        {pastDailies.length > 0 && (
+          <div className="mt-4 border-t border-line pt-3">
+            <p className="mb-2 text-xs font-medium tracking-wide text-muted">SON GÜNLERİN SETLERİ</p>
+            <div className="flex flex-wrap gap-2">
+              {pastDailies.map((r) => {
+                const d = r.examId.slice(DAILY_EXAM_PREFIX.length);
+                const lbl = new Date(`${d}T12:00:00+03:00`).toLocaleDateString('tr-TR', { day: 'numeric', month: 'short', timeZone: 'Europe/Istanbul' });
+                return (
+                  <Link
+                    key={r.examId + r.finishedAt}
+                    to={`/sinav/${r.examId}/sonuc`}
+                    className="rounded-full border border-line bg-ground px-3 py-1.5 text-xs text-muted hover:text-ink"
+                    style={{ fontVariantNumeric: 'tabular-nums' }}
+                  >
+                    {lbl}: <strong className={r.score >= PASS_SCORE ? 'text-turkuaz' : 'text-altin'}>{Math.round(r.score)}</strong>
+                  </Link>
+                );
+              })}
+            </div>
+          </div>
+        )}
+      </section>
 
       {exams.length === 0 ? (
         <div className="rounded-(--radius-card) border border-line bg-surface p-8 text-center text-muted">

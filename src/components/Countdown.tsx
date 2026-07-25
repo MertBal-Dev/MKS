@@ -94,3 +94,64 @@ export function CountdownInline() {
     </span>
   );
 }
+
+/** Sakin tarih rozeti — gün sayısını bağırmadan söyler. */
+export function CountdownPill() {
+  const now = useNow(60_000);
+  const days = Math.max(Math.ceil((EXAM_DATE.getTime() - now.getTime()) / 86_400_000), 0);
+  return (
+    <span
+      className="inline-flex items-center gap-1.5 rounded-full border border-line bg-surface px-3 py-1.5 text-xs text-muted"
+      style={{ fontVariantNumeric: 'tabular-nums' }}
+    >
+      {EXAM_NAME} • 29 Ağustos'a {days} gün — hazırlanan bir gün daha 💛
+    </span>
+  );
+}
+
+/**
+ * Günlük başarı halkası: bugünün plan hedeflerinin dolumu.
+ * Geri sayımın yerini alan pozitif çerçeve — halka her sabah sıfırlanır,
+ * üç küçük adımla dolar; "yetişemiyorum" yerine "bugünü tamamladım" duygusu verir.
+ */
+export function DailyRing({ done, total }: { done: number; total: number }) {
+  const R = 62;
+  const C = 2 * Math.PI * R;
+  const frac = total > 0 ? done / total : 0;
+  const complete = total > 0 && done >= total;
+
+  return (
+    <div className="relative mx-auto grid size-40 place-items-center" aria-label={`Bugün ${done} / ${total} hedef tamamlandı`}>
+      <svg viewBox="0 0 160 160" className="absolute inset-0 size-full -rotate-90">
+        <circle cx="80" cy="80" r={R} fill="none" stroke="var(--line)" strokeWidth="9" strokeDasharray="2 7" />
+        <circle
+          cx="80"
+          cy="80"
+          r={R}
+          fill="none"
+          stroke={complete ? 'var(--turkuaz)' : 'var(--altin)'}
+          strokeWidth="7"
+          strokeLinecap="round"
+          strokeDasharray={`${C * frac} ${C}`}
+          style={{ transition: 'stroke-dasharray 0.8s cubic-bezier(0.22, 1, 0.36, 1)' }}
+        />
+      </svg>
+      <div className="text-center">
+        {complete ? (
+          <>
+            <div className="font-display text-3xl">✓</div>
+            <div className="mt-1 text-xs font-medium text-turkuaz">Bugün tamam!</div>
+          </>
+        ) : (
+          <>
+            <div className="font-display text-4xl font-semibold" style={{ fontVariantNumeric: 'tabular-nums' }}>
+              {done}
+              <span className="text-xl text-muted">/{total}</span>
+            </div>
+            <div className="mt-1 text-xs text-muted">bugünün hedefi</div>
+          </>
+        )}
+      </div>
+    </div>
+  );
+}

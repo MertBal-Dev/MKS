@@ -69,7 +69,7 @@ export function AppShell({ children }: { children: ReactNode }) {
         </div>
       </aside>
 
-      <main className="page-pad mx-auto w-full max-w-3xl px-4 pt-4 lg:px-8 lg:pt-8">{children}</main>
+      <main className="page-pad mx-auto w-full max-w-3xl px-4 pt-4 lg:px-8 lg:pt-8 xl:max-w-5xl">{children}</main>
 
       {/* Mobil alt sekme çubuğu */}
       <nav

@@ -11,6 +11,12 @@ const THEMES = [
   { value: 'system', label: 'Sistem', icon: SunMoon },
 ] as const;
 
+const COUNTDOWN_MODES = [
+  { value: 'soft', label: 'Yumuşak', desc: 'Günlük hedef halkası + sakin tarih rozeti (önerilen)' },
+  { value: 'full', label: 'Tam', desc: 'Büyük gün sayacı — motivasyonu sayaçtan alanlar için' },
+  { value: 'hidden', label: 'Gizli', desc: 'Ana sayfada tarih/sayaç hiç görünmez' },
+] as const;
+
 export default function Ayarlar() {
   const { state, update, replace } = useAppState();
   const fileRef = useRef<HTMLInputElement>(null);
@@ -61,6 +67,34 @@ export default function Ayarlar() {
             >
               <Icon size={20} aria-hidden />
               {label}
+            </button>
+          ))}
+        </div>
+      </section>
+
+      {/* Geri sayım görünümü */}
+      <section className="rise-in mb-6" style={{ animationDelay: '40ms' }}>
+        <h2 className="mb-2 text-sm font-medium text-muted">Geri sayım görünümü</h2>
+        <div className="space-y-2">
+          {COUNTDOWN_MODES.map(({ value, label, desc }) => (
+            <button
+              key={value}
+              type="button"
+              onClick={() => update((s) => ({ ...s, settings: { ...s.settings, countdown: value } }))}
+              aria-pressed={state.settings.countdown === value}
+              className={[
+                'flex w-full items-center justify-between gap-3 rounded-(--radius-card) border px-5 py-3.5 text-left transition-colors',
+                state.settings.countdown === value
+                  ? 'border-mercan bg-mercan/10'
+                  : 'border-line bg-surface hover:bg-raised',
+              ].join(' ')}
+            >
+              <span>
+                <span className={['block font-medium', state.settings.countdown === value ? 'text-mercan' : ''].join(' ')}>
+                  {label}
+                </span>
+                <span className="text-xs text-muted">{desc}</span>
+              </span>
             </button>
           ))}
         </div>

@@ -79,7 +79,10 @@ export default function Tekrar() {
           <p className="font-display my-3 text-4xl font-semibold" style={{ fontVariantNumeric: 'tabular-nums' }}>
             {known} <span className="text-xl text-muted">/ {ids.length} bildin</span>
           </p>
-          <p className="text-sm text-muted">Bilemediklerin yarın tekrar karşına çıkacak — sistem böyle çalışır.</p>
+          <p className="text-sm text-muted">
+            Bilemediklerin yarın tekrar karşına çıkacak — sistem böyle çalışır. Beynin şu an bu bağlantıları
+            güçlendiriyor; yarın aynı kartlar daha kolay gelecek. 🌱
+          </p>
           <Link to="/" className="mt-5 inline-block rounded-full bg-mercan px-6 py-2.5 text-sm font-semibold text-mercan-ink">
             Ana sayfa
           </Link>

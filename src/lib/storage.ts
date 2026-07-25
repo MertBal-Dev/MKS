@@ -24,6 +24,8 @@ export const AppStateSchema = z.object({
   version: z.literal(1),
   settings: z.object({
     theme: z.enum(['dark', 'light', 'system']),
+    /** Geri sayım görünümü: soft = günlük halka + sakin tarih; full = büyük gün sayacı; hidden = tarih gizli. */
+    countdown: z.enum(['soft', 'full', 'hidden']).default('soft'),
   }),
   attempts: z.record(z.string(), AttemptSchema),
   flagged: z.array(z.string()),
@@ -45,7 +47,7 @@ export type ExamResult = z.infer<typeof ExamResultSchema>;
 
 export const DEFAULT_STATE: AppState = {
   version: 1,
-  settings: { theme: 'dark' },
+  settings: { theme: 'dark', countdown: 'soft' },
   attempts: {},
   flagged: [],
   wrongPool: {},

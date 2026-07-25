@@ -39,8 +39,8 @@ export default function Istatistik() {
             </p>
             <p className="mt-2 text-sm text-muted">
               {estimate >= PASS_SCORE
-                ? `Baraj ${PASS_SCORE} — şu an üstündesin, temponu koru.`
-                : `Baraja ${(PASS_SCORE - estimate).toLocaleString('tr-TR')} puan var. Aşağıdaki kırmızı konulara yüklen.`}
+                ? `Baraj ${PASS_SCORE} — şu an üstündesin! Bu tempoyu koruyan herkes o salondan gülerek çıkar. 🌟`
+                : `Baraja ${(PASS_SCORE - estimate).toLocaleString('tr-TR')} puan var — kapanmayacak mesafe değil. Kırmızı konulara yüklendikçe bu sayının yükselişini izleyeceksin. 💪`}
             </p>
           </>
         )}

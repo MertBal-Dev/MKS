@@ -37,14 +37,16 @@ npm run build          # üretim derlemesi (dist/)
 İlerleme tarayıcıda saklanır. **Ayarlar → Verini indir** ile JSON yedeği al,
 diğer cihazda **Yedekten yükle** ile geri getir.
 
-## Yayınlama (Netlify — ücretsiz)
+## Yayınlama (Vercel — ücretsiz)
 
-1. [netlify.com](https://netlify.com)'da ücretsiz hesap aç.
-2. Terminalde: `npx netlify-cli login` → `npx netlify-cli init` → `npx netlify-cli deploy --prod`
-   (veya app.netlify.com'da "Deploy manually" ile `dist/` klasörünü sürükle-bırak; bu durumda AI Hoca için CLI/Git yöntemi gerekir).
-3. **AI Hoca için** Netlify panelinde *Site settings → Environment variables* bölümüne
-   `.env.example` içindeki üç değişkeni ekle (değerler yereldeki `.env.local` dosyasında).
-4. `netlify.toml` hazır: build, SPA yönlendirmesi ve `/api/ai-hoca` fonksiyonu otomatik kurulur.
+1. [vercel.com](https://vercel.com)'da ücretsiz hesap aç.
+2. Terminalde: `npx vercel login` → proje klasöründe `npx vercel` (ilk kurulum; soruları Enter'la geç)
+   → `npx vercel --prod`.
+3. **AI Hoca için** Vercel panelinde *Project → Settings → Environment Variables* bölümüne
+   `.env.example` içindeki üç değişkeni ekle (değerler yereldeki `.env.local` dosyasında) ve
+   yeniden deploy et (`npx vercel --prod`).
+4. `vercel.json` hazır: SPA yönlendirmesi ayarlı; `api/ai-hoca.ts` otomatik olarak
+   `/api/ai-hoca` fonksiyonuna dönüşür. (Netlify tercih edilirse `netlify.toml` da duruyor.)
 
 ## İçerik ekleme
 

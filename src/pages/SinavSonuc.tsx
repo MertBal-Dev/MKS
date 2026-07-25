@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Link, Navigate, useParams } from 'react-router-dom';
 import { QuestionCard } from '@/components/QuestionCard';
 import { exams } from '@/content/index';
+import { resolveDailyExam } from '@/lib/dailyExam';
 import { PASS_SCORE, TOPICS, type TopicId } from '@/lib/constants';
 import { useAppState } from '@/hooks/useAppState';
 
@@ -10,7 +11,7 @@ export default function SinavSonuc() {
   const { state } = useAppState();
   const [openWrong, setOpenWrong] = useState<string | null>(null);
 
-  const exam = exams.find((e) => e.id === examId);
+  const exam = exams.find((e) => e.id === examId) ?? resolveDailyExam(examId);
   const result = [...state.examResults].reverse().find((r) => r.examId === examId);
 
   if (!exam || !result) return <Navigate to="/denemeler" replace />;
@@ -35,6 +36,11 @@ export default function SinavSonuc() {
         </p>
         <p className="mt-2 font-medium">
           {passed ? 'Geçtin! Baraj aşıldı 🎉' : `Barajın ${gap.toLocaleString('tr-TR')} puan altında — birlikte kapatacağız.`}
+        </p>
+        <p className="mt-2 text-sm text-muted">
+          {passed
+            ? 'Bu puan tesadüf değil; emeğinin karşılığı. Sınav günü de böyle olacak. 🌟'
+            : 'Unutma: bu yanlışlar artık sınavda karşına çıkamaz — hepsini burada yakaladın. Doğru yoldasın. 💪'}
         </p>
         <p className="mt-3 text-sm text-muted" style={{ fontVariantNumeric: 'tabular-nums' }}>
           {result.correct} doğru • {result.wrong} yanlış • {result.blank} boş

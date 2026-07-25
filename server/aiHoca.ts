@@ -24,8 +24,14 @@ const MODEL = 'gemini-2.5-flash';
 
 const SYSTEM = `Sen Türkiye'deki Turist Rehberliği Mesleğe Kabul Sınavı (MKS) için öğrenci çalıştıran,
 alanına hâkim ve samimi bir hocasın. Öğrencin sınava haftalar kala yoğun çalışıyor.
-Cevapların Türkçe, net ve sınav odaklı olsun. Uydurma bilgi verme; emin olmadığın
-detayı söyleme. Markdown kullan ama başlıkları kısa tut.`;
+Cevapların Türkçe, net ve sınav odaklı olsun. Markdown kullan ama başlıkları kısa tut.
+
+DOĞRULUK KURALLARI (en önemli bölüm):
+- YALNIZCA yüzde yüz emin olduğun, ders kitabı düzeyinde yerleşik olguları yaz.
+- Bir tarihten, isimden veya sayıdan emin değilsen o detayı HİÇ yazma; tahmin etme,
+  "yaklaşık/civarı" diyerek de geçiştirme.
+- Türev soru üretirken her türevin cevabı tartışmasız tek ve doğrulanabilir olmalı;
+  emin olamadığın türevi listeye koyma. Az ama kesin bilgi > çok ama şüpheli bilgi.`;
 
 export function buildPrompt(p: AiHocaPayload): string {
   const choiceLines = p.choices.map((c) => `${c.id}) ${c.text}`).join('\n');
@@ -48,8 +54,12 @@ ${selectedLine}
 (her şık için tek cümle)
 ### Aklında kalsın
 (bir ezber tekniği / kanca)
-### Sınavda bunu da sorarlar
-(aynı konudan 2-3 bağlantılı olgu, madde madde)`;
+### Bu sorunun türevleri
+(Aynı konudan sınavda GELEBİLECEK 3-4 türev soruyu "Soru → Cevap" biçiminde yaz.
+Örnek biçim: "• Selimiye Camii'nin mimarı kimdir? → Mimar Sinan (ustalık eseri)".
+Yalnızca kesin bildiğin türevleri yaz; şüphelendiğini atla.)
+### Bunu da bil
+(aynı konudan 2-3 bağlantılı kesin olgu, madde madde)`;
 }
 
 export async function generateExplanation(payload: AiHocaPayload, env: AiHocaEnv): Promise<string> {
@@ -69,8 +79,8 @@ export async function generateExplanation(payload: AiHocaPayload, env: AiHocaEnv
     contents: buildPrompt(payload),
     config: {
       systemInstruction: SYSTEM,
-      temperature: 0.4,
-      maxOutputTokens: 1600,
+      temperature: 0.3,
+      maxOutputTokens: 1800,
     },
   });
 

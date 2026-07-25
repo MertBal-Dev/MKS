@@ -27,7 +27,10 @@ export default function Plan() {
 
   return (
     <div>
-      <PageHeader title="Sprint Planı" subtitle="29 Ağustos'a gün gün — her günü işaretleyerek ilerle" />
+      <PageHeader
+        title="Sprint Planı"
+        subtitle="Plan senin için düşünür — sen yalnızca bugüne odaklan. Günler birikir, baraj geçilir. 💛"
+      />
 
       <div className="space-y-6">
         {weeks.map(([week, days]) => (

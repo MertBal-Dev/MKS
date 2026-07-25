@@ -14,13 +14,13 @@ export function createSession(examId: string, now: Date): ExamSessionState {
   return { examId, startedAt: now.toISOString(), answers: {}, marked: [] };
 }
 
-export function remainingMs(session: ExamSessionState, now: Date): number {
-  const end = new Date(session.startedAt).getTime() + EXAM_DURATION_MIN * 60_000;
+export function remainingMs(session: ExamSessionState, now: Date, durationMin: number = EXAM_DURATION_MIN): number {
+  const end = new Date(session.startedAt).getTime() + durationMin * 60_000;
   return Math.max(end - now.getTime(), 0);
 }
 
-export function shouldAutoSubmit(session: ExamSessionState, now: Date): boolean {
-  return remainingMs(session, now) === 0;
+export function shouldAutoSubmit(session: ExamSessionState, now: Date, durationMin: number = EXAM_DURATION_MIN): boolean {
+  return remainingMs(session, now, durationMin) === 0;
 }
 
 export function saveSession(storage: Storage, session: ExamSessionState): void {
