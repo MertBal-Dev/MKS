@@ -24,8 +24,8 @@ function aiHocaDev(env: Record<string, string>): Plugin {
         req.on('end', async () => {
           res.setHeader('Content-Type', 'application/json');
           try {
-            const { generateExplanation } = await import('./server/aiHoca');
-            const text = await generateExplanation(JSON.parse(body), {
+            const { runAiHoca } = await import('./server/aiHoca');
+            const text = await runAiHoca(JSON.parse(body), {
               GOOGLE_CLOUD_PROJECT: env.GOOGLE_CLOUD_PROJECT,
               GOOGLE_CLOUD_LOCATION: env.GOOGLE_CLOUD_LOCATION,
               GOOGLE_CREDENTIALS_JSON: env.GOOGLE_CREDENTIALS_JSON,

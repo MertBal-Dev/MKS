@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { motion, useMotionValue, useSpring, useTransform } from 'framer-motion';
 import { EXAM_DATE, EXAM_NAME } from '@/lib/constants';
 
 /** Plan başlangıcı — madalyonun altın yayı bu tarihten sınava dolan zamanı gösterir. */
@@ -11,6 +12,19 @@ function useNow(intervalMs: number): Date {
     return () => clearInterval(t);
   }, [intervalMs]);
   return now;
+}
+
+/** Hedefe doğru yaylanarak sayan sayı. */
+export function AnimatedNumber({ value, decimals = 0 }: { value: number; decimals?: number }) {
+  const mv = useMotionValue(0);
+  const spring = useSpring(mv, { stiffness: 90, damping: 20 });
+  const text = useTransform(spring, (v) =>
+    v.toLocaleString('tr-TR', { minimumFractionDigits: decimals, maximumFractionDigits: decimals }),
+  );
+  useEffect(() => {
+    mv.set(value);
+  }, [value, mv]);
+  return <motion.span style={{ fontVariantNumeric: 'tabular-nums' }}>{text}</motion.span>;
 }
 
 /**
@@ -41,20 +55,14 @@ export function CountdownMedallion() {
   });
 
   return (
-    <div className="relative mx-auto grid size-56 place-items-center" role="timer" aria-label={`Sınava ${days} gün ${hours} saat kaldı`}>
+    <div
+      className="relative mx-auto grid size-56 place-items-center"
+      role="timer"
+      aria-label={`Sınava ${days} gün ${hours} saat kaldı`}
+    >
       <svg viewBox="0 0 200 200" className="absolute inset-0 size-full -rotate-90">
-        {/* çentikli dış halka */}
-        <circle
-          cx="100"
-          cy="100"
-          r={R}
-          fill="none"
-          stroke="var(--line)"
-          strokeWidth="10"
-          strokeDasharray="2 9"
-        />
-        {/* geçen zamanın altın yayı */}
-        <circle
+        <circle cx="100" cy="100" r={R} fill="none" stroke="var(--line)" strokeWidth="10" strokeDasharray="2 9" />
+        <motion.circle
           cx="100"
           cy="100"
           r={R}
@@ -62,15 +70,16 @@ export function CountdownMedallion() {
           stroke={urgent ? 'var(--mercan)' : 'var(--altin)'}
           strokeWidth="4"
           strokeLinecap="round"
-          strokeDasharray={`${C * frac} ${C}`}
-          style={{ transition: 'stroke-dasharray 1s ease' }}
+          strokeDasharray={C}
+          initial={{ strokeDashoffset: C }}
+          animate={{ strokeDashoffset: C * (1 - frac) }}
+          transition={{ duration: 1.4, ease: [0.22, 1, 0.36, 1] }}
         />
-        {/* iç ince çerçeve */}
         <circle cx="100" cy="100" r={R - 14} fill="none" stroke="var(--line)" strokeWidth="1" />
       </svg>
       <div className="text-center">
-        <div className="font-display text-6xl font-semibold leading-none" style={{ fontVariantNumeric: 'tabular-nums' }}>
-          {days}
+        <div className="font-display text-6xl font-semibold leading-none">
+          <AnimatedNumber value={days} />
         </div>
         <div className="mt-1 text-sm text-muted">gün kaldı</div>
         <div className="mt-1 text-xs text-muted" style={{ fontVariantNumeric: 'tabular-nums' }}>
@@ -101,7 +110,7 @@ export function CountdownPill() {
   const days = Math.max(Math.ceil((EXAM_DATE.getTime() - now.getTime()) / 86_400_000), 0);
   return (
     <span
-      className="inline-flex items-center gap-1.5 rounded-full border border-line bg-surface px-3 py-1.5 text-xs text-muted"
+      className="inline-flex items-center gap-1.5 rounded-full border border-line bg-ground/60 px-3.5 py-1.5 text-xs text-muted backdrop-blur"
       style={{ fontVariantNumeric: 'tabular-nums' }}
     >
       {EXAM_NAME} • 29 Ağustos'a {days} gün — hazırlanan bir gün daha 💛
@@ -121,10 +130,22 @@ export function DailyRing({ done, total }: { done: number; total: number }) {
   const complete = total > 0 && done >= total;
 
   return (
-    <div className="relative mx-auto grid size-40 place-items-center" aria-label={`Bugün ${done} / ${total} hedef tamamlandı`}>
+    <div
+      className="relative mx-auto grid size-40 place-items-center"
+      aria-label={`Bugün ${done} / ${total} hedef tamamlandı`}
+    >
+      {complete && (
+        <motion.div
+          className="absolute inset-0 rounded-full"
+          style={{ background: 'radial-gradient(circle, color-mix(in srgb, var(--turkuaz) 22%, transparent), transparent 68%)' }}
+          initial={{ opacity: 0, scale: 0.85 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ type: 'spring', stiffness: 180, damping: 18 }}
+        />
+      )}
       <svg viewBox="0 0 160 160" className="absolute inset-0 size-full -rotate-90">
         <circle cx="80" cy="80" r={R} fill="none" stroke="var(--line)" strokeWidth="9" strokeDasharray="2 7" />
-        <circle
+        <motion.circle
           cx="80"
           cy="80"
           r={R}
@@ -132,20 +153,22 @@ export function DailyRing({ done, total }: { done: number; total: number }) {
           stroke={complete ? 'var(--turkuaz)' : 'var(--altin)'}
           strokeWidth="7"
           strokeLinecap="round"
-          strokeDasharray={`${C * frac} ${C}`}
-          style={{ transition: 'stroke-dasharray 0.8s cubic-bezier(0.22, 1, 0.36, 1)' }}
+          strokeDasharray={C}
+          initial={false}
+          animate={{ strokeDashoffset: C * (1 - frac) }}
+          transition={{ type: 'spring', stiffness: 70, damping: 18 }}
         />
       </svg>
-      <div className="text-center">
+      <div className="relative text-center">
         {complete ? (
-          <>
-            <div className="font-display text-3xl">✓</div>
+          <motion.div initial={{ scale: 0.6, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ type: 'spring', stiffness: 260, damping: 16 }}>
+            <div className="font-display text-4xl text-turkuaz">✓</div>
             <div className="mt-1 text-xs font-medium text-turkuaz">Bugün tamam!</div>
-          </>
+          </motion.div>
         ) : (
           <>
             <div className="font-display text-4xl font-semibold" style={{ fontVariantNumeric: 'tabular-nums' }}>
-              {done}
+              <AnimatedNumber value={done} />
               <span className="text-xl text-muted">/{total}</span>
             </div>
             <div className="mt-1 text-xs text-muted">bugünün hedefi</div>

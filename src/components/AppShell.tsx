@@ -1,9 +1,11 @@
 import { useState } from 'react';
 import { NavLink, useLocation } from 'react-router-dom';
+import { AnimatePresence, motion } from 'framer-motion';
 import {
   BarChart3,
   BookOpen,
   CalendarRange,
+  GraduationCap,
   History,
   Home,
   Layers,
@@ -15,6 +17,8 @@ import {
   XCircle,
 } from 'lucide-react';
 import type { ReactNode } from 'react';
+import { useAppState } from '@/hooks/useAppState';
+import { EXAM_DATE, EXAM_NAME } from '@/lib/constants';
 
 const PRIMARY = [
   { to: '/', label: 'Ana Sayfa', icon: Home },
@@ -25,6 +29,7 @@ const PRIMARY = [
 
 const SECONDARY = [
   { to: '/denemeler', label: 'Denemeler', icon: Timer },
+  { to: '/ai-hoca', label: 'AI Hoca', icon: GraduationCap },
   { to: '/cozduklerim', label: 'Çözdüklerim', icon: History },
   { to: '/yanlis-havuzu', label: 'Yanlış Havuzu', icon: XCircle },
   { to: '/istatistik', label: 'İstatistik', icon: BarChart3 },
@@ -32,15 +37,36 @@ const SECONDARY = [
   { to: '/ayarlar', label: 'Ayarlar', icon: Settings },
 ] as const;
 
-function navClass(isActive: boolean): string {
-  return [
-    'flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm transition-colors',
-    isActive ? 'bg-raised text-ink font-medium' : 'text-muted hover:text-ink hover:bg-raised/60',
-  ].join(' ');
+function SidebarLink({ to, label, icon: Icon }: { to: string; label: string; icon: typeof Home }) {
+  return (
+    <NavLink to={to} end={to === '/'} className="relative block">
+      {({ isActive }) => (
+        <>
+          {isActive && (
+            <motion.span
+              layoutId="nav-active"
+              className="absolute inset-0 rounded-xl bg-raised"
+              transition={{ type: 'spring', stiffness: 380, damping: 32 }}
+            />
+          )}
+          <span
+            className={[
+              'relative flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm transition-colors',
+              isActive ? 'font-medium text-ink' : 'text-muted hover:text-ink',
+            ].join(' ')}
+          >
+            <Icon size={18} strokeWidth={1.8} aria-hidden className={isActive ? 'text-mercan' : ''} />
+            {label}
+          </span>
+        </>
+      )}
+    </NavLink>
+  );
 }
 
 export function AppShell({ children }: { children: ReactNode }) {
   const location = useLocation();
+  const { state } = useAppState();
   const [sheetOpen, setSheetOpen] = useState(false);
   const examMode = location.pathname.startsWith('/sinav/') && !location.pathname.endsWith('/sonuc');
 
@@ -49,35 +75,47 @@ export function AppShell({ children }: { children: ReactNode }) {
   }
 
   const moreActive = SECONDARY.some((s) => location.pathname.startsWith(s.to));
+  const daysLeft = Math.max(Math.ceil((EXAM_DATE.getTime() - Date.now()) / 86_400_000), 0);
 
   return (
-    <div className="min-h-dvh bg-ground lg:grid lg:grid-cols-[240px_1fr]">
+    <div className="min-h-dvh lg:grid lg:grid-cols-[248px_1fr]">
       {/* Masaüstü yan panel */}
-      <aside className="sticky top-0 hidden h-dvh flex-col gap-1 border-r border-line p-4 lg:flex">
-        <NavLink to="/" className="mb-4 block px-3 pt-2">
-          <span className="font-display text-xl font-semibold">MKS</span>
-          <span className="block text-xs tracking-widest text-muted">ÇALIŞMA ODASI</span>
+      <aside className="sticky top-0 hidden h-dvh flex-col gap-1 border-r border-line bg-ground-deep/60 p-4 backdrop-blur lg:flex">
+        <NavLink to="/" className="mb-5 block px-3 pt-2">
+          <span className="font-display text-2xl font-semibold tracking-tight">MKS</span>
+          <span className="mt-0.5 block text-[10px] tracking-[0.2em] text-muted">ÇALIŞMA ODASI</span>
         </NavLink>
-        {[...PRIMARY, ...SECONDARY].map(({ to, label, icon: Icon }) => (
-          <NavLink key={to} to={to} end={to === '/'} className={({ isActive }) => navClass(isActive)}>
-            <Icon size={18} strokeWidth={1.8} aria-hidden />
-            {label}
-          </NavLink>
-        ))}
-        <div className="mt-auto px-3 pb-1 text-[11px] leading-relaxed text-muted">
-          Turist Rehberliği
-          <br />
-          Mesleğe Kabul Sınavı
+
+        <nav className="flex flex-col gap-1">
+          {[...PRIMARY, ...SECONDARY].map((l) => (
+            <SidebarLink key={l.to} {...l} />
+          ))}
+        </nav>
+
+        <div className="mt-auto space-y-2 px-1 pb-1">
+          {state.streak.current > 0 && (
+            <div className="rounded-xl border border-line bg-surface px-3 py-2.5">
+              <p className="text-xs text-muted">Çalışma serisi</p>
+              <p className="font-display text-lg" style={{ fontVariantNumeric: 'tabular-nums' }}>
+                {state.streak.current} gün 🔥
+              </p>
+            </div>
+          )}
+          <div className="px-2 text-[11px] leading-relaxed text-muted">
+            {EXAM_NAME} • {daysLeft} gün
+            <br />
+            Turist Rehberliği MKS
+          </div>
         </div>
       </aside>
 
-      <main className="page-pad mx-auto w-full max-w-3xl px-4 pt-4 lg:px-8 lg:pt-8 xl:max-w-5xl 2xl:max-w-6xl">
+      <main className="page-pad mx-auto w-full max-w-3xl px-4 pt-5 lg:px-10 lg:pt-9 xl:max-w-5xl 2xl:max-w-6xl">
         {children}
       </main>
 
       {/* Mobil alt sekme çubuğu */}
       <nav
-        className="fixed inset-x-0 bottom-0 z-40 border-t border-line bg-surface/95 backdrop-blur lg:hidden"
+        className="fixed inset-x-0 bottom-0 z-40 border-t border-line bg-surface/90 backdrop-blur-lg lg:hidden"
         style={{ paddingBottom: 'env(safe-area-inset-bottom)' }}
         aria-label="Ana gezinme"
       >
@@ -113,35 +151,51 @@ export function AppShell({ children }: { children: ReactNode }) {
       </nav>
 
       {/* "Daha" alt sayfası */}
-      {sheetOpen && (
-        <div className="fixed inset-0 z-50 lg:hidden" role="dialog" aria-modal="true" aria-label="Diğer sayfalar">
-          <button
-            type="button"
-            aria-label="Kapat"
-            className="absolute inset-0 bg-black/50"
-            onClick={() => setSheetOpen(false)}
-          />
-          <div className="rise-in absolute inset-x-0 bottom-0 rounded-t-3xl border-t border-line bg-surface p-4 pb-8">
-            <div className="mb-3 flex items-center justify-between px-2">
-              <span className="text-sm font-medium text-muted">Diğer sayfalar</span>
-              <button type="button" onClick={() => setSheetOpen(false)} aria-label="Kapat" className="text-muted">
-                <X size={20} />
-              </button>
-            </div>
-            {SECONDARY.map(({ to, label, icon: Icon }) => (
-              <NavLink
-                key={to}
-                to={to}
-                onClick={() => setSheetOpen(false)}
-                className={({ isActive }) => navClass(isActive)}
-              >
-                <Icon size={18} strokeWidth={1.8} aria-hidden />
-                {label}
-              </NavLink>
-            ))}
+      <AnimatePresence>
+        {sheetOpen && (
+          <div className="fixed inset-0 z-50 lg:hidden" role="dialog" aria-modal="true" aria-label="Diğer sayfalar">
+            <motion.button
+              type="button"
+              aria-label="Kapat"
+              className="absolute inset-0 bg-black/50 backdrop-blur-[2px]"
+              onClick={() => setSheetOpen(false)}
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+            />
+            <motion.div
+              className="absolute inset-x-0 bottom-0 rounded-t-3xl border-t border-line bg-surface p-4 pb-8"
+              initial={{ y: '100%' }}
+              animate={{ y: 0 }}
+              exit={{ y: '100%' }}
+              transition={{ type: 'spring', stiffness: 340, damping: 34 }}
+            >
+              <div className="mb-3 flex items-center justify-between px-2">
+                <span className="text-sm font-medium text-muted">Diğer sayfalar</span>
+                <button type="button" onClick={() => setSheetOpen(false)} aria-label="Kapat" className="text-muted">
+                  <X size={20} />
+                </button>
+              </div>
+              {SECONDARY.map(({ to, label, icon: Icon }) => (
+                <NavLink
+                  key={to}
+                  to={to}
+                  onClick={() => setSheetOpen(false)}
+                  className={({ isActive }) =>
+                    [
+                      'flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm transition-colors',
+                      isActive ? 'bg-raised font-medium text-ink' : 'text-muted',
+                    ].join(' ')
+                  }
+                >
+                  <Icon size={18} strokeWidth={1.8} aria-hidden />
+                  {label}
+                </NavLink>
+              ))}
+            </motion.div>
           </div>
-        </div>
-      )}
+        )}
+      </AnimatePresence>
     </div>
   );
 }

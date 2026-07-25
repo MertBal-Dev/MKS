@@ -215,6 +215,7 @@ export default function SinavOdasi() {
           question={question}
           selected={session.answers[question.id]}
           revealed={false}
+          hideAi
           onSelect={(choice: ChoiceId) =>
             patch((s) => ({ ...s, answers: { ...s.answers, [question.id]: choice } }))
           }

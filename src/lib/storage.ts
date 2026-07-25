@@ -40,6 +40,8 @@ export const AppStateSchema = z.object({
   examResults: z.array(ExamResultSchema),
   planProgress: z.record(z.string(), z.boolean()),
   streak: z.object({ lastStudyDay: z.string(), current: z.number().int().min(0), best: z.number().int().min(0) }),
+  /** Son yedek indirme tarihi (YYYY-MM-DD) — hatırlatıcı bunu kullanır. */
+  lastBackup: z.string().default(''),
 });
 
 export type AppState = z.infer<typeof AppStateSchema>;
@@ -55,6 +57,7 @@ export const DEFAULT_STATE: AppState = {
   examResults: [],
   planProgress: {},
   streak: { lastStudyDay: '', current: 0, best: 0 },
+  lastBackup: '',
 };
 
 export function loadState(): AppState {

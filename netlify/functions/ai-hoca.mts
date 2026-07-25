@@ -1,20 +1,20 @@
-import { generateExplanation, type AiHocaPayload } from '../../server/aiHoca';
+import { runAiHoca, type AiHocaRequest } from '../../server/aiHoca';
 
 export default async (req: Request): Promise<Response> => {
   if (req.method !== 'POST') {
     return Response.json({ error: 'Yalnızca POST' }, { status: 405 });
   }
 
-  let payload: AiHocaPayload;
+  let body: AiHocaRequest;
   try {
-    payload = (await req.json()) as AiHocaPayload;
-    if (!payload?.stem || !Array.isArray(payload.choices) || !payload.correct) throw new Error('eksik alan');
+    body = (await req.json()) as AiHocaRequest;
+    if (!body || (!body.question && !body.messages?.length)) throw new Error('eksik alan');
   } catch {
     return Response.json({ error: 'Geçersiz istek gövdesi' }, { status: 400 });
   }
 
   try {
-    const text = await generateExplanation(payload, {
+    const text = await runAiHoca(body, {
       GOOGLE_CLOUD_PROJECT: process.env.GOOGLE_CLOUD_PROJECT,
       GOOGLE_CLOUD_LOCATION: process.env.GOOGLE_CLOUD_LOCATION,
       GOOGLE_CREDENTIALS_JSON: process.env.GOOGLE_CREDENTIALS_JSON,

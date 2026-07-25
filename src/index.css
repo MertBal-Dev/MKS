@@ -5,14 +5,17 @@
 /* ── MKS Çalışma Odası — "İznik çinisi geceleyin" token sistemi ─────────
    Zemin: mürekkep-çivit. Vurgular İznik paletinden ve her birinin görevi var:
    mercan = birincil eylem, turkuaz = doğru/başarı, altın = ilerleme/zaman,
-   kobalt = bilgi/bağlantı, kızıl = yanlış/uyarı. */
+   kobalt = bilgi/AI, kızıl = yanlış/uyarı. */
 
 :root,
 [data-theme='dark'] {
   --ground: #131120;
+  --ground-deep: #0d0b17;
   --surface: #1c1930;
+  --surface-hi: #211d38;
   --raised: #272242;
   --line: rgba(242, 239, 231, 0.1);
+  --line-hi: rgba(242, 239, 231, 0.18);
   --ink: #f2efe7;
   --muted: #a6a1b6;
   --mercan: #e2725b;
@@ -21,14 +24,21 @@
   --turkuaz: #45b8a6;
   --kobalt: #8b9cf0;
   --kizil: #e05570;
-  --glow: rgba(217, 164, 65, 0.14);
+  --glow-warm: rgba(226, 114, 91, 0.16);
+  --glow-cool: rgba(139, 156, 240, 0.14);
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px -12px rgba(0, 0, 0, 0.5);
+  --shadow-float: 0 2px 4px rgba(0, 0, 0, 0.28), 0 18px 48px -20px rgba(0, 0, 0, 0.65);
+  --grain-opacity: 0.035;
 }
 
 [data-theme='light'] {
   --ground: #f6f2e9;
+  --ground-deep: #efe9dc;
   --surface: #fdfbf5;
+  --surface-hi: #ffffff;
   --raised: #efe9db;
-  --line: rgba(36, 31, 51, 0.14);
+  --line: rgba(36, 31, 51, 0.13);
+  --line-hi: rgba(36, 31, 51, 0.22);
   --ink: #26203a;
   --muted: #6d6781;
   --mercan: #c14f37;
@@ -37,14 +47,21 @@
   --turkuaz: #177a6c;
   --kobalt: #4a58c4;
   --kizil: #b52e4c;
-  --glow: rgba(153, 112, 15, 0.12);
+  --glow-warm: rgba(193, 79, 55, 0.1);
+  --glow-cool: rgba(74, 88, 196, 0.08);
+  --shadow-card: 0 1px 2px rgba(38, 32, 58, 0.06), 0 8px 24px -14px rgba(38, 32, 58, 0.18);
+  --shadow-float: 0 2px 6px rgba(38, 32, 58, 0.08), 0 20px 48px -22px rgba(38, 32, 58, 0.3);
+  --grain-opacity: 0.02;
 }
 
 @theme inline {
   --color-ground: var(--ground);
+  --color-ground-deep: var(--ground-deep);
   --color-surface: var(--surface);
+  --color-surface-hi: var(--surface-hi);
   --color-raised: var(--raised);
   --color-line: var(--line);
+  --color-line-hi: var(--line-hi);
   --color-ink: var(--ink);
   --color-muted: var(--muted);
   --color-mercan: var(--mercan);
@@ -56,6 +73,8 @@
   --font-display: 'Fraunces Variable', Georgia, serif;
   --font-body: 'Inter Variable', system-ui, sans-serif;
   --radius-card: 1.25rem;
+  --shadow-card: var(--shadow-card);
+  --shadow-float: var(--shadow-float);
 }
 
 :root {
@@ -76,11 +95,46 @@ body {
   background: var(--ground);
   color: var(--ink);
   font-family: var(--font-body);
+  letter-spacing: -0.011em;
+}
+
+/* Zeminde iki noktadan gelen çok yumuşak ışık — düz siyahı kırar */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background:
+    radial-gradient(60rem 40rem at 12% -8%, var(--glow-warm), transparent 60%),
+    radial-gradient(52rem 36rem at 92% 4%, var(--glow-cool), transparent 62%);
+}
+
+/* İnce film grenli doku — dijitali "basılı" hissettirir */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  opacity: var(--grain-opacity);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+#root {
+  position: relative;
+  z-index: 2;
 }
 
 /* Fraunces başlıklar hafif "soft" optik eksende — kitabi his */
 .font-display {
   font-variation-settings: 'SOFT' 60, 'WONK' 0;
+  letter-spacing: -0.02em;
+}
+
+/* Kartlara gerçek derinlik */
+.rounded-\(--radius-card\) {
+  box-shadow: var(--shadow-card);
 }
 
 /* Sayfa içeriği alt navigasyonun altında kalmasın (mobil) */
@@ -89,11 +143,11 @@ body {
 }
 @media (min-width: 1024px) {
   .page-pad {
-    padding-bottom: 2rem;
+    padding-bottom: 3rem;
   }
 }
 
-/* Kart girişleri: yumuşak yükselme */
+/* Kart girişleri: yumuşak yükselme (framer-motion kullanılmayan yerlerde) */
 @keyframes rise-in {
   from {
     opacity: 0;
@@ -105,39 +159,21 @@ body {
   }
 }
 .rise-in {
-  animation: rise-in 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+  animation: rise-in 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 
-/* Doğru cevap "sır parlaması" — çini sırının ışığı gibi kısa süpürme */
-@keyframes glaze {
-  from {
-    box-shadow: 0 0 0 0 rgba(69, 184, 166, 0.55);
-  }
-  to {
-    box-shadow: 0 0 0 14px rgba(69, 184, 166, 0);
-  }
-}
-.glaze {
-  animation: glaze 0.5s ease-out both;
-}
-
-@keyframes shake {
-  0%, 100% { transform: translateX(0); }
-  25% { transform: translateX(-4px); }
-  75% { transform: translateX(4px); }
-}
-.shake {
-  animation: shake 0.25s ease-in-out;
+/* Vurgu metinlerinde ince altın alt çizgi */
+.underline-gold {
+  background-image: linear-gradient(transparent 62%, color-mix(in srgb, var(--altin) 35%, transparent) 0);
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .rise-in,
-  .glaze,
-  .shake {
+  .rise-in {
     animation: none;
   }
   * {
     transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
 }
@@ -146,10 +182,30 @@ body {
 :focus-visible {
   outline: 2px solid var(--kobalt);
   outline-offset: 2px;
-  border-radius: 6px;
+  border-radius: 8px;
 }
 
 ::selection {
   background: var(--altin);
   color: var(--ground);
+}
+
+/* İnce, markaya uygun kaydırma çubuğu */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--raised) transparent;
+}
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+*::-webkit-scrollbar-thumb {
+  background: var(--raised);
+  border-radius: 999px;
+  border: 3px solid transparent;
+  background-clip: content-box;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: var(--line-hi);
+  background-clip: content-box;
 }

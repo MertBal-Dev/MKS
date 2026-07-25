@@ -31,6 +31,7 @@ export default function Ayarlar() {
     a.download = `mks-yedek-${new Date().toISOString().slice(0, 10)}.json`;
     a.click();
     URL.revokeObjectURL(url);
+    update((s) => ({ ...s, lastBackup: new Date().toISOString().slice(0, 10) }));
     setMessage({ kind: 'ok', text: 'Yedek indirildi. Bu dosyayla ilerlemeni başka cihaza taşıyabilirsin.' });
   };
 

@@ -13,7 +13,8 @@ Hedef: **MKS-4 — 29 Ağustos 2026, 10.00**.
 - **12 resmi konu** için 3 katmanlı anlatım: tam anlatım • sınav sabahı kısa anlatımı • **Tuzaklar & Trickler**
 - **Günün Denemesi** — her güne özel, o gün herkeste aynı olan 50 soruluk set (60 dk)
 - **100 soruluk tam deneme** — gerçek format: 120 dk, soru haritası, otomatik teslim, konu kırılımı
-- **AI Hoca** — her sorunun altında Vertex AI (Gemini) ile derinlemesine çözüm + **türev sorular**
+- **AI Hoca** — her sorunun altında Vertex AI (Gemini) ile derinlemesine çözüm + **türev sorular** + takip sohbeti;
+  ayrı bir sayfadan serbest soru da sorulabilir (sınav sırasında bilinçli olarak kapalı)
 - **Çözdüklerim** — çözülen her soru, verilen cevapla birlikte geri dönülebilir arşivde
 - **Akıllı Tekrar** — Leitner kutu sistemli kartlar; yanlış yapılan her soru otomatik karta dönüşür
 - **Yanlış Havuzu** — üst üste 2 doğruyla havuzdan çıkış
@@ -58,10 +59,31 @@ npm run build          # üretim derlemesi (dist/)
 2. **iPhone:** Paylaş → *Ana Ekrana Ekle*. **Android:** Menü → *Uygulamayı yükle*.
 3. Artık uygulama gibi açılır; içerik çevrimdışı da çalışır.
 
-## Yedekleme / cihaz değiştirme
+## Veri nerede duruyor? (Supabase gerekli mi?)
 
-İlerleme tarayıcıda saklanır. **Ayarlar → Verini indir** ile JSON yedeği al,
-diğer cihazda **Yedekten yükle** ile geri getir.
+İlerleme **tarayıcıda (localStorage)** tutulur: sunucu yok, hesap yok, internet olmadan da çalışır, gecikme sıfır.
+Tek kullanıcı için bu yapı yeterlidir; Supabase eklemek hesap/oturum/çevrimdışı senkron karmaşası getirir ve
+sınava az kala kırılganlık yaratır.
+
+İki gerçek risk şöyle karşılanıyor:
+1. **Veri kaybı:** Uygulama, 25+ soru çözülmüşse ve son yedekten 7 gün geçmişse otomatik olarak yedek almayı hatırlatır.
+   **Ayarlar → Verini indir** ile tek dosyalık JSON yedeği alınır.
+2. **Cihaz değiştirme:** Aynı JSON, diğer cihazda **Yedekten yükle** ile içeri aktarılır.
+
+İki cihazda paralel ve sık çalışma ihtiyacı doğarsa Supabase senkronu sonradan eklenebilir:
+`src/lib/storage.ts` tek veri kapısıdır, uzak depo oraya takılır — uygulamanın geri kalanı değişmez.
+
+## AI Hoca nasıl kurgulandı?
+
+- **Soru bağlamlı panel:** Pratik, çıkmış sorular, sınav sonucu, Çözdüklerim ve Yanlış Havuzu'ndaki
+  her sorunun altındaki düğme sağdan bir panel açar; önce yapılandırılmış çözüm (neden doğru → çeldiriciler →
+  ezber kancası → **türev sorular** → bağlantılı olgular), sonra istediğin kadar takip sorusu.
+- **Serbest sohbet:** `/ai-hoca` sayfasından soru bağlamı olmadan da sorulabilir.
+- **Sınavda kapalı:** Deneme sırasında AI görünmez — simülasyonun gerçekliği için. Teslimden sonra
+  sonuç ekranındaki her soruda yeniden açılır.
+- **Doğruluk:** Sistem talimatı, emin olunmayan tarih/isim/sayının hiç yazılmamasını ve şüpheli türev
+  sorusunun listelenmemesini şart koşar ("az ama kesin > çok ama şüpheli").
+- **Önbellek:** Bir sorunun ilk çözümü oturum içinde saklanır; tekrar açılınca anında gelir.
 
 ## Yayınlama (Vercel — ücretsiz)
 

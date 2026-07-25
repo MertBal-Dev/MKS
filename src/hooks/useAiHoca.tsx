@@ -1,0 +1,142 @@
+import { createContext, useCallback, useContext, useMemo, useState, type ReactNode } from 'react';
+import { TOPICS } from '@/lib/constants';
+import type { ChoiceId, Question } from '@/lib/types';
+
+export interface ChatTurn {
+  role: 'user' | 'model';
+  text: string;
+  pending?: boolean;
+}
+
+export interface AiQuestionContext {
+  stem: string;
+  choices: { id: string; text: string }[];
+  correct: string;
+  selected?: string;
+  topicTitle: string;
+  subtopic?: string;
+}
+
+interface AiHocaState {
+  open: boolean;
+  title: string;
+  question?: AiQuestionContext;
+  turns: ChatTurn[];
+  loading: boolean;
+  error: string | null;
+}
+
+interface AiHocaApi extends AiHocaState {
+  /** Bir soruyu AI Hoca'ya taşır ve yapılandırılmış açıklamayı başlatır. */
+  askQuestion: (question: Question, selected?: ChoiceId) => void;
+  /** Soru bağlamı olmadan serbest sohbet açar. */
+  openFreeChat: (seed?: string) => void;
+  send: (text: string) => void;
+  close: () => void;
+}
+
+const Ctx = createContext<AiHocaApi | null>(null);
+
+/** Aynı soru için tekrar istek atmamak adına oturum içi önbellek. */
+const cacheKey = (stem: string) => `mks:ai:${stem.slice(0, 80)}`;
+
+function toContext(question: Question, selected?: ChoiceId): AiQuestionContext {
+  return {
+    stem: question.stem,
+    choices: question.choices.map((c) => ({ id: c.id, text: c.text })),
+    correct: question.correct,
+    selected,
+    topicTitle: TOPICS[question.topicId].title,
+    subtopic: question.subtopic,
+  };
+}
+
+async function callApi(payload: unknown): Promise<string> {
+  const res = await fetch('/api/ai-hoca', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(payload),
+  });
+  if (!res.ok) throw new Error(String(res.status));
+  const data = (await res.json()) as { text: string };
+  return data.text;
+}
+
+export function AiHocaProvider({ children }: { children: ReactNode }) {
+  const [state, setState] = useState<AiHocaState>({
+    open: false,
+    title: 'AI Hoca',
+    turns: [],
+    loading: false,
+    error: null,
+  });
+
+  const askQuestion = useCallback((question: Question, selected?: ChoiceId) => {
+    const ctx = toContext(question, selected);
+    const cached = sessionStorage.getItem(cacheKey(question.stem));
+
+    setState({
+      open: true,
+      title: TOPICS[question.topicId].short,
+      question: ctx,
+      turns: cached ? [{ role: 'model', text: cached }] : [],
+      loading: !cached,
+      error: null,
+    });
+
+    if (cached) return;
+
+    callApi({ mode: 'explain', question: ctx })
+      .then((text) => {
+        sessionStorage.setItem(cacheKey(question.stem), text);
+        setState((s) => ({ ...s, turns: [{ role: 'model', text }], loading: false }));
+      })
+      .catch(() => setState((s) => ({ ...s, loading: false, error: 'AI Hoca şu an yanıt veremiyor.' })));
+  }, []);
+
+  const openFreeChat = useCallback((seed?: string) => {
+    setState({
+      open: true,
+      title: 'AI Hoca',
+      question: undefined,
+      turns: seed ? [{ role: 'model', text: seed }] : [],
+      loading: false,
+      error: null,
+    });
+  }, []);
+
+  const send = useCallback((text: string) => {
+    const trimmed = text.trim();
+    if (!trimmed) return;
+
+    setState((s) => {
+      const turns: ChatTurn[] = [...s.turns, { role: 'user', text: trimmed }];
+      const history = turns.map((t) => ({ role: t.role, text: t.text }));
+
+      callApi({ mode: 'chat', question: s.question, messages: history })
+        .then((answer) =>
+          setState((cur) => ({ ...cur, turns: [...cur.turns, { role: 'model', text: answer }], loading: false })),
+        )
+        .catch(() =>
+          setState((cur) => ({ ...cur, loading: false, error: 'AI Hoca şu an yanıt veremiyor.' })),
+        );
+
+      return { ...s, turns, loading: true, error: null };
+    });
+  }, []);
+
+  const close = useCallback(() => setState((s) => ({ ...s, open: false })), []);
+
+  const value = useMemo<AiHocaApi>(
+    () => ({ ...state, askQuestion, openFreeChat, send, close }),
+    [state, askQuestion, openFreeChat, send, close],
+  );
+
+  return <Ctx.Provider value={value}>{children}</Ctx.Provider>;
+}
+
+export function useAiHoca(): AiHocaApi {
+  const ctx = useContext(Ctx);
+  if (!ctx) throw new Error('useAiHoca, AiHocaProvider içinde kullanılmalı');
+  return ctx;
+}
