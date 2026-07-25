@@ -2,14 +2,154 @@
 @import '@fontsource-variable/fraunces';
 @import 'tailwindcss';
 
+/* ── MKS Çalışma Odası — "İznik çinisi geceleyin" token sistemi ─────────
+   Zemin: mürekkep-çivit. Vurgular İznik paletinden ve her birinin görevi var:
+   mercan = birincil eylem, turkuaz = doğru/başarı, altın = ilerleme/zaman,
+   kobalt = bilgi/bağlantı, kızıl = yanlış/uyarı. */
+
+:root,
+[data-theme='dark'] {
+  --ground: #131120;
+  --surface: #1c1930;
+  --raised: #272242;
+  --line: rgba(242, 239, 231, 0.1);
+  --ink: #f2efe7;
+  --muted: #a6a1b6;
+  --mercan: #e2725b;
+  --mercan-ink: #241209;
+  --altin: #d9a441;
+  --turkuaz: #45b8a6;
+  --kobalt: #8b9cf0;
+  --kizil: #e05570;
+  --glow: rgba(217, 164, 65, 0.14);
+}
+
+[data-theme='light'] {
+  --ground: #f6f2e9;
+  --surface: #fdfbf5;
+  --raised: #efe9db;
+  --line: rgba(36, 31, 51, 0.14);
+  --ink: #26203a;
+  --muted: #6d6781;
+  --mercan: #c14f37;
+  --mercan-ink: #fff6f0;
+  --altin: #99700f;
+  --turkuaz: #177a6c;
+  --kobalt: #4a58c4;
+  --kizil: #b52e4c;
+  --glow: rgba(153, 112, 15, 0.12);
+}
+
+@theme inline {
+  --color-ground: var(--ground);
+  --color-surface: var(--surface);
+  --color-raised: var(--raised);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-mercan: var(--mercan);
+  --color-mercan-ink: var(--mercan-ink);
+  --color-altin: var(--altin);
+  --color-turkuaz: var(--turkuaz);
+  --color-kobalt: var(--kobalt);
+  --color-kizil: var(--kizil);
+  --font-display: 'Fraunces Variable', Georgia, serif;
+  --font-body: 'Inter Variable', system-ui, sans-serif;
+  --radius-card: 1.25rem;
+}
+
 :root {
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+  color-scheme: dark;
 }
 
+[data-theme='light'] {
+  color-scheme: light;
+}
+
+html,
 body {
-  font-family: 'Inter Variable', system-ui, sans-serif;
   margin: 0;
   min-height: 100dvh;
+  background: var(--ground);
+  color: var(--ink);
+  font-family: var(--font-body);
+}
+
+/* Fraunces başlıklar hafif "soft" optik eksende — kitabi his */
+.font-display {
+  font-variation-settings: 'SOFT' 60, 'WONK' 0;
+}
+
+/* Sayfa içeriği alt navigasyonun altında kalmasın (mobil) */
+.page-pad {
+  padding-bottom: calc(5.5rem + env(safe-area-inset-bottom));
+}
+@media (min-width: 1024px) {
+  .page-pad {
+    padding-bottom: 2rem;
+  }
+}
+
+/* Kart girişleri: yumuşak yükselme */
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.rise-in {
+  animation: rise-in 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* Doğru cevap "sır parlaması" — çini sırının ışığı gibi kısa süpürme */
+@keyframes glaze {
+  from {
+    box-shadow: 0 0 0 0 rgba(69, 184, 166, 0.55);
+  }
+  to {
+    box-shadow: 0 0 0 14px rgba(69, 184, 166, 0);
+  }
+}
+.glaze {
+  animation: glaze 0.5s ease-out both;
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-4px); }
+  75% { transform: translateX(4px); }
+}
+.shake {
+  animation: shake 0.25s ease-in-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rise-in,
+  .glaze,
+  .shake {
+    animation: none;
+  }
+  * {
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Görünür klavye odağı */
+:focus-visible {
+  outline: 2px solid var(--kobalt);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+::selection {
+  background: var(--altin);
+  color: var(--ground);
 }
