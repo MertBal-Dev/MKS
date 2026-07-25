@@ -18,6 +18,8 @@ import genelTurkTarihiTopic from './topics/genel-turk-tarihi.json';
 import genelTurkTarihiQuestions from './questions/genel-turk-tarihi.json';
 import dinlerTarihiTopic from './topics/dinler-tarihi.json';
 import dinlerTarihiQuestions from './questions/dinler-tarihi.json';
+import halkBilimiTopic from './topics/halk-bilimi-edebiyat.json';
+import halkBilimiQuestions from './questions/halk-bilimi-edebiyat.json';
 
 /**
  * İçerik kayıt noktası. Yeni içerik eklemek = JSON dosyası + buraya bir satır.
@@ -33,6 +35,7 @@ export const topics: Topic[] = [
   osmanliTarihiTopic as unknown as Topic,
   genelTurkTarihiTopic as unknown as Topic,
   dinlerTarihiTopic as unknown as Topic,
+  halkBilimiTopic as unknown as Topic,
 ];
 
 export const questionBank: Question[] = [
@@ -45,6 +48,7 @@ export const questionBank: Question[] = [
   ...(osmanliTarihiQuestions as unknown as Question[]),
   ...(genelTurkTarihiQuestions as unknown as Question[]),
   ...(dinlerTarihiQuestions as unknown as Question[]),
+  ...(halkBilimiQuestions as unknown as Question[]),
 ];
 
 export const exams: Exam[] = [];

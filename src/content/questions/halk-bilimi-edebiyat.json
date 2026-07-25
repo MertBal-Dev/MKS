@@ -1,0 +1,564 @@
+[
+  {
+    "id": "halk-bilimi-edebiyat-001",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Halk takvimi",
+    "difficulty": 1,
+    "stem": "Hızır ile İlyas'ın buluştuğuna inanılan, 5-6 Mayıs'ta kutlanan bahar bayramı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Hıdırellez", "explanation": "Doğru — adı Hızır+İlyas'tan gelir; gül dibine dilek yazılır (UNESCO SOKÜM 2017)." },
+      { "id": "B", "text": "Nevruz", "explanation": "Nevruz 21 Mart'tadır; yeni yıl-bahar başlangıcıdır." },
+      { "id": "C", "text": "Koç katımı", "explanation": "Koç katımı, sonbaharda koçların sürüye salınmasıdır." },
+      { "id": "D", "text": "Saya", "explanation": "Saya, kışın koyunların yüz günlük gebeliğini kutlar." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-002",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Halk takvimi",
+    "difficulty": 2,
+    "stem": "Ateş üzerinden atlama ve demir dövme ritüelleriyle kutlanan, 21 Mart'a denk gelen bayram aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Nevruz", "explanation": "Doğru — bahar ve yeni yılın başlangıcı; Ergenekon'dan çıkış anlatısıyla ilişkilendirilir; UNESCO ortak dosyasındadır." },
+      { "id": "B", "text": "Hıdırellez", "explanation": "Hıdırellez 5-6 Mayıs'tadır." },
+      { "id": "C", "text": "Aşure günü", "explanation": "Aşure, Muharrem ayına bağlıdır; güneş takvimiyle sabit değildir." },
+      { "id": "D", "text": "Mesir festivali", "explanation": "Mesir, Manisa'da Nevruz döneminde yapılır ama sorudaki ritüeller Nevruz'un kendisinindir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-003",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Geçiş dönemleri",
+    "difficulty": 2,
+    "stem": "Kına gecesi hangi geçiş dönemiyle ilgilidir?",
+    "choices": [
+      { "id": "A", "text": "Evlilik", "explanation": "Doğru — düğünden önceki gece gelinin eline kına yakılır; 'Yüksek Yüksek Tepelere' gibi ağlatma türküleri söylenir." },
+      { "id": "B", "text": "Doğum", "explanation": "Doğumun ritüelleri ad koyma, kırklama, diş hediğidir." },
+      { "id": "C", "text": "Ölüm", "explanation": "Ölümün ritüelleri ağıt, helva, devir-mevliddir." },
+      { "id": "D", "text": "Hasat", "explanation": "Hasat, tarım takvimi ritüelidir; geçiş dönemi sayılmaz." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-004",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Âşıklık",
+    "difficulty": 2,
+    "stem": "'Uzun İnce Bir Yoldayım' ve 'Kara Toprak'ın sahibi, Sivas Şarkışlalı halk ozanı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Âşık Veysel", "explanation": "Doğru — yedi yaşında görme yetisini kaybeden Veysel Şatıroğlu, 20. yüzyıl âşıklık geleneğinin zirvesidir." },
+      { "id": "B", "text": "Karacaoğlan", "explanation": "Karacaoğlan, 17. yüzyılın güzelleme ustasıdır (Çukurova)." },
+      { "id": "C", "text": "Dadaloğlu", "explanation": "Dadaloğlu, Avşar direnişinin sesidir." },
+      { "id": "D", "text": "Pir Sultan Abdal", "explanation": "Pir Sultan, tekke-deyiş geleneğindendir (Banaz)." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-005",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Âşıklık",
+    "difficulty": 3,
+    "stem": "'Ferman padişahın dağlar bizimdir' dizesiyle iskân politikasına başkaldırıyı dile getiren ozan aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Dadaloğlu", "explanation": "Doğru — Avşar Türkmenlerinin zorunlu iskâna direnişini destanlaştırmıştır." },
+      { "id": "B", "text": "Köroğlu", "explanation": "Köroğlu destan kahramanıdır; bu dize Dadaloğlu'nundur." },
+      { "id": "C", "text": "Karacaoğlan", "explanation": "Karacaoğlan sevda ve gurbet şairidir." },
+      { "id": "D", "text": "Âşık Şenlik", "explanation": "Şenlik, Kars-Çıldır yöresinin atışma ustasıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-006",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Destanlar",
+    "difficulty": 2,
+    "stem": "Oğuz Türklerinin 12 hikâyeden oluşan, 2018'de UNESCO listesine giren destansı anlatı külliyatı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Dede Korkut Kitabı", "explanation": "Doğru — Boğaç Han, Deli Dumrul, Bamsı Beyrek gibi hikâyeleri içerir; bilge anlatıcı Dede Korkut'tur." },
+      { "id": "B", "text": "Manas Destanı", "explanation": "Manas, Kırgızların dev destanıdır." },
+      { "id": "C", "text": "Oğuz Kağan Destanı", "explanation": "Oğuz Kağan, Hun dönemine bağlanan tek destandır; 12 hikâyelik külliyat değildir." },
+      { "id": "D", "text": "Köroğlu Destanı", "explanation": "Köroğlu ayrı bir destan dairesidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-007",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Seyirlik",
+    "difficulty": 1,
+    "stem": "Deve derisinden yapılan tasvirlerin ışıkla perdeye yansıtıldığı geleneksel Türk gölge oyunu aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Karagöz", "explanation": "Doğru — 2009'da UNESCO SOKÜM listesine girmiştir; başkişileri Karagöz ile Hacivat'tır." },
+      { "id": "B", "text": "Orta oyunu", "explanation": "Orta oyunu perdesiz, meydanda oynanır." },
+      { "id": "C", "text": "Meddahlık", "explanation": "Meddah tek kişilik anlatıdır; perde yoktur." },
+      { "id": "D", "text": "Kukla", "explanation": "Kukla üç boyutlu bebeklerle oynanır; gölge oyunu değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-008",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Seyirlik",
+    "difficulty": 2,
+    "stem": "Orta oyununda Karagöz ve Hacivat'ın karşılığı olan iki başkişi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kavuklu ve Pişekâr", "explanation": "Doğru — Kavuklu halk adamı (Karagöz karşılığı), Pişekâr oyun kurucu bilgiç tiptir (Hacivat karşılığı)." },
+      { "id": "B", "text": "Çelebi ve Zenne", "explanation": "Çelebi ve Zenne, yardımcı tiplerdir." },
+      { "id": "C", "text": "İbiş ve Efendi", "explanation": "İbiş, kukla geleneğinin komik uşağıdır." },
+      { "id": "D", "text": "Tuzsuz Deli Bekir ve Beberuhi", "explanation": "İkisi Karagöz'ün yardımcı kadrosundandır." }
+    ],
+    "correct": "A",
+    "trick": "Gölge oyunu: Karagöz-Hacivat; orta oyunu: Kavuklu-Pişekâr. Çapraz eşleştirme sınav klasiği."
+  },
+  {
+    "id": "halk-bilimi-edebiyat-009",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Seyirlik",
+    "difficulty": 2,
+    "stem": "Mendil ve bastonunu aksesuar olarak kullanan tek kişilik geleneksel anlatı sanatı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Meddahlık", "explanation": "Doğru — meddah, taklit ve ses değişimleriyle onlarca karakteri tek başına canlandırır (UNESCO 2008)." },
+      { "id": "B", "text": "Âşıklık", "explanation": "Âşık saz çalar; anlatı aracı müziktir." },
+      { "id": "C", "text": "Karagöz", "explanation": "Karagöz perde ve tasvir ister." },
+      { "id": "D", "text": "Semah", "explanation": "Semah, Alevi-Bektaşi ritüel dansıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-010",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Halk oyunları",
+    "difficulty": 1,
+    "stem": "Kemençe eşliğinde oynanan horon hangi bölgenin halk oyunudur?",
+    "choices": [
+      { "id": "A", "text": "Doğu Karadeniz", "explanation": "Doğru — hamsinin ve dalganın taklidi sayılan çevik diz hareketleriyle oynanır." },
+      { "id": "B", "text": "Ege", "explanation": "Ege'nin oyunu ağır zeybektir." },
+      { "id": "C", "text": "Trakya", "explanation": "Trakya'nın oyunu horadır." },
+      { "id": "D", "text": "Doğu Anadolu", "explanation": "Doğu'da bar ve halay öne çıkar." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-011",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Halk oyunları",
+    "difficulty": 2,
+    "stem": "Aşağıdaki halk oyunu-bölge eşleştirmelerinden hangisi yanlıştır?",
+    "choices": [
+      { "id": "A", "text": "Zeybek — Karadeniz", "explanation": "Doğru cevap bu (yanlış eşleştirme) — zeybek EGE'nin oyunudur; Karadeniz'inki horondur." },
+      { "id": "B", "text": "Bar — Erzurum", "explanation": "Doğru eşleştirmedir." },
+      { "id": "C", "text": "Halay — Güneydoğu Anadolu", "explanation": "Doğru eşleştirmedir." },
+      { "id": "D", "text": "Hora — Trakya", "explanation": "Doğru eşleştirmedir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-012",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Halk müziği",
+    "difficulty": 2,
+    "stem": "Rize-Artvin yöresine özgü, deri hava deposuyla çalınan nefesli halk çalgısı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Tulum", "explanation": "Doğru — Hemşin ve Karadeniz yaylalarının vazgeçilmez çalgısıdır (gayda benzeri)." },
+      { "id": "B", "text": "Kemençe", "explanation": "Kemençe yaylı çalgıdır." },
+      { "id": "C", "text": "Sipsi", "explanation": "Sipsi, Teke yöresinin (Burdur) küçük nefeslisidir." },
+      { "id": "D", "text": "Mey", "explanation": "Mey, Doğu Anadolu nefeslisidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-013",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "UNESCO",
+    "difficulty": 2,
+    "stem": "660 yılı aşkın geçmişiyle dünyanın en eski spor organizasyonlarından sayılan ve 2010'da UNESCO listesine giren etkinlik aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kırkpınar Yağlı Güreşleri (Edirne)", "explanation": "Doğru — başpehlivanlık için kispetle güreşilir; ağalık geleneği sürer." },
+      { "id": "B", "text": "Cirit oyunları", "explanation": "Cirit köklüdür ama sorudaki UNESCO 2010 kaydı Kırkpınar'ındır." },
+      { "id": "C", "text": "Geleneksel okçuluk", "explanation": "Okçuluk 2019'da listeye girmiştir." },
+      { "id": "D", "text": "Deve güreşleri", "explanation": "Deve güreşi Ege geleneğidir; listede bu tarihle yer almaz." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-014",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "UNESCO",
+    "difficulty": 2,
+    "stem": "Manisa'da Sultan Camii çevresinde macun saçma törenleriyle kutlanan, 2012'de UNESCO'ya giren festival aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Mesir Macunu Festivali", "explanation": "Doğru — 41 baharatlı macun, Merkez Efendi'nin Hafsa Sultan'ı iyileştirmesi anısına saçılır." },
+      { "id": "B", "text": "Kırkpınar", "explanation": "Kırkpınar Edirne'dedir (2010)." },
+      { "id": "C", "text": "Hıdırellez", "explanation": "Hıdırellez ülke genelidir; macun saçma Manisa'ya özgüdür." },
+      { "id": "D", "text": "Ahilik Haftası", "explanation": "Ahilik kutlamaları Kırşehir merkezlidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-015",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Dil",
+    "difficulty": 2,
+    "stem": "Türkçenin yapısı ve dil ailesi aşağıdakilerden hangisinde doğru verilmiştir?",
+    "choices": [
+      { "id": "A", "text": "Altay dilleri — sondan eklemeli", "explanation": "Doğru — kök değişmez, ekler sona gelir (göz-lük-çü-lük); ünlü uyumu tipiktir." },
+      { "id": "B", "text": "Hint-Avrupa — bükümlü", "explanation": "Hint-Avrupa bükümlüdür (İngilizce, Farsça); Türkçe bu ailede değildir." },
+      { "id": "C", "text": "Sami — bükümlü", "explanation": "Sami ailesi Arapça-İbranicedir." },
+      { "id": "D", "text": "Altay — tek heceli", "explanation": "Tek heceli tipin örneği Çincedir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-016",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Dil",
+    "difficulty": 2,
+    "stem": "Türklerin tarih boyunca kullandığı alfabelerin doğru sıralanışı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Göktürk → Uygur → Arap → Latin", "explanation": "Doğru — Orhun yazısından 1928 Harf İnkılabı'na uzanan ana zincir budur." },
+      { "id": "B", "text": "Uygur → Göktürk → Latin → Arap", "explanation": "Göktürk, Uygur'dan öncedir; Latin en sondadır." },
+      { "id": "C", "text": "Arap → Göktürk → Uygur → Latin", "explanation": "Arap alfabesi İslamiyet'le, yani Göktürk-Uygur'dan sonra gelir." },
+      { "id": "D", "text": "Göktürk → Arap → Uygur → Latin", "explanation": "Uygur, Arap'tan öncedir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-017",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Divan edebiyatı",
+    "difficulty": 2,
+    "stem": "Leyla vü Mecnun mesnevisi ve Su Kasidesi'yle tanınan divan şairi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Fuzuli", "explanation": "Doğru — Bağdatlı Fuzuli, divan şiirinin en lirik kalemidir; türbesi Kerbela'dadır." },
+      { "id": "B", "text": "Baki", "explanation": "Baki, 'sultanü'ş-şuara'dır; Kanuni Mersiyesi'yle ünlüdür." },
+      { "id": "C", "text": "Nedim", "explanation": "Nedim, Lale Devri'nin İstanbul şairidir." },
+      { "id": "D", "text": "Şeyh Galib", "explanation": "Şeyh Galib'in başyapıtı Hüsn ü Aşk'tır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-018",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Tanzimat",
+    "difficulty": 2,
+    "stem": "İlk özel Türkçe gazete Tercüman-ı Ahval'i (1860) çıkaran ve ilk Türkçe tiyatro eseri Şair Evlenmesi'ni yazan isim aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "İbrahim Şinasi", "explanation": "Doğru — Tanzimat edebiyatının 'ilk'ler adamı; gazeteyi Agâh Efendi'yle çıkardı." },
+      { "id": "B", "text": "Namık Kemal", "explanation": "Namık Kemal 'vatan şairi'dir; Vatan yahut Silistre'nin yazarıdır." },
+      { "id": "C", "text": "Ziya Paşa", "explanation": "Ziya Paşa, terkib-i bend ustasıdır." },
+      { "id": "D", "text": "Ahmet Mithat", "explanation": "Ahmet Mithat, 'yazı makinesi' romancıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-019",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Milli edebiyat",
+    "difficulty": 1,
+    "stem": "İstiklal Marşı'nın şairi ve marşın kabul tarihi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Mehmet Akif Ersoy — 12 Mart 1921", "explanation": "Doğru — TBMM'de ayakta alkışlarla kabul edildi; Akif ödülü almadı ve marşı Safahat'a koymadı." },
+      { "id": "B", "text": "Yahya Kemal — 29 Ekim 1923", "explanation": "Yahya Kemal İstanbul şairidir; marşla ilgisi yoktur." },
+      { "id": "C", "text": "Namık Kemal — 1876", "explanation": "Namık Kemal'in 'Hürriyet Kasidesi' vardır; İstiklal Marşı değil." },
+      { "id": "D", "text": "Ziya Gökalp — 1920", "explanation": "Gökalp fikir adamıdır; marşın şairi Akif'tir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-020",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Cumhuriyet edebiyatı",
+    "difficulty": 1,
+    "stem": "2006 Nobel Edebiyat Ödülü'nü kazanan Türk yazar aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Orhan Pamuk", "explanation": "Doğru — 'Benim Adım Kırmızı', 'Kar', 'Masumiyet Müzesi' yazarı; Türkiye'nin ilk Nobel'i." },
+      { "id": "B", "text": "Yaşar Kemal", "explanation": "Yaşar Kemal defalarca aday gösterildi ama ödülü almadı." },
+      { "id": "C", "text": "Aziz Nesin", "explanation": "Aziz Nesin, mizahın ustasıdır; Nobel almamıştır." },
+      { "id": "D", "text": "Nazım Hikmet", "explanation": "Nazım, dünya çapında bilinir ama Nobel almamıştır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-021",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Halk edebiyatı",
+    "difficulty": 2,
+    "stem": "Genellikle yedi heceli, aaba uyak düzenli, halk şiirinin en küçük türü aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Mani", "explanation": "Doğru — kına gecelerinden bekçi manilerine kadar her ortamda söylenir." },
+      { "id": "B", "text": "Koşma", "explanation": "Koşma, 11 heceli dörtlüklerle kurulur; âşık şiirinin ana biçimidir." },
+      { "id": "C", "text": "Gazel", "explanation": "Gazel, divan şiirinin beyitli nazım biçimidir." },
+      { "id": "D", "text": "Ağıt", "explanation": "Ağıt tür olarak ölüm üzerinedir; biçim tanımı maniye aittir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-022",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "UNESCO",
+    "difficulty": 3,
+    "stem": "Aşağıdaki UNESCO Somut Olmayan Kültürel Miras unsuru-yıl eşleştirmelerinden hangisi yanlıştır?",
+    "choices": [
+      { "id": "A", "text": "Türk kahvesi — 2008", "explanation": "Doğru cevap bu (yanlış eşleştirme) — Türk kahvesi 2013'te girmiştir; 2008'in unsurları meddahlık ve semadır." },
+      { "id": "B", "text": "Karagöz — 2009", "explanation": "Doğru eşleştirmedir." },
+      { "id": "C", "text": "Kırkpınar — 2010", "explanation": "Doğru eşleştirmedir." },
+      { "id": "D", "text": "Çay kültürü — 2022", "explanation": "Doğru eşleştirmedir (Azerbaycan'la ortak)." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-023",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Geçiş dönemleri",
+    "difficulty": 2,
+    "stem": "Bebeğin ilk dişi çıktığında buğday kaynatılıp dağıtılması geleneğine ne ad verilir?",
+    "choices": [
+      { "id": "A", "text": "Diş hediği (diş buğdayı)", "explanation": "Doğru — bereket dileğiyle yapılır; bebeğin önüne makas-kalem-para konarak meslek falına da bakılır." },
+      { "id": "B", "text": "Kırklama", "explanation": "Kırklama, doğumun 40. günü yapılan ritüeldir." },
+      { "id": "C", "text": "Ad koyma", "explanation": "Ad koyma, kulağa ezan okunarak yapılır." },
+      { "id": "D", "text": "Beşik kertmesi", "explanation": "Beşik kertmesi, bebeklikte söz kesme geleneğidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-024",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Cumhuriyet edebiyatı",
+    "difficulty": 3,
+    "stem": "'İnce Memed' romanıyla Çukurova'yı dünya edebiyatına taşıyan yazar aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Yaşar Kemal", "explanation": "Doğru — eşkıya Memed'in öyküsü 40'tan fazla dile çevrildi." },
+      { "id": "B", "text": "Orhan Kemal", "explanation": "Orhan Kemal de Çukurova yazarıdır ama İnce Memed Yaşar Kemal'indir — isim benzerliği tuzağı." },
+      { "id": "C", "text": "Kemal Tahir", "explanation": "Kemal Tahir, 'Devlet Ana' ile tanınır." },
+      { "id": "D", "text": "Sabahattin Ali", "explanation": "Sabahattin Ali, 'Kürk Mantolu Madonna'nın yazarıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-025",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Dil",
+    "difficulty": 3,
+    "stem": "1911'de Selanik'te 'Genç Kalemler' dergisiyle başlayan, dilde sadeleşmeyi savunan hareket aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Yeni Lisan", "explanation": "Doğru — Ömer Seyfettin'in öncülüğünde 'yazı diliyle konuşma dilini birleştirme' hedeflendi; Milli Edebiyat'ın temelidir." },
+      { "id": "B", "text": "Servet-i Fünun", "explanation": "Servet-i Fünun tam tersine ağır, sanatlı bir dil kullandı." },
+      { "id": "C", "text": "Garip Akımı", "explanation": "Garip (1941), şiirde Orhan Veli hareketidir." },
+      { "id": "D", "text": "Yedi Meşale", "explanation": "Yedi Meşale, 1928'in kısa ömürlü şiir topluluğudur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-026",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Mutfak",
+    "difficulty": 2,
+    "stem": "Avrupa Birliği'nden coğrafi işaret tescili alan ilk Türk ürünü aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Gaziantep baklavası", "explanation": "Doğru — 2013'te AB tescili aldı; Gaziantep 2015'te UNESCO gastronomi şehri oldu." },
+      { "id": "B", "text": "Maraş dondurması", "explanation": "Maraş dondurması tescillidir ama AB'deki 'ilk' baklavadır." },
+      { "id": "C", "text": "Türk kahvesi", "explanation": "Türk kahvesi UNESCO SOKÜM'dedir; AB coğrafi işareti ayrı bir mekanizmadır." },
+      { "id": "D", "text": "Ezine peyniri", "explanation": "Ezine sonradan tescil almıştır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-027",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Seyirlik",
+    "difficulty": 3,
+    "stem": "Karagöz oyununun bölümlerinin doğru sıralanışı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Mukaddime → muhavere → fasıl → bitiş", "explanation": "Doğru — giriş (semai ve perde gazeli), Karagöz-Hacivat söyleşmesi, asıl oyun ve kapanış." },
+      { "id": "B", "text": "Fasıl → mukaddime → bitiş → muhavere", "explanation": "Fasıl asıl oyundur; başta olmaz." },
+      { "id": "C", "text": "Muhavere → fasıl → mukaddime → bitiş", "explanation": "Mukaddime her zaman ilk bölümdür." },
+      { "id": "D", "text": "Perde gazeli → bitiş → fasıl → muhavere", "explanation": "Perde gazeli mukaddimenin içindedir; sıralama bozuktur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-028",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Halk edebiyatı",
+    "difficulty": 2,
+    "stem": "Babasını kör eden Bolu Beyi'nden öç almak için dağa çıkan destan kahramanı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Köroğlu", "explanation": "Doğru — 'Benden selam olsun Bolu Beyi'ne' türküsüyle özdeşleşmiştir; Kıratı ve Çamlıbel'i destanın sabitleridir." },
+      { "id": "B", "text": "Dede Korkut", "explanation": "Dede Korkut, anlatıcı-bilge tiptir; öç kahramanı değildir." },
+      { "id": "C", "text": "Battal Gazi", "explanation": "Battal Gazi, Arap-Bizans sınır destanlarının kahramanıdır." },
+      { "id": "D", "text": "Deli Dumrul", "explanation": "Deli Dumrul, Dede Korkut hikâyelerinden biridir (Azrail'le güreşen)." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-029",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Divan edebiyatı",
+    "difficulty": 3,
+    "stem": "Kanuni'nin ölümü üzerine yazdığı mersiyeyle tanınan, 'sultanü'ş-şuara' unvanlı divan şairi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Baki", "explanation": "Doğru — 'Şairler sultanı' Baki'nin Kanuni Mersiyesi, divan şiirinin doruklarındandır." },
+      { "id": "B", "text": "Fuzuli", "explanation": "Fuzuli Bağdat'tadır; mersiye Baki'nindir." },
+      { "id": "C", "text": "Nef'i", "explanation": "Nef'i, hiciv (Siham-ı Kaza) ustasıdır." },
+      { "id": "D", "text": "Nabi", "explanation": "Nabi, hikemi şiirin adıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-030",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Halk inanışları",
+    "difficulty": 2,
+    "stem": "Kötü bakışların insana zarar verdiği inancına karşı kullanılan, camdan yapılan koruyucu nesne aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Nazar boncuğu", "explanation": "Doğru — göz biçimli mavi boncuk; İzmir Görece ve Nazarköy üretim merkezleridir; turistlerin bir numaralı hediyeliğidir." },
+      { "id": "B", "text": "Muska", "explanation": "Muska, yazılı dua taşıyan koruyucudur; camdan değildir." },
+      { "id": "C", "text": "Tespih", "explanation": "Tespih, zikir aracıdır." },
+      { "id": "D", "text": "Çevre", "explanation": "Çevre, işlemeli mendildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-031",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Cumhuriyet edebiyatı",
+    "difficulty": 3,
+    "stem": "'Kürk Mantolu Madonna'nın yazarı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Sabahattin Ali", "explanation": "Doğru — 1943 tarihli roman, son yıllarda dünya çapında yeniden keşfedilmiştir; yazarın 'Aldırma Gönül' şiiri de türküleşmiştir." },
+      { "id": "B", "text": "Sait Faik", "explanation": "Sait Faik, Burgazada öykücüsüdür." },
+      { "id": "C", "text": "Ahmet Hamdi Tanpınar", "explanation": "Tanpınar, 'Saatleri Ayarlama Enstitüsü'nün yazarıdır." },
+      { "id": "D", "text": "Peyami Safa", "explanation": "Peyami Safa, 'Dokuzuncu Hariciye Koğuşu'yla tanınır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-032",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Halk müziği",
+    "difficulty": 2,
+    "stem": "Âşıklık geleneğinin temel çalgısı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Bağlama (saz)", "explanation": "Doğru — âşık şiiri sazla söylenir; 'telden söylemek' deyimi buradan gelir." },
+      { "id": "B", "text": "Ud", "explanation": "Ud, sanat müziği çalgısıdır." },
+      { "id": "C", "text": "Ney", "explanation": "Ney, tasavvuf müziğinin sesidir." },
+      { "id": "D", "text": "Zurna", "explanation": "Zurna, davulla meydan çalgısıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-033",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Dil",
+    "difficulty": 3,
+    "stem": "Çağatay edebiyatının zirvesi olan ve Muhakemetü'l-Lugateyn'de Türkçenin Farsçadan üstünlüğünü savunan yazar aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Ali Şir Nevai", "explanation": "Doğru — Herat sarayının bilge veziri, Türkçeyi edebi dil olarak savunmuştur." },
+      { "id": "B", "text": "Kaşgarlı Mahmut", "explanation": "Kaşgarlı, Karahanlı dönemi sözlükçüsüdür — dönem farkı vardır." },
+      { "id": "C", "text": "Yusuf Has Hacib", "explanation": "Yusuf, Kutadgu Bilig'in yazarıdır." },
+      { "id": "D", "text": "Babür Şah", "explanation": "Babür'ün eseri hatırat türündeki Babürname'dir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-034",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Geçiş dönemleri",
+    "difficulty": 3,
+    "stem": "Ölüm sonrası gelenekler arasında aşağıdakilerden hangisi YER ALMAZ?",
+    "choices": [
+      { "id": "A", "text": "Diş hediği dağıtmak", "explanation": "Doğru cevap bu — diş hediği DOĞUM dönemine aittir; ölüm gelenekleri ağıt, helva kavurma, kırk mevlidi, devirdir." },
+      { "id": "B", "text": "Helva kavurup dağıtmak", "explanation": "Helva, ölünün 'kokusu tütsün' diye kavrulur — yaygın gelenektir." },
+      { "id": "C", "text": "Ağıt yakmak", "explanation": "Ağıt, ölüm törenlerinin sözlü türüdür." },
+      { "id": "D", "text": "Kırk mevlidi okutmak", "explanation": "Ölümün 40. ve 52. geceleri mevlid okutulur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-035",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Halk oyunları",
+    "difficulty": 3,
+    "stem": "Ege efelerinin ağır ve gururlu oyunu zeybeğin en tanınmış ezgisi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Harmandalı", "explanation": "Doğru — 9/8'lik ritmiyle Harmandalı, zeybeğin simgesidir; tek başına, kollar açık oynanır." },
+      { "id": "B", "text": "Kolbastı", "explanation": "Kolbastı, Trabzon'un modern popüler oyunudur." },
+      { "id": "C", "text": "Çayda Çıra", "explanation": "Çayda Çıra, Elazığ'ın mumlu gece oyunudur." },
+      { "id": "D", "text": "Misket", "explanation": "Misket, Ankara yöresi oyun havasıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-036",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "El sanatları-inanış",
+    "difficulty": 2,
+    "stem": "Anadolu kilim ve halılarında bereketi ve analığı simgeleyen en yaygın motif aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Elibelinde", "explanation": "Doğru — elleri belinde kadın figürü, ana tanrıça geleneğinin dokumadaki devamı kabul edilir." },
+      { "id": "B", "text": "Koçboynuzu", "explanation": "Koçboynuzu erkekliği, gücü ve yiğitliği simgeler." },
+      { "id": "C", "text": "Bukağı", "explanation": "Bukağı, bağlılığı (evlilik) simgeler." },
+      { "id": "D", "text": "Pıtrak", "explanation": "Pıtrak, nazardan korunma ve bolluk motifidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-037",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "UNESCO",
+    "difficulty": 2,
+    "stem": "Giresun-Trabzon yaylalarında haberleşmek için geliştirilen ve UNESCO'nun acil koruma listesine alınan iletişim biçimi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Islık dili (kuş dili)", "explanation": "Doğru — Çanakçı/Kuşköy'de yaşayan ıslık dili 2017'de UNESCO acil koruma listesine girdi." },
+      { "id": "B", "text": "Davul zurna kodları", "explanation": "Böyle bir tescil yoktur." },
+      { "id": "C", "text": "Duman işaretleri", "explanation": "Anadolu'da tescilli bir duman dili geleneği yoktur." },
+      { "id": "D", "text": "Mani atışması", "explanation": "Atışma sanattır; haberleşme sistemi değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-038",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Tekke şiiri",
+    "difficulty": 2,
+    "stem": "'Gelin tanış olalım / İşi kolay kılalım' dizeleriyle sevgi ve hoşgörüyü dile getiren tekke şairi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Yunus Emre", "explanation": "Doğru — 13. yüzyılın büyük sufisi; UNESCO 1991'i ve 2021'i Yunus Emre yılı ilan etmiştir." },
+      { "id": "B", "text": "Pir Sultan Abdal", "explanation": "Pir Sultan, 16. yüzyıl deyiş geleneğindendir." },
+      { "id": "C", "text": "Kaygusuz Abdal", "explanation": "Kaygusuz, Alevi-Bektaşi mizahlı şiirin öncüsüdür." },
+      { "id": "D", "text": "Hacı Bayram Veli", "explanation": "Hacı Bayram'ın az sayıda şiiri vardır; dizeler Yunus'undur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-039",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Müzik",
+    "difficulty": 3,
+    "stem": "Mevlevi müziğinin baş çalgısı olan, kamıştan yapılan üflemeli aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Ney", "explanation": "Doğru — Mesnevi 'Dinle neyden...' diye başlar; ney, ayrılığın ve vuslatın sesi kabul edilir." },
+      { "id": "B", "text": "Kaval", "explanation": "Kaval, çoban çalgısıdır." },
+      { "id": "C", "text": "Zurna", "explanation": "Zurna, açık hava çalgısıdır." },
+      { "id": "D", "text": "Mey", "explanation": "Mey, Doğu Anadolu halk çalgısıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "halk-bilimi-edebiyat-040",
+    "topicId": "halk-bilimi-edebiyat",
+    "subtopic": "Cumhuriyet edebiyatı",
+    "difficulty": 2,
+    "stem": "2015 Nobel Kimya Ödülü'nü kazanan Türk bilim insanı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Aziz Sancar", "explanation": "Doğru — DNA onarımı çalışmalarıyla; Mardinlidir, Nobel madalyasını Anıtkabir'e bağışlamıştır." },
+      { "id": "B", "text": "Orhan Pamuk", "explanation": "Pamuk'un Nobel'i 2006 EDEBİYAT dalındadır — iki Nobel çapraz sorulur." },
+      { "id": "C", "text": "Canan Dağdeviren", "explanation": "Dağdeviren, MIT'li ünlü bilim insanıdır ama Nobel almamıştır." },
+      { "id": "D", "text": "Feryal Özel", "explanation": "Özel, astrofizikçidir; Nobel almamıştır." }
+    ],
+    "correct": "A",
+    "trick": "İki Türk Nobel'i: Pamuk 2006 edebiyat, Sancar 2015 kimya."
+  }
+]
