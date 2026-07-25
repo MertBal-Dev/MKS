@@ -1,6 +1,6 @@
 // Vercel Serverless Function — /api/ai-hoca
 // Kimlik bilgileri yalnızca Vercel ortam değişkenlerinde yaşar.
-import { runAiHoca, type AiHocaRequest } from '../server/aiHoca';
+import { runAiHoca, type AiHocaRequest } from '../server/aiHoca.js';
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 export default async function handler(req: any, res: any): Promise<void> {
