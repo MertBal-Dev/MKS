@@ -5,16 +5,42 @@ Hedef: **MKS-4 — 29 Ağustos 2026, 10.00**.
 
 ## İçinde ne var?
 
-- **12 resmi konu** için 3 katmanlı anlatım: tam anlatım • sınav sabahı kısa anlatımı • **Tuzaklar & Trickler**
+- **300 GERÇEK çıkmış soru** — üç oturumun tamamı, cevap anahtarlarıyla:
+  - 23 Şubat 2025 (MKS-1) — 100 soru, 4 şıklı
+  - 10 Ağustos 2025 (MKS-2) — 100 soru, 4 şıklı
+  - **14 Mart 2026 (MKS-3) — 100 soru, 5 şıklı** ← sınav bu oturumda 5 şıka geçti, MKS-4 için en güncel örnek
 - **480 özgün soru** — her şık için "neden doğru / neden yanlış" açıklamalı
-- **112 gerçek çıkmış soru** (23 Şubat 2025 oturumu, aday derlemesi)
+- **12 resmi konu** için 3 katmanlı anlatım: tam anlatım • sınav sabahı kısa anlatımı • **Tuzaklar & Trickler**
+- **Günün Denemesi** — her güne özel, o gün herkeste aynı olan 50 soruluk set (60 dk)
 - **100 soruluk tam deneme** — gerçek format: 120 dk, soru haritası, otomatik teslim, konu kırılımı
-- **AI Hoca** — her sorunun altında Vertex AI (Gemini) ile derinlemesine anlatım
+- **AI Hoca** — her sorunun altında Vertex AI (Gemini) ile derinlemesine çözüm + **türev sorular**
+- **Çözdüklerim** — çözülen her soru, verilen cevapla birlikte geri dönülebilir arşivde
 - **Akıllı Tekrar** — Leitner kutu sistemli kartlar; yanlış yapılan her soru otomatik karta dönüşür
 - **Yanlış Havuzu** — üst üste 2 doğruyla havuzdan çıkış
 - **İstatistik** — konu doğruluğu, deneme grafiği, tahmini sınav puanı
 - **Sprint Planı** — 29 Ağustos'a gün gün program
 - **PWA** — telefonda ana ekrana eklenir, internetsiz çalışır (AI Hoca hariç)
+
+### Sınavın resmi konu dağılımı (uygulamadaki ağırlıklar buna göre)
+
+| Başlık | Soru | Başlık | Soru |
+|---|---|---|---|
+| Genel Turizm Bilgisi, Mevzuat | 15 | İletişim Becerileri ve Etik | 5 |
+| Türkiye'nin Tarihi ve Coğrafyası | 13 | Türkiye'nin Flora ve Faunası | 5 |
+| Anadolu Medeniyetleri Tarihi | 12 | Genel Sağlık ve İlk Yardım | 5 |
+| Roma, Yunan ve Bizans Tarihi | 8 | Müzecilik ve Suçlar | 5 |
+| Genel Türk Tarihi ve Kültürü | 6 | Osmanlı İmparatorluğu Tarihi | 4 |
+| Arkeoloji ve Mitoloji | 6 | Dinler Tarihi | 4 |
+| Genel Sanat Tarihi | 6 | **Toplam** | **100** |
+| Türk Halk Bilimi ve Edebiyatı | 6 | | |
+
+## İçerik kaynakları
+
+- **Çıkmış sınavlar:** [trkutuphane.com ücretsiz test arşivi](https://www.trkutuphane.com/mks-deneme-sinavlari)
+  — Şubat 2025, Ağustos 2025 ve Mart 2026 oturumları (`scripts/fetch-trk.mjs` ile indirildi).
+- **Resmi sınav bilgileri:** [ktb.gov.tr duyuruları](https://www.ktb.gov.tr) ve
+  [Anadolu Üniversitesi sınav hizmetleri](https://www.anadolu.edu.tr).
+- **Soru bankası, konu anlatımları ve kartlar:** bu proje için özgün olarak hazırlandı.
 
 ## Çalıştırma (geliştirici)
 
