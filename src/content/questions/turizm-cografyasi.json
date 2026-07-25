@@ -1,0 +1,569 @@
+[
+  {
+    "id": "turizm-cografyasi-001",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Fiziki coğrafya",
+    "difficulty": 1,
+    "stem": "Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Ağrı Dağı", "explanation": "Doğru — 5.137 m ile en yüksek zirvedir; volkanik bir dağdır ve Nuh'un Gemisi efsanesiyle anılır." },
+      { "id": "B", "text": "Erciyes Dağı", "explanation": "Erciyes (3.917 m) İç Anadolu'nun en yükseğidir ama Türkiye birincisi değildir." },
+      { "id": "C", "text": "Kaçkar Dağı", "explanation": "Kaçkar (3.937 m) Karadeniz'in çatısıdır." },
+      { "id": "D", "text": "Uludağ", "explanation": "Uludağ (2.543 m) kış turizmiyle ünlüdür; yükseklik sıralamasında geridedir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-002",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Fiziki coğrafya",
+    "difficulty": 2,
+    "stem": "Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Beyşehir Gölü", "explanation": "Doğru — Van sodalı, Tuz Gölü tuzlu olduğundan en büyük TATLI su gölü Beyşehir'dir." },
+      { "id": "B", "text": "Van Gölü", "explanation": "Van en büyük göldür ama suyu sodalıdır — sorunun anahtar kelimesi 'tatlı'." },
+      { "id": "C", "text": "Tuz Gölü", "explanation": "Adı üstünde: aşırı tuzludur." },
+      { "id": "D", "text": "Eğirdir Gölü", "explanation": "Eğirdir tatlıdır ama Beyşehir'den küçüktür." }
+    ],
+    "correct": "A",
+    "trick": "'En büyük göl' = Van; 'en büyük TATLI su gölü' = Beyşehir. Tek kelime cevabı değiştirir."
+  },
+  {
+    "id": "turizm-cografyasi-003",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Fiziki coğrafya",
+    "difficulty": 2,
+    "stem": "Tamamı Türkiye sınırları içinde olan en uzun akarsu aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kızılırmak", "explanation": "Doğru — 1.355 km'lik Kızılırmak, Sivas'tan doğup Bafra Deltası'ndan Karadeniz'e dökülür." },
+      { "id": "B", "text": "Fırat", "explanation": "Fırat toplamda daha uzundur ama Suriye-Irak'a geçer; 'sınırlar içinde' ifadesi eleyicidir." },
+      { "id": "C", "text": "Sakarya", "explanation": "Sakarya (824 km) ikinci sıradadır." },
+      { "id": "D", "text": "Dicle", "explanation": "Dicle de sınır dışına çıkar." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-004",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Göller",
+    "difficulty": 2,
+    "stem": "Ortaçağ Ermeni mimarisinin şaheseri Kutsal Haç Kilisesi'nin bulunduğu Akdamar Adası hangi göldedir?",
+    "choices": [
+      { "id": "A", "text": "Van Gölü", "explanation": "Doğru — 921'de yapılan kilise, dış cephesindeki Tevrat-İncil kabartmalarıyla ünlüdür; ada Gevaş'tan teknelerle ziyaret edilir." },
+      { "id": "B", "text": "Beyşehir Gölü", "explanation": "Beyşehir'in ünlü yapısı kıyısındaki Eşrefoğlu Camii'dir (ahşap direkli, UNESCO)." },
+      { "id": "C", "text": "Eğirdir Gölü", "explanation": "Eğirdir'de Yeşilada vardır ama Kutsal Haç Kilisesi Van'dadır." },
+      { "id": "D", "text": "İznik Gölü", "explanation": "İznik Gölü'nde sular altında bir bazilika bulunmuştur ama Akdamar Van'dadır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-005",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Bölgeler",
+    "difficulty": 1,
+    "stem": "Türkiye'nin yedi coğrafi bölgesi hangi bilimsel toplantıda belirlenmiştir?",
+    "choices": [
+      { "id": "A", "text": "1941 Birinci Türk Coğrafya Kongresi", "explanation": "Doğru — bölgeler ve adları bu kongrede saptandı." },
+      { "id": "B", "text": "1923 İzmir İktisat Kongresi", "explanation": "İzmir İktisat Kongresi ekonomi politikalarını belirlemiştir." },
+      { "id": "C", "text": "1932 Birinci Türk Tarih Kongresi", "explanation": "Tarih tezleriyle ilgilidir; coğrafi bölgelerle değil." },
+      { "id": "D", "text": "1936 Dil Kurultayı", "explanation": "Dil çalışmalarıyla ilgilidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-006",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "UNESCO",
+    "difficulty": 2,
+    "stem": "Türkiye'nin UNESCO Dünya Mirası Listesi'ndeki iki 'karma' (hem doğal hem kültürel) varlığı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Göreme-Kapadokya ve Hierapolis-Pamukkale", "explanation": "Doğru — yalnızca bu iki varlık karma kategoridedir (ikisi de doğa + kültür değeri taşır)." },
+      { "id": "B", "text": "Efes ve Troya", "explanation": "İkisi de yalnızca kültürel kategoridedir." },
+      { "id": "C", "text": "Göbeklitepe ve Nemrut", "explanation": "İkisi de kültürel varlıktır." },
+      { "id": "D", "text": "Safranbolu ve Cumalıkızık", "explanation": "İkisi de kültürel (kentsel doku) varlıktır." }
+    ],
+    "correct": "A",
+    "trick": "'Karma miras' sorusunun cevabı ezber: Kapadokya + Pamukkale. Başkası yok."
+  },
+  {
+    "id": "turizm-cografyasi-007",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "UNESCO",
+    "difficulty": 2,
+    "stem": "1985'te UNESCO Dünya Mirası Listesi'ne giren ilk Türkiye varlıkları aşağıdaki üçlülerin hangisinde doğru verilmiştir?",
+    "choices": [
+      { "id": "A", "text": "Divriği Ulu Camii — Göreme/Kapadokya — İstanbul'un Tarihi Alanları", "explanation": "Doğru — üçü aynı yıl (1985) listeye girdi." },
+      { "id": "B", "text": "Efes — Truva — Bergama", "explanation": "Bunlar 2015, 1998 ve 2014'te girmiştir." },
+      { "id": "C", "text": "Hattuşa — Nemrut — Ksanthos", "explanation": "Sırasıyla 1986, 1987 ve 1988'de girmiştir — ilk üçlü değildir." },
+      { "id": "D", "text": "Göbeklitepe — Çatalhöyük — Arslantepe", "explanation": "Prehistorik üçlü 2018, 2012 ve 2021'de girmiştir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-008",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "UNESCO",
+    "difficulty": 3,
+    "stem": "2023 yılında UNESCO Dünya Mirası Listesi'ne giren 'Anadolu'nun Ortaçağ Ahşap Hipostil Camileri' dosyasında aşağıdaki camilerden hangisi YER ALMAZ?",
+    "choices": [
+      { "id": "A", "text": "Bursa Ulu Camii", "explanation": "Doğru cevap bu — Bursa Ulu Camii taş yapılıdır ve dosyada yoktur. Dosya: Sivrihisar Ulu, Afyon Ulu, Ankara Arslanhane, Kastamonu Mahmut Bey, Beyşehir Eşrefoğlu." },
+      { "id": "B", "text": "Beyşehir Eşrefoğlu Camii", "explanation": "Eşrefoğlu, dosyanın en görkemli üyesidir." },
+      { "id": "C", "text": "Afyon Ulu Camii", "explanation": "Afyon Ulu Camii dosyadadır." },
+      { "id": "D", "text": "Kastamonu Mahmut Bey Camii", "explanation": "Mahmut Bey (Kasaba köyü) dosyadadır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-009",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "UNESCO",
+    "difficulty": 2,
+    "stem": "Göbeklitepe hangi yıl UNESCO Dünya Mirası Listesi'ne alınmıştır?",
+    "choices": [
+      { "id": "A", "text": "2018", "explanation": "Doğru — aynı yıl Türkiye'de 'Göbeklitepe Yılı' ilan edilmiş, ziyaretçi sayısı patlamıştır." },
+      { "id": "B", "text": "2011", "explanation": "2011, Selimiye'nin yılıdır." },
+      { "id": "C", "text": "2015", "explanation": "2015'te Efes ve Diyarbakır girmiştir." },
+      { "id": "D", "text": "2021", "explanation": "2021, Arslantepe'nin yılıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-010",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Milli parklar",
+    "difficulty": 2,
+    "stem": "Türkiye'nin ilk milli parkı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Yozgat Çamlığı", "explanation": "Doğru — 1958'de ilan edilen Yozgat Çamlığı, ülkenin ilk milli parkıdır." },
+      { "id": "B", "text": "Göreme Tarihi Milli Parkı", "explanation": "Göreme sonradan (1986) milli park olmuştur." },
+      { "id": "C", "text": "Olimpos-Beydağları", "explanation": "Olimpos-Beydağları 1972 tarihlidir." },
+      { "id": "D", "text": "Uludağ", "explanation": "Uludağ 1961'de ikinci kuşaktandır." }
+    ],
+    "correct": "A",
+    "trick": "'İlk milli park' sorusunda büyük turistik isimler çeldiricidir; cevap mütevazı Yozgat Çamlığı'dır (1958)."
+  },
+  {
+    "id": "turizm-cografyasi-011",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Sulak alanlar",
+    "difficulty": 2,
+    "stem": "Manyas Kuş Cenneti, Sultan Sazlığı ve Göksu Deltası'nın ortak özelliği aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Ramsar Sözleşmesi kapsamında korunan sulak alanlar olmaları", "explanation": "Doğru — üçü de uluslararası öneme sahip sulak alan (Ramsar alanı) statüsündedir." },
+      { "id": "B", "text": "UNESCO Dünya Mirası olmaları", "explanation": "Üçü de Dünya Mirası Listesi'nde değildir." },
+      { "id": "C", "text": "Milli park statüsünde olmamaları", "explanation": "Manyas aynı zamanda milli parktır; ortak payda Ramsar'dır." },
+      { "id": "D", "text": "Krater gölü olmaları", "explanation": "Hiçbiri krater gölü değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-012",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Turizm türleri",
+    "difficulty": 1,
+    "stem": "Türkiye'de golf turizminin merkezi olarak bilinen destinasyon aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Belek (Antalya)", "explanation": "Doğru — Belek, uluslararası standartta golf sahalarıyla Avrupa'nın önde gelen golf merkezlerindendir." },
+      { "id": "B", "text": "Bodrum (Muğla)", "explanation": "Bodrum marina ve gece hayatıyla ünlüdür." },
+      { "id": "C", "text": "Çeşme (İzmir)", "explanation": "Çeşme deniz ve rüzgar sörfüyle bilinir (Alaçatı)." },
+      { "id": "D", "text": "Uludağ (Bursa)", "explanation": "Uludağ kış turizmi merkezidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-013",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Turizm türleri",
+    "difficulty": 2,
+    "stem": "Astım hastalarına iyi geldiğine inanılan havasıyla ünlü Damlataş Mağarası hangi ilçededir?",
+    "choices": [
+      { "id": "A", "text": "Alanya", "explanation": "Doğru — 1948'de liman inşaatı sırasında bulunan Damlataş, Alanya merkezindedir; sarkıt-dikitleri 15.000 yıllıktır." },
+      { "id": "B", "text": "Silifke", "explanation": "Silifke'nin ünlüsü Cennet-Cehennem obruklarıdır." },
+      { "id": "C", "text": "Fethiye", "explanation": "Fethiye Ölüdeniz ve Kelebekler Vadisi ile bilinir." },
+      { "id": "D", "text": "Safranbolu", "explanation": "Safranbolu'daki mağara Bulak (Mencilis) Mağarası'dır; astım ünü Damlataş'ındır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-014",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Turizm türleri",
+    "difficulty": 2,
+    "stem": "Nesli tehlike altındaki Caretta caretta deniz kaplumbağalarının Türkiye'deki en ünlü yuvalama alanı aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "İztuzu Plajı (Dalyan)", "explanation": "Doğru — Muğla Dalyan'daki İztuzu, 'Kaplumbağa Plajı' olarak bilinir; gece girişi yasaktır ve yapılaşmaya kapalıdır." },
+      { "id": "B", "text": "Kilyos Plajı", "explanation": "Karadeniz plajı Kilyos'ta caretta yuvalamaz." },
+      { "id": "C", "text": "Alaçatı", "explanation": "Alaçatı rüzgar sörfüyle ünlüdür." },
+      { "id": "D", "text": "Kapıkırı (Bafa)", "explanation": "Bafa Gölü kıyısındaki Kapıkırı, Herakleia antik kentiyle bilinir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-015",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Turizm türleri",
+    "difficulty": 2,
+    "stem": "'Türkiye'nin termal turizm başkenti' olarak anılan il aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Afyonkarahisar", "explanation": "Doğru — jeotermal kaynak kapasitesi ve termal otel yatağıyla Afyon lider konumdadır (ayrıca UNESCO gastronomi şehridir)." },
+      { "id": "B", "text": "Denizli", "explanation": "Pamukkale travertenleriyle ünlüdür ama 'termal başkent' unvanı Afyon'undur." },
+      { "id": "C", "text": "Yalova", "explanation": "Yalova köklü kaplıca kentidir ama kapasite liderliği Afyon'dadır." },
+      { "id": "D", "text": "Bolu", "explanation": "Bolu'nun ünü Kartalkaya ve doğa turizmidir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-016",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Kış turizmi",
+    "difficulty": 2,
+    "stem": "Aşağıdaki kayak merkezi-il eşleştirmelerinden hangisi yanlıştır?",
+    "choices": [
+      { "id": "A", "text": "Palandöken — Kayseri", "explanation": "Doğru cevap bu (yanlış eşleştirme) — Palandöken Erzurum'dadır; Kayseri'nin merkezi Erciyes'tir." },
+      { "id": "B", "text": "Uludağ — Bursa", "explanation": "Doğru eşleştirme." },
+      { "id": "C", "text": "Kartalkaya — Bolu", "explanation": "Doğru eşleştirme." },
+      { "id": "D", "text": "Sarıkamış — Kars", "explanation": "Doğru eşleştirme; kristal karıyla ünlüdür." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-017",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Doğa sporları",
+    "difficulty": 2,
+    "stem": "Dünyanın en iyi yamaç paraşütü noktalarından biri kabul edilen Babadağ hangi turizm merkezinin üzerindedir?",
+    "choices": [
+      { "id": "A", "text": "Ölüdeniz (Fethiye)", "explanation": "Doğru — 1.969 m'lik Babadağ'dan Ölüdeniz lagününe süzülmek dünya çapında ünlüdür." },
+      { "id": "B", "text": "Kapadokya", "explanation": "Kapadokya'nın hava sporu sıcak hava balonudur — klasik çapraz çeldirici." },
+      { "id": "C", "text": "Pamukkale", "explanation": "Pamukkale'de balon uçuşları yapılır; yamaç paraşütü merkezi değildir." },
+      { "id": "D", "text": "Abant", "explanation": "Abant göl ve doğa yürüyüşü destinasyonudur." }
+    ],
+    "correct": "A",
+    "trick": "Hava sporları eşleşmesi: paraşüt=Ölüdeniz/Babadağ, balon=Kapadokya(+Pamukkale)."
+  },
+  {
+    "id": "turizm-cografyasi-018",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Doğa sporları",
+    "difficulty": 3,
+    "stem": "Türkiye'nin uluslararası üne sahip rafting parkurlarından ikisi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Çoruh Nehri ve Köprülü Kanyon", "explanation": "Doğru — Artvin'deki Çoruh dünya şampiyonalarına ev sahipliği yapmıştır; Antalya Köprülü Kanyon (Köprüçay) en yoğun ticari parkurdur." },
+      { "id": "B", "text": "Kızılırmak ve Sakarya", "explanation": "İkisi de debi ve parkur açısından rafting merkezi değildir." },
+      { "id": "C", "text": "Meriç ve Ergene", "explanation": "Trakya nehirleri rafting için uygun eğime sahip değildir." },
+      { "id": "D", "text": "Büyük Menderes ve Gediz", "explanation": "Menderes, adını verdiği kıvrımlarıyla yavaş akar; rafting nehri değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-019",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Yürüyüş rotaları",
+    "difficulty": 2,
+    "stem": "Türkiye'nin ilk işaretlenmiş uzun mesafe yürüyüş rotası aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Likya Yolu", "explanation": "Doğru — Fethiye'den Antalya'ya ~540 km'lik rota 1999'da Kate Clow tarafından işaretlendi; dünyanın en iyi 10 rotasından gösterilir." },
+      { "id": "B", "text": "St. Paul Yolu", "explanation": "St. Paul Yolu ikinci uzun mesafe rotamızdır (2004)." },
+      { "id": "C", "text": "Frig Yolu", "explanation": "Frig Yolu daha sonra işaretlenmiştir." },
+      { "id": "D", "text": "Evliya Çelebi Yolu", "explanation": "Evliya Çelebi Yolu 2011'de açılmış atlı-yürüyüş rotasıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-020",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Mavi Yolculuk",
+    "difficulty": 2,
+    "stem": "Gulet tekneleriyle Gökova ve çevresi koylarında yapılan 'Mavi Yolculuk' kavramını edebiyatıyla yaygınlaştıran yazar kimdir?",
+    "choices": [
+      { "id": "A", "text": "Cevat Şakir Kabaağaçlı (Halikarnas Balıkçısı)", "explanation": "Doğru — Bodrum'a sürgün gidip oraya âşık olan yazar, Mavi Yolculuk ve 'Mavi Anadoluculuk' akımının babasıdır." },
+      { "id": "B", "text": "Sabahattin Ali", "explanation": "Sabahattin Ali'nin denizle özdeşleşen böyle bir mirası yoktur." },
+      { "id": "C", "text": "Halikarnaslı Herodot", "explanation": "Herodot antik tarihçidir; kavram modern edebiyatındır — 'Halikarnas' benzerliği tuzaktır." },
+      { "id": "D", "text": "Azra Erhat", "explanation": "Azra Erhat Mavi Yolculuk yazılarına katkı vermiştir ama kavramın babası Balıkçı'dır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-021",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Karadeniz",
+    "difficulty": 2,
+    "stem": "Altındere Vadisi'nde sarp bir kayaya kurulu, Meryem Ana'ya adanmış Sümela Manastırı hangi ildedir?",
+    "choices": [
+      { "id": "A", "text": "Trabzon", "explanation": "Doğru — Maçka ilçesindeki Sümela, Karadeniz turizminin simgesidir." },
+      { "id": "B", "text": "Rize", "explanation": "Rize'nin simgeleri Ayder Yaylası ve çay bahçeleridir." },
+      { "id": "C", "text": "Artvin", "explanation": "Artvin, Çoruh ve Karagöl'le bilinir." },
+      { "id": "D", "text": "Gümüşhane", "explanation": "Gümüşhane'nin ünlüsü Karaca Mağarası'dır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-022",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Doğu Anadolu",
+    "difficulty": 2,
+    "stem": "'Bin bir kiliseli şehir' olarak anılan, Kars sınırındaki Ortaçağ ören yeri aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Ani", "explanation": "Doğru — Bagratlı Ermeni Krallığı'nın başkenti Ani, İpek Yolu kavşağıydı; 2016'da UNESCO listesine girdi." },
+      { "id": "B", "text": "Ahlat", "explanation": "Ahlat (Bitlis), Selçuklu mezar taşları ve kümbetleriyle ünlüdür." },
+      { "id": "C", "text": "Harput", "explanation": "Harput, Elazığ'ın tarihi yerleşimidir." },
+      { "id": "D", "text": "Hasankeyf", "explanation": "Hasankeyf, Batman'da Dicle kıyısındadır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-023",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Doğu Anadolu",
+    "difficulty": 2,
+    "stem": "Osmanlı, Selçuklu ve İran üsluplarını birleştiren 18. yüzyıl yapısı İshak Paşa Sarayı nerededir?",
+    "choices": [
+      { "id": "A", "text": "Doğubayazıt (Ağrı)", "explanation": "Doğru — İpek Yolu'na hâkim bir yamaçta kurulan saray, merkezi ısıtma sistemiyle de döneminin ilerisindedir." },
+      { "id": "B", "text": "Van", "explanation": "Van'ın simgeleri kalesi ve Akdamar'dır." },
+      { "id": "C", "text": "Kars", "explanation": "Kars, Baltık mimarili kent dokusu ve Ani ile bilinir." },
+      { "id": "D", "text": "Erzurum", "explanation": "Erzurum'un simgeleri Çifte Minareli Medrese ve Palandöken'dir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-024",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "İki Nemrut",
+    "difficulty": 2,
+    "stem": "Türkiye'nin en büyük krater gölünü barındıran Nemrut Dağı hangi ildedir?",
+    "choices": [
+      { "id": "A", "text": "Bitlis", "explanation": "Doğru — Tatvan yakınındaki Nemrut Kalderası, Van Gölü'nün oluşumunda da rol oynayan volkandır; Adıyaman'daki heykelli Nemrut ile karıştırılmamalıdır." },
+      { "id": "B", "text": "Adıyaman", "explanation": "Adıyaman Nemrut'u, Kommagene heykelleriyle ünlü UNESCO alanıdır — krater gölü yoktur." },
+      { "id": "C", "text": "Ağrı", "explanation": "Ağrı'daki zirve Ağrı Dağı'dır." },
+      { "id": "D", "text": "Muş", "explanation": "Muş'ta Nemrut yoktur." }
+    ],
+    "correct": "A",
+    "trick": "Nemrut sorusunda ilk iş: 'heykel' mi 'krater gölü' mü? Heykel→Adıyaman, göl→Bitlis."
+  },
+  {
+    "id": "turizm-cografyasi-025",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Güneydoğu",
+    "difficulty": 2,
+    "stem": "Efsaneye göre Hz. İbrahim'in ateşe atıldığı yerde oluştuğuna inanılan Balıklıgöl hangi şehirdedir?",
+    "choices": [
+      { "id": "A", "text": "Şanlıurfa", "explanation": "Doğru — 'Peygamberler şehri' Urfa'daki Balıklıgöl (Halil-ür Rahman) kutsal sazan balıklarıyla inanç turizminin merkezidir." },
+      { "id": "B", "text": "Mardin", "explanation": "Mardin taş mimarisi ve manastırlarıyla ünlüdür." },
+      { "id": "C", "text": "Diyarbakır", "explanation": "Diyarbakır surları ve Hevsel Bahçeleri UNESCO alanıdır." },
+      { "id": "D", "text": "Gaziantep", "explanation": "Gaziantep, Zeugma ve mutfağıyla ünlüdür." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-026",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Yaratıcı şehirler",
+    "difficulty": 2,
+    "stem": "Aşağıdakilerden hangisi UNESCO Yaratıcı Şehirler Ağı'nda 'gastronomi' dalında yer alan illerimizden biri DEĞİLDİR?",
+    "choices": [
+      { "id": "A", "text": "Kütahya", "explanation": "Doğru cevap bu — Kütahya ağa 'zanaat ve halk sanatları' dalında (çinicilik) girmiştir; gastronomi şehirleri Gaziantep, Hatay ve Afyonkarahisar'dır." },
+      { "id": "B", "text": "Gaziantep", "explanation": "Gaziantep 2015'te gastronomi dalında girmiştir — Türkiye'nin ilkidir." },
+      { "id": "C", "text": "Hatay", "explanation": "Hatay 2017'de gastronomi şehri olmuştur." },
+      { "id": "D", "text": "Afyonkarahisar", "explanation": "Afyon 2019'da gastronomi şehri olmuştur (sucuk, kaymak, lokum)." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-027",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Kapadokya",
+    "difficulty": 2,
+    "stem": "Kapadokya peribacalarını oluşturan tüfleri püskürten volkanlardan ikisi aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Erciyes ve Hasandağı", "explanation": "Doğru — Erciyes, Hasandağı ve Güllüdağ'ın külleri; rüzgar ve suyun milyonlarca yıllık aşındırmasıyla peribacalarına dönüştü." },
+      { "id": "B", "text": "Ağrı ve Süphan", "explanation": "Bu volkanlar Doğu Anadolu'dadır; Kapadokya'yı etkilememiştir." },
+      { "id": "C", "text": "Nemrut ve Tendürek", "explanation": "İkisi de Doğu Anadolu volkanıdır." },
+      { "id": "D", "text": "Kaçkar ve Uludağ", "explanation": "İkisi de volkanik değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-028",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Kapadokya",
+    "difficulty": 2,
+    "stem": "Kapadokya'daki Derinkuyu ve Kaymaklı'nın ortak özelliği aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Çok katlı yeraltı şehirleri olmaları", "explanation": "Doğru — havalandırma bacaları ve sürgü taşlarıyla binlerce kişiyi barındıran yeraltı şehirleridir (Derinkuyu ~8 kat)." },
+      { "id": "B", "text": "Kaya kiliseleri olmaları", "explanation": "Kaya kiliseleri Göreme Açık Hava Müzesi'nde yoğunlaşır." },
+      { "id": "C", "text": "Peribacası vadileri olmaları", "explanation": "Paşabağ, Devrent gibi vadiler peribacalarıyla ünlüdür." },
+      { "id": "D", "text": "Kervansaray olmaları", "explanation": "Bölgenin kervansarayı Sarıhan'dır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-029",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Ege",
+    "difficulty": 2,
+    "stem": "Beyaz travertenleriyle ünlü Pamukkale hangi antik kentle birlikte UNESCO Dünya Mirası Listesi'ndedir?",
+    "choices": [
+      { "id": "A", "text": "Hierapolis", "explanation": "Doğru — 'Kutsal kent' Hierapolis, travertenlerin üzerine kurulmuştur; antik havuzunda sütunlar arasında yüzülür." },
+      { "id": "B", "text": "Laodikeia", "explanation": "Laodikeia da Denizli'dedir ama dosya Hierapolis-Pamukkale'dir." },
+      { "id": "C", "text": "Afrodisias", "explanation": "Afrodisias ayrı bir varlıktır (2017)." },
+      { "id": "D", "text": "Aizanoi", "explanation": "Aizanoi (Kütahya), Zeus Tapınağı'yla ünlüdür; geçici listededir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-030",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Marmara",
+    "difficulty": 2,
+    "stem": "Osmanlı'nın kuruluş dönemine ait kırsal yaşamı koruyan ve Bursa ile birlikte 2014'te UNESCO listesine giren köy aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Cumalıkızık", "explanation": "Doğru — 700 yıllık vakıf köyü Cumalıkızık, erken Osmanlı kırsal dokusunun en iyi örneğidir." },
+      { "id": "B", "text": "Şirince", "explanation": "Şirince (İzmir-Selçuk) Rum mimarisiyle ünlüdür; UNESCO ana listesinde değildir." },
+      { "id": "C", "text": "Taraklı", "explanation": "Taraklı (Sakarya) sakin şehir (cittaslow) üyesidir." },
+      { "id": "D", "text": "Yörük Köyü", "explanation": "Yörük Köyü, Safranbolu yakınındadır; ayrı dosyada değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-031",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Marmara",
+    "difficulty": 3,
+    "stem": "Geleneksel Osmanlı kent dokusu ve konaklarıyla 1994'te UNESCO Dünya Mirası Listesi'ne giren ilçe aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Safranbolu (Karabük)", "explanation": "Doğru — 'Türk evinin başkenti' Safranbolu, adını safran bitkisinden alır; lokumu ve konaklarıyla ünlüdür." },
+      { "id": "B", "text": "Beypazarı (Ankara)", "explanation": "Beypazarı benzer dokudadır ama UNESCO ana listesinde değildir." },
+      { "id": "C", "text": "Odunpazarı (Eskişehir)", "explanation": "Odunpazarı geçici listededir; modern müzesi (OMM) ile de bilinir." },
+      { "id": "D", "text": "Mudurnu (Bolu)", "explanation": "Mudurnu geçici listededir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-032",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Göller",
+    "difficulty": 2,
+    "stem": "Beyaz kumsalı ve turkuaz suyuyla 'Türkiye'nin Maldivleri' olarak anılan, NASA'nın Mars araştırmalarına konu olan göl aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Salda Gölü", "explanation": "Doğru — Burdur'daki Salda'nın hidromanyezit mineralli yapısı, Mars'taki Jezero Krateri'ne benzerliğiyle incelenmiştir." },
+      { "id": "B", "text": "Eğirdir Gölü", "explanation": "Eğirdir güzeldir ama 'Maldivler' benzetmesi Salda'ya aittir." },
+      { "id": "C", "text": "Abant Gölü", "explanation": "Abant, orman içi heyelan set gölüdür." },
+      { "id": "D", "text": "Sapanca Gölü", "explanation": "Sapanca, tektonik kökenli hafta sonu destinasyonudur." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-033",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Akdeniz",
+    "difficulty": 2,
+    "stem": "Antalya'nın tarihi kent merkezi olan, Hadrian Kapısı ve Yivli Minare ile çevrili bölge aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Kaleiçi", "explanation": "Doğru — Kaleiçi, Roma'dan Osmanlı'ya kesintisiz dokusuyla Antalya turizminin kalbidir." },
+      { "id": "B", "text": "Konyaaltı", "explanation": "Konyaaltı, modern plaj bölgesidir." },
+      { "id": "C", "text": "Lara", "explanation": "Lara, otel ve plaj aksıdır." },
+      { "id": "D", "text": "Düden", "explanation": "Düden, şelaleleriyle ünlüdür." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-034",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Müzeler",
+    "difficulty": 3,
+    "stem": "1997'de 'Avrupa'da Yılın Müzesi' seçilen, Hitit ve Frig koleksiyonlarıyla ünlü müze aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Anadolu Medeniyetleri Müzesi (Ankara)", "explanation": "Doğru — Mahmut Paşa Bedesteni'nde kurulu müze, Anadolu kronolojisinin en zengin sergisidir." },
+      { "id": "B", "text": "Topkapı Sarayı Müzesi", "explanation": "Topkapı, Osmanlı saray koleksiyonudur." },
+      { "id": "C", "text": "İstanbul Arkeoloji Müzeleri", "explanation": "İskender Lahdi oradadır ama 1997 ödülü Ankara'nındır." },
+      { "id": "D", "text": "Mevlana Müzesi", "explanation": "Mevlana Müzesi inanç turizminin zirvesidir; ödül Anadolu Medeniyetleri'nindir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-035",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Somut olmayan miras",
+    "difficulty": 2,
+    "stem": "Aşağıdakilerden hangisi UNESCO Somut Olmayan Kültürel Miras Listesi'ndeki Türk unsurlarından biri DEĞİLDİR?",
+    "choices": [
+      { "id": "A", "text": "Ayasofya", "explanation": "Doğru cevap bu — Ayasofya somut (taşınmaz) mirastır; İstanbul'un Tarihi Alanları dosyasındadır. Somut olmayan liste gelenekleri kapsar." },
+      { "id": "B", "text": "Mevlevi Seması", "explanation": "Sema 2008'de listeye girmiştir." },
+      { "id": "C", "text": "Türk kahvesi kültürü", "explanation": "Türk kahvesi 2013'te listeye girmiştir." },
+      { "id": "D", "text": "Karagöz", "explanation": "Gölge oyunu Karagöz 2009'da listeye girmiştir." }
+    ],
+    "correct": "A",
+    "trick": "Somut olmayan miras = yaşayan gelenek (sema, kahve, ebru); bina/ören asla bu listede olmaz."
+  },
+  {
+    "id": "turizm-cografyasi-036",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "İklim",
+    "difficulty": 2,
+    "stem": "Her mevsim yağışlı iklimi nedeniyle Türkiye'nin en fazla yağış alan ili aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "Rize", "explanation": "Doğru — yıllık 2.200 mm'yi aşan yağışıyla Rize açık ara liderdir; çay tarımının merkezi olması da bundandır." },
+      { "id": "B", "text": "Antalya", "explanation": "Antalya kışın yağışlıdır ama yazı kuraktır (Akdeniz iklimi)." },
+      { "id": "C", "text": "İstanbul", "explanation": "İstanbul geçiş ikliminde orta düzeyde yağış alır." },
+      { "id": "D", "text": "Konya", "explanation": "Konya, Türkiye'nin en az yağış alan bölgesindedir — tam tersi." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-037",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Güneydoğu",
+    "difficulty": 2,
+    "stem": "Dicle kıyısındaki tarihi Hasankeyf yerleşimi hangi ildedir?",
+    "choices": [
+      { "id": "A", "text": "Batman", "explanation": "Doğru — 12.000 yıllık Hasankeyf, Ilısu Barajı nedeniyle büyük ölçüde su altında kalmış; anıtların bir kısmı taşınmıştır." },
+      { "id": "B", "text": "Mardin", "explanation": "Mardin, taş konaklarıyla ünlü tepe kentidir." },
+      { "id": "C", "text": "Şırnak", "explanation": "Hasankeyf Şırnak'ta değildir." },
+      { "id": "D", "text": "Siirt", "explanation": "Siirt'in ünlüsü battaniyesi ve fıstığıdır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-038",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Ege",
+    "difficulty": 3,
+    "stem": "2025 yılında UNESCO Dünya Mirası Listesi'ne eklenen 'Sardes ve Bintepeler Lidya Tümülüsleri' hangi ildedir?",
+    "choices": [
+      { "id": "A", "text": "Manisa", "explanation": "Doğru — Salihli'deki Sardes ile Marmara Gölü çevresindeki dev kral tümülüsleri (Bintepeler) birlikte listeye girdi." },
+      { "id": "B", "text": "İzmir", "explanation": "Sardes, İzmir sınırında değil Manisa'dadır." },
+      { "id": "C", "text": "Uşak", "explanation": "Uşak, 'Karun Hazinesi' eserlerinin müzesiyle bilinir ama Sardes Manisa'dadır." },
+      { "id": "D", "text": "Aydın", "explanation": "Aydın'ın UNESCO varlığı Afrodisias'tır." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-039",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Turizm istatistikleri",
+    "difficulty": 2,
+    "stem": "Yabancı ziyaretçi sayısında Türkiye'nin açık ara lider iki turizm kenti aşağıdakilerden hangisidir?",
+    "choices": [
+      { "id": "A", "text": "İstanbul ve Antalya", "explanation": "Doğru — İstanbul kültür-kongre, Antalya kıyı turizminde liderdir; ikisi toplam girişlerin yarıdan fazlasını karşılar." },
+      { "id": "B", "text": "Ankara ve İzmir", "explanation": "İkisi önemli kentlerdir ama yabancı ziyaretçide ilk ikiye giremez." },
+      { "id": "C", "text": "Muğla ve Nevşehir", "explanation": "Muğla üçüncülük bandındadır; Nevşehir (Kapadokya) daha geridedir." },
+      { "id": "D", "text": "Bursa ve Trabzon", "explanation": "İkisi bölgesel pazarlarda (Körfez) güçlüdür ama ilk iki değildir." }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "turizm-cografyasi-040",
+    "topicId": "turizm-cografyasi",
+    "subtopic": "Likya kıyıları",
+    "difficulty": 3,
+    "stem": "Patara ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+    "choices": [
+      { "id": "A", "text": "Karya Birliği'nin başkentidir", "explanation": "Doğru cevap bu (yanlış ifade) — Patara, LİKYA Birliği'nin meclis kentiydi; Karya değil." },
+      { "id": "B", "text": "Aziz Nikolaos'un (Noel Baba) doğum yeri kabul edilir", "explanation": "Doğrudur — Nikolaos Patara'da doğmuş, Myra'da piskoposluk yapmıştır." },
+      { "id": "C", "text": "Türkiye'nin en uzun kumsallarından birine sahiptir", "explanation": "Doğrudur — 18 km'lik kumsal aynı zamanda caretta yuvasıdır." },
+      { "id": "D", "text": "Antik dünyanın önemli fener yapılarından biri buradadır", "explanation": "Doğrudur — Neron dönemi feneri kısmen ayağa kaldırılmıştır." }
+    ],
+    "correct": "A",
+    "trick": "Patara üç şapkalıdır: Likya meclisi + Noel Baba'nın doğum yeri + caretta kumsalı. 'Karya' görürsen yanlıştır."
+  }
+]
