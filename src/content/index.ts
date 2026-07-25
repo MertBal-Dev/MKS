@@ -2,15 +2,21 @@ import type { Exam, Question, Topic } from '@/lib/types';
 
 import anadoluMedeniyetleriTopic from './topics/anadolu-medeniyetleri.json';
 import anadoluMedeniyetleriQuestions from './questions/anadolu-medeniyetleri.json';
+import arkeolojiMitolojiTopic from './topics/arkeoloji-mitoloji.json';
+import arkeolojiMitolojiQuestions from './questions/arkeoloji-mitoloji.json';
 
 /**
  * İçerik kayıt noktası. Yeni içerik eklemek = JSON dosyası + buraya bir satır.
  * Tüm dosyalar `npm run validate:content` ile doğrulanır.
  */
-export const topics: Topic[] = [anadoluMedeniyetleriTopic as unknown as Topic];
+export const topics: Topic[] = [
+  anadoluMedeniyetleriTopic as unknown as Topic,
+  arkeolojiMitolojiTopic as unknown as Topic,
+];
 
 export const questionBank: Question[] = [
   ...(anadoluMedeniyetleriQuestions as unknown as Question[]),
+  ...(arkeolojiMitolojiQuestions as unknown as Question[]),
 ];
 
 export const exams: Exam[] = [];
