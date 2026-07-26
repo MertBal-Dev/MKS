@@ -85,9 +85,39 @@
       "bilgi": "Nereidler Anıtı British Museum'da sergilenmektedir.",
       "kaynak": "https://tr.wikipedia.org/wiki/Nereidler_An%C4%B1t%C4%B1",
       "not": "British Museum 17. salon. Sütunlar arasındaki 12 Nereid heykelinden adını alır."
+    },
+    {
+      "bilgi": "Türkiye'de ilk Cittaslow (Sakin Şehir) unvanını Seferihisar (İzmir) almıştır.",
+      "kaynak": "https://seferihisar.com/turkiyenin-ilk-cittaslow-kenti-seferihisar/",
+      "not": "2009'da Cittaslow ağına katıldı; Türkiye'nin sakin şehirlerinin başkenti sayılır. Bozcaada ve Gökçeada da Cittaslow'dur."
+    },
+    {
+      "bilgi": "Hesiodos'un Theogonia eseri, Yunan tanrılarının soy ağacını ve yaratılış mitlerini anlatır.",
+      "kaynak": "https://arkeoakademi.com/hesiodos/",
+      "not": "Yaklaşık 1.000 dizelik epik şiir; Yunan kozmolojisinin temel kaynağı."
+    },
+    {
+      "bilgi": "Hesiodos'un diğer önemli eseri 'İşler ve Günler'dir.",
+      "kaynak": "https://arkeoakademi.com/hesiodos/",
+      "not": "Yunan didaktik şiirinin ilk örneği; tarım, adalet ve çalışma üzerine."
+    },
+    {
+      "bilgi": "Hesiodos, Homeros ile birlikte antik Yunan edebiyatının en önemli figürlerinden biridir.",
+      "kaynak": "https://arkeoakademi.com/hesiodos/",
+      "not": "MÖ 8.-7. yüzyıl; Homeros ile çağdaş. 'Yunan didaktik şiirinin babası'."
     }
   ],
   "yanlis": [
+    {
+      "bilgi": "Türkiye'nin ikinci büyük adası Bozcaada'dır.",
+      "sorun": "YANLIŞ. Sıralama: 1) Gökçeada (en büyük), 2) MARMARA ADASI (117 km²), 3) Bozcaada. Bozcaada, Ege'nin Gökçeada'dan sonraki ikinci büyük adasıdır — 'Türkiye'nin ikincisi' değil.",
+      "kaynak": "https://tr.wikipedia.org/wiki/Bozcaada"
+    },
+    {
+      "bilgi": "Türkiye'de 49 adet milli park bulunmaktadır.",
+      "sorun": "Sabit sayı güvenilmez. Kaynaklar 47, 48 ve 50 veriyor; en son Geben Vadisi (30 Mayıs 2025) eklendi. Sayı her yıl değişiyor, bu yüzden notlarda '40'ın üzerinde' denmeli.",
+      "kaynak": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye'deki_mill%C3%AE_parklar_listesi"
+    },
     {
       "bilgi": "Nereidler Anıtı, Likya mimarisinin Helenistik dönem etkilerini gösteren önemli bir mezar anıtıdır.",
       "sorun": "Dönem yanlış. Anıt MÖ 390 civarına, yani KLASİK döneme tarihlenir; Helenistik dönem MÖ 323'te başlar. Üslubu Yunan tapınağı formu ile Pers geleneğinin (yüksek podyum) karışımıdır.",
