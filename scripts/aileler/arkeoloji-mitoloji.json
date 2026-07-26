@@ -1,9 +1,148 @@
 [
   {
+    "id": "aile-arkeoloji-mitoloji-001",
+    "topicId": "arkeoloji-mitoloji",
+    "cekirdek": "Antik Anadolu uygarlıklarının baş tanrılarını ve tanrıçalarını doğru bir şekilde eşleştirebilme bilgisi ölçülmektedir.",
+    "ozet": "Antik Anadolu uygarlıkları, zengin inanç sistemlerine sahipti ve her birinin kendine özgü bir **panteonu** bulunmaktaydı. Bu panteonlarda en önemli yeri ise genellikle **baş tanrılar veya tanrıçalar** alırdı. Örneğin, Friglerin Ana Tanrıçası **Kybele** iken, Urartuların baş tanrısı **Haldi**'ydi. Hititlerin baş tanrısı **Teşup**'tur ve Hurri kökenli **Teişeba** ile karıştırılmamalıdır; Teişeba Urartu panteonunda fırtına tanrısı olarak yer alır. Bu temel eşleştirmeleri bilmek, ilgili uygarlıkların kültürel ve dini yapılarını anlamak için kritik öneme sahiptir.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-014",
+        "stem": "Aşağıdaki 'Uygarlık - Baş Tanrı/Tanrıça' eşleştirmelerinden hangisi yanlış verilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Urartu - Haldi",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Frigya - Kybele",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Hitit - Teişeba",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Lidya - Kubaba",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-arkeoloji-mitoloji-001-t1",
+        "stem": "Antik Anadolu uygarlıklarının inanç sistemlerine dair aşağıdaki eşleştirmelerden hangisi doğru değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Sümerler - Kubaba (Karkamış Kraliçesi)",
+            "explanation": "Kubaba, Sümer kökenli bir Geç Hitit tanrıçasıdır ve Karkamış Kraliçesi olarak bilinir. Sümerlerin baş tanrıçası değildir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Frigler - Kybele (Ana Tanrıça)",
+            "explanation": "Friglerin en önemli tanrıçası, Ana Tanrıça olarak kabul edilen Kybele'dir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Urartular - Haldi (Baş Tanrı)",
+            "explanation": "Urartu Krallığı'nın baş tanrısı Haldi'dir ve genellikle aslan üzerinde betimlenir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Hititler - Teşup (Fırtına Tanrısı)",
+            "explanation": "Hitit mitolojisinde fırtına tanrısı Teşup'tur. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Lidyalılar - Kibele (Bereket Tanrıçası)",
+            "explanation": "Lidyalılar da dahil olmak üzere Anadolu'da birçok uygarlık Kibele kültünü benimsemiştir. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Kubaba ismini gören öğrencinin Sümer kökenli olduğunu bilmeden direkt olarak doğru kabul etmesi tuzağıdır."
+      },
+      {
+        "id": "aile-arkeoloji-mitoloji-001-t2",
+        "stem": "Aşağıdakilerden hangisi, verilen tanrı/tanrıçaların simgeleriyle doğru bir şekilde eşleştirilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hititlerin fırtına tanrısı Teşup - Üç dişli mızrak",
+            "explanation": "Üç dişli mızrak (trident) Poseidon'un simgesidir. Teşup'un belirgin bir simgesi ders notunda verilmemiştir."
+          },
+          {
+            "id": "B",
+            "text": "Friglerin Ana Tanrıçası Kybele - Aslanlar arasında oturan ana tanrıça ve tef",
+            "explanation": "Kybele'nin simgeleri arasında aslanlar arasında oturan ana tanrıça ve tef yer alır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Urartuların baş tanrısı Haldi - Kartal",
+            "explanation": "Kartal Zeus'un simgesidir. Haldi genellikle aslan üzerinde betimlenir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Hurrilerin baş tanrısı Teişeba - Örs ve çekiç",
+            "explanation": "Örs ve çekiç Hephaistos'un simgesidir. Teişeba'nın belirgin bir simgesi ders notunda verilmemiştir."
+          },
+          {
+            "id": "E",
+            "text": "Geç Hitit tanrıçası Kubaba - Kanatlı sandalet",
+            "explanation": "Kanatlı sandalet Hermes'in simgesidir. Kubaba'nın belirgin bir simgesi ders notunda verilmemiştir. Bu eşleştirme yanlıştır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Öğrencinin farklı uygarlıkların tanrılarını Yunan tanrılarının simgeleriyle karıştırması tuzağıdır."
+      },
+      {
+        "id": "aile-arkeoloji-mitoloji-001-t3",
+        "stem": "Aşağıda verilen antik Anadolu uygarlıkları ve onlarla ilişkilendirilen önemli tanrı/tanrıça eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hititler - Teşup",
+            "explanation": "Hitit mitolojisinde fırtına tanrısı Teşup'tur. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Frigler - Kybele",
+            "explanation": "Friglerin Ana Tanrıçası Kybele'dir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Lidyalılar - Kubaba",
+            "explanation": "Kubaba, Sümer kökenli bir Geç Hitit tanrıçasıdır ve bereket tanrıçası olarak kabul edilir. Lidya'nın baş tanrısı/tanrıçası olarak ders notunda Kubaba'dan bahsedilmemektedir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Urartular - Teişeba",
+            "explanation": "Teişeba, Hurri mitolojisinin baş tanrısıdır ve Urartu panteonunda da fırtına tanrısı olarak yer alır. Urartu'nun baş tanrısı Haldi'dir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Likyalılar - Leto",
+            "explanation": "Likya'nın ana tanrıçası Leto'dur ve Letoon onun kutsal alanıdır. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Kubaba'nın Anadolu'da yaygın bir kült olduğunu bilip, spesifik olarak Lidya ile doğrudan ilişkilendirilip ilişkilendirilmediğini gözden kaçırma tuzağıdır."
+      }
+    ]
+  },
+  {
     "id": "aile-arkeoloji-mitoloji-002",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "Urartu mitolojisinin baş tanrısı Haldi'nin özelliklerini ve betimlemesini bilmek, diğer Urartu tanrıları ve Hitit/Hurri mitolojisiyle karıştırmamak.",
-    "ozet": "Antik uygarlıkların **mitolojileri** ve **tanrıları**, o toplumların inanç sistemlerini ve kültürel yapılarını anlamak için temel oluşturur. Sınavlarda genellikle baş tanrılar, simgeleri ve etki alanları sorulur. Özellikle **Urartu** Krallığı'nın panteonunda, savaş tanrısı olarak bilinen ve bir **aslan üzerinde betimlenen** baş tanrı **Haldi** ön plana çıkar. Diğer önemli Urartu tanrıları arasında fırtına tanrısı **Teişeba** ve güneş tanrısı **Şivini** de bulunur. Bu tanrıları, Hititlerin fırtına tanrısı **Teşup** gibi benzer isimli tanrılarla karıştırmamak önemlidir. Her uygarlığın kendi özgü tanrılarını ve onların ayırt edici özelliklerini bilmek, doğru cevaba ulaşmanın anahtarıdır.",
+    "cekirdek": "Antik Anadolu uygarlıklarının baş tanrıları ve onlara ait ayırt edici semboller bilgisini ölçer.",
+    "ozet": "Antik Anadolu'da birçok farklı uygarlık hüküm sürmüş ve her birinin kendine özgü bir panteonu olmuştur. Bu uygarlıkların **baş tanrıları** ve onlarla ilişkilendirilen **simgeler** sınavda sıkça karşınıza çıkar. Örneğin, **Hititler**'in baş tanrısı genellikle **Teşup** (Fırtına Tanrısı) iken, **Urartular**'ın baş tanrısı **Haldi**'dir ve sıklıkla **aslan üzerinde** betimlenir. Friglerin Ana Tanrıçası **Kibele** ise en bilinen tanrıçalarındandır. Bu temel eşleştirmeleri ve ayırt edici özelliklerini bilmek, Anadolu mitolojisiyle ilgili soruları doğru yanıtlamanıza yardımcı olacaktır.",
     "kaynak": {
       "examId": "cikmis-2025-agustos",
       "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
@@ -39,110 +178,249 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-002-t1",
-        "stem": "Urartu Krallığı'nın panteonundaki baş tanrı Haldi'nin en belirgin özelliklerinden biri aşağıdakilerden hangisidir?",
+        "stem": "Antik Frig uygarlığının baş tanrıçası olarak kabul edilen ve Roma'da Magna Mater adıyla benimsenen bereket tanrıçası aşağıdakilerden hangisidir?",
         "choices": [
           {
             "id": "A",
-            "text": "Genellikle bir öküz üzerinde betimlenmesi ve bereket tanrısı olması.",
-            "explanation": "Haldi öküz üzerinde betimlenmez ve bereket tanrısı olarak değil, savaş tanrısı ve baş tanrı olarak bilinir."
+            "text": "Artemis",
+            "explanation": "Artemis, Yunan mitolojisinde avcılık ve ay tanrıçasıdır; Friglerin baş tanrıçası değildir. Efes Artemis'i her ne kadar bereket tanrıçası olsa da, bu bir sentezdir ve Friglerin özgün baş tanrıçası değildir."
           },
           {
             "id": "B",
-            "text": "Şimşek ve yıldırımı simgelemesi, göklerin hakimi olması.",
-            "explanation": "Şimşek ve yıldırımı simgeleyen tanrı genellikle Teişeba (Urartu) veya Teşup (Hitit) gibi fırtına tanrılarıdır, Haldi'nin ana özelliği değildir."
+            "text": "Demeter",
+            "explanation": "Demeter, Yunan mitolojisinde tarım ve bereket tanrıçasıdır; Friglerin baş tanrıçası değildir."
           },
           {
             "id": "C",
-            "text": "Tarım ve hasatla ilişkilendirilmesi, elinde başak demeti tutması.",
-            "explanation": "Tarım ve hasatla ilişkilendirilen tanrı Demeter (Yunan) gibi tanrıçalardır, Haldi ile ilgili değildir."
+            "text": "Hera",
+            "explanation": "Hera, Yunan mitolojisinde evlilik ve aile tanrıçasıdır; Friglerin baş tanrıçası değildir."
           },
           {
             "id": "D",
-            "text": "Aslan üzerinde betimlenmesi ve Urartu panteonunun baş tanrısı olması.",
-            "explanation": "Urartu'nun baş tanrısı Haldi'nin en belirgin özelliklerinden biri aslan üzerinde betimlenmesidir. Bu bilgi ders notunda açıkça belirtilmiştir."
+            "text": "Kibele",
+            "explanation": "Kibele, Frig Ana Tanrıçasıdır ve Roma'da Magna Mater olarak benimsenmiştir. Bu bilgi ders notunda açıkça belirtilmiştir."
           },
           {
             "id": "E",
-            "text": "Bilgelik ve kehanetle anılması, baykuş ile sembolize edilmesi.",
-            "explanation": "Bilgelik ve kehanetle ilişkilendirilen tanrı Athena (Yunan) gibi tanrıçalardır ve baykuş onun simgesidir, Haldi'nin özelliği değildir."
+            "text": "Afrodit",
+            "explanation": "Afrodit, Yunan mitolojisinde aşk ve güzellik tanrıçasıdır; Friglerin baş tanrıçası değildir."
           }
         ],
         "correct": "D",
-        "trick": "Farklı uygarlıkların tanrılarını ve simgelerini karıştırmak, özellikle benzer isimli tanrıları yanlış eşleştirmek tuzaktır."
+        "trick": "Yunan ve Roma tanrıçalarını çeldirici olarak sunarak, öğrencinin Anadolu'ya özgü tanrıçaları bilip bilmediğini test eder."
       },
       {
         "id": "aile-arkeoloji-mitoloji-002-t2",
-        "stem": "Aşağıdakilerden hangisi Urartu mitolojisiyle ilgili doğru bir ifade DEĞİLDİR?",
+        "stem": "Aşağıdaki tanrı ve uygarlık eşleştirmelerinden hangisi YANLIŞTIR?",
         "choices": [
           {
             "id": "A",
-            "text": "Haldi, Urartu panteonunun baş tanrısıdır.",
-            "explanation": "Bu ifade doğrudur. Haldi, Urartu Krallığı'nın baş tanrısıdır."
+            "text": "Hititler - Teşup",
+            "explanation": "Ders notunda Hititlerin baş tanrısının Teşup (Fırtına Tanrısı) olduğu açıkça belirtilmiştir. Bu doğru bir eşleştirmedir."
           },
           {
             "id": "B",
-            "text": "Teişeba, Urartu'nun fırtına tanrısıdır.",
-            "explanation": "Bu ifade doğrudur. Teişeba, Urartu mitolojisindeki fırtına tanrısıdır."
+            "text": "Urartular - Haldi",
+            "explanation": "Ders notunda Urartu Krallığı'nın baş tanrısının Haldi olduğu belirtilmiştir. Bu doğru bir eşleştirmedir."
           },
           {
             "id": "C",
-            "text": "Şivini, Urartu'nun güneş tanrısıdır.",
-            "explanation": "Bu ifade doğrudur. Şivini, Urartu mitolojisindeki güneş tanrısıdır."
+            "text": "Frigler - Kibele",
+            "explanation": "Ders notunda Friglerin Ana Tanrıçası'nın Kibele olduğu belirtilmiştir. Bu doğru bir eşleştirmedir."
           },
           {
             "id": "D",
-            "text": "Haldi, genellikle bir aslan üzerinde betimlenir.",
-            "explanation": "Bu ifade doğrudur. Ders notunda Haldi'nin aslan üzerinde betimlendiği açıkça belirtilmiştir."
+            "text": "Urartular - Teişeba",
+            "explanation": "Teişeba, Urartuların fırtına tanrısıdır, ancak ders notunda baş tanrı olarak Haldi belirtilmiştir. Baş tanrı eşleştirmesinde 'Urartu - Haldi' doğru kabul edilirken, Teişeba da Urartu panteonunda önemli bir tanrıdır. Ancak notta 'Teişeba Urartu'nundur, Hitit'in değil' ifadesiyle bu isim Urartularla ilişkilendirilmiştir. Bu şık, Haldi'nin baş tanrı olduğu bilgisini gözden kaçıranları yanıltabilir, ancak tamamen yanlış değildir, sadece baş tanrı vurgusu eksiktir. Ancak notta 'baş tanrı Haldi' denmesi, Teişeba'nın baş tanrı olmadığını ima eder. Bu şıkkı yanlış olarak işaretlemek için başka bir şıkkın daha açık bir hata içermesi gerekir. Bu soruda amaç 'baş tanrı' eşleştirmesindeki hatayı bulmaktır. Notta Teişeba'nın Hurri mitolojisinden Hitit panteonuna Teşup adıyla girdiği de belirtilmiştir, bu da kafa karışıklığı yaratabilir."
           },
           {
             "id": "E",
-            "text": "Urartu mitolojisinde fırtına tanrısı Teşup olarak bilinir.",
-            "explanation": "Bu ifade yanlıştır. Urartu mitolojisinde fırtına tanrısı Teişeba'dır. Teşup ise Hitit mitolojisinin fırtına tanrısıdır. Bu, sınavda sıkça karıştırılan bir noktadır."
+            "text": "Hititler - Teişeba",
+            "explanation": "Ders notunda 'Teişeba Urartu'nundur, Hitit'in değil' ifadesiyle bu eşleştirmenin yanlış olduğu açıkça belirtilmiştir. Hititlerin baş tanrısı Teşup'tur. Bu, kesinlikle yanlış olan eşleştirmedir."
           }
         ],
         "correct": "E",
-        "trick": "Hitit ve Urartu fırtına tanrıları arasındaki isim benzerliği ve farklılıkları gözden kaçırmak, yanıltıcı olabilir."
+        "trick": "Benzer isimleri (Teşup/Teişeba) farklı uygarlıklarla karıştırarak veya aynı uygarlığın farklı tanrılarını baş tanrı olarak sunarak yanıltmayı amaçlar."
       },
       {
         "id": "aile-arkeoloji-mitoloji-002-t3",
-        "stem": "Aşağıdaki tanrı-uygarlık eşleştirmelerinden hangisi doğrudur?",
+        "stem": "Antik sanatta bir tanrının heykelini tanımlarken, elinde 'iki yılanlı, kanatlı asa' (kaduseus) tuttuğu görülen figür hangi tanrıya aittir?",
         "choices": [
           {
             "id": "A",
-            "text": "Haldi - Urartu",
-            "explanation": "Haldi, Urartu Krallığı'nın baş tanrısıdır. Bu eşleştirme doğrudur."
+            "text": "Hermes",
+            "explanation": "Ders notunda 'Kanatlı sandalet/başlık, kaduseus (iki yılanlı asa), kese' simgeleri Hermes'e ait olarak belirtilmiştir. Bu nedenle doğru cevaptır."
           },
           {
             "id": "B",
-            "text": "Teşup - Urartu",
-            "explanation": "Teşup, Hitit mitolojisinin fırtına tanrısıdır, Urartu'nun değil. Urartu'nun fırtına tanrısı Teişeba'dır."
+            "text": "Asklepios",
+            "explanation": "Asklepios'un simgesi 'yılanlı tek asa'dır ve kanatsızdır. İki yılanlı ve kanatlı asa Hermes'e aittir. Bu, notta 'en kritik iki ayrım' başlığı altında vurgulanmıştır."
           },
           {
             "id": "C",
-            "text": "Kibele - Urartu",
-            "explanation": "Kibele, Frig Ana Tanrıçasıdır, Urartu ile ilişkili değildir."
+            "text": "Zeus",
+            "explanation": "Zeus'un simgeleri yıldırım demeti, kartal ve asadır. Kaduseus ona ait değildir."
           },
           {
             "id": "D",
-            "text": "Teişeba - Hitit",
-            "explanation": "Teişeba, Urartu mitolojisinin fırtına tanrısıdır, Hitit'in değil. Hitit'in fırtına tanrısı Teşup'tur."
+            "text": "Apollon",
+            "explanation": "Apollon'un simgeleri lir, defne çelengi ve yaydır. Kaduseus ona ait değildir."
           },
           {
             "id": "E",
-            "text": "İlluyanka - Frig",
-            "explanation": "İlluyanka miti, Hitit mitolojisine aittir, Friglerle ilgili değildir."
+            "text": "Poseidon",
+            "explanation": "Poseidon'un simgesi üç dişli mızrak (trident) ve attır. Kaduseus ona ait değildir."
           }
         ],
         "correct": "A",
-        "trick": "Farklı antik Anadolu uygarlıklarının baş tanrılarını ve önemli mitolojik figürlerini birbirine karıştırmak en yaygın hatadır."
+        "trick": "Asklepios'un tek yılanlı asası ile Hermes'in kaduseus'unu karıştırma eğilimini hedef alarak, sınavın önemli bir ayrımını test eder."
+      }
+    ]
+  },
+  {
+    "id": "aile-arkeoloji-mitoloji-003",
+    "topicId": "arkeoloji-mitoloji",
+    "cekirdek": "Mitolojik anlatılar ve arkeolojik terimler ile bunların Anadolu'daki konumlarını, ilgili uygarlıkları ve ayırt edici özelliklerini bilmek.",
+    "ozet": "MKS'de başarılı olmak için **arkeolojik terimler**, **mitolojik figürler** ve **Anadolu'daki antik yerleşimlerle** ilgili bilgileri iyi kavramak esastır. Örneğin, \"Höyük\" üst üste yerleşim katmanlarından oluşan **yapay tepe** iken, \"Tümülüs\" bir **mezarın üzerine yığılan toprak tepe**dir. Antik tanrıların **attributları (simgeleri)**, onları heykellerde tanımak için kritik öneme sahiptir (örn. Zeus'un yıldırım demeti, Athena'nın baykuşu). Mitolojik olayların **hangi antik kentte geçtiği** (örn. Troya Savaşı-Çanakkale Troya, Gordion Düğümü-Gordion) sıkça sorulan bir konudur. Ayrıca, Anadolu uygarlıklarının baş tanrıları (örn. Hitit-Teşup, Urartu-Haldi, Frig-Kibele) ve önemli arkeolojik keşifler (örn. Kültepe-Asur Ticaret Kolonileri) de sınavda öne çıkan detaylardır. Bu temel kavramlara hakimiyet, soruları doğru yanıtlamanızı sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-029",
+        "stem": "UNESCO Dünya Mirası Geçici Listesi'nde yer alan, Lidya Krallığı'na başkentlik yapmış olması ve 'Bintepeler' tümülüsleri ile bilinen antik kentimiz aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Gordion",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Sardes ve Bintepeler",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Efes",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Afrodisias",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-arkeoloji-mitoloji-003-t1",
+        "stem": "Aşağıdakilerden hangisi, Frig Krallığı'nın başkenti olan Gordion ile ilgili efsanevi olaylar ve kişiler arasında YER ALMAZ?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kral Gordios'un öküz arabasıyla şehre girerek kral seçilmesi",
+            "explanation": "Bu, Gordion'un kuruluş efsanesinin önemli bir parçasıdır ve ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "B",
+            "text": "Khimaira'nın (Yanartaş) Bellerophon tarafından öldürülmesi",
+            "explanation": "Khimaira efsanesi Olympos-Çıralı (Antalya) ile ilişkilidir, Gordion ile değil. Bu nedenle doğru cevap budur."
+          },
+          {
+            "id": "C",
+            "text": "Büyük İskender'in Gordion Düğümü'nü kılıcıyla kesmesi",
+            "explanation": "Ders notunda Büyük İskender'in MÖ 333'te Gordion Düğümü'nü kılıcıyla kestiği açıkça ifade edilmektedir."
+          },
+          {
+            "id": "D",
+            "text": "Kral Midas'ın altın dokunuşu ve eşek kulakları efsanesi",
+            "explanation": "Kral Midas, Frig kralıdır ve babası Gordios'tur. Altın dokunuşu ve eşek kulakları efsaneleri Gordion ile ilişkilidir ve ders notunda 'Midas'ın altın dokunuşu ve eşek kulakları - Gordion (Polatlı)' olarak geçmektedir."
+          },
+          {
+            "id": "E",
+            "text": "Asya'ya hükmedecek kişinin Gordion Düğümü'nü çözeceği kehaneti",
+            "explanation": "Bu kehanet, Gordion Düğümü efsanesinin temelini oluşturur ve ders notunda yer almaktadır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Gordion ile ilgili tüm efsanelerin Frigya coğrafyasında geçtiğini varsaymak yanıltıcı olabilir."
+      },
+      {
+        "id": "aile-arkeoloji-mitoloji-003-t2",
+        "stem": "Antik Yunan ve Roma panteonundaki tanrı ve tanrıçaların simgeleriyle ilgili aşağıdaki eşleştirmelerden hangisi YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Zeus - Yıldırım demeti ve kartal",
+            "explanation": "Ders notunda Zeus'un simgeleri arasında 'Yıldırım demeti, kartal, asa' yer almaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Athena - Baykuş ve zeytin dalı",
+            "explanation": "Ders notunda Athena'nın simgeleri arasında 'Miğfer, kalkan (Gorgon başlı aegis), mızrak, BAYKUŞ, zeytin dalı' yer almaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Hermes - Tek yılanlı asa (Asklepios asası) ve kanatlı sandalet",
+            "explanation": "Ders notunda Hermes'in simgesi 'kaduseus (iki yılanlı asa)' olarak belirtilmiştir. Tek yılanlı asa Asklepios'a aittir ve bu ayrım ders notunda 'En kritik iki ayrım' başlığı altında özellikle vurgulanmıştır. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Artemis - Yay-sadak ve geyik",
+            "explanation": "Ders notunda Artemis'in simgeleri arasında 'Yay-sadak, geyik, hilal, kısa avcı eteği' yer almaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Demeter - Başak demeti ve meşale",
+            "explanation": "Ders notunda Demeter'in simgeleri arasında 'Başak demeti, meşale, oturur ana figür' yer almaktadır. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Hermes'in asası ile Asklepios'un asasının sıkça karıştırıldığına dair nottaki uyarıyı gözden kaçırmak."
+      },
+      {
+        "id": "aile-arkeoloji-mitoloji-003-t3",
+        "stem": "Aşağıdaki arkeolojik terimlerin tanımlarını dikkate alarak doğru eşleştirmeyi bulunuz:\nI. Höyük\nII. Tümülüs\nIII. Nekropol\nIV. Sitadel\nV. Stel\n\na. Antik mezarlık alanı\nb. Mezarın üzerine yığılan toprak tepe\nc. Üst üste kurulan yerleşimlerin oluşturduğu yapay tepe\nd. Surlarla çevrili iç kale veya akropol\ne. Üzerinde yazıt veya kabartma bulunan dikili taş",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I-b, II-c, III-a, IV-d, V-e",
+            "explanation": "Höyük ve Tümülüs'ün tanımları karıştırılmıştır."
+          },
+          {
+            "id": "B",
+            "text": "I-c, II-a, III-b, IV-d, V-e",
+            "explanation": "Tümülüs ve Nekropol'ün tanımları karıştırılmıştır."
+          },
+          {
+            "id": "C",
+            "text": "I-d, II-b, III-a, IV-c, V-e",
+            "explanation": "Höyük ve Sitadel'in tanımları karıştırılmıştır."
+          },
+          {
+            "id": "D",
+            "text": "I-c, II-b, III-a, IV-d, V-e",
+            "explanation": "Ders notunda 'Höyük: Aynı yerde üst üste kurulan yerleşimlerin oluşturduğu yapay tepe.', 'Tümülüs: Mezarın üzerine yığılan toprak tepe.', 'Nekropol: Antik mezarlık alanı.', 'Sitadel: Antik kentlerde genellikle en yüksek noktada yer alan, surlarla çevrili iç kale veya akropol.', 'Stel: Üzerinde yazıt veya kabartma bulunan, anıt veya mezar taşı olarak kullanılan dikili taştır.' şeklinde tanımlar verilmiştir. Bu eşleştirme tüm terimler için doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "I-c, II-b, III-d, IV-a, V-e",
+            "explanation": "Nekropol ve Sitadel'in tanımları karıştırılmıştır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Birbirine yakın anlamlı terimlerin (örn. höyük, tümülüs) tanımlarını karıştırmak."
       }
     ]
   },
   {
     "id": "aile-arkeoloji-mitoloji-004",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "Bu soru, Gordion Düğümü efsanesiyle ilişkilendirilen Frig kralı ve efsanenin temel unsurları hakkındaki bilgiyi ölçmektedir.",
-    "ozet": "Antik efsaneler, arkeolojik alanları anlamak ve ziyaretçilere aktarmak için kilit öneme sahiptir. Özellikle **Gordion Düğümü** efsanesi, **Frig** uygarlığı ve **Büyük İskender** ile yakından ilişkilidir. Efsaneye göre, kimsenin çözemediği bir düğümü kılıcıyla keserek 'Asya'ya hükmedecek' kehanetini gerçekleştiren kişi Büyük İskender'dir. Ancak bu düğüm, Frig kralı **Gordios**'un bir öküz arabasının boyunduruğuna bağladığı bir düğümdür ve tarım ile ilişkilidir. Gordios, ünlü Frig kralı **Midas**'ın babasıdır. Bu efsane, karmaşık bir soruna radikal bir çözüm bulmayı ifade eden bir deyim haline gelmiştir.",
+    "cekirdek": "Frig Kralı Gordios ve onunla ilişkilendirilen, Büyük İskender tarafından kesilen Gordion Düğümü efsanesi.",
+    "ozet": "Antik Çağ'da Anadolu'nun önemli uygarlıklarından **Frigler**, zengin mitolojik anlatılara sahiptir. Bu anlatılardan biri, Frig kralı **Gordios** ile özdeşleşen **Gordion Düğümü** efsanesidir. Efsaneye göre, çözülemeyen bu düğümü çözenin Asya'ya hükmedeceği kehanet edilir. Büyük İskender, MÖ 333'te Gordion'a geldiğinde bu düğümü kılıcıyla keserek kehaneti kendi lehine çevirmiştir. Bu olay, karmaşık bir sorunu radikal bir şekilde çözmeyi ifade eden bir deyim haline gelmiştir. Düğümün kendisi, Gordios'un tanrılara adadığı bir **öküz arabasının** boyunduruğunu bağlayan, ucu görünmeyen bir düğümdür. Bu efsane, özellikle **Gordion** antik kentiyle ilişkilidir.",
     "kaynak": {
       "examId": "cikmis-2025-agustos",
       "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
@@ -178,110 +456,110 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-004-t1",
-        "stem": "Gordion Düğümü efsanesine göre, bu düğümün çözülemez olmasının ve Frig kralıyla ilişkilendirilmesinin temel nedeni aşağıdakilerden hangisidir?",
+        "stem": "MÖ 333 yılında Frigya'nın başkenti Gordion'da, 'Asya'ya hükmedecek' kehanetiyle ilişkilendirilen Gordion Düğümü'nü kılıcıyla kesen ünlü komutan aşağıdakilerden hangisidir?",
         "choices": [
           {
             "id": "A",
-            "text": "Düğümün, bir tanrıya adanmış savaş arabasının üzerinde bulunması.",
-            "explanation": "Düğüm bir öküz arabasının boyunduruğuna bağlanmıştır, ancak bu araba savaş arabası değil, bir çiftçi arabasıdır ve tanrı Zeus'a adanmıştır. Temel nedeni bu değildir."
+            "text": "Julius Caesar",
+            "explanation": "Julius Caesar, Roma İmparatorluğu'nun önemli bir komutanı ve politikacısıdır, ancak Gordion Düğümü ile ilişkilendirilen kişi değildir."
           },
           {
             "id": "B",
-            "text": "Düğümün, Friglerin askeri gücünü simgeleyen özel bir bağlama tekniğiyle yapılmış olması.",
-            "explanation": "Düğümün askeri güçle veya özel bir bağlama tekniğiyle yapıldığı bilgisi ders notunda yer almamaktadır. Efsane daha çok kehanet ve kral seçimiyle ilgilidir."
+            "text": "Hannibal",
+            "explanation": "Hannibal, Kartacalı bir komutandır ve Roma'ya karşı yaptığı savaşlarla bilinir, Gordion Düğümü efsanesiyle bir bağlantısı yoktur."
           },
           {
             "id": "C",
-            "text": "Düğümün, Kral Midas tarafından ülkenin hazinesini korumak amacıyla özel olarak mühürlenmiş olması.",
-            "explanation": "Düğüm Kral Midas ile değil, babası Gordios ile ilişkilidir ve hazine koruma amacı taşımamaktadır."
+            "text": "Atilla",
+            "explanation": "Atilla, Hun İmparatorluğu'nun lideridir ve Gordion Düğümü efsanesiyle bir ilişkisi bulunmamaktadır."
           },
           {
             "id": "D",
-            "text": "Düğümün, bir kehanet sonucu sadece bir tanrı tarafından çözülebileceğine inanılması.",
-            "explanation": "Kehanet, düğümü çözen kişinin 'Asya'ya hükmedeceğini' belirtir, bir tanrı tarafından çözülmesi gerektiğini değil, bir insan tarafından çözülebileceğini ima eder."
+            "text": "Darius III",
+            "explanation": "Darius III, Pers İmparatoru'dur ve Büyük İskender'in çağdaşı ve rakibidir, ancak düğümü kesen kişi değildir."
           },
           {
             "id": "E",
-            "text": "Düğümün, Friglerin ilk kralı Gordios'un öküz arabasının boyunduruğuna bağlanmış ve tanrıya adanmış olması.",
-            "explanation": "Ders notunda belirtildiği üzere, Frigler krallarını beklerken kehanet uyarınca şehre öküz arabasıyla giren çiftçi Gordios'u kral seçmiş, o da arabasını tanrıya adamıştır. Düğüm bu arabanın boyunduruğuna bağlıdır."
+            "text": "Büyük İskender",
+            "explanation": "Ders notunda belirtildiği gibi, MÖ 333 yılında Gordion Düğümü'nü kılıcıyla kesen kişi Büyük İskender'dir."
           }
         ],
         "correct": "E",
-        "trick": "Öğrenci, düğümün bir savaş arabasıyla ilişkili olduğunu düşünebilir veya Midas'ın kraliyet hazinesiyle bağ kurmaya çalışabilir."
+        "trick": "Farklı dönem ve coğrafyalardan bilinen komutan isimleri çeldirici olarak kullanılmıştır."
       },
       {
         "id": "aile-arkeoloji-mitoloji-004-t2",
-        "stem": "Aşağıdakilerden hangisi Gordion Düğümü efsanesiyle ilgili YANLIŞ bir bilgidir?",
+        "stem": "Aşağıdakilerden hangisi Frigya kralı Gordios ile ilişkilendirilen Gordion Düğümü efsanesi hakkında YANLIŞ bir bilgidir?",
         "choices": [
           {
             "id": "A",
-            "text": "Düğüm, Friglerin başkenti Ankyra'da bulunmaktadır.",
-            "explanation": "Ders notunda düğümün Frig başkenti 'Gordion'da' olduğu belirtilmiştir. Ankyra (Ankara), Frig başkenti değildir, bu bilgi yanlıştır."
+            "text": "Kral Midas, Gordios'un babasıdır.",
+            "explanation": "Ders notunda Gordios'un Kral Midas'ın babası olduğu belirtilmektedir. Bu bilgi, ifadenin tersi olduğu için yanlıştır; Midas Gordios'un oğludur."
           },
           {
             "id": "B",
-            "text": "Düğümün çözülmesiyle ilgili kehanet, 'Asya'ya hükmedecek' ifadesini içermektedir.",
-            "explanation": "Ders notunda 'Bu düğümü çözen Asya'ya hükmedecek' kehaneti açıkça belirtilmiştir, bu bilgi doğrudur."
+            "text": "Gordios, Frig Krallığı'nın kurucusu sayılan bir kraldır.",
+            "explanation": "Ders notunda Gordios'un Frig Krallığı'nın kurucusu sayılan Frig kralı olduğu belirtilmektedir. Bu bilgi doğrudur."
           },
           {
             "id": "C",
-            "text": "Düğümü kılıcıyla keserek çözen kişi Büyük İskender'dir.",
-            "explanation": "Ders notunda 'Büyük İskender MÖ 333'te düğümü kılıcıyla kesmiştir' ifadesi yer almaktadır, bu bilgi doğrudur."
+            "text": "Gordion Düğümü, Gordios'un tarım aracı olan öküz arabasının boyunduruğunu bağlayan bir düğümdür.",
+            "explanation": "Ders notunda düğümün Gordios'un öküz arabasının boyunduruğunu bağlayan bir düğüm olduğu açıkça ifade edilmektedir. Bu bilgi doğrudur."
           },
           {
             "id": "D",
-            "text": "Düğüm, Frig kralı Gordios'un bir öküz arabasının boyunduruğuna bağlanmıştır.",
-            "explanation": "Ders notunda 'Gordios'un arabasının boyunduruğunu tapınağa bağlayan... düğümdür' ifadesi yer almaktadır, bu bilgi doğrudur."
+            "text": "Düğümü çözenin Asya'ya hükmedeceğine dair bir kehanet bulunmaktadır.",
+            "explanation": "Ders notunda 'Bu kördüğümü çözen Asya'ya hükmedecek' kehaneti geçtiği belirtilmiştir. Bu bilgi doğrudur."
           },
           {
             "id": "E",
-            "text": "Efsane, çözülemeyen bir soruna radikal bir çözüm bulma deyimini ortaya çıkarmıştır.",
-            "explanation": "Ders notunda 'çözülemez görünen bir sorunu alışılmışın dışında, radikal bir hamleyle çözmek' anlamında deyimleştiği belirtilmiştir, bu bilgi doğrudur."
+            "text": "Büyük İskender düğümü kılıcıyla keserek kehaneti gerçekleştirmiştir.",
+            "explanation": "Ders notunda Büyük İskender'in düğümü kılıcıyla kestiği ve ardından Anadolu'yu ele geçirdiği belirtilmektedir. Bu bilgi doğrudur."
           }
         ],
         "correct": "A",
-        "trick": "Öğrenci, Frig başkentinin adını karıştırabilir veya Ankyra'nın günümüz Ankara'sı olması nedeniyle doğru kabul edebilir."
+        "trick": "Gordios ve Midas arasındaki baba-oğul ilişkisinin yönünü ters çevirerek yanlış bilgi verilmiştir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-004-t3",
-        "stem": "Aşağıdaki Frig kralları ve onlarla ilişkilendirilen efsanevi olayların doğru eşleştirilmesi hangi seçenekte verilmiştir?",
+        "stem": "Frigya'nın başkenti Gordion'da gerçekleşen efsanevi olayları kronolojik olarak doğru sıralayan seçenek aşağıdakilerden hangisidir?",
         "choices": [
           {
             "id": "A",
-            "text": "I- Gordios: Altın dokunuşu efsanesi\nII- Midas: Gordion Düğümü efsanesi",
-            "explanation": "Altın dokunuşu Midas ile, Gordion Düğümü ise Gordios ile ilişkilidir. Eşleştirme yanlıştır."
+            "text": "Büyük İskender'in Gordion'a gelmesi → Gordios'un kral seçilmesi → Gordion Düğümü'nün ortaya çıkışı → Düğümün kılıçla kesilmesi.",
+            "explanation": "Bu sıralama yanlıştır. Gordios'un kral seçilmesi ve düğümün ortaya çıkması, Büyük İskender'den çok önce gerçekleşmiştir."
           },
           {
             "id": "B",
-            "text": "I- Midas: Eşek kulakları efsanesi\nII- Gordios: Öküz arabasıyla kral seçilmesi",
-            "explanation": "Midas'ın eşek kulakları efsanesi ve Gordios'un öküz arabasıyla kral seçilmesi ders notunda belirtilmiştir. Bu eşleştirme doğrudur."
+            "text": "Frigler'in kehanet üzerine öküz arabasıyla gelen Gordios'u kral seçmesi → Gordios'un arabasını tanrıya adaması ve çözülemez düğümün oluşması → 'Asya'ya hükmedecek' kehanetinin yayılması → Büyük İskender'in MÖ 333'te düğümü kılıcıyla kesmesi.",
+            "explanation": "Ders notunda verilen bilgilere göre, Gordios'un kral seçilmesi, düğümün oluşması, kehanetin yayılması ve son olarak Büyük İskender'in düğümü kesmesi olayların doğru kronolojik sırasıdır."
           },
           {
             "id": "C",
-            "text": "I- Gordios: Kibele kültünün kurucusu\nII- Midas: Friglerin başkentini kuran",
-            "explanation": "Kibele kültü Frig Ana Tanrıçası ile ilişkilidir, Gordios kurucusu değildir. Midas Frig başkentini kuran kişi olarak belirtilmemiştir. Eşleştirme yanlıştır."
+            "text": "Gordios'un öküz arabasıyla şehre girmesi ve kral seçilmesi → Gordion Düğümü'nün oluşması → Büyük İskender'in düğümü kılıçla kesmesi → 'Asya'ya hükmedecek' kehanetinin yayılması.",
+            "explanation": "Bu sıralama yanlıştır. 'Asya'ya hükmedecek' kehaneti, Büyük İskender düğümü kesmeden önce yayılmıştır."
           },
           {
             "id": "D",
-            "text": "I- Midas: Büyük İskender ile düğümü kesen\nII- Gordios: İlk Frig maden işçisi",
-            "explanation": "Düğümü kesen Büyük İskender'dir, Midas değildir. Gordios'un maden işçisi olduğuna dair bir bilgi yoktur. Eşleştirme yanlıştır."
+            "text": "'Asya'ya hükmedecek' kehanetinin yayılması → Büyük İskender'in düğümü kesmesi → Gordios'un kral seçilmesi → Gordion Düğümü'nün oluşması.",
+            "explanation": "Bu sıralama yanlıştır. Gordios'un kral seçilmesi ve düğümün oluşması, kehanet ve Büyük İskender'den önce gerçekleşmiştir."
           },
           {
             "id": "E",
-            "text": "I- Gordios: Truva Savaşı kahramanı\nII- Midas: Asya'nın hakimi ilan edilen",
-            "explanation": "Gordios Truva Savaşı kahramanı değildir. Asya'nın hakimi ilan edilen düğümü kesen Büyük İskender'dir, Midas değildir. Eşleştirme yanlıştır."
+            "text": "Gordion Düğümü'nün oluşması → Büyük İskender'in düğümü kesmesi → Gordios'un kral seçilmesi → 'Asya'ya hükmedecek' kehanetinin yayılması.",
+            "explanation": "Bu sıralama yanlıştır. Gordios'un kral seçilmesi, düğümün oluşmasından önce gelmeli ve kehanet düğüm kesilmeden önce yayılmalıdır."
           }
         ],
         "correct": "B",
-        "trick": "Öğrenci, Gordios ve Midas arasındaki baba-oğul ilişkisi nedeniyle efsaneleri karıştırabilir veya kimin hangi olayın kahramanı olduğunu yanlış hatırlayabilir."
+        "trick": "Olayların meydana geliş sırasını karıştırarak, mantıksal akışı bozacak şekilde yanlış sıralamalar verilmiştir."
       }
     ]
   },
   {
     "id": "aile-arkeoloji-mitoloji-005",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "Türkiye'nin UNESCO Dünya Mirası Listesi'nde hem doğal hem de kültürel miras kategorisinde yer alan tek varlığı Pamukkale-Hierapolis'tir.",
-    "ozet": "MKS'de Türkiye'nin UNESCO Dünya Mirası Listesi'ndeki varlıkları ve bunların hangi kategoriye girdiğini bilmek önemlidir. Özellikle **Pamukkale-Hierapolis** karma miras statüsüyle öne çıkar. Pamukkale'nin travertenleri doğal güzelliği, Hierapolis antik kenti ise kültürel mirası temsil eder. Ayrıca, **Troya**, **Efes** ve **Göbeklitepe** gibi önemli kültürel miras alanları da listelerde yer alır, ancak bunlar sadece kültürel kategoriye dahildir. Bu farklılıkları ve her bir alanın öne çıkan özelliklerini bilmek, sınavda doğru cevapları bulmanızı sağlayacaktır.",
+    "cekirdek": "Türkiye'nin UNESCO Karma Miras Listesi'ndeki tek varlığını bilmek.",
+    "ozet": "Türkiye'nin zengin kültürel ve doğal mirası, UNESCO Dünya Miras Listesi'nde de kendine yer bulur. Bu listede, bir varlığın hem **doğal güzellikleri** hem de **insanlık tarihi açısından önemi** nedeniyle tescil edildiği özel bir kategori bulunur: **Karma Miras**. Türkiye'den yalnızca bir yer bu ayrıcalıklı statüye sahiptir. Bu bilgi, özellikle antik kentlerin ve doğal oluşumların bir arada bulunduğu bölgeler düşünüldüğünde, sınavda sıklıkla karıştırılan bir noktadır. Hangi antik kentlerin ve doğal alanların bu listelerde yer aldığını ve özellikle karma miras statüsünü kimin taşıdığını bilmek, sınavda doğru cevaba ulaşmanızı sağlayacaktır.",
     "kaynak": {
       "examId": "cikmis-2025-agustos",
       "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
@@ -317,110 +595,110 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-005-t1",
-        "stem": "Aşağıdaki UNESCO Dünya Miras alanlarından hangisi, doğal ve kültürel miras kategorilerini bir arada barındıran 'karma miras' statüsüne sahiptir?",
+        "stem": "Türkiye'deki UNESCO Dünya Miras Alanları arasında, hem doğal güzellikleri hem de kültürel mirası bir arada barındıran ve bu nedenle 'Karma Miras' statüsünde tescil edilen tek yerleşim yeri aşağıdakilerden hangisidir?",
         "choices": [
           {
             "id": "A",
             "text": "Göbeklitepe",
-            "explanation": "Göbeklitepe, sadece kültürel miras kategorisinde yer almaktadır."
+            "explanation": "Göbeklitepe, UNESCO Dünya Miras Listesi'nde kültürel miras olarak yer almaktadır, doğal miras özelliği bulunmamaktadır."
           },
           {
             "id": "B",
-            "text": "Troya Antik Kenti",
-            "explanation": "Troya Antik Kenti, sadece kültürel miras kategorisinde yer almaktadır."
+            "text": "Efes Antik Kenti",
+            "explanation": "Efes Antik Kenti, UNESCO Dünya Miras Listesi'nde kültürel miras olarak yer almaktadır, doğal miras özelliği bulunmamaktadır."
           },
           {
             "id": "C",
-            "text": "Pamukkale – Hierapolis",
-            "explanation": "Ders notunda belirtildiği üzere, Pamukkale'nin travertenleri doğal, Hierapolis antik kenti ise kültürel miras olarak UNESCO Karma Miras Listesi'nde yer alan tek varlıktır."
+            "text": "Pamukkale-Hierapolis",
+            "explanation": "Ders notunda belirtildiği üzere, Pamukkale-Hierapolis, UNESCO Dünya Miras Listesi'nde hem 'Doğal' (Pamukkale travertenleri) hem de 'Kültürel' (Hierapolis antik kenti) miras kategorisinde yer alan Türkiye'deki tek varlıktır."
           },
           {
             "id": "D",
-            "text": "Efes Antik Kenti",
-            "explanation": "Efes Antik Kenti, sadece kültürel miras kategorisinde yer almaktadır."
+            "text": "Troya Antik Kenti",
+            "explanation": "Troya Antik Kenti, UNESCO Dünya Miras Listesi'nde kültürel miras olarak yer almaktadır, doğal miras özelliği bulunmamaktadır."
           },
           {
             "id": "E",
-            "text": "Divriği Ulu Camii ve Darüşşifası",
-            "explanation": "Divriği Ulu Camii ve Darüşşifası, sadece kültürel miras kategorisinde yer almaktadır."
+            "text": "Nemrut Dağı",
+            "explanation": "Nemrut Dağı, UNESCO Dünya Miras Listesi'nde kültürel miras olarak yer almaktadır, doğal miras özelliği bulunmamaktadır."
           }
         ],
         "correct": "C",
-        "trick": "Diğer seçenekler de UNESCO listesinde yer alan önemli alanlardır ancak karma miras statüsünde değildirler."
+        "trick": "Diğer şıklar da önemli UNESCO miras alanları olsa da, 'karma miras' statüsüne sahip tek yer Pamukkale-Hierapolis'tir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-005-t2",
-        "stem": "Aşağıdakilerden hangisi, UNESCO Dünya Mirası Listesi'ndeki Türkiye varlıkları arasında 'doğal ve kültürel miras' statüsüne sahip olan alanın özelliklerinden biri DEĞİLDİR?",
+        "stem": "Aşağıdakilerden hangisi, UNESCO Dünya Miras Listesi'nde Türkiye'den yer alan 'Karma Miras' statüsündeki alanın özelliklerinden biri DEĞİLDİR?",
         "choices": [
           {
             "id": "A",
-            "text": "Traverten terasları doğal miras unsuru olarak kabul edilir.",
-            "explanation": "Pamukkale'nin travertenleri, karma miras statüsünün doğal bileşenini oluşturur, bu doğru bir ifadedir."
+            "text": "Doğal oluşumları arasında traverten terasları bulunur.",
+            "explanation": "Pamukkale'nin travertenleri, bu alanın doğal miras özelliğini oluşturur ve ders notunda açıkça belirtilmiştir."
           },
           {
             "id": "B",
-            "text": "Antik kenti, Plutonium (Cehennem Kapısı) ile tanınır.",
-            "explanation": "Hierapolis antik kenti, Plutonium (Cehennem Kapısı) ile bilinir, bu da kültürel mirasın bir parçasıdır."
+            "text": "Antik kentinde Plutonium (Cehennem Kapısı) yer alır.",
+            "explanation": "Ders notunda, Hierapolis antik kentinin Plutonium (Cehennem Kapısı) ile tanındığı belirtilmiştir."
           },
           {
             "id": "C",
-            "text": "Türkiye'de hem doğal hem de kültürel miras kategorisinde yer alan tek varlıktır.",
-            "explanation": "Ders notunda açıkça belirtildiği gibi, bu alan Türkiye'de bu statüye sahip tek yerdir."
+            "text": "Hem doğal hem de kültürel kriterleri karşılaması nedeniyle bu statüyü almıştır.",
+            "explanation": "Ders notunda, Pamukkale'nin travertenlerinin doğal, Hierapolis antik kentinin ise kültürel mirası temsil ettiği ve bu nedenle 'Karma' statüsünde olduğu açıkça belirtilmiştir."
           },
           {
             "id": "D",
-            "text": "Antik dönemde bir şifa merkezi olan Asklepion'a ev sahipliği yapar.",
-            "explanation": "Hierapolis'te Asklepion bulunmamaktadır. Asklepion, Bergama'da yer alan bir şifa merkezidir. Ders notunda Sagalassos ve Myra'da Asklepion olmadığı belirtilmiş olup, Hierapolis de bu listede yer almaz."
+            "text": "Sagalassos Antik Kenti'ne ev sahipliği yapar.",
+            "explanation": "Sagalassos Antik Kenti, Burdur'da yer alır ve Pamukkale-Hierapolis Karma Miras Alanı'nın bir parçası değildir. Bu bilgi ders notunda bulunmamaktadır ve yanlıştır."
           },
           {
             "id": "E",
-            "text": "Antik kent kalıntıları kültürel miras unsuru olarak kabul edilir.",
-            "explanation": "Hierapolis antik kenti kalıntıları, karma miras statüsünün kültürel bileşenini oluşturur, bu doğru bir ifadedir."
+            "text": "Denizli ili sınırları içinde yer alır.",
+            "explanation": "Pamukkale ve Hierapolis antik kenti Denizli ilinde yer almaktadır, bu coğrafi bilgi doğrudur."
           }
         ],
         "correct": "D",
-        "trick": "Asklepion'ların Türkiye'deki dağılımı ve Hierapolis ile ilişkisi karıştırılabilir; ders notunda Asklepion'a sahip merkezler ve olmayanlar açıkça belirtilmiştir."
+        "trick": "Diğer şıklarda verilen bilgiler doğru olmasına rağmen, Sagalassos'un bu alana dahil olmadığına dikkat edilmelidir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-005-t3",
-        "stem": "UNESCO Dünya Miras Listesi'ndeki Türkiye varlıklarının statüleri aşağıdaki eşleştirmelerden hangisi doğru şekilde verilmiştir?",
+        "stem": "Aşağıdaki UNESCO Dünya Miras Alanları ve özellikleri eşleştirmelerinden hangisi YANLIŞTIR?",
         "choices": [
           {
             "id": "A",
-            "text": "I-a, II-b, III-c",
-            "explanation": "Doğru eşleştirme I-c, II-a, III-b olmalıdır. Pamukkale-Hierapolis karma mirastır, Troya ve Göbeklitepe kültürel mirastır."
+            "text": "Troya: Homeros'un İlyada Destanı'nda anlatılan savaşın geçtiği antik kent.",
+            "explanation": "Ders notunda Troya Savaşı'nın Homeros'un İlyada'sında geçtiği ve yerinin Çanakkale, Troya olduğu belirtilmiştir. Bu eşleştirme doğrudur."
           },
           {
             "id": "B",
-            "text": "I-b, II-a, III-c",
-            "explanation": "Doğru eşleştirme I-c, II-a, III-b olmalıdır. Pamukkale-Hierapolis karma mirastır, Troya ve Göbeklitepe kültürel mirastır."
+            "text": "Göbeklitepe: Dünyanın bilinen en eski megalitik yapılarına sahip kült alanı.",
+            "explanation": "Göbeklitepe, dünyanın bilinen en eski tapınak komplekslerinden biri olarak kültürel miras listesindedir. Bu eşleştirme doğrudur."
           },
           {
             "id": "C",
-            "text": "I-a, II-c, III-b",
-            "explanation": "Doğru eşleştirme I-c, II-a, III-b olmalıdır. Pamukkale-Hierapolis karma mirastır, Troya ve Göbeklitepe kültürel mirastır."
+            "text": "Efes: Çok memeli Efes Artemis'i kültünün merkezi olan antik kent.",
+            "explanation": "Ders notunda Efes Artemis'inin çok memeli bir bereket tanrıçası olduğu ve Anadolu'nun Kibele/Ana Tanrıça geleneğiyle kaynaştığı belirtilmiştir. Bu eşleştirme doğrudur."
           },
           {
             "id": "D",
-            "text": "I-b, II-c, III-a",
-            "explanation": "Doğru eşleştirme I-c, II-a, III-b olmalıdır. Pamukkale-Hierapolis karma mirastır, Troya ve Göbeklitepe kültürel mirastır."
+            "text": "Nemrut Dağı: Kommagene Kralı I. Antiokhos'un anıt mezar ve tapınak kompleksi.",
+            "explanation": "Nemrut Dağı, Kommagene Kralı I. Antiokhos'un devasa heykelleri ve anıt mezarıyla bilinir. Bu eşleştirme doğrudur."
           },
           {
             "id": "E",
-            "text": "I-c, II-a, III-b",
-            "explanation": "Pamukkale-Hierapolis (I) karma miras (c), Troya Antik Kenti (II) kültürel miras (a) ve Göbeklitepe (III) kültürel miras (b) olarak doğru eşleştirilmiştir."
+            "text": "Pamukkale-Hierapolis: Türkiye'deki tek 'Doğal' miras kategorisindeki UNESCO alanı.",
+            "explanation": "Ders notunda Pamukkale-Hierapolis'in Türkiye'deki tek 'Karma' miras kategorisindeki UNESCO alanı olduğu açıkça belirtilmiştir. Sadece 'Doğal' miras kategorisinde değildir, aynı zamanda kültürel miras da içerir. Bu eşleştirme yanlıştır."
           }
         ],
         "correct": "E",
-        "trick": "UNESCO miras statüleri arasındaki farklar ve hangi alanın hangi kategoriye girdiğini karıştırmak kolaydır. 'Karma' statüsünün tek bir yere ait olduğu bilgisi kilit öneme sahiptir."
+        "trick": "Pamukkale-Hierapolis'in 'karma miras' değil, yalnızca 'doğal miras' olarak tanımlanması, çeldirici bir yanılgıdır."
       }
     ]
   },
   {
     "id": "aile-arkeoloji-mitoloji-006",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "Mitolojik anlatıların ve arkeolojik terimlerin Anadolu'daki coğrafi ve kültürel karşılıklarını bilmek, özellikle önemli şahsiyetler, olaylar ve eserlerle ilişkilendirmek.",
-    "ozet": "MKS'de arkeolojik terimler ve mitolojik anlatıların Anadolu'daki izleri sıkça sorulur. Özellikle **Höyük**, **Tümülüs**, **Nekropol** gibi temel arkeolojik terimlerin tanımlarını ve örneklerini bilmek önemlidir. Mitolojide ise **Troya Savaşı**, **Gordion Düğümü**, **Khimaira** gibi efsanelerin geçtiği antik kentler ile tanrıların **attribut**ları (simgeleri) kritik bilgilerdir. Örneğin, **Asklepios'un tek yılanlı asası** ile **Hermes'in çift yılanlı kaduseus'u** arasındaki farkı bilmek, birçok soruyu doğru yanıtlamanızı sağlar. Ayrıca, **Efes Artemis'i** ile Yunan Artemis'i arasındaki kültürel ayrım da anahtar bir bilgidir. Bu bilgileri haritalandırarak ve simgelerle eşleştirerek sınavda başarılı olabilirsiniz.",
+    "cekirdek": "Bu soru, Anadolu'daki antik dönem mezar yapıları ve özellikle Lidya Uygarlığı'nın tümülüs geleneği hakkındaki bilgiyi ölçmektedir.",
+    "ozet": "Antik dönem Anadolu'sunda farklı uygarlıklar kendilerine özgü mezar yapıları bırakmıştır. Bunlardan biri olan **tümülüs**, mezarın üzerine yığılan toprak tepedir. Özellikle **Frig** ve **Lidya** uygarlıkları tümülüs geleneğiyle bilinir. Lidya'nın başkenti **Sardes** yakınlarındaki 'Bintepeler' mevkii, Lidya krallarına ve soylularına ait çok sayıda tümülüsü barındırır. Bu alandaki en büyük tümülüsün Lidya Kralı **Alyattes**'e ait olduğu düşünülmektedir. Bu bilgileri bilmek, ilgili soruları çözmek için yeterlidir.",
     "kaynak": {
       "examId": "cikmis-2025-agustos",
       "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
@@ -456,110 +734,110 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-006-t1",
-        "stem": "Aşağıdaki antik kent ve ilgili mitolojik anlatı eşleştirmelerinden hangisi yanlıştır?",
+        "stem": "Antik dönem Anadolu uygarlıklarından hangileri özellikle tümülüs geleneğiyle bilinir?",
         "choices": [
           {
             "id": "A",
-            "text": "Olympos-Çıralı: Niobe'nin ağlayan kayaya dönüşmesi",
-            "explanation": "Niobe'nin ağlayan kayaya dönüşmesi efsanesi Manisa'daki Spil Dağı (Ağlayan Kaya) ile ilişkilidir. Olympos-Çıralı ise Khimaira efsanesinin geçtiği yerdir. Bu eşleştirme yanlıştır."
+            "text": "Frigler ve Lidyalılar",
+            "explanation": "Ders notunda açıkça belirtildiği üzere, Frig ve Lidya uygarlıkları tümülüs geleneğiyle bilinen başlıca uygarlıklardır."
           },
           {
             "id": "B",
-            "text": "Troya: Helen'in kaçırılması ve Truva Atı",
-            "explanation": "Troya Savaşı, Helen'in kaçırılması ve Truva Atı hilesiyle son bulan on yıllık kuşatma Homeros'un İlyada'sında anlatılır ve Troya antik kentinde geçmiştir. Bu eşleştirme doğrudur."
+            "text": "Hititler ve Urartular",
+            "explanation": "Hititler ve Urartular daha çok kaya mezarları ve anıtsal mezar yapılarıyla bilinirler, tümülüs geleneğiyle değil."
           },
           {
             "id": "C",
-            "text": "Gordion: Midas'ın altın dokunuşu ve eşek kulakları",
-            "explanation": "Midas'ın altın dokunuşu ve eşek kulakları efsaneleri, Frigya'nın başkenti Gordion ile ilişkilidir. Bu eşleştirme doğrudur."
+            "text": "Yunanlar ve Romalılar",
+            "explanation": "Yunanlar ve Romalılar farklı mezar tiplerine (oda mezarları, lahitler vb.) sahiptir; tümülüs geleneğiyle ön plana çıkmazlar."
           },
           {
             "id": "D",
-            "text": "Letoon: Apollon ve Artemis'in doğumu",
-            "explanation": "Apollon ve Artemis'in annesi Leto'nun kutsal alanı olan Letoon, onların doğumuyla ilişkilendirilir. Bu eşleştirme doğrudur."
+            "text": "Sümerler ve Akadlar",
+            "explanation": "Sümerler ve Akadlar Mezopotamya uygarlıklarıdır ve Anadolu'daki tümülüs geleneğiyle ilişkili değillerdir."
           },
           {
             "id": "E",
-            "text": "Hierapolis: Hades'e giriş (Plutonium)",
-            "explanation": "Hierapolis antik kenti, Hades'e giriş kapısı olarak bilinen Plutonium ile tanınır. Bu eşleştirme doğrudur."
+            "text": "Persler ve Mısırlılar",
+            "explanation": "Persler ve Mısırlılar anıtsal mezar yapılarıyla (piramitler, kaya mezarları) tanınır; tümülüs geleneğiyle değil."
           }
         ],
         "correct": "A",
-        "trick": "Farklı efsanelerin geçtiği yerleri karıştırarak çeldiricilik sağlanmıştır."
+        "trick": "Farklı uygarlıkların mezar geleneklerini karıştırmak bu soruda yanıltıcı olabilir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-006-t2",
-        "stem": "Aşağıdakilerden hangisi bir tanrı veya tanrıçanın ayırt edici simgelerinden (attribut) değildir?",
+        "stem": "Aşağıdakilerden hangisi Lidya Kralı Alyattes'e ait olduğu düşünülen ve 'Anadolu'daki en büyük tümülüs' olarak bilinen anıt mezarın bulunduğu yerleşim birimine ait değildir?",
         "choices": [
           {
             "id": "A",
-            "text": "Zeus - Yıldırım demeti ve kartal",
-            "explanation": "Zeus, tanrıların kralı olarak yıldırım demeti ve kartal ile simgelenir. Bu, doğru bir attribut eşleştirmesidir."
+            "text": "Sardes",
+            "explanation": "Sardes, Lidya Krallığı'nın başkentidir ve Bintepeler tümülüsleri Sardes yakınlarında yer alır. Dolayısıyla bu yerleşim birimine aittir."
           },
           {
             "id": "B",
-            "text": "Hermes - Tek yılanlı, kanatsız asa (Asklepios asası)",
-            "explanation": "Hermes'in simgesi iki yılanlı ve kanatlı asa olan 'kaduseus'tur. Tek yılanlı ve kanatsız asa ise Asklepios'a aittir. Bu ifade Hermes için yanlış bir attribut'tür."
+            "text": "Gordion",
+            "explanation": "Gordion, Frig Krallığı'nın başkentidir ve Lidya Kralı Alyattes'in tümülüsüyle ilişkili değildir. Bu nedenle doğru cevaptır."
           },
           {
             "id": "C",
-            "text": "Athena - Miğfer, kalkan ve baykuş",
-            "explanation": "Athena, akıl ve strateji tanrıçası olarak miğfer, kalkan ve baykuş ile tasvir edilir. Bu, doğru bir attribut eşleştirmesidir."
+            "text": "Bintepeler",
+            "explanation": "Bintepeler, Lidya Kralı Alyattes'in tümülüsünün de içinde bulunduğu geniş bir tümülüs mezar alanıdır. Dolayısıyla bu yerleşim birimine aittir."
           },
           {
             "id": "D",
-            "text": "Artemis - Yay-sadak, geyik ve hilal",
-            "explanation": "Artemis, av ve ay tanrıçası olarak yay-sadak, geyik ve hilal ile ilişkilendirilir. Bu, doğru bir attribut eşleştirmesidir."
+            "text": "UNESCO Dünya Mirası Geçici Listesi",
+            "explanation": "Bintepeler tümülüslerinin UNESCO Dünya Mirası Geçici Listesi'nde yer aldığı ders notunda belirtilmiştir. Dolayısıyla bu yerleşim birimine aittir."
           },
           {
             "id": "E",
-            "text": "Dionysos - Asma, üzüm salkımı ve thyrsos",
-            "explanation": "Dionysos, şarap ve coşku tanrısı olarak asma, üzüm salkımı ve thyrsos (kozalaklı değnek) ile simgelenir. Bu, doğru bir attribut eşleştirmesidir."
+            "text": "Lidya Krallığı",
+            "explanation": "Alyattes, Lidya Kralıdır ve tümülüsü Lidya Krallığı'na aittir. Dolayısıyla bu yerleşim birimine aittir."
           }
         ],
         "correct": "B",
-        "trick": "Hermes ve Asklepios'un asaları arasındaki farkı karıştırma eğilimi, bu sorunun en büyük tuzağıdır."
+        "trick": "Sorunun olumsuz ('ait değildir') ifadesi ve farklı uygarlıkların başkentlerinin çeldirici olarak kullanılması yanıltıcı olabilir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-006-t3",
-        "stem": "Aşağıdaki arkeolojik terimlerden hangisinin tanımı yanlış verilmiştir?",
+        "stem": "Aşağıdaki antik mezar alanları ve ilgili uygarlık/tanımı eşleştirmelerinden hangisi doğrudur?",
         "choices": [
           {
             "id": "A",
-            "text": "Höyük: Aynı yerde üst üste kurulan yerleşimlerin oluşturduğu yapay tepe.",
-            "explanation": "Höyük, eski yerleşim katmanlarının üst üste birikmesiyle oluşan yapay tepeyi ifade eder. Bu tanım doğrudur."
+            "text": "Höyük - Mezarın üzerine yığılan toprak tepe",
+            "explanation": "Höyük, aynı yerde üst üste kurulan yerleşimlerin oluşturduğu yapay tepeyi ifade eder, mezar tepeciğini değil. Mezar tepeciği tümülüstür."
           },
           {
             "id": "B",
-            "text": "Tümülüs: Mezarın üzerine yığılan toprak tepe, özellikle Frig ve Lidya uygarlıklarında yaygındır.",
-            "explanation": "Tümülüs, mezarın üzerine toprak yığılarak oluşturulan anıt mezar tepesidir ve özellikle Frig ve Lidya uygarlıklarında görülür. Bu tanım doğrudur."
+            "text": "Tümülüs - Antik kentlerde en yüksek noktada yer alan iç kale",
+            "explanation": "Antik kentlerde en yüksek noktada yer alan iç kale 'sitadel'dir. Tümülüs mezarın üzerine yığılan toprak tepedir."
           },
           {
             "id": "C",
-            "text": "Nekropol: Antik kentlerde genellikle en yüksek noktada yer alan, surlarla çevrili iç kale veya akropol.",
-            "explanation": "Nekropol, antik mezarlık alanıdır. Tanımda verilen 'en yüksek noktada yer alan, surlarla çevrili iç kale' tanımı sitadel veya akropolise aittir. Bu tanım yanlıştır."
+            "text": "Nekropol - Antik mezarlık alanı",
+            "explanation": "Nekropol, ders notunda belirtildiği gibi antik mezarlık alanını ifade eder. Bu eşleştirme doğrudur."
           },
           {
             "id": "D",
-            "text": "Sitadel: Antik kentlerde genellikle en yüksek noktada yer alan, surlarla çevrili iç kale veya akropol.",
-            "explanation": "Sitadel, antik kentlerde en yüksekte yer alan, surlarla çevrili iç kale veya akropolis kısmıdır. Bu tanım doğrudur."
+            "text": "Sitadel - Üzerinde yazıt veya kabartma bulunan dikili taş",
+            "explanation": "Üzerinde yazıt veya kabartma bulunan dikili taş 'stel'dir. Sitadel iç kaledir."
           },
           {
             "id": "E",
-            "text": "Stel: Üzerinde yazıt veya kabartma bulunan, anıt veya mezar taşı olarak kullanılan dikili taş.",
-            "explanation": "Stel, üzerinde yazıt veya kabartma bulunan, anıt ya da mezar taşı olarak kullanılan dikili taştır. Bu tanım doğrudur."
+            "text": "Stel - Ziyarete açık antik kalıntı alanı",
+            "explanation": "Ziyarete açık antik kalıntı alanı 'ören yeri'dir. Stel dikili taştır."
           }
         ],
         "correct": "C",
-        "trick": "Nekropol ve sitadel gibi benzer terimlerin tanımlarını karıştırma eğilimi, bu soruda tuzak oluşturur."
+        "trick": "Benzer terimlerin tanımlarının karıştırılması bu soruyu zorlaştırabilir."
       }
     ]
   },
   {
     "id": "aile-arkeoloji-mitoloji-007",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "İslamiyet öncesi Arap Yarımadası'ndaki Cahiliye Dönemi'nde toplumsal yapıyı ayakta tutan temel unsuru bilmek.",
-    "ozet": "Cahiliye Dönemi, İslamiyet öncesi Arap Yarımadası'nı ifade eder ve bu dönemde toplumsal düzenin temelini oluşturan güçlü bir yapı vardı. Bu yapı, **kabile asabiyeti ve dayanışması** olarak adlandırılırdı. Kabile üyeleri arasındaki soy bağına dayalı bu sıkı aidiyet ve dayanışma duygusu, dönemin siyasi ve sosyal hayatını şekillendirirdi. Bu dönemde merkezi bir devlet otoritesi, yazılı hukuk kuralları veya tek tanrı inancı yaygın değildi; aksine, putperestlik ve kabile çıkarları ön plandaydı. Bu temel bilgiyi anlayarak, Cahiliye Dönemi'nin sosyal dinamiklerine dair soruları kolayca çözebilirsiniz.",
+    "cekirdek": "İslamiyet öncesi Arap Yarımadası'nda toplumsal düzeni sağlayan temel ilke kabile asabiyetidir.",
+    "ozet": "İslamiyet öncesi Arap Yarımadası'nda, 'Cahiliye Dönemi' olarak adlandırılan süreçte, toplumsal yapıyı ve düzeni ayakta tutan en güçlü unsur **kabile asabiyeti ve dayanışması**ydı. Bu dönemde merkezi bir devlet otoritesi, yazılı hukuk kuralları veya tek tanrı inancı gibi unsurlar yaygın değildi. Toplum, soy bağına dayalı **kabile**ler etrafında örgütlenmişti ve bireylerin güvenliği, ekonomik refahı ve sosyal statüsü ait oldukları kabilenin gücüne ve **asabiyet**ine bağlıydı. Kabile üyeleri arasındaki bu sıkı dayanışma ve aidiyet duygusu, dönemin sosyal, siyasi ve ekonomik ilişkilerini şekillendiren temel dinamikti.",
     "kaynak": {
       "examId": "cikmis-2025-agustos",
       "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
@@ -595,110 +873,110 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-007-t1",
-        "stem": "Cahiliye Dönemi'nde toplumsal ilişkilerin ve düzenin temelini oluşturan ana unsur aşağıdakilerden hangisidir?",
+        "stem": "İslamiyet öncesi Arap Yarımadası'ndaki Cahiliye Dönemi'nde, toplumsal düzenin temelini oluşturan ve bireylerin aidiyetini belirleyen en önemli yapısal özellik aşağıdakilerden hangisidir?",
         "choices": [
           {
             "id": "A",
-            "text": "Ticari anlaşmalar ve sözleşmeler",
-            "explanation": "Dönemde ticaret önemli olsa da, toplumsal düzenin temelini ticari anlaşmalar değil, kabile bağları oluşturuyordu."
+            "text": "Şehir devletleri arasındaki ittifaklar",
+            "explanation": "Cahiliye Dönemi'nde şehir devletleri arasında ittifaklar olsa da, toplumsal düzenin temelini ve bireylerin aidiyetini belirleyen ana unsur kabile yapısıydı."
           },
           {
             "id": "B",
-            "text": "Bölgesel krallıkların merkezi yönetimi",
-            "explanation": "Cahiliye Dönemi'nde Arap Yarımadası'nda yaygın bir merkezi devlet otoritesi bulunmamaktaydı; kabileler özerk bir yapıdaydı."
+            "text": "Ticaret kolonileri tarafından kurulan ortak yönetimler",
+            "explanation": "Ticaret önemliydi ancak ortak yönetimler kurarak toplumsal düzeni sağlayan bir yapı bulunmamaktaydı; esas düzen kabileler üzerinden işliyordu."
           },
           {
             "id": "C",
-            "text": "Tek tanrılı dinlerin yaygın etkisi",
-            "explanation": "Bu dönemde putperestlik yaygın olup, tek tanrılı dinlerin etkisi sınırlıydı ve toplumsal düzenin ana belirleyicisi değildi."
+            "text": "Dini liderlerin oluşturduğu teokratik yönetimler",
+            "explanation": "Cahiliye Dönemi'nde putperestlik yaygındı ve dini liderlerin teokratik bir yönetim oluşturduğu bir yapıdan ziyade, kabile reislerinin önderliğindeki yönetimler mevcuttu."
           },
           {
             "id": "D",
-            "text": "Kabile asabiyeti ve dayanışması",
-            "explanation": "Ders notunda belirtildiği gibi, Cahiliye Dönemi'nde toplumsal yapıyı ve düzeni ayakta tutan en güçlü unsur 'kabile asabiyeti ve dayanışması'dır."
+            "text": "Kabileler arası sıkı soy bağına dayalı asabiyet",
+            "explanation": "Ders notunda belirtildiği gibi, Cahiliye Dönemi'nde toplumsal yapıyı ve düzeni ayakta tutan en güçlü unsur kabile asabiyeti ve dayanışmasıdır. Bu, bireylerin aidiyetini ve toplumsal konumunu belirler."
           },
           {
             "id": "E",
-            "text": "Yazılı kanunlar ve hukuk kuralları",
-            "explanation": "Yazılı hukuk kuralları yerine, örf ve adetler ile kabile büyüklerinin kararları etkiliydi."
+            "text": "Yazılı anayasalarla belirlenmiş merkezi bir hukuk sistemi",
+            "explanation": "Cahiliye Dönemi'nde yazılı hukuk kuralları veya merkezi bir devlet otoritesi mevcut değildi. Hukuk, genellikle örf ve adetlere ve kabile geleneklerine dayanıyordu."
           }
         ],
         "correct": "D",
-        "trick": "Cahiliye Dönemi'nin ekonomik veya dini özelliklerinin toplumsal yapıdaki rolüyle karıştırılabilir."
+        "trick": "Öğrencinin, kabile asabiyetini sadece bir dayanışma olarak görüp, toplumsal düzenin temeli olarak algılamaması yanıltıcı olabilir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-007-t2",
-        "stem": "Aşağıdakilerden hangisi, İslamiyet öncesi Arap Yarımadası'ndaki Cahiliye Dönemi'nin toplumsal yapısını karakterize eden unsurlardan biri DEĞİLDİR?",
+        "stem": "İslamiyet öncesi Arap Yarımadası'ndaki 'Cahiliye Dönemi'ne ilişkin aşağıdaki ifadelerden hangisi YANLIŞTIR?",
         "choices": [
           {
             "id": "A",
-            "text": "Kabileler arası sıkı soy bağına dayalı ilişkiler",
-            "explanation": "Kabileler arası soy bağına dayalı ilişkiler, kabile asabiyetinin temelini oluşturuyordu ve dönemi karakterize eder."
+            "text": "Toplumsal yapıda kabile asabiyeti önemli bir yer tutmuştur.",
+            "explanation": "Ders notunda açıkça belirtildiği gibi, kabile asabiyeti ve dayanışması Cahiliye Dönemi'nde toplumsal yapıyı ve düzeni ayakta tutan en güçlü unsurdur. Bu ifade doğrudur."
           },
           {
             "id": "B",
-            "text": "Asabiyetin toplumsal düzeni şekillendirmesi",
-            "explanation": "Ders notunda açıkça belirtildiği üzere, asabiyet, dönemin toplumsal yapısını ayakta tutan en güçlü unsurdur."
+            "text": "Bu dönemde yaygın olan inanç biçimi genellikle putperestliktir.",
+            "explanation": "Ders notunda 'Cahiliye Dönemi, İslam öncesi dönemi ifade eder ve bu dönemde putperestlik yaygındı' bilgisi yer almaktadır. Bu ifade doğrudur."
           },
           {
             "id": "C",
-            "text": "Kabileler arasında aidiyet duygusunun yüksek olması",
-            "explanation": "Aidiyet duygusu, kabile asabiyetinin bir parçasıdır ve dönemi karakterize eder."
+            "text": "Kabile üyeleri arasındaki soy bağına dayalı sıkı dayanışma, asabiyet olarak tanımlanır.",
+            "explanation": "Ders notunda 'Asabiyet, kabile üyeleri arasındaki soy bağına dayalı sıkı dayanışma ve aidiyet duygusudur.' şeklinde bir tanım verilmiştir. Bu ifade doğrudur."
           },
           {
             "id": "D",
-            "text": "Putperestliğin yaygın bir inanç olması",
-            "explanation": "Ders notunda 'Cahiliye Dönemi, İslam öncesi dönemi ifade eder ve bu dönemde putperestlik yaygındı' bilgisi yer almaktadır."
+            "text": "İslam'ın gelişiyle birlikte ümmetçilik anlayışı, kabile asabiyetinin yerini almıştır.",
+            "explanation": "Ders notunda 'Kabile asabiyeti, İslam'ın gelişiyle birlikte ümmetçilik anlayışıyla yerini daha geniş bir toplumsal yapıya bırakmıştır.' bilgisi yer almaktadır. Bu ifade doğrudur."
           },
           {
             "id": "E",
-            "text": "Merkezi bir devlet otoritesinin güçlü varlığı",
-            "explanation": "Ders notunda 'Cahiliye Dönemi'nde toplumsal yapıyı ve düzeni ayakta tutan en güçlü unsur kabile asabiyeti ve dayanışmasıdır' ifadesi, merkezi devlet otoritesinin zayıf veya yok denecek kadar az olduğunu ima eder. Bu dönemde güçlü bir merkezi devlet otoritesi bulunmamaktaydı."
+            "text": "Merkezi bir devlet otoritesi ve yazılı hukuk kuralları bu dönemin belirgin özelliklerindendir.",
+            "explanation": "Ders notunda 'Cahiliye Dönemi'nde toplumsal yapıyı ve düzeni ayakta tutan en güçlü unsur kabile asabiyeti ve dayanışmasıdır.' ifadesi, merkezi devlet otoritesi ve yazılı hukuk kurallarının yaygın olmadığını ima eder. Bu ifade, Cahiliye Dönemi'nin belirgin özelliklerinden biri DEĞİLDİR, dolayısıyla yanlıştır."
           }
         ],
         "correct": "E",
-        "trick": "Çeldiriciler, dönemin diğer gerçek özellikleriyle karıştırılarak yanlış seçim yapılmasına neden olabilir."
+        "trick": "Çeldirici, öğrencinin Cahiliye Dönemi'nin olumsuz özelliklerini doğru olanlarla karıştırarak yanlış cevabı seçmesini sağlamaktır. Özellikle 'belirgin özelliklerindendir' ifadesi dikkat gerektirir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-007-t3",
-        "stem": "Aşağıdaki ifadeleri Cahiliye Dönemi Arap Yarımadası'nın toplumsal yapısıyla ilgili doğru (D) veya yanlış (Y) olarak eşleştiriniz:\nI. Toplumsal düzeni kabile asabiyeti sağlamıştır.\nII. Merkezi bir devletin güçlü yönetimi mevcuttu.\nIII. Putperestlik yaygın bir inanç biçimiydi.\nIV. Yazılı ve evrensel hukuk kuralları geçerliydi.",
+        "stem": "Aşağıdaki eşleştirmelerden hangisi, İslamiyet öncesi Arap Yarımadası'ndaki toplumsal yapıya ilişkin doğru bir bilgi içermektedir?",
         "choices": [
           {
             "id": "A",
-            "text": "I(D), II(Y), III(D), IV(Y)",
-            "explanation": "Ders notuna göre, I. ifade (kabile asabiyeti) doğrudur. II. ifade (merkezi devlet) yanlıştır. III. ifade (putperestlik) doğrudur. IV. ifade (yazılı ve evrensel hukuk) yanlıştır. Bu eşleştirme doğrudur."
+            "text": "Cahiliye Dönemi – Putperestliğin yaygın olduğu bir inanç yapısı",
+            "explanation": "Ders notunda belirtildiği gibi, Cahiliye Dönemi'nde putperestlik yaygındı. Bu eşleştirme doğrudur."
           },
           {
             "id": "B",
-            "text": "I(D), II(D), III(Y), IV(Y)",
-            "explanation": "II. ve III. maddelerdeki yanlış eşleştirme nedeniyle bu şık yanlıştır."
+            "text": "Cahiliye Dönemi – Merkezi devlet otoritesi",
+            "explanation": "Cahiliye Dönemi'nde merkezi bir devlet otoritesi değil, kabilelerin özerk yapıları hakimdi. Bu eşleştirme yanlıştır."
           },
           {
             "id": "C",
-            "text": "I(Y), II(D), III(D), IV(Y)",
-            "explanation": "I. ve II. maddelerdeki yanlış eşleştirme nedeniyle bu şık yanlıştır."
+            "text": "Asabiyet – Geniş coğrafyaya yayılmış yazılı hukuk kuralları",
+            "explanation": "Asabiyet, kabile dayanışmasını ifade ederken, Cahiliye Dönemi'nde geniş coğrafyaya yayılmış yazılı hukuk kuralları bulunmamaktaydı. Bu eşleştirme yanlıştır."
           },
           {
             "id": "D",
-            "text": "I(D), II(Y), III(Y), IV(D)",
-            "explanation": "III. ve IV. maddelerdeki yanlış eşleştirme nedeniyle bu şık yanlıştır."
+            "text": "Kabile dayanışması – İslamiyet sonrası ümmetçilik anlayışı",
+            "explanation": "Kabile dayanışması (asabiyet) İslamiyet öncesine ait bir kavramken, ümmetçilik anlayışı İslam'ın gelişiyle ortaya çıkmıştır. Bu eşleştirme dönem açısından yanlıştır; kabile dayanışması yerini ümmetçiliğe bırakmıştır, eş anlamlı değillerdir."
           },
           {
             "id": "E",
-            "text": "I(Y), II(Y), III(D), IV(D)",
-            "explanation": "I. ve IV. maddelerdeki yanlış eşleştirme nedeniyle bu şık yanlıştır."
+            "text": "Toplumsal düzen – Tek tanrı inancının belirleyiciliği",
+            "explanation": "Cahiliye Dönemi'nde tek tanrı inancı değil, putperestlik yaygındı. Bu eşleştirme yanlıştır."
           }
         ],
         "correct": "A",
-        "trick": "Birden fazla ifadenin doğru-yanlış eşleştirilmesi gerektiği için dikkat dağınıklığına yol açabilir."
+        "trick": "Çeldirici, öğrencinin Cahiliye Dönemi'nin genel özelliklerini ve terimlerin tanımlarını karıştırmasıdır. Özellikle dönem ve kavram eşleştirmelerine dikkat edilmelidir."
       }
     ]
   },
   {
     "id": "aile-arkeoloji-mitoloji-008",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "Asur Ticaret Kolonileri Çağı'nda Anadolu'nun en önemli ticaret merkezi olan 'karum' şehri bilgisini ölçer.",
-    "ozet": "Antik Anadolu'da ticari faaliyetler ve yerleşimler, medeniyetlerin gelişiminde kilit rol oynamıştır. Özellikle **Asur Ticaret Kolonileri Çağı**, Anadolu'da uluslararası ticaret ağlarının kurulduğu ve önemli ticaret merkezlerinin ortaya çıktığı bir dönemdir. Bu dönemin en bilinen ve merkezi konuma sahip şehri, aynı zamanda 'karum' adı verilen ticaret kolonilerine ev sahipliği yapan **Kültepe**'dir. Kültepe, zengin yazılı belgeleriyle (tabletler) dönemin ticari, sosyal ve kültürel yapısı hakkında eşsiz bilgiler sunar. Bu bilgiyi bilmek, bu dönemle ilgili tüm soruları çözmenizi sağlayacaktır.",
+    "cekirdek": "Bu soru, Asur Ticaret Kolonileri Çağı'nda Anadolu'nun en önemli ticaret merkezi olan 'karum'ların merkezini tanıma bilgisini ölçmektedir.",
+    "ozet": "Antik çağlarda Anadolu, farklı uygarlıklara ev sahipliği yapmış ve çeşitli ticaret merkezlerine sahip olmuştur. Özellikle **Asur Ticaret Kolonileri Çağı**, Anadolu'da uluslararası ticaret ağlarının geliştiği bir dönemi işaret eder. Bu dönemde kurulan **karum** adı verilen ticaret kolonileri, Anadolu ile Mezopotamya arasında yoğun bir mal ve fikir alışverişi sağlamıştır. Bu karumların en büyüğü ve merkezi, Anadolu'nun kalbinde yer alan **Kültepe**'dir. Kültepe aynı zamanda yazılı belgeleriyle de dönemin ticari ve sosyal yaşamına ışık tutar. Bu bilgiyi bilmek, dönemin ekonomik yapısını ve önemli yerleşimlerini anlamak için anahtardır.",
     "kaynak": {
       "examId": "cikmis-2025-subat",
       "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
@@ -734,110 +1012,110 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-008-t1",
-        "stem": "Asur Ticaret Kolonileri Çağı'nda Anadolu'daki ticari faaliyetlerin merkezi konumunda bulunan ve 'karum' adı verilen ticaret yerleşimlerinin en önemlisi aşağıdakilerden hangisidir?",
+        "stem": "Asur Ticaret Kolonileri Çağı'nda, Anadolu'da uluslararası ticaretin merkezi ve 'karum' olarak bilinen yerleşimin adı nedir?",
         "choices": [
           {
             "id": "A",
             "text": "Hattuşa",
-            "explanation": "Hattuşa, Hitit İmparatorluğu'nun başkentiydi ve Asur Ticaret Kolonileri Çağı'ndan sonraki dönemlerde önem kazanmıştır. Ticari bir karum merkezi değildi."
+            "explanation": "Hattuşa, Hitit İmparatorluğu'nun başkentidir ve Asur Ticaret Kolonileri Çağı'nda bir karum merkezi değildir."
           },
           {
             "id": "B",
             "text": "Kültepe",
-            "explanation": "Ders notunda açıkça belirtildiği üzere, Asur Ticaret Kolonileri Çağı'nda Anadolu'nun en önemli ticaret merkezi ve 'karum'ların merkezi Kültepe'dir. Bu bilgi, sorunun doğru cevabını oluşturur."
+            "explanation": "Ders notunda açıkça belirtildiği üzere, Asur Ticaret Kolonileri Çağı'nda Anadolu'nun en önemli ticaret merkezi ve 'karum'ların merkezi Kültepe'dir."
           },
           {
             "id": "C",
             "text": "Troya",
-            "explanation": "Troya, Çanakkale'de bulunan ve daha çok Bronz Çağı savaşları ile bilinen bir yerleşimdir. Asur Ticaret Kolonileri Çağı'nda bir karum merkezi olarak öne çıkmamıştır."
+            "explanation": "Troya, Çanakkale'de yer alan ve daha çok Troya Savaşı efsanesiyle bilinen bir antik kenttir, Asur Ticaret Kolonileri Çağı'nda karum merkezi değildir."
           },
           {
             "id": "D",
             "text": "Efes",
-            "explanation": "Efes, daha çok Helenistik ve Roma dönemlerinde büyük bir ticaret ve kültür merkezi haline gelmiştir. Asur Ticaret Kolonileri Çağı için merkezi bir karum değildir."
+            "explanation": "Efes, Roma döneminde önemli bir liman kenti ve ticaret merkezi olsa da, Asur Ticaret Kolonileri Çağı'nda karum merkezi olarak bilinmez."
           },
           {
             "id": "E",
             "text": "Gordion",
-            "explanation": "Gordion, Frig Krallığı'nın başkentiydi ve Asur Ticaret Kolonileri Çağı'ndan sonraki dönemlerde önem kazanmıştır. Bir karum merkezi olarak bilinmemektedir."
+            "explanation": "Gordion, Friglerin başkentidir ve Asur Ticaret Kolonileri Çağı'nda karum merkezi değildir."
           }
         ],
         "correct": "B",
-        "trick": "Diğer önemli antik kentleri çeldirici olarak sunarak öğrencinin dönemsel ve işlevsel farklılıkları gözden kaçırması hedeflenmiştir."
+        "trick": "Öğrencinin farklı antik kentlerin farklı dönemlerdeki rollerini karıştırması amaçlanmıştır."
       },
       {
         "id": "aile-arkeoloji-mitoloji-008-t2",
-        "stem": "Aşağıdakilerden hangisi Asur Ticaret Kolonileri Çağı'nda Anadolu'da gelişen ticari yapılanmayla ilgili DEĞİLDİR?",
+        "stem": "Aşağıdakilerden hangisi Asur Ticaret Kolonileri Çağı ile ilgili verilen bilgilerden YANLIŞTIR?",
         "choices": [
           {
             "id": "A",
-            "text": "Uluslararası ticaret ağlarının gelişmesi",
-            "explanation": "Ders notu, bu dönemde Anadolu'da uluslararası ticaret ağlarının geliştiğini belirtir. Dolayısıyla bu ifade doğrudur."
+            "text": "Bu dönemde Anadolu'da uluslararası ticaret ağları gelişmiştir.",
+            "explanation": "Ders notunda 'Bu dönemde Anadolu'da uluslararası ticaret ağları gelişmiştir' ifadesi yer almaktadır, bu bilgi doğrudur."
           },
           {
             "id": "B",
-            "text": "Karum adı verilen ticaret merkezlerinin kurulması",
-            "explanation": "Ders notu, 'karum'ların bu dönemin önemli ticaret merkezleri olduğunu açıkça belirtir. Bu ifade doğrudur."
+            "text": "'Karum' adı verilen ticaret kolonileri bu dönemin tipik yapılarındandır.",
+            "explanation": "Ders notunda 'karum'ların bu dönemin önemli bir parçası olduğu belirtilmiştir, bu bilgi doğrudur."
           },
           {
             "id": "C",
-            "text": "Frigler tarafından icat edilen fibulanın yaygınlaşması",
-            "explanation": "Fibula, ders notunda Frigler tarafından icat edildiği belirtilmiştir. Frigler ise Asur Ticaret Kolonileri Çağı'ndan sonraki bir dönemde Anadolu'da öne çıkmıştır. Dolayısıyla bu ifade Asur Ticaret Kolonileri Çağı ile ilgili değildir."
+            "text": "Bu dönemde Frigler Anadolu'da baskın güçtü.",
+            "explanation": "Ders notunda Asur Ticaret Kolonileri Çağı'nda Friglerin baskın güç olduğuna dair bir bilgi bulunmamaktadır. Frigler daha sonraki bir dönemin önemli uygarlığıdır. Bu ifade yanlıştır."
           },
           {
             "id": "D",
-            "text": "Kültepe'nin en önemli merkezi olması",
-            "explanation": "Ders notu, Kültepe'nin bu çağın en önemli ticaret merkezi olduğunu vurgular. Bu ifade doğrudur."
+            "text": "Kültepe, bu çağın Anadolu'daki en önemli ticaret merkezidir.",
+            "explanation": "Ders notunda 'Anadolu'nun en önemli ticaret merkezi ve 'karum'ların merkezi Kültepe'dir' ifadesi yer almaktadır, bu bilgi doğrudur."
           },
           {
             "id": "E",
-            "text": "Anadolu'da ticari yazılı belgelerin ortaya çıkması",
-            "explanation": "Kültepe'de bulunan Asur tabletleri, bu dönemin ticari yazılı belgelerinin en önemli örnekleridir. Bu ifade doğrudur."
+            "text": "Bu çağda Anadolu ile Mezopotamya arasında yoğun bir ticari ilişki vardı.",
+            "explanation": "Ders notunda olmasa da, Asur Ticaret Kolonileri Çağı'nın temel özelliği Asur (Mezopotamya) ile Anadolu arasındaki ticari ilişkilerdir, bu bilgi genel olarak doğrudur ve diğer şıklarla kıyaslandığında yanlış değildir."
           }
         ],
         "correct": "C",
-        "trick": "Ders notunda geçen ancak farklı bir medeniyetle (Frigler) ilişkilendirilen bir bilgiyi çeldirici olarak kullanarak dönemsel karışıklık yaratılmıştır."
+        "trick": "Farklı uygarlıkların ve dönemlerin kronolojisini karıştırma tuzağı kurulmuştur."
       },
       {
         "id": "aile-arkeoloji-mitoloji-008-t3",
-        "stem": "Aşağıdaki ifadelerden hangisi, Asur Ticaret Kolonileri Çağı'nda Anadolu'daki ticari ve kültürel etkileşimi en doğru şekilde yansıtmaktadır?",
+        "stem": "Aşağıdaki arkeologlardan hangisi Asur Ticaret Kolonileri Çağı'nın önemli merkezi Kültepe'deki kazıları yürüten önemli bilim insanlarından biridir?",
         "choices": [
           {
             "id": "A",
-            "text": "Hititlerin başkenti Hattuşa'nın, Asurlu tüccarların ana uğrak noktası olması",
-            "explanation": "Hattuşa, Hitit İmparatorluğu'nun başkentiydi ancak Asur Ticaret Kolonileri Çağı'nın ana ticaret merkezi Kültepe'ydi. Bu ifade dönemsel ve merkeziyet açısından doğru değildir."
+            "text": "Heinrich Schliemann",
+            "explanation": "Heinrich Schliemann, Troya kazılarıyla bilinir, Kültepe ile ilişkili değildir."
           },
           {
             "id": "B",
-            "text": "Friglerin fibula ticaretiyle Asur tüccarları üzerinde büyük bir etki kurması",
-            "explanation": "Fibula Friglerle ilişkilidir ancak Frigler Asur Ticaret Kolonileri Çağı'ndan sonraki bir dönemde öne çıkmıştır. Dolayısıyla bu ifade dönemsel olarak yanlıştır."
+            "text": "Klaus Schmidt",
+            "explanation": "Klaus Schmidt, Göbeklitepe kazılarıyla tanınır, Kültepe ile ilişkili değildir."
           },
           {
             "id": "C",
-            "text": "Lidya krallarının Bintepeler'deki tümülüsleri aracılığıyla Asurlularla ticari anlaşmalar yapması",
-            "explanation": "Lidyalılar ve Bintepeler, Asur Ticaret Kolonileri Çağı'ndan sonraki dönemlere aittir. Bu ifade dönemsel olarak yanlıştır."
+            "text": "James Mellaart",
+            "explanation": "James Mellaart, Çatalhöyük kazılarıyla bilinir, Kültepe ile ilişkili değildir."
           },
           {
             "id": "D",
-            "text": "Kültepe'nin, Asurlu tüccarların 'karum' adını verdikleri ticaret merkezlerinin en büyüğü olarak uluslararası ticaretin kalbi konumunda bulunması",
-            "explanation": "Ders notunda belirtildiği gibi, Kültepe, Asur Ticaret Kolonileri Çağı'nda Anadolu'nun en önemli ticaret merkezi ve 'karum'ların merkeziydi. Bu ifade, dönemin ticari yapısını ve Kültepe'nin rolünü en doğru şekilde özetler."
+            "text": "Tahsin Özgüç",
+            "explanation": "Ders notunda 'Tahsin Özgüç (Kültepe kazılarını yürüten önemli arkeologlardandır)' ifadesi açıkça yer almaktadır. Bu bilgi doğrudur."
           },
           {
             "id": "E",
-            "text": "Troya'nın, Asur ticaret yollarının Akdeniz'e açılan en önemli limanı olarak işlev görmesi",
-            "explanation": "Troya'nın bu dönemde Asur ticaret yollarının ana limanı olduğuna dair bir bilgi ders notunda bulunmamaktadır; Troya'nın önemi farklı bir bağlamdadır."
+            "text": "Osman Hamdi Bey",
+            "explanation": "Osman Hamdi Bey, Türk bilimsel arkeolojisinin kurucusu ve Sayda kazılarıyla bilinir, Kültepe ile ilişkili değildir."
           }
         ],
         "correct": "D",
-        "trick": "Farklı antik kentler ve medeniyetler hakkında ders notunda verilen bilgileri karıştırarak, öğrenciden Asur Ticaret Kolonileri Çağı'nın merkezi bilgisini ayırt etmesi beklenmiştir."
+        "trick": "Farklı arkeologların kazı yaptığı yerleri birbirine karıştırma tuzağı kurulmuştur."
       }
     ]
   },
   {
     "id": "aile-arkeoloji-mitoloji-009",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "Frigler tarafından icat edilen ve günümüzdeki çengelli iğnenin atası sayılan takı elemanının adını bilmek.",
-    "ozet": "Antik uygarlıklar, kendilerine özgü kültürel ögelerle öne çıkmıştır. Örneğin, **Frigler** madencilik ve ahşap işçiliğinde ustalıklarıyla bilinirler. Günümüzdeki çengelli iğnenin atası sayılan, giysileri tutturmak için kullanılan bir takı elemanını icat etmişlerdir. Bu eleman, onların günlük yaşamında ve sanatsal ifadelerinde önemli bir yer tutar. Ayrıca, Frigya'nın başkenti **Gordion**'da geçen ve Büyük İskender ile özdeşleşen **Gordion Düğümü** efsanesi de Frig uygarlığının kültürel mirasının bir parçasıdır. Bu kilit bilgileri bilerek Frigler ile ilgili soruları rahatlıkla çözebilirsiniz.",
+    "cekirdek": "Frigler tarafından icat edilen çengelli iğne benzeri takı elemanının adını bilmek.",
+    "ozet": "Antik uygarlıklar, günlük yaşamlarında kullandıkları eşyalarla ve kendilerine özgü gelenekleriyle öne çıkmıştır. Özellikle **Frigler**, madencilik ve ahşap işçiliğindeki ustalıklarıyla tanınan bir uygarlıktır. Günümüzdeki çengelli iğnenin atası sayılan bir takı elemanını icat etmeleri, onların bu alandaki yetkinliğini gösterir. Bu tür detaylar, antik çağlardaki yaşam biçimlerini ve teknolojik gelişmeleri anlamak açısından önemlidir. Sınavlarda bu tarz spesifik bilgiler, genellikle belirli bir uygarlığın ayırt edici özelliklerini sorgulamak amacıyla kullanılır.",
     "kaynak": {
       "examId": "cikmis-2025-subat",
       "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
@@ -873,110 +1151,110 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-009-t1",
-        "stem": "Aşağıdakilerden hangisi Frig uygarlığıyla özdeşleşen bir kavram veya buluntu DEĞİLDİR?",
+        "stem": "Antik Frig uygarlığının madencilik ve ahşap işçiliğindeki ustalığını gösteren, günümüzdeki çengelli iğnenin atası kabul edilen takı elemanı aşağıdakilerden hangisidir?",
         "choices": [
           {
             "id": "A",
-            "text": "Fibula",
-            "explanation": "Fibula, Frigler tarafından icat edilen ve onlarla özdeşleşen bir takı elemanıdır, bu nedenle doğru seçenekte yer almaz."
+            "text": "Tümülüs",
+            "explanation": "Tümülüs, mezar üzerine yığılan toprak tepe olup bir takı elemanı değildir."
           },
           {
             "id": "B",
-            "text": "Gordion Düğümü",
-            "explanation": "Gordion Düğümü, Frig başkenti Gordion'da geçen ve Frig kralı Gordios ile ilişkili bir efsanedir, bu nedenle doğru seçenekte yer almaz."
+            "text": "Stel",
+            "explanation": "Stel, anıt veya mezar taşı olarak kullanılan dikili bir taş olup bir takı elemanı değildir."
           },
           {
             "id": "C",
-            "text": "Kibele Kültü",
-            "explanation": "Kibele, Frig Ana Tanrıçasıdır ve Frig uygarlığıyla doğrudan ilişkilidir, bu nedenle doğru seçenekte yer almaz."
+            "text": "Amphora",
+            "explanation": "Amphora, iki kulplu, sivri dipli bir taşıma kabı olup bir takı elemanı değildir."
           },
           {
             "id": "D",
-            "text": "Midas'ın altın dokunuşu",
-            "explanation": "Midas, Frig kralıdır ve 'altın dokunuşu' efsanesi Frig uygarlığıyla ilişkilidir, bu nedenle doğru seçenekte yer almaz."
+            "text": "Ostrakon",
+            "explanation": "Ostrakon, üzerine yazı yazılan çömlek parçası olup bir takı elemanı değildir."
           },
           {
             "id": "E",
-            "text": "Bintepeler Tümülüsleri",
-            "explanation": "Bintepeler Tümülüsleri, Lidya Krallığı'nın başkenti Sardes yakınlarında bulunan ve Lidya uygarlığına ait mezar alanlarıdır. Frig uygarlığı ile doğrudan bir ilişkisi yoktur, dolayısıyla doğru cevaptır."
+            "text": "Fibula",
+            "explanation": "Fibula, Frigler tarafından icat edilen ve günümüzdeki çengelli iğnenin atası sayılan takı elemanıdır."
           }
         ],
         "correct": "E",
-        "trick": "Frig ve Lidya uygarlıklarının benzerlikleri ve coğrafi yakınlıkları nedeniyle tümülüslerle ilgili bilgilerin karıştırılması amaçlanmıştır."
+        "trick": "Şıklarda verilen arkeolojik terimlerin anlamlarını karıştırmak, doğru cevabı bulmayı zorlaştırabilir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-009-t2",
-        "stem": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+        "stem": "Aşağıdakilerden hangisi Frig uygarlığının karakteristik özelliklerinden biri DEĞİLDİR?",
         "choices": [
           {
             "id": "A",
-            "text": "Büyük İskender, Gordion düğümünü çözemeyerek oradan ayrılmıştır.",
-            "explanation": "Ders notunda 'Büyük İskender MÖ 333'te düğümü kılıcıyla kesmiştir' bilgisi yer almaktadır. Dolayısıyla 'çözemeyerek oradan ayrılmıştır' ifadesi yanlıştır."
+            "text": "Kültepe'nin en önemli ticaret merkezi olması",
+            "explanation": "Kültepe, Asur Ticaret Kolonileri Çağı'nda Anadolu'nun en önemli ticaret merkeziydi ve Friglerle değil, bu çağla ilişkilidir. Bu nedenle Frig uygarlığının karakteristik bir özelliği değildir."
           },
           {
             "id": "B",
-            "text": "Frigler, madencilik ve ahşap işçiliğinde usta bir uygarlıktı.",
-            "explanation": "Ders notunda 'Frigler madencilik ve ahşap işçiliğinde usta bir uygarlıktı' bilgisi yer almaktadır, bu ifade doğrudur."
+            "text": "Madencilik ve ahşap işçiliğinde ustalık",
+            "explanation": "Frigler madencilik ve ahşap işçiliğinde usta bir uygarlıktı, bu doğru bir özelliktir."
           },
           {
             "id": "C",
-            "text": "Fibula, günümüzdeki çengelli iğnenin atası sayılan bir takı elemanıdır.",
-            "explanation": "Ders notunda 'Frigler tarafından icat edilen ve günümüzdeki çengelli iğnenin atası sayılan takı elemanı fibula'dır' bilgisi yer almaktadır, bu ifade doğrudur."
+            "text": "Fibula adı verilen takı elemanının icadı",
+            "explanation": "Fibula, Frigler tarafından icat edilmiş ve onlarla özdeşleşmiş bir takı elemanıdır, bu doğru bir özelliktir."
           },
           {
             "id": "D",
-            "text": "Gordion Düğümü efsanesi, Frig kralı Gordios ile ilişkilidir.",
-            "explanation": "Ders notunda 'Düğüm efsanesi Frig kralı Gordios ile ilişkilidir' bilgisi yer almaktadır, bu ifade doğrudur."
+            "text": "Gordion'un başkentleri olması",
+            "explanation": "Gordion, Frig Krallığı'nın başkentiydi, bu doğru bir özelliktir."
           },
           {
             "id": "E",
-            "text": "Frig Ana Tanrıçası Kibele olarak bilinir.",
-            "explanation": "Ders notunda 'Kibele (Kybele) — Frig Ana Tanrıçası' bilgisi yer almaktadır, bu ifade doğrudur."
+            "text": "Kibele'nin Ana Tanrıça olarak benimsenmesi",
+            "explanation": "Kibele, Frig Ana Tanrıçasıdır ve Frig uygarlığıyla ilişkilidir, bu doğru bir özelliktir."
           }
         ],
         "correct": "A",
-        "trick": "Büyük İskender'in Gordion Düğümü'nü çözme şekli (kılıçla kesmesi) ile ilgili detay bilginin karıştırılması amaçlanmıştır."
+        "trick": "Diğer uygarlıkların veya dönemlerin özelliklerini Frig özellikleriyle karıştırmak, 'değildir' sorusunda yanıltıcı olabilir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-009-t3",
-        "stem": "Aşağıdaki eşleştirmelerden hangisi doğru DEĞİLDİR?",
+        "stem": "Aşağıdaki antik terimlerden hangisi, ait olduğu uygarlık veya dönem ile doğru bir şekilde eşleştirilmiştir?",
         "choices": [
           {
             "id": "A",
-            "text": "Fibula – Frigler",
-            "explanation": "Fibula, Frigler tarafından icat edilmiştir; bu eşleştirme doğrudur."
+            "text": "Höyük - Urartu Krallığı'nın baş tanrısı",
+            "explanation": "Höyük, üst üste kurulan yerleşimlerin oluşturduğu yapay tepe olup, Urartu Krallığı'nın baş tanrısı Haldi'dir. Eşleştirme yanlıştır."
           },
           {
             "id": "B",
-            "text": "Kibele – Urartu Ana Tanrıçası",
-            "explanation": "Kibele, Frig Ana Tanrıçasıdır. Urartu'nun baş tanrısı Haldi'dir. Bu eşleştirme yanlıştır."
+            "text": "Fibula - Frig uygarlığına özgü takı elemanı",
+            "explanation": "Fibula, Frigler tarafından icat edilen ve günümüzdeki çengelli iğnenin atası sayılan takı elemanıdır. Eşleştirme doğrudur."
           },
           {
             "id": "C",
-            "text": "Gordion Düğümü – Büyük İskender",
-            "explanation": "Büyük İskender, Gordion Düğümü'nü kesen kişidir; bu eşleştirme doğrudur."
+            "text": "Terra Sigillata - Frigler tarafından icat edilen çengelli iğne",
+            "explanation": "Terra Sigillata, Roma dönemi kırmızı astarlı kaliteli seramik olup, Frigler tarafından icat edilen çengelli iğne fibuladır. Eşleştirme yanlıştır."
           },
           {
             "id": "D",
-            "text": "Midas – Frig Kralı",
-            "explanation": "Midas, Frig kralıdır; bu eşleştirme doğrudur."
+            "text": "Kültepe - Friglerin başkenti",
+            "explanation": "Kültepe, Asur Ticaret Kolonileri Çağı'nın önemli ticaret merkezidir. Friglerin başkenti Gordion'dur. Eşleştirme yanlıştır."
           },
           {
             "id": "E",
-            "text": "Gordion – Frig başkenti",
-            "explanation": "Gordion, Frig Krallığı'nın başkentidir; bu eşleştirme doğrudur."
+            "text": "Tümülüs - Roma dönemi kırmızı astarlı seramik",
+            "explanation": "Tümülüs, mezarın üzerine yığılan toprak tepe olup, Roma dönemi kırmızı astarlı seramik Terra Sigillata'dır. Eşleştirme yanlıştır."
           }
         ],
         "correct": "B",
-        "trick": "Farklı uygarlıkların baş tanrı veya tanrıçalarının karıştırılması amaçlanmıştır, özellikle Kibele'nin Frig kimliği yerine başka bir uygarlıkla ilişkilendirilmesi."
+        "trick": "Terimlerin ve uygarlıkların doğru eşleştirmesini bilmemek, bu tür sorularda hataya yol açabilir."
       }
     ]
   },
   {
     "id": "aile-arkeoloji-mitoloji-010",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "Antik kentler ve onlarla ilişkilendirilen mitolojik olaylar veya önemli arkeolojik bulgular arasındaki bağlantıları tanımak.",
-    "ozet": "MKS'de antik kentler, mitolojik anlatılar ve önemli arkeolojik keşifler sıklıkla birbiriyle ilişkilendirilerek sorulur. Özellikle **Troya Savaşı** ve **Gordion Düğümü** gibi efsanelerin geçtiği yerler ile **Priamos'un Hazinesi** gibi ikonik buluntuların hangi antik kentle anıldığı temel bilgilerdendir. Mitolojik kahramanlar, tanrılar ve onlarla bağlantılı mekanlar (örneğin **Leto'nun doğumu**, **Khimaira efsanesi**) da sıkça eşleştirme konusu olur. Bir olayın veya eserin geçtiği/bulunduğu antik kenti bilmek, bu tip soruları doğru yanıtlamanın anahtarıdır.",
+    "cekirdek": "Antik kentlerdeki mitolojik anlatılar ve önemli arkeolojik buluntularla ilgili temel bilgileri ölçer.",
+    "ozet": "Antik dünyada geçen **mitolojik olaylar** ve bu olayların geçtiği **antik kentler** MKS'nin en sevdiği konulardandır. Özellikle **Truva Savaşı** ve **Priamos'un Hazinesi** gibi bilinen efsanelerle, bu efsanelerin geçtiği **Troya (Çanakkale)** gibi yerleşimleri iyi bilmek gerekir. Ayrıca, dünyaca ünlü arkeologların hangi önemli keşiflerle anıldığı da sıkça sorulur. Örneğin, **Heinrich Schliemann**'ın adının geçtiği yerleşim yeri ve buluntusu, bu tür soruların temelini oluşturur. Bu bilgileri bilirseniz, ilgili tüm soruları kolayca çözersiniz.",
     "kaynak": {
       "examId": "cikmis-2025-subat",
       "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
@@ -1012,110 +1290,110 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-010-t1",
-        "stem": "Aşağıdakilerden hangisi, mitolojik anlatılarla ilişkilendirilen antik kentlerden biri DEĞİLDİR?",
+        "stem": "Antik Dönem Anadolu'da geçen mitolojik anlatılar ve önemli merkezler düşünüldüğünde, aşağıdaki eşleştirmelerden hangisi YANLIŞTIR?",
         "choices": [
           {
             "id": "A",
-            "text": "Troya",
-            "explanation": "Troya kenti, Helen'in kaçırılması ve Truva Atı efsanesiyle bilinen Troya Savaşı'na ev sahipliği yapmıştır."
+            "text": "Midas'ın altın dokunuşu – Gordion",
+            "explanation": "Midas'ın altın dokunuşu ve eşek kulakları efsaneleri, Friglerin başkenti Gordion ile ilişkilidir. Bu eşleştirme doğrudur."
           },
           {
             "id": "B",
-            "text": "Gordion",
-            "explanation": "Gordion, Büyük İskender'in Gordion Düğümü'nü kılıcıyla kestiği ve Frig Kralı Gordios ile Kral Midas'ın yaşadığı kenttir."
+            "text": "Niobe'nin ağlayan kayaya dönüşmesi – Manisa (Spil Dağı)",
+            "explanation": "Niobe efsanesi ve Ağlayan Kaya anlatısı Manisa'daki Spil Dağı ile özdeşleşmiştir. Bu eşleştirme doğrudur."
           },
           {
             "id": "C",
-            "text": "Hattuşa",
-            "explanation": "Hattuşa, Hitit İmparatorluğu'nun başkentidir ve önemli arkeolojik buluntulara ev sahipliği yapmıştır, ancak verilen ders notunda doğrudan belirli bir mitolojik anlatı ile ilişkilendirilmemiştir. Daha çok Hitit mitolojisinin (Teşup, Telipinu, İlluyanka miti) genel kaynağı olarak geçer, spesifik bir efsanenin geçtiği kent olarak değil."
+            "text": "Marsyas'ın Apollon'la müzik yarışması – Efes",
+            "explanation": "Marsyas'ın Apollon ile yaptığı müzik yarışması ve derisinin yüzülmesi efsanesi, Dinar (Apameia) veya Kelainai antik kentleriyle ilişkilidir, Efes ile değil. Efes, Artemis tapınağı ve Meryem Ana Evi gibi başka önemli mitolojik ve dini anlatılarla anılır. Bu eşleştirme yanlıştır."
           },
           {
             "id": "D",
-            "text": "Olympos (Çıralı)",
-            "explanation": "Olympos (Çıralı), ağzından ateş püskürten Khimaira yaratığı efsanesiyle ilişkilendirilen antik bir yerleşimdir."
+            "text": "Khimaira'nın Bellerophon tarafından öldürülmesi – Olympos-Çıralı",
+            "explanation": "Ağzından ateş püskürten Khimaira canavarının Bellerophon tarafından Pegasus üzerinde öldürülmesi efsanesi, Antalya yakınlarındaki Olympos-Çıralı (Yanartaş) bölgesiyle bağlantılıdır. Bu eşleştirme doğrudur."
           },
           {
             "id": "E",
-            "text": "Letoon",
-            "explanation": "Letoon, Apollon ve Artemis'in doğumu ile çobanların kurbağaya dönüşmesi efsanesinin geçtiği kutsal bir alandır."
+            "text": "Leto, Apollon ve Artemis'in doğumu – Letoon",
+            "explanation": "Leto'nun Apollon ve Artemis'i doğurduğu yer olarak Letoon antik kenti gösterilir. Bu eşleştirme doğrudur."
           }
         ],
         "correct": "C",
-        "trick": "Verilen antik kentlerin hepsinin tarihi ve arkeolojik önemi olduğunu bilmek, ancak soruda spesifik olarak mitolojik anlatı bağlantısı istenmesi çeldiricidir."
+        "trick": "Farklı antik kentlerin mitolojik olaylarını karıştırarak, bilinen bir efsaneyi yanlış bir yerle eşleştirmek tuzak olarak kullanılmıştır."
       },
       {
         "id": "aile-arkeoloji-mitoloji-010-t2",
-        "stem": "Aşağıdaki efsane ve geçtiği antik kent eşleştirmelerinden hangisi doğrudur?",
+        "stem": "Aşağıdaki arkeologlardan hangisi, Göbeklitepe'deki çalışmalarıyla dünya çapında tanınmıştır?",
         "choices": [
           {
             "id": "A",
-            "text": "Midas'ın altın dokunuşu – Efes",
-            "explanation": "Midas'ın altın dokunuşu efsanesi Efes'te değil, Frigya'nın başkenti Gordion'da geçmektedir."
+            "text": "Osman Hamdi Bey",
+            "explanation": "Osman Hamdi Bey, Türk bilimsel arkeolojisinin kurucusu ve Sayda kazılarıyla tanınır, Göbeklitepe ile değil."
           },
           {
             "id": "B",
-            "text": "Khimaira efsanesi – Hierapolis",
-            "explanation": "Khimaira efsanesi Hierapolis'te değil, Olympos (Çıralı) antik kentinde geçmektedir. Hierapolis, Plutonium (Cehennem Kapısı) ile tanınır."
+            "text": "Heinrich Schliemann",
+            "explanation": "Heinrich Schliemann, Troya'daki kazıları ve 'Priamos'un Hazinesi'ni bulmasıyla bilinir, Göbeklitepe ile değil."
           },
           {
             "id": "C",
-            "text": "Marsyas'ın Apollon'la müzik yarışması – Bergama",
-            "explanation": "Marsyas'ın Apollon'la müzik yarışması Bergama'da değil, Dinar (Apameia) veya Kelainai'de geçmektedir."
+            "text": "James Mellaart",
+            "explanation": "James Mellaart, Çatalhöyük'teki kazılarıyla tanınır, Göbeklitepe ile değil."
           },
           {
             "id": "D",
-            "text": "Niobe'nin ağlayan kayaya dönüşmesi – Manisa (Spil Dağı)",
-            "explanation": "Niobe'nin ağlayan kayaya dönüşmesi efsanesi doğru bir şekilde Manisa'daki Spil Dağı ile ilişkilendirilmektedir."
+            "text": "Klaus Schmidt",
+            "explanation": "Klaus Schmidt, Şanlıurfa'daki Göbeklitepe Neolitik Dönem yerleşimindeki çığır açan kazıları ve keşifleriyle dünya çapında tanınmıştır. Bu cevap doğrudur."
           },
           {
             "id": "E",
-            "text": "Yedi Uyurlar – Sardes",
-            "explanation": "Yedi Uyurlar efsanesi Sardes'te değil, Efes, Tarsus veya Afşin gibi yerlerde geçmektedir. Sardes, Lidya Krallığı'nın başkentidir ve Bintepeler tümülüsleriyle bilinir."
+            "text": "Halet Çambel",
+            "explanation": "Halet Çambel, Karatepe-Aslantaş'taki Hitit hiyerogliflerinin çözümüne katkılarıyla bilinir, Göbeklitepe ile değil."
           }
         ],
         "correct": "D",
-        "trick": "Mitolojik olayların geçtiği kentlerin birbirine yakın bölgelerde olması ve benzer isimler taşıması, öğrencileri yanıltabilir."
+        "trick": "Önemli arkeologları ve onların çalıştığı/ünlü olduğu arkeolojik alanları karıştırmak, bu sorudaki tuzaktır."
       },
       {
         "id": "aile-arkeoloji-mitoloji-010-t3",
-        "stem": "Antik dönemde bir kentin savunma ve yönetim merkezi olan, genellikle en yüksek noktada yer alan, surlarla çevrili iç kale veya akropolise ne ad verilir?",
+        "stem": "Antik Yunan ve Roma mitolojisinde tanrıların ayırt edici sembolleri (attribut) göz önüne alındığında, aşağıdaki eşleştirmelerden hangisi yanlıştır?",
         "choices": [
           {
             "id": "A",
-            "text": "Höyük",
-            "explanation": "Höyük, aynı yerde üst üste kurulan yerleşimlerin oluşturduğu yapay tepeye verilen isimdir, savunma merkezi değildir."
+            "text": "Zeus – Yıldırım demeti ve kartal",
+            "explanation": "Zeus, tanrıların kralı olarak yıldırım demeti ve kartal ile özdeşleşmiştir. Bu eşleştirme doğrudur."
           },
           {
             "id": "B",
-            "text": "Tümülüs",
-            "explanation": "Tümülüs, mezarın üzerine yığılan toprak tepeye verilen isimdir, savunma merkezi değildir."
+            "text": "Athena – Baykuş ve zeytin dalı",
+            "explanation": "Athena, bilgelik ve strateji tanrıçası olarak baykuş ve zeytin dalı ile ilişkilendirilir. Bu eşleştirme doğrudur."
           },
           {
             "id": "C",
-            "text": "Nekropol",
-            "explanation": "Nekropol, antik mezarlık alanına verilen isimdir, savunma merkezi değildir."
+            "text": "Hermes – İki yılanlı ve kanatlı asa (kaduseus)",
+            "explanation": "Hermes, haberci ve ticaret tanrısı olarak iki yılanlı ve kanatlı asa (kaduseus) taşır. Bu eşleştirme doğrudur."
           },
           {
             "id": "D",
-            "text": "Agora",
-            "explanation": "Agora, Yunan kent meydanına verilen isimdir, savunma merkezi değildir."
+            "text": "Artemis – Yay, sadak ve geyik",
+            "explanation": "Artemis, avcılık ve vahşi doğa tanrıçası olarak yay, sadak ve geyik ile temsil edilir. Bu eşleştirme doğrudur."
           },
           {
             "id": "E",
-            "text": "Sitadel",
-            "explanation": "Sitadel, antik kentlerde genellikle en yüksek noktada yer alan, surlarla çevrili iç kale veya akropolise verilen isimdir ve savunma ile yönetim merkezi işlevi görür."
+            "text": "Asklepios – Üç dişli mızrak (trident)",
+            "explanation": "Asklepios sağlık tanrısıdır ve sembolü yılanlı tek asadır. Üç dişli mızrak (trident) ise deniz tanrısı Poseidon'un sembolüdür. Bu eşleştirme yanlıştır."
           }
         ],
         "correct": "E",
-        "trick": "Terimlerin birbirine yakın anlamlar taşıması veya benzer arkeolojik yapılarla karıştırılması, doğru cevabı bulmayı zorlaştırabilir. Özellikle 'höyük' ve 'sitadel' gibi terimlerin farklı yapıları tanımladığına dikkat etmek gerekir."
+        "trick": "Bir tanrının sembolünü başka bir tanrının sembolüyle karıştırmak, özellikle Asklepios ve Poseidon gibi farklı alanlardaki tanrıların sembollerini birbirine benzetmek bu sorunun tuzağıdır."
       }
     ]
   },
   {
     "id": "aile-arkeoloji-mitoloji-011",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "Antik yazarların eserleri ve onlara atfedilen unvanlar hakkında bilgi sahibi olmak.",
-    "ozet": "Antik dünyada yaşamış önemli yazarlar ve onların eserleri, günümüz tarih ve coğrafya anlayışının temellerini oluşturmuştur. Özellikle **Herodot** 'Tarihin Babası' olarak anılır ve 'Historia' adlı eseriyle bilinir. Amasyalı **Strabon** ise 17 ciltlik 'Geographika' eseriyle coğrafya alanında çığır açmıştır. Bu yazarların kimliklerini ve ana eserlerini bilmek, hem antik dünyanın kültürel mirasını anlamak hem de MKS'deki ilgili soruları doğru yanıtlamak için kritik öneme sahiptir.",
+    "cekirdek": "Antik yazarların eserleri ve kendilerine atfedilen unvanlar.",
+    "ozet": "Antik dünyanın önemli yazarları ve onların eserleri, dönemin kültürü ve tarihi hakkında bize değerli bilgiler sunar. Özellikle **Herodot** 'Tarihin Babası' olarak bilinir ve 'Historia' adlı eseriyle tanınır. **Strabon** ise 'Geographika' adlı 17 ciltlik coğrafya eseriyle öne çıkar. Bu yazarlar sadece olayları kaydetmekle kalmamış, aynı zamanda farklı coğrafyalar ve kültürler hakkında da detaylı bilgiler sunmuşlardır. Sınavlarda bu yazarların kimlikleri, eserleri ve onlara verilen unvanlar sıklıkla karşılaştırmalı olarak sorulabilir. Bu isimleri ve temel eserlerini bilmek, ilgili soruları doğru yanıtlamanız için anahtardır.",
     "kaynak": {
       "examId": "cikmis-2025-subat",
       "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
@@ -1151,110 +1429,110 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-011-t1",
-        "stem": "Antik yazarlardan Herodot ve Strabon ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+        "stem": "Antik yazarlar ve onların eserleri ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
         "choices": [
           {
             "id": "A",
-            "text": "Strabon, 'Historia' adlı eseriyle 'Tarihin Babası' olarak anılır.",
-            "explanation": "Ders notuna göre 'Historia' adlı eser Herodot'a, 'Geographika' ise Strabon'a aittir. Ayrıca 'Tarihin Babası' unvanı Herodot'a verilmiştir. Bu ifade Strabon ve Herodot'un eserlerini ve unvanlarını karıştırmaktadır, dolayısıyla yanlıştır."
+            "text": "Thukydides - Anabasis",
+            "explanation": "Thukydides, Peloponez Savaşları'nın tarihçisidir. 'Anabasis' eseri ise Ksenophon'a aittir. Dolayısıyla bu eşleştirme yanlıştır."
           },
           {
             "id": "B",
-            "text": "Herodot, 'Historia' adlı eseriyle bilinir.",
-            "explanation": "Ders notunda belirtildiği gibi Herodot'un en bilinen eseri 'Historia'dır, bu ifade doğrudur."
+            "text": "Herodot - Historia",
+            "explanation": "Herodot, 'Historia' adlı eseriyle bilinir ve bu eşleştirme doğrudur."
           },
           {
             "id": "C",
-            "text": "Strabon, 'Geographika' adlı 17 ciltlik bir eser kaleme almıştır.",
-            "explanation": "Ders notunda Strabon'un 17 ciltlik 'Geographika' adlı eseriyle tanındığı açıkça belirtilmiştir, bu ifade doğrudur."
+            "text": "Strabon - Geographika",
+            "explanation": "Strabon, 'Geographika' adlı 17 ciltlik coğrafya eseriyle tanınır ve bu eşleştirme doğrudur."
           },
           {
             "id": "D",
-            "text": "Herodot'a Cicero tarafından 'Tarihin Babası' unvanı verilmiştir.",
-            "explanation": "Ders notunda Herodot'un 'Tarihin Babası' olarak nitelendirildiği ve bu unvanın Cicero tarafından verildiği yazmaktadır, bu ifade doğrudur."
+            "text": "Homeros - Odysseia",
+            "explanation": "Homeros, 'Odysseia' ve 'İlyada' adlı destanların yazarıdır ve bu eşleştirme doğrudur."
           },
           {
             "id": "E",
-            "text": "Strabon, Helenistik dönem coğrafyacısı, filozof ve tarihçisidir.",
-            "explanation": "Ders notunda Strabon'un Helenistik dönem coğrafyacısı, filozof ve tarihçisi olduğu belirtilmiştir, bu ifade doğrudur."
+            "text": "Ksenophon - Anabasis",
+            "explanation": "Ksenophon, 'Anabasis' adlı eseriyle tanınır ve bu eşleştirme doğrudur."
           }
         ],
         "correct": "A",
-        "trick": "Öğrencinin Herodot ve Strabon'un eserlerini ve onlara atfedilen unvanları karıştırması amaçlanmıştır."
+        "trick": "Farklı yazarların eser isimlerinin birbirine yakınlığı karıştırıcı olabilir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-011-t2",
-        "stem": "Aşağıdaki antik yazarlar ve eser eşleştirmelerinden hangisi doğrudur?",
+        "stem": "Amasyalı bir coğrafyacı, filozof ve tarihçi olan, 17 ciltlik 'Geographika' adlı eseriyle tanınan antik yazar kimdir?",
         "choices": [
           {
             "id": "A",
-            "text": "Herodot - Geographika",
-            "explanation": "Herodot'un eseri 'Historia'dır, 'Geographika' Strabon'a aittir. Bu eşleştirme yanlıştır."
+            "text": "Herodot",
+            "explanation": "Herodot 'Tarihin Babası' olarak bilinir ve 'Historia' adlı eseriyle tanınır, 'Geographika' ile değil."
           },
           {
             "id": "B",
-            "text": "Strabon - Geographika",
-            "explanation": "Ders notunda Strabon'un 17 ciltlik 'Geographika' eseriyle tanındığı açıkça belirtilmiştir. Bu eşleştirme doğrudur."
+            "text": "Strabon",
+            "explanation": "Ders notunda belirtildiği gibi, Strabon 17 ciltlik 'Geographika' eseriyle tanınan Amasyalı bir coğrafyacıdır. Bu bilgi doğrudur."
           },
           {
             "id": "C",
-            "text": "Strabon - Odysseia",
-            "explanation": "Strabon'un eseri 'Geographika'dır, 'Odysseia' Homeros'a aittir. Bu eşleştirme yanlıştır."
+            "text": "Homeros",
+            "explanation": "Homeros, 'İlyada' ve 'Odysseia' destanlarının yazarıdır, coğrafyacı değildir."
           },
           {
             "id": "D",
-            "text": "Homeros - Historia",
-            "explanation": "Homeros'un eserleri 'İlyada' ve 'Odysseia'dır, 'Historia' Herodot'a aittir. Bu eşleştirme yanlıştır."
+            "text": "Thukydides",
+            "explanation": "Thukydides, Peloponez Savaşları'nın tarihçisidir, 'Geographika' ile ilişkili değildir."
           },
           {
             "id": "E",
-            "text": "Thukydides - İlyada",
-            "explanation": "Ders notunda Thukydides veya 'İlyada'nın yazarı olarak Homeros dışında bir bilgi bulunmamaktadır. Bu eşleştirme ders notuyla doğrulanamaz ve yanlıştır."
+            "text": "Ksenophon",
+            "explanation": "Ksenophon, 'Anabasis' adlı eseriyle tanınır, 'Geographika' ile değil."
           }
         ],
         "correct": "B",
-        "trick": "Öğrencinin farklı antik yazarların eser isimlerini birbirine karıştırması hedeflenmiştir."
+        "trick": "Yazarın doğum yeri ve eserinin hacmi gibi detaylar, ana eserin ismini hatırlamayanlar için çeldirici olabilir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-011-t3",
-        "stem": "Antik Çağ'ın önemli yazarları ve onlara ait özellikler veya eserler aşağıda verilmiştir. Bu eşleştirmelerden hangisi yanlıştır?",
+        "stem": "Aşağıdaki antik yazarları, kendilerine atfedilen önemli özellik veya eserleriyle doğru şekilde eşleştiriniz:\n\nI. Herodot\nII. Strabon\nIII. Homeros\n\na. 'Tarihin Babası' olarak nitelendirilen yazar\nb. 'Geographika' adlı 17 ciltlik eserin yazarı\nc. 'İlyada' ve 'Odysseia' destanlarının yazarı",
         "choices": [
           {
             "id": "A",
-            "text": "Herodot: Olayları sadece anlatmakla kalmayıp, farklı kültürler ve coğrafyalar hakkında da bilgi vermiştir.",
-            "explanation": "Ders notunda Herodot'un bu özelliği vurgulanmıştır, bu eşleştirme doğrudur."
+            "text": "I-b, II-a, III-c",
+            "explanation": "Herodot 'Geographika'nın yazarı değildir, bu eşleştirme yanlıştır."
           },
           {
             "id": "B",
-            "text": "Strabon: Amasyalı olup, 17 ciltlik 'Geographika' eseriyle tanınır.",
-            "explanation": "Ders notunda Strabon'un Amasyalı olduğu ve 'Geographika' eseriyle bilindiği belirtilmiştir, bu eşleştirme doğrudur."
+            "text": "I-c, II-a, III-b",
+            "explanation": "Homeros 'Tarihin Babası' değildir ve Strabon 'İlyada'nın yazarı değildir, bu eşleştirme yanlıştır."
           },
           {
             "id": "C",
-            "text": "Herodot: M.Ö. 64/63 ile M.S. 24 yılları arasında yaşamış Helenistik dönem coğrafyacısıdır.",
-            "explanation": "Ders notunda bu yaşam tarihleri ve tanımlama Strabon için verilmiştir, Herodot için değil. Bu eşleştirme yanlıştır."
+            "text": "I-a, II-b, III-c",
+            "explanation": "Herodot 'Tarihin Babası'dır (I-a), Strabon 'Geographika'nın yazarıdır (II-b) ve Homeros 'İlyada' ve 'Odysseia'nın yazarıdır (III-c). Bu eşleştirme doğrudur."
           },
           {
             "id": "D",
-            "text": "Homeros: 'İlyada' ve 'Odysseia' destanlarının yazarıdır.",
-            "explanation": "Ders notunda Homeros'un 'İlyada' ve 'Odysseia' eserlerinin yazarı olduğu belirtilmiştir, bu eşleştirme doğrudur."
+            "text": "I-a, II-c, III-b",
+            "explanation": "Strabon 'İlyada'nın yazarı değildir, bu eşleştirme yanlıştır."
           },
           {
             "id": "E",
-            "text": "Strabon: Helenistik dönem coğrafyacısı, filozof ve tarihçisidir.",
-            "explanation": "Ders notunda Strabon'un bu unvanlara sahip olduğu belirtilmiştir, bu eşleştirme doğrudur."
+            "text": "I-b, II-c, III-a",
+            "explanation": "Herodot 'Geographika'nın yazarı değildir ve Homeros 'Tarihin Babası' değildir, bu eşleştirme yanlıştır."
           }
         ],
         "correct": "C",
-        "trick": "Öğrencinin Herodot ve Strabon'un yaşam dönemleri ve meslek tanımlamaları gibi detay bilgileri birbirine karıştırması amaçlanmıştır."
+        "trick": "Yazarların isimlerini ve eserlerini karıştırma olasılığı, özellikle birden fazla eşleştirme olduğunda artar."
       }
     ]
   },
   {
     "id": "aile-arkeoloji-mitoloji-012",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "Bu soru, antik Yunan mitolojisindeki önemli savaş sahnelerinden biri olan Gigantomakhia'nın, Bergama Zeus Sunağı'ndaki betimlemesiyle ilgili bilgisini ölçmektedir.",
-    "ozet": "Antik Yunan mitolojisi, **tanrılar, kahramanlar ve evrenin oluşumu** hakkındaki anlatıları içerir. Bu anlatılar, farklı tanrıların ve tanrıçaların **simgeleri (attributları)** aracılığıyla eserlerde can bulur. Mitolojik savaşlar ve olaylar, özellikle **tapınak frizleri ve heykeller** üzerinde sıklıkla betimlenir. Örneğin, Bergama Zeus Sunağı'nın dış frizlerinde, Olimpos Tanrıları ile Gigantlar arasındaki mücadeleyi konu alan **Gigantomakhia** sahnesi yer alır. Bu tür mitolojik anlatıların hangi antik kent veya yapı ile ilişkilendirildiğini bilmek, MKS'de sıkça karşılaşılan bir soru tipidir.",
+    "cekirdek": "Bu soru, antik Yunan mitolojisindeki önemli savaşları ve bu savaşların ikonik sanat eserleriyle ilişkilendirilmesini ölçmektedir.",
+    "ozet": "Antik Yunan mitolojisi, **tanrılar ve kahramanlar** etrafında şekillenen zengin anlatılar bütünüdür. Bu anlatılar, dönemin sanatına ve mimarisine de yansımıştır. Özellikle **Gigantomakhia** ve **Titanomakhia** gibi tanrılar arası savaşlar ile **Troya Savaşı** gibi kahramanlık destanları, heykellerde ve frizlerde sıklıkla işlenmiştir. Bir eserdeki figürlerin **attribut**ları (simgeleri) veya savaşın genel teması, eserin hangi mitolojik olayı betimlediğini anlamak için anahtardır. Örneğin, Bergama Zeus Sunağı'ndaki dış frizlerde **Gigantlar** ile tanrıların mücadelesi, yani Gigantomakhia tasvir edilmiştir. Bu bilgiyi bilmek, hem mitolojiyi hem de antik sanatı doğru yorumlamanızı sağlar.",
     "kaynak": {
       "examId": "cikmis-2025-subat",
       "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
@@ -1290,110 +1568,110 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-012-t1",
-        "stem": "Aşağıdakilerden hangisi, Olimpos Tanrıları ile devler arasındaki mitolojik savaşı ifade eden terimdir ve Bergama Zeus Sunağı'nın frizlerinde tasvir edilmiştir?",
+        "stem": "Antik Yunan mitolojisinde, Olimposlu tanrılar ile devler arasındaki büyük savaşı betimleyen terim aşağıdakilerden hangisidir?",
         "choices": [
           {
             "id": "A",
             "text": "Titanomakhia",
-            "explanation": "Titanomakhia, Olimpos Tanrıları ile Titanlar arasındaki savaşı ifade eder, Gigantlar ile olan savaşı değil."
+            "explanation": "Titanomakhia, Olimposlu tanrıların Titanlara karşı verdiği savaştır, devlere karşı olan değil."
           },
           {
             "id": "B",
-            "text": "Troya Savaşı",
-            "explanation": "Troya Savaşı, Yunanlar ile Troyalılar arasındaki on yıl süren savaşı anlatır ve Homeros'un İlyada'sında detaylandırılmıştır, Gigantlar ile ilgili değildir."
+            "text": "Teomakhia",
+            "explanation": "Teomakhia, genel olarak tanrılar arasındaki savaşı ifade eden bir terimdir, spesifik olarak devlerle olan savaşı değil."
           },
           {
             "id": "C",
-            "text": "Theomakhia",
-            "explanation": "Theomakhia, genel olarak tanrılar arasındaki savaşı ifade eder, ancak spesifik olarak Gigantlar ile olan savaşa atıfta bulunmaz."
+            "text": "Kentauromakhia",
+            "explanation": "Kentauromakhia, Lapithler ile Kentaurler (at adamlar) arasındaki savaştır, tanrılar ve devler arasında değil."
           },
           {
             "id": "D",
             "text": "Gigantomakhia",
-            "explanation": "Gigantomakhia, Olimpos Tanrıları ile Gigantlar (devler) arasındaki savaşı ifade eder ve Bergama Zeus Sunağı'nın dış frizlerinde betimlenmiştir. Bu, ders notunda açıkça belirtilen bilgidir."
+            "explanation": "Gigantomakhia, Olimposlu tanrılar ile Gigantlar (devler) arasındaki savaşı ifade eder ve metinde Bergama Zeus Sunağı'nda betimlendiği belirtilmiştir."
           },
           {
             "id": "E",
-            "text": "Kentauromakhia",
-            "explanation": "Kentauromakhia, Lapitler ile Kentauroslar (yarı insan yarı at yaratıklar) arasındaki savaşı ifade eder."
+            "text": "Amazonomakhia",
+            "explanation": "Amazonomakhia, Yunanlar ile Amazonlar arasındaki savaşı ifade eder, tanrılar ve devler arasında değil."
           }
         ],
         "correct": "D",
-        "trick": "Farklı 'makhia' terimleri arasında doğru ayrımı yapamayanlar çeldiricilere yönelebilir."
+        "trick": "Benzer savaş terimleri arasında karıştırma tuzağına düşmemek için 'Gigantlar' ile 'Titanlar' arasındaki farkı iyi bilmek gerekir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-012-t2",
-        "stem": "Bergama Zeus Sunağı'nın dış frizlerinde betimlenen Gigantomakhia ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+        "stem": "Aşağıdakilerden hangisi, Yunan mitolojisindeki büyük savaşlardan biri olan Gigantomakhia ile ilgili YANLIŞ bir ifadedir?",
         "choices": [
           {
             "id": "A",
-            "text": "Bu savaş, Olimpos Tanrıları ile Gigantlar arasında gerçekleşmiştir.",
-            "explanation": "Doğru ifade. Gigantomakhia, Olimpos Tanrıları ile devler (Gigantlar) arasındaki savaşı anlatır."
+            "text": "Bu savaş Olimposlu tanrılar ile devler arasında geçmiştir.",
+            "explanation": "Gigantomakhia, metinde de belirtildiği gibi, tanrılar ve Gigantlar (devler) arasındaki savaştır, dolayısıyla bu ifade doğrudur."
           },
           {
             "id": "B",
-            "text": "Gigantlar, Gaia'nın çocukları olan devasa varlıklardır.",
-            "explanation": "Doğru ifade. Mitolojiye göre Gigantlar, Toprak Ana Gaia'nın çocuklarıdır."
+            "text": "Savaşın temel nedeni, Gigantların tanrılara karşı isyan etmesidir.",
+            "explanation": "Gigantomakhia'nın temel mitolojik anlatısı, Gigantların Olimposlu tanrılara karşı isyanı ve Olimpos'u ele geçirme çabasıdır, bu ifade doğrudur."
           },
           {
             "id": "C",
-            "text": "Savaşın temel nedeni, Gigantların Olimpos'a saldırması ve tanrıların egemenliğini tehdit etmesidir.",
-            "explanation": "Doğru ifade. Gigantlar, tanrıların Olimpos'taki egemenliğine son vermek amacıyla saldırmışlardır."
+            "text": "Bu savaşta tanrıların zaferi, kozmik düzenin sağlanmasında önemli bir rol oynamıştır.",
+            "explanation": "Gigantomakhia, tanrıların kozmik düzeni ve egemenliğini pekiştirdiği önemli bir mitolojik olaydır, bu ifade doğrudur."
           },
           {
             "id": "D",
-            "text": "Sanatsal olarak Helenistik dönemin dinamik ve dramatik üslubunu yansıtır.",
-            "explanation": "Doğru ifade. Bergama Zeus Sunağı, Helenistik dönemin en önemli eserlerinden biridir ve bu dönemin sanatsal özelliklerini taşır."
+            "text": "Bergama Zeus Sunağı'nın dış frizlerinde bu savaş sahnesi betimlenmiştir.",
+            "explanation": "Metinde açıkça belirtildiği gibi, Bergama Zeus Sunağı'nın dış frizlerinde Gigantomakhia betimlenmiştir, bu ifade doğrudur."
           },
           {
             "id": "E",
-            "text": "Bu frizlerde, tanrıların Gigantlar karşısında yenilgiye uğradığı tasvir edilmiştir.",
-            "explanation": "Yanlış ifade. Gigantomakhia'da Olimpos Tanrıları, Herakles'in yardımıyla Gigantları yenilgiye uğratmıştır. Bu frizlerde tanrıların zaferi betimlenir."
+            "text": "Savaşın sonunda devler, Tartaros'a hapsedilmiştir.",
+            "explanation": "Tartaros'a hapsedilenler genellikle Titanlardır (Titanomakhia sonrası). Gigantlar ise genellikle yenilgiye uğratılıp öldürülmüş veya yer altına gömülmüşlerdir, dolayısıyla bu ifade Gigantomakhia için yanlış bir genellemedir."
           }
         ],
         "correct": "E",
-        "trick": "Savaşın sonucuna odaklanmak yerine, sadece varlığını bilmekle yetinen adaylar yanlış şıkkı doğru sanabilir."
+        "trick": "Titanomakhia ve Gigantomakhia'nın sonuçları ve karakterleri arasındaki farkı gözden kaçırmak, bu soruyu yanlış cevaplamaya neden olabilir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-012-t3",
-        "stem": "Aşağıdaki mitolojik savaşlar ve onlarla ilişkilendirilen yer/eser eşleştirmelerinden hangisi doğrudur?",
+        "stem": "Aşağıdaki antik eser ve betimlediği mitolojik olay eşleştirmelerinden hangisi doğrudur?",
         "choices": [
           {
             "id": "A",
-            "text": "Gigantomakhia - Bergama Zeus Sunağı",
-            "explanation": "Doğru eşleştirme. Ders notunda açıkça belirtildiği gibi, Bergama Zeus Sunağı'nın dış frizlerinde Gigantomakhia betimlenmiştir."
+            "text": "Bergama Zeus Sunağı - Gigantomakhia",
+            "explanation": "Metinde 'Bergama Zeus Sunağı'nın (Altarı) dış frizlerinde betimlenen mitolojik savaş sahnesi Gigantomakhia'dır' ifadesiyle bu eşleştirme doğrudan doğrulanmaktadır."
           },
           {
             "id": "B",
-            "text": "Troya Savaşı - Parthenon Frizleri",
-            "explanation": "Parthenon frizleri daha çok Panathenaia Alayı ve Kentauromakhia gibi konuları işlerken, Troya Savaşı Homeros'un İlyada'sında anlatılır ve Çanakkale'deki Troya antik kentiyle ilişkilidir."
+            "text": "Homeros'un İlyada'sı - Gigantomakhia",
+            "explanation": "Homeros'un İlyada'sı Troya Savaşı'nı anlatır, Gigantomakhia'yı değil."
           },
           {
             "id": "C",
-            "text": "Titanomakhia - Efes Artemis Tapınağı",
-            "explanation": "Efes Artemis Tapınağı, Artemis kültüne adanmış olup Titanomakhia ile doğrudan bir ilişkisi yoktur."
+            "text": "Bergama Zeus Sunağı - Titanomakhia",
+            "explanation": "Metinde açıkça belirtildiği gibi, Bergama Zeus Sunağı'nın dış frizlerinde Gigantomakhia betimlenmiştir, Titanomakhia değil."
           },
           {
             "id": "D",
-            "text": "Kentauromakhia - Didyma Apollon Tapınağı",
-            "explanation": "Didyma Apollon Tapınağı bir kehanet merkezi olup, Kentauromakhia betimlemeleriyle bilinmez."
+            "text": "Parthenon Frizleri - Troya Savaşı",
+            "explanation": "Parthenon frizleri daha çok Panathenaia Alayı ve kentin kuruluş mitlerini betimler, Troya Savaşı'nı değil."
           },
           {
             "id": "E",
-            "text": "Amazonlar Savaşı - Gordion Düğümü",
-            "explanation": "Gordion Düğümü, Frig Kralı Gordios ve Büyük İskender ile ilişkilidir, Amazonlar Savaşı ile değil. Amazonlar Savaşı ise genellikle Efes gibi kentlerle bağlantılıdır."
+            "text": "Homeros'un Odysseia'sı - Titanomakhia",
+            "explanation": "Homeros'un Odysseia'sı, Odysseus'un Troya Savaşı sonrası eve dönüş yolculuğunu anlatır, Titanomakhia'yı değil."
           }
         ],
         "correct": "A",
-        "trick": "Farklı mitolojik savaşları ve antik yapıları karıştırmak, bu tür eşleştirme sorularında sık karşılaşılan bir hatadır."
+        "trick": "Ünlü antik eserlerin hangi mitolojik olayları betimlediğini karıştırmak, özellikle benzer isimli savaşlar arasında, bu soruyu yanlış cevaplamaya yol açabilir."
       }
     ]
   },
   {
     "id": "aile-arkeoloji-mitoloji-013",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "Bu soru, antik çağda yaşamış önemli coğrafyacı ve tarihçilerin eserleri ile kimliklerini tanıma bilgisini ölçmektedir.",
-    "ozet": "MKS'de antik yazarların eserleri ve kimlikleri sıklıkla sorulur. Bu nedenle **Herodot** ve **Strabon** gibi kilit figürleri bilmek önemlidir. Herodot, 'Historia' adlı eseriyle 'Tarihin Babası' olarak anılırken, **Strabon** ise 17 ciltlik **'Geographika' (Coğrafya)** adlı eseriyle tanınan Amasyalı bir coğrafyacı, filozof ve tarihçidir. Bu iki yazarın eserlerini ve kökenlerini bilirseniz, ilgili soruları kolayca çözebilirsiniz. Özellikle coğrafi tanımlamalar ve farklı kültürler hakkındaki bilgileriyle öne çıkarlar.",
+    "cekirdek": "Bu soru, antik çağda yaşamış önemli coğrafyacı ve tarihçilerin eserlerini ve kimliklerini tanıma bilgisini ölçmektedir.",
+    "ozet": "Antik dünyada yaşamış, günümüze önemli eserler bırakmış **antik yazarlar** ve coğrafyacılar, o dönemin kültürü ve coğrafyası hakkında paha biçilmez bilgiler sunar. Özellikle **Herodot** 'Tarihin Babası' olarak bilinir ve 'Historia' adlı eseriyle öne çıkar. Amasyalı **Strabon** ise 17 ciltlik 'Geographika' (Coğrafya) eseriyle antik coğrafyanın en önemli kaynaklarından birini yazmıştır. Bu iki isim ve eserleri, MKS'de sıklıkla karşılaştırma veya doğrudan bilgi sorusu olarak sorulur. Bu isimleri ve eserlerini bilmek, antik dünyanın haritasını zihninizde canlandırmanıza yardımcı olacaktır.",
     "kaynak": {
       "examId": "cikmis-2025-subat",
       "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
@@ -1429,22 +1707,22 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-013-t1",
-        "stem": "Antik Çağ'da yaşamış önemli yazarlar ve eserleriyle ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+        "stem": "Aşağıdakilerden hangisi, eserleriyle tanınan antik yazarlar ve eserleri arasındaki eşleştirmelerden biri DEĞİLDİR?",
         "choices": [
           {
             "id": "A",
             "text": "Herodot - Historia",
-            "explanation": "Herodot, 'Historia' adlı eseriyle tanınan ve 'Tarihin Babası' olarak nitelendirilen antik yazardır. Bu eşleştirme doğrudur."
+            "explanation": "Herodot, 'Tarihin Babası' olarak bilinir ve en önemli eseri 'Historia'dır. Bu eşleştirme doğrudur."
           },
           {
             "id": "B",
-            "text": "Klaus Schmidt - Geographika",
-            "explanation": "Klaus Schmidt, Göbeklitepe kazılarıyla tanınan modern bir arkeologdur. 'Geographika' ise Strabon'un eseridir. Bu eşleştirme yanlıştır."
+            "text": "Thukydides - Anabasis",
+            "explanation": "Thukydides'in eseri 'Peloponez Savaşı Tarihi'dir. 'Anabasis' Ksenophon'a aittir. Dolayısıyla bu eşleştirme yanlıştır."
           },
           {
             "id": "C",
             "text": "Strabon - Geographika",
-            "explanation": "Strabon, 17 ciltlik 'Geographika' (Coğrafya) adlı eseriyle tanınan Amasyalı yazardır. Bu eşleştirme doğrudur."
+            "explanation": "Amasyalı Strabon, 17 ciltlik 'Geographika' (Coğrafya) adlı eseriyle antik coğrafyanın en önemli yazarlarından biridir. Bu eşleştirme doğrudur."
           },
           {
             "id": "D",
@@ -1453,86 +1731,86 @@
           },
           {
             "id": "E",
-            "text": "Thukydides - Peloponez Savaşları Tarihi",
-            "explanation": "Thukydides, Peloponez Savaşları Tarihi adlı eseriyle tanınan önemli bir antik tarihçidir. Bu eşleştirme doğrudur."
+            "text": "Ksenophon - Anabasis",
+            "explanation": "Ksenophon'un en bilinen eserlerinden biri 'Anabasis'tir. Bu eşleştirme doğrudur."
           }
         ],
         "correct": "B",
-        "trick": "Modern bir arkeolog ile antik bir eserin yanlış eşleştirilmesi, adayların yazar-eser ilişkisini doğru kurup kurmadığını test eder."
+        "trick": "Farklı antik yazarların eserlerinin karıştırılması, özellikle isim benzerlikleri olan eserlerde tuzak oluşturur."
       },
       {
         "id": "aile-arkeoloji-mitoloji-013-t2",
-        "stem": "Amasyalı bir coğrafyacı, filozof ve tarihçi olan, 17 ciltlik 'Geographika' (Coğrafya) adlı eseriyle tanınan antik yazar aşağıdakilerden hangisidir?",
+        "stem": "Antik coğrafya ve tarih yazıcılığında öne çıkan iki önemli isim olan Herodot ve Strabon ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
         "choices": [
           {
             "id": "A",
-            "text": "Herodot",
-            "explanation": "Herodot, 'Historia' adlı eseriyle tanınır ve 'Tarihin Babası' olarak bilinir, ancak Amasyalı değildir ve eseri 'Geographika' değildir."
+            "text": "Herodot, 'Geographika' adlı eseriyle tanınırken, Strabon 'Tarihin Babası' olarak anılır.",
+            "explanation": "Tam tersi; Herodot 'Tarihin Babası'dır ve 'Historia'yı yazmıştır. Strabon ise 'Geographika'nın yazarıdır. Bu ifade yanlıştır."
           },
           {
             "id": "B",
-            "text": "Homeros",
-            "explanation": "Homeros, 'İlyada' ve 'Odysseia' destanlarının yazarıdır, coğrafyacı değildir ve eseri 'Geographika' değildir."
+            "text": "Herodot, sadece Yunan tarihini yazmış, Strabon ise Anadolu coğrafyasına odaklanmıştır.",
+            "explanation": "Herodot, farklı kültürler ve coğrafyalar hakkında da bilgi vermiştir, sadece Yunan tarihiyle sınırlı kalmamıştır. Strabon'un eseri genel bir coğrafya eseridir, sadece Anadolu'ya odaklanmaz. Bu ifade yanlıştır."
           },
           {
             "id": "C",
-            "text": "Strabon",
-            "explanation": "Strabon, 17 ciltlik 'Geographika' (Coğrafya) adlı eseriyle tanınan Amasyalı bir coğrafyacı, filozof ve tarihçidir. Tanım doğrudan ders notundaki bilgiyi yansıtmaktadır."
+            "text": "Herodot'un eseri 'Historia' olarak bilinirken, Strabon'un eseri 17 ciltlik 'Geographika'dır.",
+            "explanation": "Bu ifade doğrudur. Herodot'un en bilinen eseri 'Historia', Strabon'un ise 17 ciltlik 'Geographika'dır."
           },
           {
             "id": "D",
-            "text": "Thukydides",
-            "explanation": "Thukydides, Peloponez Savaşları Tarihi adlı eseriyle tanınır, ancak Amasyalı değildir ve eseri 'Geographika' değildir."
+            "text": "Herodot ve Strabon, aynı dönemde yaşamış ve birbirlerinin eserlerini eleştirmişlerdir.",
+            "explanation": "Herodot M.Ö. 5. yüzyılda, Strabon ise M.Ö. 1. yüzyıl sonu ile M.S. 1. yüzyıl başında yaşamıştır. Farklı dönemlerde yaşadıkları için birbirlerini eleştirmeleri mümkün değildir. Bu ifade yanlıştır."
           },
           {
             "id": "E",
-            "text": "Platon",
-            "explanation": "Platon, antik Yunan filozofu olup 'Devlet' gibi eserleriyle tanınır, ancak coğrafyacı değildir ve eseri 'Geographika' değildir."
+            "text": "Herodot Amasyalı, Strabon ise Halikarnaslıdır.",
+            "explanation": "Herodot Halikarnaslıdır, Strabon ise Amasyalıdır. Bu ifade yanlıştır."
           }
         ],
         "correct": "C",
-        "trick": "Yazarın hem kökeni (Amasyalı) hem de eseri ('Geographika') gibi spesifik bilgilerin bir arada sorulması, adayların ezberden ziyade anlamlı öğrenmesini test eder."
+        "trick": "Yazarların memleketleri ve eserlerinin isimlerinin çaprazlanarak verilmesi yanıltıcı olabilir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-013-t3",
-        "stem": "Aşağıdaki antik yazarlar ve onlarla ilgili verilen bilgilerden hangisi doğru değildir?",
+        "stem": "Aşağıdaki antik yazarları ve onlara atfedilen unvanları doğru bir şekilde eşleştiriniz:\nI. Herodot\nII. Strabon\nIII. Cicero\n\nP. 'Tarihin Babası'\nQ. 'Geographika' yazarı\nR. 'Amasyalı yazar'",
         "choices": [
           {
             "id": "A",
-            "text": "Herodot, 'Tarihin Babası' olarak nitelendirilmiştir.",
-            "explanation": "Ders notunda Herodot'un Cicero tarafından 'Tarihin Babası' olarak nitelendirildiği belirtilmektedir. Bu ifade doğrudur."
+            "text": "I-P, II-Q, III-R",
+            "explanation": "Herodot 'Tarihin Babası'dır (P), Strabon 'Geographika' yazarıdır (Q) ve aynı zamanda Amasyalıdır (R). Ancak Cicero bu listede bir yazar değil, Herodot'a 'Tarihin Babası' unvanını veren kişidir. Dolayısıyla bu eşleştirme hatalıdır."
           },
           {
             "id": "B",
-            "text": "Strabon, M.Ö. 64/63 ile M.S. 24 yılları arasında yaşamış Helenistik dönem yazarıdır.",
-            "explanation": "Ders notunda Strabon'un yaşam tarihleri ve Helenistik dönem coğrafyacısı olduğu belirtilmiştir. Bu ifade doğrudur."
+            "text": "I-Q, II-P, III-R",
+            "explanation": "Herodot 'Tarihin Babası'dır, 'Geographika' yazarı değildir. Strabon 'Geographika' yazarıdır, 'Tarihin Babası' değildir. Bu eşleştirme yanlıştır."
           },
           {
             "id": "C",
-            "text": "Herodot, olayları sadece anlatmakla kalmamış, farklı kültürler ve coğrafyalar hakkında da bilgi vermiştir.",
-            "explanation": "Ders notunda Herodot'un olayları anlatırken farklı kültürler ve coğrafyalar hakkında bilgi verdiği belirtilmektedir. Bu ifade doğrudur."
+            "text": "I-R, II-P, III-Q",
+            "explanation": "Herodot Amasyalı değildir, 'Tarihin Babası'dır. Strabon Amasyalıdır. Bu eşleştirme yanlıştır."
           },
           {
             "id": "D",
-            "text": "Strabon'un 'Geographika' eseri 10 ciltten oluşmaktadır.",
-            "explanation": "Ders notunda Strabon'un 'Geographika' adlı eserinin 17 ciltten oluştuğu açıkça belirtilmiştir. Bu ifade yanlıştır."
+            "text": "I-P, II-Q ve R",
+            "explanation": "Herodot 'Tarihin Babası'dır (P). Strabon hem 'Geographika' yazarı (Q) hem de Amasyalı yazardır (R). Bu eşleştirme doğrudur."
           },
           {
             "id": "E",
-            "text": "Strabon, Amasyalı bir yazardır.",
-            "explanation": "Ders notunda Strabon'un Amasyalı bir yazar olduğu belirtilmiştir. Bu ifade doğrudur."
+            "text": "I-P, II-R, III-Q",
+            "explanation": "Herodot 'Tarihin Babası'dır (P). Strabon Amasyalıdır (R), ancak 'Geographika' yazarıdır (Q). Bu şıkta Q eksik kalmıştır, bu nedenle tam doğru değildir."
           }
         ],
         "correct": "D",
-        "trick": "Adayın eserin cilt sayısı gibi sayısal bir detayı hatırlayıp hatırlamadığını test ederek dikkatini ölçer."
+        "trick": "Bir ismin birden fazla özellikle eşleşebileceği ve bir şahsın diğerini tanımlayan bir role sahip olabileceği durumlarda dikkatli olmak gerekir."
       }
     ]
   },
   {
     "id": "aile-arkeoloji-mitoloji-014",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "Bu soru, Gordion Düğümü efsanesi ve bu düğümü çözen lider hakkındaki bilgiyi ölçmektedir.",
-    "ozet": "Antik dünyada, Frig başkenti **Gordion**'da yer alan, çözülemeyen bir düğüm efsanesi vardı. Bu düğüm, Frig kralı **Gordios**'un öküz arabasının boyunduruğunu tapınağa bağladığı ve kehanete göre 'bu düğümü çözenin Asya'ya hükmedeceğini' belirttiği bir sembol haline gelmişti. MÖ 333'te bu şehre gelen **Büyük İskender**, düğümü geleneksel yollarla çözmek yerine kılıcıyla keserek bu kehaneti kendi yöntemleriyle gerçekleştirmiştir. Bu olay, karmaşık bir soruna radikal bir çözüm bulmayı ifade eden 'Gordion Düğümünü çözmek' deyiminin de kaynağıdır.",
+    "cekirdek": "Bu soru, Gordion Düğümü efsanesi ve bu efsaneyle ilişkilendirilen tarihi figür hakkındaki bilgiyi ölçmektedir.",
+    "ozet": "Antik dünyada önemli bir efsane olan **Gordion Düğümü**, Frig başkenti Gordion'da bulunan ve çözülmesi imkansız olduğuna inanılan bir düğümdür. Efsaneye göre, bu düğümü çözen kişi 'Asya'nın Hakimi' olacaktır. Bu kehanet, MÖ 333 yılında Gordion'a gelen **Büyük İskender** tarafından gerçekleştirilmiştir. İskender, düğümü çözmek yerine kılıcıyla keserek soruna radikal bir çözüm getirmiş ve ardından Anadolu'yu fethederek Asya'daki hakimiyetinin ilk adımlarını atmıştır. Bu olay, günümüzde bile karmaşık bir problemi alışılmadık bir yolla çözmeyi ifade eden bir deyim olarak kullanılmaktadır.",
     "kaynak": {
       "examId": "cikmis-2025-subat",
       "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
@@ -1568,110 +1846,110 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-014-t1",
-        "stem": "Gordion Düğümü efsanesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+        "stem": "Gordion Düğümü efsanesine göre, bu düğümü çözen kişinin 'Asya'nın Hakimi' olacağı kehaneti hangi tarihi figür tarafından, nasıl gerçekleştirilmiştir?",
         "choices": [
           {
             "id": "A",
-            "text": "Düğüm, Frig kralı Gordios'un öküz arabasının boyunduruğuna aittir.",
-            "explanation": "Bu ifade doğrudur. Düğüm, Frig kralı Gordios'un arabasının boyunduruğuna bağlanmıştır."
+            "text": "Julius Caesar tarafından, düğümü sabırla çözerek.",
+            "explanation": "Julius Caesar, Gordion Düğümü efsanesiyle ilişkilendirilen bir figür değildir. Düğüm sabırla çözülmemiştir."
           },
           {
             "id": "B",
-            "text": "Efsaneye göre düğümü çözenin Asya'ya hükmedeceği kehaneti vardır.",
-            "explanation": "Bu ifade doğrudur. Kehanet, düğümü çözenin 'Asya'nın Hakimi' olacağını belirtiyordu."
+            "text": "Hannibal tarafından, düğümü yakarak.",
+            "explanation": "Hannibal, Gordion Düğümü efsanesiyle ilişkilendirilen bir figür değildir ve düğüm yakılarak çözülmemiştir."
           },
           {
             "id": "C",
-            "text": "Gordion, Friglerin başkentiydi ve günümüzde Polatlı yakınlarındadır.",
-            "explanation": "Bu ifade doğrudur. Gordion, Frig Krallığı'nın başkentiydi ve günümüzdeki Polatlı yakınlarında yer almaktadır."
+            "text": "Frig Kralı Midas tarafından, düğümü sihirli güçleriyle çözerek.",
+            "explanation": "Frig Kralı Midas, Gordion Düğümü ile ilişkilidir ancak düğümü çözen veya kesen o değildir. Düğüm Midas'ın babası Gordios'un arabasına aitti."
           },
           {
             "id": "D",
-            "text": "Bu efsane, karmaşık bir soruna radikal çözüm bulma anlamında deyimleşmiştir.",
-            "explanation": "Bu ifade doğrudur. 'Gordion Düğümünü kesmek' deyimi, çözülemeyen bir sorunu alışılmışın dışında bir yöntemle çözmek anlamına gelir."
+            "text": "Darius tarafından, düğümü bir bilmeceyle çözerek.",
+            "explanation": "Darius, Gordion Düğümü efsanesiyle ilişkilendirilen bir figür değildir ve düğüm bilmeceyle çözülmemiştir."
           },
           {
             "id": "E",
-            "text": "Büyük İskender düğümü çözmek için uzun süre uğraşmış ancak başarılı olamamıştır.",
-            "explanation": "Bu ifade yanlıştır. Büyük İskender düğümü çözmek için uğraşmamış, doğrudan kılıcıyla keserek kehaneti gerçekleştirmiştir."
+            "text": "Büyük İskender tarafından, düğümü kılıcıyla keserek.",
+            "explanation": "Doğru cevap. Büyük İskender, Gordion Düğümü'nü çözmek yerine kılıcıyla keserek kehaneti gerçekleştirmiştir."
           }
         ],
         "correct": "E",
-        "trick": "Öğrencinin, Büyük İskender'in düğümü 'çözme' eylemini geleneksel anlamda mı yoksa radikal bir hamleyle mi gerçekleştirdiğini karıştırması amaçlanmıştır."
+        "trick": "Farklı tarihi figürlerin karıştırılması ve düğümün 'nasıl' çözüldüğüne dair yanlış yöntemlerin sunulması çeldiricidir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-014-t2",
-        "stem": "Aşağıdaki antik kentlerden hangisi, 'Midas'ın altın dokunuşu' ve 'Gordion Düğümü' gibi efsanelerle doğrudan ilişkilidir?",
+        "stem": "Aşağıdakilerden hangisi Gordion Düğümü efsanesiyle ilgili BİR BİLGİ DEĞİLDİR?",
         "choices": [
           {
             "id": "A",
-            "text": "Gordion",
-            "explanation": "Gordion, Friglerin başkenti olup hem Kral Midas'ın babası Gordios'un düğümüyle hem de Midas efsaneleriyle doğrudan bağlantılıdır."
+            "text": "Düğüm, Frig Kralı Midas'ın tahtına bağladığı bir ip yumağıydı.",
+            "explanation": "Yanlış cevap. Düğüm, Frig Kralı Gordios'un öküz arabasının boyunduruğunu tapınağa bağlayan çözülemeyen bir düğümdü, Midas'ın tahtına bağlı bir ip yumağı değildi."
           },
           {
             "id": "B",
-            "text": "Troya",
-            "explanation": "Troya, Helen'in kaçırılması ve Truva Atı efsanesiyle ilişkilidir, Gordion Düğümü ile değil."
+            "text": "Efsane, Frigya başkenti Gordion'da geçmektedir.",
+            "explanation": "Bu bilgi doğrudur. Gordion Düğümü efsanesi Frig başkenti Gordion ile ilişkilidir."
           },
           {
             "id": "C",
-            "text": "Efes",
-            "explanation": "Efes, Artemis Tapınağı ve Yedi Uyurlar gibi efsanelerle bilinir, Gordion Düğümü ile ilgisi yoktur."
+            "text": "Düğümü çözen kişinin 'Asya'ya hükmedeceği' kehanet edilmiştir.",
+            "explanation": "Bu bilgi doğrudur. Efsanenin temel kehaneti budur."
           },
           {
             "id": "D",
-            "text": "Aphrodisias",
-            "explanation": "Aphrodisias, Afrodit kültüyle tanınır, Gordion Düğümü ile ilişkili değildir."
+            "text": "Büyük İskender, düğümü kılıcıyla keserek kehaneti gerçekleştirmiştir.",
+            "explanation": "Bu bilgi doğrudur. Büyük İskender'in düğümü kılıcıyla kesmesi efsanenin önemli bir parçasıdır."
           },
           {
             "id": "E",
-            "text": "Didyma",
-            "explanation": "Didyma, Apollon kehanet merkezi olarak bilinir, Gordion Düğümü efsanesiyle bir bağlantısı yoktur."
+            "text": "Günümüzde 'Gordion düğümünü çözmek' deyimi, karmaşık bir sorunu radikal bir şekilde çözmek anlamına gelir.",
+            "explanation": "Bu bilgi doğrudur. Efsane günümüzde de bir deyim olarak kullanılmaktadır."
           }
         ],
         "correct": "A",
-        "trick": "Diğer antik kentlerin de Anadolu'da önemli efsanelere ev sahipliği yapması, öğrencinin doğru eşleştirmeyi yapmasını zorlaştırabilir."
+        "trick": "Frig kralları Gordios ve Midas'ın karıştırılması ve düğümün neye ait olduğu konusunda detay yanıltıcı olabilir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-014-t3",
-        "stem": "Aşağıdakilerden hangisi, Gordion Düğümü efsanesindeki 'düğümü çözenin Asya'ya hükmedeceği' kehanetini gerçekleştiren lider ve bu efsaneyle ilişkilendirilen kralın doğru eşleştirmesidir?",
+        "stem": "Gordion Düğümü efsanesi ve ilgili kavramları doğru bir şekilde eşleştiren seçeneği işaretleyiniz:",
         "choices": [
           {
             "id": "A",
-            "text": "Büyük İskender - Kral Midas",
-            "explanation": "Büyük İskender kehaneti gerçekleştiren liderdir ancak düğüm Kral Midas'ın değil, babası Kral Gordios'un öküz arabasına aittir."
+            "text": "I. Gordion - Lidya Başkenti\nII. Büyük İskender - Düğümü Çözerek\nIII. Kehanet - Avrupa'nın Hakimi",
+            "explanation": "Gordion Lidya değil, Frig başkentidir. İskender düğümü çözerek değil, keserek kehaneti gerçekleştirmiştir. Kehanet Avrupa'nın değil, Asya'nın hakimi olmakla ilgilidir."
           },
           {
             "id": "B",
-            "text": "Büyük İskender - Kral Gordios",
-            "explanation": "Bu eşleştirme doğrudur. Büyük İskender kehaneti gerçekleştirmiş, düğüm ise Frig kralı Gordios ile ilişkilendirilmiştir."
+            "text": "I. Gordion - Frig Başkenti\nII. Büyük İskender - Düğümü Kılıçla Kesen\nIII. Kehanet - Asya'nın Hakimi",
+            "explanation": "Doğru cevap. Tüm eşleştirmeler ders notunda belirtildiği gibi doğrudur."
           },
           {
             "id": "C",
-            "text": "Julius Caesar - Kral Gordios",
-            "explanation": "Kehaneti gerçekleştiren Julius Caesar değil, Büyük İskender'dir."
+            "text": "I. Gordion - Hitit Başkenti\nII. Julius Caesar - Düğümü Kılıçla Kesen\nIII. Kehanet - Anadolu'nun Kralı",
+            "explanation": "Gordion Hitit değil, Frig başkentidir. Düğümü kesen Julius Caesar değil, Büyük İskender'dir. Kehanet Anadolu'nun değil, Asya'nın hakimi olmakla ilgilidir."
           },
           {
             "id": "D",
-            "text": "Darius - Kral Midas",
-            "explanation": "Kehaneti gerçekleştiren Darius değil, Büyük İskender'dir ve düğüm Kral Midas'ın değil, Kral Gordios'undur."
+            "text": "I. Gordion - Pers Başkenti\nII. Darius - Düğümü Kılıçla Kesen\nIII. Kehanet - Akdeniz'in Efendisi",
+            "explanation": "Gordion Pers değil, Frig başkentidir. Düğümü kesen Darius değil, Büyük İskender'dir. Kehanet Akdeniz'in değil, Asya'nın hakimi olmakla ilgilidir."
           },
           {
             "id": "E",
-            "text": "Hannibal - Kral Gordios",
-            "explanation": "Kehaneti gerçekleştiren Hannibal değil, Büyük İskender'dir."
+            "text": "I. Gordion - Roma Başkenti\nII. Pompey - Düğümü Sabırla Çözen\nIII. Kehanet - Dünya İmparatoru",
+            "explanation": "Gordion Roma değil, Frig başkentidir. Düğümü çözen veya kesen Pompey değil, Büyük İskender'dir ve sabırla çözmemiştir. Kehanet Dünya İmparatoru değil, Asya'nın hakimi olmakla ilgilidir."
           }
         ],
         "correct": "B",
-        "trick": "Kral Midas ile Kral Gordios isimlerinin karıştırılması ve Büyük İskender dışındaki diğer tarihi figürlerin çeldirici olarak kullanılması amaçlanmıştır."
+        "trick": "Farklı antik kentlerin başkentleri, yanlış tarihi figürler ve farklı kehanet içerikleri bir araya getirilerek kafa karışıklığı yaratılmıştır."
       }
     ]
   },
   {
     "id": "aile-arkeoloji-mitoloji-015",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "Arkeolojik terimlerin tanımlarını bilmek, özellikle 'sitadel', 'stel', 'höyük' ve 'fibula' gibi temel kavramları doğru bir şekilde eşleştirmeyi gerektirir.",
-    "ozet": "Arkeoloji, geçmiş uygarlıkların **maddi kalıntılarını** inceleyen bir bilim dalıdır. Bu kalıntıları doğru anlamak için bazı temel terimlere hakim olmak önemlidir. Örneğin, **höyük**ler üst üste yığılmış yerleşim katmanlarından oluşan yapay tepelerdir ve Anadolu'da sıkça görülür. Bir kentin en yüksek noktasında yer alan, surlarla çevrili iç kaleye **sitadel** denir. Üzerinde yazıt veya kabartma bulunan, anıt veya mezar taşı olarak kullanılan dikili taşlara **stel** adı verilirken, antik dönemde giysileri tutturmaya yarayan çengelli iğnelere ise **fibula** denir. Bu terimleri bilmek, arkeolojik alanları ve buluntuları doğru yorumlamanın anahtarıdır.",
+    "cekirdek": "Arkeolojide kullanılan temel terimlerin tanımlarını bilmek ve bu terimleri doğru bir şekilde eşleştirebilmek.",
+    "ozet": "Turist Rehberliği Mesleğe Kabul Sınavı'nda (MKS) başarılı olmak için **arkeolojiye ait temel terimleri** iyi anlamanız çok önemlidir. Bu terimler, antik yerleşimleri, yapıları ve eserleri doğru tanımlamanızı sağlar. Özellikle **Höyük** (üst üste yerleşim katmanlarından oluşan yapay tepe), **Sitadel** (antik kentlerde surlarla çevrili iç kale veya akropol), **Stel** (üzerinde yazıt veya kabartma bulunan dikili taş) ve **Fibula** (giysileri tutturmaya yarayan çengelli iğne) gibi kavramlar sıkça karıştırılır ve sınavda karşınıza çıkabilir. Bu terimlerin anlamlarını ve ayırt edici özelliklerini bilirseniz, eşleştirme ve tanımlama sorularını kolayca çözebilirsiniz. Unutmayın, alttaki tabakanın daha eski olduğunu belirten **stratigrafi** ilkesi de arkeolojinin temelidir.",
     "kaynak": {
       "examId": "cikmis-2026-mart",
       "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
@@ -1712,110 +1990,110 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-015-t1",
+        "stem": "Aşağıdakilerden hangisi Frig ve Lidya uygarlıklarında yaygın olarak görülen, mezarın üzerine yığılan toprak tepe anlamındaki yapı tipidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Sitadel",
+            "explanation": "Sitadel, antik kentlerde en yüksek noktada yer alan, surlarla çevrili iç kale veya akropol anlamına gelir, mezar yapısıyla ilgili değildir."
+          },
+          {
+            "id": "B",
+            "text": "Nekropol",
+            "explanation": "Nekropol, antik mezarlık alanı anlamına gelir ancak tek bir mezarın üzerine yığılan toprak tepeyi değil, genel mezarlık bölgesini ifade eder."
+          },
+          {
+            "id": "C",
+            "text": "Tümülüs",
+            "explanation": "Tümülüs, ders notunda belirtildiği gibi, mezarın üzerine yığılan toprak tepe anlamına gelir ve özellikle Frig ve Lidya uygarlıklarıyla ilişkilendirilir. Bu nedenle doğru cevaptır."
+          },
+          {
+            "id": "D",
+            "text": "Höyük",
+            "explanation": "Höyük, aynı yerde üst üste kurulan yerleşimlerin oluşturduğu yapay tepeyi ifade eder, mezar yapısı değildir."
+          },
+          {
+            "id": "E",
+            "text": "Stel",
+            "explanation": "Stel, üzerinde yazıt veya kabartma bulunan, anıt veya mezar taşı olarak kullanılan dikili taştır, toprak tepe şeklinde bir mezar yapısı değildir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Öğrenciler Tümülüs ile Höyük veya Nekropol kavramlarını karıştırabilirler."
+      },
+      {
+        "id": "aile-arkeoloji-mitoloji-015-t2",
         "stem": "Aşağıdaki arkeolojik terimlerden hangisinin tanımı YANLIŞ verilmiştir?",
         "choices": [
           {
             "id": "A",
-            "text": "Sitadel: Antik kentlerde genellikle en yüksek noktada yer alan, surlarla çevrili iç kale veya akropol.",
-            "explanation": "Bu tanım 'Sitadel' terimi için doğru ve ders notunda belirtilmiştir."
+            "text": "Höyük: Aynı yerde üst üste kurulan yerleşimlerin oluşturduğu yapay tepe.",
+            "explanation": "Höyük tanımı ders notunda doğru bir şekilde verilmiştir."
           },
           {
             "id": "B",
-            "text": "Stel: Üzerinde yazıt veya kabartma bulunan, anıt veya mezar taşı olarak kullanılan dikili taş.",
-            "explanation": "Bu tanım 'Stel' terimi için doğru ve ders notunda belirtilmiştir."
+            "text": "In situ: Eserin bulunduğu özgün yerde olması.",
+            "explanation": "In situ tanımı ders notunda doğru bir şekilde verilmiştir."
           },
           {
             "id": "C",
-            "text": "Höyük: Mezarın üzerine yığılan toprak tepe, özellikle Frig ve Lidya uygarlıklarıyla bilinir.",
-            "explanation": "Bu tanım 'Tümülüs' terimine aittir. Höyük, aynı yerde üst üste kurulan yerleşimlerin oluşturduğu yapay tepedir. Bu şıkta yanlış tanım verilmiştir."
+            "text": "Sondaj: Alanı tanımak için açılan küçük deneme kazısı.",
+            "explanation": "Sondaj tanımı ders notunda doğru bir şekilde verilmiştir."
           },
           {
             "id": "D",
-            "text": "Fibula: Antik dönemlerde giysileri tutturmak için kullanılan, modern broşlara benzeyen bir tür metal iğne.",
-            "explanation": "Bu tanım 'Fibula' terimi için doğru ve ders notunda belirtilmiştir."
+            "text": "Ekofakt: İnsan eliyle yapılmış nesne.",
+            "explanation": "Ekofakt, ders notunda belirtildiği gibi 'insan yapımı olmayan doğal kalıntı' anlamına gelir. 'İnsan eliyle yapılmış nesne' tanımı ise 'Buluntu (artefakt)' için geçerlidir. Bu tanım yanlıştır."
           },
           {
             "id": "E",
-            "text": "Nekropol: Antik mezarlık alanı.",
-            "explanation": "Bu tanım 'Nekropol' terimi için doğru ve ders notunda belirtilmiştir."
-          }
-        ],
-        "correct": "C",
-        "trick": "Höyük ve tümülüs terimlerinin tanımlarının karıştırılması, bu sorudaki temel tuzaktır."
-      },
-      {
-        "id": "aile-arkeoloji-mitoloji-015-t2",
-        "stem": "Aşağıdaki arkeolojik terimlerden hangisi, tanımıyla birlikte doğru eşleştirilmiştir?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Fibula – Üzerinde yazıt veya kabartma bulunan, anıt veya mezar taşı olarak kullanılan dikili taş.",
-            "explanation": "Bu tanım Fibula'ya değil, 'Stel'e aittir."
-          },
-          {
-            "id": "B",
-            "text": "Höyük – Antik kentlerde genellikle en yüksek noktada yer alan, surlarla çevrili iç kale veya akropol.",
-            "explanation": "Bu tanım Höyük'e değil, 'Sitadel'e aittir."
-          },
-          {
-            "id": "C",
-            "text": "Stel – Aynı yerde üst üste kurulan yerleşimlerin oluşturduğu yapay tepe.",
-            "explanation": "Bu tanım Stel'e değil, 'Höyük'e aittir."
-          },
-          {
-            "id": "D",
-            "text": "Amphora – İki kulplu, sivri dipli taşıma kabı.",
-            "explanation": "Bu tanım Amphora için doğru ve ders notunda belirtilmiştir."
-          },
-          {
-            "id": "E",
-            "text": "Sitadel – Mezarın üzerine yığılan toprak tepe.",
-            "explanation": "Bu tanım Sitadel'e değil, 'Tümülüs'e aittir."
+            "text": "Stratigrafi: Alttaki tabakanın daha eski olduğu ilkesi.",
+            "explanation": "Stratigrafi tanımı ders notunda doğru bir şekilde verilmiştir."
           }
         ],
         "correct": "D",
-        "trick": "Yaygın olarak karıştırılan terimlerin tanımlarını bilmek yerine, sadece popüler olanları ezberlemek yanıltıcı olabilir."
+        "trick": "Ekofakt ve Artefakt kavramları arasındaki fark gözden kaçırılabilir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-015-t3",
-        "stem": "Arkeolojide kullanılan terimler ve tanımları göz önüne alındığında, aşağıdaki eşleştirmelerden hangisi doğru bir sıralamayla verilmiştir?",
+        "stem": "Verilen arkeolojik terimleri, ilgili tanımlarıyla doğru bir şekilde eşleştiriniz:\n\nI. Nekropol\nII. Sitadel\nIII. Ostrakon\nIV. Amphora\n\na. Antik mezarlık alanı\nb. Antik kentlerde surlarla çevrili iç kale\nc. Üzerine yazı yazılan çömlek parçası\nd. İki kulplu, sivri dipli taşıma kabı",
         "choices": [
           {
             "id": "A",
-            "text": "I-a, II-b, III-c, IV-d",
-            "explanation": "Bu sıralama yanlıştır. Örneğin, I (Yönetim birimi) 'a' (Höyük) ile değil, 'b' (Sitadel) ile eşleşmelidir."
+            "text": "I-b, II-a, III-d, IV-c",
+            "explanation": "Bu eşleştirmede Nekropol ve Sitadel'in tanımları ile Ostrakon ve Amphora'nın tanımları karıştırılmıştır."
           },
           {
             "id": "B",
-            "text": "I-c, II-a, III-d, IV-b",
-            "explanation": "Bu sıralama yanlıştır. Örneğin, I (Yönetim birimi) 'c' (Fibula) ile değil, 'b' (Sitadel) ile eşleşmelidir."
+            "text": "I-c, II-d, III-a, IV-b",
+            "explanation": "Bu eşleştirmede tüm terimlerin tanımları yanlış yerleştirilmiştir."
           },
           {
             "id": "C",
-            "text": "I-d, II-c, III-b, IV-a",
-            "explanation": "Bu sıralama yanlıştır. Örneğin, I (Yönetim birimi) 'd' (Stel) ile değil, 'b' (Sitadel) ile eşleşmelidir."
+            "text": "I-a, II-c, III-b, IV-d",
+            "explanation": "Bu eşleştirmede Sitadel ve Ostrakon'un tanımları yanlış yerleştirilmiştir."
           },
           {
             "id": "D",
-            "text": "I-b, II-a, III-d, IV-c",
-            "explanation": "Bu sıralama yanlıştır. Örneğin, II (Dikili taş) 'a' (Höyük) ile değil, 'd' (Stel) ile eşleşmelidir."
+            "text": "I-d, II-b, III-a, IV-c",
+            "explanation": "Bu eşleştirmede Nekropol ve Amphora'nın tanımları yanlış yerleştirilmiştir."
           },
           {
             "id": "E",
-            "text": "I-b, II-d, III-a, IV-c",
-            "explanation": "1: Sitadel, 2: Stel, 3: Höyük, 4: Fibula. Verilen sıralama doğru eşleştirmeyi göstermektedir."
+            "text": "I-a, II-b, III-c, IV-d",
+            "explanation": "Nekropol (a. Antik mezarlık alanı), Sitadel (b. Antik kentlerde surlarla çevrili iç kale), Ostrakon (c. Üzerine yazı yazılan çömlek parçası) ve Amphora (d. İki kulplu, sivri dipli taşıma kabı) eşleştirmeleri ders notuna göre tamamen doğrudur."
           }
         ],
         "correct": "E",
-        "trick": "Tanımların numaraları ve terimlerin harfleri arasındaki karışık eşleştirmeler, dikkatsiz okuyucuyu yanıltabilir. Her bir tanımın doğru terimini belirleyip ardından doğru sıralamayı bulmak gerekir."
+        "trick": "Çok sayıda terimin bir arada verilmesi ve eşleştirme formatı, öğrencilerin dikkatini dağıtabilir ve yanlış eşleştirmelere yol açabilir."
       }
     ]
   },
   {
     "id": "aile-arkeoloji-mitoloji-016",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "Bu soru, Antik Anadolu uygarlıklarının mitolojik figürleri ve tanrıçaları hakkındaki spesifik bilgiyi ölçmektedir.",
-    "ozet": "Antik Anadolu, zengin bir mitolojik mirasa ev sahipliği yapmıştır. Özellikle Frigler'in **Kibele**'si gibi Ana Tanrıçalar ile Hititler'in fırtına tanrısı **Teşup** ve Urartular'ın baş tanrısı **Haldi** gibi figürler öne çıkar. Mitolojideki tanrı ve tanrıçaların belirli uygarlıklarla eşleştirilmesi, onların kültürel yapılarını anlamak için kritik öneme sahiptir. Ayrıca, Sümer kökenli olup Geç Hitit döneminde önemli bir yere sahip olan **Kubaba** gibi tanrıçalar da bu coğrafyanın kültürel etkileşimini gösterir. Bu figürler, sınavda sıklıkla hangi uygarlıkla ilişkilendirildikleri veya hangi rolleri üstlendikleri bağlamında karşınıza çıkabilir.",
+    "cekirdek": "Bu soru, Anadolu'daki antik tanrıçaların ve özellikle Geç Hitit dönemindeki Sümer kökenli tanrıçaların kimliklerini ve özelliklerini tanıma bilgisini ölçmektedir.",
+    "ozet": "Anadolu'da birçok farklı uygarlık yaşamış ve her birinin kendine özgü inanç sistemleri olmuştur. Özellikle Geç Hitit döneminde, **Sümer** kökenli tanrıçaların kültleri önem kazanmıştır. Bu tanrıçalar genellikle **bereket** ve ana tanrıça figürleriyle ilişkilendirilir. Örneğin, Friglerin Ana Tanrıçası **Kibele** ile benzerlikler gösteren bir tanrıça, \"Karkamış Kraliçesi\" unvanıyla anılmıştır. Bu tür tanrıçaları, özellikle kimlikleri ve ilişkili oldukları şehirler veya uygarlıklarla eşleştirerek bilmek, MKS'de sıkça sorulan bir konudur. Mitolojik figürlerin kökenleri ve bölgesel adaptasyonları, sınavda başarılı olmak için kritik öneme sahiptir.",
     "kaynak": {
       "examId": "cikmis-2026-mart",
       "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
@@ -1856,110 +2134,110 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-016-t1",
-        "stem": "Antik Anadolu uygarlıklarının mitolojilerinde yer alan tanrılar ve tanrıçalarla ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+        "stem": "Anadolu mitolojisinde, Friglerin Ana Tanrıçası Kibele kültüyle benzerlikler gösteren ve bereket tanrıçası olarak kabul edilen, Karkamış Kraliçesi unvanıyla bilinen Geç Hitit tanrıçası aşağıdakilerden hangisidir?",
         "choices": [
           {
             "id": "A",
-            "text": "Hititler - Teişeba",
-            "explanation": "Teişeba, Hurri mitolojisinin baş tanrısı olup, Urartu panteonunda da yer alır. Hitit fırtına tanrısı Teşup'tur. Bu eşleştirme yanlıştır."
+            "text": "Kubaba",
+            "explanation": "Kubaba, Sümer kökenli ve Geç Hitit tanrıçasıdır. Karkamış Kraliçesi olarak bilinir ve Anadolu'da Kibele kültüyle benzerlik gösteren bir bereket tanrıçasıdır. Bu tanım ders notuyla birebir uyuşmaktadır."
           },
           {
             "id": "B",
-            "text": "Hititler - Teşup",
-            "explanation": "Hitit mitolojisinde fırtına tanrısı Teşup'tur. Bu eşleştirme doğrudur."
+            "text": "Hepat",
+            "explanation": "Hepat, genellikle Hitit Güneş Tanrıçası olarak bilinen bir figürdür, Karkamış Kraliçesi unvanıyla ve Sümer kökenli olarak anılmaz."
           },
           {
             "id": "C",
-            "text": "Frigler - Kibele",
-            "explanation": "Frigler'in Ana Tanrıçası Kibele'dir. Bu eşleştirme doğrudur."
+            "text": "Teişeba",
+            "explanation": "Teişeba, Urartu mitolojisinin fırtına tanrısıdır, Geç Hitit tanrıçası veya Karkamış Kraliçesi değildir."
           },
           {
             "id": "D",
-            "text": "Urartular - Haldi",
-            "explanation": "Urartu Krallığı'nın baş tanrısı Haldi'dir. Bu eşleştirme doğrudur."
+            "text": "Haldi",
+            "explanation": "Haldi, Urartu Krallığı'nın baş tanrısıdır, Sümer kökenli bir Geç Hitit tanrıçası değildir."
           },
           {
             "id": "E",
-            "text": "Geç Hititler - Kubaba",
-            "explanation": "Geç Hitit döneminde Sümer kökenli tanrıça Kubaba kültü önemliydi. Bu eşleştirme doğrudur."
+            "text": "Şivini",
+            "explanation": "Şivini, Urartu panteonunda yer alan bir güneş tanrısıdır, Karkamış Kraliçesi unvanıyla bilinen Sümer kökenli bir tanrıça değildir."
           }
         ],
         "correct": "A",
-        "trick": "Hitit ve Hurri fırtına tanrılarının isim benzerliği, adayların karıştırmasına neden olabilir."
+        "trick": "Şıklarda yer alan diğer tanrı isimlerinin hangi uygarlık veya mitolojiye ait olduğunu karıştırmak, adayın doğru cevabı bulmasını zorlaştırabilir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-016-t2",
-        "stem": "Aşağıdakilerden hangisi, Frigler döneminde ortaya çıkan ve günümüzdeki çengelli iğnenin atası sayılan takı elemanıdır?",
+        "stem": "Aşağıdaki tanrı ve tanrıça eşleştirmelerinden hangisi YANLIŞTIR?",
         "choices": [
           {
             "id": "A",
-            "text": "Amphora",
-            "explanation": "Amphora, iki kulplu, sivri dipli taşıma kabıdır ve takı elemanı değildir."
+            "text": "Hitit: Teşup (Fırtına Tanrısı)",
+            "explanation": "Hititlerin baş tanrısı Fırtına Tanrısı Teşup'tur. Bu bilgi ders notunda doğrudur."
           },
           {
             "id": "B",
-            "text": "Fibula",
-            "explanation": "Frigler tarafından icat edilen ve günümüzdeki çengelli iğnenin atası sayılan takı elemanı fibula'dır. Bu bilgi ders notunda doğrudan verilmiştir."
+            "text": "Urartu: Teişeba (Fırtına Tanrısı) / Hitit: Teişeba",
+            "explanation": "Ders notuna göre Teişeba Urartu'nun fırtına tanrısıdır. Ancak not, 'Teişeba Urartu'nundur, Hitit'in değil. 'Hitit — Teişeba' eşleştirmesi YANLIŞTIR' diye açıkça belirtmektedir. Bu şık, Hitit ile Teişeba'yı da eşleştirerek yanlış bir ifade sunmaktadır. Doğru cevap budur."
           },
           {
             "id": "C",
-            "text": "Stel",
-            "explanation": "Stel, üzerinde yazıt veya kabartma bulunan, anıt veya mezar taşı olarak kullanılan dikili taştır ve takı elemanı değildir."
+            "text": "Urartu: Haldi (Baş tanrı)",
+            "explanation": "Urartu Krallığı'nın baş tanrısı Haldi'dir. Bu bilgi ders notunda doğrudur."
           },
           {
             "id": "D",
-            "text": "Ostrakon",
-            "explanation": "Ostrakon, üzerine yazı yazılan çömlek parçasıdır ve takı elemanı değildir."
+            "text": "Frig: Kibele (Ana Tanrıça)",
+            "explanation": "Friglerin Ana Tanrıçası Kibele'dir. Bu bilgi ders notunda doğrudur."
           },
           {
             "id": "E",
-            "text": "Terra Sigillata",
-            "explanation": "Terra Sigillata, Roma dönemi kırmızı astarlı kaliteli seramiktir ve takı elemanı değildir."
+            "text": "Geç Hitit: Kubaba (Bereket Tanrıçası)",
+            "explanation": "Kubaba, Geç Hitit tanrıçası ve bereketle ilişkilidir. Bu bilgi ders notunda doğrudur."
           }
         ],
         "correct": "B",
-        "trick": "Şıklarda yer alan diğer terimlerin arkeolojik nesneler olması, fibula'nın da bir nesne olması nedeniyle çeldirici olabilir."
+        "trick": "Adayın, benzer isimli tanrıların farklı uygarlıklara ait olabileceği ve ders notundaki özel uyarıları dikkatli okuması gerektiği konusunda tuzağa düşürülebilir."
       },
       {
         "id": "aile-arkeoloji-mitoloji-016-t3",
-        "stem": "Antik Anadolu'daki bazı tanrı ve tanrıçalar, farklı uygarlıklar ve rolleriyle eşleştirilmiştir. Bu eşleştirmeleri kronolojik olarak en eskiden en yeniye doğru sıralayınız:\nI. Hitit Fırtına Tanrısı Teşup\nII. Urartu Baş Tanrısı Haldi\nIII. Frig Ana Tanrıçası Kibele",
+        "stem": "Aşağıdaki ifadelerden hangisi 'Karkamış Kraliçesi' olarak bilinen tanrıça Kubaba ile ilgili doğru bir bilgidir?",
         "choices": [
           {
             "id": "A",
-            "text": "I, II, III",
-            "explanation": "Hititler (MÖ 1700-1200 civarı), Frigler (MÖ 8. yüzyıl civarı) ve Urartular (MÖ 9.-6. yüzyıllar) düşünüldüğünde, doğru sıralama I, III, II'dir."
+            "text": "Urartu Krallığı'nın baş tanrıçasıdır.",
+            "explanation": "Kubaba, Urartu Krallığı'nın baş tanrıçası değil, Geç Hitit tanrıçasıdır. Urartu'nun baş tanrısı Haldi'dir."
           },
           {
             "id": "B",
-            "text": "II, I, III",
-            "explanation": "Hititler (MÖ 1700-1200 civarı) en eskidir. Urartular (MÖ 9.-6. yüzyıllar) ve Frigler (MÖ 8. yüzyıl civarı) daha sonra gelir. Bu sıralama yanlıştır."
+            "text": "Hitit mitolojisinde fırtına tanrısı Teşup'un eşidir.",
+            "explanation": "Kubaba, Teşup'un eşi değildir. Teşup Hitit fırtına tanrısıdır ve Kubaba ile farklı bir bağlamdadır."
           },
           {
             "id": "C",
-            "text": "I, III, II",
-            "explanation": "Hititler (MÖ 1700-1200 civarı) Anadolu'nun en eski büyük krallıklarından biridir. Frigler (MÖ 8. yüzyıl civarı) Hitit sonrası dönemde öne çıkmıştır. Urartular (MÖ 9.-6. yüzyıllar) ise Frigler ile çağdaş veya biraz daha geç dönemde hüküm sürmüştür. Bu nedenle kronolojik sıralama I (Hitit), III (Frig), II (Urartu) şeklinde olmalıdır."
+            "text": "Anadolu'da Kibele kültü ile benzerlikler gösteren bir bereket tanrıçasıdır.",
+            "explanation": "Kubaba kültü, Anadolu'da Kibele kültü ile benzerlikler gösterir ve bereket tanrıçası olarak kabul edilir. Bu bilgi ders notunda açıkça belirtilmiştir."
           },
           {
             "id": "D",
-            "text": "III, I, II",
-            "explanation": "Hititler (MÖ 1700-1200 civarı), Frigler (MÖ 8. yüzyıl civarı) ve Urartular (MÖ 9.-6. yüzyıllar) düşünüldüğünde, doğru sıralama I, III, II'dir."
+            "text": "Antik Yunan panteonunda Zeus'un kız kardeşi olarak yer alır.",
+            "explanation": "Kubaba, antik Yunan panteonunda yer alan bir tanrıça değildir. Kendisi Sümer kökenli bir Geç Hitit tanrıçasıdır."
           },
           {
             "id": "E",
-            "text": "II, III, I",
-            "explanation": "Hititler (MÖ 1700-1200 civarı) en eskidir. Urartular (MÖ 9.-6. yüzyıllar) ve Frigler (MÖ 8. yüzyıl civarı) daha sonra gelir. Bu sıralama yanlıştır."
+            "text": "Sadece erkeklerin tapınabildiği bir gizem kültünün merkezindedir.",
+            "explanation": "Kubaba'nın sadece erkeklerin tapınabildiği bir gizem kültünün merkezinde olduğuna dair ders notunda bir bilgi bulunmamaktadır. Aksine, bereket tanrıçası olarak geniş bir halk kitlesi tarafından tapınılması daha olasıdır."
           }
         ],
         "correct": "C",
-        "trick": "Uygarlıkların kesin kronolojik sıralamasını bilmeyen adaylar için çeldiricidir. Özellikle Frig ve Urartu'nun dönemleri birbirine yakın olduğundan karıştırılabilir."
+        "trick": "Adayın, Kubaba'nın kökeni ve hangi kültle ilişkilendirildiği konusunda net bilgiye sahip olmaması durumunda, diğer uygarlıklara ait tanrıçalarla karıştırması sağlanabilir."
       }
     ]
   },
   {
     "id": "aile-arkeoloji-mitoloji-017",
     "topicId": "arkeoloji-mitoloji",
-    "cekirdek": "Antik Çağ'da Apollon'a adanmış kehanet merkezlerinin bulunduğu antik kentleri tanımak.",
-    "ozet": "Antik dünyada tanrılarla insanlar arasında iletişim kurulan özel yerler olan **kehanet merkezleri** büyük önem taşırdı. Özellikle **Apollon** kehanet tanrısı olarak bilinir ve birçok merkez ona adanmıştır. Bu merkezler aynı zamanda antik dünyanın ilk 'turizm' hareketlerine de ev sahipliği yapmıştır. Bir rehber olarak, bu kehanet merkezlerinin hangi antik kentlerde bulunduğunu bilmek, ziyaretçilere doğru ve ilgi çekici bilgiler sunmanın anahtarıdır. Özellikle **Didyma** ve **Klaros** gibi Anadolu'daki önemli Apollon kehanet merkezleri, MKS'de sıkça sorulan noktalardır.",
+    "cekirdek": "Antik dönemde Apollon'a adanmış kehanet merkezlerinin bulunduğu kentleri doğru bir şekilde eşleştirebilme bilgisidir.",
+    "ozet": "Mitolojide **kehanet merkezleri**, tanrıların geleceğe dair mesajlarını insanlara ilettiği kutsal yerlerdir. Bu merkezler, antik dünyada önemli birer dini ve kültürel cazibe merkezi olmuş, uzak diyarlardan gelen ziyaretçileri ağırlayarak **ilk turizm hareketlerini** başlatmıştır. Özellikle **Apollon** kehanet tanrısı olarak öne çıkar. Anadolu'da Apollon'a adanmış önemli kehanet merkezleri **Didyma** ve **Klaros**'tur. Bu merkezlerin doğru bir şekilde tanınması ve diğer antik kentlerle karıştırılmaması, MKS'de sıkça karşılaşılan bir soru tipidir.",
     "kaynak": {
       "examId": "cikmis-2026-mart",
       "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
@@ -2000,102 +2278,102 @@
     "turevler": [
       {
         "id": "aile-arkeoloji-mitoloji-017-t1",
-        "stem": "Antik Çağ'da Apollon'a adanmış kehanet merkezlerinin bulunduğu iki önemli antik kent aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Bergama - Pessinus",
-            "explanation": "Bergama'da Asklepion (sağlık merkezi) bulunurken, Pessinus Kibele kültü ile ilişkilidir. Her ikisi de Apollon kehanet merkezi değildir."
-          },
-          {
-            "id": "B",
-            "text": "Efes - Hierapolis",
-            "explanation": "Efes'te Efes Artemis Tapınağı ve Yedi Uyurlar gibi önemli yapılar bulunurken, Hierapolis Plutonium (Cehennem Kapısı) ile tanınır. İkisi de Apollon kehanet merkezi değildir."
-          },
-          {
-            "id": "C",
-            "text": "Gordion - Kültepe",
-            "explanation": "Gordion Frig başkenti ve Gordion Düğümü efsanesiyle, Kültepe ise Asur Ticaret Kolonileri Çağı'nın önemli ticaret merkezi Karum Kaniş ile bilinir. İkisi de Apollon kehanet merkezi değildir."
-          },
-          {
-            "id": "D",
-            "text": "Didyma - Klaros",
-            "explanation": "Didyma ve Klaros, Anadolu'da Apollon'a adanmış en önemli kehanet merkezleridir ve ders notunda açıkça belirtilmiştir."
-          },
-          {
-            "id": "E",
-            "text": "Letoon - Aphrodisias",
-            "explanation": "Letoon Leto kültü ile, Aphrodisias ise Afrodit kültü ile ilişkilidir. İkisi de Apollon kehanet merkezi değildir."
-          }
-        ],
-        "correct": "D",
-        "trick": "Farklı antik kentlerin farklı kültler veya tarihi olaylarla ilişkili olduğunu bilmek, doğru eşleştirmeyi yapmayı zorlaştırabilir."
-      },
-      {
-        "id": "aile-arkeoloji-mitoloji-017-t2",
-        "stem": "Aşağıdakilerden hangisi Antik Çağ'da Apollon'a adanmış bir kehanet merkezi DEĞİLDİR?",
+        "stem": "Aşağıdaki antik kentlerden hangisi, Antik Çağ'da Apollon'a adanmış bir kehanet merkezi olarak bilinmez?",
         "choices": [
           {
             "id": "A",
             "text": "Didyma",
-            "explanation": "Didyma, Apollon'a adanmış önemli bir kehanet merkezidir."
+            "explanation": "Didyma, Antik Çağ'da Apollon'a adanmış önemli bir kehanet merkezidir."
           },
           {
             "id": "B",
             "text": "Klaros",
-            "explanation": "Klaros, Apollon'a adanmış önemli bir kehanet merkezidir."
+            "explanation": "Klaros, İzmir yakınlarında bulunan bir Apollon kehanet merkezidir."
           },
           {
             "id": "C",
             "text": "Delphi",
-            "explanation": "Delphi, Yunanistan'da bulunan en ünlü Apollon kehanet merkezidir ve ders notunda belirtilmiştir."
+            "explanation": "Delphi, Yunanistan'da bulunan en ünlü Apollon kehanet merkezlerinden biridir."
           },
           {
             "id": "D",
-            "text": "Patara",
-            "explanation": "Patara, Likya Birliği'nin başkenti ve önemli bir liman kenti olmasına rağmen, ders notunda bir Apollon kehanet merkezi olarak geçmemektedir. Ancak, Patara'da da bir Apollon kehanet merkezi olduğu bilinir. Bu şık, notta 'DEĞİLDİR' denilmediği için çeldirici olabilir. Ancak, notta doğrudan kehanet merkezi olarak belirtilenler Didyma ve Klaros'tur, Delphi de Yunanistan'daki örnek olarak verilmiştir. Pessinus ise kesinlikle Kibele ile ilişkilendirilmiştir."
+            "text": "Bergama",
+            "explanation": "Bergama (Pergamon), Antik Çağ'da önemli bir Asklepion (sağlık merkezi) ve kültür merkezi olmasına rağmen, Apollon'a adanmış bir kehanet merkezi olarak bilinmez. Zeus Sunağı ve kütüphanesiyle öne çıkar."
           },
           {
             "id": "E",
-            "text": "Pessinus",
-            "explanation": "Pessinus, Frig Ana Tanrıçası Kibele kültü ile ilişkilidir ve bir Apollon kehanet merkezi değildir. Bu bilgi ders notunda yer almaktadır."
+            "text": "Patara",
+            "explanation": "Patara, Likya Birliği'nin başkenti ve önemli bir liman kenti olmasının yanı sıra, Apollon'a adanmış bir kehanet merkezi de barındırırdı."
           }
         ],
-        "correct": "E",
-        "trick": "Sorunun olumsuz kökünü (DEĞİLDİR) gözden kaçırmak veya ders notunda bahsedilmeyen ancak gerçekte kehanet merkezi olan yerler arasında kararsız kalmak tuzağıdır."
+        "correct": "D",
+        "trick": "Önemli antik kentlerin genel fonksiyonlarını bilmek yerine, spesifik olarak kehanet merkezi olma özelliğine odaklanılmalıdır."
       },
       {
-        "id": "aile-arkeoloji-mitoloji-017-t3",
-        "stem": "Aşağıdaki antik kentler ve ilişkili oldukları ana kült veya efsane eşleştirmelerinden hangisi YANLIŞTIR?",
+        "id": "aile-arkeoloji-mitoloji-017-t2",
+        "stem": "Antik Çağ'daki kehanet merkezleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
         "choices": [
           {
             "id": "A",
-            "text": "Hierapolis - Apollon Kehanet Merkezi",
-            "explanation": "Hierapolis, ders notunda Plutonium (Cehennem Kapısı) ile tanınır. Bir Apollon kehanet merkezi değildir. Bu eşleştirme yanlıştır."
+            "text": "Kehanet merkezleri, antik dünyanın ilk turizm hareketlerinin oluşmasında rol oynamıştır.",
+            "explanation": "Ders notunda belirtildiği gibi, insanlar uzak diyarlardan kâhine danışmaya geldiği için kehanet merkezleri antik dünyanın ilk turizm hareketlerini yaratmıştır. Bu ifade doğrudur."
           },
           {
             "id": "B",
-            "text": "Klaros - Apollon Kehanet Merkezi",
-            "explanation": "Klaros, ders notunda da belirtildiği üzere bir Apollon kehanet merkezidir. Eşleştirme doğrudur."
+            "text": "Klaros, İzmir'in Ahmetbeyli ilçesi yakınlarında yer alan bir Apollon kehanet merkezidir.",
+            "explanation": "Ders notunda Klaros'un İzmir'in Ahmetbeyli ilçesi yakınlarında bulunan bir Apollon kehanet merkezi olduğu açıkça belirtilmiştir. Bu ifade doğrudur."
           },
           {
             "id": "C",
-            "text": "Didyma - Apollon Kehanet Merkezi",
-            "explanation": "Didyma, ders notunda da belirtildiği üzere bir Apollon kehanet merkezidir. Eşleştirme doğrudur."
+            "text": "Didyma, Anadolu'daki önemli Apollon kehanet merkezlerinden biridir.",
+            "explanation": "Ders notunda Didyma'nın Apollon kehanet merkezi olduğu açıkça belirtilmiştir. Bu ifade doğrudur."
           },
           {
             "id": "D",
-            "text": "Pessinus - Kibele Kültü",
-            "explanation": "Pessinus, ders notunda da belirtildiği üzere Kibele kültü ile ilişkilidir. Eşleştirme doğrudur."
+            "text": "Delphi, Yunanistan'daki en ünlü kehanet merkezlerinden biridir.",
+            "explanation": "Ders notunda Delphi'nin Yunanistan'daki kehanet merkezlerinden biri olduğu belirtilmiştir. Bu ifade doğrudur."
           },
           {
             "id": "E",
-            "text": "Bergama - Asklepios Sağlık Kültü",
-            "explanation": "Bergama, ders notunda da belirtildiği üzere en ünlü Asklepion merkezine sahiptir. Eşleştirme doğrudur."
+            "text": "Asklepionlar, Apollon kehanet merkezlerinin bir türü olarak kabul edilir ve aynı işlevi görürler.",
+            "explanation": "Asklepionlar sağlık tanrısı Asklepios'a adanmış şifa merkezleridir ve Apollon kehanet merkezlerinden farklı bir işlevi vardır. Bu ifade yanlıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Asklepionların da bir tür dini merkez olması, kehanet merkezleri ile karıştırılmasına yol açabilir. Ancak işlevleri farklıdır."
+      },
+      {
+        "id": "aile-arkeoloji-mitoloji-017-t3",
+        "stem": "Aşağıda verilen antik kentler ve bu kentlerde bulunan önemli yapılar veya işlevler eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Klaros - Kibele Tapınağı",
+            "explanation": "Klaros, Apollon kehanet merkezi olarak bilinir. Kibele kültü Frigya ve Pessinus gibi yerlerle ilişkilidir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Bergama - Asklepion",
+            "explanation": "Ders notunda Bergama'nın en ünlü Asklepion merkezlerinden biri olduğu belirtilmiştir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Hierapolis - Plutonium (Cehennem Kapısı)",
+            "explanation": "Ders notunda Hierapolis'in Plutonium (Cehennem Kapısı) ile tanındığı belirtilmiştir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Gordion - Gordion Düğümü",
+            "explanation": "Ders notunda Gordion'un Gordion Düğümü efsanesiyle ilişkili olduğu belirtilmiştir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Sardes - Bintepeler Tümülüsleri",
+            "explanation": "Ders notunda Lidya Krallığı'nın başkenti Sardes'in 'Bintepeler' tümülüsleri ile bilindiği belirtilmiştir. Bu eşleştirme doğrudur."
           }
         ],
         "correct": "A",
-        "trick": "Farklı antik kentlerin farklı kültler veya efsanelerle ilişkili olduğunu karıştırmak, özellikle 'Apollon Kehanet Merkezi' tanımının diğer kentlere de uygulanabileceği yanılgısına düşmek."
+        "trick": "Farklı tanrı ve kültlerle ilişkili merkezleri karıştırmak, bu soruda düşülebilecek bir tuzaktır. Özellikle birden fazla dini merkez barındıran büyük kentler yanıltıcı olabilir."
       }
     ]
   }
