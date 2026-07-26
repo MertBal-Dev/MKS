@@ -1,33 +1,15 @@
 {
   "sayim": {
-    "tam": 291,
-    "kismi": 8,
-    "yok": 1
+    "tam": 295,
+    "kismi": 5,
+    "yok": 0
   },
   "eksikler": [
     {
-      "konu": "anadolu-medeniyetleri",
-      "karar": "kismi",
-      "eksik": "Aigai antik kenti ve Likya eşleşmesinin yanlış olduğu bilgisi yok.",
-      "stem": "I. Tuşpa - Urartu\nII. Hattuşa - Hitit\nIII. Sardes - Karya\nIV. Gordion - Frig\nV. "
-    },
-    {
-      "konu": "anadolu-medeniyetleri",
-      "karar": "kismi",
-      "eksik": "Sümerler'in yazıyı icat ettiğine dair bilgi notlarda yok.",
-      "stem": "Tarihte yazıyı icat ederek tarih çağlarını başlatan uygarlık aşağıdakilerden han"
-    },
-    {
-      "konu": "arkeoloji-mitoloji",
-      "karar": "kismi",
-      "eksik": "Gordios'un Frig kralı olduğu belirtilmemiş; sadece çiftçi olduğu bilgisi var. Ayrıca 'Kördüğüm' ifadesi birebir geçmiyor.",
-      "stem": "Efsanelere konu olan ve kimsenin çözemediği 'Kördüğüm'ü bir kılıç darbesiyle çöz"
-    },
-    {
       "konu": "genel-turizm",
       "karar": "kismi",
-      "eksik": "Grand Tour'un yoğunlukla gerçekleştirildiği yüzyıllar 17. ve 18. yüzyıllar olarak belirtilmiştir, 19. yüzyıl başlarına dek sürdüğü ifade edilmiştir ancak 'yoğunlukla' ifadesi 18-19. yüzyıl cevabını tam olarak karşılamaz.",
-      "stem": "Avrupalı aristokrat gençlerin eğitimlerini tamamlamak amacıyla çıktıkları \"Grand"
+      "eksik": "Turizm psikolojisinin temel olarak haz alma süreçlerini incelediği doğrudan belirtilmemiştir.",
+      "stem": "Turizm psikolojisi disiplini, temel olarak aşağıdaki konulardan hangisini incele"
     },
     {
       "konu": "genel-turizm",
@@ -38,26 +20,20 @@
     {
       "konu": "genel-turizm",
       "karar": "kismi",
-      "eksik": "Plog'un turist tipolojilerini 'psikometrik' terimiyle değil, 'psychocentric' terimiyle tanımladığı belirtilmiştir.",
+      "eksik": "Plog'un turist tipolojisinde 'psikometrik' terimi yerine 'psikosentrik' terimi kullanılır.",
       "stem": "Turist tipolojilerini kişilik özelliklerine göre \"psikometrik\" ve \"allocentrik\" "
     },
     {
       "konu": "sanat-tarihi",
       "karar": "kismi",
-      "eksik": "Megaron tanımında 'önünde bir giriş holü bulunan' ve 'ortasında ocak yer alan' ifadeleri eksik bırakılmıştır.",
+      "eksik": "Tanımda 'ocaklı' ve 'giriş holü' bilgileri eksik.",
       "stem": "Antik dönem mimarisinde, önünde bir giriş holü bulunan dikdörtgen planlı ve ocak"
     },
     {
       "konu": "sanat-tarihi",
       "karar": "kismi",
-      "eksik": "Alaaeddin Bey Kümbeti'nin Kayseri'de olduğu, Sırçalı Kümbet'in Kayseri'de olduğu bilgisi var ancak Erzincan'da olmadığı bilgisi notlarda açıkça belirtilmemiş.",
+      "eksik": "Alaaeddin Bey Kümbeti'nin yeri belirtilmemiş; Sırçalı Kümbet'in Erzincan'da değil Kayseri'de olduğu bilgisi notlarda açıkça belirtilmemiş, sadece Kayseri'nin kümbet sayısı bakımından en zengin il olduğu ve Döner Kümbet ile Sırçalı Kümbet'in Kayseri'de olduğu ima edilmiş.",
       "stem": "I. Alemşah Kümbeti - Sivrihisar\nII. Döner Kümbet - Kayseri\nIII. Alaaeddin Bey Kü"
-    },
-    {
-      "konu": "turizm-cografyasi",
-      "karar": "yok",
-      "eksik": "Anadolu'nun jeolojik oluşum sürecine dair ipuçları veren deniz canlısı fosillerinin yoğun olarak bulunduğu bölge/ilin Antalya olduğu bilgisi notlarda yer almamaktadır.",
-      "stem": "Anadolu'nun jeolojik oluşum sürecine dair ipuçları veren deniz canlısı fosilleri"
     }
   ]
 }
