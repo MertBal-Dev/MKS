@@ -1,4 +1,6 @@
-import { useCallback, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
+import { Giris } from '@/components/Giris';
+import { oturumAl, oturumIzle, supabaseVar } from '@/lib/supabase';
 import { AnimatePresence, motion } from 'framer-motion';
 import { BrowserRouter, Route, Routes, useLocation } from 'react-router-dom';
 import { AppStateProvider } from '@/hooks/useAppState';
@@ -67,6 +69,45 @@ function AnimatedRoutes() {
   );
 }
 
+/**
+ * Oturum kapısı.
+ *
+ * Supabase yapılandırılmamışsa ya da kullanıcı "girmeden devam et" derse
+ * uygulama eskisi gibi yalnızca localStorage ile çalışır — giriş zorunlu
+ * değil, ilerlemeyi cihazlar arasında taşımak isteyene sunulan bir seçenek.
+ */
+function OturumKapisi({ children }: { children: React.ReactNode }) {
+  const [durum, setDurum] = useState<'yukleniyor' | 'acik' | 'kapali'>(
+    supabaseVar ? 'yukleniyor' : 'acik',
+  );
+
+  useEffect(() => {
+    if (!supabaseVar) return;
+    if (sessionStorage.getItem('mks:girisAtlandi')) {
+      setDurum('acik');
+      return;
+    }
+    let iptal = false;
+    void oturumAl().then((s) => {
+      if (!iptal) setDurum(s ? 'acik' : 'kapali');
+    });
+    return oturumIzle((s) => setDurum(s ? 'acik' : 'kapali'));
+  }, []);
+
+  if (durum === 'yukleniyor') return <div className="min-h-dvh bg-ground" />;
+  if (durum === 'kapali') {
+    return (
+      <Giris
+        onBasarili={() => {
+          sessionStorage.setItem('mks:girisAtlandi', '1');
+          setDurum('acik');
+        }}
+      />
+    );
+  }
+  return <>{children}</>;
+}
+
 export default function App() {
   // İlk render'da okunur; aksi halde perde bir kare boyunca görünüp kaybolur.
   const [showIntro, setShowIntro] = useState(
@@ -80,8 +121,9 @@ export default function App() {
 
   return (
     <ErrorBoundary>
-      <AppStateProvider>
-        <AiHocaProvider>
+      <OturumKapisi>
+        <AppStateProvider>
+          <AiHocaProvider>
           <BrowserRouter>
             {showIntro && <DuyguIntro onComplete={handleIntroComplete} />}
             <AppShell>
@@ -89,9 +131,10 @@ export default function App() {
             </AppShell>
             <AiHocaPanel />
             <BackupReminder />
-          </BrowserRouter>
-        </AiHocaProvider>
-      </AppStateProvider>
+            </BrowserRouter>
+          </AiHocaProvider>
+        </AppStateProvider>
+      </OturumKapisi>
     </ErrorBoundary>
   );
 }
