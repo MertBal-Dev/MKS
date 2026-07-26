@@ -71,6 +71,15 @@ export default defineConfig(({ mode }) => {
           navigateFallback: '/index.html',
           navigateFallbackDenylist: [/^\/api\//],
           maximumFileSizeToCacheInBytes: 6 * 1024 * 1024,
+          /**
+           * Yeni sürüm beklemeden devreye girsin.
+           * Bunlar olmadan yeni service worker "waiting" durumunda kalıyor,
+           * açık sekme eski dosyalarla çalışmaya devam ediyor ve kullanıcı
+           * Ctrl+Shift+R yapmadan güncellemeyi göremiyordu.
+           */
+          skipWaiting: true,
+          clientsClaim: true,
+          cleanupOutdatedCaches: true,
         },
       }),
       aiHocaDev(env),
