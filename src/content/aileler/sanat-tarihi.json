@@ -1,0 +1,2678 @@
+[
+  {
+    "id": "aile-sanat-tarihi-001",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Antik Yunan mimarisinde, sütun başlığı yerine üst yapıyı taşıyan kadın heykellerine verilen özel adı bilmek.",
+    "ozet": "Antik Yunan mimarisi, estetik ve işlevselliği bir arada sunan yapılarıyla öne çıkar. Bu mimaride, sütunlar önemli bir yer tutar ve farklı stilleriyle (Dor, İyon, Korint) yapıların karakterini belirler. Ancak bazen geleneksel sütun başlıkları yerine farklı figürler kullanılır. Özellikle **Karyatid** adı verilen kadın heykelleri, sütun görevi görerek üst yapıyı taşır. Bu heykeller, tapınakların veya anıtsal yapıların portikolarında estetik bir unsur olarak kullanılmıştır. **Karyatid** terimini bilmek, bu tür özel mimari elemanları tanımlamanızı sağlar.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-013",
+        "stem": "Antik Yunan mimarisinde, sütun başlığı yerine kullanılarak üst yapıyı (arşitravı) taşıyan kadın heykellerine ne ad verilir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Atlant",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Korint",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Karyatid",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Dor",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-001-t1",
+        "stem": "Aşağıdakilerden hangisi Antik Yunan mimarisinde sütun başlığı yerine üst yapıyı taşıyan ve insan figürü kullanılarak oluşturulan mimari elemanlardan biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hermes",
+            "explanation": "Hermes bir tanrı ismidir ve doğrudan bir mimari elemanı ifade etmez. 'Hermes ve Bebek Dionysos' bir heykel ismidir, mimari bir eleman değildir."
+          },
+          {
+            "id": "B",
+            "text": "Karyatid",
+            "explanation": "Karyatid, Antik Yunan mimarisinde sütun başlığı yerine üst yapıyı taşıyan kadın heykelleridir. Yani insan figürü kullanılmıştır."
+          },
+          {
+            "id": "C",
+            "text": "Telamon (Atlant)",
+            "explanation": "Telamon veya Atlant, Antik Yunan ve Roma mimarisinde üst yapıyı taşıyan erkek heykelleridir. Yani insan figürü kullanılmıştır."
+          },
+          {
+            "id": "D",
+            "text": "Gigantomachy",
+            "explanation": "Gigantomachy, Yunan mitolojisindeki devler savaşı anlamına gelir ve mimaride genellikle kabartma veya heykel gruplarının konusu olarak kullanılır, başlı başına bir mimari eleman değildir."
+          },
+          {
+            "id": "E",
+            "text": "Kore",
+            "explanation": "Kore, Antik Yunan'da genç kadın heykellerine verilen genel bir isimdir ve bazen mimari bağlamda sütun benzeri işlev görebilir, ancak Karyatid daha spesifik bir terimdir. Yine de insan figürüdür."
+          }
+        ],
+        "correct": "A",
+        "trick": "Şıklarda yer alan terimlerin mimari eleman olup olmadığını karıştırmak, doğru cevaba ulaşmayı zorlaştırabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-001-t2",
+        "stem": "Antik Yunan mimarisinde, sütun başlığı yerine üst yapıyı taşıyan kadın heykellerine verilen özel isim aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Volüt",
+            "explanation": "Volüt, İyon düzeni sütun başlıklarında görülen helezonik kıvrımlardır, bir heykel değildir."
+          },
+          {
+            "id": "B",
+            "text": "Karyatid",
+            "explanation": "Karyatid, ders notunda belirtildiği üzere, Antik Yunan mimarisinde sütun başlığı yerine üst yapıyı taşıyan kadın heykellerine verilen isimdir."
+          },
+          {
+            "id": "C",
+            "text": "Akantus",
+            "explanation": "Akantus, Korint düzeni sütun başlıklarında görülen yaprak bezemeleridir, bir heykel değildir."
+          },
+          {
+            "id": "D",
+            "text": "Triglif",
+            "explanation": "Triglif, Dor düzeni frizinde yer alan üç dikey oluklu taş bloktur, bir heykel değildir."
+          },
+          {
+            "id": "E",
+            "text": "Metop",
+            "explanation": "Metop, Dor düzeni frizinde triglifler arasında yer alan kabartmalı veya düz panellerdir, bir heykel değildir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Sütun düzenlerinin farklı elemanlarını karıştırarak doğru cevaba ulaşmayı zorlaştırmak."
+      },
+      {
+        "id": "aile-sanat-tarihi-001-t3",
+        "stem": "Aşağıdaki mimari terimlerden hangisi, ait olduğu mimari eleman ile doğru eşleştirilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Naos – Tapınağın önündeki giriş bölümü",
+            "explanation": "Naos, tanrı heykelinin bulunduğu ana odadır. Tapınağın önündeki giriş bölümü Pronaos'tur."
+          },
+          {
+            "id": "B",
+            "text": "Opisthodomos – Tapınağı çevreleyen sütun sırası",
+            "explanation": "Opisthodomos, tapınağın arka bölümüdür (hazine). Tapınağı çevreleyen sütun sırası Peristasis'tir."
+          },
+          {
+            "id": "C",
+            "text": "Karyatid – Sütun başlığı yerine üst yapıyı taşıyan kadın heykelleri",
+            "explanation": "Ders notunda açıkça belirtildiği gibi, Karyatidler Antik Yunan mimarisinde sütun başlığı yerine üst yapıyı taşıyan kadın heykelleridir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Alınlık – Sütunların oturduğu en üst basamak",
+            "explanation": "Alınlık, tapınakların üçgen cephesidir. Sütunların oturduğu en üst basamak Krepis / Stylobat'tır."
+          },
+          {
+            "id": "E",
+            "text": "Peristasis – Tanrı heykelinin bulunduğu ana oda",
+            "explanation": "Peristasis, tapınağı çevreleyen sütun sırasıdır. Tanrı heykelinin bulunduğu ana oda Naos'tur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Farklı mimari terimlerin tanımlarını birbirine karıştırarak doğru eşleştirmeyi bulmayı zorlaştırmak."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-002",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Antik Dünyanın Yedi Harikası'nın isimleri ve bulundukları yerler hakkında bilgi sahibi olmak.",
+    "ozet": "Antik Dünyanın Yedi Harikası, antik çağın en etkileyici mimari ve sanatsal başarılarını temsil eder. Bu harikalar arasında, günümüze ulaşan tek yapı olan **Keops Piramidi** ve Anadolu'da yer alan **Efes Artemis Tapınağı** ile **Halikarnassos Mausoleum'u** öne çıkar. Her bir harikanın nerede bulunduğunu ve varsa ayırt edici özelliğini bilmek, MKS'de karşınıza çıkabilecek soruları çözmenizi sağlayacaktır. Özellikle Anadolu'daki iki harikaya ve **Olympia Zeus Heykeli** gibi spesifik bilgilere dikkat edin.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-075",
+        "stem": "Antik Dünyanın Yedi Harikası'ndan biri kabul edilen ve ünlü heykeltıraş Phidias tarafından yapılan Zeus Heykeli, antik dönemde hangi şehirde bulunmaktaydı?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Atina",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Rodos",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Halikarnas",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Olympia",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-002-t1",
+        "stem": "Antik Dünyanın Yedi Harikası'ndan ikisi Anadolu'da yer almaktadır. Aşağıdaki seçeneklerden hangisinde bu harikalar doğru bir şekilde verilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Keops Piramidi ve Babil Asma Bahçeleri",
+            "explanation": "Keops Piramidi Mısır'da, Babil Asma Bahçeleri ise Mezopotamya'da (günümüz Irak) yer almaktadır. Bu harikalar Anadolu'da değildir."
+          },
+          {
+            "id": "B",
+            "text": "Rodos Heykeli ve İskenderiye Feneri",
+            "explanation": "Rodos Heykeli Rodos Adası'nda, İskenderiye Feneri ise Mısır'da yer almaktadır. Bu harikalar Anadolu'da değildir."
+          },
+          {
+            "id": "C",
+            "text": "Olimpia Zeus Heykeli ve Keops Piramidi",
+            "explanation": "Olimpia Zeus Heykeli Yunanistan'da, Keops Piramidi ise Mısır'da yer almaktadır. Bu harikalar Anadolu'da değildir."
+          },
+          {
+            "id": "D",
+            "text": "Efes Artemis Tapınağı ve Halikarnassos Mausoleum'u",
+            "explanation": "Efes Artemis Tapınağı günümüz İzmir yakınlarında, Halikarnassos Mausoleum'u ise günümüz Bodrum'da yer almaktadır. Her ikisi de Anadolu topraklarındadır ve bu bilgi ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "E",
+            "text": "Babil Asma Bahçeleri ve Rodos Heykeli",
+            "explanation": "Babil Asma Bahçeleri Mezopotamya'da, Rodos Heykeli ise Rodos Adası'nda yer almaktadır. Bu harikalar Anadolu'da değildir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Harikaların yerlerini birbirine karıştırmak veya Anadolu'da olmayan harikaları seçmek tuzak olabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-002-t2",
+        "stem": "Aşağıdakilerden hangisi Antik Dünyanın Yedi Harikası arasında yer almamaktadır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Efes Artemis Tapınağı",
+            "explanation": "Efes Artemis Tapınağı, Antik Dünyanın Yedi Harikası'ndan biridir."
+          },
+          {
+            "id": "B",
+            "text": "Halikarnassos Mausoleum'u",
+            "explanation": "Halikarnassos Mausoleum'u, Antik Dünyanın Yedi Harikası'ndan biridir."
+          },
+          {
+            "id": "C",
+            "text": "Olimpia Zeus Heykeli",
+            "explanation": "Olimpia Zeus Heykeli, Antik Dünyanın Yedi Harikası'ndan biridir."
+          },
+          {
+            "id": "D",
+            "text": "İskenderiye Feneri",
+            "explanation": "İskenderiye Feneri, Antik Dünyanın Yedi Harikası'ndan biridir."
+          },
+          {
+            "id": "E",
+            "text": "Hierapolis",
+            "explanation": "Hierapolis, antik bir şehir olsa da Antik Dünyanın Yedi Harikası arasında yer almamaktadır. Ders notunda bu bilgi özellikle vurgulanmıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Bilinen antik şehirleri harikalarla karıştırmak veya 'değildir' ifadesini gözden kaçırmak tuzak olabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-002-t3",
+        "stem": "Aşağıda Antik Dünyanın Yedi Harikası ve bulundukları yerler eşleştirilmiştir. Hangi eşleştirme yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Olimpia Zeus Heykeli - Rodos",
+            "explanation": "Olimpia Zeus Heykeli Rodos'ta değil, Olimpia şehrinde (Yunanistan) bulunmaktaydı. Rodos'ta bulunan harika Rodos Heykeli'dir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Keops Piramidi - Mısır",
+            "explanation": "Keops Piramidi Mısır'da bulunmaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Efes Artemis Tapınağı - Efes (Anadolu)",
+            "explanation": "Efes Artemis Tapınağı Efes'te (günümüz Anadolu'su) bulunmaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Halikarnassos Mausoleum'u - Halikarnas (Anadolu)",
+            "explanation": "Halikarnassos Mausoleum'u Halikarnas'ta (günümüz Anadolu'su) bulunmaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "İskenderiye Feneri - Mısır",
+            "explanation": "İskenderiye Feneri Mısır'da bulunmaktadır. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Olimpia Zeus Heykeli ile Rodos Heykeli'nin yerlerini karıştırmak veya eşleştirmelerdeki ince farkları gözden kaçırmak tuzak olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-003",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Türk resim sanatının önemli eserlerinden biri olan 'Kaplumbağa Terbiyecisi' tablosunun ressamı Osman Hamdi Bey'dir.",
+    "ozet": "MKS'de sanat tarihi soruları genellikle **eser-sanatçı eşleştirmeleri** üzerinden gelir. Türk resim sanatının ilk önemli temsilcilerinden biri olan **Osman Hamdi Bey**, özellikle \"Kaplumbağa Terbiyecisi\" adlı eseriyle tanınır. Bu eser, Osmanlı döneminin kültürel ve sosyal atmosferini yansıtan sembolik öğeler içerir. Diğer önemli Türk ressamlar arasında **Şeker Ahmet Paşa**, **İbrahim Çallı** ve **Fikret Mualla** gibi isimler de bulunmaktadır, ancak her birinin kendine özgü tarzları ve öne çıkan eserleri vardır. Soruları doğru yanıtlamak için bu temel eser-sanatçı eşleşmelerini iyi bilmek önemlidir.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-001",
+        "stem": "Türk resim sanatının en önemli eserlerinden biri olan \"Kaplumbağa Terbiyecisi\" tablosunun ressamı kimdir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Şeker Ahmet Paşa",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "İbrahim Çallı",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Fikret Mualla",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Osman Hamdi Bey",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-003-t1",
+        "stem": "Türk resim sanatında, özellikle natürmort ve peyzaj çalışmalarıyla tanınan, Paris'te eğitim görmüş ve Türkiye'ye modern resim tekniklerini getiren öncülerden biri olan ressam aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Osman Hamdi Bey",
+            "explanation": "Osman Hamdi Bey, \"Kaplumbağa Terbiyecisi\" gibi figüratif ve oryantalist tablolarıyla bilinir, natürmort ve peyzajdan ziyade daha çok figüratif kompozisyonlar üzerine odaklanmıştır."
+          },
+          {
+            "id": "B",
+            "text": "Şeker Ahmet Paşa",
+            "explanation": "Şeker Ahmet Paşa, Türk resim sanatının önemli isimlerinden olup, özellikle natürmort ve peyzaj resimleriyle tanınır ve Paris'te eğitim almıştır. Bu özellikler soruda tarif edilen ressamı işaret etmektedir."
+          },
+          {
+            "id": "C",
+            "text": "Fikret Mualla",
+            "explanation": "Fikret Mualla, dışavurumcu tarzıyla bilinir ve genellikle Paris sokaklarını, kafelerini ve insanlarını konu alan eserler vermiştir, ancak natürmort ve peyzajla öncü olarak öne çıkmaz."
+          },
+          {
+            "id": "D",
+            "text": "İbrahim Çallı",
+            "explanation": "İbrahim Çallı, 1914 Kuşağı'nın önde gelen temsilcilerinden olup, figüratif kompozisyonlar, portreler ve peyzajlar yapmıştır, ancak natürmort ve peyzajda Şeker Ahmet Paşa kadar belirgin bir öncülüğü yoktur."
+          },
+          {
+            "id": "E",
+            "text": "Bedri Rahmi Eyüboğlu",
+            "explanation": "Bedri Rahmi Eyüboğlu, daha çok halk sanatlarından esinlenen, mozaik ve duvar resimleri gibi farklı teknikleri kullanan bir sanatçıdır, natürmort ve peyzajda öncü olarak anılmaz."
+          }
+        ],
+        "correct": "B",
+        "trick": "Şeker Ahmet Paşa'nın natürmort ve peyzaj resimlerindeki öncülüğünü diğer önemli ressamların genel tarzlarıyla karıştırmak tuzak olabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-003-t2",
+        "stem": "Aşağıdakilerden hangisi, Türk resim sanatının önemli isimlerinden biri olan ve 1914 Kuşağı'nın önde gelen temsilcileri arasında yer alan ressamlardan DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İbrahim Çallı",
+            "explanation": "İbrahim Çallı, 1914 Kuşağı'nın önde gelen temsilcilerindendir."
+          },
+          {
+            "id": "B",
+            "text": "Halil Paşa",
+            "explanation": "Halil Paşa, 1914 Kuşağı'nın önemli isimlerindendir."
+          },
+          {
+            "id": "C",
+            "text": "Osman Hamdi Bey",
+            "explanation": "Osman Hamdi Bey, 1914 Kuşağı'ndan önce yaşamış ve onlara öncülük etmiş bir ressamdır, kuşağın bir parçası değildir."
+          },
+          {
+            "id": "D",
+            "text": "Hoca Ali Rıza",
+            "explanation": "Hoca Ali Rıza, 1914 Kuşağı'nın önemli isimlerindendir."
+          },
+          {
+            "id": "E",
+            "text": "Şeker Ahmet Paşa",
+            "explanation": "Şeker Ahmet Paşa, 1914 Kuşağı'ndan önce yaşamış önemli bir ressamdır, kuşağın bir parçası değildir."
+          }
+        ],
+        "correct": "C",
+        "trick": "1914 Kuşağı'nın kimlerden oluştuğunu bilmeden, genel Türk ressamları listesinden 'değildir' sorusuna doğru cevap vermek zor olabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-003-t3",
+        "stem": "Aşağıdaki Türk ressamlar ve öne çıkan eserleri/özellikleri eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Osman Hamdi Bey - Kaplumbağa Terbiyecisi",
+            "explanation": "Osman Hamdi Bey'in en bilinen eseri Kaplumbağa Terbiyecisi'dir, bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Fikret Mualla - Dışavurumcu tarz ve Paris temalı eserler",
+            "explanation": "Fikret Mualla, dışavurumcu tarzı ve Paris hayatını konu alan resimleriyle tanınır, bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Şeker Ahmet Paşa - Natürmort ve peyzaj resimlerindeki öncülüğü",
+            "explanation": "Şeker Ahmet Paşa, Türk resim sanatında natürmort ve peyzaj alanında öncü bir isimdir, bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Hoca Ali Rıza - Anadolu şehirleri ve köy hayatını konu alan minyatürler",
+            "explanation": "Hoca Ali Rıza, daha çok İstanbul manzaraları ve natürmortlarıyla tanınır. Minyatür sanatı ise ayrı bir alandır ve bu özellikler Hoca Ali Rıza ile bağdaşmaz. Minyatür alanında Matrakçı Nasuh, Nakkaş Osman ve Levni gibi isimler öne çıkar."
+          },
+          {
+            "id": "E",
+            "text": "İbrahim Çallı - 1914 Kuşağı'nın önemli temsilcilerinden biri",
+            "explanation": "İbrahim Çallı, 1914 Kuşağı'nın önde gelen figürlerinden biridir, bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "D",
+        "trick": "Hoca Ali Rıza'nın Anadolu temalarını işlemesi doğru olsa da, bunu minyatür sanatı ile birleştirmek ve ona atfetmek yanıltıcı olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-004",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Megaron, antik dönem mimarisinde belirli özelliklere sahip dikdörtgen planlı bir yapı tipidir.",
+    "ozet": "Antik dönem mimarisinde karşımıza çıkan **Megaron**, özellikle Miken ve Troya mimarisinde görülen, Yunan tapınaklarının atası sayılan bir yapı türüdür. Bu yapı tipini ayırt etmek için üç temel özelliği bilmek yeterlidir: **dikdörtgen planlı** olması, önünde bir **giriş holü (pronaos)** bulunması ve yapının ortasında bir **ocak (hearth)** yer alması. Bu üç özellik bir araya geldiğinde, bir yapının Megaron olarak tanımlandığını anlayabiliriz. Bu bilgileri kullanarak Megaron ile ilgili tüm soruları rahatlıkla çözebilirsiniz.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-012",
+        "stem": "Antik dönem mimarisinde, önünde bir giriş holü bulunan dikdörtgen planlı ve ocaklı yapı tipine (Megaron) verilen tanım aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kubbeli yapı",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Kare planlı yapı",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Dikdörtgen planlı yapı",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Yuvarlak planlı yapı",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-004-t1",
+        "stem": "Megaron planlı yapılarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Antik Yunan tapınaklarının naos bölümünün atası sayılır.",
+            "explanation": "Ders notunda belirtildiği gibi, 'Yunan tapınağının naos (cella) bölümünün atası sayılır — tapınak planı megarondan türemiştir.' Bu ifade doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Önünde bir giriş holü bulunur.",
+            "explanation": "Ders notunda Megaron tanımında 'önünde bir giriş holü (revaklı ön oda) bulunan' ifadesi yer almaktadır. Bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Ortasında ocak yer alan bir yapı tipidir.",
+            "explanation": "Ders notunda Megaron tanımında 'ortasında ocak yer alan' ifadesi açıkça belirtilmiştir. Bu ifade doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Miken ve Troya mimarisinde örnekleri bulunmuştur.",
+            "explanation": "Ders notunda 'Miken ve Troya mimarisinde görülür; Anadolu'da Beycesultan ve Troya kazılarında örnekleri bulunmuştur' bilgisi verilmektedir. Bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Genellikle yuvarlak planlı olarak inşa edilmiştir.",
+            "explanation": "Ders notunda Megaron'un 'dikdörtgen planlı' olduğu açıkça belirtilmiştir. Yuvarlak planlı yapılar (örneğin Tholos) Megaron değildir. Bu ifade yanlıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Megaron'un temel plan özelliğini diğer antik yapı tiplerinin plan özellikleriyle karıştırma eğilimi, yanlış cevabı seçmeye neden olabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-004-t2",
+        "stem": "Aşağıdakilerden hangisi Antik dönem Megaron yapılarının temel özelliklerinden biri değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Genellikle çok katlı olarak inşa edilmesi",
+            "explanation": "Ders notunda Megaron'un kat sayısı hakkında bilgi verilmemiştir ve genellikle tek katlı olduğu bilinmektedir. Çok katlılık Megaron'un temel özelliklerinden biri değildir. Bu ifade yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Dikdörtgen planlı olması",
+            "explanation": "Ders notunda Megaron'un 'dikdörtgen planlı' olduğu açıkça belirtilmiştir. Bu temel bir özelliktir."
+          },
+          {
+            "id": "C",
+            "text": "Ortasında bir ocağın bulunması",
+            "explanation": "Ders notunda Megaron'un 'ortasında ocak yer alan' bir yapı tipi olduğu belirtilmiştir. Bu temel bir özelliktir."
+          },
+          {
+            "id": "D",
+            "text": "Önünde bir giriş holünün yer alması",
+            "explanation": "Ders notunda Megaron'un 'önünde bir giriş holü (revaklı ön oda) bulunan' bir yapı olduğu belirtilmiştir. Bu temel bir özelliktir."
+          },
+          {
+            "id": "E",
+            "text": "Yunan tapınaklarının naos bölümünün atası olması",
+            "explanation": "Ders notunda 'Yunan tapınağının naos (cella) bölümünün atası sayılır' ifadesi yer almaktadır. Bu, Megaron'un mimari mirasındaki önemini belirten bir özelliktir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Megaron'un mimari işlevleri ve konumu ile ilgili doğru bilgilerin arasına, kat sayısı gibi belirtilmeyen veya yanlış bir bilginin eklenmesi kafa karışıklığına yol açabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-004-t3",
+        "stem": "Aşağıdaki eşleştirmelerden hangisi Megaron ile ilgili verilen bilgiler açısından doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Plan Şekli: Yuvarlak - Bulunduğu Yer: Efes",
+            "explanation": "Megaron'un plan şekli yuvarlak değil, dikdörtgendir. Efes'te megaron örnekleri bulunmamıştır. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Plan Şekli: Dikdörtgen - İlişkilendirildiği Yapı: Yunan Tapınağı Naosu",
+            "explanation": "Ders notunda Megaron'un 'dikdörtgen planlı' olduğu ve 'Yunan tapınağının naos (cella) bölümünün atası sayılır' ifadesi yer almaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Önemli Özellik: Giriş holü ve ocak - Köken: Roma Mimarisi",
+            "explanation": "Giriş holü ve ocak Megaron'un önemli özellikleridir ancak kökeni Roma mimarisi değil, Miken ve Troya mimarisidir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Bulunduğu Yer: Sadece Anadolu Selçuklu Eserleri - Önemli Özellik: Kubbeli örtü",
+            "explanation": "Megaron antik döneme ait bir yapıdır, Anadolu Selçuklu eserleriyle ilgili değildir. Kubbeli örtü de Megaron'un özelliği değildir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "Köken: Bizans Mimarisi - İlişkilendirildiği Yapı: Kervansaraylar",
+            "explanation": "Megaron'un kökeni Bizans mimarisi değil, Miken ve Troya mimarisidir. Kervansaraylar ile bir ilişkisi yoktur. Bu eşleştirme yanlıştır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Megaron'un temel mimari özelliklerini (plan ve bileşenler) diğer dönem ve yapı türleriyle karıştırma, doğru cevabı bulmayı zorlaştırabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-005",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Kündekari, ahşap parçaların çivi veya tutkal kullanılmadan, geometrik desenler oluşturacak şekilde birbirine geçirilmesi tekniğidir.",
+    "ozet": "Antik dönemlerden günümüze kadar geleneksel sanatlar, mimari ve el sanatları MKS'nin önemli konularındandır. Özellikle ahşap işçiliği, **kündekari** tekniğiyle öne çıkar; bu teknikte ahşap parçalar çivi veya tutkal kullanılmadan, geometrik desenler oluşturacak şekilde birbirine geçirilir. Bu teknik genellikle minber kapaklarında ve ahşap kapılarda görülür. Benzer şekilde, **mukarnas** sarkıt biçimindeki kademeli hücrelerden oluşan dolgu bezemesidir. **Hat sanatı** ise Arap harflerinin estetik ölçülere bağlı kalınarak güzel bir şekilde yazılmasıdır. Bu temel bilgileri anladığınızda ilgili soruları kolayca çözebilirsiniz.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-029",
+        "stem": "Ahşap parçaların çivi veya tutkal kullanılmadan, geometrik desenler oluşturacak şekilde birbirine geçirilmesi tekniğine ne ad verilir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Oyma",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Kündekari",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Kakma",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Sedef işçiliği",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-005-t1",
+        "stem": "Aşağıdakilerden hangisi ahşap parçaların çivi veya tutkal kullanılmadan, geometrik desenler oluşturacak şekilde birbirine geçirilmesi tekniğidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Oyma",
+            "explanation": "Oyma, ahşap yüzeye şekillerin kazınması tekniğidir, parçaların geçirilmesi değildir."
+          },
+          {
+            "id": "B",
+            "text": "Kakma",
+            "explanation": "Kakma, farklı malzemelerin (sedef, fildişi vb.) ahşap yüzeye gömülmesi tekniğidir."
+          },
+          {
+            "id": "C",
+            "text": "Kündekari",
+            "explanation": "Kündekari, ahşap parçaların çivi veya tutkal kullanılmadan, geometrik desenler oluşturacak şekilde birbirine geçirilmesi tekniğidir. Bu bilgi ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Mukarnas",
+            "explanation": "Mukarnas, sarkıt biçiminde, kademeli hücrelerden oluşan dolgu bezemesidir ve ahşap geçirme tekniği değildir."
+          },
+          {
+            "id": "E",
+            "text": "Telkâri",
+            "explanation": "Telkâri, gümüş filigran işçiliğidir ve ahşapla ilgili değildir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Şıklarda yer alan diğer terimlerin de ahşap veya mimari süsleme ile ilişkili olması, adayın doğru tanımı hatırlamasını zorlaştırabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-005-t2",
+        "stem": "Aşağıdaki mimari ve el sanatı terimlerinden hangisinin açıklaması YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kündekari: Ahşap parçaların çivi veya tutkal kullanılmadan, geometrik desenler oluşturacak şekilde birbirine geçirilmesi tekniğidir.",
+            "explanation": "Bu açıklama doğrudur ve ders notunda kündekari tanımıyla birebir uyuşmaktadır."
+          },
+          {
+            "id": "B",
+            "text": "Mukarnas: Sarkıt biçiminde, kademeli hücrelerden oluşan dolgu bezemesidir.",
+            "explanation": "Bu açıklama doğrudur ve ders notunda mukarnas tanımıyla birebir uyuşmaktadır."
+          },
+          {
+            "id": "C",
+            "text": "Hat: Arap harflerinin estetik ölçülere bağlı kalınarak güzel bir şekilde yazılması sanatıdır.",
+            "explanation": "Bu açıklama doğrudur ve ders notunda hat sanatı tanımıyla birebir uyuşmaktadır."
+          },
+          {
+            "id": "D",
+            "text": "Pandantif: Kareden kubbeye geçişte köşeleri kesen küçük yarım konik ögedir.",
+            "explanation": "Bu açıklama yanlıştır. Pandantif, kareden kubbeye geçişte köşelerdeki küresel üçgenlerdir. Köşeleri kesen küçük yarım konik öge tromptur."
+          },
+          {
+            "id": "E",
+            "text": "Tezhip: Altın ve boya ile kitap süsleme sanatıdır.",
+            "explanation": "Bu açıklama doğrudur ve ders notunda tezhip tanımıyla birebir uyuşmaktadır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Pandantif ve tromp terimleri birbirine yakın anlamlı ve aynı işlevi gören yapı elemanları olduğu için, adayların bu iki terimi karıştırma olasılığı yüksektir."
+      },
+      {
+        "id": "aile-sanat-tarihi-005-t3",
+        "stem": "Aşağıdaki geleneksel sanat ve kullanım alanı eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kündekari - Minber kapakları",
+            "explanation": "Kündekari tekniği genellikle minber kapaklarında ve ahşap kapılarda görülür. Eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Mukarnas - Taçkapılar",
+            "explanation": "Mukarnas, Selçuklu ve Osmanlı taçkapılarının imzasıdır. Eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Hat - Kitap süsleme",
+            "explanation": "Hat sanatı, kitap yazıları ve Kuran çoğaltmada kullanılmıştır. Eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Minyatür - Kitap içi resimler",
+            "explanation": "Minyatür, kitap içi küçük resim sanatıdır. Eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Tezhip - Cami duvarları",
+            "explanation": "Tezhip, altın yaldızla kitap süsleme sanatıdır, cami duvarları için kalem işi veya çini gibi süsleme teknikleri kullanılır. Eşleştirme yanlıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Ders notunda tezhipin 'kitap süsleme' olduğu açıkça belirtilmiş olsa da, genel olarak süsleme sanatları arasında cami duvarlarının da akla gelmesi adayı yanıltabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-006",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Mimar Sinan'ın mimari eserlerinin çıraklık, kalfalık ve ustalık dönemlerine göre doğru bir şekilde eşleştirilmesi.",
+    "ozet": "Mimar Sinan, Osmanlı mimarisinin zirvesini temsil eden, yaklaşık 400 esere imza atmış bir dehadır. Kendi ifadesiyle, mimari gelişimini üç önemli eserle özetlemiştir: **Şehzade Camii** çıraklık dönemi, **Süleymaniye Camii** kalfalık dönemi ve **Selimiye Camii** ustalık dönemi eseridir. Bu üç yapının her birinin mimari özellikleri, Sinan'ın mekânı genişletme ve tek kubbe altında birleştirme arayışının farklı aşamalarını gösterir. Özellikle Selimiye, kubbe çapı ve yenilikçi taşıyıcı sistemiyle Ayasofya'yı aşma hedefiyle inşa edilmiştir. Bu eserler, onun mimari dehasını ve Osmanlı mimarisinin gelişimini anlamak için kilit öneme sahiptir.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-035",
+        "stem": "Roma mimarisinin başyapıtlarından biri olan ve \"bütün tanrıların tapınağı\" anlamına gelen kubbeli yapı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Parthenon",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Pantheon",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Zeus Tapınağı",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Artemis Tapınağı",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-006-t1",
+        "stem": "Mimar Sinan'ın kendi tanımlamasına göre, ustalık eseri olarak kabul ettiği yapı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Selimiye Camii",
+            "explanation": "Selimiye Camii, Mimar Sinan'ın kendi tanımlamasına göre ustalık dönemine ait başyapıtıdır."
+          },
+          {
+            "id": "B",
+            "text": "Şehzade Camii",
+            "explanation": "Şehzade Camii, Mimar Sinan'ın kendi ifadesiyle çıraklık dönemine ait eseridir."
+          },
+          {
+            "id": "C",
+            "text": "Süleymaniye Camii",
+            "explanation": "Süleymaniye Camii, Mimar Sinan'ın kendi ifadesiyle kalfalık dönemine ait eseridir."
+          },
+          {
+            "id": "D",
+            "text": "Rüstem Paşa Camii",
+            "explanation": "Rüstem Paşa Camii, Mimar Sinan'ın önemli eserlerinden biri olmakla birlikte, kendi dönemlendirmesinde çıraklık, kalfalık veya ustalık eseri olarak belirtilmemiştir."
+          },
+          {
+            "id": "E",
+            "text": "Mihrimah Sultan Camii (Edirnekapı)",
+            "explanation": "Mihrimah Sultan Camii, Mimar Sinan'ın önemli eserlerinden biri olmakla birlikte, kendi dönemlendirmesinde çıraklık, kalfalık veya ustalık eseri olarak belirtilmemiştir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Mimar Sinan'ın diğer önemli eserleriyle karıştırarak yanlış döneme atfetme tuzağına düşülebilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-006-t2",
+        "stem": "Mimar Sinan'ın mimari gelişimini anlattığı çıraklık, kalfalık ve ustalık eserleri göz önüne alındığında, aşağıdaki eşleştirmelerden hangisi YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Çıraklık Eseri - Şehzade Camii",
+            "explanation": "Şehzade Camii, Mimar Sinan'ın kendi ifadesiyle çıraklık dönemine ait eseridir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Çıraklık Eseri - Süleymaniye Camii",
+            "explanation": "Süleymaniye Camii, Mimar Sinan'ın kalfalık eseri olup, çıraklık eseri Şehzade Camii'dir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "Kalfalık Eseri - Süleymaniye Camii",
+            "explanation": "Süleymaniye Camii, Mimar Sinan'ın kendi ifadesiyle kalfalık dönemine ait eseridir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Ustalık Eseri - Selimiye Camii",
+            "explanation": "Selimiye Camii, Mimar Sinan'ın kendi ifadesiyle ustalık dönemine ait eseridir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Kalfalık Eseri - Şehzade Camii",
+            "explanation": "Şehzade Camii, Mimar Sinan'ın çıraklık eseri olup, kalfalık eseri Süleymaniye Camii'dir. Bu eşleştirme yanlıştır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Doğru eşleştirmeleri bilip yanlış olanı bulmak yerine, sadece doğru olanı hatırlamaya odaklanmak yanıltıcı olabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-006-t3",
+        "stem": "Mimar Sinan'ın mimarlık kariyerindeki gelişimini gösteren ve kendi ifadesiyle adlandırdığı üç eserin kronolojik sırası aşağıdakilerden hangisinde doğru verilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Selimiye Camii, Süleymaniye Camii, Şehzade Camii",
+            "explanation": "Bu sıralama tersten verilmiştir. Doğru kronolojik sıralama Şehzade, Süleymaniye ve Selimiye'dir."
+          },
+          {
+            "id": "B",
+            "text": "Şehzade Camii, Selimiye Camii, Süleymaniye Camii",
+            "explanation": "Bu sıralamada Süleymaniye ve Selimiye Camii'nin yerleri karıştırılmıştır. Doğru sıralama Şehzade, Süleymaniye ve Selimiye'dir."
+          },
+          {
+            "id": "C",
+            "text": "Şehzade Camii, Süleymaniye Camii, Selimiye Camii",
+            "explanation": "Bu sıralama Mimar Sinan'ın kendi tanımlamasına göre çıraklık, kalfalık ve ustalık eserlerinin doğru kronolojik dizilimidir."
+          },
+          {
+            "id": "D",
+            "text": "Süleymaniye Camii, Şehzade Camii, Selimiye Camii",
+            "explanation": "Bu sıralamada Şehzade ve Süleymaniye Camii'nin yerleri karıştırılmıştır. Doğru sıralama Şehzade, Süleymaniye ve Selimiye'dir."
+          },
+          {
+            "id": "E",
+            "text": "Süleymaniye Camii, Selimiye Camii, Şehzade Camii",
+            "explanation": "Bu sıralama tamamen yanlıştır. Doğru kronolojik sıralama Şehzade, Süleymaniye ve Selimiye'dir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Eserlerin isimlerini bilmek yeterli olmayıp, aynı zamanda hangi döneme ait olduklarını ve kronolojik sıralarını karıştırmamak gerekir."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-007",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Antik dönem mimari eserlerinin ve anıtlarının orijinal yerleşimlerini bilmek.",
+    "ozet": "Antik dünyada inşa edilen birçok anıtsal yapı ve eser, günümüzde farklı müzelerde veya yerlerde sergilenebilmektedir. Bu tür eserlerin orijinal olarak hangi antik kentte bulunduğunu bilmek, MKS'de sıkça karşılaşılan bir bilgi türüdür. Özellikle **Antik Dünyanın Yedi Harikası**'ndan Anadolu'da yer alanlar (Efes Artemis Tapınağı, Halikarnassos Mausoleum'u) ve **Likya mimarisi** gibi spesifik örnekler önemlidir. Ayrıca, **Nemrut Dağı**'ndaki Kommagene heykelleri ve **Efes Yamaçevleri** gibi yerel öneme sahip eserlerin de konumlarını bilmek gerekir. Bu eserlerin orijinal konumlarını doğru eşleştirmek, sınavda başarı için kritik öneme sahiptir.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-042",
+        "stem": "Likya mimarisinin önemli örneklerinden biri olan ve günümüzde British Museum'da sergilenen Nereidler Anıtı, orijinalinde hangi antik kentte yer almaktaydı?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Efes",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Bergama",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Afrodisias",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Ksantos",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-007-t1",
+        "stem": "Aşağıdaki antik anıt ve orijinal bulunduğu yer eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Efes Artemis Tapınağı - Efes",
+            "explanation": "Efes Artemis Tapınağı, Antik Dünyanın Yedi Harikası'ndan biri olup, adından da anlaşılacağı üzere Efes antik kentinde yer almaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Halikarnassos Mausoleum'u - Bodrum",
+            "explanation": "Halikarnassos Mausoleum'u, Antik Dünyanın Yedi Harikası'ndan biri olup, günümüz Bodrum'da yer alan Halikarnassos antik kentinde bulunmaktaydı. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Nemrut Dağı Anıtları - Adıyaman",
+            "explanation": "Nemrut Dağı'ndaki devasa heykeller ve tümülüs, Kommagene Kralı I. Antiochos tarafından yaptırılmış olup, Adıyaman il sınırları içinde yer almaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Nereidler Anıtı - Bergama",
+            "explanation": "Nereidler Anıtı, Likya mimarisinin önemli bir örneği olup, orijinalinde Ksantos antik kentinde bulunmaktaydı. Günümüzde British Museum'da sergilenmektedir. Bergama ile eşleştirilmesi yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "Yamaçevler - Efes",
+            "explanation": "Roma dönemine ait fresk ve mozaikleriyle ünlü 'Yamaçevler' Efes antik kentinde bulunmaktadır. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "D",
+        "trick": "Birden fazla antik eserin günümüzde müzede sergileniyor olması, orijinal konumları hakkında yanıltıcı olabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-007-t2",
+        "stem": "Antik Dünyanın Yedi Harikası'ndan ikisi Anadolu'da bulunmaktadır. Bu iki harika aşağıdakilerin hangisinde doğru verilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Keops Piramidi ve Babil Asma Bahçeleri",
+            "explanation": "Keops Piramidi Mısır'da, Babil Asma Bahçeleri ise Mezopotamya'da yer almaktaydı. İkisi de Anadolu'da değildir."
+          },
+          {
+            "id": "B",
+            "text": "Olimpia Zeus Heykeli ve Rodos Heykeli",
+            "explanation": "Olimpia Zeus Heykeli Yunanistan'da, Rodos Heykeli ise Rodos Adası'nda (Yunanistan) yer almaktaydı. İkisi de Anadolu'da değildir."
+          },
+          {
+            "id": "C",
+            "text": "İskenderiye Feneri ve Nemrut Dağı Anıtları",
+            "explanation": "İskenderiye Feneri Mısır'da yer almaktaydı ve Nemrut Dağı Anıtları Antik Dünyanın Yedi Harikası arasında değildir. Bu seçenek yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Hierapolis ve Efes Artemis Tapınağı",
+            "explanation": "Hierapolis, Antik Dünyanın Yedi Harikası'ndan biri değildir, Efes Artemis Tapınağı ise Anadolu'dadır. Ancak ikisi birden doğru değildir."
+          },
+          {
+            "id": "E",
+            "text": "Efes Artemis Tapınağı ve Halikarnassos Mausoleum'u",
+            "explanation": "Efes Artemis Tapınağı (Efes) ve Halikarnassos Mausoleum'u (Bodrum), Antik Dünyanın Yedi Harikası'ndan Anadolu'da bulunan iki tanesidir. Bu seçenek doğrudur."
+          }
+        ],
+        "correct": "E",
+        "trick": "Antik Dünyanın Yedi Harikası dışındaki önemli Anadolu antik yapılarını bu listeye dahil etmeye çalışmak yanıltıcı olabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-007-t3",
+        "stem": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Türk resim sanatının önemli eserlerinden biri olan 'Kaplumbağa Terbiyecisi' tablosunun ressamı Fikret Mualla'dır.",
+            "explanation": "Türk resim sanatının önemli eserlerinden biri olan 'Kaplumbağa Terbiyecisi' tablosunun ressamı Osman Hamdi Bey'dir, Fikret Mualla değildir. Bu ifade yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "'Disk Atan' (Diskobolos) heykelinin heykeltıraşı Myron'dur.",
+            "explanation": "Antik Yunan heykel sanatının önemli eserlerinden 'Disk Atan' (Diskobolos) heykelinin heykeltıraşı Myron'dur. Bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "'Hermes ve Bebek Dionysos' ile 'Knidos Aphroditesi' heykelleriyle tanınan sanatçı Praxiteles'tir.",
+            "explanation": "'Hermes ve Bebek Dionysos' ile 'Knidos Aphroditesi' heykelleriyle tanınan Klasik Dönem Yunan heykel sanatçısı Praxiteles'tir. Bu ifade doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Viyana Belvedere Sarayı'nda sergilenen 'Öpücük' adlı tablo Gustav Klimt'e aittir.",
+            "explanation": "Viyana Belvedere Sarayı'nda sergilenen 'Öpücük' adlı tablo Gustav Klimt'e aittir. Bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "UNESCO Dünya Mirası Listesi'nde yer alan Nemrut Dağı'ndaki anıtlar Kommagene kralı I. Antiochos tarafından yaptırılmıştır.",
+            "explanation": "UNESCO Dünya Mirası Listesi'nde yer alan Nemrut Dağı'ndaki devasa heykeller ve tümülüs, Kommagene kralı I. Antiochos tarafından yaptırılmıştır. Bu ifade doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Türk sanatçıların eserlerini karıştırmak veya yanlış eşleştirmek yanıltıcı olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-008",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Bizans sanatında, Ayasofya mozaiklerinde de görülen, Hz. İsa, Hz. Meryem ve Vaftizci Yahya'nın yer aldığı şefaat dileme sahnesine 'Deisis' adı verilir.",
+    "ozet": "Bizans sanatı, özellikle mozaikler, freskler ve ikonalar aracılığıyla dini temaları işler. Bu sanatın önemli bir ikonografik sahnesi olan **Deisis**, ortada İsa Mesih'in, sağında Meryem Ana'nın ve solunda Vaftizci Yahya'nın (bazen Pavlus) yer aldığı bir kompozisyondur. Bu sahne, genellikle Kıyamet Günü'nde insanlık için şefaat dileme temasını vurgular ve sıklıkla Bizans kiliselerinin apsislerinde veya önemli yapılarında, örneğin **Ayasofya**'da görülür. Bu sahnenin temel unsurlarını bilmek, Bizans dönemi sanat eserlerini anlamak için anahtardır.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-043",
+        "stem": "Ayasofya mozaiklerinde de görülen; ortada Hz. İsa, yanında Hz. Meryem ve Vaftizci Yahya'nın (veya bazen Pavlus) yer aldığı, şefaat dileme sahnesine ne ad verilir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Son Akşam Yemeği",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Deisis",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "İsa'nın Çarmıha Gerilişi",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Meryem'in Göğe Yükselişi",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-008-t1",
+        "stem": "Bizans ikonografisinde, genellikle Kıyamet Günü'nde insanlık adına şefaat dileme temasını işleyen ve Ayasofya'da da bir örneği bulunan sahne aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Pantokrator",
+            "explanation": "'Pantokrator' evrenin hükümdarı İsa figürünü ifade eder, şefaat dileme sahnesi değildir."
+          },
+          {
+            "id": "B",
+            "text": "Deisis",
+            "explanation": "Deisis, ortada Hz. İsa, yanında Hz. Meryem ve Vaftizci Yahya'nın yer aldığı, şefaat dileme sahnesidir ve bu tanıma uyar."
+          },
+          {
+            "id": "C",
+            "text": "Meryem Ana ve Çocuk İsa",
+            "explanation": "Bu sahne, Meryem ve İsa'nın annelik ve çocukluk ilişkisini vurgular, şefaat dileme bağlamında değildir."
+          },
+          {
+            "id": "D",
+            "text": "Son Akşam Yemeği",
+            "explanation": "Son Akşam Yemeği, İsa'nın havarileriyle yediği son yemeği tasvir eder, şefaat dileme sahnesi değildir."
+          },
+          {
+            "id": "E",
+            "text": "Vaftiz",
+            "explanation": "Vaftiz, İsa'nın Vaftizci Yahya tarafından vaftiz edilmesini konu alır, şefaat dileme sahnesi değildir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Şıklarda Bizans sanatına ait terimler kullanılarak çeldirici oluşturulmuştur."
+      },
+      {
+        "id": "aile-sanat-tarihi-008-t2",
+        "stem": "Aşağıdakilerden hangisi Bizans sanatında 'Deisis' sahnesinin temel figürlerinden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hz. İsa",
+            "explanation": "Hz. İsa, Deisis sahnesinin merkezinde yer alan ana figürdür."
+          },
+          {
+            "id": "B",
+            "text": "Hz. Meryem",
+            "explanation": "Hz. Meryem, Deisis sahnesinde Hz. İsa'nın yanında yer alan önemli figürlerden biridir."
+          },
+          {
+            "id": "C",
+            "text": "Aziz George",
+            "explanation": "Aziz George, Bizans sanatında sıkça görülen bir aziz figürü olsa da, Deisis sahnesinin standart bir bileşeni değildir."
+          },
+          {
+            "id": "D",
+            "text": "Vaftizci Yahya",
+            "explanation": "Vaftizci Yahya, Deisis sahnesinde Hz. İsa'nın yanında yer alan önemli figürlerden biridir."
+          },
+          {
+            "id": "E",
+            "text": "Pavlus",
+            "explanation": "Vaftizci Yahya'nın bazen Pavlus ile yer değiştirebildiği metinde belirtilmiştir, bu nedenle temel figürlerden biri olarak kabul edilebilir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Deisis sahnesinde bazen Vaftizci Yahya yerine Pavlus'un da bulunabileceği bilgisi, standart dışı bir figür arayan öğrenci için çeldirici olabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-008-t3",
+        "stem": "Bizans sanatındaki 'Deisis' sahnesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ortasında genellikle Hz. İsa figürü bulunur.",
+            "explanation": "Deisis sahnesinin merkezinde Hz. İsa yer alır, bu ifade doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "İnsanlık için şefaat dileme temasını işler.",
+            "explanation": "Deisis, Kıyamet Günü'nde insanlık adına şefaat dileme amacını taşır, bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Hz. Meryem ve Vaftizci Yahya figürlerini içerir.",
+            "explanation": "Hz. Meryem ve Vaftizci Yahya (veya bazen Pavlus) sahnenin temel figürlerindendir, bu ifade doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Sadece fresklerde görülen bir sahnedir.",
+            "explanation": "Ders notunda Deisis'in Ayasofya mozaiklerinde de görüldüğü belirtilmiştir. Ayrıca Bizans sanatında mozaik, fresk ve ikonaların önemli yer tuttuğu ifade edilmiştir. Bu nedenle sadece fresklerde görüldüğü bilgisi yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "Ayasofya mozaiklerinde bir örneği bulunmaktadır.",
+            "explanation": "Ders notunda 'Ayasofya mozaiklerinde de görülen' ifadesiyle bu bilgi açıkça belirtilmiştir, bu ifade doğrudur."
+          }
+        ],
+        "correct": "D",
+        "trick": "Öğrencinin Bizans sanatında farklı tekniklerin kullanıldığını gözden kaçırarak 'sadece fresk' ifadesini doğru kabul etmesi tuzağa düşmesine neden olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-009",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Antik Yunan heykel sanatının önemli temsilcilerini ve eserlerini tanımak.",
+    "ozet": "Antik Yunan heykel sanatı, MKS'de genellikle önemli heykeltıraşlar ve onların başyapıtları üzerinden sorulur. Bu dönemde ideal insan formu, denge ve hareketin estetik biçimde yakalanması ön plandadır. Özellikle **Klasik Dönem** heykeltıraşları ve eserleri sıkça karşımıza çıkar. Örneğin, atletik vücut yapısını ve hareketin doruk noktasını ustaca yansıtan 'Disk Atan' (Diskobolos) heykelinin yaratıcısı **Myron**'dur. Ayrıca, 'Hermes ve Bebek Dionysos' ile 'Knidos Aphroditesi' gibi eserleriyle tanınan **Praxiteles** de bu dönemin öne çıkan isimlerindendir. Bu isimleri ve ikonik eserlerini bilmek, ilgili soruları çözmek için kritik öneme sahiptir.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-049",
+        "stem": "Antik Yunan heykel sanatının önemli eserlerinden biri olan \"Disk Atan\" (Diskobolos) heykelinin heykeltıraşı kimdir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Phidias",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Praksiteles",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Lysippos",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Myron",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-009-t1",
+        "stem": "Aşağıdaki heykeltıraş ve eseri eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Myron - Disk Atan",
+            "explanation": "'Disk Atan' (Diskobolos) heykeli, Antik Yunan heykeltıraşı Myron'a aittir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Praxiteles - Knidos Aphroditesi",
+            "explanation": "'Knidos Aphroditesi' heykeli, Klasik Dönem Yunan heykeltıraşı Praxiteles'e aittir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Phidias - Olimpia Zeus Heykeli",
+            "explanation": "Antik Dünyanın Yedi Harikası'ndan biri olan Olimpia Zeus Heykeli, Phidias tarafından yapılmıştır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Praxiteles - Hermes ve Bebek Dionysos",
+            "explanation": "'Hermes ve Bebek Dionysos' heykeli, Klasik Dönem Yunan heykeltıraşı Praxiteles'e aittir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Lysippos - Laokoon ve Oğulları",
+            "explanation": "'Laokoon ve Oğulları' heykeli, Rodoslu heykeltıraşlar Hagesandros, Polydoros ve Athenodoros tarafından yapılmıştır, Lysippos'a ait değildir. Lysippos, daha çok Büyük İskender'in portreleriyle tanınır. Bu eşleştirme yanlıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Seçeneklerdeki tüm isimlerin ünlü Antik Yunan heykeltıraşları olması, yanlış eşleştirmeyi bulmayı zorlaştırabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-009-t2",
+        "stem": "Antik Yunan heykeltıraşlarından Praxiteles, aşağıdaki eserlerden hangisiyle tanınır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hermes ve Bebek Dionysos",
+            "explanation": "'Hermes ve Bebek Dionysos' heykeli, Praxiteles'in bilinen önemli eserlerinden biridir."
+          },
+          {
+            "id": "B",
+            "text": "Disk Atan (Diskobolos)",
+            "explanation": "'Disk Atan' (Diskobolos) heykeli Myron'a aittir."
+          },
+          {
+            "id": "C",
+            "text": "Olimpia Zeus Heykeli",
+            "explanation": "Olimpia Zeus Heykeli Phidias'a aittir."
+          },
+          {
+            "id": "D",
+            "text": "Laokoon ve Oğulları",
+            "explanation": "'Laokoon ve Oğulları' heykeli, Rodoslu heykeltıraşlar Hagesandros, Polydoros ve Athenodoros tarafından yapılmıştır."
+          },
+          {
+            "id": "E",
+            "text": "Milos Venüsü",
+            "explanation": "Milos Venüsü (Afrodit heykeli) bilinmeyen bir sanatçıya ait olup, Helenistik döneme tarihlenir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Praxiteles'in birden fazla önemli eseri olduğu için, sadece birini bilmek yeterli olmayabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-009-t3",
+        "stem": "Antik Yunan heykel sanatına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Myron'un 'Disk Atan' heykelinde, hareketin en durgun anı betimlenmiştir.",
+            "explanation": "Myron'un 'Disk Atan' heykelinde hareketin doruk noktası yakalanmaya çalışılmıştır, durgun anı değil."
+          },
+          {
+            "id": "B",
+            "text": "Klasik dönem Yunan heykel sanatında ideal insan formu ve denge ön plandadır.",
+            "explanation": "Klasik dönem Yunan heykel sanatının temel özelliklerinden biri, ideal insan formu ve dengeye verilen önemdir. Bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Praxiteles, MÖ 5. yüzyılın ortalarında yaşamış önemli bir heykeltıraşdır.",
+            "explanation": "Praxiteles, MÖ 4. yüzyılın önemli Yunan heykeltıraşlarındandır. Myron MÖ 5. yüzyılda yaşamıştır."
+          },
+          {
+            "id": "D",
+            "text": "Phidias, sadece mimari eserleriyle tanınan bir sanatçıdır.",
+            "explanation": "Phidias, Olimpia Zeus Heykeli gibi önemli heykelleriyle tanınan bir heykeltıraşdır, sadece mimari eserleriyle değil."
+          },
+          {
+            "id": "E",
+            "text": "'Knidos Aphroditesi' heykeli, Helenistik dönemin en bilinen eserlerinden biridir.",
+            "explanation": "'Knidos Aphroditesi' heykeli, Praxiteles'e ait olup Klasik Dönem'in önemli eserlerindendir, Helenistik dönemin değil."
+          }
+        ],
+        "correct": "B",
+        "trick": "Dönemler ve özellikler arasındaki ince ayrıntılar yanıltıcı olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-010",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Bu soru, İslam sanatlarındaki temel yazma ve süsleme tekniklerinden biri olan hat sanatının tanımını ölçmektedir.",
+    "ozet": "Antik ve İslam sanatlarında kullanılan çeşitli teknikleri ve terimleri bilmek, MKS'de başarı için kritik öneme sahiptir. Özellikle **hat sanatı**, **tezhip**, **minyatür** ve **ebru** gibi kitap sanatları sıkça sorulur. **Hat sanatı**, Arap harflerinin estetik kaygılarla güzel bir şekilde yazılmasıdır. **Tezhip**, altın ve boya kullanarak kitapları süsleme sanatıdır. **Minyatür**, perspektif ve gölgenin olmadığı, figürlerin önemine göre büyütüldüğü küçük kitap resimleridir. **Ebru** ise, yoğunlaştırılmış su üzerine serpilen boyaların kağıda aktarılması tekniğidir. Bu tanımları ve temel özelliklerini ayırt edebilmek, soruları doğru yanıtlamanızı sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-097",
+        "stem": "Arap harflerinin estetik ölçülere bağlı kalınarak güzel bir şekilde yazılması sanatı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Tezhip",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Ebru",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Hat Sanatı",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Minyatür",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-010-t1",
+        "stem": "Aşağıdakilerden hangisi, Arap harflerinin estetik ölçülere bağlı kalınarak güzel bir şekilde yazılması sanatının doğru tanımıdır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kitre ile yoğunlaştırılmış su üzerine serpilen boyaların kağıda aktarılması.",
+            "explanation": "Bu tanım ebru sanatına aittir, hat sanatına değil."
+          },
+          {
+            "id": "B",
+            "text": "Altın yaldız ve boya kullanılarak kitapların süslenmesi.",
+            "explanation": "Bu tanım tezhip sanatına aittir, hat sanatına değil."
+          },
+          {
+            "id": "C",
+            "text": "Arap harflerinin belirli estetik kurallar çerçevesinde güzel ve düzenli bir biçimde yazılması.",
+            "explanation": "Bu tanım, hat sanatının ders notunda verilen doğru tanımıdır."
+          },
+          {
+            "id": "D",
+            "text": "Kitap içinde perspektif ve gölge olmadan yapılan küçük resimler.",
+            "explanation": "Bu tanım minyatür sanatına aittir, hat sanatına değil."
+          },
+          {
+            "id": "E",
+            "text": "Kağıt oyma sanatı olarak bilinen ve motiflerin kesilerek oluşturulduğu teknik.",
+            "explanation": "Bu tanım katı' sanatına aittir, hat sanatına değil."
+          }
+        ],
+        "correct": "C",
+        "trick": "Şıklarda verilen tanımların birbirine yakın olması, kavramları karıştırmaya yol açabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-010-t2",
+        "stem": "Osmanlı kitap sanatlarında kullanılan aşağıdaki tekniklerden hangisinin tanımı YANLIŞ verilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Tezhip: Altın ve boya kullanılarak kitapların süslenmesi ve yazının çevresini bezeme sanatı.",
+            "explanation": "Bu tanım doğru olup, ders notunda belirtilmiştir."
+          },
+          {
+            "id": "B",
+            "text": "Minyatür: Kitap içinde perspektif ve gölgeye yer verilmeyen, figürlerin önemine göre boyutlandırıldığı küçük resim sanatı.",
+            "explanation": "Bu tanım doğru olup, ders notunda belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Ebru: Kitre ile yoğunlaştırılmış su üzerine serpilen boyaların kağıda aktarılmasıyla elde edilen desen sanatı.",
+            "explanation": "Bu tanım doğru olup, ders notunda belirtilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Kündekari: Ahşap parçaların çivi ve tutkal kullanılarak birleştirilmesiyle geometrik desenler oluşturulması.",
+            "explanation": "Bu tanım yanlıştır. Kündekari tekniğinde ahşap parçalar çivi ve tutkal kullanılmadan, geçmeli olarak birleştirilir."
+          },
+          {
+            "id": "E",
+            "text": "Hat: Arap harflerinin estetik kaygılarla, belirli kurallar çerçevesinde güzel bir şekilde yazılması sanatı.",
+            "explanation": "Bu tanım doğru olup, ders notunda belirtilmiştir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Kündekari tanımındaki 'çivi ve tutkal kullanılarak' ifadesi, ders notundaki 'çivi ve tutkal kullanmadan' ifadesinin tam tersi olduğu için tuzağa düşürücüdür."
+      },
+      {
+        "id": "aile-sanat-tarihi-010-t3",
+        "stem": "Aşağıdaki Osmanlı kitap sanatları ve bu sanatlarda öne çıkan bir özellik eşleştirmelerinden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hat Sanatı - Genellikle kitaplarda arka planın altın yaldızla bezenmesi.",
+            "explanation": "Arka planın altın yaldızla bezenmesi tezhip sanatının bir özelliğidir, hat sanatının değil."
+          },
+          {
+            "id": "B",
+            "text": "Tezhip - Figürlerin önemine göre büyütüldüğü hiyerarşik ölçek kullanımı.",
+            "explanation": "Bu özellik minyatür sanatına aittir, tezhibe değil."
+          },
+          {
+            "id": "C",
+            "text": "Minyatür - Perspektif ve gölge kullanımına özen gösterilmesi.",
+            "explanation": "Minyatür sanatında perspektif ve gölge kullanılmaz, bu ifade yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Cilt Sanatı - Kitap sayfalarının kenarlarına altın yaldızla süslemeler yapılması.",
+            "explanation": "Kitap sayfalarının kenarlarının altın yaldızla süslenmesi tezhip sanatının bir parçasıyken, cilt sanatı kitabın kapağını ve formunu oluşturur."
+          },
+          {
+            "id": "E",
+            "text": "Ebru - Kitre ile yoğunlaştırılmış su üzerine boyaların serpilerek kağıda aktarılması.",
+            "explanation": "Bu eşleştirme doğrudur. Ebru sanatının temel tekniği ders notunda bu şekilde açıklanmıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Sanatların tanımları birbirine yakın olduğu için, özelliklerin hangi sanata ait olduğunu net olarak ayırt edemeyenler yanlış şıkkı seçebilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-011",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Nemrut Dağı'ndaki Kommagene Krallığı'na ait anıtsal yapıların hangi kral tarafından yaptırıldığını bilmek.",
+    "ozet": "Antik Çağ'ın önemli yapılarından biri olan **Nemrut Dağı**, Kommagene Krallığı'nın anıtsal eserlerine ev sahipliği yapar. Buradaki devasa heykeller ve tümülüs, krallığın en önemli hükümdarlarından biri olan **I. Antiochos** tarafından inşa ettirilmiştir. Nemrut Dağı, aynı zamanda **UNESCO Dünya Mirası Listesi**'nde yer almasıyla da bilinir. Bu bilgiyi bilmek, ilgili soruları doğru yanıtlamanız için yeterlidir.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-099",
+        "stem": "UNESCO Dünya Mirası Listesi'nde yer alan Nemrut Dağı'ndaki devasa heykeller ve tümülüs, hangi Kommagene kralı tarafından yaptırılmıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Büyük İskender",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "I. Antiochos",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Kroisos",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Midas",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-011-t1",
+        "stem": "Nemrut Dağı'nda bulunan ve Kommagene Krallığı'na ait devasa heykeller ve tümülüsü yaptıran kral kimdir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I. Antiochos",
+            "explanation": "Ders notunda belirtildiği üzere, Nemrut Dağı'ndaki devasa heykeller ve tümülüs Kommagene kralı I. Antiochos tarafından yaptırılmıştır."
+          },
+          {
+            "id": "B",
+            "text": "Büyük İskender",
+            "explanation": "Büyük İskender, Makedon İmparatorluğu'nun kurucusu olup, Nemrut Dağı'ndaki yapılarla doğrudan bir bağlantısı yoktur."
+          },
+          {
+            "id": "C",
+            "text": "Kroisos",
+            "explanation": "Kroisos, Lidya Krallığı'nın son kralıdır ve Nemrut Dağı'ndaki Kommagene yapıları ile ilişkili değildir."
+          },
+          {
+            "id": "D",
+            "text": "Midas",
+            "explanation": "Midas, Frigya Kralı olup, Nemrut Dağı'ndaki yapılarla ilgisi bulunmamaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Darius",
+            "explanation": "Darius, Ahameniş İmparatorluğu'nun önemli krallarından biridir ve Nemrut Dağı'ndaki Kommagene yapıları ile ilişkili değildir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Şıklarda yer alan diğer tarihi figürlerin Kommagene Krallığı ile ilgisi olmadığına dikkat edilmelidir."
+      },
+      {
+        "id": "aile-sanat-tarihi-011-t2",
+        "stem": "Aşağıdaki ifadelerden hangisi Nemrut Dağı ve Kommagene Krallığı ile ilgili YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Nemrut Dağı'nda bulunan anıtsal yapılar UNESCO Dünya Mirası Listesi'nde yer almaktadır.",
+            "explanation": "Ders notunda Nemrut Dağı'nın UNESCO Dünya Mirası Listesi'nde yer aldığı açıkça belirtilmiştir, bu ifade doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Nemrut Dağı'ndaki yapılar, Antik Dünyanın Yedi Harikası'ndan biri olarak kabul edilmektedir.",
+            "explanation": "Ders notunda Antik Dünyanın Yedi Harikası arasında Nemrut Dağı'nın yer almadığı, Anadolu'da sadece Efes Artemis Tapınağı ve Halikarnassos Mausoleum'unun bulunduğu belirtilmiştir. Dolayısıyla bu ifade yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "Nemrut Dağı'ndaki devasa heykeller ve tümülüs, Kommagene kralı I. Antiochos tarafından inşa ettirilmiştir.",
+            "explanation": "Ders notunda bu bilgi doğru olarak verilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Nemrut Dağı, Kommagene Krallığı'nın en önemli anıtsal eserlerinden biridir.",
+            "explanation": "Ders notunda Nemrut Dağı'ndaki devasa heykeller ve tümülüsün Kommagene kralı I. Antiochos tarafından yaptırıldığı belirtilerek, bu yapıların Kommagene Krallığı için önemine vurgu yapılmıştır. Bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Nemrut Dağı'ndaki anıtlar, kraliyet kültü ve tanrılarla ilişkilidir.",
+            "explanation": "Her ne kadar ders notunda doğrudan bu ifade geçmese de, anıtsal heykeller ve tümülüsün bir kral tarafından yaptırılması, kraliyet kültü ve tanrılarla olan ilişkiye işaret eder ve genel bilgiye göre doğrudur."
+          }
+        ],
+        "correct": "B",
+        "trick": "Antik Dünyanın Yedi Harikası listesini karıştırmamak önemlidir."
+      },
+      {
+        "id": "aile-sanat-tarihi-011-t3",
+        "stem": "Aşağıdaki antik yapılar ve onlarla ilişkili krallar/yaptıranlar eşleştirmelerinden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Efes Artemis Tapınağı - Midas",
+            "explanation": "Efes Artemis Tapınağı, Antik Dünyanın Yedi Harikası'ndan biri olup, Midas ile ilişkili değildir. Midas, Frigya kralıdır."
+          },
+          {
+            "id": "B",
+            "text": "Halikarnassos Mausoleum'u - Kroisos",
+            "explanation": "Halikarnassos Mausoleum'u, Antik Dünyanın Yedi Harikası'ndan biri olup, Kroisos ile ilişkili değildir. Kroisos, Lidya kralıdır."
+          },
+          {
+            "id": "C",
+            "text": "Nemrut Dağı Tümülüsü - I. Antiochos",
+            "explanation": "Ders notunda açıkça belirtildiği üzere, Nemrut Dağı'ndaki tümülüs Kommagene kralı I. Antiochos tarafından yaptırılmıştır."
+          },
+          {
+            "id": "D",
+            "text": "Olympia Zeus Heykeli - Büyük İskender",
+            "explanation": "Olympia Zeus Heykeli, Antik Dünyanın Yedi Harikası'ndan biri olup, Phidias tarafından yapılmıştır, Büyük İskender ile ilişkili değildir."
+          },
+          {
+            "id": "E",
+            "text": "Babil Asma Bahçeleri - Nebuchadnezzar",
+            "explanation": "Babil Asma Bahçeleri, Antik Dünyanın Yedi Harikası'ndan biri olup, ders notunda yaptıranı belirtilmemiştir. Ancak genel bilgiye göre Nebuchadnezzar ile ilişkilidir, fakat bu soruda Nemrut Dağı özelinde doğru cevabı aramaktayız ve ders notunda doğrudan bir eşleştirme yoktur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Antik dönem kralları ve eserleri arasındaki doğru eşleştirmeyi bulmak için dikkatli olunmalıdır."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-012",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Antik Dünyanın Yedi Harikası'nı oluşturan yapılar ve bu listede yer almayan önemli antik yerleşimler arasındaki farkı bilmek.",
+    "ozet": "Antik Dünyanın Yedi Harikası, antik çağın en etkileyici mimari ve sanatsal başarılarını temsil eden bir listedir. Bu liste, **Keops Piramidi**, Babil Asma Bahçeleri, **Efes Artemis Tapınağı**, **Halikarnassos Mausoleum'u**, Olimpia Zeus Heykeli, Rodos Heykeli ve İskenderiye Feneri'nden oluşur. Bu harikalardan ikisi, **Efes Artemis Tapınağı** ve **Halikarnassos Mausoleum'u** Anadolu'da yer alır. Sorularda genellikle listede yer alan bir yapıyla, önemli ancak bu listede bulunmayan bir antik yerleşim veya yapının ayrımı istenir. Bu listeyi bilmek, yanıltıcı seçenekleri elemek için kritik öneme sahiptir.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-100",
+        "stem": "Aşağıdakilerden hangisi, Antik Dünyanın Yedi Harikası'ndan biri değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Zeus Heykeli",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Hierapolis",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Artemis Tapınağı",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "İskenderiye Feneri",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-012-t1",
+        "stem": "Antik Dünyanın Yedi Harikası'ndan ikisi Anadolu'da bulunmaktadır. Aşağıdakilerden hangisi bu iki harikadan biridir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Keops Piramidi",
+            "explanation": "Keops Piramidi, Antik Dünyanın Yedi Harikası'ndan biri olmasına rağmen Mısır'da yer almaktadır, Anadolu'da değildir."
+          },
+          {
+            "id": "B",
+            "text": "Olimpia Zeus Heykeli",
+            "explanation": "Olimpia Zeus Heykeli, Antik Dünyanın Yedi Harikası'ndan biri olmasına rağmen Yunanistan'da yer almaktadır, Anadolu'da değildir."
+          },
+          {
+            "id": "C",
+            "text": "Babil Asma Bahçeleri",
+            "explanation": "Babil Asma Bahçeleri, Antik Dünyanın Yedi Harikası'ndan biri olmasına rağmen Mezopotamya'da (günümüz Irak) yer almaktadır, Anadolu'da değildir."
+          },
+          {
+            "id": "D",
+            "text": "Efes Artemis Tapınağı",
+            "explanation": "Efes Artemis Tapınağı, Antik Dünyanın Yedi Harikası'ndan biri olup Anadolu'da (İzmir, Türkiye) yer almaktadır. Bu nedenle doğru cevaptır."
+          },
+          {
+            "id": "E",
+            "text": "İskenderiye Feneri",
+            "explanation": "İskenderiye Feneri, Antik Dünyanın Yedi Harikası'ndan biri olmasına rağmen Mısır'da yer almaktadır, Anadolu'da değildir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Antik Dünyanın Yedi Harikası'nı bilmek yeterli değildir, aynı zamanda bu harikaların coğrafi konumlarını da bilmek gerekir."
+      },
+      {
+        "id": "aile-sanat-tarihi-012-t2",
+        "stem": "Aşağıdaki antik yapılar veya yerleşimlerden hangisi, Antik Dünyanın Yedi Harikası listesinde YER ALMAZ?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Rodos Heykeli",
+            "explanation": "Rodos Heykeli, Antik Dünyanın Yedi Harikası listesinde yer almaktadır."
+          },
+          {
+            "id": "B",
+            "text": "Halikarnassos Mausoleum'u",
+            "explanation": "Halikarnassos Mausoleum'u, Antik Dünyanın Yedi Harikası listesinde yer almaktadır."
+          },
+          {
+            "id": "C",
+            "text": "Babil Asma Bahçeleri",
+            "explanation": "Babil Asma Bahçeleri, Antik Dünyanın Yedi Harikası listesinde yer almaktadır."
+          },
+          {
+            "id": "D",
+            "text": "Zeus Heykeli",
+            "explanation": "Zeus Heykeli, Antik Dünyanın Yedi Harikası listesinde yer almaktadır."
+          },
+          {
+            "id": "E",
+            "text": "İskenderiye Kütüphanesi",
+            "explanation": "İskenderiye Kütüphanesi, antik dünyanın önemli yapılarından biri olmasına rağmen Antik Dünyanın Yedi Harikası listesinde yer almamaktadır. Bu nedenle doğru cevaptır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Antik dünyanın önemli ve ünlü yapılarını bilmek, ancak bunların hepsinin 'Yedi Harika' listesinde olmadığını gözden kaçırmak yaygın bir tuzaktır."
+      },
+      {
+        "id": "aile-sanat-tarihi-012-t3",
+        "stem": "Antik Dünyanın Yedi Harikası'ndan, günümüze kadar ayakta kalmayı başaran tek yapı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Keops Piramidi",
+            "explanation": "Keops Piramidi, Antik Dünyanın Yedi Harikası'ndan günümüze kadar ayakta kalmayı başaran tek yapıdır. Bu nedenle doğru cevaptır."
+          },
+          {
+            "id": "B",
+            "text": "Efes Artemis Tapınağı",
+            "explanation": "Efes Artemis Tapınağı, Antik Dünyanın Yedi Harikası'ndan biri olmasına rağmen günümüze kalıntıları ulaşmıştır, ayakta değildir."
+          },
+          {
+            "id": "C",
+            "text": "Halikarnassos Mausoleum'u",
+            "explanation": "Halikarnassos Mausoleum'u, Antik Dünyanın Yedi Harikası'ndan biri olmasına rağmen günümüze kalıntıları ulaşmıştır, ayakta değildir."
+          },
+          {
+            "id": "D",
+            "text": "Olimpia Zeus Heykeli",
+            "explanation": "Olimpia Zeus Heykeli, Antik Dünyanın Yedi Harikası'ndan biri olmasına rağmen günümüze ulaşmamıştır."
+          },
+          {
+            "id": "E",
+            "text": "İskenderiye Feneri",
+            "explanation": "İskenderiye Feneri, Antik Dünyanın Yedi Harikası'ndan biri olmasına rağmen günümüze ulaşmamıştır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Tüm harikaları bilmekle birlikte, hangisinin günümüze kadar ayakta kaldığı bilgisini gözden kaçırmak."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-013",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Antik ve Orta Çağ mimarisinde kullanılan özel yapı elemanları ile bunların işlevlerini ve ayırt edici özelliklerini bilmek.",
+    "ozet": "Antik ve Orta Çağ mimarisinde bazı özel yapı elemanları, belirli işlevleri yerine getirmek üzere geliştirilmiştir ve MKS'de sıkça karşımıza çıkar. Örneğin, Antik Yunan mimarisinde **Megaron**, önünde giriş holü bulunan, dikdörtgen planlı ve ortasında ocak yer alan temel bir yapı tipidir. Yunan tapınaklarının naos bölümünün atası sayılır. Orta Çağ Türk mimarisinde ise **Kümbetler**, genellikle silindirik veya çokgen gövdeli, konik veya piramidal külahlı, iki katlı anıt mezarlardır. Bir diğer önemli yapı elemanı olan **Potern**, kale veya surlarda düşmana karşı gizli çıkış ve baskın düzenleme amacıyla kullanılan, sivri kemer biçiminde inşa edilen mimari bir yapıdır. Bu yapıları işlevleri ve ayırt edici formlarıyla bilmek, sınavda doğru cevaba ulaşmanızı sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-018",
+        "stem": "Düşmana karşı baskın düzenlemek ve çıkartma yapmak amacıyla, toprak yığmasının altında çok iri taşların birbiri üzerine bindirilmesiyle sivri kemer biçiminde inşa edilen mimari yapı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Potern",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Aşölyen",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Megaron",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Oldowan",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Girland",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-013-t1",
+        "stem": "Aşağıdakilerden hangisi Antik Dönem mimarisinde, önünde bir giriş holü bulunan, dikdörtgen planlı ve ortasında ocak yer alan yapı tipidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Potern",
+            "explanation": "Potern, kale veya surların gizli çıkış kapıları olarak kullanılan, sivri kemer biçiminde inşa edilen bir mimari yapıdır, megaron tanımına uymaz."
+          },
+          {
+            "id": "B",
+            "text": "Megaron",
+            "explanation": "Megaron, ders notunda belirtildiği gibi, Antik Dönem mimarisinde önünde bir giriş holü bulunan, dikdörtgen planlı ve ortasında ocak yer alan yapı tipidir."
+          },
+          {
+            "id": "C",
+            "text": "Tholos",
+            "explanation": "Tholos, yuvarlak planlı bir tapınak tipidir, dikdörtgen planlı megaron tanımına uymaz."
+          },
+          {
+            "id": "D",
+            "text": "Peripteros",
+            "explanation": "Peripteros, dört yanı tek sıra sütunla çevrili bir tapınak tipidir, megaron tanımına uymaz."
+          },
+          {
+            "id": "E",
+            "text": "Opisthodomos",
+            "explanation": "Opisthodomos, tapınakların arka bölümünü ifade eder (hazine), bir yapı tipi değildir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Şıklarda yer alan diğer Antik mimari terimler, farklı yapı tiplerini veya bölümlerini ifade ederek çeldirici olabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-013-t2",
+        "stem": "Aşağıdaki kümbet-yer eşleştirmelerinden hangisi YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Döner Kümbet - Kayseri",
+            "explanation": "Döner Kümbet, ders notunda belirtildiği gibi Kayseri'de bulunmaktadır. Eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Sırçalı Kümbet - Kayseri",
+            "explanation": "Sırçalı Kümbet, ders notunda belirtildiği gibi Kayseri'de bulunmaktadır. Eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Halime Hatun Kümbeti - Niğde",
+            "explanation": "Halime Hatun Kümbeti, ders notunda belirtildiği gibi Van'ın Gevaş ilçesindedir. Niğde'de bulunan Hüdavend Hatun Kümbeti'dir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Mama Hatun Kümbeti - Erzincan",
+            "explanation": "Mama Hatun Kümbeti, ders notunda belirtildiği gibi Erzincan'ın Tercan ilçesindedir. Eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Alemşah Kümbeti - Eskişehir",
+            "explanation": "Alemşah Kümbeti, ders notunda belirtildiği gibi Sivrihisar (Eskişehir) ilçesindedir. Eşleştirme doğrudur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Birbiriyle yakın illerde bulunan kümbetlerin yerleri karıştırılarak çeldirici oluşturulmuştur."
+      },
+      {
+        "id": "aile-sanat-tarihi-013-t3",
+        "stem": "Antik ve Orta Çağ mimari elemanları ile ilgili aşağıdaki tanımları doğru şekilde eşleştiriniz:\nI. Megaron\nII. Potern\nIII. Kümbet\n\na. Kale veya surların gizli çıkış kapısı olarak kullanılan, sivri kemerli yapı.\nb. Önünde giriş holü bulunan, dikdörtgen planlı ve ortasında ocak yer alan antik yapı tipi.\nc. Selçuklu dönemine özgü, silindirik/çokgen gövdeli, konik veya piramidal külahlı anıt mezar.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I-a, II-b, III-c",
+            "explanation": "Megaron (I) 'b' tanımına, Potern (II) 'a' tanımına, Kümbet (III) ise 'c' tanımına uymaktadır. Bu şık yanlış eşleştirme sunmaktadır."
+          },
+          {
+            "id": "B",
+            "text": "I-c, II-a, III-b",
+            "explanation": "Megaron (I) 'b' tanımına, Potern (II) 'a' tanımına, Kümbet (III) ise 'c' tanımına uymaktadır. Bu şık yanlış eşleştirme sunmaktadır."
+          },
+          {
+            "id": "C",
+            "text": "I-a, II-c, III-b",
+            "explanation": "Megaron (I) 'b' tanımına, Potern (II) 'a' tanımına, Kümbet (III) ise 'c' tanımına uymaktadır. Bu şık yanlış eşleştirme sunmaktadır."
+          },
+          {
+            "id": "D",
+            "text": "I-b, II-a, III-c",
+            "explanation": "Megaron (I), 'Önünde giriş holü bulunan, dikdörtgen planlı ve ortasında ocak yer alan antik yapı tipi' (b) ile doğru eşleşir. Potern (II), 'Kale veya surların gizli çıkış kapısı olarak kullanılan, sivri kemerli yapı' (a) ile doğru eşleşir. Kümbet (III), 'Selçuklu dönemine özgü, silindirik/çokgen gövdeli, konik veya piramidal külahlı anıt mezar' (c) ile doğru eşleşir. Tüm eşleştirmeler ders notuna göre doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "I-c, II-b, III-a",
+            "explanation": "Megaron (I) 'b' tanımına, Potern (II) 'a' tanımına, Kümbet (III) ise 'c' tanımına uymaktadır. Bu şık yanlış eşleştirme sunmaktadır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Tanımların ve mimari elemanların birbirine karıştırılması, en yaygın tuzaktır."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-014",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "MKS'de başarılı olmak için Anadolu Selçuklu ve Beylikler Dönemi medreseleri ile bulundukları şehirleri doğru eşleştirebilmek esastır.",
+    "ozet": "Anadolu Selçuklu ve Beylikler Dönemi, Türk-İslam mimarisinin önemli eserlerini barındırır. Bu dönemde yapılan medreseler, hem eğitim hem de sanat açısından büyük önem taşır. Medreselerin mimari özellikleri arasında **anıtsal taçkapılar**, **çini süslemeler** ve **farklı plan tipleri** bulunur. Özellikle **Konya**, **Sivas** ve **Erzurum** gibi şehirler, önemli medrese örneklerine ev sahipliği yapar. Sınavda bu medreselerin hangi şehirde bulunduğunu doğru bir şekilde eşleştirebilmek, başarılı olmak için kritik bir bilgidir. Örneğin, **İnce Minareli Medrese** ve **Karatay Medresesi** Konya'da, **Divriği Ulu Camii ve Darüşşifası** Sivas'ta ve **Yakutiye Medresesi** Erzurum'da yer alır. Bu eserlerin konumlarını bilmek, soru çözmede size avantaj sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-037",
+        "stem": "Aşağıdaki şehir ve medrese eşleştirmelerinden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Sahabiye Medresesi - Sivas",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Cacabey Medresesi - Amasya",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Yakutiye Medresesi - Erzurum",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Gök Medrese - Kayseri",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Kapı Ağası Medresesi - Kırşehir",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-014-t1",
+        "stem": "Anadolu Selçuklu dönemi mimarisinin önemli yapılarından biri olan Karatay Medresesi hangi ilimizde bulunmaktadır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Sivas",
+            "explanation": "Sivas'ta Divriği Ulu Camii ve Darüşşifası ile Gök Medrese gibi önemli yapılar bulunur, Karatay Medresesi Sivas'ta değildir."
+          },
+          {
+            "id": "B",
+            "text": "Erzurum",
+            "explanation": "Erzurum'da Yakutiye Medresesi ve Çifte Minareli Medrese gibi eserler yer alır, Karatay Medresesi Erzurum'da değildir."
+          },
+          {
+            "id": "C",
+            "text": "Kayseri",
+            "explanation": "Kayseri'de Döner Kümbet gibi yapılar bulunur, ancak Karatay Medresesi Kayseri'de değildir."
+          },
+          {
+            "id": "D",
+            "text": "Aksaray",
+            "explanation": "Aksaray'da Sultanhanı gibi kervansaraylar bulunur, Karatay Medresesi Aksaray'da değildir."
+          },
+          {
+            "id": "E",
+            "text": "Konya",
+            "explanation": "Karatay Medresesi, Anadolu Selçuklu başkenti Konya'da yer alan önemli bir medresedir ve çini kubbesiyle bilinir."
+          }
+        ],
+        "correct": "E",
+        "trick": "Öğrencinin Selçuklu medreselerinin yoğunlaştığı şehirleri karıştırması amaçlanmıştır."
+      },
+      {
+        "id": "aile-sanat-tarihi-014-t2",
+        "stem": "Aşağıdaki Anadolu Selçuklu medrese ve bulunduğu şehir eşleştirmelerinden hangisi YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Gök Medrese - Kayseri",
+            "explanation": "Gök Medrese, Sivas'ta çift minareli yapısıyla bilinen bir Selçuklu medresesidir, Kayseri'de değildir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "İnce Minareli Medrese - Konya",
+            "explanation": "İnce Minareli Medrese, Konya'da bulunan ve taçkapısındaki hat kuşaklarıyla ünlü bir Selçuklu medresesidir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Sırçalı Medrese - Konya",
+            "explanation": "Sırçalı Medrese, Konya'da çini süslemeleriyle bilinen bir Selçuklu medresesidir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Çifte Minareli Medrese - Erzurum",
+            "explanation": "Çifte Minareli Medrese, Erzurum'da anıtsal taçkapısıyla öne çıkan bir Selçuklu medresesidir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Yakutiye Medresesi - Erzurum",
+            "explanation": "Yakutiye Medresesi, Erzurum'da bulunan önemli Selçuklu dönemi medreselerinden biridir. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Soru, doğru eşleştirmeleri bilen ancak 'yanlış olanı bulma' yönergesini gözden kaçıran adayları yanıltmayı hedefler."
+      },
+      {
+        "id": "aile-sanat-tarihi-014-t3",
+        "stem": "Aşağıdaki Anadolu Selçuklu medreselerinden hangisi, günümüzde Sivas ilimizin sınırları içerisinde yer almaktadır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İnce Minareli Medrese",
+            "explanation": "İnce Minareli Medrese Konya'da bulunmaktadır."
+          },
+          {
+            "id": "B",
+            "text": "Gök Medrese",
+            "explanation": "Gök Medrese Sivas'ta yer alan çift minareli önemli bir Selçuklu medresesidir."
+          },
+          {
+            "id": "C",
+            "text": "Karatay Medresesi",
+            "explanation": "Karatay Medresesi Konya'da bulunmaktadır."
+          },
+          {
+            "id": "D",
+            "text": "Yakutiye Medresesi",
+            "explanation": "Yakutiye Medresesi Erzurum'da bulunmaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Çifte Minareli Medrese",
+            "explanation": "Çifte Minareli Medrese Erzurum'da bulunmaktadır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Medreselerin hangi şehirde olduğunu bilmekle birlikte, benzer isimli (Çifte Minareli / Gök) medreseler arasında karışıklık yaşanması amaçlanmıştır."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-015",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Anadolu Selçuklu dönemi kümbetlerinin isimlerini ve bulundukları illeri doğru bir şekilde eşleştirebilmek.",
+    "ozet": "Anadolu Selçuklu dönemine özgü olan **kümbetler**, genellikle silindirik veya çokgen gövdeli, **konik veya piramidal külahlı** anıt mezarlardır. Çoğunlukla iki katlı olup, alt katta mumyalık, üst katta ise ziyaret katı bulunur. Bu yapılar, Selçuklu mimarisinin önemli örneklerindendir ve bulundukları illerle özdeşleşmişlerdir. Özellikle **Kayseri**, bünyesinde birden fazla kümbet barındıran zengin bir şehirdir. Sınavlarda genellikle kümbet isimleri ve illerinin doğru eşleştirilmesi istenir. Bu nedenle, önemli kümbetlerin hangi şehirlerde yer aldığını bilmek kritik öneme sahiptir.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-044",
+        "stem": "I. Alemşah Kümbeti - Sivrihisar\nII. Döner Kümbet - Kayseri\nIII. Alaaeddin Bey Kümbeti - Nevşehir\nIV. Üç Kümbetler - Erzurum\nV. Sırçalı Kümbet - Erzincan\n\nYukarıdaki kümbet ve yer eşleştirmelerinden hangileri doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "II ve III",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "I, II ve III",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "I, II ve IV",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "I, III ve V",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "II, III, IV ve V",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-015-t1",
+        "stem": "Aşağıdaki kümbetlerden hangisi yanlış şehirle eşleştirilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Döner Kümbet - Kayseri",
+            "explanation": "Döner Kümbet, Kayseri'de bulunan ve Selçuklu dönemine ait önemli bir kümbet örneğidir. Eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Alemşah Kümbeti - Sivrihisar",
+            "explanation": "Alemşah Kümbeti, Sivrihisar'da (Eskişehir) yer almaktadır. Eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Sırçalı Kümbet - Erzincan",
+            "explanation": "Sırçalı Kümbet Kayseri'de bulunmaktadır. Erzincan'da bulunan kümbet Mama Hatun Kümbeti'dir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Mama Hatun Kümbeti - Tercan",
+            "explanation": "Mama Hatun Kümbeti, Erzincan'ın Tercan ilçesinde bulunmaktadır. Eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Halime Hatun Kümbeti - Gevaş",
+            "explanation": "Halime Hatun Kümbeti, Van'ın Gevaş ilçesinde yer almaktadır. Eşleştirme doğrudur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Kayseri'deki Sırçalı Kümbet ile Erzincan'daki Mama Hatun Kümbeti'nin karıştırılması."
+      },
+      {
+        "id": "aile-sanat-tarihi-015-t2",
+        "stem": "Anadolu Selçuklu kümbetleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kümbetler genellikle silindirik veya çokgen gövdeli, konik veya piramidal külahlı anıt mezarlardır.",
+            "explanation": "Ders notunda kümbetlerin bu özelliklere sahip olduğu açıkça belirtilmiştir. Bu ifade doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Altta mumyalık ve üstte ziyaret katı olmak üzere çoğunlukla iki katlıdırlar.",
+            "explanation": "Ders notunda kümbetlerin genellikle iki katlı olduğu (altta mumyalık, üstte ziyaret katı) bilgisi yer almaktadır. Bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Kayseri, kümbet sayısı bakımından en zengin illerimizden biridir.",
+            "explanation": "Ders notunda Kayseri'nin Döner ve Sırçalı Kümbet gibi eserlerle kümbet bakımından zengin olduğu belirtilmiştir. Bu ifade doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Kümbetlerin mimarisi genellikle Osmanlı döneminde yaygınlaşmıştır.",
+            "explanation": "Ders notunda kümbetlerin 'Selçuklu dönemine özgü' olduğu belirtilmektedir. Türbeler Osmanlı'da yaygındır. Bu ifade yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "Alemşah Kümbeti Sivrihisar'da, Mama Hatun Kümbeti ise Tercan'da bulunmaktadır.",
+            "explanation": "Ders notunda bu kümbetlerin doğru yerleri belirtilmiştir. Bu ifade doğrudur."
+          }
+        ],
+        "correct": "D",
+        "trick": "Kümbetlerin Osmanlı dönemine ait olduğu yanılgısı, halbuki Selçuklu dönemine özgüdür."
+      },
+      {
+        "id": "aile-sanat-tarihi-015-t3",
+        "stem": "Aşağıdaki kümbetlerden hangileri ders notunda belirtildiği üzere Kayseri ilimizde yer almaktadır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I. Döner Kümbet\nII. Sırçalı Kümbet\nIII. Mama Hatun Kümbeti",
+            "explanation": "Mama Hatun Kümbeti Erzincan'ın Tercan ilçesindedir, Kayseri'de değildir."
+          },
+          {
+            "id": "B",
+            "text": "I. Alemşah Kümbeti\nII. Döner Kümbet\nIII. Halime Hatun Kümbeti",
+            "explanation": "Alemşah Kümbeti Sivrihisar'da, Halime Hatun Kümbeti ise Gevaş'tadır. Bu kümbetler Kayseri'de değildir."
+          },
+          {
+            "id": "C",
+            "text": "I. Mama Hatun Kümbeti\nII. Sırçalı Kümbet",
+            "explanation": "Mama Hatun Kümbeti Erzincan'ın Tercan ilçesindedir, Kayseri'de değildir."
+          },
+          {
+            "id": "D",
+            "text": "I. Alemşah Kümbeti\nII. Mama Hatun Kümbeti",
+            "explanation": "Alemşah Kümbeti Sivrihisar'da, Mama Hatun Kümbeti ise Tercan'dadır. Bu kümbetler Kayseri'de değildir."
+          },
+          {
+            "id": "E",
+            "text": "I. Döner Kümbet\nII. Sırçalı Kümbet",
+            "explanation": "Ders notunda Döner Kümbet ve Sırçalı Kümbet'in ikisinin de Kayseri'de olduğu açıkça belirtilmiştir. Bu şık doğrudur."
+          }
+        ],
+        "correct": "E",
+        "trick": "Kayseri'deki birden fazla kümbetin varlığını gözden kaçırmak ve diğer şehirlerdeki kümbetlerle karıştırmak."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-016",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Yamaçevler'in bulunduğu antik yerleşimi bilmek, antik Roma dönemi mimarisi ve yerleşim alanları hakkındaki temel bilgiyi ölçer.",
+    "ozet": "Antik dönem mimarisi, farklı medeniyetlerin kendine özgü yapılarıyla öne çıkar. Özellikle Roma dönemi, **fresk** ve **mozaik** gibi süsleme sanatlarıyla zenginleşmiş yaşam alanlarına ev sahipliği yapmıştır. Bu tür yapılar, günlük yaşamın ve sanatsal ifadenin önemli bir parçasıydı. Antik kentlerdeki yapıların işlevlerini ve konumlarını bilmek, o dönemin kültürel ve sosyal yapısını anlamak için kritik öneme sahiptir. Örneğin, **Efes** gibi büyük antik kentler, Roma İmparatorluğu'nun önemli merkezleri olup, zengin konutlar ve kamusal yapılarla doluydu. Bu kentlerdeki özel konutlar, genellikle yamaçlara inşa edilerek eşsiz manzaralar sunar ve karmaşık iç dekorasyonlara sahipti.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-054",
+        "stem": "Roma dönemine ait fresk ve mozaikleriyle ünlü \"Yamaçevler\" aşağıdaki antik yerleşimlerden hangisinde bulunur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bergama",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Hierapolis",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Efes",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Side",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Aphrodisias",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-016-t1",
+        "stem": "Antik kentlerdeki zengin konut mimarisini temsil eden ve fresk ile mozaik sanatının önemli örneklerini barındıran 'Yamaçevler'in yer aldığı antik kent aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Efes",
+            "explanation": "Efes, Roma dönemine ait fresk ve mozaikleriyle ünlü 'Yamaçevler'in bulunduğu antik kenttir. Bu evler, Efes'in zengin sakinlerinin yaşam tarzını ve dönemin sanat anlayışını yansıtır."
+          },
+          {
+            "id": "B",
+            "text": "Bergama",
+            "explanation": "Bergama, Hellenistik dönemin önemli merkezlerinden biri olup, Yamaçevler ile değil, özellikle Akropolisi ve Asklepion'u ile tanınır. Roma dönemine ait Yamaçevler burada bulunmaz."
+          },
+          {
+            "id": "C",
+            "text": "Hierapolis",
+            "explanation": "Hierapolis, termal suları ve nekropolisi ile ünlüdür. Yamaçevler mimarisi bu antik kentte yer almamaktadır."
+          },
+          {
+            "id": "D",
+            "text": "Side",
+            "explanation": "Side, özellikle tiyatrosu ve tapınaklarıyla bilinen bir antik kenttir ancak Yamaçevler olarak adlandırılan özel konut yapıları burada bulunmaz."
+          },
+          {
+            "id": "E",
+            "text": "Aphrodisias",
+            "explanation": "Aphrodisias, özellikle heykeltıraşlık okulu ve stadyumu ile öne çıkar. Yamaçevler, bu antik kentin karakteristik özelliği değildir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Diğer antik kentlerin de Roma dönemine ait kalıntıları olması, çeldirici olarak kullanılabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-016-t2",
+        "stem": "Aşağıdaki antik yerleşimlerden hangisi, Roma dönemine ait 'Yamaçevler' olarak bilinen ve zengin fresk ile mozaik süslemeleri içeren konut yapılarına EV SAHİPLİĞİ YAPMAZ?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Perge",
+            "explanation": "Perge, Roma dönemi mimarisinin önemli örneklerini barındırsa da, 'Yamaçevler' olarak özel olarak anılan konut kompleksleri burada bulunmaz."
+          },
+          {
+            "id": "B",
+            "text": "Efes",
+            "explanation": "Efes, Roma dönemine ait fresk ve mozaikleriyle ünlü 'Yamaçevler'in bulunduğu antik kenttir, dolayısıyla bu ifade yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "Priene",
+            "explanation": "Priene, düzenli şehir planlaması ve Athena Polias Tapınağı ile bilinir, ancak Yamaçevler ile özdeşleşmiş bir yer değildir."
+          },
+          {
+            "id": "D",
+            "text": "Aspendos",
+            "explanation": "Aspendos, dünyaca ünlü Roma tiyatrosuyla bilinir. Yamaçevler burada yer almaz."
+          },
+          {
+            "id": "E",
+            "text": "Milet",
+            "explanation": "Milet, antik çağın önemli liman kentlerinden biri olup, Agora ve Faustina Hamamı gibi yapılarıyla tanınır. Yamaçevler burada bulunmaz."
+          }
+        ],
+        "correct": "B",
+        "trick": "Sorunun olumsuz köküne dikkat etmemek, doğru cevabı yanlış işaretlemeye yol açabilir."
+      },
+      {
+        "id": "aile-sanat-tarihi-016-t3",
+        "stem": "Aşağıdaki antik kent ve Roma dönemine ait karakteristik yapısı eşleştirmelerinden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hierapolis - Efes Artemis Tapınağı",
+            "explanation": "Efes Artemis Tapınağı, adından da anlaşılacağı üzere Efes'te yer alır, Hierapolis'te değil. Hierapolis, nekropolisi ve termal sularıyla bilinir."
+          },
+          {
+            "id": "B",
+            "text": "Bergama - Zeus Sunağı",
+            "explanation": "Bergama'daki Zeus Sunağı doğru bir eşleştirmedir, ancak soru Yamaçevler ile ilgili bilgiyi dolaylı olarak ölçtüğü için bu şık çeldiricidir. Yamaçevler konusuyla doğrudan ilişkili değildir."
+          },
+          {
+            "id": "C",
+            "text": "Efes - Yamaçevler",
+            "explanation": "Efes'te Roma dönemine ait fresk ve mozaikleriyle ünlü 'Yamaçevler' bulunur. Bu eşleştirme doğrudur ve ders notunda doğrudan belirtilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Side - Antik Tiyatro",
+            "explanation": "Side'nin Antik Tiyatrosu mevcuttur ve bu eşleştirme doğrudur. Ancak Yamaçevler ile ilgili değildir."
+          },
+          {
+            "id": "E",
+            "text": "Aphrodisias - Celsus Kütüphanesi",
+            "explanation": "Celsus Kütüphanesi Efes'te yer alır, Aphrodisias'ta değil. Aphrodisias, heykeltıraşlık okulu ve stadyumu ile tanınır."
+          }
+        ],
+        "correct": "C",
+        "trick": "Diğer antik kentlerin de önemli yapıları olması ve bazı yapıların yanlış kentlerle eşleştirilmesi kafaları karıştırabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-017",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Klasik Dönem Yunan heykel sanatının önemli temsilcilerinden Praxiteles'in bilinen eserlerini tanımak.",
+    "ozet": "Antik Yunan heykel sanatı, MKS'de dönem ve sanatçı eşleştirmeleriyle sıkça karşımıza çıkar. Özellikle Klasik Dönem'de **ideal insan formu** ve **denge** ön plandadır. Bu dönemin öne çıkan heykeltıraşlarından biri **Praxiteles**'tir. Praxiteles, eserlerinde insan figürüne yumuşaklık ve zarafet katmasıyla bilinir. En ünlü eserleri arasında \"**Hermes ve Bebek Dionysos**\" ile \"**Knidos Aphroditesi**\" yer alır. Bu eserler, onun sanatsal üslubunu ve döneminin estetik anlayışını yansıtan önemli örneklerdir. Bu isimleri ve eserlerini bilmek, benzer soruları kolayca çözmenizi sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-064",
+        "stem": "\"Hermes ve Bebek Dionysos\" ile \"Knidos Aphroditesi\" heykelleriyle tanınan Klasik Dönem Yunan heykel sanatçısı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Lysippos",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Leochares",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Skopas",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Praxiteles",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "E",
+            "text": "Phidias",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-017-t1",
+        "stem": "Aşağıdakilerden hangisi, Klasik Dönem Yunan heykeltıraşı Praxiteles'e ait eserlerden biridir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Disk Atan (Diskobolos)",
+            "explanation": "Disk Atan (Diskobolos) heykeli, Myron'a aittir ve Praxiteles'in eseri değildir."
+          },
+          {
+            "id": "B",
+            "text": "Laokoon ve Oğulları",
+            "explanation": "Laokoon ve Oğulları heykeli, Helenistik Dönem'e ait olup Praxiteles'in yaşadığı Klasik Dönem'den sonra yapılmıştır ve Praxiteles'e ait değildir."
+          },
+          {
+            "id": "C",
+            "text": "Nike (Zafer Tanrıçası) Heykeli (Semadirek Nike'si)",
+            "explanation": "Semadirek Nike'si heykeli, Helenistik Dönem'e aittir ve Praxiteles'in eseri değildir."
+          },
+          {
+            "id": "D",
+            "text": "Knidos Aphroditesi",
+            "explanation": "Knidos Aphroditesi, ders notunda da belirtildiği gibi, Praxiteles'in en bilinen eserlerinden biridir."
+          },
+          {
+            "id": "E",
+            "text": "Zeus Heykeli (Olimpia)",
+            "explanation": "Olimpia Zeus Heykeli, Phidias tarafından yapılmıştır ve Antik Dünyanın Yedi Harikası'ndan biridir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Öğrencinin farklı dönem ve sanatçılara ait ünlü heykelleri birbirine karıştırması amaçlanmıştır."
+      },
+      {
+        "id": "aile-sanat-tarihi-017-t2",
+        "stem": "Klasik Dönem Yunan heykel sanatına ilişkin aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Myron, 'Disk Atan' (Diskobolos) heykeli ile tanınır.",
+            "explanation": "Ders notunda açıkça belirtildiği gibi, 'Disk Atan' heykeli Myron'a aittir. Bu ifade doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Praxiteles, 'Hermes ve Bebek Dionysos' heykeliyle öne çıkan bir sanatçıdır.",
+            "explanation": "Ders notunda belirtildiği üzere, Praxiteles'in önemli eserlerinden biri 'Hermes ve Bebek Dionysos'tur. Bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Klasik dönem Yunan heykel sanatında ideal insan formu ve denge ön plandadır.",
+            "explanation": "Ders notunda açıkça ifade edildiği gibi, Klasik dönem Yunan heykel sanatının karakteristik özelliklerinden biri ideal insan formu ve dengedir. Bu ifade doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Praxiteles, 'Knidos Aphroditesi' ile ün kazanmıştır.",
+            "explanation": "Ders notunda Praxiteles'in 'Knidos Aphroditesi' heykeliyle tanındığı belirtilmiştir. Bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Phidias tarafından yapılan Zeus Heykeli, Antik Dünyanın Yedi Harikası'ndan biri değildir.",
+            "explanation": "Ders notunda Phidias tarafından yapılan Zeus Heykeli'nin Antik Dünyanın Yedi Harikası'ndan biri olduğu açıkça belirtilmiştir. Bu ifade yanlıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Öğrencinin olumsuz soru kökünü ve Antik Dünyanın Yedi Harikası bilgisini gözden kaçırması hedeflenmiştir."
+      },
+      {
+        "id": "aile-sanat-tarihi-017-t3",
+        "stem": "Aşağıda verilen Klasik Dönem Yunan heykeltıraşları ve eserleri eşleştirmelerinden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Praxiteles - Knidos Aphroditesi",
+            "explanation": "Ders notunda da belirtildiği gibi, 'Knidos Aphroditesi' heykeli Praxiteles'in önemli eserlerinden biridir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Myron - Hermes ve Bebek Dionysos",
+            "explanation": "'Hermes ve Bebek Dionysos' heykeli Praxiteles'e aittir, Myron'a değil. Myron 'Disk Atan' ile tanınır."
+          },
+          {
+            "id": "C",
+            "text": "Praxiteles - Disk Atan (Diskobolos)",
+            "explanation": "'Disk Atan' (Diskobolos) heykeli Myron'a aittir, Praxiteles'e değil. Praxiteles 'Knidos Aphroditesi' ve 'Hermes ve Bebek Dionysos' ile tanınır."
+          },
+          {
+            "id": "D",
+            "text": "Phidias - Knidos Aphroditesi",
+            "explanation": "'Knidos Aphroditesi' heykeli Praxiteles'e aittir. Phidias, Olimpia Zeus Heykeli ve Parthenon heykelleriyle bilinir."
+          },
+          {
+            "id": "E",
+            "text": "Myron - Olimpia Zeus Heykeli",
+            "explanation": "Olimpia Zeus Heykeli, Phidias tarafından yapılmıştır, Myron'a ait değildir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Öğrencinin benzer isimleri ve eserleri karıştırması için yanlış eşleştirmelerle dikkat dağıtılmıştır."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-018",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Bu soru, Batı Sanatı dönemleri ve önemli eser-sanatçı eşleştirmeleri hakkındaki bilgiyi ölçmektedir.",
+    "ozet": "MKS'de Batı sanatı soruları genellikle dönem, özellik ve sanatçı eşleştirmeleri üzerinden gelir. Her dönemin kendine özgü bir karakteri ve öne çıkan temsilcileri vardır. Örneğin, **Rönesans** perspektif ve insan merkezliliğiyle öne çıkarken, **Barok** hareket ve dramatik ışık-gölge kullanımıyla bilinir. **İzlenimcilik** ışığın anlık etkisini yakalamaya odaklanırken, **Kübizm** nesneleri çok yönden aynı anda gösterme prensibine dayanır. **Gustav Klimt'in 'Öpücük' tablosu** gibi ikonik eserler, sanatçılarıyla birlikte akılda tutulmalıdır. Bu anahtar eşleştirmeleri bilmek, sınavdaki birçok soruyu çözmenizi sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-070",
+        "stem": "Viyana Belvedere Sarayı'nda sergilenen \"Öpücük\" adlı tablo aşağıdaki ressamlardan hangisine aittir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Michelangelo",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Gustav Klimt",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Raffaello",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Vincent Van Gogh",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Salvador Dali",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-018-t1",
+        "stem": "Antik Yunan heykel sanatının önemli eserlerinden 'Disk Atan' (Diskobolos) heykelinin heykeltıraşı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Praxiteles",
+            "explanation": "Praxiteles, 'Hermes ve Bebek Dionysos' ile 'Knidos Aphroditesi' heykelleriyle tanınan Klasik Dönem Yunan heykeltıraşlarından biridir, Diskobolos'un yaratıcısı değildir."
+          },
+          {
+            "id": "B",
+            "text": "Myron",
+            "explanation": "'Disk Atan' (Diskobolos) heykelinin heykeltıraşı Myron'dur. Metinde açıkça belirtilmiştir: 'Antik Yunan heykel sanatının önemli eserlerinden 'Disk Atan' (Diskobolos) heykelinin heykeltıraşı Myron'dur.'"
+          },
+          {
+            "id": "C",
+            "text": "Phidias",
+            "explanation": "Phidias, Olimpia Zeus Heykeli gibi büyük ölçekli eserleriyle tanınan önemli bir Klasik Dönem heykeltıraşıdır, ancak Diskobolos'un heykeltıraşı değildir."
+          },
+          {
+            "id": "D",
+            "text": "Poliklet",
+            "explanation": "Poliklet, 'Doryphoros' (Mızrak Taşıyan) heykeli ve oran kanunuyla bilinen bir heykeltıraştır, Diskobolos'un yaratıcısı değildir."
+          },
+          {
+            "id": "E",
+            "text": "Lysippos",
+            "explanation": "Lysippos, Geç Klasik Dönem'in önde gelen heykeltıraşlarından biridir ve heykellerinde daha ince oranlar kullanmıştır, ancak Diskobolos'un heykeltıraşı değildir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Farklı Yunan heykeltıraşlarının eserlerini karıştırmak, bu sorudaki temel tuzaktır."
+      },
+      {
+        "id": "aile-sanat-tarihi-018-t2",
+        "stem": "Aşağıdakilerden hangisi Antik Dünyanın Yedi Harikası'ndan biri değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Efes Artemis Tapınağı",
+            "explanation": "Efes Artemis Tapınağı, Antik Dünyanın Yedi Harikası'ndan biridir ve notta açıkça belirtilmiştir."
+          },
+          {
+            "id": "B",
+            "text": "Halikarnassos Mausoleum'u",
+            "explanation": "Halikarnassos Mausoleum'u, Antik Dünyanın Yedi Harikası'ndan biridir ve notta açıkça belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Hierapolis Antik Kenti",
+            "explanation": "Hierapolis Antik Kenti, Antik Dünyanın Yedi Harikası'ndan biri değildir. Notta bu bilgi 'Hierapolis, Antik Dünyanın Yedi Harikası'ndan biri değildir.' şeklinde açıkça verilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Olimpia Zeus Heykeli",
+            "explanation": "Olimpia Zeus Heykeli, Antik Dünyanın Yedi Harikası'ndan biridir ve notta açıkça belirtilmiştir."
+          },
+          {
+            "id": "E",
+            "text": "Babil Asma Bahçeleri",
+            "explanation": "Babil Asma Bahçeleri, Antik Dünyanın Yedi Harikası'ndan biridir ve notta açıkça belirtilmiştir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Antik kentler ve harikalar arasındaki farkı gözden kaçırmak, bu sorudaki tuzaktır."
+      },
+      {
+        "id": "aile-sanat-tarihi-018-t3",
+        "stem": "Aşağıdaki mimari terimlerden hangisi, ait olduğu açıklamayla doğru şekilde eşleştirilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Pandantif: Kareden kubbeye geçişte köşeleri kesen küçük yarım konik öge.",
+            "explanation": "Bu açıklama Tromp'a aittir. Pandantif ise 'kareden kubbeye geçişte köşelerdeki küresel üçgen' olarak tanımlanır."
+          },
+          {
+            "id": "B",
+            "text": "Tromp: Kareden kubbeye geçişte köşelerdeki küresel üçgen.",
+            "explanation": "Bu açıklama Pandantif'e aittir. Tromp ise 'kareden kubbeye geçişte köşeleri kesen küçük yarım konik öge' olarak tanımlanır."
+          },
+          {
+            "id": "C",
+            "text": "Kündekari: Ahşap parçaların çivi ve tutkal kullanılarak birleştirilmesi tekniği.",
+            "explanation": "Kündekari tekniğinde ahşap parçalar 'çivi ve tutkal kullanmadan' geçmeli birleştirilir. Bu açıklama yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Mukarnas: Sarkıt biçiminde, kademeli hücrelerden oluşan dolgu bezemesi.",
+            "explanation": "Mukarnas'ın tanımı doğrudur. Metinde 'Sarkıt biçiminde, kademeli hücrelerden oluşan dolgu bezemesi' olarak geçmektedir."
+          },
+          {
+            "id": "E",
+            "text": "Potern: Kale veya surlarda düşman saldırılarını kolaylaştırmak amacıyla yapılan ana giriş kapısı.",
+            "explanation": "Potern, düşmana karşı baskın düzenlemek ve gizli çıkış amacıyla kullanılan, toprak yığmasının altında inşa edilen sivri kemer biçiminde bir yapıdır. Ana giriş kapısı değildir, aksine gizli bir geçittir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Benzer görünümlü veya işlevli mimari terimlerin tanımlarını karıştırmak, bu sorunun ana tuzağıdır."
+      }
+    ]
+  },
+  {
+    "id": "aile-sanat-tarihi-019",
+    "topicId": "sanat-tarihi",
+    "cekirdek": "Antik Yunan mimarisindeki klasik sütun düzenlerinin (Dor, İyon, Korint) ayırt edici özelliklerini bilmek.",
+    "ozet": "Antik Yunan mimarisinde üç temel sütun düzeni bulunur: **Dor**, **İyon** ve **Korint**. Bu düzenleri ayırt etmek için sütun başlığına ve kaideye bakmak yeterlidir. **Dor** düzeninde kaide bulunmaz ve başlık sade, yastık biçimlidir. **İyon** düzeninin ayırt edici özelliği, başlığındaki **volüt (koç boynuzu)** kıvrımlarıdır. En süslü olan **Korint** düzeninin karakteristik özelliği ise **akantus yaprağı** motifleriyle bezeli başlığıdır. Bu üç düzenin temel özelliklerini bilmek, mimari yapıları doğru bir şekilde tanımlamanızı sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-099",
+        "stem": "\"Akantüs yapraklı sütun başlığı, klasik mimaride ......... düzeninin ayırt edici unsurudur.\"\n\nYukarıda boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Aiol",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "İyon",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Korint",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Dor",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Karyatid",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-sanat-tarihi-019-t1",
+        "stem": "Aşağıdaki sütun düzenlerinden hangisi kaidesiz olup, sütun gövdesinin doğrudan zemine oturduğu ve başlığının sade, yastık biçiminde olduğu bir yapıya sahiptir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Korint",
+            "explanation": "Korint düzeninin kaidesi vardır ve başlığı akantus yapraklarıyla süslüdür."
+          },
+          {
+            "id": "B",
+            "text": "İyon",
+            "explanation": "İyon düzeninin kaidesi vardır ve başlığı volüt (koç boynuzu) şeklindedir."
+          },
+          {
+            "id": "C",
+            "text": "Aiol",
+            "explanation": "Aiol, klasik üç düzenden biri değildir ve notta bahsedilmemiştir."
+          },
+          {
+            "id": "D",
+            "text": "Kompozit",
+            "explanation": "Kompozit düzeni, İyon ve Korint düzenlerinin birleşimidir ve notta bahsedilmemiştir."
+          },
+          {
+            "id": "E",
+            "text": "Dor",
+            "explanation": "Dor düzeninin ayırt edici özelliği kaidesinin olmaması ve sütunun doğrudan zemine oturmasıdır. Başlığı da sade ve yastık biçimlidir."
+          }
+        ],
+        "correct": "E",
+        "trick": "Sütun düzenlerinin sadece başlık özelliklerine odaklanıp kaide özelliğini gözden kaçırmak."
+      },
+      {
+        "id": "aile-sanat-tarihi-019-t2",
+        "stem": "Antik Yunan mimarisindeki klasik sütun düzenleri ve ayırt edici özellikleri ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Korint düzeni, klasik sütun düzenleri arasında en sade ve gösterişsiz olanıdır.",
+            "explanation": "Bu ifade yanlıştır. Ders notuna göre Korint düzeni, 'en süslü ve en gösterişli' olanıdır."
+          },
+          {
+            "id": "B",
+            "text": "Dor düzeni, en erken dönemde ortaya çıkmış olup ağır ve güçlü bir karaktere sahiptir.",
+            "explanation": "Bu ifade doğrudur. Dor düzeni en erken dönemde ortaya çıkmış ve 'erkeksi' olarak tanımlanan ağır ve güçlü bir karaktere sahiptir."
+          },
+          {
+            "id": "C",
+            "text": "İyon düzeninin başlıca ayırt edici unsuru, volüt (koç boynuzu) biçimli başlığıdır.",
+            "explanation": "Bu ifade doğrudur. İyon düzeninin karakteristik özelliği volüt başlıklardır."
+          },
+          {
+            "id": "D",
+            "text": "Dor düzeninin kaidesi yoktur ve sütun gövdesi doğrudan zemine oturur.",
+            "explanation": "Bu ifade doğrudur. Dor düzeninin en belirgin özelliklerinden biri kaidesinin olmamasıdır."
+          },
+          {
+            "id": "E",
+            "text": "İyon düzeni, Batı Anadolu'da doğmuş ve Efes Artemis Tapınağı gibi önemli yapılarında kullanılmıştır.",
+            "explanation": "Bu ifade doğrudur. İyon düzeninin Batı Anadolu'da doğduğu ve Efes Artemis Tapınağı gibi yapılarda kullanıldığı notta belirtilmiştir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Korint düzeninin en süslü olduğunu bilmemek veya tersini düşünmek."
+      },
+      {
+        "id": "aile-sanat-tarihi-019-t3",
+        "stem": "Aşağıda verilen klasik sütun düzenleri ve ayırt edici özelliklerinin doğru eşleştirmesini bulunuz.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Dor - Volütlü Başlık",
+            "explanation": "Dor düzeninin başlığı sade ve yastık biçimlidir, volütlü başlık İyon düzenine aittir."
+          },
+          {
+            "id": "B",
+            "text": "Korint - Akantus Yapraklı Başlık",
+            "explanation": "Korint düzeninin ayırt edici unsuru akantus yapraklı başlığıdır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "İyon - Kaidesiz",
+            "explanation": "İyon düzeninin kaidesi vardır, kaidesiz olma özelliği Dor düzenine aittir."
+          },
+          {
+            "id": "D",
+            "text": "Dor - En Süslü ve Gösterişli",
+            "explanation": "Dor düzeni sade ve güçlü bir karaktere sahiptir, en süslü ve gösterişli olan Korint düzenidir."
+          },
+          {
+            "id": "E",
+            "text": "İyon - Doğrudan Zemine Oturan",
+            "explanation": "Doğrudan zemine oturan sütunlar Dor düzenine aittir, İyon düzeninin kaidesi vardır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Sütun düzenlerinin birden fazla özelliğini karıştırarak yanlış eşleştirme yapmak."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1973 @@
+[
+  {
+    "id": "aile-osmanli-tarihi-001",
+    "topicId": "osmanli-tarihi",
+    "cekirdek": "Bu soru, Osmanlı Devleti'nin Kuruluş Dönemi'nde yaşanan Fetret Devri'nin başlangıcına yol açan olayı ve ilgili padişahı ölçmektedir.",
+    "ozet": "Osmanlı Devleti'nin **Kuruluş Dönemi**'nde yaşanan önemli kırılmalardan biri, **1402 Ankara Savaşı**'dır. Bu savaş, Osmanlı tarihinde büyük bir otorite boşluğuna ve taht kavgalarına neden olan **Fetret Devri**'nin başlangıcı olmuştur. Fetret Devri, yaklaşık 11 yıl süren ve devleti yıkılma eşiğine getiren bir süreçtir. Bu dönemin en önemli nedeni, Osmanlı padişahının Timur'a yenilerek esir düşmesidir. Bu kritik olayı ve sonucunu bilirseniz, bu dönemle ilgili soruları kolayca çözebilirsiniz.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-006",
+        "stem": "Osmanlı tarihinde, 1402 Ankara Savaşı sonrası yaşanan ve 'Fetret Devri' olarak adlandırılan otorite boşluğu dönemi, hangi padişahın Timur'a esir düşmesiyle başlamıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I. Murat",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "II. Osman",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Yıldırım Bayezid",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "I. Mehmet",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-osmanli-tarihi-001-t1",
+        "stem": "Osmanlı Devleti'nde, Yıldırım Bayezid'in Timur'a yenilgisiyle başlayan Fetret Devri'nin yıkıcı etkilerine rağmen devletin kısa sürede toparlanmasında etkili olan temel faktörlerden biri aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Balkanlar'daki istimalet politikasının halk nezdinde sağladığı bağlılık",
+            "explanation": "Fetret Devri notunda belirtildiği gibi, Osmanlı'nın yıkılmamasının önemli nedenlerinden biri, Balkanlar'daki istimalet politikası sayesinde yerel halkın Osmanlı yönetimine bağlı kalması ve ayaklanmamasıdır. Bu, devletin batıdaki topraklarını korumasını sağlamıştır."
+          },
+          {
+            "id": "B",
+            "text": "Avrupa devletlerinin Osmanlı'ya karşı ittifak kuramaması",
+            "explanation": "Avrupa devletleri, Fetret Devri'nde Osmanlı'nın zayıflığından faydalanma eğiliminde olsalar da, devletin toparlanmasındaki ana iç faktör bu değildi. Osmanlı'nın iç dinamikleri daha belirleyici olmuştur."
+          },
+          {
+            "id": "C",
+            "text": "Anadolu beyliklerinin Osmanlı'ya destek vermesi",
+            "explanation": "Ankara Savaşı sonrası Anadolu beylikleri yeniden bağımsızlıklarını ilan etmiş ve hatta Osmanlı'ya karşı durmuşlardır. Bu nedenle beyliklerin destek vermesi gibi bir durum söz konusu değildir."
+          },
+          {
+            "id": "D",
+            "text": "Yeniçeri Ocağı'nın padişahlara sadakati",
+            "explanation": "Yeniçeri Ocağı, Fetret Devri'nde şehzadeler arasındaki taht kavgalarında farklı şehzadeleri destekleyerek sadakatten çok kendi çıkarlarını gözeten bir tutum sergilemiştir. Ayrıca bu dönemde yeniçeri ocağının merkezi gücü zayıftı."
+          },
+          {
+            "id": "E",
+            "text": "Coğrafi keşiflerin Osmanlı ekonomisini güçlendirmesi",
+            "explanation": "Coğrafi Keşifler, Fetret Devri'nden çok sonraki bir dönemde (Yükselme Dönemi'nde) başlamış ve Osmanlı ekonomisi üzerinde olumsuz etkiler yaratmıştır. Bu nedenle Fetret Devri ile ilgili bir faktör değildir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Öğrencinin Fetret Devri'nin neden yıkılmadığına dair özel bilgiyi atlaması bu soruyu kaçırtabilir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-001-t2",
+        "stem": "Osmanlı Devleti'nin Kuruluş Dönemi'nde yaşanan aşağıdaki gelişmelerden hangisi, diğerlerinden daha sonra gerçekleşmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Koyunhisar Savaşı'nın yapılması",
+            "explanation": "Koyunhisar Savaşı, Osman Bey döneminde 1302 yılında gerçekleşen ilk önemli savaştır."
+          },
+          {
+            "id": "B",
+            "text": "II. Kosova Savaşı'nın kazanılması",
+            "explanation": "II. Kosova Savaşı, II. Murat döneminde 1448 yılında kazanılmıştır ve Balkan hakimiyetini kesinleştirmiştir. Bu, verilen seçenekler arasında en son gerçekleşen olaydır."
+          },
+          {
+            "id": "C",
+            "text": "Çimpe Kalesi'nin fethedilmesi",
+            "explanation": "Çimpe Kalesi, Orhan Bey döneminde 1353 yılında fethedilmiştir ve Rumeli'ye geçişi sağlamıştır."
+          },
+          {
+            "id": "D",
+            "text": "I. Kosova Savaşı'nın kazanılması",
+            "explanation": "I. Kosova Savaşı, I. Murat döneminde 1389 yılında kazanılmıştır."
+          },
+          {
+            "id": "E",
+            "text": "Niğbolu Savaşı'nın zaferle sonuçlanması",
+            "explanation": "Niğbolu Savaşı, Yıldırım Bayezid döneminde 1396 yılında kazanılmıştır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Öğrencinin olayların kronolojik sırasını karıştırması veya II. Kosova Savaşı'nı I. Kosova ile karıştırması bu soruyu kaçırtabilir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-001-t3",
+        "stem": "Aşağıdakilerden hangisi, Osmanlı Devleti'nin Kuruluş Dönemi padişahlarından I. Murat zamanında gerçekleşen gelişmelerden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Edirne'nin başkent yapılması",
+            "explanation": "Edirne, I. Murat döneminde fethedilmiş ve başkent yapılmıştır."
+          },
+          {
+            "id": "B",
+            "text": "Yeniçeri Ocağı'nın kurulması",
+            "explanation": "Yeniçeri Ocağı, I. Murat döneminde devşirme sistemiyle birlikte kurulmuştur."
+          },
+          {
+            "id": "C",
+            "text": "Anadolu Hisarı'nın inşa edilmesi",
+            "explanation": "Anadolu Hisarı, İstanbul kuşatması hazırlıkları kapsamında Yıldırım Bayezid döneminde inşa edilmiştir. I. Murat dönemine ait değildir."
+          },
+          {
+            "id": "D",
+            "text": "Ülke hanedanın ortak malıdır anlayışından ülke padişah ve oğullarınındır anlayışına geçilmesi",
+            "explanation": "Bu önemli değişiklik, I. Murat döneminde merkezi otoriteyi güçlendirmek amacıyla yapılmıştır."
+          },
+          {
+            "id": "E",
+            "text": "Sırpsındığı Savaşı'nın kazanılması",
+            "explanation": "Sırpsındığı Savaşı, I. Murat döneminde kazanılan önemli zaferlerden biridir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Öğrencinin farklı padişahların dönemlerindeki önemli yapıları veya olayları karıştırması bu soruyu kaçırtabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-osmanli-tarihi-002",
+    "topicId": "osmanli-tarihi",
+    "cekirdek": "Osmanlı İmparatorluğu'nda hanedan üyelerinin özel tören ve şenliklerini konu alan resimli eserlerin adını bilmek.",
+    "ozet": "Osmanlı İmparatorluğu, zengin kültürel mirasıyla öne çıkar. Bu mirasın önemli bir parçası da saray yaşamını ve önemli olayları belgeleyen görsel ve yazılı eserlerdir. Özellikle hanedan üyelerinin **sünnet düğünleri** veya **evlilik törenleri** gibi şenlikli etkinlikler, dönemin sanatçıları tarafından detaylı bir şekilde tasvir edilmiştir. Bu tür törenleri ve kutlamaları anlatan, genellikle minyatürlerle süslenmiş eserlere özel bir isim verilir. Bu eserler, sadece tarihi bir kayıt olmakla kalmaz, aynı zamanda Osmanlı minyatür sanatının gelişimini ve estetik anlayışını da yansıtır. Bu eserlerin adını bilmek, Osmanlı kültürü ve sanatına dair temel bir bilgidir.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-016",
+        "stem": "Osmanlı İmparatorluğu'nda şehzadelerin sünnet düğünlerini veya hanımsultanların evlilik törenlerini ve bu sırada düzenlenen şenlikleri tasvir eden resimli eserlere ne ad verilir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Surname",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Siyer-i Nebi",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Hamse",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Şehname",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-osmanli-tarihi-002-t1",
+        "stem": "Osmanlı İmparatorluğu'nda şehzadelerin sünnet düğünleri, hanımsultanların evlilik törenleri gibi önemli şenlik ve kutlamaları konu alan, genellikle minyatürlerle bezenmiş eserlere verilen ad aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Siyer-i Nebi",
+            "explanation": "Siyer-i Nebi, Hz. Muhammed'in hayatını anlatan eserlerdir, Osmanlı şenlikleriyle ilgili değildir."
+          },
+          {
+            "id": "B",
+            "text": "Hamse",
+            "explanation": "Hamse, beş mesneviden oluşan bir eserler bütünüdür ve genellikle bir şairin beş farklı uzun şiirini içerir, şenlik tasvirleriyle doğrudan ilgili değildir."
+          },
+          {
+            "id": "C",
+            "text": "Şehname",
+            "explanation": "Şehname, genellikle kralların veya kahramanların hayatını ve savaşlarını anlatan epik eserlerdir (örneğin Firdevsî'nin eseri), Osmanlı'daki şenlikleri konu almaz."
+          },
+          {
+            "id": "D",
+            "text": "Surname",
+            "explanation": "Ders notunda belirtildiği gibi, 'Osmanlı İmparatorluğu'nda şehzadelerin sünnet düğünlerini veya hanımsultanların evlilik törenlerini ve bu sıradaki şenlikleri tasvir eden resimli eserlere Surname adı verilir.' Bu nedenle doğru cevaptır."
+          },
+          {
+            "id": "E",
+            "text": "Seyahatname",
+            "explanation": "Seyahatname, Evliya Çelebi'nin eseri gibi, gezilen yerleri ve görülenleri anlatan bir türdür, saray şenlikleriyle ilgili değildir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Diğer şıklar da edebi türler olmasına rağmen, tanıma en uygun olanı bulmak için dikkatli okuma gereklidir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-002-t2",
+        "stem": "Aşağıdakilerden hangisi, Osmanlı İmparatorluğu'nda hanedan üyelerinin özel törenlerini konu alan 'Surname' adlı eserlerin temel özelliklerinden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Şehzadelerin sünnet düğünlerini tasvir etmeleri",
+            "explanation": "Ders notunda açıkça 'şehzadelerin sünnet düğünlerini' tasvir ettikleri belirtilmiştir, bu bir özelliğidir."
+          },
+          {
+            "id": "B",
+            "text": "Hanımsultanların evlilik törenlerini içermeleri",
+            "explanation": "Ders notunda 'hanımsultanların evlilik törenlerini' tasvir ettikleri belirtilmiştir, bu bir özelliğidir."
+          },
+          {
+            "id": "C",
+            "text": "Genellikle minyatür sanatı açısından önemli eserler olmaları",
+            "explanation": "Ders notunda 'minyatür sanatı açısından önemli eserlerdir' ifadesiyle bu özelliğe vurgu yapılmıştır."
+          },
+          {
+            "id": "D",
+            "text": "Düzenlenen şenliklerdeki detayları resimli bir şekilde sunmaları",
+            "explanation": "Ders notunda 'bu sıradaki şenlikleri tasvir eden resimli eserler' olarak tanımlanmıştır, bu bir özelliğidir."
+          },
+          {
+            "id": "E",
+            "text": "Osmanlı padişahlarının savaş stratejilerini detaylandırmaları",
+            "explanation": "Surname'ler şenlik ve törenleri konu alır, savaş stratejilerini detaylandırmaz. Bu nedenle doğru cevap budur."
+          }
+        ],
+        "correct": "E",
+        "trick": "Tüm şıklar Osmanlı tarihiyle ilgili doğru ifadeler içerebilir, ancak Surname'lerin içeriğiyle doğrudan ilişkili olmayan seçeneği bulmak gerekir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-002-t3",
+        "stem": "Osmanlı döneminde kaleme alınan bazı eserler ve içerikleri aşağıdaki gibidir. Verilen eser-içerik eşleştirmelerinden hangisi YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Surname: Padişahların günlük devlet işleri ve fermanlarını içeren resmi kayıtlar.",
+            "explanation": "Ders notunda Surname'ler 'şehzadelerin sünnet düğünlerini veya hanımsultanların evlilik törenlerini ve bu sıradaki şenlikleri tasvir eden resimli eserler' olarak tanımlanmıştır. Padişahların günlük devlet işleri ve fermanlarını içeren resmi kayıtlar değildir. Bu nedenle eşleştirme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Evliya Çelebi - Seyahatname: Osmanlı coğrafyasını on yıllarca gezerek kaleme aldığı gezi notları.",
+            "explanation": "Ders notunda 'Evliya Çelebi — Seyahatname; Osmanlı coğrafyasını on yıllarca gezip yazmıştır' ifadesiyle bu eşleştirme doğrulanmaktadır."
+          },
+          {
+            "id": "C",
+            "text": "Piri Reis - Kitab-ı Bahriye: Denizcilik ve coğrafya üzerine yazılmış önemli bir eser.",
+            "explanation": "Ders notunda 'Piri Reis — Kitab-ı Bahriye ve 1513 dünya haritası' ifadesiyle bu eşleştirme doğrulanmaktadır."
+          },
+          {
+            "id": "D",
+            "text": "Kanunname-i Âl-i Osman: Osmanlı Devleti'nin ilk yazılı kanunnamesi, kardeş katli maddesiyle bilinir.",
+            "explanation": "Ders notunda 'Kanunname-i Âl-i Osman (ilk Osmanlı kanunnamesi; kardeş katline hukuki dayanak)' ifadesiyle bu eşleştirme doğrulanmaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Tıbbiye-i Şahane: II. Mahmut döneminde kurulan modern tıp eğitimi veren kurum.",
+            "explanation": "Ders notunda II. Mahmut dönemi yenilikleri arasında 'Tıbbiye-Harbiye'nin kurulduğu belirtilmiştir, bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Her şıkta verilen eserin veya kurumun gerçekten var olup olmadığını bilmek yetmez, eşleştirmenin içeriğinin doğru olup olmadığını teyit etmek gerekir."
+      }
+    ]
+  },
+  {
+    "id": "aile-osmanli-tarihi-003",
+    "topicId": "osmanli-tarihi",
+    "cekirdek": "Osmanlı dönemindeki önemli yapılar ve sanatçıları ile ilgili temel bilgileri ölçer.",
+    "ozet": "Osmanlı İmparatorluğu'nun kuruluşundan yıkılışına kadar birçok önemli yapı inşa edilmiş ve sanatçı yetişmiştir. Özellikle **Mimar Sinan** gibi isimler klasik dönem mimarisine damga vurmuş, **Selatin Camileri** gibi büyük eserler bırakmıştır. Sanat dallarında ise **İznik çinileri** ve **Surname** adı verilen minyatürlü eserler öne çıkmıştır. Farklı kültürlerin senteziyle ortaya çıkan **İshak Paşa Sarayı** gibi yapılar da dönemin mimari çeşitliliğini gösterir. Bu yapıların ve sanatsal eserlerin hangi dönemde yapıldığı, kimler tarafından yaptırıldığı ve ayırt edici özellikleri bu tür soruları çözmek için anahtar bilgidir.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-026",
+        "stem": "Selçuklu taş işçiliği, Osmanlı çini sanatı ve İran estetiğinin bir sentezi olarak inşa edilen ve yapımı 1784 yılında tamamlanan saray aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Beylerbeyi Sarayı",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Topkapı Sarayı",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Yıldız Sarayı",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "İshak Paşa Sarayı",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-osmanli-tarihi-003-t1",
+        "stem": "Osmanlı Devleti'nde, şehzadelerin sünnet düğünlerini veya hanımsultanların evlilik törenlerini ve bu sıradaki şenlikleri tasvir eden resimli eserlere ne ad verilir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Fütüvvetname",
+            "explanation": "Fütüvvetname, tasavvufi bir terim olup, esnaf ve zanaatkarların bağlı olduğu ahlaki kuralları ve teşkilat yapısını anlatan eserlerdir, şenlikleri tasvir etmez."
+          },
+          {
+            "id": "B",
+            "text": "Surname",
+            "explanation": "Surname, Osmanlı İmparatorluğu'nda şehzadelerin sünnet düğünlerini veya hanımsultanların evlilik törenlerini ve bu sıradaki şenlikleri tasvir eden resimli eserlere verilen addır. Ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Gazavatname",
+            "explanation": "Gazavatname, Osmanlı döneminde yapılan savaşları, fetihleri ve kahramanlıkları anlatan eserlerdir."
+          },
+          {
+            "id": "D",
+            "text": "Vakayiname",
+            "explanation": "Vakayiname, Osmanlı tarih yazıcılığında olayları kronolojik sıraya göre kaydeden resmi tarih eserleridir."
+          },
+          {
+            "id": "E",
+            "text": "Sefaretname",
+            "explanation": "Sefaretname, Osmanlı elçilerinin yurt dışı görevlerinde gördüklerini ve yaşadıklarını anlattıkları eserlerdir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Farklı edebi türlerin isimleri arasında benzerlik gösteren veya karıştırılabilecek terimler bulunması, adayın dikkatini dağıtabilir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-003-t2",
+        "stem": "Aşağıdakilerden hangisi, Osmanlı Devleti'nin kuruluş döneminde yaşanan önemli gelişmelerden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Koyunhisar Savaşı ile Bizans'a karşı ilk zaferin kazanılması",
+            "explanation": "Koyunhisar (1302) Savaşı, Osman Bey döneminde Bizans'a karşı kazanılan ilk savaştır ve kuruluş dönemi olaylarındandır."
+          },
+          {
+            "id": "B",
+            "text": "Çimpe Kalesi'nin fethedilerek Rumeli'ye geçişin sağlanması",
+            "explanation": "Çimpe Kalesi (1353), Orhan Bey döneminde alınarak Rumeli'ye geçişte askeri üs olarak kullanılmıştır ve kuruluş dönemi olaylarındandır."
+          },
+          {
+            "id": "C",
+            "text": "Sahn-ı Seman Medreseleri'nin açılması ve ilk altın paranın bastırılması",
+            "explanation": "Sahn-ı Seman Medreseleri ve ilk altın para (sultani), Fatih Sultan Mehmet döneminde (Yükselme Dönemi) gerçekleşmiştir. Bu nedenle kuruluş dönemi gelişmesi değildir."
+          },
+          {
+            "id": "D",
+            "text": "Yeniçeri Ocağı'nın kurulması ve devşirme sisteminin oluşturulması",
+            "explanation": "Yeniçeri Ocağı ve devşirme sistemi, I. Murat (Hüdavendigar) döneminde kurulmuştur ve kuruluş dönemi olaylarındandır."
+          },
+          {
+            "id": "E",
+            "text": "İstanbul'un ilk kez kuşatılması ve Anadolu Hisarı'nın yaptırılması",
+            "explanation": "İstanbul'un ilk kez kuşatılması ve Anadolu Hisarı'nın yaptırılması Yıldırım Bayezid döneminde gerçekleşmiştir ve kuruluş dönemi olaylarındandır."
+          }
+        ],
+        "correct": "C",
+        "trick": "Şıklarda yer alan tüm olayların Osmanlı tarihi için önemli olması, ancak bazılarının kuruluş dönemi yerine yükselme dönemine ait olması adayı yanıltabilir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-003-t3",
+        "stem": "Aşağıdaki Osmanlı padişahları ve dönemlerinde yaşanan önemli gelişmelerin kronolojik sıralaması hangi seçenekte doğru verilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Orhan Bey - Çimpe Kalesi'nin fethi; I. Murat - Edirne'nin başkent yapılması; Yıldırım Bayezid - Ankara Savaşı; I. Mehmet - İlk Osmanlı altın parası",
+            "explanation": "Orhan Bey döneminde Çimpe Kalesi fethedilmiştir. I. Murat döneminde Edirne başkent olmuştur. Yıldırım Bayezid Ankara Savaşı'nda yenilmiştir. Ancak ilk Osmanlı altın parası (sultani), I. Mehmet döneminde değil, Fatih Sultan Mehmet döneminde basılmıştır. Bu nedenle sıralama yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Osman Bey - İlk medresenin kurulması; Orhan Bey - Koyunhisar Savaşı; I. Murat - Sırpsındığı Savaşı; Yıldırım Bayezid - Rumeli Hisarı'nın yapımı",
+            "explanation": "İlk medrese (İznik) Orhan Bey döneminde kurulmuştur, Osman Bey döneminde değil. Koyunhisar Savaşı Osman Bey döneminde yapılmıştır, Orhan Bey döneminde değil. Rumeli Hisarı Fatih Sultan Mehmet döneminde yapılmıştır, Yıldırım Bayezid döneminde değil. Bu nedenle sıralama yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "I. Mehmet - Karesioğulları'nın ilhakı; II. Murat - I. Kosova Savaşı; Fatih Sultan Mehmet - Fetret Devri'nin sona ermesi; Yavuz Sultan Selim - Varna Savaşı",
+            "explanation": "Karesioğulları Orhan Bey döneminde ilhak edilmiştir. I. Kosova Savaşı I. Murat döneminde yapılmıştır. Fetret Devri'ne I. Mehmet son vermiştir. Varna Savaşı II. Murat döneminde yapılmıştır. Bu nedenle sıralama yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "I. Murat - Yeniçeri Ocağı'nın kurulması; Yıldırım Bayezid - Niğbolu Zaferi; I. Mehmet - Fetret Devri'ne son verilmesi; II. Murat - Varna Savaşı",
+            "explanation": "Bu sıralama doğrudur. I. Murat döneminde Yeniçeri Ocağı kurulmuş, Yıldırım Bayezid Niğbolu Zaferi'ni kazanmış, I. Mehmet Fetret Devri'ne son vermiş ve II. Murat Varna Savaşı'nı yapmıştır. Tüm bu olaylar ve padişahlar kronolojik olarak doğru yerleştirilmiştir."
+          },
+          {
+            "id": "E",
+            "text": "II. Murat - II. Kosova Savaşı; Fatih Sultan Mehmet - Rumeli Hisarı'nın yapımı; Yavuz Sultan Selim - Mercidabık Savaşı; Kanuni Sultan Süleyman - Kapitülasyonların verilmesi",
+            "explanation": "Bu sıralama, Kanuni Sultan Süleyman döneminde kapitülasyonların verilmesi (1535) öncesinde Yavuz Sultan Selim'in Mercidabık Savaşı'nı (1516) yapması ve Fatih Sultan Mehmet'in (1453) Rumeli Hisarı'nı yaptırması kronolojik olarak doğrudur. Ancak II. Murat'ın II. Kosova Savaşı'nı (1448) bu olaylardan önce yapması gerekmektedir. Şıklarda verilen olaylar ve padişahlar kronolojik olarak doğru bir sırayı takip etmemektedir. Özellikle 'Kanuni Sultan Süleyman - Kapitülasyonların verilmesi' ifadesi, olayın doğru padişahla eşleştiğini gösterse de genel kronoloji bozuktur."
+          }
+        ],
+        "correct": "D",
+        "trick": "Şıklarda yer alan her bir olayın doğru padişahla eşleşip eşleşmediğini ve tüm olayların kronolojik sırasının doğru olup olmadığını dikkatlice kontrol etmeyi gerektirmesi, adayın hata yapmasına neden olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-osmanli-tarihi-004",
+    "topicId": "osmanli-tarihi",
+    "cekirdek": "Osmanlı klasik dönem çini sanatında kullanılan karakteristik renk grubunu bilmek.",
+    "ozet": "Osmanlı döneminde sanatsal ve kültürel gelişmeler büyük önem taşımıştır. Özellikle **klasik dönem Osmanlı çini sanatı**, mimari süslemelerde ve günlük objelerde kendine yer bulmuş, dönemin estetik anlayışını yansıtmıştır. Bu çinilerde kullanılan renkler, esere karakteristik bir kimlik kazandırmıştır. Çini sanatında öne çıkan yerlerden biri olan **İznik çinileri**, kendine özgü bir renk paletine sahiptir. Bu paleti oluşturan belirli renkleri bilmek, dönemin sanatına dair önemli bir bilgidir.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-072",
+        "stem": "Klasik dönem Osmanlı çini sanatında (özellikle 16. yüzyıl İznik çinilerinde) en sık kullanılan ve dönemin karakteristik özelliğini yansıtan renk grubu aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Sadece siyah ve beyaz",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Sarı ve kahverengi tonları",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Mor ve pembe tonları",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Mercan kırmızısı, turkuaz ve kobalt mavisi",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-osmanli-tarihi-004-t1",
+        "stem": "Aşağıdakilerden hangisi, Osmanlı klasik dönem İznik çinilerinde yaygın olarak kullanılan renklerden BİRİ DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mercan kırmızısı",
+            "explanation": "Mercan kırmızısı, klasik dönem İznik çinilerinin karakteristik renklerinden biridir ve sıkça kullanılmıştır."
+          },
+          {
+            "id": "B",
+            "text": "Turkuaz",
+            "explanation": "Turkuaz, klasik dönem İznik çinilerinde kullanılan ana renklerden biridir."
+          },
+          {
+            "id": "C",
+            "text": "Kobalt mavisi",
+            "explanation": "Kobalt mavisi, İznik çinilerinde sıkça rastlanan ve dönemin ruhunu yansıtan önemli bir renktir."
+          },
+          {
+            "id": "D",
+            "text": "Mavi",
+            "explanation": "Kobalt mavisi ve turkuaz gibi mavi tonları İznik çinilerinde önemli bir yer tutar."
+          },
+          {
+            "id": "E",
+            "text": "Altın sarısı",
+            "explanation": "Ders notunda klasik dönem İznik çinileri için 'mercan kırmızısı, turkuaz ve kobalt mavisi' renkleri belirtilmiştir. Altın sarısı bu listede yer almamaktadır, dolayısıyla yaygın kullanılan renklerden biri değildir."
+          }
+        ],
+        "correct": "E",
+        "trick": "Öğrencinin, belirtilen üç ana rengin dışındaki bir rengin de kullanılmış olabileceği yanılgısına düşmesi."
+      },
+      {
+        "id": "aile-osmanli-tarihi-004-t2",
+        "stem": "Klasik dönem Osmanlı çini sanatında (özellikle 16. yüzyıl İznik çinilerinde) kullanılan renklerin estetik ve sembolik anlamları göz önüne alındığında, aşağıda verilen renk gruplarından hangisi bu dönemin karakteristik özelliğini en iyi yansıtır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mercan kırmızısı, turkuaz ve kobalt mavisi",
+            "explanation": "Ders notunda açıkça belirtildiği üzere, mercan kırmızısı, turkuaz ve kobalt mavisi, 16. yüzyıl İznik çinilerinde en sık kullanılan ve dönemin karakteristik özelliğini yansıtan renk grubudur."
+          },
+          {
+            "id": "B",
+            "text": "Sarı, yeşil ve siyah",
+            "explanation": "Bu renkler Osmanlı çini sanatında bulunsa da, ders notunda belirtilen ve dönemin karakteristik özelliğini yansıtan ana renk grubu değildir."
+          },
+          {
+            "id": "C",
+            "text": "Mor, pembe ve kahverengi",
+            "explanation": "Bu renkler, özellikle klasik dönem İznik çinilerinin karakteristik renk paletinde ders notunda belirtilmemiştir."
+          },
+          {
+            "id": "D",
+            "text": "Beyaz, gri ve füme",
+            "explanation": "Bu renkler, İznik çinilerinin renk paletinde ana unsurlar olarak ders notunda geçmemektedir."
+          },
+          {
+            "id": "E",
+            "text": "Kiremit rengi, bej ve açık yeşil",
+            "explanation": "Bu renkler, klasik dönem İznik çinileri için karakteristik bir grup olarak ders notunda tanımlanmamıştır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Öğrencinin, çini sanatında birçok renk kullanıldığı gerçeğinden yola çıkarak, notta vurgulanan özel renk grubunu gözden kaçırması."
+      },
+      {
+        "id": "aile-osmanli-tarihi-004-t3",
+        "stem": "Osmanlı mimarisinin önemli süsleme unsurlarından olan ve 16. yüzyıl İznik çinilerinde karakteristik renkleriyle öne çıkan eserler hangi döneme aittir ve hangi renk grubuyla tanınır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yükselme Dönemi - Sarı, siyah ve beyaz",
+            "explanation": "Yükselme Dönemi doğru olsa da, çinilerin karakteristik renkleri sarı, siyah ve beyaz değildir."
+          },
+          {
+            "id": "B",
+            "text": "Yükselme Dönemi - Mercan kırmızısı, turkuaz ve kobalt mavisi",
+            "explanation": "Ders notunda 16. yüzyıl İznik çinilerinin 'klasik dönem Osmanlı çini sanatında' ve 'Yükselme Dönemi' içinde yer aldığı ima edilir. Mercan kırmızısı, turkuaz ve kobalt mavisi ise bu çinilerin en sık kullanılan ve karakteristik renk grubudur."
+          },
+          {
+            "id": "C",
+            "text": "Kuruluş Dönemi - Yeşil, kahverengi ve bordo",
+            "explanation": "Kuruluş Dönemi, İznik çinilerinin karakteristik renkleriyle tanındığı dönem değildir ve belirtilen renkler de doğru değildir."
+          },
+          {
+            "id": "D",
+            "text": "Duraklama Dönemi - Altın, gümüş ve bakır tonları",
+            "explanation": "Duraklama Dönemi, İznik çinilerinin en parlak dönemi değildir ve belirtilen renkler de doğru değildir."
+          },
+          {
+            "id": "E",
+            "text": "Gerileme Dönemi - Pastel tonlar ve soluk renkler",
+            "explanation": "Gerileme Dönemi, İznik çinileri için karakteristik bir dönem değildir ve belirtilen renkler de doğru değildir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Öğrencinin, çini sanatının gelişim dönemini doğru tespit ederken, renk gruplarını yanlış eşleştirmesi veya tam tersi."
+      }
+    ]
+  },
+  {
+    "id": "aile-osmanli-tarihi-005",
+    "topicId": "osmanli-tarihi",
+    "cekirdek": "Osmanlı Devleti'nin kuruluş döneminde Rumeli'ye geçişini sağlayan stratejik öneme sahip ilk askeri üs bilgisini ölçer.",
+    "ozet": "Osmanlı Devleti'nin **Kuruluş Dönemi** (1299-1453), Osman Bey ile başlamış ve beyliğin hızla büyümesinde **coğrafi konum**, **gaza ve cihat**, **iskân** ve **istimalet politikaları** etkili olmuştur. Orhan Bey döneminde alınan **Çimpe Kalesi**, Osmanlı'nın **Rumeli'ye geçişinde** kilit rol oynamış ve Avrupa'ya doğru genişlemenin ilk adımı olmuştur. Bu dönemde **ilk düzenli ordu**, **ilk medrese** ve **ilk gümüş para** gibi önemli teşkilatlanmalar da gerçekleşmiştir. I. Murat ve Yıldırım Bayezid gibi padişahlarla fetihler devam etmiş, ancak **1402 Ankara Savaşı** sonrasında yaşanan **Fetret Devri** devleti kısa süreli bir krize sokmuştur. I. Mehmet dönemiyle toparlanan devlet, II. Murat ile Balkanlardaki hâkimiyetini kesinleştirmiştir. Bu süreci iyi anlayan, kuruluş dönemiyle ilgili tüm soruları rahatlıkla çözebilir.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-090",
+        "stem": "Osmanlı Devleti’nin kuruluş döneminde, Bizans'tan alınan ve Türklerin Rumeli'ye geçişinde askeri üs olarak kullanılan ilk kale hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Karacahisar Kalesi",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "İznik Kalesi",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Çimpe Kalesi",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Bursa Kalesi",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-osmanli-tarihi-005-t1",
+        "stem": "Aşağıdaki olaylardan hangisi, Osmanlı Devleti'nin Rumeli'ye geçişini sağlayan ilk stratejik adımı temsil eder?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Koyunhisar Savaşı'nın kazanılması",
+            "explanation": "Koyunhisar Savaşı, Osman Bey döneminde Bizans'a karşı kazanılan ilk savaştır ancak Rumeli'ye geçişle doğrudan ilgili değildir."
+          },
+          {
+            "id": "B",
+            "text": "Bursa'nın fethedilerek başkent yapılması",
+            "explanation": "Bursa'nın fethi önemli bir idari adımdır ancak Anadolu topraklarında gerçekleşmiştir, Rumeli geçişiyle ilgili değildir."
+          },
+          {
+            "id": "C",
+            "text": "Çimpe Kalesi'nin Bizans'tan alınması",
+            "explanation": "Çimpe Kalesi'nin alınması, Osmanlı'nın Rumeli'ye geçişinde askeri üs olarak kullandığı ve bu bölgedeki ilerleyişini başlattığı ilk stratejik adımdır. Ders notunda 'Çimpe Kalesi (1353) ile Rumeli'ye ayak basıldı.' ve 'Türklerin Rumeli'ye geçişinde askeri üs olarak kullanılan ilk kaledir.' şeklinde belirtilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Karesioğulları Beyliği'nin Osmanlı topraklarına katılması",
+            "explanation": "Karesioğulları'nın katılması Osmanlı'ya önemli bir donanma ve denizcilik gücü sağlamış, ancak doğrudan Rumeli'ye geçişi ifade etmez; geçiş için bir ön koşul olmuştur."
+          },
+          {
+            "id": "E",
+            "text": "İznik'te ilk medresenin kurulması",
+            "explanation": "İznik'te ilk medresenin kurulması eğitim ve teşkilatlanma açısından önemlidir ancak Rumeli'ye geçişle doğrudan bağlantılı değildir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Şıklardaki olayların hepsi kuruluş dönemiyle ilgili olduğu için öğrencinin stratejik önemi olan olayı ayırt etmesi gerekir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-005-t2",
+        "stem": "Aşağıdakilerden hangisi Orhan Bey döneminde gerçekleşen gelişmeler arasında DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İlk düzenli ordunun kurulması",
+            "explanation": "Ders notunda 'Orhan Bey: ilk düzenli ordu (yaya ve müsellem)' şeklinde belirtilmiştir, dolayısıyla Orhan Bey dönemine aittir."
+          },
+          {
+            "id": "B",
+            "text": "İlk gümüş paranın basılması",
+            "explanation": "Ders notunda 'Orhan Bey: ilk gümüş para (akçe)' şeklinde belirtilmiştir, dolayısıyla Orhan Bey dönemine aittir."
+          },
+          {
+            "id": "C",
+            "text": "Çimpe Kalesi'nin alınması",
+            "explanation": "Ders notunda 'Orhan Bey: Çimpe Kalesi (1353) ile Rumeli'ye ayak basıldı.' şeklinde belirtilmiştir, dolayısıyla Orhan Bey dönemine aittir."
+          },
+          {
+            "id": "D",
+            "text": "Yeniçeri Ocağı'nın kurulması",
+            "explanation": "Ders notunda 'I. Murat (Hüdavendigar): Yeniçeri Ocağı ve devşirme sistemi kuruldu.' şeklinde belirtilmiştir. Yeniçeri Ocağı I. Murat döneminde kurulmuştur, Orhan Bey dönemine ait değildir."
+          },
+          {
+            "id": "E",
+            "text": "Karesioğulları Beyliği'nin Osmanlı'ya katılması",
+            "explanation": "Ders notunda 'Orhan Bey: Karesioğulları ilk katılan beylik oldu.' şeklinde belirtilmiştir, dolayısıyla Orhan Bey dönemine aittir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Farklı padişah dönemlerindeki benzer teşkilatlanma adımları karıştırılabilir, özellikle 'ilk' ifadeleri yanıltıcı olabilir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-005-t3",
+        "stem": "Osmanlı Devleti'nin Kuruluş Dönemi'nde gerçekleşen aşağıdaki olayları kronolojik olarak doğru sıralayınız:\nI. Çimpe Kalesi'nin fethi\nII. Koyunhisar Savaşı\nIII. Fetret Devri'nin sona ermesi\nIV. Yeniçeri Ocağı'nın kurulması",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I - II - IV - III",
+            "explanation": "Koyunhisar Savaşı (1302) Çimpe Kalesi'nin fethinden (1353) önce gerçekleşmiştir."
+          },
+          {
+            "id": "B",
+            "text": "II - IV - I - III",
+            "explanation": "Çimpe Kalesi'nin fethi (1353) Yeniçeri Ocağı'nın kurulmasından (I. Murat dönemi) önce gerçekleşmiştir."
+          },
+          {
+            "id": "C",
+            "text": "IV - II - I - III",
+            "explanation": "Koyunhisar Savaşı (1302) ve Çimpe Kalesi'nin fethi (1353) Yeniçeri Ocağı'nın kurulmasından önce gerçekleşmiştir."
+          },
+          {
+            "id": "D",
+            "text": "III - I - II - IV",
+            "explanation": "Fetret Devri'nin sona ermesi (1413) bu olayların en sonunda yer almaktadır. Diğer olaylar çok daha önce gerçekleşmiştir."
+          },
+          {
+            "id": "E",
+            "text": "II - I - IV - III",
+            "explanation": "Doğru sıralama şu şekildedir: Koyunhisar Savaşı (1302, Osman Bey), Çimpe Kalesi'nin fethi (1353, Orhan Bey), Yeniçeri Ocağı'nın kurulması (I. Murat dönemi), Fetret Devri'nin sona ermesi (1413, I. Mehmet)."
+          }
+        ],
+        "correct": "E",
+        "trick": "Olayların sadece padişah adlarıyla değil, yaklaşık tarihlerle de eşleştirilmesi gerekir, aksi takdirde kuruluş dönemi içinde farklı padişahların dönemleri karıştırılabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-osmanli-tarihi-006",
+    "topicId": "osmanli-tarihi",
+    "cekirdek": "Osmanlı Devleti'nin ekonomik bağımsızlığını zayıflatan ve dış etkiyi artıran imtiyazların niteliğini anlamak.",
+    "ozet": "Osmanlı İmparatorluğu'nun son dönemlerinde, özellikle **Duraklama** ve **Gerileme** dönemlerinde, devletin zayıflamasıyla birlikte yabancı devletlere çeşitli ayrıcalıklar tanınmıştır. Bu ayrıcalıklar, başlangıçta ticareti canlandırma niyetiyle verilen **Kapitülasyonlar** gibi ekonomik imtiyazlardan, demiryolu yapımı gibi altyapı projeleri karşılığında verilen kapsamlı işletme haklarına kadar çeşitlilik göstermiştir. Bu tür imtiyazlar, Osmanlı ekonomisini dışa bağımlı hale getirerek devletin egemenliğini ve maliyesini olumsuz etkilemiş, yabancı şirketlere geniş yetkiler tanınmasına yol açmıştır. Bu durum, Osmanlı'nın **modernleşme** çabalarına rağmen ekonomik bağımsızlığını kaybetmesinde önemli rol oynamıştır.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-093",
+        "stem": "**Sınavda hatalı çıkmış, düzeltilmiş soru** Osmanlı Devleti’nin Bağdat Demiryolu imtiyaz sözleşmesine göre Alman şirketine verilen ayrıcalıklardan biri aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hattın her iki yanında belirli mesafedeki madenleri işletme hakkı",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Osmanlı posta teşkilatını kurma ve yönetme yetkisi",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Bölgedeki askeri birlikleri denetleme ve örgütleme hakkı",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Osmanlı gümrük gelirlerini toplama, varlıkları planlama hakkı",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-osmanli-tarihi-006-t1",
+        "stem": "Osmanlı Devleti'nin yabancı devletlere verdiği imtiyazlar ve bu imtiyazların Osmanlı ekonomisi üzerindeki etkileri göz önüne alındığında, aşağıdaki ayrıcalıklardan hangisi Bağdat Demiryolu imtiyaz sözleşmesi kapsamında Alman şirketine tanınan haklardan BİRİ DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Demiryolu inşaatında çalışacak işçileri kendi ülkelerinden getirme ve Osmanlı yasalarından muaf tutma hakkı.",
+            "explanation": "Demiryolu imtiyazları, genellikle işçi çalıştırma ve yasal muafiyetler gibi konuları içermezdi. Bu, daha ziyade kapitülasyonların getirdiği bir durumdur ve demiryolu projesiyle doğrudan ilişkili değildir. Ders notunda bu yönde bir bilgi bulunmamaktadır."
+          },
+          {
+            "id": "B",
+            "text": "Demiryolu hattının her iki yanında belirli mesafedeki madenleri işletme hakkı.",
+            "explanation": "Bu, ders notunda açıkça belirtilen ve Alman şirketine verilen bir ayrıcalıktır. Dolayısıyla sorunun cevabı olamaz."
+          },
+          {
+            "id": "C",
+            "text": "Demiryolu güzergahı boyunca toprak ve kaynak kullanımında öncelik hakkı.",
+            "explanation": "Demiryolu imtiyazları genellikle güzergah üzerindeki doğal kaynakların kullanımını da kapsardı. Bu tür bir hak, verilen imtiyazların doğasına uygun düşmektedir."
+          },
+          {
+            "id": "D",
+            "text": "Demiryolu güzergahı üzerindeki ormanlık alanlardan kereste temin etme yetkisi.",
+            "explanation": "İnşaat projeleri için gerekli olan kereste gibi doğal kaynakların temini genellikle imtiyaz sözleşmelerinin bir parçasıydı. Bu tür bir hak, verilen imtiyazların doğasına uygun düşmektedir."
+          },
+          {
+            "id": "E",
+            "text": "Demiryolu hattı üzerinde taşımacılık ve işletme tekelini belirli bir süre elinde bulundurma hakkı.",
+            "explanation": "Demiryolu imtiyazlarının temel amacı, demiryolu işletmeciliğinin kendisini kapsayan bir tekel hakkı vermekti. Bu tür bir hak, verilen imtiyazların doğasına uygun düşmektedir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Öğrenci, demiryolu imtiyazlarının kapsamını genel kapitülasyonlarla karıştırarak, doğrudan projeyle ilgili olmayan geniş yetkileri de imtiyaz kapsamında değerlendirebilir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-006-t2",
+        "stem": "Osmanlı Devleti'nin ekonomik bağımsızlığını zedeleyen ve dışa bağımlılığı artıran imtiyazlar incelendiğinde, aşağıdaki olaylardan hangisi bu tür imtiyazların genişlemesinde ve sürekli hale gelmesinde önemli bir dönüm noktası olmuştur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Karlofça Antlaşması'nın imzalanması.",
+            "explanation": "Karlofça Antlaşması (1699), Osmanlı'nın ilk büyük toprak kaybını yaşadığı ve Duraklama Dönemi'nin sonu, Gerileme Dönemi'nin başlangıcı kabul edilen bir antlaşmadır. Ancak doğrudan ekonomik imtiyazların genişlemesi ve sürekli hale gelmesiyle ilgili değildir."
+          },
+          {
+            "id": "B",
+            "text": "1740 yılında Fransa'ya verilen kapitülasyonların sürekli hale getirilmesi.",
+            "explanation": "Ders notunda açıkça belirtildiği üzere, başlangıçta padişahın ömrüyle sınırlı olan kapitülasyonların 1740'ta I. Mahmut döneminde sürekli hale getirilmesi, Osmanlı ekonomisinin çöküş sebeplerinden biri olmuş ve dışa bağımlılığı artırmıştır. Bu, ekonomik imtiyazların genişlemesinde önemli bir dönüm noktasıdır."
+          },
+          {
+            "id": "C",
+            "text": "Lale Devri'nin başlamasıyla Avrupa'ya ilk elçilerin gönderilmesi.",
+            "explanation": "Lale Devri (1718-1730), Osmanlı'nın Batı'ya açıldığı, yeniliklerin yapıldığı bir dönemdir. Ancak bu dönemde diplomatik ilişkiler artsa da, doğrudan ekonomik imtiyazların sürekli hale gelmesiyle ilgili bir dönüm noktası değildir."
+          },
+          {
+            "id": "D",
+            "text": "Tanzimat Fermanı'nın ilan edilmesiyle kanun üstünlüğünün tanınması.",
+            "explanation": "Tanzimat Fermanı (1839), kanun üstünlüğünü ve can-mal-namus güvencesini getiren önemli bir reform hareketidir. Ancak doğrudan yabancı devletlere verilen ekonomik imtiyazların sürekli hale gelmesiyle ilgili bir dönüm noktası değildir."
+          },
+          {
+            "id": "E",
+            "text": "II. Abdülhamit döneminde demiryolu yapımına ağırlık verilmesi.",
+            "explanation": "II. Abdülhamit döneminde demiryolu yapımına ağırlık verilmiş ve Bağdat Demiryolu gibi projelerle yabancı şirketlere imtiyazlar tanınmıştır. Ancak bu durum, zaten sürekli hale gelmiş olan imtiyazların bir uygulamasıdır, imtiyazların 'sürekli hale gelmesinde' bir dönüm noktası değildir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Öğrenci, demiryolu imtiyazlarının da önemli bir dışa bağımlılık göstergesi olduğunu bilse de, asıl dönüm noktasının kapitülasyonların sürekli hale gelmesi olduğunu gözden kaçırabilir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-006-t3",
+        "stem": "Osmanlı Devleti'nde yabancı şirketlere tanınan imtiyazlar, devletin ekonomik ve siyasi bağımsızlığını zamanla ciddi şekilde zayıflatmıştır. Aşağıdaki imtiyazlardan hangisi, ders notunda belirtilen Bağdat Demiryolu imtiyaz sözleşmesinin Alman şirketine verdiği ayrıcalık ile doğrudan ilişkilidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Osmanlı posta teşkilatını kurma ve yönetme yetkisi.",
+            "explanation": "Ders notunda posta teşkilatının II. Mahmut döneminde kurulduğu belirtilmekle birlikte, Bağdat Demiryolu imtiyaz sözleşmesi kapsamında Alman şirketine böyle bir yetki verildiğine dair bilgi bulunmamaktadır."
+          },
+          {
+            "id": "B",
+            "text": "Bölgedeki askeri birlikleri denetleme ve örgütleme hakkı.",
+            "explanation": "Yabancı şirketlere askeri denetim veya örgütleme hakkı verilmesi, egemenlik haklarının doğrudan ihlali anlamına gelir ve demiryolu imtiyazları kapsamında böyle bir yetki tanınmamıştır."
+          },
+          {
+            "id": "C",
+            "text": "Demiryolu hattının her iki yanında belirli mesafedeki madenleri işletme hakkı.",
+            "explanation": "Ders notunda açıkça belirtildiği üzere, Bağdat Demiryolu imtiyaz sözleşmesine göre Alman şirketine verilen ayrıcalıklardan biri, 'hattın her iki yanında belirli mesafedeki madenleri işletme hakkı'dır. Bu, doğru cevaptır."
+          },
+          {
+            "id": "D",
+            "text": "Hattın geçtiği güzergâhta vergi toplama ve bu vergileri kullanma yetkisi.",
+            "explanation": "Vergi toplama yetkisi devletin temel egemenlik haklarındandır ve demiryolu imtiyazları kapsamında yabancı şirketlere böyle bir yetki verilmemiştir."
+          },
+          {
+            "id": "E",
+            "text": "Osmanlı gümrük gelirlerini toplama ve varlıkları planlama hakkı.",
+            "explanation": "Gümrük gelirlerinin toplanması ve mali varlıkların planlanması devletin mali egemenliğinin bir parçasıdır. Bu tür yetkiler, demiryolu imtiyazları kapsamında yabancı şirketlere verilmez, daha ziyade Düyun-u Umumiye gibi uluslararası kurumların yetki alanına girerdi."
+          }
+        ],
+        "correct": "C",
+        "trick": "Öğrenci, ders notunda açıkça belirtilen bilgiyi hatırlamak yerine, Osmanlı'nın genel mali bağımsızlık sorunlarıyla ilgili diğer seçeneklere yönelerek hata yapabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-osmanli-tarihi-007",
+    "topicId": "osmanli-tarihi",
+    "cekirdek": "Osmanlı Devleti'nin kuruluş dönemindeki temel yönetim, askeri ve sosyal yapısı ile önemli olayları bilmek.",
+    "ozet": "Osmanlı Devleti, **Osman Bey** tarafından 1299'da Söğüt-Domaniç bölgesinde kuruldu. Bu dönemde devletin hızlı büyümesinde **istimalet politikası** (hoşgörü) ve **iskân politikası** gibi faktörler etkili oldu. Orhan Bey döneminde ilk düzenli ordu ve medrese kurulurken, **Çimpe Kalesi** ile Rumeli'ye geçiş sağlandı. I. Murat zamanında **Yeniçeri Ocağı** ve **tımar sistemi** gibi önemli kurumlar oluşturuldu. Yıldırım Bayezid'in **Ankara Savaşı**'nda Timur'a yenilmesiyle yaşanan **Fetret Devri**, I. Mehmet tarafından sonlandırıldı. Bu dönem, Osmanlı'nın temel kurumlarının atıldığı ve sonraki yükselişine zemin hazırlayan kritik gelişmelerle doludur. Divan-ı Hümayun gibi merkezi yönetim organları da bu dönemde ortaya çıkmıştır.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-009",
+        "stem": "Osmanlı devlet yönetiminde en yüksek karar organı olan Divan-ı Hümayun, ilk kez hangi dönemde kurulmuştur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Selçuklu Devleti",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Osmanlı İmparatorluğu",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Bizans İmparatorluğu",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Roma İmparatorluğu",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-osmanli-tarihi-007-t1",
+        "stem": "Osmanlı Devleti'nin kuruluş dönemindeki gelişmeleri göz önüne alındığında, aşağıdakilerden hangisi Orhan Bey dönemine ait bir özellik DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bursa'nın başkent yapılması",
+            "explanation": "Bursa, Orhan Bey döneminde fethedilerek Osmanlı'ya başkent yapılmıştır. Bu bilgi ders notunda 'Orhan Bey: Bursa başkent yapıldı' şeklinde açıkça belirtilmiştir."
+          },
+          {
+            "id": "B",
+            "text": "İlk düzenli ordunun (Yaya ve Müsellem) kurulması",
+            "explanation": "İlk düzenli ordu olan Yaya ve Müsellem, Orhan Bey döneminde kurulmuştur. Ders notunda 'ilk düzenli ordu (yaya ve müsellem)' olarak geçmektedir."
+          },
+          {
+            "id": "C",
+            "text": "Karesioğulları Beyliği'nin Osmanlı topraklarına katılması",
+            "explanation": "Karesioğulları Beyliği, Orhan Bey döneminde Osmanlı'ya katılan ilk beyliktir. Ders notunda 'Karesioğulları ilk katılan beylik oldu' şeklinde yer almaktadır."
+          },
+          {
+            "id": "D",
+            "text": "Yeniçeri Ocağı'nın kurulması",
+            "explanation": "Yeniçeri Ocağı, I. Murat döneminde kurulmuştur. Ders notunda 'I. Murat (Hüdavendigar): Yeniçeri Ocağı ve devşirme sistemi... kuruldu' ifadesiyle bu bilgi açıkça belirtilmiştir. Dolayısıyla bu, Orhan Bey dönemine ait bir özellik değildir."
+          },
+          {
+            "id": "E",
+            "text": "Çimpe Kalesi'nin alınarak Rumeli'ye geçişin sağlanması",
+            "explanation": "Çimpe Kalesi, Orhan Bey döneminde alınmış ve Osmanlı'nın Rumeli'ye geçişinde önemli bir askeri üs olmuştur. Ders notunda 'Çimpe Kalesi (1353) ile Rumeli'ye ayak basıldı' ifadesiyle bu bilgi doğrulanmaktadır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Soruda 'DEĞİLDİR' ifadesine dikkat etmeyip Orhan Bey dönemi özelliklerinden birini işaretlemek tuzağa düşmeye neden olabilir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-007-t2",
+        "stem": "Aşağıdaki Osmanlı padişahları ve dönemlerinde gerçekleşen önemli olay eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Osman Bey – Koyunhisar Savaşı",
+            "explanation": "Koyunhisar Savaşı (1302), Osman Bey döneminde Bizans'a karşı yapılan ilk savaştır. Ders notunda 'Osman Bey: Koyunhisar (1302) — Bizans'a karşı ilk savaş' şeklinde yer almaktadır."
+          },
+          {
+            "id": "B",
+            "text": "I. Murat – I. Kosova Savaşı",
+            "explanation": "I. Kosova Savaşı (1389), I. Murat döneminde gerçekleşen önemli zaferlerden biridir. Ders notunda 'I. Murat (Hüdavendigar): ... I. Kosova (1389) zaferleri' ifadesiyle bu bilgi doğrulanmaktadır."
+          },
+          {
+            "id": "C",
+            "text": "Yıldırım Bayezid – Niğbolu Savaşı",
+            "explanation": "Niğbolu Savaşı (1396), Yıldırım Bayezid döneminde kazanılan büyük zaferlerdendir. Ders notunda 'Yıldırım Bayezid: Niğbolu (1396) zaferi' olarak belirtilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "II. Murat – Varna Savaşı",
+            "explanation": "Varna Savaşı (1444), II. Murat döneminde Haçlılara karşı kazanılan önemli zaferlerden biridir. Ders notunda 'II. Murat: Varna (1444) ... zaferleriyle Balkan hâkimiyeti kesinleşti' şeklinde belirtilmiştir."
+          },
+          {
+            "id": "E",
+            "text": "I. Mehmet – Ankara Savaşı",
+            "explanation": "Ankara Savaşı (1402), Yıldırım Bayezid döneminde gerçekleşmiş ve Timur'a karşı yenilgiyle sonuçlanmıştır. I. Mehmet ise bu savaşın ardından başlayan Fetret Devri'ne son veren padişahtır. Ders notunda '1402 ANKARA SAVAŞI'nda Timur'a yenildi' ifadesi Yıldırım Bayezid ile ilişkilendirilirken, I. Mehmet 'devletin ikinci kurucusu' olarak Fetret Devri'ne son vermesiyle anılmaktadır. Dolayısıyla bu eşleştirme yanlıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Ankara Savaşı'nın tarihini ve sonucunu bilmek, ancak hangi padişah döneminde gerçekleştiği ile Fetret Devri'ni bitiren padişahı karıştırmak bu soruda hata yapmaya yol açabilir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-007-t3",
+        "stem": "Osmanlı Devleti'nin kuruluş dönemindeki önemli olayların kronolojik sıralaması aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Koyunhisar Savaşı → Çimpe Kalesi'nin alınması → I. Kosova Savaşı → Ankara Savaşı → Fetret Devri'nin sona ermesi",
+            "explanation": "Bu sıralama doğru kronolojiyi yansıtmaktadır: Koyunhisar Savaşı (1302 - Osman Bey), Çimpe Kalesi'nin alınması (1353 - Orhan Bey), I. Kosova Savaşı (1389 - I. Murat), Ankara Savaşı (1402 - Yıldırım Bayezid), Fetret Devri'nin sona ermesi (1413 - I. Mehmet). Ders notunda bu olayların tarihleri ve padişahları açıkça belirtilmiştir."
+          },
+          {
+            "id": "B",
+            "text": "Çimpe Kalesi'nin alınması → Koyunhisar Savaşı → I. Kosova Savaşı → Ankara Savaşı → Fetret Devri'nin sona ermesi",
+            "explanation": "Koyunhisar Savaşı (1302) Çimpe Kalesi'nin alınmasından (1353) önce gerçekleşmiştir. Bu nedenle sıralama yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "I. Kosova Savaşı → Koyunhisar Savaşı → Çimpe Kalesi'nin alınması → Ankara Savaşı → Fetret Devri'nin sona ermesi",
+            "explanation": "Koyunhisar Savaşı (1302) ve Çimpe Kalesi'nin alınması (1353), I. Kosova Savaşı'ndan (1389) önce gerçekleşmiştir. Bu nedenle sıralama yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Ankara Savaşı → Koyunhisar Savaşı → Çimpe Kalesi'nin alınması → I. Kosova Savaşı → Fetret Devri'nin sona ermesi",
+            "explanation": "Ankara Savaşı (1402), Koyunhisar (1302), Çimpe Kalesi (1353) ve I. Kosova Savaşı'ndan (1389) sonra gerçekleşmiştir. Bu nedenle sıralama yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "Fetret Devri'nin sona ermesi → Koyunhisar Savaşı → Çimpe Kalesi'nin alınması → I. Kosova Savaşı → Ankara Savaşı",
+            "explanation": "Fetret Devri'nin sona ermesi (1413), verilen diğer tüm olaylardan sonra gerçekleşmiştir. Bu nedenle sıralama yanlıştır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Olayların tarihlerini veya padişahlarını tam olarak hatırlamamak, özellikle de Fetret Devri gibi bir sürecin başlangıcı ve sonu arasındaki ayrımı gözden kaçırmak, kronoloji sorularında yanıltıcı olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-osmanli-tarihi-008",
+    "topicId": "osmanli-tarihi",
+    "cekirdek": "Osmanlı Devleti'nin kuruluşundan modernleşme dönemine kadar önemli olayları, padişahları, kurumları ve kültürel unsurları doğru şekilde tanımlama ve ilişkilendirme bilgisi ölçülmektedir.",
+    "ozet": "Osmanlı Devleti'nin tarihini anlamak için **kuruluş dönemindeki** temel dinamikleri (gaza, iskân, istimalet), **yükselme dönemindeki** fetihleri ve imparatorluk yapısını (İstanbul'un Fethi, Kanuni dönemi) bilmek kritik öneme sahiptir. Ayrıca, **duraklama ve gerileme dönemlerindeki** değişimleri (ıslahat hareketleri, antlaşmalar) ve **devlet teşkilatındaki** kilit kurumları (Divan-ı Hümayun, tımar sistemi) kavramak gereklidir. Özellikle padişahların ve hanedan üyelerinin yaptırdığı büyük camilere verilen ad gibi mimari terimler ve önemli şahsiyetler (Mimar Sinan, Evliya Çelebi) sınavda sıkça sorulmaktadır. Bu anahtar bilgileri doğru bir şekilde ilişkilendirebilmek, soruları çözmenizi sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-053",
+        "stem": "Osmanlı mimarisinde padişahlar ve hanedan üyeleri tarafından yaptırılan, genellikle birden fazla minareye sahip büyük camilere ne ad verilir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Selatin Camii",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Ulu Camii",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Külliye",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Medrese",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-osmanli-tarihi-008-t1",
+        "stem": "Aşağıdakilerden hangisi Osmanlı Devleti'nin kuruluş döneminde Bizans'tan alınan ve Türklerin Rumeli'ye geçişinde askeri üs olarak kullanılan ilk kaledir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yedikule",
+            "explanation": "Yedikule, İstanbul'un fethinden sonra Fatih Sultan Mehmet tarafından yaptırılan bir hisardır, kuruluş dönemiyle ilgili değildir."
+          },
+          {
+            "id": "B",
+            "text": "Çimpe Kalesi",
+            "explanation": "Çimpe Kalesi, Orhan Bey döneminde Bizans'tan alınan ve Osmanlı'nın Rumeli'ye geçişinde askeri üs olarak kullanılan ilk önemli kaledir."
+          },
+          {
+            "id": "C",
+            "text": "Anadolu Hisarı",
+            "explanation": "Anadolu Hisarı, Yıldırım Bayezid tarafından İstanbul kuşatması sırasında yaptırılmıştır, Rumeli'ye geçişle ilgili değildir."
+          },
+          {
+            "id": "D",
+            "text": "Rumeli Hisarı",
+            "explanation": "Rumeli Hisarı, Fatih Sultan Mehmet tarafından İstanbul'un fethi hazırlıkları sırasında yaptırılmıştır, kuruluş dönemiyle ilgili değildir."
+          },
+          {
+            "id": "E",
+            "text": "Gelibolu Kalesi",
+            "explanation": "Gelibolu Kalesi, Çimpe Kalesi'nin alınmasından sonra Osmanlı'nın Rumeli'deki ilerleyişinde önemli bir üs haline gelmiştir ancak ilk kale değildir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Rumeli'deki ilk üs ile İstanbul kuşatması için yapılan hisarları karıştırmak yaygın bir hatadır."
+      },
+      {
+        "id": "aile-osmanli-tarihi-008-t2",
+        "stem": "Osmanlı Devleti'nin kuruluş dönemindeki padişahlar ve önemli olaylar eşleştirmelerinden hangisi YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Osman Bey - Koyunhisar Savaşı",
+            "explanation": "Koyunhisar Savaşı (1302), Osman Bey döneminde Bizans'a karşı yapılan ilk önemli savaştır. Eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Orhan Bey - İlk düzenli ordu (Yaya ve Müsellem)",
+            "explanation": "Orhan Bey döneminde ilk düzenli ordu olan Yaya ve Müsellem kurulmuştur. Eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Yıldırım Bayezid - Yeniçeri Ocağı'nın kurulması",
+            "explanation": "Yeniçeri Ocağı, I. Murat döneminde kurulmuştur. Yıldırım Bayezid döneminde değil. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "I. Murat - Sırpsındığı Savaşı",
+            "explanation": "I. Murat döneminde Sırpsındığı ve I. Kosova gibi önemli zaferler kazanılmıştır. Eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "I. Mehmet (Çelebi) - Fetret Devri'nin sona erdirilmesi",
+            "explanation": "I. Mehmet, Fetret Devri'ne son vererek devleti yeniden toparladığı için 'devletin ikinci kurucusu' olarak anılır. Eşleştirme doğrudur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Padişahların hangi kurumları kurduğunu veya hangi olayların hangi dönemde gerçekleştiğini karıştırmak tuzaktır."
+      },
+      {
+        "id": "aile-osmanli-tarihi-008-t3",
+        "stem": "Osmanlı Devleti'nde tımarlı sipahilerin görevleri arasında aşağıdakilerden hangisi bulunmaz?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Savaş zamanında orduya katılmak",
+            "explanation": "Tımarlı sipahiler, dirlik gelirleriyle geçinir ve savaş zamanında orduya katılan askerlerdir. Bu, temel görevlerinden biridir."
+          },
+          {
+            "id": "B",
+            "text": "Vergi toplamak ve taşrada güvenliği sağlamak",
+            "explanation": "Tımar sisteminin amaçlarından biri vergi toplamak ve taşrada güvenliği sağlamaktır. Tımarlı sipahiler bu görevleri de üstlenirdi."
+          },
+          {
+            "id": "C",
+            "text": "Dirlik arazilerinde tarımsal üretimi artırmak",
+            "explanation": "Toprağın boş kalmasını önlemek ve tarımsal üretimi sürdürmek tımar sisteminin hedeflerindendir, bu da sipahinin sorumluluğundadır."
+          },
+          {
+            "id": "D",
+            "text": "Devşirme sistemiyle asker toplamak",
+            "explanation": "Devşirme sistemi, Kapıkulu askerlerini (özellikle Yeniçerileri) temin etmek için kullanılan bir yöntemdir. Tımarlı sipahilerin böyle bir görevi yoktur."
+          },
+          {
+            "id": "E",
+            "text": "Besledikleri cebelü adı verilen askerleri savaşa götürmek",
+            "explanation": "Tımarlı sipahiler, dirlik gelirlerine göre cebelü adı verilen askerleri beslemek ve savaş zamanında onlarla birlikte orduya katılmakla yükümlüydüler. Bu görevleri arasındadır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Tımarlı sipahilerin ve devşirme sisteminin işleyişini karıştırmak, bu soruda düşülebilecek bir tuzaktır."
+      }
+    ]
+  },
+  {
+    "id": "aile-osmanli-tarihi-009",
+    "topicId": "osmanli-tarihi",
+    "cekirdek": "Mimar Sinan'ın en önemli eserlerinden biri olan Selimiye Camii'nin 'ustalık eserim' olarak nitelendirilmesi bilgisidir.",
+    "ozet": "Osmanlı İmparatorluğu'nun **yükseliş dönemi** mimarisine damga vuran **Mimar Sinan**, birçok önemli esere imza atmıştır. Özellikle Kanuni Sultan Süleyman ve II. Selim dönemlerinde faaliyet gösteren Sinan, cami, köprü, medrese gibi çeşitli yapılar inşa etmiştir. Eserlerini çıraklık, kalfalık ve **ustalık dönemi** olarak sınıflandırmasıyla bilinen Mimar Sinan, özellikle Edirne'deki **Selimiye Camii**'ni mimari dehasının zirvesi olarak görmüştür. Bu cami, hem estetik hem de teknik açıdan Osmanlı mimarisinin ve Sinan'ın ustalığının bir simgesidir. Bu bilgi, Osmanlı mimarisi ve sanat tarihi açısından temel bir öneme sahiptir.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-079",
+        "stem": "Ünlü Osmanlı mimarı Mimar Sinan’ın \"ustalık eserim\" olarak nitelendirdiği cami aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Selimiye Camii",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Süleymaniye Camii",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Şehzade Camii",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Mihrimah Sultan Camii",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-osmanli-tarihi-009-t1",
+        "stem": "Mimar Sinan'ın yaşamı ve eserleri düşünüldüğünde, onun mimari kariyerindeki 'ustalık eserim' olarak tanımladığı Edirne'deki Selimiye Camii'nin inşa edildiği dönem, aşağıdaki padişahlardan hangisinin saltanatına denk gelmektedir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yavuz Sultan Selim",
+            "explanation": "Yavuz Sultan Selim dönemi, Mimar Sinan'ın mimari kariyerinin başlangıcından önce veya kariyerinin çok erken safhalarına denk gelir. Selimiye Camii bu dönemde inşa edilmemiştir."
+          },
+          {
+            "id": "B",
+            "text": "I. Süleyman (Kanuni)",
+            "explanation": "Kanuni Sultan Süleyman dönemi, Mimar Sinan'ın kariyerinin önemli bir bölümünü kapsasa da, Selimiye Camii onun vefatından sonra tamamlanmıştır. Kanuni döneminde daha çok çıraklık ve kalfalık eserleri verilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "III. Murat",
+            "explanation": "III. Murat dönemi, Selimiye Camii'nin tamamlanmasından sonraya denk gelir. Mimar Sinan'ın sonraki dönem eserleri bu padişah zamanında da devam etmiştir ancak Selimiye bu döneme ait değildir."
+          },
+          {
+            "id": "D",
+            "text": "III. Mehmet",
+            "explanation": "III. Mehmet dönemi, Mimar Sinan'ın vefatından sonraya denk gelir. Dolayısıyla Selimiye Camii bu dönemde inşa edilmemiştir."
+          },
+          {
+            "id": "E",
+            "text": "II. Selim",
+            "explanation": "Selimiye Camii, II. Selim döneminde inşa edilmiş ve tamamlanmıştır. Mimar Sinan bu eseri II. Selim'in emriyle yapmıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Mimar Sinan'ın uzun kariyerini ve hangi eseri hangi padişah döneminde yaptığı bilgisini karıştırmak tuzaktır."
+      },
+      {
+        "id": "aile-osmanli-tarihi-009-t2",
+        "stem": "Aşağıdakilerden hangisi, Mimar Sinan'ın 'ustalık eserim' olarak tanımladığı Selimiye Camii'nin özellikleri arasında YER ALMAZ?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İç mekan süslemelerinde yoğun olarak barok üslup kullanılması",
+            "explanation": "Selimiye Camii, klasik Osmanlı mimarisinin zirvesidir. Barok üslup, Osmanlı mimarisine çok daha sonraki dönemlerde (Lale Devri ve sonrasında) girmiştir. Dolayısıyla bu ifade yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Edirne şehrinde inşa edilmiş olması",
+            "explanation": "Selimiye Camii, Mimar Sinan'ın ustalık eseri olarak Edirne'de inşa edilmiştir. Bu bilgi doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Tek kubbe altında geniş bir ibadet alanı sunması",
+            "explanation": "Selimiye Camii, Mimar Sinan'ın tek kubbe altında en geniş iç mekanı oluşturma arayışının zirvesidir. Bu bilgi doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Dört minaresinin bulunması",
+            "explanation": "Selimiye Camii, dört zarif minaresiyle dikkat çeken bir yapıdır. Bu bilgi doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "UNESCO Dünya Mirası Listesi'nde yer alması",
+            "explanation": "Selimiye Camii ve Külliyesi, mimari ve kültürel önemi nedeniyle UNESCO Dünya Mirası Listesi'nde yer almaktadır. Bu bilgi doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Mimari üslup bilgisi ve caminin genel özelliklerini karıştırmak tuzağıdır."
+      },
+      {
+        "id": "aile-osmanli-tarihi-009-t3",
+        "stem": "Osmanlı mimarisinin zirve noktalarından biri olan ve Mimar Sinan'ın 'ustalık eserim' dediği Selimiye Camii, aşağıdaki Osmanlı padişahlarından hangisi döneminde inşa edilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Fatih Sultan Mehmet",
+            "explanation": "Fatih Sultan Mehmet dönemi, Mimar Sinan'ın mimari kariyerinden çok daha önce, Osmanlı İmparatorluğu'nun kuruluş ve yükselişinin erken dönemlerine denk gelir."
+          },
+          {
+            "id": "B",
+            "text": "II. Selim",
+            "explanation": "Ders notunda belirtildiği üzere, Mimar Sinan'ın 'ustalık eserim' olarak nitelendirdiği Edirne'deki Selimiye Camii, II. Selim döneminde inşa edilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Kanuni Sultan Süleyman",
+            "explanation": "Kanuni Sultan Süleyman dönemi, Mimar Sinan'ın mimarbaşı olduğu ve birçok önemli esere imza attığı bir dönemdir. Ancak Selimiye Camii'nin inşası II. Selim dönemine rastlar."
+          },
+          {
+            "id": "D",
+            "text": "I. Murat",
+            "explanation": "I. Murat dönemi, Osmanlı İmparatorluğu'nun kuruluş dönemine ait olup, Mimar Sinan'ın yaşamından çok daha öncedir."
+          },
+          {
+            "id": "E",
+            "text": "Yıldırım Bayezid",
+            "explanation": "Yıldırım Bayezid dönemi, Osmanlı'nın kuruluş dönemi sonları ve Fetret Devri öncesine denk gelir, Mimar Sinan bu dönemde yaşamamıştır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Mimar Sinan'ın çok sayıda padişaha hizmet etmesi nedeniyle hangi eseri hangi padişah döneminde inşa ettiğini karıştırmak tuzağıdır."
+      }
+    ]
+  },
+  {
+    "id": "aile-osmanli-tarihi-010",
+    "topicId": "osmanli-tarihi",
+    "cekirdek": "Osmanlı İmparatorluğu'nun kuruluşundan yıkılışına kadar olan süreçteki önemli olayları, şahsiyetleri, kurumları, antlaşmaları ve mimari eserleri doğru dönemlerle eşleştirebilme bilgisi ölçülmektedir.",
+    "ozet": "Osmanlı tarihi, **Kuruluş**, **Yükselme**, Duraklama ve Gerileme gibi dönemlere ayrılır. Her dönemin kendine özgü siyasi, sosyal ve kültürel gelişmeleri vardır. Örneğin, **Osman Bey** ile kurulan devletin **Fatih Sultan Mehmet** ile imparatorluğa dönüşmesi, **Kanuni Sultan Süleyman** ile zirveye ulaşması ve ardından gelen gerileme süreci, dönüm noktası antlaşmalar ve reform hareketleri önemlidir. Özellikle mimari eserler, padişahlar ve önemli şahsiyetlerle ilişkilendirilerek sorulabilir. Bu bilgileri dönemsel bağlamda doğru eşleştirmek, soruları çözmek için kritik öneme sahiptir.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-009",
+        "stem": "İlk olarak II. Mahmud döneminde inşa ettirilmiştir. Mermer Köşk, Sarı Köşk, Ahır Köşkü, saray bahçeleri ve deniz köşkleri gibi ek yapılara sahiptir. Yazlık saray olarak da kullanılmıştır.\n\nYukarıda özellikleri verilen Osmanlı sarayı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Adile Sultan Sarayı",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Beylerbeyi Sarayı",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Çırağan Sarayı",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Dolmabahçe Sarayı",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Yıldız Sarayı",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-osmanli-tarihi-010-t1",
+        "stem": "Osmanlı Devleti'nin kuruluş sürecinde uyguladığı politikalar ve gerçekleştirdiği ilkler göz önüne alındığında, aşağıdakilerden hangisi Orhan Bey dönemine ait bir gelişme DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İlk düzenli ordunun (Yaya ve Müsellem) kurulması",
+            "explanation": "İlk düzenli ordu olan Yaya ve Müsellem, Orhan Bey döneminde kurulmuştur. Bu bilgi ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "B",
+            "text": "Bursa'nın başkent yapılması",
+            "explanation": "Bursa, Orhan Bey döneminde başkent yapılmıştır. Bu bilgi ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Yeniçeri Ocağı'nın ve Devşirme Sistemi'nin kurulması",
+            "explanation": "Yeniçeri Ocağı ve Devşirme Sistemi, I. Murat (Hüdavendigar) döneminde kurulmuştur, Orhan Bey dönemine ait değildir. Bu nedenle doğru cevap E şıkkıdır."
+          },
+          {
+            "id": "D",
+            "text": "Çimpe Kalesi'nin alınarak Rumeli'ye geçişin sağlanması",
+            "explanation": "Çimpe Kalesi, Orhan Bey döneminde alınmış ve Rumeli'ye geçişte önemli bir askeri üs olmuştur. Bu bilgi ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "E",
+            "text": "İlk gümüş paranın (akçe) bastırılması",
+            "explanation": "İlk gümüş para olan akçe, Orhan Bey döneminde bastırılmıştır. Bu bilgi ders notunda açıkça belirtilmiştir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Birden fazla erken dönem padişahının ilkleri arasında ayrım yapamamak, bu soruyu yanıltıcı kılabilir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-010-t2",
+        "stem": "Osmanlı İmparatorluğu'nun siyasi ve askeri başarıları ile birlikte, önemli mimari eserler de çeşitli padişahlar döneminde inşa edilmiştir. Aşağıdaki mimari eserlerden hangisi, ait olduğu padişah dönemiyle YANLIŞ eşleştirilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Rumeli Hisarı - Fatih Sultan Mehmet",
+            "explanation": "Rumeli Hisarı, İstanbul'un fethi hazırlıkları kapsamında Fatih Sultan Mehmet tarafından yaptırılmıştır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Anadolu Hisarı - Yıldırım Bayezid",
+            "explanation": "Anadolu Hisarı, İstanbul'u ilk kez kuşatan Yıldırım Bayezid tarafından yaptırılmıştır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Topkapı Sarayı - Fatih Sultan Mehmet",
+            "explanation": "Topkapı Sarayı, Fatih Sultan Mehmet döneminde inşa edilmiştir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "İshak Paşa Sarayı - II. Mahmut",
+            "explanation": "İshak Paşa Sarayı'nın yapımı 1784 yılında tamamlanmıştır ve bu tarih II. Mahmut döneminden (1808-1839) öncesine denk gelir. Ders notuna göre İshak Paşa Sarayı'nın hangi padişah döneminde tamamlandığı belirtilmemekle birlikte, II. Mahmut dönemiyle eşleştirilmesi yanlıştır. İshak Paşa Sarayı, Osmanlı'nın gerileme döneminde, Köprülü ailesi tarafından yaptırılmıştır. Bu nedenle doğru cevap E şıkkıdır."
+          },
+          {
+            "id": "E",
+            "text": "Sahn-ı Seman Medreseleri - Fatih Sultan Mehmet",
+            "explanation": "Sahn-ı Seman Medreseleri, Fatih Sultan Mehmet döneminde açılmıştır. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "D",
+        "trick": "Mimari eserlerin tamamlanma tarihlerini dönemsel olarak karıştırmak, yanıltıcı olabilir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-010-t3",
+        "stem": "Osmanlı Devleti'nin kuruluşundan yükselişine kadar geçen süreçte yaşanan önemli olaylar kronolojik sıraya göre dizildiğinde, aşağıdakilerden hangisi bu sıralamada diğerlerinden ÖNCE gerçekleşmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Niğbolu Savaşı'nın kazanılması",
+            "explanation": "Niğbolu Savaşı, Yıldırım Bayezid döneminde 1396'da kazanılmıştır."
+          },
+          {
+            "id": "B",
+            "text": "I. Kosova Savaşı'nın yapılması",
+            "explanation": "I. Kosova Savaşı, I. Murat döneminde 1389'da yapılmıştır."
+          },
+          {
+            "id": "C",
+            "text": "Ankara Savaşı'nın yaşanması",
+            "explanation": "Ankara Savaşı, Yıldırım Bayezid döneminde 1402'de yaşanmıştır."
+          },
+          {
+            "id": "D",
+            "text": "Fetret Devri'nin sona ermesi",
+            "explanation": "Fetret Devri, 1402-1413 yılları arasında yaşanmış ve I. Mehmet tarafından sona erdirilmiştir (1413)."
+          },
+          {
+            "id": "E",
+            "text": "Çimpe Kalesi'nin alınması",
+            "explanation": "Çimpe Kalesi, Orhan Bey döneminde 1353'te alınmıştır. Bu, diğer olaylardan önce gerçekleşmiştir."
+          }
+        ],
+        "correct": "E",
+        "trick": "Olayların kesin tarihlerini veya hangi padişah döneminde olduğunu karıştırmak, kronolojik sıralamayı zorlaştırabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-osmanli-tarihi-011",
+    "topicId": "osmanli-tarihi",
+    "cekirdek": "Bu soru, Osmanlı İmparatorluğu'nun Kuruluş ve Yükselme Dönemleri'ndeki önemli padişahların icraatlarını ve öne çıkan özelliklerini tanıma bilgisini ölçmektedir.",
+    "ozet": "Osmanlı Devleti'nin **Kuruluş Dönemi**'nde Osman Bey ile temeller atılmış, Orhan Bey, I. Murat ve Yıldırım Bayezid gibi padişahlarla devlet büyümüştür. **Fetret Devri**'nden sonra I. Mehmet devleti toparlamış, II. Murat Balkanlardaki hâkimiyeti kesinleştirmiştir. **Yükselme Dönemi** ise **Fatih Sultan Mehmet**'in İstanbul'u fethiyle başlamıştır. Bu dönemde **Yavuz Sultan Selim**, kısa saltanatında Memlükleri yıkarak halifeliği Osmanlı'ya getirmiş, Doğu Anadolu'da önemli fetihler yapmıştır. **Kanuni Sultan Süleyman** ise imparatorluğu zirveye taşımış, Belgrad, Rodos ve Mohaç gibi önemli yerleri fethetmiş, Preveze Deniz Savaşı ile Akdeniz'i Türk gölü yapmıştır. Bu dönem padişahlarının temel başarılarını ve ayırt edici özelliklerini bilmek, soruları doğru yanıtlamanızı sağlar.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-013",
+        "stem": "Trabzon Sancağına vali olarak tayin edilen, Kars ve Erzurum'u fetheden ve tarihçilerin kendisi için \"Sekiz yıla seksen yıllık iş sığdırdı\" şeklinde değerlendirme yaptığı Osmanlı padişahı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kanuni Sultan Süleyman",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Yavuz Sultan Selim",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Yıldırım Bayezid",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Sultan Abdülmecid",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Fatih Sultan Mehmed",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-osmanli-tarihi-011-t1",
+        "stem": "Aşağıdakilerden hangisi, Osmanlı Devleti'nin kuruluş döneminde Rumeli'ye geçişini sağlayan ve askeri üs olarak kullanılan ilk kaleyi ve bu kalenin alındığı padişahı doğru şekilde eşleştirmektedir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Çimpe Kalesi - Orhan Bey",
+            "explanation": "Çimpe Kalesi, Orhan Bey döneminde Bizans'tan alınmış ve Osmanlı'nın Rumeli'ye geçişinde askeri üs olarak kullanılan ilk kaledir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Çimpe Kalesi - Osman Bey",
+            "explanation": "Çimpe Kalesi doğru olsa da, Osman Bey döneminde değil, Orhan Bey döneminde alınmıştır."
+          },
+          {
+            "id": "C",
+            "text": "Rumeli Hisarı - Fatih Sultan Mehmet",
+            "explanation": "Rumeli Hisarı İstanbul'un fethi hazırlıkları kapsamında Fatih Sultan Mehmet tarafından yaptırılmıştır, Rumeli'ye geçişi sağlayan ilk kale değildir."
+          },
+          {
+            "id": "D",
+            "text": "Edirne - I. Murat",
+            "explanation": "Edirne I. Murat döneminde fethedilip başkent yapılmış olsa da bir kale değil, bir şehirdir ve Rumeli'ye geçişi sağlayan ilk askeri üs değildir."
+          },
+          {
+            "id": "E",
+            "text": "Koyunhisar - Orhan Bey",
+            "explanation": "Koyunhisar Savaşı Osman Bey döneminde Bizans'a karşı yapılmış ilk savaştır, bir kale değildir ve Orhan Bey dönemine ait değildir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Rumeli'ye geçişle ilgili kalelerin ve padişahların karıştırılması, bu sorudaki temel tuzaktır."
+      },
+      {
+        "id": "aile-osmanli-tarihi-011-t2",
+        "stem": "Aşağıdaki olaylardan hangisi, Osmanlı Devleti'nin yükselme döneminde gerçekleşen önemli gelişmelerden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mercidabık ve Ridaniye Savaşları ile Memlük Devleti'nin yıkılması",
+            "explanation": "Mercidabık ve Ridaniye Savaşları, Yavuz Sultan Selim döneminde (yükselme dönemi) gerçekleşmiş ve Memlük Devleti'nin yıkılmasıyla sonuçlanmıştır."
+          },
+          {
+            "id": "B",
+            "text": "Çimpe Kalesi'nin alınarak Rumeli'ye ilk kez ayak basılması",
+            "explanation": "Çimpe Kalesi'nin alınması Orhan Bey dönemine (kuruluş dönemi) aittir ve Osmanlı'nın Rumeli'ye ilk geçişini sağlamıştır. Yükselme dönemine ait bir gelişme değildir."
+          },
+          {
+            "id": "C",
+            "text": "Preveze Deniz Savaşı ile Akdeniz'in Türk gölü haline gelmesi",
+            "explanation": "Preveze Deniz Savaşı, Kanuni Sultan Süleyman döneminde (yükselme dönemi) gerçekleşmiş ve Akdeniz'deki Osmanlı hâkimiyetini pekiştirmiştir."
+          },
+          {
+            "id": "D",
+            "text": "İstanbul'un fethi ve Orta Çağ'ın kapanıp Yeni Çağ'ın başlaması",
+            "explanation": "İstanbul'un fethi, Fatih Sultan Mehmet döneminde (yükselme dönemi) gerçekleşmiş ve evrensel sonuçlar doğurarak çağ açıp çağ kapatmıştır."
+          },
+          {
+            "id": "E",
+            "text": "Kanunname-i Âl-i Osman'ın yayımlanması ile kardeş katli uygulamasının hukuki dayanak kazanması",
+            "explanation": "Kanunname-i Âl-i Osman, Fatih Sultan Mehmet döneminde (yükselme dönemi) çıkarılmış ve devletin merkezi otoritesini güçlendirmeyi amaçlamıştır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Yükselme dönemi ile kuruluş dönemi olaylarını karıştırmak, bu sorudaki ana yanıltıcı unsurdur."
+      },
+      {
+        "id": "aile-osmanli-tarihi-011-t3",
+        "stem": "Osmanlı Devleti'nin kuruluşundan itibaren yaşanan önemli olayları kronolojik sıraya göre düzenleyiniz:",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I. Çimpe Kalesi'nin alınması\nII. Koyunhisar Savaşı\nIII. Ankara Savaşı\nIV. I. Kosova Savaşı\nV. Fetret Devri'nin sona ermesi",
+            "explanation": "Koyunhisar Savaşı, Çimpe Kalesi'nden önce gerçekleşmiştir."
+          },
+          {
+            "id": "B",
+            "text": "I. Koyunhisar Savaşı\nII. I. Kosova Savaşı\nIII. Çimpe Kalesi'nin alınması\nIV. Ankara Savaşı\nV. Fetret Devri'nin sona ermesi",
+            "explanation": "Çimpe Kalesi'nin alınması, I. Kosova Savaşı'ndan önce gerçekleşmiştir."
+          },
+          {
+            "id": "C",
+            "text": "I. Koyunhisar Savaşı\nII. Çimpe Kalesi'nin alınması\nIII. I. Kosova Savaşı\nIV. Ankara Savaşı\nV. Fetret Devri'nin sona ermesi",
+            "explanation": "Koyunhisar Savaşı (1302), Çimpe Kalesi (1353), I. Kosova (1389), Ankara Savaşı (1402), Fetret Devri'nin sona ermesi (1413). Bu sıralama doğru kronolojiyi yansıtmaktadır."
+          },
+          {
+            "id": "D",
+            "text": "I. Koyunhisar Savaşı\nII. Çimpe Kalesi'nin alınması\nIII. Ankara Savaşı\nIV. I. Kosova Savaşı\nV. Fetret Devri'nin sona ermesi",
+            "explanation": "I. Kosova Savaşı, Ankara Savaşı'ndan önce gerçekleşmiştir."
+          },
+          {
+            "id": "E",
+            "text": "I. Ankara Savaşı\nII. Koyunhisar Savaşı\nIII. Çimpe Kalesi'nin alınması\nIV. I. Kosova Savaşı\nV. Fetret Devri'nin sona ermesi",
+            "explanation": "Ankara Savaşı, diğer olaylardan çok sonra gerçekleşmiştir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Yakın tarihli olayların sıralamasını karıştırmak veya kronolojik bilgiyi tam olarak hatırlayamamak, bu sorudaki tuzaktır."
+      }
+    ]
+  },
+  {
+    "id": "aile-osmanli-tarihi-012",
+    "topicId": "osmanli-tarihi",
+    "cekirdek": "Bu soru, Osmanlı dönemi sivil mimari örneklerini ve özellikle tarihi evleriyle öne çıkan yerleşim yerlerini tanıma bilgisini ölçmektedir.",
+    "ozet": "Osmanlı İmparatorluğu'nun kuruluşundan yıkılışına kadar olan dönemde, **sivil mimari** örnekleri önemli bir yer tutar. Bu mimari genellikle konutlar, çarşılar, köprüler gibi halkın günlük yaşamını doğrudan etkileyen yapıları kapsar. Özellikle bazı yerleşim yerleri, özgün ve iyi korunmuş tarihi evleriyle öne çıkar. Bu tür yerler, o dönemin yaşam tarzını, sosyal yapısını ve estetik anlayışını yansıtır. Ancak, her tarihi yerleşim yeri Osmanlı sivil mimarisine özgü tarihi evlere sahip olmayabilir; bazıları farklı kültürlerin veya dönemlerin izlerini taşıyabilir. Bu ayrımı bilmek, sorularda doğru cevabı bulmanızı sağlar.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-031",
+        "stem": "Aşağıdakilerden hangisi Osmanlı dönemi sivil mimari örnekleri arasında yer alan tarihi evleriyle öne çıkan yerleşimlerden biri değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Odunpazarı",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Kayaköy",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Cumalıkızık",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Beypazarı",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Sivrihisar",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-osmanli-tarihi-012-t1",
+        "stem": "Aşağıdakilerden hangisi, Osmanlı Devleti'nde özellikle kuruluş döneminde uygulanan ve fethedilen bölgelerdeki halkın devlete bağlılığını sağlayan temel politikalar arasında yer almaz?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İskân politikası",
+            "explanation": "İskân politikası, fethedilen yerlere Anadolu'dan Türkmen ailelerin yerleştirilmesiyle hem demografik yapıyı güçlendirmiş hem de bölgenin Türkleşmesini ve İslamlaşmasını sağlamıştır. Bu, kuruluş döneminin önemli bir politikasıdır."
+          },
+          {
+            "id": "B",
+            "text": "İstimalet politikası",
+            "explanation": "İstimalet politikası, fethedilen yerlerdeki yerli halka hoşgörü gösterilmesi, din ve dillerinde serbestlik tanınması ve vergilerinin hafifletilmesi gibi uygulamaları içerir. Bu sayede halkın devlete direnmesi engellenmiş ve bağlılığı sağlanmıştır. Metinde bu politikanın Fetret Devri'nde bile Osmanlı'yı ayakta tuttuğu belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Gaza ve cihat anlayışı",
+            "explanation": "Gaza ve cihat anlayışı, özellikle uç beyliği konumundaki Osmanlı'nın fetihlerini meşrulaştıran ve genişlemesini sağlayan temel ideolojilerden biridir. Bu anlayış, savaşçı ruhu canlı tutmuştur."
+          },
+          {
+            "id": "D",
+            "text": "Devşirme sistemi",
+            "explanation": "Devşirme sistemi, özellikle Kapıkulu askerleri ve Enderun için insan kaynağı sağlamak amacıyla Balkanlardaki Hristiyan ailelerin çocuklarının alınmasıdır. Bu sistem, ordu ve yönetim için nitelikli eleman yetiştirmeyi amaçlasa da, fethedilen bölgelerdeki halkın doğrudan devlete bağlılığını sağlayan bir politika olarak değil, daha çok merkezi otoriteyi güçlendiren bir uygulama olarak işlev görmüştür. Halkın bağlılığını sağlayan temel politikalar istimalet ve iskân politikalarıdır."
+          },
+          {
+            "id": "E",
+            "text": "Siyasi parçalanmışlıktan faydalanma",
+            "explanation": "Bizans'taki taht kavgaları ve Balkanlar'daki siyasi parçalanmışlık, Osmanlı'nın kuruluş ve genişleme döneminde önemli bir dış faktördür. Osmanlı bu durumdan faydalanarak kolayca ilerlemiştir. Bu bir politika değil, mevcut bir durumdan yararlanmadır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Öğrencinin devşirme sistemini genel bir Osmanlı politikası olarak görüp, halkın bağlılığını sağlayan doğrudan bir etken sanması tuzağıdır."
+      },
+      {
+        "id": "aile-osmanli-tarihi-012-t2",
+        "stem": "Osmanlı İmparatorluğu'nun yükselme döneminde yaşanan aşağıdaki olaylardan hangisi, Avrupa'da feodalitenin zayıflamasına ve merkezi krallıkların güçlenmesine doğrudan katkıda bulunmuştur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Preveze Deniz Savaşı",
+            "explanation": "Preveze Deniz Savaşı (1538), Akdeniz'de Osmanlı üstünlüğünü sağlamış ve Barbaros Hayreddin Paşa sayesinde Akdeniz'in Türk gölü haline gelmesini sağlamıştır. Ancak bu olay, Avrupa'daki feodalite yapısını doğrudan etkileyen bir gelişme değildir."
+          },
+          {
+            "id": "B",
+            "text": "Çaldıran Savaşı",
+            "explanation": "Çaldıran Savaşı (1514), Safevi Devleti'ne karşı kazanılmış ve Doğu Anadolu'nun Osmanlı kontrolüne girmesini sağlamıştır. Bu savaş, Osmanlı'nın doğu sınırlarını güvence altına alsa da, Avrupa'daki feodalite üzerinde doğrudan bir etkisi olmamıştır."
+          },
+          {
+            "id": "C",
+            "text": "Kırım'ın fethi",
+            "explanation": "Kırım'ın fethi (1475), Karadeniz'in Türk gölü haline gelmesini sağlamış ve önemli bir ticaret yolunun kontrolünü Osmanlı'ya vermiştir. Bu, Osmanlı'nın ekonomik ve stratejik gücünü artırmış ancak Avrupa'daki siyasi yapıları doğrudan dönüştürmemiştir."
+          },
+          {
+            "id": "D",
+            "text": "Kanunname-i Âl-i Osman'ın ilanı",
+            "explanation": "Kanunname-i Âl-i Osman, ilk Osmanlı kanunnamesidir ve kardeş katli gibi iç düzenlemeleri içermektedir. Bu, Osmanlı'nın merkezi otoritesini güçlendiren iç bir düzenleme olup, Avrupa'daki feodalite üzerinde doğrudan bir etkisi yoktur."
+          },
+          {
+            "id": "E",
+            "text": "İstanbul'un fethi",
+            "explanation": "İstanbul'un fethi (1453) sırasında kullanılan şahi toplarının surları yıkabildiği görülmüştür. Bu durum, Avrupa'daki derebeyliklerin (feodalite) kalın surlarla çevrili şatolarının artık güvenli olmadığını göstermiş ve merkezi krallıkların top gücüyle derebeylerini denetim altına almasını kolaylaştırmıştır. Metinde bu durum açıkça belirtilmiştir."
+          }
+        ],
+        "correct": "E",
+        "trick": "Öğrencinin Yükselme Dönemi'nin genel başarılarını feodaliteyle ilişkilendirme tuzağıdır. Doğrudan etkiyi belirten spesifik bilgiye odaklanılmalıdır."
+      },
+      {
+        "id": "aile-osmanli-tarihi-012-t3",
+        "stem": "Aşağıdaki Osmanlı padişahları ve dönemlerinde gerçekleşen önemli olay eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I. Mehmet – Ankara Savaşı",
+            "explanation": "Ankara Savaşı (1402) Yıldırım Bayezid döneminde Timur'a karşı yapılmış ve Osmanlı yenilmiştir. I. Mehmet ise bu savaştan sonra başlayan Fetret Devri'ne son vererek devleti yeniden toparlamıştır. Dolayısıyla bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Orhan Bey – Çimpe Kalesi'nin alınması",
+            "explanation": "Orhan Bey döneminde Çimpe Kalesi Bizans'tan alınmış ve Rumeli'ye geçişte askeri üs olarak kullanılmıştır. Bu bilgi doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "I. Murat – I. Kosova Savaşı",
+            "explanation": "I. Murat döneminde Sırpsındığı ve I. Kosova Savaşları yapılmış, I. Kosova'da şehit düşmüştür. Bu bilgi doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Yıldırım Bayezid – Niğbolu Zaferi",
+            "explanation": "Yıldırım Bayezid döneminde Niğbolu Zaferi kazanılmış ve İstanbul ilk kez kuşatılmıştır. Bu bilgi doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "II. Murat – II. Kosova Savaşı",
+            "explanation": "II. Murat döneminde Varna ve II. Kosova Savaşları kazanılmış, Balkan hakimiyeti kesinleşmiştir. Bu bilgi doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Öğrencinin I. Mehmet'in Fetret Devri'ni bitiren padişah olduğunu bilip, Ankara Savaşı'nı da dolaylı olarak onunla ilişkilendirme tuzağıdır. Ankara Savaşı'nın Yıldırım Bayezid döneminde gerçekleştiği ayrıntısına dikkat edilmelidir."
+      }
+    ]
+  },
+  {
+    "id": "aile-osmanli-tarihi-013",
+    "topicId": "osmanli-tarihi",
+    "cekirdek": "İstanbul'un Fethi'nin detayları ve Fatih Sultan Mehmet'in şehre girişi ile ilgili anahtar bilgileri bilmek.",
+    "ozet": "Osmanlı Devleti'nin yükselişinde dönüm noktası olan **İstanbul'un Fethi (1453)**, Fatih Sultan Mehmet tarafından gerçekleştirilmiştir. Bu fetih, hem Osmanlı İmparatorluğu'nun güçlenmesini sağlamış hem de dünya tarihinde önemli değişikliklere yol açmıştır. Fatih, fetihten önce **Rumeli Hisarı**'nı yaptırmış, **şahi topları** döktürmüş ve **gemileri karadan yürütme** gibi dahiyane stratejiler uygulamıştır. Fetih sonrası Orta Çağ kapanmış, Yeni Çağ başlamış; Bizans İmparatorluğu sona ermiş ve İstanbul Osmanlı'ya başkent olmuştur. Fatih Sultan Mehmet, fethin ardından şehre **Topkapı**'dan girmiştir. Bu bilgiler, fethin önemini ve anahtar olaylarını anlamak için kritik öneme sahiptir.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-034",
+        "stem": "Günümüzde \"Tarihi İstanbul Surları\"nda bulunan ve İstanbul'un fethedilmesinin ardından Fatih Sultan Mehmed'in şehre giriş yaptığı kapı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Belgradkapı",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Kumkapı",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Topkapı",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Çatladıkapı",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Yenikapı",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-osmanli-tarihi-013-t1",
+        "stem": "Aşağıdakilerden hangisi, İstanbul'un fethinin dünya tarihi açısından sonuçlarından biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bizans İmparatorluğu'nun sona ermesi",
+            "explanation": "Bizans İmparatorluğu'nun sona ermesi, fethin doğrudan ve önemli sonuçlarından biridir."
+          },
+          {
+            "id": "B",
+            "text": "Avrupa'da feodalite rejimlerinin güçlenmesi",
+            "explanation": "Topların surları yıkabildiğinin görülmesiyle Avrupa'da feodalite (derebeylik) çökmüş, merkezi krallıklar güçlenmiştir. Dolayısıyla feodalitenin güçlenmesi değil, çökmesi fethin bir sonucudur."
+          },
+          {
+            "id": "C",
+            "text": "Orta Çağ'ın kapanıp Yeni Çağ'ın başlaması",
+            "explanation": "İstanbul'un fethi, dünya tarihinde Orta Çağ'ın kapanışı ve Yeni Çağ'ın başlangıcı olarak kabul edilir."
+          },
+          {
+            "id": "D",
+            "text": "İpek Yolu'nun kontrolünün Osmanlı Devleti'ne geçmesi",
+            "explanation": "İpek Yolu'nun kontrolünün Osmanlı'ya geçmesi, Avrupalıları Coğrafi Keşifler'e yönelten önemli bir ekonomik sonuçtur."
+          },
+          {
+            "id": "E",
+            "text": "İstanbul'dan kaçan bilginlerin İtalya'da Rönesans'a katkıda bulunması",
+            "explanation": "İstanbul'dan kaçan Bizanslı bilginlerin İtalya'ya gitmesi ve burada Rönesans hareketine katkıda bulunması, fethin kültürel sonuçlarından biridir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Fethin sonuçları arasında yer alan 'feodalitenin çökmesi' bilgisini 'güçlenmesi' olarak vererek çeldirici bir ifade kullanılmıştır."
+      },
+      {
+        "id": "aile-osmanli-tarihi-013-t2",
+        "stem": "Osmanlı Devleti'nin kuruluş döneminde gerçekleşen önemli olayları kronolojik olarak sıralandığında, aşağıdaki seçeneklerden hangisi doğru dizilimi göstermektedir?\nI. Çimpe Kalesi'nin alınması\nII. Koyunhisar Savaşı\nIII. I. Kosova Savaşı\nIV. Ankara Savaşı",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I - II - III - IV",
+            "explanation": "Çimpe Kalesi'nin alınması Koyunhisar Savaşı'ndan sonra gerçekleşmiştir."
+          },
+          {
+            "id": "B",
+            "text": "II - III - I - IV",
+            "explanation": "Çimpe Kalesi'nin alınması I. Kosova Savaşı'ndan önce gerçekleşmiştir."
+          },
+          {
+            "id": "C",
+            "text": "II - I - III - IV",
+            "explanation": "Kronolojik sıralama şöyledir: Koyunhisar (1302), Çimpe Kalesi (1353), I. Kosova (1389), Ankara Savaşı (1402)."
+          },
+          {
+            "id": "D",
+            "text": "IV - III - II - I",
+            "explanation": "Bu sıralama tersten verilmiştir, olaylar en eskiden en yeniye doğru sıralanmalıdır."
+          },
+          {
+            "id": "E",
+            "text": "I - III - II - IV",
+            "explanation": "Koyunhisar Savaşı, Çimpe Kalesi'nin alınmasından önce gerçekleşmiştir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Olayların tarihlerini karıştırmak veya yakın tarihli olayların sıralamasını yanlış hatırlamak bu soruda yanıltıcı olabilir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-013-t3",
+        "stem": "Fatih Sultan Mehmet döneminde İstanbul'un fethi için yapılan hazırlıklar arasında aşağıdakilerden hangisi yer almaz?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Rumeli Hisarı'nın (Boğazkesen) inşa edilmesi",
+            "explanation": "Rumeli Hisarı, Fatih Sultan Mehmet tarafından boğazın kontrolünü sağlamak amacıyla inşa edilmiştir ve fethin önemli bir hazırlığıdır."
+          },
+          {
+            "id": "B",
+            "text": "Şahi toplarının döktürülmesi",
+            "explanation": "Şahi topları, İstanbul surlarını yıkmada etkili olmuş, fetihte kullanılan en önemli silahlardan biridir."
+          },
+          {
+            "id": "C",
+            "text": "Haliç'e gemilerin karadan yürütülmesi",
+            "explanation": "Gemilerin karadan yürütülmesi, Fatih'in dahiyane stratejilerinden biri olup, fethin seyrini değiştirmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Anadolu Hisarı'nın inşa edilmesi",
+            "explanation": "Anadolu Hisarı, Yıldırım Bayezid tarafından İstanbul'u ilk kez kuşattığında yaptırılmıştır, Fatih Sultan Mehmet döneminde yapılan bir hazırlık değildir."
+          },
+          {
+            "id": "E",
+            "text": "Donanmanın güçlendirilmesi",
+            "explanation": "Fatih, denizden kuşatmayı desteklemek ve Bizans'ın deniz yardımını engellemek için donanmasını güçlendirmiştir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Anadolu Hisarı'nın da bir boğaz hisarı olması ve İstanbul kuşatmalarıyla ilişkilendirilmesi, bu detayı gözden kaçırarak yanlış cevabı işaretlemeye yol açabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-osmanli-tarihi-014",
+    "topicId": "osmanli-tarihi",
+    "cekirdek": "Osmanlı Devleti'nin kuruluşundan yükselişine kadar olan önemli olayları, padişahları, teşkilatlanmayı ve toplumsal yapıyı ana hatlarıyla bilmek.",
+    "ozet": "Osmanlı Devleti, **Osman Bey** tarafından 1299'da Söğüt-Domaniç'te kuruldu. Merkeziyetçi yapısını **istimalet politikası** (hoşgörü) ve **iskân politikası** ile güçlendirdi. **Orhan Bey** döneminde ilk düzenli ordu ve medrese kuruldu, **Çimpe Kalesi** ile Rumeli'ye geçildi. **Fatih Sultan Mehmet** 1453'te İstanbul'u fethetti; bu olay Orta Çağ'ı kapatıp Yeni Çağ'ı başlattı. **Yavuz Sultan Selim** döneminde Mercidabık ve Ridaniye savaşlarıyla Memlük Devleti yıkıldı, halifelik Osmanlı'ya geçti. İmparatorluk zirvesine **Kanuni Sultan Süleyman** ile ulaştı; Belgrad, Rodos ve Mohaç fetihleri, Preveze Deniz Savaşı ile Akdeniz Türk gölü oldu. Teşkilatta **Divan-ı Hümayun**, **Tımar sistemi** ve **Devşirme sistemi** önemli yer tutar.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-063",
+        "stem": "1526'da Kanuni Sultan Süleyman tarafından Ayasofya-i Kebir Cami-i Şerifi'ne hediye edilen ve bugün mihrabın iki yanında bulunan bronz şamdanların getirildiği katedral aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Buda Katedrali (Macaristan)",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Duomo Katedrali (İtalya)",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Aziz Vitus Katedrali (Çekya)",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "St. Stephen Katedrali (Avusturya)",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Notre Dame Katedrali (Fransa)",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-osmanli-tarihi-014-t1",
+        "stem": "Osmanlı Devleti'nin kuruluş döneminde yaşanan aşağıdaki gelişmelerden hangisi, Türklerin Rumeli'ye geçişini sağlayan ilk önemli adımı temsil etmektedir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bursa'nın fethedilerek başkent yapılması",
+            "explanation": "Bursa'nın fethi Osmanlı'nın Anadolu'daki gücünü pekiştirmiş olsa da Rumeli'ye geçişle doğrudan ilgili değildir."
+          },
+          {
+            "id": "B",
+            "text": "Koyunhisar Savaşı'nın kazanılması",
+            "explanation": "Koyunhisar Savaşı, Osman Bey döneminde Bizans'a karşı kazanılan ilk önemli zaferdir ancak Rumeli'ye geçişi değil, Anadolu'daki yayılmayı ifade eder."
+          },
+          {
+            "id": "C",
+            "text": "Karesioğulları Beyliği'nin Osmanlı topraklarına katılması",
+            "explanation": "Karesioğulları Beyliği'nin katılması, Osmanlı'ya donanma ve denizcilik gücü kazandırarak Rumeli'ye geçişe zemin hazırlamış olsa da, geçişin kendisi Çimpe Kalesi ile olmuştur."
+          },
+          {
+            "id": "D",
+            "text": "Edirne'nin fethedilerek başkent yapılması",
+            "explanation": "Edirne'nin başkent yapılması, Rumeli'deki ilerlemenin bir sonucudur, ilk adım değildir."
+          },
+          {
+            "id": "E",
+            "text": "Çimpe Kalesi'nin alınması",
+            "explanation": "Çimpe Kalesi, Orhan Bey döneminde Bizans'tan alınan ve Türklerin Rumeli'ye geçişinde askeri üs olarak kullanılan ilk kaledir, bu nedenle doğru cevaptır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Şıklar arasında Rumeli'ye geçişle ilgili dolaylı olaylar bulunmakta olup, doğrudan ilk adımı bulmak gerekir."
+      },
+      {
+        "id": "aile-osmanli-tarihi-014-t2",
+        "stem": "Aşağıdakilerden hangisi, Osmanlı Devleti'nin yükselme döneminde yaşanan gelişmelerden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Karlofça Antlaşması ile ilk büyük toprak kaybının yaşanması",
+            "explanation": "Karlofça Antlaşması (1699), Osmanlı Devleti'nin duraklama döneminin sonu ve gerileme döneminin başlangıcı olarak kabul edilir, yükselme dönemine ait değildir."
+          },
+          {
+            "id": "B",
+            "text": "İstanbul'un fethiyle Orta Çağ'ın kapanıp Yeni Çağ'ın başlaması",
+            "explanation": "İstanbul'un fethi (1453), yükselme döneminin en önemli başlangıç olayıdır ve çağ kapatıp çağ açmıştır."
+          },
+          {
+            "id": "C",
+            "text": "Mercidabık ve Ridaniye Savaşları ile halifeliğin Osmanlı'ya geçmesi",
+            "explanation": "Yavuz Sultan Selim döneminde (1517) gerçekleşen bu olay, yükselme döneminin önemli dini ve siyasi kazanımlarındandır."
+          },
+          {
+            "id": "D",
+            "text": "Preveze Deniz Savaşı ile Akdeniz'in Türk gölü haline gelmesi",
+            "explanation": "Kanuni Sultan Süleyman döneminde (1538) yaşanan bu zafer, Osmanlı'nın denizlerdeki gücünün zirvesini temsil eder ve yükselme dönemine aittir."
+          },
+          {
+            "id": "E",
+            "text": "Rumeli Hisarı'nın inşa edilmesi ve şahi toplarının dökülmesi",
+            "explanation": "Bu hazırlıklar, İstanbul'un fethi öncesinde Fatih Sultan Mehmet döneminde yapılmış olup yükselme döneminin başlangıcına aittir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Yükselme döneminin başlangıç ve bitiş tarihlerini bilmeyenler için, önemli bir antlaşma olan Karlofça'yı yanlışlıkla bu döneme atfedebilirler."
+      },
+      {
+        "id": "aile-osmanli-tarihi-014-t3",
+        "stem": "Aşağıdaki Osmanlı padişahları ve dönemlerinde yaşanan önemli gelişmelerin kronolojik sıralaması hangi seçenekte doğru verilmiştir?\nI. I. Kosova Savaşı\nII. Çimpe Kalesi'nin alınması\nIII. Ankara Savaşı\nIV. Niğbolu Zaferi",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I - II - III - IV",
+            "explanation": "Bu sıralama kronolojik olarak yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "II - I - IV - III",
+            "explanation": "Çimpe Kalesi (Orhan Bey dönemi) ilk gerçekleşen olaydır. Ardından I. Kosova Savaşı (I. Murat dönemi) gelir. Niğbolu Zaferi (Yıldırım Bayezid dönemi) I. Kosova'dan sonradır. Ankara Savaşı (Yıldırım Bayezid dönemi) ise Niğbolu'dan sonra ve en son gerçekleşen olaydır. Dolayısıyla sıralama II-I-IV-III olmalıdır."
+          },
+          {
+            "id": "C",
+            "text": "III - IV - II - I",
+            "explanation": "Bu sıralama kronolojik olarak yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "II - IV - I - III",
+            "explanation": "Bu sıralama kronolojik olarak yanlıştır. I. Kosova Savaşı (1389) Niğbolu Zaferi'nden (1396) önce gerçekleşmiştir."
+          },
+          {
+            "id": "E",
+            "text": "IV - I - II - III",
+            "explanation": "Bu sıralama kronolojik olarak yanlıştır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Olayların tarihlerini veya padişahlarını net bilmeyen adaylar, sıralamayı karıştırabilirler."
+      }
+    ]
+  }
+]
