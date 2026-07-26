@@ -136,11 +136,16 @@ export default function App() {
 
   return (
     <ErrorBoundary>
+      {/*
+        Perde giriş kapısının ÜSTÜNDE duruyor: Duygu önce karşılamayı görsün,
+        arkasında hazırlanan kayıt ekranı perde kalkınca ortaya çıksın.
+        Tam ekran bir katman olduğu için altındaki her şey normal yüklenir.
+      */}
+      {showIntro && <DuyguIntro onComplete={handleIntroComplete} />}
       <OturumKapisi>
         <AppStateProvider>
           <AiHocaProvider>
           <BrowserRouter>
-            {showIntro && <DuyguIntro onComplete={handleIntroComplete} />}
             <AppShell>
               <AnimatedRoutes />
             </AppShell>

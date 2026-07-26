@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { NavLink, useLocation } from 'react-router-dom';
-import { SenkronRozeti } from '@/components/SenkronRozeti';
+import { KullaniciKarti } from '@/components/KullaniciKarti';
 import { AnimatePresence, motion } from 'framer-motion';
 import {
   BarChart3,
@@ -115,9 +115,7 @@ export function AppShell({ children }: { children: ReactNode }) {
             <br />
             Turist Rehberliği MKS
           </div>
-          <div className="px-2">
-            <SenkronRozeti />
-          </div>
+          <KullaniciKarti />
         </div>
       </aside>
 
@@ -189,6 +187,10 @@ export function AppShell({ children }: { children: ReactNode }) {
                   <X size={20} />
                 </button>
               </div>
+              <div className="mb-3">
+                <KullaniciKarti onGit={() => setSheetOpen(false)} />
+              </div>
+
               {SECONDARY.map(({ to, label, icon: Icon }) => (
                 <NavLink
                   key={to}

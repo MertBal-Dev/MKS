@@ -238,6 +238,34 @@ end $$;
 revoke execute on function public.sifre_sifirla(text, text) from anon, authenticated;
 
 -- ============================================================================
+--  YÖNETİCİ: HESAP SİLME
+--
+--  auth.users'tan silmek yeter: bütün tablolar oraya "on delete cascade" ile
+--  bağlı, ilerleme kayıtları da beraberinde gider. Geri alınamaz.
+--
+--    select public.hesap_sil('duygu');
+-- ============================================================================
+
+create or replace function public.hesap_sil(p_username text)
+returns text
+language plpgsql
+security definer
+set search_path = public, auth
+as $$
+declare v_id uuid;
+begin
+  select id into v_id from public.profiles where lower(username) = lower(p_username);
+  if v_id is null then
+    return format('Kullanıcı bulunamadı: %s', p_username);
+  end if;
+
+  delete from auth.users where id = v_id;
+  return format('%s hesabı ve tüm ilerlemesi silindi.', p_username);
+end $$;
+
+revoke execute on function public.hesap_sil(text) from anon, authenticated;
+
+-- ============================================================================
 --  KULLANIŞLI GÖRÜNÜM: kimin ne kadar çalıştığı
 -- ============================================================================
 

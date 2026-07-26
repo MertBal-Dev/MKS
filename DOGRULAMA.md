@@ -3,7 +3,8 @@
 **Tarih:** 27 Temmuz 2026
 **Sürüm:** `65bcfa1`
 **Yöntem:** Playwright ile canlı Supabase veritabanına karşı uçtan uca test
-**Hesap:** `duygu` (test verisi sonradan temizlendi)
+**Hesap:** `duygu` — test için açıldı, doğrulama bittikten sonra **tamamen silindi**.
+Veritabanı şu an sıfır hesapla duruyor; Duygu ilk açılışta kendi hesabını kuracak.
 
 ---
 

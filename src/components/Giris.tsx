@@ -10,8 +10,20 @@ import { girisYap, kayitOl, kullaniciAdiGecerliMi, sifreGecerliMi } from '@/lib/
  * Amaç ilerlemenin cihazlar arasında taşınması; kayıt sürtünmesi mümkün olan
  * en aza indirildi.
  */
+/**
+ * Bu cihazda daha önce giriş yapılmış mı?
+ *
+ * Senkron katmanı, oturum açan kullanıcının kimliğini buraya yazıyor. Kayıt
+ * varsa bu bir dönüş, yoksa ilk karşılaşma — açılışta hangi sekmenin önde
+ * duracağını bu belirliyor. İlk kez gelen birine "Giriş yap" göstermek,
+ * olmayan bir hesabı sormak demek.
+ */
+function ilkKezMi(): boolean {
+  return localStorage.getItem('mks:senkron-kullanici') === null;
+}
+
 export function Giris({ onBasarili, onAtla }: { onBasarili: () => void; onAtla: () => void }) {
-  const [mod, setMod] = useState<'giris' | 'kayit'>('giris');
+  const [mod, setMod] = useState<'giris' | 'kayit'>(() => (ilkKezMi() ? 'kayit' : 'giris'));
   const [ad, setAd] = useState('');
   const [sifre, setSifre] = useState('');
   const [hata, setHata] = useState<string | null>(null);
@@ -133,6 +145,8 @@ export function Giris({ onBasarili, onAtla }: { onBasarili: () => void; onAtla: 
           <p className="mt-4 text-center text-[11px] leading-relaxed text-muted">
             E-posta istemiyoruz, doğrulama kodu göndermiyoruz. Kullanıcı adı ve şifre yeterli —
             ilerlemen telefonda ve bilgisayarda aynı yerden devam etsin diye.
+            <br />
+            <span className="mt-1 inline-block">Bir kez kayıt ol; bu cihaz seni bir daha şifre sormadan tanır.</span>
           </p>
         </div>
 
