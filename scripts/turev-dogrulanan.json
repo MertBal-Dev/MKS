@@ -35,9 +35,64 @@
       "bilgi": "Dede Korkut Hikâyeleri de Türk Halk Hikâyeleri'nin önemli örneklerinden biridir.",
       "kaynak": "https://www.turkedebiyati.org/dede-korkut-hikayeleri-ve-ozellikleri/",
       "not": "Destandan halk hikâyeciliğine geçiş dönemi ürünü; halk hikâyelerinin en eski örneği sayılır. Sınavda 'geçiş ürünü' vurgusu önemlidir."
+    },
+    {
+      "bilgi": "Ballıca Mağarası Tokat'ta yer alır ve sarkıt, dikit oluşumlarıyla dikkat çeker.",
+      "kaynak": "https://www.tokat.gov.tr/ballica-magarasi-unesco-dunya-mirasi-gecici-listesine-2019-yilinda-turkiyeden-giren-tek-miras-alani-oldu",
+      "not": "Tokat'ın Pazar ilçesinde; nadir görülen 'soğan sarkıtları' ile ünlü."
+    },
+    {
+      "bilgi": "Ballıca Mağarası, Türkiye'nin en büyük ve en güzel mağaralarından biridir.",
+      "kaynak": "https://tr.wikipedia.org/wiki/Ball%C4%B1ca_Ma%C4%9Faras%C4%B1",
+      "not": "Ziyarete açık 680 m'lik bölümde sekiz salon bulunur; yaklaşık 3,4 milyon yaşında."
+    },
+    {
+      "bilgi": "Ballıca Mağarası, UNESCO Dünya Mirası Geçici Listesi'nde yer almaktadır.",
+      "kaynak": "https://tokat.ktb.gov.tr/TR-234846/ballica-magarasi-unesco-dunya-mirasi-gecici-listesine-a-.html",
+      "not": "Nisan 2019'da Geçici Liste'ye alındı. DİKKAT: Geçici Liste, Dünya Mirası Listesi DEĞİLDİR."
+    },
+    {
+      "bilgi": "Karun Hazineleri, Lidya Uygarlığı'na ait eserlerden oluşan bir koleksiyondur.",
+      "kaynak": "https://tr.wikipedia.org/wiki/Karun_Hazinesi",
+      "not": "Lidya Kralı Karun (Kroisos) dönemine ait 432 parça."
+    },
+    {
+      "bilgi": "Karun Hazineleri'nin büyük bir kısmı Uşak Arkeoloji Müzesi'nde sergilenmektedir.",
+      "kaynak": "https://www.usak.gov.tr/karun-hazineleri",
+      "not": "1996'dan beri Uşak'ta. 1993'te ABD'den iade edildi; Kanatlı Denizatı broşu 2006'da çalınıp 2012'de Almanya'da bulundu."
+    },
+    {
+      "bilgi": "Karun Hazineleri, 1960'lı yıllarda yasa dışı yollarla yurt dışına kaçırılmıştır.",
+      "kaynak": "https://tr.wikipedia.org/wiki/Karun_Hazinesi",
+      "not": "Uşak-Güre çevresindeki Toptepe, İkiztepe ve Aktepe tümülüslerinden 1965-66 ve 1968'de kaçırıldı."
+    },
+    {
+      "bilgi": "Yarımburgaz Mağarası, Küçükçekmece Gölü'nün kuzeyinde yer almaktadır.",
+      "kaynak": "https://tr.wikipedia.org/wiki/Yar%C4%B1mburgaz_Ma%C4%9Faras%C4%B1",
+      "not": "İstanbul Başakşehir/Altınşehir; gölün yaklaşık 1,5 km kuzeyinde."
+    },
+    {
+      "bilgi": "Yarımburgaz Mağarası, Türkiye'deki en eski insan yerleşim izlerini barındıran önemli bir arkeolojik sit alanıdır.",
+      "kaynak": "https://tr.wikipedia.org/wiki/Yar%C4%B1mburgaz_Ma%C4%9Faras%C4%B1",
+      "not": "Yaklaşık 400.000 yıl; Alt Paleolitik katmanlarında Homo erectus diş fosili bulundu. 2001'de 1. derece arkeolojik-doğal sit ilan edildi."
+    },
+    {
+      "bilgi": "Nereidler Anıtı, Ksanthos Antik Kenti'nden alınmıştır.",
+      "kaynak": "https://tr.wikipedia.org/wiki/Nereidler_An%C4%B1t%C4%B1",
+      "not": "1840'larda Charles Fellows tarafından götürüldü."
+    },
+    {
+      "bilgi": "Nereidler Anıtı British Museum'da sergilenmektedir.",
+      "kaynak": "https://tr.wikipedia.org/wiki/Nereidler_An%C4%B1t%C4%B1",
+      "not": "British Museum 17. salon. Sütunlar arasındaki 12 Nereid heykelinden adını alır."
     }
   ],
   "yanlis": [
+    {
+      "bilgi": "Nereidler Anıtı, Likya mimarisinin Helenistik dönem etkilerini gösteren önemli bir mezar anıtıdır.",
+      "sorun": "Dönem yanlış. Anıt MÖ 390 civarına, yani KLASİK döneme tarihlenir; Helenistik dönem MÖ 323'te başlar. Üslubu Yunan tapınağı formu ile Pers geleneğinin (yüksek podyum) karışımıdır.",
+      "kaynak": "https://tr.wikipedia.org/wiki/Nereidler_An%C4%B1t%C4%B1"
+    },
     {
       "bilgi": "MTA Tabiat Tarihi Müzesi, Türkiye'nin ilk ve tek ulusal tabiat tarihi müzesidir.",
       "sorun": "'Tek' yanlış. Kaynaklar 'ilk ve en kapsamlı' diyor; Türkiye'de başka tabiat tarihi müzeleri de var.",
