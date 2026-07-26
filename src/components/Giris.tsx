@@ -10,7 +10,7 @@ import { girisYap, kayitOl, kullaniciAdiGecerliMi, sifreGecerliMi } from '@/lib/
  * Amaç ilerlemenin cihazlar arasında taşınması; kayıt sürtünmesi mümkün olan
  * en aza indirildi.
  */
-export function Giris({ onBasarili }: { onBasarili: () => void }) {
+export function Giris({ onBasarili, onAtla }: { onBasarili: () => void; onAtla: () => void }) {
   const [mod, setMod] = useState<'giris' | 'kayit'>('giris');
   const [ad, setAd] = useState('');
   const [sifre, setSifre] = useState('');
@@ -138,7 +138,7 @@ export function Giris({ onBasarili }: { onBasarili: () => void }) {
 
         <button
           type="button"
-          onClick={onBasarili}
+          onClick={onAtla}
           className="mt-4 w-full text-center text-xs text-muted hover:text-ink"
         >
           Şimdilik girmeden devam et — ilerleme yalnızca bu cihazda kalır

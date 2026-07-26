@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { NavLink, useLocation } from 'react-router-dom';
+import { SenkronRozeti } from '@/components/SenkronRozeti';
 import { AnimatePresence, motion } from 'framer-motion';
 import {
   BarChart3,
@@ -113,6 +114,9 @@ export function AppShell({ children }: { children: ReactNode }) {
             {EXAM_NAME} • {daysLeft} gün
             <br />
             Turist Rehberliği MKS
+          </div>
+          <div className="px-2">
+            <SenkronRozeti />
           </div>
         </div>
       </aside>

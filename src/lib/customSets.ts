@@ -49,8 +49,12 @@ export function loadSets(): CustomSet[] {
   }
 }
 
+/** Setler ana durumun dışında tutulduğu için senkronun ayrıca haberi olmalı. */
+export const SETLER_DEGISTI = 'mks:setler-degisti';
+
 export function saveSets(sets: CustomSet[]): void {
   localStorage.setItem(KEY, JSON.stringify(sets));
+  if (typeof window !== 'undefined') window.dispatchEvent(new Event(SETLER_DEGISTI));
 }
 
 export function getSet(id: string): CustomSet | undefined {

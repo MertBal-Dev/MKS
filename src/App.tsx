@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from 'react';
 import { Giris } from '@/components/Giris';
-import { oturumAl, oturumIzle, supabaseVar } from '@/lib/supabase';
+import { GIRISE_DON, oturumAl, oturumIzle, supabaseVar } from '@/lib/supabase';
 import { AnimatePresence, motion } from 'framer-motion';
 import { BrowserRouter, Route, Routes, useLocation } from 'react-router-dom';
 import { AppStateProvider } from '@/hooks/useAppState';
@@ -69,6 +69,9 @@ function AnimatedRoutes() {
   );
 }
 
+/** Bu sekmede giriş ekranı atlandı mı. */
+const ATLA_ANAHTARI = 'mks:girisAtlandi';
+
 /**
  * Oturum kapısı.
  *
@@ -80,27 +83,39 @@ function OturumKapisi({ children }: { children: React.ReactNode }) {
   const [durum, setDurum] = useState<'yukleniyor' | 'acik' | 'kapali'>(
     supabaseVar ? 'yukleniyor' : 'acik',
   );
+  // Atlama yalnızca bu sekme için geçerli; bir sonraki açılışta giriş yeniden
+  // önerilir. Başarılı girişte bu bayrak YAZILMAZ — yazılsaydı çıkış yapan
+  // kullanıcı giriş ekranına bir daha dönemezdi.
+  const [atlandi, setAtlandi] = useState(() => Boolean(sessionStorage.getItem(ATLA_ANAHTARI)));
 
   useEffect(() => {
     if (!supabaseVar) return;
-    if (sessionStorage.getItem('mks:girisAtlandi')) {
-      setDurum('acik');
-      return;
-    }
     let iptal = false;
     void oturumAl().then((s) => {
       if (!iptal) setDurum(s ? 'acik' : 'kapali');
     });
-    return oturumIzle((s) => setDurum(s ? 'acik' : 'kapali'));
+    const birak = oturumIzle((s) => setDurum(s ? 'acik' : 'kapali'));
+    return () => {
+      iptal = true;
+      birak();
+    };
   }, []);
 
-  if (durum === 'yukleniyor') return <div className="min-h-dvh bg-ground" />;
-  if (durum === 'kapali') {
+  // Kullanıcı Ayarlar'dan "giriş yap" derse atlama iptal edilir.
+  useEffect(() => {
+    const geriDon = () => setAtlandi(false);
+    window.addEventListener(GIRISE_DON, geriDon);
+    return () => window.removeEventListener(GIRISE_DON, geriDon);
+  }, []);
+
+  if (durum === 'yukleniyor' && !atlandi) return <div className="min-h-dvh bg-ground" />;
+  if (durum === 'kapali' && !atlandi) {
     return (
       <Giris
-        onBasarili={() => {
-          sessionStorage.setItem('mks:girisAtlandi', '1');
-          setDurum('acik');
+        onBasarili={() => setDurum('acik')}
+        onAtla={() => {
+          sessionStorage.setItem(ATLA_ANAHTARI, '1');
+          setAtlandi(true);
         }}
       />
     );

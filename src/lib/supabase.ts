@@ -126,6 +126,12 @@ export function oturumIzle(dinleyici: (s: Session | null) => void): () => void {
   return () => data.subscription.unsubscribe();
 }
 
+/**
+ * Ayarlar'daki "giriş yap" düğmesi, oturum kapısına bu olayla haber verir.
+ * Giriş ekranını bir kez atlamış olmak, sonradan giriş yapmayı engellememeli.
+ */
+export const GIRISE_DON = 'mks:girise-don';
+
 /** Oturumdaki kullanıcının adı — sentetik e-postadan ya da metadata'dan. */
 export function kullaniciAdi(s: Session | null): string {
   if (!s?.user) return '';

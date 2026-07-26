@@ -1,6 +1,7 @@
 import { useRef, useState } from 'react';
 import { Download, Moon, RotateCcw, Sun, SunMoon, Upload } from 'lucide-react';
 import { PageHeader } from '@/components/PageHeader';
+import { Hesap } from '@/components/Hesap';
 import { useAppState } from '@/hooks/useAppState';
 import { exportState, importState, resetState } from '@/lib/storage';
 import { EXAM_DURATION_MIN, EXAM_QUESTION_COUNT, PASS_SCORE } from '@/lib/constants';
@@ -48,6 +49,8 @@ export default function Ayarlar() {
   return (
     <div className="mx-auto max-w-xl">
       <PageHeader eyebrow="TERCİHLER" title="Ayarlar" />
+
+      <Hesap />
 
       {/* Tema */}
       <section className="rise-in mb-6">
