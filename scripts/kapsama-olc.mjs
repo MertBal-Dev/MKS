@@ -13,6 +13,8 @@ import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
 
 const API = process.env.MKS_API ?? 'http://localhost:5173/api/ai-hoca';
 const ORNEK = Number(process.argv[2] ?? 60);
+/** İsteğe bağlı: yalnızca tek konuyu ölç (genişletme sonrası doğrulama için). */
+const KONU_FILTRE = process.argv[3];
 const PARTI = 6;
 
 // Çıkmış sınavlar (deneme değil) — gerçek soru dağılımını yansıtsın
@@ -20,7 +22,9 @@ const sinavlar = readdirSync('src/content/exams')
   .filter((f) => f.startsWith('cikmis'))
   .map((f) => JSON.parse(readFileSync(`src/content/exams/${f}`, 'utf8')));
 
-const tumSorular = sinavlar.flatMap((s) => s.questions.map((q) => ({ ...q, kaynak: s.title })));
+const tumSorular = sinavlar
+  .flatMap((s) => s.questions.map((q) => ({ ...q, kaynak: s.title })))
+  .filter((q) => !KONU_FILTRE || q.topicId === KONU_FILTRE);
 
 // Deterministik örnekleme — tekrar çalıştırınca aynı örneklem
 function mulberry32(a) {
