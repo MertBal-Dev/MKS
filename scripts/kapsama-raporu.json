@@ -1,8 +1,75 @@
 {
   "sayim": {
-    "tam": 19,
-    "kismi": 0,
-    "yok": 0
+    "tam": 49,
+    "kismi": 2,
+    "yok": 9
   },
-  "eksikler": []
+  "eksikler": [
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Sözsüz iletişim, mimik, kaş, göz ve yüz kaslarının kullanımı hakkında bilgi yok.",
+      "stem": "Sözsüz iletişimde; kaş, göz ve yüz kaslarının kullanımıyla ortaya çıkan ifadeler"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Eski Türk toplum yapısı, Oguş, Urug ve İl kavramları hakkında bilgi yok.",
+      "stem": "Eski Türk toplum yapısında yer alan \"Oguş, Urug ve İl\" kavramlarının günümüzdeki"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Empati kavramı veya turist rehberinin turistlerin duygularını anlama yeteneği hakkında bilgi yok.",
+      "stem": "Bir turist rehberinin, turistin duygu ve düşüncelerini anlayarak olaylara onun p"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Hz. Muhammed'in hicreti, hicri takvim veya Mescid-i Nebevi hakkında bilgi yok.",
+      "stem": "Hz. Muhammed'in Mekke'den Medine'ye göçü (Hicret) ile ilgili aşağıdaki ifadelerd"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "İletişim sürecinde 'ilk izlenim' ve 'fiziksel görünüş'ün etkisi hakkında bilgi bulunmamaktadır.",
+      "stem": "İletişim sürecinde, alıcı üzerinde bırakılan 'ilk izlenim'de en yüksek etkiye sa"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "İslam geleneğinde 'el-beledü'l-emin' ifadesinin hangi şehir için kullanıldığı belirtilmemiş.",
+      "stem": "İslam geleneğinde aşağıdaki şehirlerden hangisi için \"güvenilir belde\" anlamına "
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Eski Türk inanç sisteminde 'Tamu' kavramının anlamı veya günümüzdeki karşılığı hakkında bilgi verilmemiş.",
+      "stem": "Eski Türk inanç sisteminde ve bazı Budist metinlerde sıkça geçen, ölümden sonra "
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Büyük İskender'in hocası hakkında bilgi verilmemiş.",
+      "stem": "Makedonya Kralı Büyük İskender'in hocalığını yapmış olan ve Batı düşünce tarihin"
+    },
+    {
+      "konu": "halk-bilimi-edebiyat",
+      "karar": "yok",
+      "eksik": "Antik Yunan mimarisi ve sütun düzenleri hakkında bilgi bulunmamaktadır.",
+      "stem": "Dor, İyon ve Korint düzenleri, aşağıdaki mimari geleneklerden hangisinin temel s"
+    },
+    {
+      "konu": "sanat-tarihi",
+      "karar": "kismi",
+      "eksik": "Tanımın 'önünde bir giriş holü bulunan' ve 'ocaklı' kısımları notlarda geçmiyor.",
+      "stem": "Antik dönem mimarisinde, önünde bir giriş holü bulunan dikdörtgen planlı ve ocak"
+    },
+    {
+      "konu": "sanat-tarihi",
+      "karar": "kismi",
+      "eksik": "Vaftizci Yahya'nın yanında bazen Pavlus'un da yer aldığı bilgisi notlarda bulunmuyor.",
+      "stem": "Ayasofya mozaiklerinde de görülen; ortada Hz. İsa, yanında Hz. Meryem ve Vaftizc"
+    }
+  ]
 }

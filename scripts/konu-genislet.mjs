@@ -23,6 +23,34 @@ if (!topicId) {
 const env = JSON.parse(readFileSync(`scripts/envanter/${topicId}.json`, 'utf8'));
 const pack = JSON.parse(readFileSync(`src/content/topics/${topicId}.json`, 'utf8'));
 
+/**
+ * Türevlerin yalnızca KANITLI olanları kullanılır.
+ *
+ * Riskli sınıftan rastgele seçilen 6 iddia bağımsız olarak webden kontrol edildi
+ * ve 3'ü yanlış çıktı (MTA "ilk ve tek", Nevali Çori 1979-1991, Doxey Irridex
+ * 5 aşama). %50 hata oranıyla bu sınıf doğrulanmadan öğrenciye gidemez.
+ * Süzgeç sonuçları scripts/turev-siniflari.json içinde; RISKLI olanlar dışarıda,
+ * doğrulananlar scripts/turev-dogrulanan.json üzerinden geri alınır.
+ */
+let izinliTurevler = new Set(env.turevler ?? []);
+try {
+  const sinif = JSON.parse(readFileSync('scripts/turev-siniflari.json', 'utf8'));
+  const riskli = new Set(sinif.RISKLI.filter((r) => r.topicId === topicId).map((r) => r.bilgi));
+
+  let dogrulanan = new Set();
+  try {
+    const d = JSON.parse(readFileSync('scripts/turev-dogrulanan.json', 'utf8'));
+    dogrulanan = new Set((d.dogru ?? []).map((x) => (typeof x === 'string' ? x : x.bilgi)));
+  } catch {
+    /* henüz doğrulama yapılmadı */
+  }
+
+  izinliTurevler = new Set([...izinliTurevler].filter((t) => !riskli.has(t) || dogrulanan.has(t)));
+  console.log(`  türev süzgeci: ${env.turevler.length} → ${izinliTurevler.size} (riskli ${riskli.size} elendi)`);
+} catch {
+  console.warn('  UYARI: turev-siniflari.json yok — süzgeç uygulanmadı');
+}
+
 const mevcutBasliklar = pack.fullNotes.map((s, i) => `${i + 1}. ${s.heading}`).join('\n');
 const mevcutNot = pack.fullNotes.map((s) => `## ${s.heading}\n${s.markdown}`).join('\n\n');
 
@@ -33,7 +61,7 @@ const mevcutNot = pack.fullNotes.map((s) => `## ${s.heading}\n${s.markdown}`).jo
  * Öncelik bilgisini talimatta veriyoruz, veride değil.
  */
 const zorunlu = env.cekirdekler;
-const ekBilgiler = env.turevler;
+const ekBilgiler = [...izinliTurevler];
 
 const bilgiler = [
   'A GRUBU — MUTLAKA yer almalı (gerçek sınavda soruldu):',

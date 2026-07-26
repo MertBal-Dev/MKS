@@ -1,0 +1,37 @@
+{
+  "_aciklama": "Riskli sınıfa düşen ama BAĞIMSIZ olarak (web kaynağıyla) doğrulanmış türevler. Buradakiler konu anlatımına geri alınır. Her kayıt kaynağıyla birlikte durur; kaynaksız kayıt eklenmez.",
+  "dogru": [
+    {
+      "bilgi": "Zeugma Mozaik Müzesi, dünyanın en büyük mozaik müzesidir.",
+      "kaynak": "https://en.wikipedia.org/wiki/Zeugma_Mosaic_Museum",
+      "not": "30.000 m², 2.448 m² mozaik; Tunus'taki Bardo Müzesi'nin yerini almıştır."
+    },
+    {
+      "bilgi": "İstanbul Arkeoloji Müzeleri, Türkiye'nin ilk müze binası olarak inşa edilen yapıdır.",
+      "kaynak": "https://istanbul.gov.tr/istanbulun-muzeleri-istanbul-arkeoloji-muzeleri",
+      "not": "13 Haziran 1891'de açıldı; mimarı Alexander Vallaury."
+    },
+    {
+      "bilgi": "Ege Bölgesi'ndeki başlıca jeotermal alanlar Denizli-Sarayköy, Aydın-Germencik ve Salavatlı'dır.",
+      "kaynak": "https://dergi.mta.gov.tr/files/articles/529/tr/20150722101753_529_227c48d8.pdf",
+      "not": "Türkiye'nin ilk jeotermal santrali Denizli/Sarayköy'dedir; Germencik ve Salavatlı'da santraller kuruludur."
+    }
+  ],
+  "yanlis": [
+    {
+      "bilgi": "MTA Tabiat Tarihi Müzesi, Türkiye'nin ilk ve tek ulusal tabiat tarihi müzesidir.",
+      "sorun": "'Tek' yanlış. Kaynaklar 'ilk ve en kapsamlı' diyor; Türkiye'de başka tabiat tarihi müzeleri de var.",
+      "kaynak": "https://www.turkishmuseums.com/museum/detail/12295-ankara-sehit-cuma-dag-tabiat-tarihi-muzesi/12295/1"
+    },
+    {
+      "bilgi": "Nevali Çori'deki kazılar 1979-1991 yılları arasında yapılmıştır.",
+      "sorun": "Kurtarma kazıları 1983-1991 arasıdır; alan 1980'de tespit edilmiştir.",
+      "kaynak": "https://tr.wikipedia.org/wiki/Nevali_%C3%87ori"
+    },
+    {
+      "bilgi": "Irridex (Tolerans Modeli), turizmin yerel halk üzerindeki olumsuz etkilerini beş aşamada inceler.",
+      "sorun": "Doxey'in Irridex modeli DÖRT aşamalıdır: Coşku (euphoria), İlgisizlik (apathy), Rahatsızlık (irritation), Düşmanlık (antagonism). 'Turizmin sona ermesi' diye beşinci aşama yoktur.",
+      "kaynak": "https://tr.linkedin.com/pulse/turizmde-doxeyin-tolerasyon-modeli-irridex-model-engin-%C3%BCng%C3%BCren"
+    }
+  ]
+}
