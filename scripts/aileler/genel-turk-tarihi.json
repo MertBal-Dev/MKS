@@ -1,0 +1,2678 @@
+[
+  {
+    "id": "aile-genel-turk-tarihi-001",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Anadolu topraklarında kurulmayan ilk Türk devletlerini diğer Türk devletlerinden ayırt edebilme bilgisidir.",
+    "ozet": "Türk devletleri tarihi, **Orta Asya**'da başlamış ve zamanla farklı coğrafyalara yayılmıştır. Bazı devletler Türklerin ana yurdunda veya komşu bölgelerde kurulurken, bazıları Anadolu'ya göç ederek burada varlık göstermiştir. Özellikle **Malazgirt Savaşı (1071)** sonrasında Anadolu'da birçok Türk beylik ve devleti kurulmuştur. Ancak **Karahanlılar** gibi bazı önemli Türk devletleri, Anadolu toprakları dışında, Orta Asya'da kurulmuş ve burada gelişmiştir. Bu ayrımı bilmek, Türk tarihinin coğrafi yayılımını ve devletlerin kuruluş yerlerini doğru anlamak için kritik öneme sahiptir.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-003",
+        "stem": "**Sınavda hatalı çıkmış, düzeltilmiş soru** Aşağıdaki Türk devletlerinden hangisi merkezi Anadolu topraklarında olacak şekilde kurulmamıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Danişmentliler",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Anadolu Selçuklu Devleti",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Karahanlılar",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Artuklular",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-001-t1",
+        "stem": "Aşağıdaki Türk devletlerinden hangisi, Anadolu'da kurulmuş olan Birinci Beylikler Dönemi devletlerinden biri değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Karahanlılar",
+            "explanation": "Karahanlılar, Orta Asya'da kurulmuş ilk Müslüman Türk devletidir ve Anadolu topraklarında kurulmamıştır. Bu nedenle Birinci Beylikler Dönemi devletlerinden biri değildir."
+          },
+          {
+            "id": "B",
+            "text": "Saltuklular",
+            "explanation": "Saltuklular, Malazgirt Savaşı sonrası Erzurum ve çevresinde kurulan bir Anadolu beyliğidir."
+          },
+          {
+            "id": "C",
+            "text": "Danişmentliler",
+            "explanation": "Danişmentliler, Malazgirt Savaşı sonrası Sivas-Tokat ve çevresinde kurulan bir Anadolu beyliğidir."
+          },
+          {
+            "id": "D",
+            "text": "Artuklular",
+            "explanation": "Artuklular, Malazgirt Savaşı sonrası Diyarbakır-Mardin ve çevresinde kurulan bir Anadolu beyliğidir."
+          },
+          {
+            "id": "E",
+            "text": "Mengücekliler",
+            "explanation": "Mengücekliler, Malazgirt Savaşı sonrası Erzincan-Divriği ve çevresinde kurulan bir Anadolu beyliğidir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Soruda 'Birinci Beylikler Dönemi' ibaresi, öğrencinin Anadolu'da kurulan ilk beylikleri tanımasını gerektirirken, Karahanlılar'ın Orta Asya'da kurulmuş olması temel yanıltıcı noktadır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-001-t2",
+        "stem": "Aşağıdaki Türk devletlerinden hangisi, kuruluş yeri ve kültürel özellikleri bakımından diğerlerinden farklı bir coğrafyada ortaya çıkmıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Anadolu Selçuklu Devleti",
+            "explanation": "Anadolu Selçuklu Devleti, Kutalmışoğlu Süleyman Şah tarafından 1077'de İznik'te kurularak Anadolu topraklarında varlık göstermiştir."
+          },
+          {
+            "id": "B",
+            "text": "Büyük Selçuklu Devleti",
+            "explanation": "Büyük Selçuklu Devleti, Gaznelileri Dandanakan Savaşı'nda yenerek Hazar Denizi'nin doğusunda, Orta Asya'da kurulmuş ve buradan batıya doğru genişlemiştir. Kuruluş yeri bakımından Anadolu'da kurulan devletlerden farklıdır."
+          },
+          {
+            "id": "C",
+            "text": "Saltuklular",
+            "explanation": "Saltuklular, Malazgirt Savaşı sonrası Erzurum ve çevresinde kurulan bir Anadolu beyliğidir."
+          },
+          {
+            "id": "D",
+            "text": "Karamanoğulları",
+            "explanation": "Karamanoğulları, Kösedağ Savaşı sonrası Konya-Karaman bölgesinde kurulan bir Anadolu beyliğidir."
+          },
+          {
+            "id": "E",
+            "text": "Osmanoğulları",
+            "explanation": "Osmanoğulları, Kösedağ Savaşı sonrası Söğüt-Bilecik bölgesinde kurulan bir Anadolu beyliğidir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Öğrencinin, Büyük Selçuklu Devleti'nin Anadolu Selçuklu Devleti'nden coğrafi olarak farklı bir yerde kurulduğunu gözden kaçırarak, 'Selçuklu' ismine odaklanma yanılgısına düşmesi beklenir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-001-t3",
+        "stem": "Aşağıdaki Türk devletleri ve kuruldukları coğrafyalar eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Asya Hun Devleti - Orta Asya",
+            "explanation": "Asya Hun Devleti, Türklerin ana yurdu olan Orta Asya'da kurulmuş ilk Türk devletidir."
+          },
+          {
+            "id": "B",
+            "text": "Avrupa Hun Devleti - Avrupa (Macaristan)",
+            "explanation": "Avrupa Hun Devleti, Hunların batıya ilerlemesiyle Avrupa'da, bugünkü Macaristan topraklarında kurulmuştur."
+          },
+          {
+            "id": "C",
+            "text": "Uygurlar - Anadolu",
+            "explanation": "Uygurlar, Orta Asya'da yerleşik hayata geçen ilk Türk topluluğudur ve Anadolu'da değil, Orta Asya'da varlık göstermişlerdir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Göktürk Devleti - Orta Asya",
+            "explanation": "Göktürk Devleti, 'Türk' adını devlet adı olarak kullanan ilk devlet olup Orta Asya'da kurulmuştur."
+          },
+          {
+            "id": "E",
+            "text": "Tolunoğulları - Mısır",
+            "explanation": "Tolunoğulları, Mısır'da kurulan ilk Türk devletlerinden biridir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Öğrencinin Uygurların yerleşik hayata geçmesini Anadolu ile ilişkilendirmesi veya coğrafi bilgide yanılgıya düşmesi amaçlanmıştır."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-002",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Bu soru, Türk adını devlet adı olarak kullanan ilk devlet olan Göktürklerin kurucusu hakkındaki bilgiyi ölçmektedir.",
+    "ozet": "Türk tarihinde devlet isimleri ve kurucuları, özellikle **Göktürk Devleti** gibi 'Türk' adını taşıyan ilk yapılar, MKS sınavları için temel bilgilerdendir. **Bumin Kağan**, Türk adını devlet adı olarak kullanan ilk Türk devleti olan Göktürk Devleti'nin kurucusudur. Bu bilgi, Türk adının devletleşme sürecindeki önemini vurgular. Ayrıca, bu devletin devamı olan **II. Göktürk (Kutluk) Devleti**'nin **Kutluk Kağan** tarafından kurulduğunu ve **Orhun Yazıtları** gibi önemli eserlere ev sahipliği yaptığını bilmek, konuya dair genel bir bakış açısı sunar. Bu temel bilgileri kavramak, ilgili soruları doğru yanıtlamak için yeterlidir.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-025",
+        "stem": "Türk adını taşıyan ilk devlet olan I. Göktürk Devleti’nin kurucusu aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İlteriş Kağan",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Bilge Kağan",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Mukan Kağan",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Bumin Kağan",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-002-t1",
+        "stem": "Aşağıdakilerden hangisi, Türk adını devlet ismi olarak kullanan ilk Türk devleti olan Göktürklerin kurucusu olarak kabul edilir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mete Han",
+            "explanation": "Mete Han, Asya Hun Devleti'nin en güçlü hükümdarıdır, Göktürklerin kurucusu değildir."
+          },
+          {
+            "id": "B",
+            "text": "Attila",
+            "explanation": "Attila, Avrupa Hun Devleti'nin önemli lideridir, Göktürklerin kurucusu değildir."
+          },
+          {
+            "id": "C",
+            "text": "Kutluk Kağan",
+            "explanation": "Kutluk Kağan, II. Göktürk (Kutluk) Devleti'nin kurucusudur, ilk Göktürk Devleti'nin değil."
+          },
+          {
+            "id": "D",
+            "text": "Bumin Kağan",
+            "explanation": "Bumin Kağan, Türk adını devlet adı olarak kullanan ilk Türk devleti olan Göktürk (I. Göktürk) Devleti'nin kurucusudur. Bu bilgi ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "E",
+            "text": "Bilge Kağan",
+            "explanation": "Bilge Kağan, II. Göktürk Devleti'nin önemli figürlerinden biridir, ancak kurucusu değildir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Şıklarda II. Göktürk Devleti'nin kurucusu veya önemli figürleri verilerek öğrencinin kafası karıştırılmaya çalışılmıştır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-002-t2",
+        "stem": "Aşağıdakilerden hangisi, Türk adını devlet adı olarak kullanan ilk devlet ve onun kurucusu ile ilgili verilen bilgilerden YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Göktürk Devleti, 'Türk' adını resmi devlet ismi olarak kullanan ilk devlettir.",
+            "explanation": "Ders notunda 'Türk' adını devlet adı olarak kullanan ilk devlettir' ifadesiyle bu bilgi doğrulanmaktadır."
+          },
+          {
+            "id": "B",
+            "text": "Göktürk Devleti'nin kurucusu Bumin Kağan'dır.",
+            "explanation": "Ders notunda 'Kurucusu Bumin Kağan' ifadesiyle bu bilgi doğrulanmaktadır."
+          },
+          {
+            "id": "C",
+            "text": "II. Göktürk (Kutluk) Devleti, Kutluk Kağan tarafından kurulmuştur.",
+            "explanation": "Ders notunda 'II. Göktürk (Kutluk) Devleti: Kutluk Kağan kurdu' ifadesiyle bu bilgi doğrulanmaktadır."
+          },
+          {
+            "id": "D",
+            "text": "Göktürk alfabesi 38 harflidir.",
+            "explanation": "Ders notunda 'Göktürk alfabesi 38 harflidir' ifadesiyle bu bilgi doğrulanmaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Orhun Yazıtları, Göktürk Devleti dönemine ait en önemli yazılı belgelerdendir ve Bumin Kağan adına dikilmiştir.",
+            "explanation": "Orhun Yazıtları II. Göktürk (Kutluk) Devleti dönemine aittir ve Bilge Kağan, Kül Tigin, Vezir Tonyukuk adına dikilmiştir, Bumin Kağan adına değil. Bu nedenle ifade yanlıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Orhun Yazıtları'nın kime ait olduğu ve kimler adına dikildiği konusunda yanıltma yapılmıştır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-002-t3",
+        "stem": "Aşağıdaki Türk devletlerinin kuruluş tarihleri dikkate alındığında, Türk adını devlet adı olarak kullanan ilk devlet ile ilgili doğru sıralama hangi seçenekte verilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Asya Hun Devleti → Göktürk Devleti → Uygurlar",
+            "explanation": "Asya Hun Devleti bilinen ilk Türk devletidir, ardından Göktürk Devleti ve sonra Uygurlar gelir. Bu sıralama ders notundaki bilgilerle uyumludur."
+          },
+          {
+            "id": "B",
+            "text": "Uygurlar → Göktürk Devleti → Asya Hun Devleti",
+            "explanation": "Bu sıralama yanlıştır. Asya Hun Devleti en eski, Uygurlar ise daha sonraki dönemdedir."
+          },
+          {
+            "id": "C",
+            "text": "Göktürk Devleti → Asya Hun Devleti → Uygurlar",
+            "explanation": "Bu sıralama yanlıştır. Asya Hun Devleti, Göktürk Devleti'nden önce kurulmuştur."
+          },
+          {
+            "id": "D",
+            "text": "Avrupa Hun Devleti → Göktürk Devleti → Karahanlılar",
+            "explanation": "Bu sıralama yanlıştır. Asya Hun Devleti, Avrupa Hun Devleti'nden önce gelir ve Karahanlılar, Göktürkler'den çok sonra kurulmuştur."
+          },
+          {
+            "id": "E",
+            "text": "Karahanlılar → Uygurlar → Göktürk Devleti",
+            "explanation": "Bu sıralama yanlıştır. Karahanlılar, Uygurlar ve Göktürkler'den çok sonra kurulmuş bir Türk-İslam devletidir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Öğrencinin farklı Türk devletlerinin kronolojik sıralamasını bilip bilmediği test edilmekte, özellikle 'ilk Türk devleti' ve 'Türk adını kullanan ilk devlet' ayrımı üzerinde durulmaktadır."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-003",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Bu soru, Türk tarihinin ilk yazılı belgeleri olan Orhun Yazıtları'nın içeriği ve önemi hakkındaki bilgiyi ölçmektedir.",
+    "ozet": "Türkler, Orta Asya'da çeşitli devletler kurmuş ve zengin bir kültüre sahip olmuşlardır. Bu devletlerden biri olan **Göktürkler**, 'Türk' adını devlet adı olarak kullanan ilk devlettir. Özellikle **II. Göktürk (Kutluk) Devleti** dönemine ait **Orhun Yazıtları**, Türk edebiyatının ve tarihinin ilk yazılı belgeleridir. Bu yazıtlar, Bilge Kağan, Kül Tigin ve Vezir Tonyukuk adına dikilmiş olup, Türk milletine hitap eden, siyasi ve ahlaki öğütler içeren önemli metinlerdir. Orhun Yazıtları'ndaki ifadeler, Türk devlet ve millet anlayışını yansıtır ve **Türklerin bağımsızlık ruhunu** vurgular. Bu yazıtları bilmek, hem Türk tarihi hem de Türk dili ve edebiyatı açısından temel bir bilgidir.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-043",
+        "stem": "'Üstte mavi gök çökmedikçe, altta yağız yer delinmedikçe, Türk milleti, senin ilini, senin töreni kim bozabilir?' ifadesinin yer aldığı Türk tarihinin en eski yazılı belgelerinden biri aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Orhun Yazıtları",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Şine-Usu Yazıtı",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Karabalgasun Yazıtı",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Yenisey Yazıtları",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-003-t1",
+        "stem": "Aşağıdakilerden hangisi Orhun Yazıtları'nın özellikleri arasında yer almaz?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Türk edebiyatının ilk yazılı belgeleri olması",
+            "explanation": "Orhun Yazıtları, Türk edebiyatının ve Türk tarihinin ilk yazılı belgeleridir, bu doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Bumin Kağan adına dikilmiş olması",
+            "explanation": "Orhun Yazıtları Bilge Kağan, Kül Tigin ve Tonyukuk adına dikilmiştir. Bumin Kağan adına dikilmemiştir, bu yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "Bilge Kağan, Kül Tigin ve Tonyukuk adına dikilmiş olması",
+            "explanation": "Orhun Yazıtları, Bilge Kağan, Kül Tigin ve Tonyukuk adına dikilmiştir, bu doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Türk adının geçtiği ilk siyasi metin olması",
+            "explanation": "Orhun Yazıtları, Türk adının geçtiği, halka hesap veren ve siyasi mesajlar içeren ilk metinlerdendir, bu doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Yolluğ Tigin tarafından yazılmış olması",
+            "explanation": "Orhun Yazıtları'nın yazarı Yolluğ Tigin'dir, bu doğrudur."
+          }
+        ],
+        "correct": "B",
+        "trick": "Öğrencinin Orhun Yazıtları'nın kimler adına dikildiğini karıştırması amaçlanmıştır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-003-t2",
+        "stem": "Türk tarihinde 'Türk' adını devlet adı olarak kullanan ilk devlet aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Asya Hun Devleti",
+            "explanation": "Asya Hun Devleti bilinen ilk Türk devletidir ancak 'Türk' adını devlet adı olarak kullanmamıştır."
+          },
+          {
+            "id": "B",
+            "text": "Avrupa Hun Devleti",
+            "explanation": "Avrupa Hun Devleti, Hunlar tarafından kurulmuştur ancak 'Türk' adını devlet adı olarak kullanmamıştır."
+          },
+          {
+            "id": "C",
+            "text": "Göktürk Devleti",
+            "explanation": "Göktürk Devleti, 'Türk' adını devlet adı olarak kullanan ilk devlettir. Bu bilgi ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Uygurlar",
+            "explanation": "Uygurlar yerleşik hayata geçen ilk Türk topluluğudur ancak 'Türk' adını devlet adı olarak kullanan ilk devlet değildir."
+          },
+          {
+            "id": "E",
+            "text": "Karahanlılar",
+            "explanation": "Karahanlılar ilk Müslüman Türk devletidir ancak 'Türk' adını devlet adı olarak kullanan ilk devlet değildir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Sorunun cevabı ders notunda açıkça belirtilse de, öğrencinin 'ilk Türk devleti' ile 'Türk adını kullanan ilk devlet' arasındaki farkı kaçırması amaçlanmıştır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-003-t3",
+        "stem": "Aşağıdaki Türk devletlerinden hangisi ile ona ait önemli bir özelliği eşleşmesi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Asya Hun Devleti - Orduyu onluk sisteme göre örgütledi",
+            "explanation": "Mete Han zamanında Asya Hun Devleti'nde ordu onluk sisteme göre örgütlenmiştir, bu eşleşme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Göktürk Devleti - Türk adını devlet adı olarak kullanan ilk devlettir",
+            "explanation": "Göktürk Devleti, Türk adını devlet adı olarak kullanan ilk devlettir, bu eşleşme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Hazarlar - Museviliği benimseyen tek Türk devletidir",
+            "explanation": "Hazarlar, Museviliği benimseyen tek Türk devletidir, bu eşleşme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Uygurlar - Maniheizm dinini benimseyerek savaşçı özelliklerini korudular",
+            "explanation": "Uygurlar Maniheizm dinini benimsemiş ancak bu din et yemeyi ve savaşmayı yasakladığı için savaşçı özelliklerini kaybetmişlerdir. Bu eşleşme yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "Türgişler - İlk parayı basan Türk devletidir",
+            "explanation": "Türgişler, ilk parayı basan Türk devletidir, bu eşleşme doğrudur."
+          }
+        ],
+        "correct": "D",
+        "trick": "Öğrencinin Uygurların yerleşik hayata geçiş ve din değişimiyle ilgili sonuçları doğru yorumlayıp yorumlamadığını kontrol etmek."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-004",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Termal suların tedavi amaçlı kullanımına verilen adı bilmek.",
+    "ozet": "Doğal kaynakların insan sağlığı üzerindeki etkileri, tarih boyunca farklı kültürlerde tedavi yöntemlerinin gelişmesine yol açmıştır. Özellikle **termal suların** tedavi amacıyla kullanılması önemli bir yere sahiptir. Bu yöntem, sıcak suyun yanı sıra çamur ve gazların da banyo, içme veya soluma yoluyla çeşitli rahatsızlıkların giderilmesinde kullanıldığı bir uygulamadır. Bu uygulamaları bilmek, özellikle sağlık turizmi bağlamında önemli bir bilgidir ve MKS'de bu tür sorularla karşılaşabilirsiniz.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-085",
+        "stem": "Termal sular, çamur ve gazların; banyo, içme ve soluma (inhalasyon) yoluyla tedavi amaçlı kullanıldığı yöntemlerin geneline ne ad verilir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Balneoterapi",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Fitoterapi",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Talassoterapi",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Aromaterapi",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-004-t1",
+        "stem": "Aşağıdakilerden hangisi, termal suların, çamurun ve gazların banyo, içme ve soluma yoluyla tedavi amacıyla kullanıldığı yöntemin doğru tanımıdır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Fitoterapi",
+            "explanation": "Fitoterapi bitkisel tedavi anlamına gelir ve termal sularla ilgili değildir."
+          },
+          {
+            "id": "B",
+            "text": "Talassoterapi",
+            "explanation": "Talassoterapi deniz suyu ve deniz ürünleriyle yapılan tedaviyi ifade eder, termal sularla değil."
+          },
+          {
+            "id": "C",
+            "text": "Aromaterapi",
+            "explanation": "Aromaterapi, bitkisel yağların kokularından faydalanarak yapılan bir tedavi yöntemidir ve termal sularla doğrudan ilişkili değildir."
+          },
+          {
+            "id": "D",
+            "text": "Hidroterapi",
+            "explanation": "Hidroterapi suyun genel olarak tedavi amaçlı kullanımını kapsasa da, termal suların, çamurun ve gazların özel bir kombinasyonunu tanımlayan terim balneoterapidir."
+          },
+          {
+            "id": "E",
+            "text": "Balneoterapi",
+            "explanation": "Balneoterapi, termal suların, çamurun ve gazların banyo, içme ve soluma yoluyla tedavi amaçlı kullanıldığı yöntemin genel adıdır. Ders notunda açıkça belirtilmiştir."
+          }
+        ],
+        "correct": "E",
+        "trick": "Tanımlar arasındaki küçük farklara dikkat etmemek veya terimlerin kapsamını karıştırmak adayı yanıltabilir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-004-t2",
+        "stem": "Türkiye'de termal kaynaklar açısından zengin bir ülke olması sebebiyle birçok balneoterapi merkezi bulunmaktadır. Bu merkezlerde uygulanan balneoterapi yönteminin temel özellikleri arasında aşağıdakilerden hangisi YER ALMAZ?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bitkisel yağlarla masaj uygulamaları",
+            "explanation": "Bitkisel yağlarla masaj uygulamaları aromaterapi veya masaj terapisine girer, balneoterapinin doğrudan bir özelliği değildir."
+          },
+          {
+            "id": "B",
+            "text": "Termal suların banyo olarak kullanılması",
+            "explanation": "Termal suların banyo olarak kullanılması balneoterapinin temel özelliklerinden biridir."
+          },
+          {
+            "id": "C",
+            "text": "Çamurun tedavi amaçlı uygulanması",
+            "explanation": "Çamurun tedavi amaçlı uygulanması balneoterapinin temel özelliklerinden biridir."
+          },
+          {
+            "id": "D",
+            "text": "Gazların soluma (inhalasyon) yoluyla kullanılması",
+            "explanation": "Gazların soluma yoluyla kullanılması balneoterapinin temel özelliklerinden biridir."
+          },
+          {
+            "id": "E",
+            "text": "Termal suların içme kürleri şeklinde tüketilmesi",
+            "explanation": "Termal suların içme kürleri şeklinde tüketilmesi balneoterapinin temel özelliklerinden biridir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Balneoterapinin kapsamını diğer doğal tedavi yöntemleriyle karıştırmak adayı yanıltabilir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-004-t3",
+        "stem": "Balneoterapi ile ilgili verilen aşağıdaki ifadelerin doğru (D) veya yanlış (Y) sıralaması hangi seçenekte doğru verilmiştir?\nI. Balneoterapi, kaplıca tedavisi olarak da bilinir.\nII. Bu tedavi yönteminde sadece termal sular kullanılır, çamur ve gazların bir rolü yoktur.\nIII. Türkiye, termal kaynaklar açısından zengin bir ülke olduğu için balneoterapi merkezleri yaygındır.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "D, D, D",
+            "explanation": "II. ifade yanlıştır çünkü balneoterapide çamur ve gazların da rolü vardır."
+          },
+          {
+            "id": "B",
+            "text": "D, Y, D",
+            "explanation": "I. ifade (Balneoterapi, kaplıca tedavisi olarak da bilinir) doğrudur. II. ifade (Bu tedavi yönteminde sadece termal sular kullanılır, çamur ve gazların bir rolü yoktur) yanlıştır. III. ifade (Türkiye, termal kaynaklar açısından zengin bir ülke olduğu için balneoterapi merkezleri yaygındır) doğrudur. Bu nedenle doğru sıralama D, Y, D'dir."
+          },
+          {
+            "id": "C",
+            "text": "Y, D, Y",
+            "explanation": "I. ifade doğrudur, II. ifade yanlıştır, III. ifade doğrudur. Bu seçenek hatalı bir sıralama sunmaktadır."
+          },
+          {
+            "id": "D",
+            "text": "D, Y, Y",
+            "explanation": "III. ifade doğrudur. Bu seçenek hatalı bir sıralama sunmaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Y, Y, D",
+            "explanation": "I. ifade doğrudur, II. ifade yanlıştır. Bu seçenek hatalı bir sıralama sunmaktadır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Balneoterapinin kapsamını daraltan veya genişleten yanlış ifadeleri doğru kabul etmek adayı yanıltabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-005",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Anadolu Selçuklu Devleti'nin ticaret politikaları ve bu politikaların mekansal yansımaları (kervansaraylar) hakkındaki bilgidir.",
+    "ozet": "Anadolu Selçuklu Devleti, 13. yüzyılda Anadolu'da ticareti canlandırmak ve güvence altına almak için önemli politikalar uygulamıştır. Bu politikaların başında **kervansaraylar** inşa etmek, **sigorta sistemi** kurmak ve liman şehirlerini fethederek ticari ağlarını genişletmek gelmekteydi. Kervansaraylar, yolculara ve tüccarlara üç gün ücretsiz konaklama imkanı sunarak güvenli ve düzenli bir ticaret ortamı sağlamıştır. Bu sayede tüccarların can ve mal güvenliği temin edilmiş, Anadolu'da ekonomik refah artırılmıştır. Bu döneme ait 'Anadolu'nun ilk kervansarayı' olarak bilinen **Alay Han**, bu ticari ağın önemli bir parçasıdır ve günümüzde Aksaray ili sınırları içinde yer almaktadır.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-091",
+        "stem": "Anadolu Selçuklu dönemine (13. yy) ait olan ve 'Anadolu'nun ilk kervansarayı' olarak kabul edilen 'Alay Han', günümüzde hangi ilimizin sınırları içerisindedir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Aksaray",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Kayseri",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Konya",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Sivas",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-005-t1",
+        "stem": "Aşağıdakilerden hangisi Anadolu Selçuklu Devleti'nin ticareti geliştirmek amacıyla uyguladığı politikalardan biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ticaret yolları üzerinde kervansaraylar inşa etmek.",
+            "explanation": "Anadolu Selçuklu Devleti, ticaret yollarında güvenliği ve konaklamayı sağlamak amacıyla kervansaraylar inşa etmiştir. Bu, ticareti geliştirmeye yönelik önemli bir politikadır."
+          },
+          {
+            "id": "B",
+            "text": "Yolda soyulan tüccarların zararını hazineden karşılamak.",
+            "explanation": "Devletin, yolda soyulan tüccarların zararını hazineden karşılaması, dünyanın ilk devlet sigortası uygulamalarından biri olup ticareti güvence altına almayı hedeflemiştir."
+          },
+          {
+            "id": "C",
+            "text": "Yerleşik hayata geçişi teşvik etmek için toprağı köylülere dağıtmak.",
+            "explanation": "Toprağı köylülere dağıtarak yerleşik hayata geçişi teşvik etmek, Anadolu Selçuklu Devleti'nin ticareti geliştirmeye yönelik doğrudan bir politikası değildir. Bu daha çok tarım ve iskân politikalarıyla ilgilidir ve ders notunda bu şekilde bir politika belirtilmemiştir. Ticaret politikaları kervansaraylar, sigorta ve limanlar üzerine yoğunlaşmıştır."
+          },
+          {
+            "id": "D",
+            "text": "Liman şehirlerini fethederek deniz ticaretini kontrol altına almak.",
+            "explanation": "Antalya, Sinop ve Alanya gibi liman şehirlerinin fethedilmesi, Anadolu Selçuklu Devleti'nin deniz ticaretini geliştirme ve kontrol etme stratejisinin bir parçasıdır."
+          },
+          {
+            "id": "E",
+            "text": "Ticari faaliyetlerde bulunanlara gümrük kolaylıkları sağlamak.",
+            "explanation": "Gümrük kolaylıkları sağlamak, ticaretin hacmini artırmak ve tüccarları teşvik etmek amacıyla uygulanan bir politikadır."
+          }
+        ],
+        "correct": "C",
+        "trick": "Ticareti geliştirmeye yönelik politikalar arasında yer almayan, farklı bir alana ait bir seçeneği bulmak gerekmektedir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-005-t2",
+        "stem": "Aşağıdaki Anadolu Selçuklu hükümdarları ve fethettikleri liman şehirleri eşleştirmelerinden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I. Kılıç Arslan - Alanya",
+            "explanation": "Alanya (Alaiye) I. Alaeddin Keykubat döneminde fethedilmiştir."
+          },
+          {
+            "id": "B",
+            "text": "II. Kılıç Arslan - Sinop",
+            "explanation": "Sinop, I. İzzeddin Keykavus döneminde fethedilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "I. Mesut - Samsun",
+            "explanation": "Samsun'un alınması ve ticari önemi, ders notunda I. Alaeddin Keykubat dönemindeki ticaret politikaları bağlamında genel olarak belirtilmiştir, ancak I. Mesut dönemine spesifik bir fetih atfedilmemiştir."
+          },
+          {
+            "id": "D",
+            "text": "I. Gıyaseddin Keyhüsrev - Antalya",
+            "explanation": "Antalya, I. Gıyaseddin Keyhüsrev döneminde fethedilmiştir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "I. Alaeddin Keykubat - İznik",
+            "explanation": "İznik, Anadolu Selçuklu Devleti'nin ilk başkenti olup, I. Kılıç Arslan döneminde Bizans'a kaybedilmiş ve daha sonra geri alınmaya çalışılmıştır. I. Alaeddin Keykubat'ın fethettiği bir liman şehri değildir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Hükümdarların hangi liman şehirlerini fethettiğini doğru hatırlamak gerekmektedir, benzer isimler ve dönemler karıştırılabilir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-005-t3",
+        "stem": "Anadolu Selçuklu Devleti'nin en parlak dönemini yaşatan hükümdar kimdir ve bu dönemde yapılan önemli eserlerden biri hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I. Kılıç Arslan - Alay Han",
+            "explanation": "I. Kılıç Arslan, Haçlı Seferleri ile mücadele etmiş ve başkenti İznik'ten Konya'ya taşımıştır. Alay Han, 'Anadolu'nun ilk kervansarayı' olarak bilinse de, I. Kılıç Arslan dönemi devletin en parlak dönemi değildir ve Alay Han'ın yapımı spesifik olarak ona atfedilmez."
+          },
+          {
+            "id": "B",
+            "text": "II. Kılıç Arslan - Nizamiye Medreseleri",
+            "explanation": "II. Kılıç Arslan, Miryokefalon Savaşı'nı kazanmıştır. Nizamiye Medreseleri ise Büyük Selçuklu Veziri Nizamülmülk tarafından kurulmuştur, Anadolu Selçuklu dönemine ait değildir."
+          },
+          {
+            "id": "C",
+            "text": "I. Mesut - Siyasetname",
+            "explanation": "I. Mesut devleti toparlamış bir hükümdardır. Siyasetname, Büyük Selçuklu Devleti veziri Nizamülmülk tarafından yazılmıştır, Anadolu Selçuklu dönemi eseri değildir."
+          },
+          {
+            "id": "D",
+            "text": "I. İzzeddin Keykavus - Divanü Lügati't-Türk",
+            "explanation": "I. İzzeddin Keykavus Sinop'u almıştır. Divanü Lügati't-Türk ise Karahanlılar döneminde Kaşgarlı Mahmut tarafından yazılmıştır, Anadolu Selçuklu dönemi eseri değildir."
+          },
+          {
+            "id": "E",
+            "text": "I. Alaeddin Keykubat - Kızıl Kule",
+            "explanation": "I. Alaeddin Keykubat, Anadolu Selçuklu Devleti'nin en parlak dönemini yaşatmıştır. Alanya'yı fethetmiş ve burada tersane ile Kızıl Kule'yi yaptırmıştır. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "E",
+        "trick": "En parlak dönemin hükümdarını ve o döneme ait önemli bir eseri doğru eşleştirmek, diğer dönemlere veya devletlere ait eserlerle karıştırmamak önemlidir."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-006",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Roma Cumhuriyeti'nden Roma İmparatorluğu'na geçişi sağlayan ve ilk imparator olan kişinin kimliğini bilmek.",
+    "ozet": "Roma tarihi, Batı medeniyetinin temel taşlarından biridir ve siyasi yapısındaki dönüşümler önemlidir. Özellikle **Roma Cumhuriyeti**'nin sona erip, yerini **Roma İmparatorluğu**'na bırakması kritik bir dönüm noktasıdır. Bu geçiş, iç savaşlar ve siyasi çekişmelerle dolu bir sürecin sonunda gerçekleşmiştir. İmparatorluk sistemini kuran ve Roma'nın ilk imparatoru olan kişi, Cumhuriyet döneminin sonlarına doğru güçlenerek tek lider haline gelmiş ve bu yeni siyasi yapıyı resmen başlatmıştır. Bu bilgiyi bilmek, Roma tarihinin temelini anlamak için anahtardır.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-003",
+        "stem": "Roma Cumhuriyeti'ni sona erdirip Roma İmparatorluğu dönemini başlatan ilk imparator aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Julius Caesar",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Nero",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Trajan",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Augustus",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-006-t1",
+        "stem": "Roma Cumhuriyeti'nden Roma İmparatorluğu'na geçiş sürecinde, ilk imparatorluk unvanını alarak bu yeni dönemi başlatan kişi aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Augustus",
+            "explanation": "Ders notunda açıkça belirtildiği gibi, Roma Cumhuriyeti'ni sona erdirip Roma İmparatorluğu dönemini başlatan ilk imparator Augustus'tur. Kendisi Octavian olarak da bilinir."
+          },
+          {
+            "id": "B",
+            "text": "Julius Caesar",
+            "explanation": "Julius Caesar, Roma Cumhuriyeti'nin son dönemlerinde önemli bir general ve siyasetçiydi, ancak imparatorluk dönemini başlatan ve ilk imparator unvanını alan kişi o değildir. Onun ölümü, imparatorluğa geçiş sürecini hızlandırmıştır."
+          },
+          {
+            "id": "C",
+            "text": "Nero",
+            "explanation": "Nero, Roma İmparatorluğu döneminde yaşamış ve hüküm sürmüş bir imparatordur, ancak ilk imparator değildir. O, daha sonraki bir imparatordur."
+          },
+          {
+            "id": "D",
+            "text": "Trajan",
+            "explanation": "Trajan, Roma İmparatorluğu'nun altın çağlarından birinde hüküm sürmüş başarılı bir imparatordur, ancak ilk imparator değildir. O da Nero gibi daha sonraki bir dönemde yaşamıştır."
+          },
+          {
+            "id": "E",
+            "text": "Diocletian",
+            "explanation": "Diocletian, Roma İmparatorluğu'nun geç dönemlerinde yaşamış ve imparatorluğu reforme etmeye çalışmış bir imparatordur, ancak ilk imparator değildir. O, imparatorluk sisteminin çok daha sonraki bir aşamasında görev yapmıştır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Julius Caesar'ın Roma Cumhuriyeti'ndeki gücü ve popülaritesi, bazı öğrencileri onu ilk imparator sanmaya itebilir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-006-t2",
+        "stem": "Aşağıdakilerden hangisi, Roma Cumhuriyeti'nin sona erip Roma İmparatorluğu'na geçiş sürecinde gerçekleşen olaylardan biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Augustus'un ilk imparator unvanını alması",
+            "explanation": "Augustus'un ilk imparator unvanını alması, Roma Cumhuriyeti'nin sona erip İmparatorluk döneminin başladığı en temel olaydır."
+          },
+          {
+            "id": "B",
+            "text": "Senatonun siyasi gücünün tamamen ortadan kalkması",
+            "explanation": "Senatonun siyasi gücü imparatorluk döneminde büyük ölçüde azalsa da, tamamen ortadan kalkmamış, danışma organı olarak varlığını sürdürmüştür. Bu ifade, geçiş sürecinde gerçekleşen bir durum değildir."
+          },
+          {
+            "id": "C",
+            "text": "Tek kişilik merkezi yönetimin güçlenmesi",
+            "explanation": "Cumhuriyetten imparatorluğa geçişin temel özelliği, senatonun ve diğer cumhuriyetçi kurumların gücünün azalmasıyla tek kişilik, merkezi bir yönetimin (imparatorluk) kurulmasıdır."
+          },
+          {
+            "id": "D",
+            "text": "İç savaşların sona ermesi ve Pax Romana döneminin başlaması",
+            "explanation": "Cumhuriyetin son dönemindeki iç savaşlar, Augustus'un iktidara gelmesiyle sona ermiş ve 'Roma Barışı' anlamına gelen Pax Romana dönemi başlamıştır. Bu da geçiş sürecinin bir sonucudur."
+          },
+          {
+            "id": "E",
+            "text": "Cumhuriyetçi kurumların etkisini kaybetmesi",
+            "explanation": "İmparatorluk dönemine geçişle birlikte, Cumhuriyet dönemine ait konsüllük, tribünlük gibi kurumlar ya işlevini yitirmiş ya da sembolik hale gelmiştir. Bu, geçiş sürecinin bir parçasıdır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Öğrenciler, imparatorluğun kurulmasıyla senatonun tüm gücünü kaybettiğini düşünebilir, oysa senato varlığını danışma organı olarak sürdürmüştür."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-006-t3",
+        "stem": "Aşağıdaki olayları kronolojik sıraya koyunuz:",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I. Julius Caesar'ın suikaste uğraması\nII. Roma Cumhuriyeti'nin sona ermesi\nIII. Augustus'un ilk imparator olması",
+            "explanation": "Kronolojik sıra: Julius Caesar'ın ölümü (I), Roma Cumhuriyeti'nin sona erme sürecini hızlandırmış ve Augustus'un imparatorluk unvanını alması (III) ile bu dönem resmen bitip yeni bir dönem başlamıştır (II)."
+          },
+          {
+            "id": "B",
+            "text": "I. Augustus'un ilk imparator olması\nII. Julius Caesar'ın suikaste uğraması\nIII. Roma Cumhuriyeti'nin sona ermesi",
+            "explanation": "Bu sıralama yanlıştır. Julius Caesar'ın ölümü, Augustus'un imparator olmasından önce gerçekleşmiştir."
+          },
+          {
+            "id": "C",
+            "text": "I. Julius Caesar'ın suikaste uğraması\nII. Roma Cumhuriyeti'nin sona ermesi ve Augustus'un ilk imparator olması",
+            "explanation": "Ders notunda direkt kronolojik bir sıralama verilmemekle birlikte, Julius Caesar'ın ölümü Roma Cumhuriyeti'nin sonunu getiren önemli bir olaydır. Ders notunda 'Roma Cumhuriyeti'ni sona erdirip Roma İmparatorluğu dönemini başlatan ilk imparator Augustus'tur' ifadesi, bu iki olayın (cumhuriyetin sonu ve imparatorluğun başlangıcı) Augustus'un eylemleriyle eş zamanlı veya birbirini takip eden bir süreç olduğunu gösterir. Dolayısıyla, Julius Caesar'ın ölümü bu sürecin başlangıcında yer alır, ardından Augustus'un imparator olmasıyla cumhuriyetin sona ermesi ve imparatorluğun başlaması gerçekleşir. Bu şık, en doğru kronolojik akışı sunar."
+          },
+          {
+            "id": "D",
+            "text": "I. Roma Cumhuriyeti'nin sona ermesi\nII. Julius Caesar'ın suikaste uğraması\nIII. Augustus'un ilk imparator olması",
+            "explanation": "Bu sıralama yanlıştır. Roma Cumhuriyeti'nin sona ermesi, Julius Caesar'ın ölümünden sonra ve Augustus'un imparator olmasıyla ilişkilidir."
+          },
+          {
+            "id": "E",
+            "text": "I. Julius Caesar'ın suikaste uğraması\nII. Augustus'un ilk imparator olması\nIII. Roma Cumhuriyeti'nin sona ermesi",
+            "explanation": "Bu sıralama yanlıştır. Roma Cumhuriyeti'nin sona ermesi, Augustus'un imparator olmasıyla eş zamanlı veya hemen sonrasındaki bir durumdur, öncesinde değil."
+          }
+        ],
+        "correct": "C",
+        "trick": "Ders notunda doğrudan bir kronoloji verilmediği için öğrencilerin olaylar arasındaki sebep-sonuç ilişkisini ve zaman akışını doğru kurması gerekir. Julius Caesar'ın ölümü, Cumhuriyetin sonunu hazırlayan önemli bir katalizördür."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-007",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Kafkasya üzerinden Anadolu'ya göç ederek hakimiyet kuran eski Türk topluluklarını tanımak.",
+    "ozet": "Orta Asya'dan çıkan Türk toplulukları, çeşitli sebeplerle farklı coğrafyalara yayılmışlardır. Bu göçler sırasında bazı topluluklar **Kafkasya** üzerinden Anadolu'ya ulaşarak burada varlık göstermiştir. Örneğin, **Kimmerler** bu güzergahı kullanarak Anadolu'da hakimiyet kurmuş bilinen ilk topluluklardan biridir. **İskitler** de Kafkaslar ve Karadeniz'in kuzeyinde etkili olmuş, ancak doğrudan Anadolu'ya yerleşmeleri Kimmerler kadar belirgin değildir. Her topluluğun göç yolu ve yerleşim yeri, o dönemin siyasi ve coğrafi koşullarıyla yakından ilişkilidir.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-019",
+        "stem": "Tarihsel süreçte Kafkasya üzerinden Anadolu'ya göç ederek hakimiyet kuran topluluk aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İskitler",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Hunlar",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Göktürkler",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Kimmerler",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-007-t1",
+        "stem": "Aşağıdakilerden hangisi, Orta Asya'dan köken alıp Kafkasya üzerinden Anadolu coğrafyasına ulaşarak burada siyasi varlık gösteren ilk Türk topluluklarından biridir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hunlar",
+            "explanation": "Hunlar, Kafkasya üzerinden batıya doğru ilerleseler de, asıl yerleşim ve siyasi varlıklarını Avrupa'da kurmuşlardır. Anadolu'ya doğrudan yerleşen bir Türk topluluğu olarak öne çıkmazlar."
+          },
+          {
+            "id": "B",
+            "text": "Göktürkler",
+            "explanation": "Göktürkler, Orta Asya'da kurulan ve 'Türk' adını kullanan ilk büyük devlettir. Anadolu'ya göç ederek yerleşen bir topluluk değildirler."
+          },
+          {
+            "id": "C",
+            "text": "Uygurlar",
+            "explanation": "Uygurlar, Orta Asya'da yerleşik hayata geçen ilk Türk topluluğudur ve Maniheizm'i benimsemişlerdir. Anadolu'ya göç eden bir topluluk değillerdir."
+          },
+          {
+            "id": "D",
+            "text": "Kimmerler",
+            "explanation": "Ders notunda belirtildiği üzere, Kimmerler tarihsel süreçte Kafkasya üzerinden Anadolu'ya göç ederek hakimiyet kurmuş bir topluluktur."
+          },
+          {
+            "id": "E",
+            "text": "Hazarlar",
+            "explanation": "Hazarlar, Kafkasya'nın kuzeyinde ve Hazar Denizi çevresinde yaşamış, Museviliği benimsemiş bir Türk devletidir. Anadolu'ya göç ederek hakimiyet kurmamışlardır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Şıklarda yer alan diğer Türk topluluklarının Kafkasya ile ilişkili olabileceği ancak Anadolu'ya yerleşme bağlamında Kimmerler'in öne çıktığı bilgisi gözden kaçabilir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-007-t2",
+        "stem": "Aşağıdaki Türk topluluklarından hangisinin Kafkasya üzerinden Anadolu'ya göç ederek burada siyasi bir varlık oluşturduğu BİLİNMEMEKTEDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İskitler",
+            "explanation": "İskitler, Kafkasya ve Karadeniz'in kuzeyinde geniş bir coğrafyada etkinlik göstermiş, ancak notta doğrudan Anadolu'da siyasi varlık kurduklarına dair bir bilgi bulunmamaktadır. Bu nedenle 'bilinmemektedir' ifadesi için doğru yanıttır."
+          },
+          {
+            "id": "B",
+            "text": "Sabarlar",
+            "explanation": "Sabarlar, notta 'Diğer Türk devlet ve toplulukları' arasında sayılmış, ancak Kafkasya üzerinden Anadolu'ya göç ederek siyasi varlık kurduklarına dair bir bilgi verilmemiştir."
+          },
+          {
+            "id": "C",
+            "text": "Kumanlar (Kıpçaklar)",
+            "explanation": "Kumanlar (Kıpçaklar) notta 'Diğer Türk devlet ve toplulukları' arasında sayılmış, ancak Kafkasya üzerinden Anadolu'ya göç ederek siyasi varlık kurduklarına dair bir bilgi verilmemiştir."
+          },
+          {
+            "id": "D",
+            "text": "Oğuzlar (Türkmenler)",
+            "explanation": "Oğuzlar (Türkmenler) notta 'Diğer Türk devlet ve toplulukları' arasında sayılmış, ancak Kafkasya üzerinden Anadolu'ya göç ederek siyasi varlık kurduklarına dair bir bilgi verilmemiştir."
+          },
+          {
+            "id": "E",
+            "text": "Kimmerler",
+            "explanation": "Ders notunda Kimmerler'in Kafkasya üzerinden Anadolu'ya göç ederek hakimiyet kurduğu açıkça belirtilmiştir. Dolayısıyla bu bilgi bilinmektedir."
+          }
+        ],
+        "correct": "E",
+        "trick": "Olumsuz köklü soruda, bilinen bir bilgiyi bilmeyen olarak işaretleme hatasına düşülebilir. Kimmerler'in notta açıkça belirtildiği bilgisi atlanabilir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-007-t3",
+        "stem": "Aşağıdaki ifadelerden hangileri, Orta Asya'dan göç eden Türk topluluklarının Anadolu ile ilişkisi bağlamında doğru bir eşleştirme sunmaktadır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I. Kimmerler - Kafkasya üzerinden Anadolu'ya göç eden ilk topluluklardan\nII. Hunlar - Çin Seddi'ni inşa etmeye zorlayan akınlar düzenleyenler\nIII. Göktürkler - 'Türk' adını devlet adı olarak kullanan ilk devlet",
+            "explanation": "I. Kimmerler, notta belirtildiği gibi Kafkasya üzerinden Anadolu'ya göç ederek hakimiyet kurmuştur. II. Hunlar, Çin Seddi'nin yapımına sebep olan akınlar düzenlemiştir. III. Göktürkler, 'Türk' adını devlet adı olarak kullanan ilk devlettir. Tüm eşleştirmeler ders notuyla uyumludur."
+          },
+          {
+            "id": "B",
+            "text": "I. Kimmerler - Anadolu'da ilk yerleşik hayata geçen Türk topluluğu\nII. Hunlar - Avrupa'da feodalitenin doğmasına yol açan Kavimler Göçü'nü başlatanlar\nIII. Göktürkler - Orhun Yazıtları'nı yazanlar",
+            "explanation": "I. Kimmerler'in Anadolu'da ilk yerleşik hayata geçen Türk topluluğu olduğu bilgisi yanlıştır; yerleşik hayata geçen ilk Türk topluluğu Uygurlardır. II. Hunlar'ın Kavimler Göçü'nü başlattığı doğrudur. III. Orhun Yazıtları Göktürk dönemine aittir ancak yazarı Yolluğ Tigin'dir, Göktürkler'in kendisi yazmamıştır. Bu şıkta birden fazla yanlış bilgi bulunmaktadır."
+          },
+          {
+            "id": "C",
+            "text": "I. Kimmerler - Dünyanın en uzun destanı Manas Destanı'na sahip topluluk\nII. Hunlar - Museviliği benimseyen tek Türk devleti\nIII. Göktürkler - Matbaayı ve kâğıdı kullanan ilk Türk devleti",
+            "explanation": "I. Manas Destanı Kırgızlara aittir, Kimmerlere değil. II. Museviliği benimseyen tek Türk devleti Hazarlardır, Hunlar değil. III. Matbaayı ve kâğıdı kullanan ilk Türk devleti Uygurlardır, Göktürkler değil. Tüm bilgiler yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "I. Kimmerler - 'Tanrı'nın Kırbacı' lakaplı hükümdara sahip topluluk\nII. Hunlar - İlk Türk-İslam eserlerini veren devlet\nIII. Göktürkler - Anadolu'nun kesin Türk yurdu olmasını sağlayan savaşta yer alanlar",
+            "explanation": "I. 'Tanrı'nın Kırbacı' Attila, Avrupa Hun Devleti hükümdarıdır, Kimmerlere ait değildir. II. İlk Türk-İslam eserleri Karahanlılar döneminde verilmiştir, Hunlar döneminde değil. III. Anadolu'nun kesin Türk yurdu olmasını sağlayan savaş Miryokefalon Savaşı'dır ve Anadolu Selçuklu Devleti ile ilgilidir, Göktürkler ile değil. Tüm bilgiler yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "I. Kimmerler - Orta Asya'nın en eski kültür merkezlerinden Anav'a adını veren topluluk\nII. Hunlar - Onluk sistemi bulan ve Türk Kara Kuvvetleri'nin kuruluşuna ilham verenler\nIII. Göktürkler - Yerleşik hayata geçen ilk Türk topluluğu",
+            "explanation": "I. Anav, Orta Asya'nın ilk kültür merkezlerinden biridir ancak Kimmerlere ait değildir. II. Onluk sistemi bulan ve Türk Kara Kuvvetleri'nin kuruluşuna ilham veren kişi Mete Han'dır (Asya Hunları). Bu bilgi doğrudur. III. Yerleşik hayata geçen ilk Türk topluluğu Uygurlardır, Göktürkler değil. Bu şıkta birden fazla yanlış bilgi bulunmaktadır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Şıklarda yer alan her madde kendi içinde doğru gibi görünse de, eşleştirildiği topluluk veya devletle olan ilişkisi yanlış olabilir. Her maddenin ders notuyla ayrı ayrı doğrulanması gerekir."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-008",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Bu soru, Türk adıyla kurulan ilk devlet olan Göktürk Devleti'nin kurucusunu bilme bilgisini ölçmektedir.",
+    "ozet": "Türklerin ana yurdu Orta Asya'da çeşitli kültür merkezleri gelişmiş ve **ilk Türk devletleri** kurulmuştur. Bu devletler arasında **Asya Hun Devleti** bilinen ilk Türk devleti iken, **Göktürk Devleti** 'Türk' adını devlet adı olarak kullanan ilk devlettir. **Bumin Kağan** tarafından kurulan bu devlet, Türk tarihi ve edebiyatının ilk yazılı belgeleri olan **Orhun Yazıtları**'na ev sahipliği yapmıştır. Daha sonra **Uygurlar** gibi diğer Türk devletleri de önemli katkılarda bulunmuş, yerleşik hayata geçiş ve matbaanın kullanımı gibi yeniliklere imza atmışlardır. Bu devletlerin kuruluşları, önemli liderleri ve bıraktıkları kültürel miras, Türk tarihinin temel taşlarını oluşturur.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-041",
+        "stem": "Tarihte Türk adıyla kurulan ilk devlet olan Göktürk Devleti'nin kurucusu kimdir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bilge Kağan",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Bumin Kağan",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Kül Tigin",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Tonyukuk",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-008-t1",
+        "stem": "Aşağıdakilerden hangisi, Türk adını resmi devlet ismi olarak kullanan ilk Türk devletinin kurucusudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mete Han",
+            "explanation": "Mete Han, Asya Hun Devleti'nin en güçlü dönemini yaşatan hükümdardır. Göktürk Devleti'nin kurucusu değildir."
+          },
+          {
+            "id": "B",
+            "text": "Bumin Kağan",
+            "explanation": "Bumin Kağan, 'Türk' adını devlet adı olarak kullanan ilk devlet olan Göktürk Devleti'nin kurucusudur. Bu bilgi ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Attila",
+            "explanation": "Attila, Avrupa Hun Devleti'nin önemli liderlerinden biridir. Göktürk Devleti ile ilgisi yoktur."
+          },
+          {
+            "id": "D",
+            "text": "Kutluk Kağan",
+            "explanation": "Kutluk Kağan, II. Göktürk (Kutluk) Devleti'nin kurucusudur, ancak 'Türk' adını devlet adı olarak kullanan ilk Göktürk Devleti'nin kurucusu Bumin Kağan'dır."
+          },
+          {
+            "id": "E",
+            "text": "Bilge Kağan",
+            "explanation": "Bilge Kağan, II. Göktürk Devleti'nin önemli hükümdarlarından biridir ve Orhun Yazıtları onun adına dikilmiştir, ancak kurucusu değildir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Öğrencinin II. Göktürk Devleti'nin kurucusu ile ilk Göktürk Devleti'nin kurucusunu karıştırması amaçlanmıştır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-008-t2",
+        "stem": "Aşağıdaki Türk devletlerinden hangisi ile kurucusu eşleştirmesi YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Göktürk Devleti - Bumin Kağan",
+            "explanation": "Göktürk Devleti'nin kurucusu Bumin Kağan'dır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "II. Göktürk (Kutluk) Devleti - Kutluk Kağan",
+            "explanation": "II. Göktürk (Kutluk) Devleti'nin kurucusu Kutluk Kağan'dır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Asya Hun Devleti - Mete Han",
+            "explanation": "Mete Han, Asya Hun Devleti'nin en güçlü dönemini yaşamış önemli bir liderdir, ancak devletin bilinen kurucusu değildir. En güçlü dönemine vurgu yapılmıştır."
+          },
+          {
+            "id": "D",
+            "text": "Karahanlılar - Satuk Buğra Han",
+            "explanation": "Karahanlılar, Satuk Buğra Han döneminde İslamiyet'i resmen kabul etmiştir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Anadolu Selçuklu Devleti - Kutalmışoğlu Süleyman Şah",
+            "explanation": "Anadolu Selçuklu Devleti, Kutalmışoğlu Süleyman Şah tarafından kurulmuştur. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Öğrencinin 'kurucu' ile 'en parlak dönem hükümdarı' arasındaki farkı gözden kaçırması amaçlanmıştır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-008-t3",
+        "stem": "Türk tarihinde 'Türk' adının resmi olarak kullanıldığı ilk devlet olan Göktürk Devleti'nin kuruluşuna ilişkin aşağıdaki bilgilerden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Devlet, Orhun Yazıtları'nın dikilmesiyle kurulmuştur.",
+            "explanation": "Orhun Yazıtları, II. Göktürk Devleti dönemine aittir ve devletin kuruluşundan sonra dikilmiştir, kuruluş sebebi değildir."
+          },
+          {
+            "id": "B",
+            "text": "Kurucusu, aynı zamanda Türk Kara Kuvvetleri'nin kuruluş tarihi olarak kabul edilen Mete Han'dır.",
+            "explanation": "Mete Han, Asya Hun Devleti'nin lideridir ve Türk Kara Kuvvetleri'nin kuruluş tarihi onun dönemine dayanır. Göktürk Devleti'nin kurucusu değildir."
+          },
+          {
+            "id": "C",
+            "text": "Uygurlar ile yapılan birleşme sonucunda ortaya çıkmıştır.",
+            "explanation": "Uygurlar, Göktürk Devleti'nden sonra kurulmuş ayrı bir Türk devletidir ve Göktürk Devleti'nin kuruluşuyla doğrudan birleşme ilişkisi yoktur."
+          },
+          {
+            "id": "D",
+            "text": "Bumin Kağan tarafından kurulmuş ve 'Türk' adını devlet adı olarak kullanan ilk devlettir.",
+            "explanation": "Ders notunda açıkça belirtildiği üzere, Göktürk Devleti Bumin Kağan tarafından kurulmuş ve 'Türk' adını devlet adı olarak kullanan ilk Türk devletidir. Bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Kutluk Kağan'ın liderliğinde Çin'e karşı bağımsızlık mücadelesiyle kurulmuştur.",
+            "explanation": "Kutluk Kağan, II. Göktürk (Kutluk) Devleti'nin kurucusudur ve bu devletin kuruluşu Çin'e karşı bağımsızlık mücadelesiyle ilişkilidir, ancak 'Türk' adını kullanan ilk Göktürk Devleti'nin kuruluşu Bumin Kağan ile başlar."
+          }
+        ],
+        "correct": "D",
+        "trick": "Öğrencinin Göktürk ve II. Göktürk Devleti'nin kuruluş süreçlerini ve kurucularını karıştırması amaçlanmıştır."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-009",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Türkiye Cumhuriyeti'nin ilk kadın arkeoloğunun kim olduğu bilgisini ölçer.",
+    "ozet": "MKS'de başarılı olmak için Türk tarihinin önemli şahsiyetleri ve onların katkıları hakkında bilgi sahibi olmak kritik öneme sahiptir. Özellikle **ilkler** ve **öncü isimler** sıklıkla soru olarak karşımıza çıkar. Örneğin, **Türkiye Cumhuriyeti'nin ilk kadın arkeoloğu** gibi spesifik bilgiler, sınavda doğrudan puan getiren detaylardır. Bu tür bilgileri öğrenirken sadece ismi değil, o kişinin hangi alanda ve ne tür bir 'ilk'e imza attığını da bilmek gerekir. Bu detaylar genellikle ders notlarının 'Ek Bilgiler' veya 'Önemli Şahsiyetler' bölümlerinde yer alır ve genel kültürün ötesinde, sınav odaklı bir hazırlık için ezberlenmesi önemlidir.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-045",
+        "stem": "Türkiye Cumhuriyeti'nin ilk kadın arkeoloğu unvanına sahip bilim insanı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Halet Çambel",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Jale İnan",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Muazzez İlmiye Çığ",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Afet İnan",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-009-t1",
+        "stem": "Türkiye Cumhuriyeti döneminde, arkeoloji alanında öncü rol oynayan ve 'ilk kadın arkeolog' unvanını kazanan bilim insanı kimdir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Halet Çambel",
+            "explanation": "Halet Çambel önemli bir arkeologdur ancak Türkiye Cumhuriyeti'nin ilk kadın arkeoloğu unvanı Jale İnan'a aittir."
+          },
+          {
+            "id": "B",
+            "text": "Muazzez İlmiye Çığ",
+            "explanation": "Muazzez İlmiye Çığ, Sümeroloji alanında önemli çalışmaları olan bir bilim insanıdır ancak ilk kadın arkeolog unvanı ona ait değildir."
+          },
+          {
+            "id": "C",
+            "text": "Afet İnan",
+            "explanation": "Afet İnan, tarihçi ve sosyolog kimliğiyle tanınır, ancak arkeolog değildir ve ilk kadın arkeolog unvanı ona ait değildir."
+          },
+          {
+            "id": "D",
+            "text": "Nermin Erdentuğ",
+            "explanation": "Nermin Erdentuğ, Türkiye'nin önemli antropologlarından biridir, arkeolog değildir ve ilk kadın arkeolog unvanı ona ait değildir."
+          },
+          {
+            "id": "E",
+            "text": "Jale İnan",
+            "explanation": "Ders notunda belirtildiği üzere, Jale İnan Türkiye Cumhuriyeti'nin ilk kadın arkeoloğudur. Bu bilgi doğrudan notta yer almaktadır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Şıklara konulan diğer önemli kadın bilim insanları, adayın ilk kadın arkeolog bilgisini karıştırmasına neden olabilir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-009-t2",
+        "stem": "Aşağıdaki ifadelerden hangisi, Türkiye Cumhuriyeti'nin ilk kadın arkeoloğu hakkında **yanlış** bir bilgidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Alacahöyük kazılarını başlatan ekipte yer almıştır.",
+            "explanation": "Ders notunda Alacahöyük kazılarının Atatürk'ün emriyle Remzi Oğuz Arık tarafından başlatıldığı belirtilmiştir. Jale İnan, bu kazıların başlangıcında yer almamıştır. Bu ifade yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Adı Jale İnan'dır.",
+            "explanation": "Ders notunda açıkça belirtildiği gibi, Türkiye Cumhuriyeti'nin ilk kadın arkeoloğu Jale İnan'dır. Bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Arkeoloji alanında önemli kazılara imza atmıştır.",
+            "explanation": "Jale İnan, Türkiye'de birçok önemli arkeolojik kazıya katılmış ve başkanlık etmiştir. Bu ifade doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Antik Yunan ve Roma heykeltıraşlığı üzerine uzmanlaşmıştır.",
+            "explanation": "Jale İnan'ın uzmanlık alanı Antik Yunan ve Roma heykeltıraşlığıdır. Bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Uzun yıllar İstanbul Üniversitesi'nde ders vermiştir.",
+            "explanation": "Jale İnan, akademik kariyerinin büyük bir bölümünü İstanbul Üniversitesi'nde geçirmiştir. Bu ifade doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Adayın, Alacahöyük kazıları ile ilk kadın arkeolog bilgisini karıştırması veya genel bilgileri yanlışlıkla ilk kadın arkeoloğa atfetmesi tuzaktır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-009-t3",
+        "stem": "Aşağıdaki eşleştirmelerden hangisi, verilen bilim insanı ve ilgili olduğu alan/özellik bakımından **doğrudur**?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Remzi Oğuz Arık - Türkiye Cumhuriyeti'nin ilk kadın arkeoloğu",
+            "explanation": "Remzi Oğuz Arık, Alacahöyük kazılarını başlatan kişidir. Türkiye Cumhuriyeti'nin ilk kadın arkeoloğu Jale İnan'dır. Eşleştirme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Jale İnan - Türkiye Cumhuriyeti'nin ilk kadın arkeoloğu",
+            "explanation": "Ders notunda açıkça belirtildiği gibi, Jale İnan Türkiye Cumhuriyeti'nin ilk kadın arkeoloğudur. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Jale İnan - Alacahöyük kazılarının başlatıcısı",
+            "explanation": "Jale İnan Türkiye Cumhuriyeti'nin ilk kadın arkeoloğudur. Alacahöyük kazılarının başlatıcısı Remzi Oğuz Arık'tır. Eşleştirme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Atatürk - Türkiye Cumhuriyeti'nin ilk kadın arkeoloğu",
+            "explanation": "Atatürk, Alacahöyük kazılarının başlatılması emrini vermiştir ancak kendisi arkeolog değildir. Türkiye Cumhuriyeti'nin ilk kadın arkeoloğu Jale İnan'dır. Eşleştirme yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "Muazzez İlmiye Çığ - Türkiye Cumhuriyeti'nin ilk kadın arkeoloğu",
+            "explanation": "Muazzez İlmiye Çığ, Sümerologdur. Türkiye Cumhuriyeti'nin ilk kadın arkeoloğu Jale İnan'dır. Eşleştirme yanlıştır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Adayın, farklı 'ilk' unvanlarını veya ilgili şahsiyetleri birbiriyle karıştırması ve ders notunda yer alan bilgileri doğru şekilde eşleştirememesi tuzaktır."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-010",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "İlk Müslüman Türk devletleri döneminde ortaya çıkan temel Türk-İslam edebi eserleri ve yazarlarını bilmek.",
+    "ozet": "Türklerin İslamiyet'i kabul etmesiyle birlikte, özellikle Karahanlılar döneminde önemli **Türk-İslam edebi eserleri** ortaya çıkmıştır. Bu eserler, Türk kültürünün ve dilinin gelişiminde kilit rol oynamıştır. Bilmeniz gereken dört temel eser vardır: **Kutadgu Bilig** (Yusuf Has Hacip) ilk siyasetnamedir; **Divanü Lügati't-Türk** (Kaşgarlı Mahmut) ilk Türkçe sözlük ve ansiklopedidir; **Atabetü'l Hakayık** (Edip Ahmet Yükneki) ahlak ve öğüt kitabıdır; ve **Divan-ı Hikmet** (Hoca Ahmet Yesevi) ilk tasavvuf eseridir. Bu eserlerin yazarları ve temel konuları, Türk-İslam edebiyatının temellerini oluşturur ve sınavda sıklıkla sorulur.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-054",
+        "stem": "Türk-İslam edebiyatının ilk eserlerinden biri olan \"Kutadgu Bilig\"in yazarı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kaşgarlı Mahmut",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Yusuf Has Hacip",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Ali Şir Nevai",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Ahmet Yesevi",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-010-t1",
+        "stem": "Aşağıdakilerden hangisi, Karahanlılar döneminde yazılan ilk Türk-İslam eserlerinden biri olan Divanü Lügati't-Türk'ün temel amacıdır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Türk boylarının soyağacını çıkarmak ve kökenlerini belgelemek.",
+            "explanation": "Divanü Lügati't-Türk'ün temel amacı Türk boylarının soyağacını çıkarmak değil, Araplara Türkçe öğretmek ve Türk dilinin zenginliğini göstermektir."
+          },
+          {
+            "id": "B",
+            "text": "Türk devletlerinin yönetim anlayışını ve siyasi ilkelerini açıklamak.",
+            "explanation": "Bu açıklama Kutadgu Bilig'in konusudur. Divanü Lügati't-Türk bir siyasetname değildir."
+          },
+          {
+            "id": "C",
+            "text": "Türkçenin zenginliğini göstermek ve Araplara Türkçe öğretmek.",
+            "explanation": "Kaşgarlı Mahmut, Divanü Lügati't-Türk'ü Araplara Türkçe öğretmek ve Türk dilinin Arapça kadar zengin olduğunu ispatlamak amacıyla yazmıştır. Bu, eserin ana amacıdır."
+          },
+          {
+            "id": "D",
+            "text": "Ahlaki değerleri ve dini nasihatleri şiirsel bir dille aktarmak.",
+            "explanation": "Bu açıklama Atabetü'l Hakayık veya Divan-ı Hikmet'in konularına daha yakındır. Divanü Lügati't-Türk didaktik bir sözlük ve ansiklopedidir."
+          },
+          {
+            "id": "E",
+            "text": "Tasavvufi düşünceleri ve tarikat öğretilerini yaymak.",
+            "explanation": "Bu açıklama Hoca Ahmet Yesevi'nin Divan-ı Hikmet adlı eserinin konusudur. Divanü Lügati't-Türk'ün tasavvufla doğrudan bir ilgisi yoktur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Şıklardaki diğer eserlerin konularıyla Divanü Lügati't-Türk'ün amacını karıştırmamak gerekir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-010-t2",
+        "stem": "Aşağıdaki Türk-İslam eserlerinden hangisi, konusu itibarıyla diğerlerinden farklı bir alana odaklanmıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kutadgu Bilig",
+            "explanation": "Kutadgu Bilig, siyasetname türünde bir eser olup devlet yönetimi ve idarecilik konularına odaklanmıştır."
+          },
+          {
+            "id": "B",
+            "text": "Atabetü'l Hakayık",
+            "explanation": "Atabetü'l Hakayık, ahlak ve öğüt konulu didaktik bir eserdir."
+          },
+          {
+            "id": "C",
+            "text": "Divan-ı Hikmet",
+            "explanation": "Divan-ı Hikmet, tasavvufi ve dini-ahlaki öğütler içeren bir eserdir."
+          },
+          {
+            "id": "D",
+            "text": "Divanü Lügati't-Türk",
+            "explanation": "Divanü Lügati't-Türk, bir sözlük ve ansiklopedi olup Türk dilinin zenginliğini gösterme ve öğretme amacına hizmet eder. Bu yönüyle diğer ahlak, siyaset veya tasavvuf eserlerinden farklıdır."
+          },
+          {
+            "id": "E",
+            "text": "Siyasetname",
+            "explanation": "Nizamülmülk'ün Siyasetname'si de Kutadgu Bilig gibi devlet yönetimi ve siyaset konuludur."
+          }
+        ],
+        "correct": "D",
+        "trick": "Tüm eserler Türk-İslam edebiyatının önemli örnekleri olmakla birlikte, Divanü Lügati't-Türk'ün dilbilimsel ve ansiklopedik yapısı diğerlerinden ayrılır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-010-t3",
+        "stem": "Aşağıdaki yazar-eser eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yusuf Has Hacip - Kutadgu Bilig",
+            "explanation": "Bu eşleştirme doğrudur. Yusuf Has Hacip, Kutadgu Bilig'in yazarıdır."
+          },
+          {
+            "id": "B",
+            "text": "Kaşgarlı Mahmut - Divanü Lügati't-Türk",
+            "explanation": "Bu eşleştirme doğrudur. Kaşgarlı Mahmut, Divanü Lügati't-Türk'ün yazarıdır."
+          },
+          {
+            "id": "C",
+            "text": "Edip Ahmet Yükneki - Atabetü'l Hakayık",
+            "explanation": "Bu eşleştirme doğrudur. Edip Ahmet Yükneki, Atabetü'l Hakayık'ın yazarıdır."
+          },
+          {
+            "id": "D",
+            "text": "Hoca Ahmet Yesevi - Divan-ı Hikmet",
+            "explanation": "Bu eşleştirme doğrudur. Hoca Ahmet Yesevi, Divan-ı Hikmet'in yazarıdır."
+          },
+          {
+            "id": "E",
+            "text": "Firdevsi - Siyasetname",
+            "explanation": "Bu eşleştirme yanlıştır. Firdevsi, Şehname adlı eseriyle tanınır. Siyasetname'nin yazarı ise Nizamülmülk'tür."
+          }
+        ],
+        "correct": "E",
+        "trick": "Firdevsi'nin Gazneliler döneminde yaşamış olması, onu diğer eserlerle ilişkilendirme yanılgısına düşürebilir. Siyasetname'nin Nizamülmülk'e ait olduğu bilgisini hatırlamak önemlidir."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-011",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Orhun Yazıtları'nın kimler adına dikildiği bilgisi.",
+    "ozet": "Türk tarihinin ilk yazılı belgeleri olan **Orhun Yazıtları**, II. Göktürk (Kutluk) Devleti dönemine aittir. Bu yazıtlar, Türk milletine hitap eden ilk siyasi metinler olma özelliğini taşır ve **Göktürk alfabesi** ile yazılmıştır. Yazıtlarda Türklerin devlet ve millet olma bilinci vurgulanır. Bilge Kağan, Kül Tigin ve Vezir Tonyukuk adına dikilen bu anıtlar, Türk edebiyatının ve tarihinin temel taşlarından biridir. Bu isimleri ve yazıtların niteliklerini bilmek, ilgili tüm soruları çözmenizi sağlar.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-062",
+        "stem": "Türk tarihinin ve edebiyatının ilk yazılı belgeleri olan Orhun Yazıtları, aşağıdaki devlet adamlarından hangisi adına dikilmemiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kül Tigin",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Bumin Kağan",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Bilge Kağan",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Tonyukuk",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-011-t1",
+        "stem": "Aşağıdakilerden hangisi Orhun Yazıtları'nın özellikleri arasında yer almaz?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bumin Kağan adına dikilmiş olması.",
+            "explanation": "Ders notunda 'Bilge Kağan, Kül Tigin ve Tonyukuk adına dikilmiştir; Bumin Kağan adına dikilmemiştir' ifadesiyle bu şıkkın yanlış olduğu belirtilmiştir."
+          },
+          {
+            "id": "B",
+            "text": "Türk edebiyatının ilk yazılı belgelerinden olması.",
+            "explanation": "Orhun Yazıtları, ders notunda belirtildiği gibi, Türk edebiyatının ve Türk tarihinin ilk yazılı belgeleridir."
+          },
+          {
+            "id": "C",
+            "text": "II. Göktürk Devleti dönemine ait olması.",
+            "explanation": "Ders notunda açıkça belirtildiği üzere, Orhun Yazıtları II. Göktürk (Kutluk) Devleti dönemine aittir."
+          },
+          {
+            "id": "D",
+            "text": "Halka hesap veren ilk siyasi metin niteliği taşıması.",
+            "explanation": "Ders notunda 'halka hesap veren ve 'Ey Türk milleti...' diye seslenen ilk siyasi metindir' ifadesiyle bu özelliğe vurgu yapılmıştır."
+          },
+          {
+            "id": "E",
+            "text": "Yolluğ Tigin tarafından yazılmış olması.",
+            "explanation": "Ders notunda 'Yolluğ Tigin tarafından yazılmıştır' bilgisi yer almaktadır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Orhun Yazıtları'nın Göktürk Devleti ile ilişkisi nedeniyle, kurucu Bumin Kağan adına dikildiği yanılgısına düşülebilir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-011-t2",
+        "stem": "II. Göktürk Kağanlığı dönemine ait Orhun Yazıtları'nda adı geçen devlet adamları arasında aşağıdakilerden hangisi bulunmaz?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bilge Kağan",
+            "explanation": "Bilge Kağan, Orhun Yazıtları'nın dikildiği önemli devlet adamlarından biridir."
+          },
+          {
+            "id": "B",
+            "text": "Kutluk Kağan",
+            "explanation": "Kutluk Kağan, II. Göktürk Kağanlığı'nın kurucusudur ancak Orhun Yazıtları onun adına dikilmemiştir. Yazıtlar, Bilge Kağan, Kül Tigin ve Tonyukuk adına dikilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Kül Tigin",
+            "explanation": "Kül Tigin, Orhun Yazıtları'nın dikildiği önemli devlet adamlarından biridir."
+          },
+          {
+            "id": "D",
+            "text": "Vezir Tonyukuk",
+            "explanation": "Vezir Tonyukuk, Orhun Yazıtları'nın dikildiği önemli devlet adamlarından biridir."
+          },
+          {
+            "id": "E",
+            "text": "Yolluğ Tigin",
+            "explanation": "Yolluğ Tigin, yazıtların yazarıdır, adına dikilen bir şahsiyet değildir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Kutluk Kağan'ın II. Göktürk Devleti'nin kurucusu olması, onun adına da yazıt dikildiği yanılgısını yaratabilir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-011-t3",
+        "stem": "Aşağıdaki ifadelerden hangisi Orhun Yazıtları ile ilgili doğru bir bilgi değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Günümüzde Moğolistan sınırları içerisinde yer almaktadır.",
+            "explanation": "Ders notunda 'Orhun Yazıtları günümüzde Moğolistan sınırları içerisindedir' bilgisi yer almaktadır."
+          },
+          {
+            "id": "B",
+            "text": "Türk adının geçtiği ilk siyasi metin olma özelliğine sahiptir.",
+            "explanation": "Ders notunda 'Türk adının geçtiği... ilk siyasi metindir' ifadesiyle bu özelliği belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Türklerin yerleşik hayata geçişini ve Maniheizm'i kabulünü konu edinir.",
+            "explanation": "Bu bilgi, Uygurlar ile ilgilidir. Orhun Yazıtları, Göktürk dönemine ait olup yerleşik hayat veya Maniheizm ile ilgili bir konu değildir. Tam tersine, göçebe yaşam ve Gök Tanrı inancı dönemini yansıtır."
+          },
+          {
+            "id": "D",
+            "text": "Göktürk alfabesi 38 harften oluşmaktadır.",
+            "explanation": "Ders notunda 'Göktürk alfabesi 38 harflidir' bilgisi doğru olarak verilmiştir."
+          },
+          {
+            "id": "E",
+            "text": "Yazıtlarda 'Ey Türk milleti, üstte gök çökmedikçe, altta yağız yer delinmedikçe, Türk milleti, senin ilini, senin töreni kim bozabilir?' ifadeleri yer almaktadır.",
+            "explanation": "Ders notunda bu ifadenin yazıtlar içerisinde geçtiği belirtilmiştir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Türk devletlerinin tarihindeki önemli değişimler (yerleşik hayat, din değişimi) farklı dönemlere ait olsa da, okuyucuyu karıştırmak için bir araya getirilebilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-012",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Bu soru, Türk adını devlet adı olarak kullanan ilk Türk devletini bilmeyi ölçmektedir.",
+    "ozet": "Türklerin Orta Asya'dan dünyaya yayılan zengin bir tarihi vardır. İlk Türk devletleri arasında **Asya Hun Devleti** bilinen ilk Türk devletidir ve **Mete Han**'ın onluk sistemiyle ordusunu kurmuştur. Ancak, resmi devlet isminde 'Türk' ibaresini kullanan ilk devlet **Göktürkler** olmuştur. Bu devlet, **Bumin Kağan** tarafından kurulmuş ve **Orhun Yazıtları** gibi önemli yazılı eserleri bırakmıştır. Daha sonra **Uygurlar** yerleşik hayata geçen ilk Türk topluluğu olarak öne çıkmış, **Maniheizm** dinini benimseyerek savaşçı özelliklerini kaybetmişlerdir. Bu devletlerin kuruluşları, önemli liderleri ve kültürel katkıları, Türk tarihinin temel taşlarını oluşturur ve sıkça sınav konusu olur.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-093",
+        "stem": "Resmi devlet isminde \"Türk\" ibaresinin geçtiği ilk Türk devleti aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hunlar",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Göktürkler",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Uygurlar",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Selçuklular",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-012-t1",
+        "stem": "Aşağıdakilerden hangisi, 'Türk' adını devlet adı olarak kullanan ilk Türk devleti olmasının yanı sıra, Türk edebiyatının ilk yazılı belgeleri olan Orhun Yazıtları'na da ev sahipliği yapmıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Asya Hun Devleti",
+            "explanation": "Asya Hun Devleti bilinen ilk Türk devletidir ancak 'Türk' adını devlet adı olarak kullanmamıştır ve Orhun Yazıtları bu döneme ait değildir."
+          },
+          {
+            "id": "B",
+            "text": "Uygurlar",
+            "explanation": "Uygurlar yerleşik hayata geçen ilk Türk topluluğudur ve kendi alfabeleri vardır, ancak 'Türk' adını devlet adı olarak kullanan ilk devlet değillerdir ve Orhun Yazıtları Uygur dönemine ait değildir."
+          },
+          {
+            "id": "C",
+            "text": "Karahanlılar",
+            "explanation": "Karahanlılar ilk Müslüman Türk devletidir ve ilk Türk-İslam eserlerini vermişlerdir, ancak 'Türk' adını devlet adı olarak kullanan ilk devlet değillerdir ve Orhun Yazıtları bu döneme ait değildir."
+          },
+          {
+            "id": "D",
+            "text": "Göktürkler",
+            "explanation": "Göktürkler, 'Türk' adını devlet adı olarak kullanan ilk Türk devletidir ve Türk edebiyatının ilk yazılı belgeleri olan Orhun Yazıtları'nı bırakmışlardır."
+          },
+          {
+            "id": "E",
+            "text": "Selçuklular",
+            "explanation": "Selçuklular, Büyük Selçuklu Devleti'ni kuran önemli bir Türk boyudur ancak 'Türk' adını devlet adı olarak kullanan ilk devlet değillerdir ve Orhun Yazıtları bu döneme ait değildir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Soruda 'Türk' adını devlet adı olarak kullanma ve Orhun Yazıtları'na ev sahipliği yapma olmak üzere iki anahtar bilgi bir arada sorulmuştur."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-012-t2",
+        "stem": "Aşağıdakilerden hangisi, Türk adını resmi devlet ismi olarak kullanan ilk Türk devleti olan Göktürk Devleti ile ilgili **yanlış** bir bilgidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kurucusu Bumin Kağan'dır.",
+            "explanation": "Göktürk Devleti'nin kurucusu Bumin Kağan'dır, bu bilgi doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Orhun Yazıtları bu devlete aittir.",
+            "explanation": "Orhun Yazıtları, II. Göktürk (Kutluk) Devleti dönemine ait olup Göktürk Devleti'nin önemli yazılı belgeleridir, bu bilgi doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Türk adını devlet adı olarak kullanan ilk devlettir.",
+            "explanation": "Göktürkler, 'Türk' adını devlet adı olarak kullanan ilk Türk devletidir, bu bilgi doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Bilge Kağan, Kül Tigin ve Vezir Tonyukuk önemli şahsiyetleridir.",
+            "explanation": "Bilge Kağan, Kül Tigin ve Vezir Tonyukuk, II. Göktürk Kağanlığı'nın önemli isimleridir, bu bilgi doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Uygur alfabesini kullanmışlardır.",
+            "explanation": "Göktürkler, kendilerine özgü 38 harfli Göktürk alfabesini kullanmışlardır. Uygur alfabesi Uygurlara aittir, bu bilgi yanlıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Göktürkler ve Uygurların alfabelerini karıştırma tuzağına düşmemek gerekir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-012-t3",
+        "stem": "Türk tarihinde bilinen ilk devletten başlayarak, 'Türk' adını resmi devlet ismi olarak kullanan ilk devlete kadar kronolojik sıralama hangi seçenekte doğru verilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Asya Hun Devleti → Göktürkler → Uygurlar",
+            "explanation": "Asya Hun Devleti bilinen ilk Türk devletidir, ardından 'Türk' adını kullanan Göktürkler gelmiş, sonra yerleşik hayata geçen Uygurlar takip etmiştir. Bu sıralama doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Asya Hun Devleti → Uygurlar → Göktürkler",
+            "explanation": "Uygurlar, Göktürklerden sonra kurulmuştur. Doğru sıralama Asya Hun Devleti → Göktürkler → Uygurlar şeklindedir."
+          },
+          {
+            "id": "C",
+            "text": "Göktürkler → Asya Hun Devleti → Uygurlar",
+            "explanation": "Asya Hun Devleti, Göktürklerden önce kurulmuştur. Doğru sıralama Asya Hun Devleti → Göktürkler → Uygurlar şeklindedir."
+          },
+          {
+            "id": "D",
+            "text": "Uygurlar → Göktürkler → Asya Hun Devleti",
+            "explanation": "Bu sıralama tamamen terstir. Asya Hun Devleti en eski, Uygurlar ise en yeni olanıdır."
+          },
+          {
+            "id": "E",
+            "text": "Göktürkler → Uygurlar → Asya Hun Devleti",
+            "explanation": "Asya Hun Devleti, Göktürklerden ve Uygurlardan önce kurulmuştur. Doğru sıralama Asya Hun Devleti → Göktürkler → Uygurlar şeklindedir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Devletlerin kuruluş tarihlerini ve birbirleriyle olan kronolojik ilişkilerini doğru bilmek gerekir."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-013",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Dandanakan Savaşı'nın taraflarını ve sonucunu bilmek, Büyük Selçuklu Devleti'nin kuruluş sürecini anlamak için temel bilgidir.",
+    "ozet": "Türklerin ana yurdu Orta Asya'dan çeşitli nedenlerle göç etmesiyle yeni devletler kurulmuştur. Bu devletlerden biri olan **Büyük Selçuklu Devleti**, Oğuzların **Kınık** boyundan gelmekte olup, **Dandanakan Savaşı** ile tarih sahnesine çıkmıştır. Bu savaş, **1040 yılında Selçuklular ile Gazneliler arasında** gerçekleşmiş ve **Gaznelilerin yenilgisiyle** sonuçlanmıştır. Bu zafer, Büyük Selçuklu Devleti'nin kuruluşunu resmileştirmiş ve Orta Asya'daki siyasi dengeyi değiştirmiştir. Bu savaşı bilmek, Türk-İslam tarihindeki önemli dönüm noktalarından birini anlamanızı sağlar.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-022",
+        "stem": "Dandanakan Savaşı aşağıdaki devletlerden hangileri arasında olmuştur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Anadolu Selçuklu Devleti - Gazneliler",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Anadolu Selçuklu Devleti - Sasaniler",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Büyük Selçuklu Devleti - Bizans İmparatorluğu",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Selçuklu Devleti - Gazneliler",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "E",
+            "text": "Selçuklu Devleti - Karahanlılar",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-013-t1",
+        "stem": "1040 Dandanakan Savaşı'nın temel sonucu ve Türk tarihi açısından önemi aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Anadolu'nun kapılarının Türklere açılması ve Anadolu'nun Türkleşme sürecinin başlaması",
+            "explanation": "Anadolu'nun kapılarının Türklere açılması 1071 Malazgirt Savaşı'nın sonucudur, Dandanakan Savaşı'nın değil."
+          },
+          {
+            "id": "B",
+            "text": "Büyük Selçuklu Devleti'nin kuruluşunun kesinleşmesi ve Gaznelilerin yıkılış sürecine girmesi",
+            "explanation": "Ders notunda belirtildiği gibi, '1040 Dandanakan Savaşı'nda Gaznelileri yenerek devleti kurdu' ve 'Dandanakan Savaşı'nın ardından Gazneliler yıkılış sürecine girmiştir.' ifadeleri bu şıkkı doğrulamaktadır."
+          },
+          {
+            "id": "C",
+            "text": "Türklerin kitleler halinde İslamiyet'i kabul etmeye başlaması",
+            "explanation": "Türklerin kitleler halinde İslamiyet'i kabul etmeye başlaması 751 Talas Savaşı sonrasında hızlanmıştır, Dandanakan Savaşı ile doğrudan ilgili değildir."
+          },
+          {
+            "id": "D",
+            "text": "Türkçenin resmi dil olarak ilan edilmesi ve ilk Türk-İslam edebi eserlerinin verilmesi",
+            "explanation": "Türkçenin resmi dil olarak ilan edilmesi Karahanlılar döneminde ve Karamanoğlu Mehmet Bey tarafından gerçekleşmiştir. İlk Türk-İslam edebi eserleri de Karahanlılar dönemine aittir."
+          },
+          {
+            "id": "E",
+            "text": "İslam dünyasında 'Doğu'nun ve Batı'nın Sultanı' unvanının ortaya çıkması",
+            "explanation": "'Doğu'nun ve Batı'nın Sultanı' unvanı, Tuğrul Bey'e 1055 Bağdat Seferi sonrasında Abbasi Halifesi tarafından verilmiştir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Savaşların sonuçlarını karıştırmak, özellikle Malazgirt ve Dandanakan gibi önemli savaşların etkilerini ayırt edememek yaygın bir yanılgıdır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-013-t2",
+        "stem": "Aşağıdakilerden hangisi 1040 Dandanakan Savaşı'nın taraflarından biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Büyük Selçuklu Devleti",
+            "explanation": "Ders notunda 'Oğuzların Kınık boyundan Selçuk Bey'in torunları Tuğrul ve Çağrı Beyler, 1040 Dandanakan Savaşı'nda Gaznelileri yenerek devleti kurdu.' ifadesiyle Büyük Selçuklu Devleti'nin savaşın taraflarından biri olduğu açıkça belirtilmiştir."
+          },
+          {
+            "id": "B",
+            "text": "Gazneliler",
+            "explanation": "Ders notunda '1040 Dandanakan Savaşı'nda Gaznelileri yenerek devleti kurdu.' ifadesiyle Gaznelilerin savaşın taraflarından biri olduğu açıkça belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Sultan Sencer",
+            "explanation": "Sultan Sencer, Büyük Selçuklu Devleti'nin son büyük hükümdarıdır ve 1157'de ölmüştür. Dandanakan Savaşı 1040 yılında gerçekleştiği için Sultan Sencer savaşın taraflarından biri değildir."
+          },
+          {
+            "id": "D",
+            "text": "Tuğrul Bey",
+            "explanation": "Tuğrul Bey, Büyük Selçuklu Devleti'nin kurucularından ve savaşın önemli figürlerinden biridir, dolayısıyla savaşın tarafı olan Büyük Selçuklu Devleti'nin lideridir."
+          },
+          {
+            "id": "E",
+            "text": "Çağrı Bey",
+            "explanation": "Çağrı Bey, Büyük Selçuklu Devleti'nin kurucularından ve savaşın önemli figürlerinden biridir, dolayısıyla savaşın tarafı olan Büyük Selçuklu Devleti'nin lideridir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Öğrencinin, belirli kişilerin hangi dönemlerde yaşadığını ve hangi olaylarla ilişkilendirildiğini karıştırması tuzağıdır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-013-t3",
+        "stem": "Aşağıdaki olayları kronolojik olarak doğru sıralayınız:\nI. Dandanakan Savaşı\nII. Malazgirt Savaşı\nIII. Talas Savaşı\nIV. Kösedağ Savaşı",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I, II, III, IV",
+            "explanation": "Talas Savaşı (751) ilk sırada, Dandanakan Savaşı (1040) ikinci sırada, Malazgirt Savaşı (1071) üçüncü sırada ve Kösedağ Savaşı (1243) son sırada yer almalıdır."
+          },
+          {
+            "id": "B",
+            "text": "II, I, III, IV",
+            "explanation": "Malazgirt Savaşı (1071) Dandanakan Savaşı'ndan (1040) ve Talas Savaşı'ndan (751) sonra gerçekleşmiştir, bu yüzden bu sıralama yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "III, II, I, IV",
+            "explanation": "Malazgirt Savaşı (1071) Dandanakan Savaşı'ndan (1040) sonra gerçekleşmiştir, bu yüzden bu sıralama yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "III, I, II, IV",
+            "explanation": "Ders notuna göre kronolojik sıralama şu şekildedir: Talas Savaşı (751), Dandanakan Savaşı (1040), Malazgirt Savaşı (1071), Kösedağ Savaşı (1243). Bu şık doğru sıralamayı vermektedir."
+          },
+          {
+            "id": "E",
+            "text": "IV, I, II, III",
+            "explanation": "Kösedağ Savaşı (1243) en son gerçekleşen olaydır, bu yüzden bu sıralama yanlıştır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Öğrencinin farklı Türk devletleri döneminde gerçekleşen önemli savaşların tarihlerini ve dolayısıyla kronolojik sıralamasını karıştırmasıdır."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-014",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Bu soru, Türk-İslam edebiyatının ilk dönem eserleri ve yazarları hakkındaki temel bilgiyi ölçmektedir.",
+    "ozet": "Türklerin İslamiyet'i kabul etmesiyle birlikte, Orta Asya'da **Karahanlılar** döneminde önemli bir kültürel ve edebi gelişim yaşanmıştır. Bu dönemde Türkçe'nin resmi dil olarak benimsenmesi, ilk Türk-İslam edebi eserlerinin ortaya çıkmasına zemin hazırlamıştır. Sınavlarda sıklıkla karşımıza çıkan bu eserler ve yazarları şunlardır: **Kutadgu Bilig** (Yusuf Has Hacip), **Divanü Lügati't-Türk** (Kaşgarlı Mahmut), **Atabetü'l Hakayık** (Edip Ahmet Yükneki) ve **Divan-ı Hikmet** (Hoca Ahmet Yesevi). Bu dört eserin yazarı ve ana konusu, Türk-İslam kültürü ve edebiyatının temel taşlarını oluşturur. Bu bilgileri bilmek, ilgili soruları kolayca çözmenizi sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-023",
+        "stem": "Aşağıdakilerden hangisi İslamiyet'in kabulünden sonra yazılan Kutadgu Bilig eserinin yazarıdır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Fuzuli",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Yusuf Has Hacib",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Ali Şir Nevai",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Kaşgarlı Mahmud",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Ahmet Yesevi",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-014-t1",
+        "stem": "Aşağıdakilerden hangisi, Türklerin İslamiyet'i kabul etmesinden sonraki ilk dönemlerde kaleme alınan edebi eserlerden biri değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kutadgu Bilig",
+            "explanation": "Kutadgu Bilig, Karahanlılar döneminde Yusuf Has Hacip tarafından yazılan ve ilk siyasetname örneği olan önemli bir Türk-İslam eseridir."
+          },
+          {
+            "id": "B",
+            "text": "Divanü Lügati't-Türk",
+            "explanation": "Divanü Lügati't-Türk, Kaşgarlı Mahmut tarafından Araplara Türkçe öğretmek amacıyla yazılan ilk Türkçe sözlük ve ansiklopedi niteliğindeki önemli bir Türk-İslam eseridir."
+          },
+          {
+            "id": "C",
+            "text": "Atabetü'l Hakayık",
+            "explanation": "Atabetü'l Hakayık, Edip Ahmet Yükneki tarafından yazılan, ahlak ve öğüt konulu önemli bir Türk-İslam eseridir."
+          },
+          {
+            "id": "D",
+            "text": "Divan-ı Hikmet",
+            "explanation": "Divan-ı Hikmet, Hoca Ahmet Yesevi tarafından yazılan ilk tasavvuf ve tekke edebiyatı eseridir ve Türklerin İslamiyet'i kabulünden sonraki dönemde kaleme alınmıştır."
+          },
+          {
+            "id": "E",
+            "text": "Orhun Yazıtları",
+            "explanation": "Orhun Yazıtları, İslamiyet öncesi döneme, II. Göktürk Devleti'ne ait olan ve Türk tarihinin ilk yazılı belgeleri sayılan eserlerdir. Dolayısıyla İslamiyet'in kabulünden sonra yazılmamıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "İslamiyet öncesi ve sonrası eserleri karıştırmak, bu sorudaki en yaygın tuzaktır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-014-t2",
+        "stem": "Aşağıdaki Karahanlılar dönemi Türk-İslam eserleri ve yazarları eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Atabetü'l Hakayık - Hoca Ahmet Yesevi",
+            "explanation": "Atabetü'l Hakayık'ın yazarı Edip Ahmet Yükneki'dir. Hoca Ahmet Yesevi, Divan-ı Hikmet'in yazarıdır. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Kutadgu Bilig - Yusuf Has Hacip",
+            "explanation": "Kutadgu Bilig'in yazarı Yusuf Has Hacip'tir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Divanü Lügati't-Türk - Kaşgarlı Mahmut",
+            "explanation": "Divanü Lügati't-Türk'ün yazarı Kaşgarlı Mahmut'tur. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Divan-ı Hikmet - Hoca Ahmet Yesevi",
+            "explanation": "Divan-ı Hikmet'in yazarı Hoca Ahmet Yesevi'dir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Kutadgu Bilig - İlk siyasetname",
+            "explanation": "Kutadgu Bilig, 'mutluluk veren bilgi' anlamına gelir ve ilk siyasetname özelliği taşır. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Eser-yazar eşleştirmelerinde isimlerin karıştırılması, özellikle benzer dönemlerde yaşamış yazarların eserleri arasındaki ayrımı gözden kaçırmak yaygın bir hatadır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-014-t3",
+        "stem": "Karahanlılar döneminde yazılan ilk Türk-İslam eserleri ve konularıyla ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kutadgu Bilig, Yusuf Has Hacip tarafından yazılmış ilk siyasetname örneğidir.",
+            "explanation": "Kutadgu Bilig, Yusuf Has Hacip'in kaleme aldığı ve devlet yönetimi hakkında bilgi veren ilk siyasetname niteliğindedir. Bu ifade doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Divan-ı Hikmet, Hoca Ahmet Yesevi tarafından yazılmış, Türk edebiyatının ilk mesnevi örneğidir.",
+            "explanation": "Divan-ı Hikmet, Hoca Ahmet Yesevi tarafından yazılmış ilk tasavvuf ve tekke edebiyatı eseridir, ancak Türk edebiyatının ilk mesnevi örneği değildir. İlk mesnevi örneği Kutadgu Bilig'dir. Bu ifade yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "Divanü Lügati't-Türk, Kaşgarlı Mahmut tarafından Araplara Türkçe öğretmek amacıyla yazılmış bir sözlüktür.",
+            "explanation": "Divanü Lügati't-Türk, Kaşgarlı Mahmut'un Araplara Türkçe'yi öğretmek ve Türk kültürünü tanıtmak amacıyla yazdığı ilk Türkçe sözlük ve ansiklopedidir. Bu ifade doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Atabetü'l Hakayık, ahlaki öğütler içeren ve 'Hakikatlerin Eşiği' anlamına gelen bir eserdir.",
+            "explanation": "Atabetü'l Hakayık, Edip Ahmet Yükneki tarafından yazılmış, ahlak ve öğüt konulu bir eserdir ve adı 'Hakikatlerin Eşiği' anlamına gelir. Bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Bu eserlerin tamamı Karahanlılar döneminde, Türkçe'nin resmi dil olarak kullanıldığı bir ortamda ortaya çıkmıştır.",
+            "explanation": "Bahsedilen dört eser de Karahanlılar döneminde yazılmış olup, Karahanlıların Türkçe'yi resmi dil olarak benimsemesi bu eserlerin Türkçe kaleme alınmasında önemli rol oynamıştır. Bu ifade doğrudur."
+          }
+        ],
+        "correct": "B",
+        "trick": "Eserlerin tür ve konu özelliklerini karıştırmak veya yanlış bir edebi terimle ilişkilendirmek yanıltıcı olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-015",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Bu soru, Türkiye Cumhuriyeti'nin ilk milli kazı alanı bilgisini ölçmektedir.",
+    "ozet": "Türkiye Cumhuriyeti'nin kültürel ve tarihi mirasına verdiği önem, **Atatürk**'ün direktifleriyle başlayan bazı projelere yansımıştır. Özellikle arkeolojik kazı çalışmaları, milli kimliğin inşasında ve Anadolu'nun zengin geçmişinin ortaya çıkarılmasında kritik rol oynamıştır. **Remzi Oğuz Arık** gibi önemli isimlerin öncülüğünde başlatılan bu kazılar, Türkiye'nin kendi tarihine sahip çıkma iradesini göstermiştir. Bu dönemde gerçekleştirilen ilk milli kazı alanı, Anadolu'nun köklü medeniyetlerine ışık tutan ve günümüzde de önemini koruyan bir noktadır. Bu bilgiyi bilmeniz, benzer soruları kolayca çözmenizi sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-025",
+        "stem": "Atatürk'ün emriyle Remzi Oğuz Arık tarafından başlatılan Türkiye'nin ilk milli kazı alanı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Alacahöyük",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Efes",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Aphrodisias",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Aizanoi",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Truva",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-015-t1",
+        "stem": "Türkiye Cumhuriyeti'nin ilk kadın arkeoloğu kimdir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Halet Çambel",
+            "explanation": "Halet Çambel, Türkiye'nin önde gelen arkeologlarından biridir ancak ilk kadın arkeolog unvanına sahip değildir."
+          },
+          {
+            "id": "B",
+            "text": "Nermin Erdentuğ",
+            "explanation": "Nermin Erdentuğ, Türkiye'nin önemli antropologlarından biridir, arkeolog değildir."
+          },
+          {
+            "id": "C",
+            "text": "Jale İnan",
+            "explanation": "Jale İnan, ders notunda belirtildiği üzere Türkiye Cumhuriyeti'nin ilk kadın arkeoloğudur."
+          },
+          {
+            "id": "D",
+            "text": "Muazzez İlmiye Çığ",
+            "explanation": "Muazzez İlmiye Çığ, Sümeroloji alanında önemli çalışmaları olan bir bilim insanıdır, ancak ilk kadın arkeolog değildir."
+          },
+          {
+            "id": "E",
+            "text": "Afife Batur",
+            "explanation": "Afife Batur, mimarlık tarihi alanında önemli bir isimdir, arkeolog değildir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Verilen isimlerin her birinin farklı alanlarda önemli çalışmalar yapmış olması, doğru cevabı bulmayı zorlaştırabilir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-015-t2",
+        "stem": "Aşağıdakilerden hangisi balneoterapi tanımı içinde yer almaz?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Termal suların tedavi amaçlı kullanılması",
+            "explanation": "Termal suların kullanımı balneoterapinin temel unsurlarından biridir."
+          },
+          {
+            "id": "B",
+            "text": "Çamur uygulamalarının tedaviye destek olması",
+            "explanation": "Çamur uygulamaları balneoterapinin bir parçasıdır."
+          },
+          {
+            "id": "C",
+            "text": "Gazların soluma yoluyla tedaviye dahil edilmesi",
+            "explanation": "Gazların soluma yoluyla kullanımı balneoterapi yöntemleri arasındadır."
+          },
+          {
+            "id": "D",
+            "text": "Cerrahi müdahalelerle hastalıkların iyileştirilmesi",
+            "explanation": "Balneoterapi, cerrahi müdahale içermeyen, doğal kaynaklarla yapılan bir tedavi yöntemidir."
+          },
+          {
+            "id": "E",
+            "text": "Kaplıca tedavisi olarak da bilinmesi",
+            "explanation": "Balneoterapi, 'kaplıca tedavisi' olarak da adlandırılır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Tanımın içinde yer alan olumlu ifadelerin arasına olumsuz bir ifade sıkıştırılarak dikkat dağıtılmaya çalışılmıştır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-015-t3",
+        "stem": "Roma Cumhuriyeti'ni sona erdirerek Roma İmparatorluğu dönemini başlatan ilk imparator kimdir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Julius Caesar",
+            "explanation": "Julius Caesar, Roma Cumhuriyeti'nin son dönemlerinde önemli bir figürdü ancak imparatorluk dönemini başlatan kişi değildir."
+          },
+          {
+            "id": "B",
+            "text": "Nero",
+            "explanation": "Nero, Roma İmparatorluğu'nun daha sonraki dönemlerinde hüküm sürmüş bir imparatordur."
+          },
+          {
+            "id": "C",
+            "text": "Constantine I",
+            "explanation": "Constantine I (Büyük Konstantin), Roma İmparatorluğu'nun Hristiyanlığı resmi din haline getiren ve başkenti İstanbul'a taşıyan önemli bir imparatordur, ancak ilk imparator değildir."
+          },
+          {
+            "id": "D",
+            "text": "Diocletian",
+            "explanation": "Diocletian, Roma İmparatorluğu'nu yeniden yapılandıran ve Tetrarkhi sistemini kuran bir imparatordur, ancak ilk imparator değildir."
+          },
+          {
+            "id": "E",
+            "text": "Augustus",
+            "explanation": "Ders notunda belirtildiği gibi, Augustus Roma Cumhuriyeti'ni sona erdirip Roma İmparatorluğu dönemini başlatan ilk imparatordur."
+          }
+        ],
+        "correct": "E",
+        "trick": "Roma İmparatorluğu'nun diğer önemli imparatorlarının isimleri arasına doğru cevabın yerleştirilmesi, genel tarih bilgisi olmayanlar için yanıltıcı olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-016",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Orhun Yazıtları'nın coğrafi konumu ve II. Göktürk Kağanlığı ile ilişkisi temel bilgidir.",
+    "ozet": "MKS sınavında **Orhun Yazıtları** sıklıkla karşınıza çıkacaktır. Bu yazıtlar, **Türk edebiyatının ve tarihinin ilk yazılı belgeleri** olarak kabul edilir ve **II. Göktürk (Kutluk) Devleti** dönemine aittir. Bilge Kağan, Kül Tigin ve Vezir Tonyukuk adına dikilmişlerdir. Yazıtlar, Türk milletine seslenen ilk siyasi metin olma özelliğini taşır ve **Yolluğ Tigin** tarafından yazılmıştır. En önemlisi, günümüzde **Moğolistan** sınırları içerisindedirler. Bu temel bilgileri bilmek, Orhun Yazıtları ile ilgili çoğu soruyu doğru yanıtlamanızı sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-071",
+        "stem": "Orhun Yazıtları aşağıdaki ülkelerden hangisinin sınırları içindedir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Moğolistan",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Kore",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Azerbaycan",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Çin",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "İran",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-016-t1",
+        "stem": "II. Göktürk (Kutluk) Devleti dönemine ait olan Orhun Yazıtları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yazıtlar, Bumin Kağan adına dikilmiştir.",
+            "explanation": "Bu ifade yanlıştır. Orhun Yazıtları, Bilge Kağan, Kül Tigin ve Vezir Tonyukuk adına dikilmiştir, Bumin Kağan adına dikilmemiştir."
+          },
+          {
+            "id": "B",
+            "text": "Yazıtlarda Türk adının geçtiği ilk siyasi metin olma özelliği taşır.",
+            "explanation": "Bu ifade doğrudur. Orhun Yazıtları, Türk adının geçtiği ve halka hesap veren ilk siyasi metin olarak kabul edilir."
+          },
+          {
+            "id": "C",
+            "text": "Türk edebiyatının ve Türk tarihinin ilk yazılı belgeleri arasında yer alır.",
+            "explanation": "Bu ifade doğrudur. Orhun Yazıtları, Türk edebiyatının ve tarihinin ilk yazılı belgeleri olarak bilinir."
+          },
+          {
+            "id": "D",
+            "text": "Yolluğ Tigin tarafından kaleme alınmıştır.",
+            "explanation": "Bu ifade doğrudur. Orhun Yazıtları'nı Yolluğ Tigin yazmıştır."
+          },
+          {
+            "id": "E",
+            "text": "Göktürk alfabesiyle yazılmış olup, bu alfabe 38 harften oluşmaktadır.",
+            "explanation": "Bu ifade doğrudur. Orhun Yazıtları Göktürk alfabesiyle yazılmıştır ve bu alfabe 38 harflidir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Bumin Kağan'ın Göktürk Devleti'nin kurucusu olması, yazıtların da onun adına dikildiği yanılgısını yaratabilir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-016-t2",
+        "stem": "Aşağıdakilerden hangisi Orhun Yazıtları'nın özellikleri arasında gösterilemez?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bilge Kağan ve Kül Tigin gibi önemli şahsiyetlerin adını taşır.",
+            "explanation": "Bu ifade doğrudur. Yazıtlar, Bilge Kağan, Kül Tigin ve Tonyukuk adına dikilmiştir."
+          },
+          {
+            "id": "B",
+            "text": "Türklerin yerleşik hayata geçişini anlatan önemli belgelerdendir.",
+            "explanation": "Bu ifade yanlıştır. Orhun Yazıtları, Türklerin yerleşik hayata geçişini değil, devlet yönetimi, töre, Türk milletine sesleniş ve savaşları konu alır. Yerleşik hayata geçen ilk Türk topluluğu Uygurlardır."
+          },
+          {
+            "id": "C",
+            "text": "Türk tarihinin ve edebiyatının ilk yazılı eserleridir.",
+            "explanation": "Bu ifade doğrudur. Orhun Yazıtları, Türk tarihinin ve edebiyatının ilk yazılı belgeleri olarak kabul edilir."
+          },
+          {
+            "id": "D",
+            "text": "II. Göktürk (Kutluk) Devleti döneminde yazılmışlardır.",
+            "explanation": "Bu ifade doğrudur. Yazıtlar, II. Göktürk Kağanlığı dönemine aittir."
+          },
+          {
+            "id": "E",
+            "text": "Günümüzde Moğolistan sınırları içerisinde bulunmaktadır.",
+            "explanation": "Bu ifade doğrudur. Orhun Yazıtları'nın bulunduğu coğrafya günümüzde Moğolistan'dadır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Öğrencilerin Türklerin genel yaşam tarzı ile yazıtların içeriğini karıştırması."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-016-t3",
+        "stem": "Aşağıdaki Türk devletlerinden hangisinin dönemine ait olan Orhun Yazıtları, Türkçenin ilk yazılı örneklerinden biri olarak kabul edilir ve günümüzde Moğolistan sınırları içinde yer alır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Asya Hun Devleti",
+            "explanation": "Asya Hun Devleti, bilinen ilk Türk devleti olmasına rağmen Orhun Yazıtları bu döneme ait değildir."
+          },
+          {
+            "id": "B",
+            "text": "Avrupa Hun Devleti",
+            "explanation": "Avrupa Hun Devleti, Kavimler Göçü'nü başlatan ve Avrupa'da etkili olan bir devlettir, Orhun Yazıtları ile ilişkisi yoktur."
+          },
+          {
+            "id": "C",
+            "text": "Göktürk (Kutluk) Devleti",
+            "explanation": "Bu ifade doğrudur. Orhun Yazıtları, II. Göktürk (Kutluk) Devleti dönemine aittir."
+          },
+          {
+            "id": "D",
+            "text": "Uygurlar",
+            "explanation": "Uygurlar, yerleşik hayata geçen ilk Türk topluluğudur ve kendilerine ait farklı bir alfabe kullanmışlardır, Orhun Yazıtları onlara ait değildir."
+          },
+          {
+            "id": "E",
+            "text": "Karahanlılar",
+            "explanation": "Karahanlılar, ilk Müslüman Türk devleti olup, ilk Türk-İslam edebi eserlerini vermişlerdir, Orhun Yazıtları bu döneme ait değildir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Farklı Türk devletlerinin önemli kültürel miraslarını karıştırma ihtimali."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-017",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Anadolu Selçuklu Devleti'nin kuruluşuna dair temel bilgileri ve kurucu ismini bilmek.",
+    "ozet": "Anadolu Selçuklu Devleti, Türklerin Anadolu'yu yurt edinme sürecindeki en önemli devletlerden biridir. Bu devletin kuruluşu, Türklerin Anadolu'daki varlığını pekiştirmiş ve bölgenin kültürel ve siyasi yapısını derinden etkilemiştir. Devleti **Kutalmışoğlu Süleyman Şah** 1077'de İznik'te kurmuştur. Başkenti daha sonra Konya'ya taşınmıştır. **1243 Kösedağ Savaşı** ile Moğol egemenliğine girerek yıkılış sürecine girmiş, bu durum **Anadolu Beylikleri**'nin ortaya çıkışına zemin hazırlamıştır. Ticaret yollarının güvenliğini sağlamak amacıyla **kervansaraylar** inşa edilmesi ve **devlet sigortası** uygulaması gibi politikalarla ticareti canlandırmıştır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-073",
+        "stem": "Aşağıdakilerden hangisi Anadolu Selçuklu Devleti'nin kurucusudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I. Alaeddin Keykubad",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Tuğrul Bey",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Kutalmışoğlu Süleyman Şah",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "I. Kılıç Arslan",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "I. İzzeddin Keykavus",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-017-t1",
+        "stem": "Aşağıdakilerden hangisi Anadolu Selçuklu Devleti'nin başkentleri arasında yer almaz?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İznik",
+            "explanation": "İznik, Anadolu Selçuklu Devleti'nin kurulduğu ve ilk başkenti olduğu şehirdir."
+          },
+          {
+            "id": "B",
+            "text": "Konya",
+            "explanation": "Konya, I. Kılıç Arslan döneminde İznik'ten sonra başkent yapılan şehirdir ve devletin önemli merkezlerinden biri olmuştur."
+          },
+          {
+            "id": "C",
+            "text": "Kayseri",
+            "explanation": "Kayseri, Anadolu Selçuklu Devleti döneminde önemli bir şehir ve kervansaray ağı üzerinde yer alan bir merkezdi, ancak başkent değildi."
+          },
+          {
+            "id": "D",
+            "text": "Sivas",
+            "explanation": "Sivas, Anadolu Selçuklu Devleti döneminde önemli bir ticaret ve kültür merkezi olmasına rağmen, devletin başkenti olmamıştır."
+          },
+          {
+            "id": "E",
+            "text": "Alanya",
+            "explanation": "Alanya, I. Alaeddin Keykubat döneminde fethedilen ve önemli bir liman şehri olan Alanya (Alaiye), başkentlik yapmamıştır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Öğrencinin Anadolu Selçuklu şehirlerini bilmesi ancak başkent ayrımını yapamaması bu soruyu kaçırtır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-017-t2",
+        "stem": "Anadolu Selçuklu Devleti'nin yıkılış sürecine girmesine neden olan savaş aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Malazgirt Savaşı",
+            "explanation": "Malazgirt Savaşı (1071), Bizans'a karşı kazanılmış ve Anadolu'nun kapılarını Türklere açmıştır. Selçuklu'nun kuruluş sürecine katkıda bulunmuştur, yıkılışına neden olmamıştır."
+          },
+          {
+            "id": "B",
+            "text": "Dandanakan Savaşı",
+            "explanation": "Dandanakan Savaşı (1040), Büyük Selçuklu Devleti'nin Gaznelilere karşı kazandığı ve kuruluşunu sağlayan savaştır, Anadolu Selçuklu'nun yıkılışıyla ilgili değildir."
+          },
+          {
+            "id": "C",
+            "text": "Miryokefalon Savaşı",
+            "explanation": "Miryokefalon Savaşı (1176), Anadolu Selçuklu Devleti'nin Bizans'a karşı kazandığı ve Anadolu'nun kesin olarak Türk yurdu olduğunu tescilleyen savaştır. Yıkılışa değil, güçlenmeye yol açmıştır."
+          },
+          {
+            "id": "D",
+            "text": "Talas Savaşı",
+            "explanation": "Talas Savaşı (751), Karluk Türklerinin Arapların yanında yer alarak Çinlilere karşı kazandığı ve Türklerin İslamiyet'i kitleler halinde kabul etme sürecini başlatan savaştır. Anadolu Selçuklu ile doğrudan bir ilişkisi yoktur."
+          },
+          {
+            "id": "E",
+            "text": "Kösedağ Savaşı",
+            "explanation": "Kösedağ Savaşı (1243), Anadolu Selçuklu Devleti'nin Moğollara (İlhanlılar) yenilmesiyle sonuçlanmış ve devletin yıkılış sürecine girmesine neden olmuştur."
+          }
+        ],
+        "correct": "E",
+        "trick": "Öğrencinin Türk tarihi içindeki farklı savaşların sonuçlarını karıştırması bu soruyu kaçırtır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-017-t3",
+        "stem": "Anadolu Selçuklu Devleti'nin ticareti geliştirmeye yönelik faaliyetleri arasında aşağıdakilerden hangisi yer almaz?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İpek Yolu'nu tamamen kendi kontrolüne almak",
+            "explanation": "Anadolu Selçuklu Devleti, İpek Yolu üzerinde önemli bir konumda olsa da, tüm İpek Yolu'nu 'tamamen kendi kontrolüne almak' gibi bir amacı ya da gücü notta belirtilmemiştir. Daha çok Anadolu içindeki ticareti güvence altına almaya ve limanlarla deniz ticaretini geliştirmeye odaklanmıştır."
+          },
+          {
+            "id": "B",
+            "text": "Kervansaraylar inşa etmek",
+            "explanation": "Kervansaraylar, tüccarların güvenli konaklaması için inşa edilmiş ve ticareti canlandırmıştır."
+          },
+          {
+            "id": "C",
+            "text": "Devlet sigortası uygulaması başlatmak",
+            "explanation": "Devlet, yolda soyulan tüccarın zararını hazineden karşılayarak bir nevi devlet sigortası uygulamıştır."
+          },
+          {
+            "id": "D",
+            "text": "Gümrük kolaylıkları sağlamak",
+            "explanation": "Ticareti teşvik etmek amacıyla gümrük kolaylıkları sağlanmıştır."
+          },
+          {
+            "id": "E",
+            "text": "Deniz limanlarını (Antalya, Alanya, Sinop) fethetmek",
+            "explanation": "Deniz limanlarının fethedilmesi, Anadolu Selçuklu Devleti'nin deniz ticaretini kontrol etmesini ve geliştirmesini sağlamıştır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Öğrencinin 'ticareti geliştirmek' kavramının sınırlarını yanlış yorumlaması ve 'tamamen kendi kontrolüne almak' gibi iddialı bir ifadenin yanlışlığını gözden kaçırması bu soruyu kaçırtır."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-018",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "Uygurların Maniheizm dinini hangi kağan döneminde kabul ettiğini bilmek.",
+    "ozet": "Uygurlar, **yerleşik hayata geçen ilk Türk topluluğudur**. Bu durum, onların şehircilik, mimari ve resim gibi sanatlarda gelişmesini sağlamıştır. Uygurların yaşam tarzındaki bu köklü değişimde, kabul ettikleri dinlerin büyük etkisi olmuştur. Özellikle **Maniheizm** ve Budizm dinlerini benimsemişlerdir. Maniheizm, et yemeyi ve savaşmayı yasaklayan bir din olduğu için, Uygurların **savaşçı özelliklerini kaybetmelerine** ve tarım gibi yerleşik hayata uygun faaliyetlere yönelmelerine neden olmuştur. Bu dinin kabulü, Uygur tarihi içinde belirli bir kağan döneminde gerçekleşmiştir.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-076",
+        "stem": "Maniheizm dini aşağıdaki Uygur kağanlarından hangisi zamanında kabul edilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bögü Kağan",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Bayan Çor Kağan",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Üge Kağan",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Tafgaç Oğulçak Kadir Han",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Küçlüg Bilge Kağan",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-018-t1",
+        "stem": "Aşağıdakilerden hangisi, Uygurların Maniheizm dinini kabul etmesinin sonuçlarından biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Savaşçı özelliklerini kaybetmeleri",
+            "explanation": "Maniheizm dini et yemeyi ve savaşmayı yasakladığı için, Uygurların savaşçı özelliklerini kaybetmesine neden olmuştur. Bu, dinin kabulünün bir sonucudur."
+          },
+          {
+            "id": "B",
+            "text": "Matbaayı ve kâğıdı kullanmaya başlamaları",
+            "explanation": "Uygurlar matbaayı ve kâğıdı kullanmışlardır, ancak bu durum Maniheizm dinini kabul etmelerinin doğrudan bir sonucu değildir. Bu, genel kültürel gelişimlerinin bir parçasıdır ve din değişimiyle doğrudan ilişkilendirilmemiştir."
+          },
+          {
+            "id": "C",
+            "text": "Yerleşik hayata geçmeleri",
+            "explanation": "Maniheizm'in etkisiyle Uygurlar yerleşik hayata geçmiş ve tarım gibi faaliyetlere yönelmişlerdir. Bu, dinin kabulünün bir sonucudur."
+          },
+          {
+            "id": "D",
+            "text": "Şehircilik ve mimaride gelişmeleri",
+            "explanation": "Yerleşik hayata geçişin bir sonucu olarak Uygurlarda şehircilik ve mimari gelişmiştir. Bu da Maniheizm'in kabulünün dolaylı bir sonucudur."
+          },
+          {
+            "id": "E",
+            "text": "Fresk (duvar resmi) sanatının gelişmesi",
+            "explanation": "Yerleşik hayata geçiş ve mimarinin gelişmesiyle birlikte resim sanatı (fresk/minyatür) da Uygurlarda gelişmiştir. Bu, dinin kabulünün dolaylı bir sonucudur."
+          }
+        ],
+        "correct": "B",
+        "trick": "Maniheizm'in doğrudan etkilediği sonuçlar ile genel kültürel gelişmeleri ayırt edememek, bu soruyu kaçırtan tuzaktır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-018-t2",
+        "stem": "Uygurlar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yerleşik hayata geçen ilk Türk topluluğudur.",
+            "explanation": "Ders notunda belirtildiği gibi, Uygurlar yerleşik hayata geçen ilk Türk topluluğudur, bu ifade doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Maniheizm dinini Bögü Kağan döneminde kabul etmişlerdir.",
+            "explanation": "Ders notunda açıkça belirtildiği gibi, Uygurlar Maniheizm dinini Bögü Kağan döneminde kabul etmişlerdir, bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Savaşçı özelliklerini koruyarak güçlü bir orduya sahip olmuşlardır.",
+            "explanation": "Ders notunda Maniheizm'in et yemeyi ve savaşmayı yasaklaması nedeniyle Uygurların savaşçı özelliklerini kaybettiği belirtilmiştir. Bu nedenle bu ifade yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "18 harfli Uygur alfabesini kullanmışlardır.",
+            "explanation": "Ders notunda Uygurların 18 harfli Uygur alfabesini kullandıkları belirtilmiştir, bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Matbaayı ve kâğıdı kullanan ilk Türk devletlerinden biridir.",
+            "explanation": "Ders notunda Uygurların matbaayı ve kâğıdı kullandıkları belirtilmiştir, bu ifade doğrudur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Uygurların Maniheizm ile birlikte savaşçı özelliklerini kaybettiği bilgisini gözden kaçırmak, bu soruyu kaçırtan tuzaktır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-018-t3",
+        "stem": "Aşağıdaki Türk devletleri ve kabul ettikleri din eşleştirmelerinden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hazarlar - Budizm",
+            "explanation": "Hazarlar, ders notunda belirtildiği üzere Museviliği benimseyen tek Türk devletidir, Budizm değil."
+          },
+          {
+            "id": "B",
+            "text": "Karahanlılar - Gök Tanrı",
+            "explanation": "Karahanlılar, ilk Müslüman Türk devleti olup İslamiyet'i kabul etmişlerdir, Gök Tanrı inancı değil."
+          },
+          {
+            "id": "C",
+            "text": "Avrupa Hunları - Hristiyanlık",
+            "explanation": "Avrupa Hunları, Attila döneminde Gök Tanrı inancına bağlı kalmışlardır, Hristiyanlık değil. Notta bu bilgi doğrudan yer almamakla birlikte, diğer seçeneklerin nottan açıkça yanlış olduğu görülebilir."
+          },
+          {
+            "id": "D",
+            "text": "Uygurlar - Maniheizm",
+            "explanation": "Ders notunda açıkça belirtildiği gibi, Uygurlar Maniheizm dinini benimsemişlerdir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Köktürkler - İslamiyet",
+            "explanation": "Köktürkler, Gök Tanrı inancına sahip olmuşlardır ve Orhun Yazıtları'nda bu inanç vurgulanmıştır, İslamiyet değil."
+          }
+        ],
+        "correct": "D",
+        "trick": "Farklı Türk devletlerinin benimsediği dinleri karıştırmak veya ders notunda yer almayan genel bilgilerle karıştırmak, bu soruyu kaçırtan tuzaktır."
+      }
+    ]
+  },
+  {
+    "id": "aile-genel-turk-tarihi-019",
+    "topicId": "genel-turk-tarihi",
+    "cekirdek": "II. Göktürk Kağanlığı'nın kurucusu ve bu devletin önemli şahsiyetleri bilgisini ölçer.",
+    "ozet": "Türk adını devlet adı olarak kullanan ilk devlet olan **Göktürk Devleti**, **Bumin Kağan** tarafından kurulmuştur. Ancak ders notlarında özellikle vurgulandığı gibi, **II. Göktürk (Kutluk) Devleti**'nin kurucusu **Kutluk Kağan**'dır. Bu dönemde **Bilge Kağan, Kül Tigin** ve **Vezir Tonyukuk** gibi önemli figürler de yer almıştır. **Orhun Yazıtları** da bu döneme aittir ve Türk edebiyatının ilk yazılı belgeleri olarak büyük önem taşır. Sınavlarda genellikle bu iki Göktürk devleti arasındaki ayrım ve kurucuları karıştırılmaya çalışılır, bu yüzden bu detaya dikkat etmek önemlidir.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-092",
+        "stem": "II. Göktürk Kağanlığı'nın kurucusu aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mukan Kağan",
+            "explanation": "Cevap anahtarına göre doğru şık E. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Oğuz Kağan",
+            "explanation": "Cevap anahtarına göre doğru şık E. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Bumin Kağan",
+            "explanation": "Cevap anahtarına göre doğru şık E. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Tengri Kağan",
+            "explanation": "Cevap anahtarına göre doğru şık E. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Kutluk Kağan",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "E",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-genel-turk-tarihi-019-t1",
+        "stem": "Aşağıdakilerden hangisi II. Göktürk (Kutluk) Kağanlığı döneminin önemli şahsiyetlerinden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bilge Kağan",
+            "explanation": "Bilge Kağan, II. Göktürk Kağanlığı'nın önemli hükümdarlarından biridir ve Orhun Yazıtları onun adına dikilmiştir."
+          },
+          {
+            "id": "B",
+            "text": "Kül Tigin",
+            "explanation": "Kül Tigin, Bilge Kağan'ın kardeşi ve komutanıdır. Orhun Yazıtları'nın dikildiği önemli şahsiyetlerden biridir."
+          },
+          {
+            "id": "C",
+            "text": "Vezir Tonyukuk",
+            "explanation": "Vezir Tonyukuk, II. Göktürk Kağanlığı'nın önemli devlet adamı ve bilgesidir. Orhun Yazıtları'ndan biri de onun adına dikilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Kutluk Kağan",
+            "explanation": "Kutluk Kağan, II. Göktürk (Kutluk) Kağanlığı'nın kurucusudur."
+          },
+          {
+            "id": "E",
+            "text": "Bumin Kağan",
+            "explanation": "Bumin Kağan, 'Türk' adını devlet adı olarak kullanan ilk devlet olan Göktürk Devleti'nin kurucusudur. II. Göktürk (Kutluk) Kağanlığı döneminde yaşamamıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Göktürk Devleti ve II. Göktürk (Kutluk) Devleti kurucularını karıştırmak bu soruyu yanlış çözmeye neden olabilir."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-019-t2",
+        "stem": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Uygurlar - Yolluğ Tigin",
+            "explanation": "Yolluğ Tigin, Orhun Yazıtları'nı yazan kişidir ve II. Göktürk Kağanlığı dönemine aittir. Uygurlar ile ilişkili değildir. Eşleştirme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Asya Hun Devleti - Mete Han",
+            "explanation": "Mete Han, Asya Hun Devleti'nin en güçlü dönemini yaşatan hükümdarıdır. Eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Avrupa Hun Devleti - Attila",
+            "explanation": "Attila, Avrupa Hun Devleti'nin en bilinen ve etkili hükümdarıdır. Eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Göktürk Devleti - Bumin Kağan",
+            "explanation": "Bumin Kağan, 'Türk' adını devlet adı olarak kullanan ilk devlet olan Göktürk Devleti'nin kurucusudur. Eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Karahanlılar - Satuk Buğra Han",
+            "explanation": "Satuk Buğra Han, Karahanlı Devleti'nde İslamiyet'i resmen kabul eden ve Abdülkerim adını alan hükümdardır. Eşleştirme doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Farklı Türk devletlerinin önemli şahsiyetlerini karıştırmak, özellikle yazıtları yazan kişi ile devleti ilişkilendirmede hata yapmak tuzağıdır."
+      },
+      {
+        "id": "aile-genel-turk-tarihi-019-t3",
+        "stem": "II. Göktürk (Kutluk) Kağanlığı dönemine ait olan Orhun Yazıtları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yazıtlar, Bumin Kağan adına dikilmiştir.",
+            "explanation": "Orhun Yazıtları, Bilge Kağan, Kül Tigin ve Tonyukuk adına dikilmiştir, Bumin Kağan adına dikilmemiştir."
+          },
+          {
+            "id": "B",
+            "text": "Yolluğ Tigin tarafından yazılmıştır.",
+            "explanation": "Ders notunda açıkça belirtildiği gibi Orhun Yazıtları Yolluğ Tigin tarafından yazılmıştır. Bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Türk tarihinin bilinen ilk sözlü belgeleridir.",
+            "explanation": "Orhun Yazıtları, Türk edebiyatının ve Türk tarihinin ilk yazılı belgeleridir, sözlü değil."
+          },
+          {
+            "id": "D",
+            "text": "Günümüzde Çin sınırları içerisinde yer almaktadır.",
+            "explanation": "Orhun Yazıtları günümüzde Moğolistan sınırları içerisindedir."
+          },
+          {
+            "id": "E",
+            "text": "Sadece Bilge Kağan'ın halka yönelik öğütlerini içerir.",
+            "explanation": "Yazıtlar, Bilge Kağan, Kül Tigin ve Tonyukuk adına dikilmiş olup, siyasi metinler, öğütler ve Türk milletine seslenişleri içerir, sadece Bilge Kağan'ın öğütlerini değil."
+          }
+        ],
+        "correct": "B",
+        "trick": "Orhun Yazıtları'nın kime ait olduğu ve içeriği hakkındaki detayları karıştırmak yanıltıcı olabilir."
+      }
+    ]
+  }
+]

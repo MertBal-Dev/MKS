@@ -18,9 +18,29 @@ import type { ChoiceId } from '@/lib/types';
  * Akış: gerçek çıkmış soru → kısa anlatım → aynı bilgiyi farklı açıdan yoklayan
  * 3 türev. Amaç, bilgiyi tek bir soru kalıbına değil konunun kendisine bağlamak.
  */
+/** Uzun soru gövdesini kelime sınırında keser — ortadan bölünmüş kelime bırakmaz. */
+function kisalt(s: string, n: number): string {
+  const tek = s.replace(/\s+/g, ' ').trim();
+  if (tek.length <= n) return tek;
+  const kesik = tek.slice(0, n);
+  return `${kesik.slice(0, kesik.lastIndexOf(' '))}…`;
+}
+
 export default function SoruAileleri() {
+  const { state } = useAppState();
   const [acikAile, setAcikAile] = useState<SoruAilesi | null>(null);
   const [konu, setKonu] = useState<TopicId | 'hepsi'>('hepsi');
+
+  /** Hangi aile ne kadar çözülmüş — kart durumu için. */
+  const ilerlemeler = useMemo(() => {
+    const m = new Map<string, { cozulen: number; tamam: boolean }>();
+    for (const a of aileler) {
+      const idler = [a.kaynak.soru.id, ...a.turevler.map((t) => t.id)];
+      const cozulen = idler.filter((id) => state.attempts[id]).length;
+      if (cozulen > 0) m.set(a.id, { cozulen, tamam: cozulen === idler.length });
+    }
+    return m;
+  }, [state.attempts]);
 
   const listelenen = useMemo(
     () => (konu === 'hepsi' ? aileler : aileler.filter((a) => a.topicId === konu)),
@@ -74,27 +94,55 @@ export default function SoruAileleri() {
           </div>
 
           <ul className="space-y-2.5">
-            {listelenen.map((a) => (
-              <li key={a.id}>
-                <button
-                  type="button"
-                  onClick={() => setAcikAile(a)}
-                  className="flex w-full items-start gap-3 rounded-(--radius-card) border border-line bg-surface p-4 text-left transition-colors hover:border-mercan"
-                >
-                  <div className="min-w-0 flex-1">
-                    <p className="mb-1 flex flex-wrap items-center gap-2">
-                      <span className="rounded-full bg-kobalt/15 px-2 py-0.5 text-[10px] font-semibold text-kobalt">
-                        {TOPICS[a.topicId].short}
-                      </span>
-                      <span className="text-[11px] text-muted">{a.kaynak.examTitle}</span>
-                    </p>
-                    <p className="text-sm font-medium">{a.cekirdek}</p>
-                    <p className="mt-1 text-xs text-muted">1 çıkmış soru + {a.turevler.length} türev</p>
-                  </div>
-                  <ChevronRight className="mt-1 size-4 shrink-0 text-muted" />
-                </button>
-              </li>
-            ))}
+            {listelenen.map((a) => {
+              const durum = ilerlemeler.get(a.id);
+              return (
+                <li key={a.id}>
+                  <button
+                    type="button"
+                    onClick={() => setAcikAile(a)}
+                    className="flex w-full items-start gap-3 rounded-(--radius-card) border border-line bg-surface p-4 text-left transition-colors hover:border-mercan"
+                  >
+                    <span
+                      className={`mt-0.5 grid size-8 shrink-0 place-items-center rounded-lg text-[11px] font-semibold ${
+                        durum?.tamam ? 'bg-turkuaz/15 text-turkuaz' : 'bg-raised text-muted'
+                      }`}
+                      aria-hidden
+                    >
+                      {durum?.tamam ? <Check className="size-4" strokeWidth={2.5} /> : `${1 + a.turevler.length}`}
+                    </span>
+
+                    <div className="min-w-0 flex-1">
+                      <p className="mb-1.5 flex flex-wrap items-center gap-2">
+                        <span className="rounded-full bg-kobalt/15 px-2 py-0.5 text-[10px] font-semibold text-kobalt">
+                          {TOPICS[a.topicId].short}
+                        </span>
+                        <span className="text-[11px] text-muted">{a.kaynak.examTitle}</span>
+                        {durum && !durum.tamam && (
+                          <span className="rounded-full bg-altin/15 px-2 py-0.5 text-[10px] font-semibold text-altin">
+                            YARIM · {durum.cozulen}/{1 + a.turevler.length}
+                          </span>
+                        )}
+                      </p>
+
+                      {/*
+                        Kartta sorunun KENDİSİ gösterilir, çekirdek bilgi değil.
+                        Çekirdek çoğu ailede doğrudan cevabı içeriyordu
+                        ("...tek varlığı Pamukkale-Hierapolis'tir") — liste
+                        soruları açmadan cevabı ele veriyordu.
+                      */}
+                      <p className="text-sm font-medium leading-snug">{kisalt(a.kaynak.soru.stem, 110)}</p>
+
+                      <p className="mt-1.5 text-xs text-muted">
+                        1 çıkmış soru + {a.turevler.length} türev
+                        {durum?.tamam && ' · tamamlandı'}
+                      </p>
+                    </div>
+                    <ChevronRight className="mt-1 size-4 shrink-0 text-muted" />
+                  </button>
+                </li>
+              );
+            })}
           </ul>
         </>
       )}
@@ -102,7 +150,15 @@ export default function SoruAileleri() {
   );
 }
 
-type Asama = 'kaynak' | 'ozet' | 'turev';
+/**
+ * Akışta ayrı bir "oku" ekranı YOK.
+ *
+ * Önce kaynak soru → özet ekranı → türevler şeklindeydi. Araya giren metin
+ * ekranı, çözme akışının ortasında engel gibi durup atlanıyordu. Anlatım artık
+ * kaynak sorunun cevabının hemen altında görünüyor: öğrencinin "neden?" merakı
+ * tam o anda zirvede oluyor ve bilgi orada yapışıyor.
+ */
+type Asama = 'kaynak' | 'turev';
 
 function AileCozucu({ aile, onKapat }: { aile: SoruAilesi; onKapat: () => void }) {
   const { update } = useAppState();
@@ -142,8 +198,7 @@ function AileCozucu({ aile, onKapat }: { aile: SoruAilesi; onKapat: () => void }
 
   const ilerle = () => {
     setSecim(null);
-    if (asama === 'kaynak') setAsama('ozet');
-    else if (asama === 'ozet') setAsama('turev');
+    if (asama === 'kaynak') setAsama('turev');
     else if (turevIndex < aile.turevler.length - 1) setTurevIndex((i) => i + 1);
   };
 
@@ -169,27 +224,7 @@ function AileCozucu({ aile, onKapat }: { aile: SoruAilesi; onKapat: () => void }
       </div>
 
       <AnimatePresence mode="wait">
-        {/* ── Ara ekran: kısa anlatım ─────────────────────────────── */}
-        {asama === 'ozet' ? (
-          <motion.section
-            key="ozet"
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -10 }}
-            className="rounded-(--radius-card) border border-altin/40 bg-surface p-5"
-          >
-            <p className="mb-1 text-[0.6875rem] font-semibold uppercase tracking-[0.18em] text-altin">Bunu bilirsen</p>
-            <h2 className="font-display mb-3 text-lg font-semibold">{aile.cekirdek}</h2>
-            <MarkdownView>{aile.ozet}</MarkdownView>
-            <button
-              type="button"
-              onClick={ilerle}
-              className="mt-5 w-full rounded-lg bg-mercan px-4 py-3 text-sm font-semibold text-mercan-ink"
-            >
-              Bunlar da çıkabilir — {aile.turevler.length} soru
-            </button>
-          </motion.section>
-        ) : (
+        {
           /* ── Soru ekranı ───────────────────────────────────────── */
           <motion.section
             key={`${asama}-${turevIndex}`}
@@ -261,6 +296,22 @@ function AileCozucu({ aile, onKapat }: { aile: SoruAilesi; onKapat: () => void }
                   </p>
                 )}
 
+                {/*
+                  Anlatım tam burada: öğrenci soruyu yeni çözdü, "neden?" merakı
+                  zirvede. Ayrı bir ekrana konduğunda atlanıyordu.
+                */}
+                {asama === 'kaynak' && (
+                  <div className="rounded-lg border-l-2 border-altin bg-altin/5 py-3 pl-4 pr-3">
+                    <p className="mb-1.5 text-[0.6875rem] font-semibold uppercase tracking-[0.16em] text-altin">
+                      Bunu bilirsen sonraki 3 soruyu da çözersin
+                    </p>
+                    <p className="mb-2 text-sm font-semibold">{aile.cekirdek}</p>
+                    <div className="text-[0.875rem] leading-relaxed">
+                      <MarkdownView>{aile.ozet}</MarkdownView>
+                    </div>
+                  </div>
+                )}
+
                 <button
                   type="button"
                   onClick={() =>
@@ -304,7 +355,7 @@ function AileCozucu({ aile, onKapat }: { aile: SoruAilesi; onKapat: () => void }
               </motion.div>
             )}
           </motion.section>
-        )}
+        }
       </AnimatePresence>
     </div>
   );
