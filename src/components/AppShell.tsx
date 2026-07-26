@@ -13,6 +13,7 @@ import {
   ListChecks,
   MoreHorizontal,
   Settings,
+  Sparkles,
   Upload,
   Timer,
   X,
@@ -27,6 +28,7 @@ const PRIMARY = [
   { to: '/konular', label: 'Konular', icon: BookOpen },
   { to: '/soru-bankasi', label: 'Sorular', icon: ListChecks },
   { to: '/tekrar', label: 'Tekrar', icon: Layers },
+  { to: '/soru-aileleri', label: 'Sorularla Öğren', icon: Sparkles },
 ] as const;
 
 const SECONDARY = [
@@ -125,7 +127,8 @@ export function AppShell({ children }: { children: ReactNode }) {
         style={{ paddingBottom: 'env(safe-area-inset-bottom)' }}
         aria-label="Ana gezinme"
       >
-        <div className="mx-auto grid max-w-md grid-cols-5">
+        {/* 5 ana bağlantı + "Daha" = 6 sütun; etiketler dar ekranda kırpılır */}
+        <div className="mx-auto grid max-w-md grid-cols-6">
           {PRIMARY.map(({ to, label, icon: Icon }) => (
             <NavLink
               key={to}
@@ -133,25 +136,25 @@ export function AppShell({ children }: { children: ReactNode }) {
               end={to === '/'}
               className={({ isActive }) =>
                 [
-                  'flex flex-col items-center gap-1 py-2.5 text-[11px] transition-colors',
+                  'flex min-w-0 flex-col items-center gap-1 px-0.5 py-2.5 text-[10px] transition-colors',
                   isActive ? 'text-mercan' : 'text-muted',
                 ].join(' ')
               }
             >
-              <Icon size={21} strokeWidth={1.8} aria-hidden />
-              {label}
+              <Icon size={20} strokeWidth={1.8} aria-hidden />
+              <span className="w-full truncate text-center">{label}</span>
             </NavLink>
           ))}
           <button
             type="button"
             onClick={() => setSheetOpen(true)}
             className={[
-              'flex flex-col items-center gap-1 py-2.5 text-[11px] transition-colors',
+              'flex min-w-0 flex-col items-center gap-1 px-0.5 py-2.5 text-[10px] transition-colors',
               moreActive ? 'text-mercan' : 'text-muted',
             ].join(' ')}
           >
-            <MoreHorizontal size={21} strokeWidth={1.8} aria-hidden />
-            Daha
+            <MoreHorizontal size={20} strokeWidth={1.8} aria-hidden />
+            <span className="w-full truncate text-center">Daha</span>
           </button>
         </div>
       </nav>

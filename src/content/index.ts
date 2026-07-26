@@ -1,4 +1,12 @@
 import type { Exam, Question, Topic } from '@/lib/types';
+import type { SoruAilesi } from '@/lib/soruAilesi';
+
+/**
+ * Soru aileleri konu konu üretilip ekleniyor; her yeni dosya için bu dosyayı
+ * düzenlemek gerekmesin diye glob ile toplanır. Dosya yoksa liste boş kalır.
+ */
+const aileModulleri = import.meta.glob<{ default: SoruAilesi[] }>('./aileler/*.json', { eager: true });
+export const aileler: SoruAilesi[] = Object.values(aileModulleri).flatMap((m) => m.default ?? []);
 
 import anadoluMedeniyetleriTopic from './topics/anadolu-medeniyetleri.json';
 import anadoluMedeniyetleriQuestions from './questions/anadolu-medeniyetleri.json';
