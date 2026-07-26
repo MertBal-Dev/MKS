@@ -167,6 +167,18 @@ export default function Istatistik() {
                 <div className="h-2 overflow-hidden rounded-full bg-raised">
                   <div className="h-full rounded-full transition-all duration-700" style={{ width: `${pct ?? 0}%`, background: color }} />
                 </div>
+                {/*
+                  Zayıf konuya doğrudan geçiş. Uygulama hangi konunun zayıf
+                  olduğunu biliyordu ama kullanıcıyı oraya götürmüyordu.
+                */}
+                {pct !== null && pct < 70 && (
+                  <Link
+                    to={`/sinav/mini-${id}-0`}
+                    className="mt-1.5 inline-block text-xs font-medium text-mercan hover:underline"
+                  >
+                    Bu konuya yüklen — 20 soruluk mini deneme →
+                  </Link>
+                )}
               </div>
             );
           })}

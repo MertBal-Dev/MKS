@@ -14,7 +14,14 @@ import {
   type ExamSessionState,
 } from '@/lib/examSession';
 import { gradeExam } from '@/lib/scoring';
-import { DAILY_DURATION_MIN, DAILY_EXAM_PREFIX, resolveDailyExam } from '@/lib/dailyExam';
+import {
+  DAILY_DURATION_MIN,
+  DAILY_EXAM_PREFIX,
+  MINI_DURATION_MIN,
+  MINI_EXAM_PREFIX,
+  resolveDailyExam,
+  resolveMiniExam,
+} from '@/lib/dailyExam';
 import { CUSTOM_EXAM_PREFIX, customDurationMin, resolveCustomExam } from '@/lib/customSets';
 import { recordAnswer } from '@/lib/wrongPool';
 import { wrongToCard } from '@/lib/autoCards';
@@ -27,12 +34,15 @@ export default function SinavOdasi() {
   const navigate = useNavigate();
   const { update } = useAppState();
 
-  const exam = exams.find((e) => e.id === examId) ?? resolveDailyExam(examId) ?? resolveCustomExam(examId);
+  const exam =
+    exams.find((e) => e.id === examId) ?? resolveDailyExam(examId) ?? resolveMiniExam(examId) ?? resolveCustomExam(examId);
   const durationMin = exam?.id.startsWith(CUSTOM_EXAM_PREFIX)
     ? customDurationMin(exam.questions.length)
-    : exam?.id.startsWith(DAILY_EXAM_PREFIX)
-      ? DAILY_DURATION_MIN
-      : EXAM_DURATION_MIN;
+    : exam?.id.startsWith(MINI_EXAM_PREFIX)
+      ? MINI_DURATION_MIN
+      : exam?.id.startsWith(DAILY_EXAM_PREFIX)
+        ? DAILY_DURATION_MIN
+        : EXAM_DURATION_MIN;
 
   const [session, setSession] = useState<ExamSessionState | null>(() => {
     const existing = loadSession(sessionStorage);

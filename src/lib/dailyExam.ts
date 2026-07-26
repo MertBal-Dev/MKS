@@ -1,10 +1,15 @@
-import { questionBank } from '@/content/index';
-import { TOPICS, TOPIC_IDS } from './constants';
+import { TOPICS, TOPIC_IDS, type TopicId } from './constants';
+import { gununSorulari, konuHavuzu } from './soruHavuzu';
 import type { Exam, Question } from './types';
 
 export const DAILY_EXAM_PREFIX = 'gunluk-';
-export const DAILY_QUESTION_COUNT = 50;
-export const DAILY_DURATION_MIN = 60;
+/*
+ * 50 soru / 60 dakikaydı. 30'a indirildi: günlük alışkanlık ancak
+ * sürdürülebilirse işe yarar ve 50 soru her gün için ağır geliyordu.
+ * Yan faydası, havuzun daha uzun süre tekrarsız gitmesi.
+ */
+export const DAILY_QUESTION_COUNT = 30;
+export const DAILY_DURATION_MIN = 35;
 
 /** Tarih anahtarını deterministik tohuma çevirir. */
 function seedFromDate(dateKey: string): number {
@@ -66,14 +71,28 @@ function scaledCounts(target: number): Record<string, number> {
   return counts;
 }
 
+/** Arşivin başlangıcı; gün indeksi buradan sayılır. */
+const HAVUZ_BASLANGIC = '2026-07-01';
+
+function gunIndeksi(dateKey: string): number {
+  const fark = new Date(`${dateKey}T00:00:00Z`).getTime() - new Date(`${HAVUZ_BASLANGIC}T00:00:00Z`).getTime();
+  return Math.max(0, Math.floor(fark / 86_400_000));
+}
+
 export function getDailyExam(dateKey: string): Exam {
   const rand = rng(seedFromDate(dateKey));
   const questions: Question[] = [];
   const counts = scaledCounts(DAILY_QUESTION_COUNT);
+  const gun = gunIndeksi(dateKey);
 
+  /*
+   * Sorular havuzdan RASTGELE değil, DİLİMLENEREK alınır.
+   * Rastgele seçim 30 günde kaçınılmaz olarak tekrar üretiyordu; dilimleme
+   * her güne havuzun ayrı bir parçasını verir ve havuz bitene dek hiçbir soru
+   * iki kez gelmez. Havuz artık banka + soru ailelerini birlikte kapsıyor.
+   */
   for (const topicId of TOPIC_IDS) {
-    const pool = questionBank.filter((q) => q.topicId === topicId);
-    questions.push(...shuffled(pool, rand).slice(0, counts[topicId]));
+    questions.push(...gununSorulari(topicId, gun, counts[topicId]));
   }
 
   const label = new Date(`${dateKey}T12:00:00+03:00`).toLocaleDateString('tr-TR', {
@@ -90,6 +109,48 @@ export function getDailyExam(dateKey: string): Exam {
     note: 'Her güne özel 50 soru • 60 dakika. Yarın bambaşka bir set seni bekliyor.',
     questions: shuffled(questions, rand),
   };
+}
+
+/* ── Konu bazlı mini deneme ───────────────────────────────────────── */
+
+export const MINI_EXAM_PREFIX = 'mini-';
+export const MINI_QUESTION_COUNT = 20;
+export const MINI_DURATION_MIN = 25;
+
+/** Bir konudan kaç mini deneme çıkar? */
+export function miniDenemeSayisi(topicId: TopicId): number {
+  return Math.floor((konuHavuzu[topicId]?.length ?? 0) / MINI_QUESTION_COUNT);
+}
+
+/**
+ * 'mini-<topicId>-<sira>' kimliğini sınava çevirir.
+ *
+ * 100 soruluk tam deneme, sınav kaygısı olan biri için caydırıcı olabiliyor.
+ * 20 soruluk konu denemesi hem daha sık tekrarlanabilir hem de zayıf konuya
+ * doğrudan yüklenmeyi mümkün kılar. Sorular günlük denemeyle aynı dilimleme
+ * mantığından gelir, yani mini denemeler de birbirini tekrar etmez.
+ */
+export function resolveMiniExam(examId: string | undefined): Exam | undefined {
+  if (!examId?.startsWith(MINI_EXAM_PREFIX)) return undefined;
+
+  const rest = examId.slice(MINI_EXAM_PREFIX.length);
+  const tire = rest.lastIndexOf('-');
+  if (tire < 0) return undefined;
+
+  const topicId = rest.slice(0, tire) as TopicId;
+  const sira = Number(rest.slice(tire + 1));
+  if (!TOPIC_IDS.includes(topicId) || !Number.isInteger(sira) || sira < 0) return undefined;
+
+  const questions = gununSorulari(topicId, sira, MINI_QUESTION_COUNT);
+  if (questions.length === 0) return undefined;
+
+  return {
+    id: examId,
+    title: `${TOPICS[topicId].short} — ${sira + 1}. Mini Deneme`,
+    kind: 'deneme',
+    note: `${questions.length} soru • ${MINI_DURATION_MIN} dakika — tek konuya odaklan.`,
+    questions,
+  } as Exam;
 }
 
 /** examId'den sınavı çözümler: statik listede yoksa ve günlükse üretir. */
