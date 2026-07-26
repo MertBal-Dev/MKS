@@ -6,6 +6,7 @@ import { AiHocaProvider } from '@/hooks/useAiHoca';
 import { AppShell } from '@/components/AppShell';
 import { AiHocaPanel } from '@/components/AiHocaPanel';
 import { BackupReminder } from '@/components/BackupReminder';
+import { ErrorBoundary } from '@/components/ErrorBoundary';
 import { DuyguIntro } from '@/components/DuyguIntro';
 import Dashboard from '@/pages/Dashboard';
 import Konular from '@/pages/Konular';
@@ -13,6 +14,7 @@ import KonuDetay from '@/pages/KonuDetay';
 import SoruBankasi from '@/pages/SoruBankasi';
 import Pratik from '@/pages/Pratik';
 import Cozduklerim from '@/pages/Cozduklerim';
+import KendiSorularim from '@/pages/KendiSorularim';
 import Denemeler from '@/pages/Denemeler';
 import SinavOdasi from '@/pages/SinavOdasi';
 import SinavSonuc from '@/pages/SinavSonuc';
@@ -44,6 +46,7 @@ function AnimatedRoutes() {
           <Route path="/soru-bankasi" element={<SoruBankasi />} />
           <Route path="/pratik" element={<Pratik />} />
           <Route path="/cozduklerim" element={<Cozduklerim />} />
+          <Route path="/kendi-sorularim" element={<KendiSorularim />} />
           <Route path="/ai-hoca" element={<AiHocaPage />} />
           <Route path="/denemeler" element={<Denemeler />} />
           <Route path="/sinav/:examId" element={<SinavOdasi />} />
@@ -72,17 +75,19 @@ export default function App() {
   }, []);
 
   return (
-    <AppStateProvider>
-      <AiHocaProvider>
-        <BrowserRouter>
-          {showIntro && <DuyguIntro onComplete={handleIntroComplete} />}
-          <AppShell>
-            <AnimatedRoutes />
-          </AppShell>
-          <AiHocaPanel />
-          <BackupReminder />
-        </BrowserRouter>
-      </AiHocaProvider>
-    </AppStateProvider>
+    <ErrorBoundary>
+      <AppStateProvider>
+        <AiHocaProvider>
+          <BrowserRouter>
+            {showIntro && <DuyguIntro onComplete={handleIntroComplete} />}
+            <AppShell>
+              <AnimatedRoutes />
+            </AppShell>
+            <AiHocaPanel />
+            <BackupReminder />
+          </BrowserRouter>
+        </AiHocaProvider>
+      </AppStateProvider>
+    </ErrorBoundary>
   );
 }

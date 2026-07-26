@@ -13,6 +13,7 @@ import {
   ListChecks,
   MoreHorizontal,
   Settings,
+  Upload,
   Timer,
   X,
   XCircle,
@@ -30,6 +31,7 @@ const PRIMARY = [
 
 const SECONDARY = [
   { to: '/denemeler', label: 'Denemeler', icon: Timer },
+  { to: '/kendi-sorularim', label: 'Kendi Sorularım', icon: Upload },
   { to: '/ai-hoca', label: 'AI Hoca', icon: GraduationCap },
   { to: '/cozduklerim', label: 'Çözdüklerim', icon: History },
   { to: '/yanlis-havuzu', label: 'Yanlış Havuzu', icon: XCircle },

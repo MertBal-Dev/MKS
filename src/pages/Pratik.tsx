@@ -10,6 +10,7 @@ import { wrongToCard } from '@/lib/autoCards';
 import { recordAnswer } from '@/lib/wrongPool';
 import { newCard } from '@/lib/srs';
 import { bumpStreak, todayKey } from '@/lib/streak';
+import { getSet, toQuestion } from '@/lib/customSets';
 
 export default function Pratik() {
   const [params] = useSearchParams();
@@ -17,6 +18,13 @@ export default function Pratik() {
 
   // Soru seti yalnızca giriş anında kurulur — cevaplar setin sırasını değiştirmez.
   const questions = useMemo(() => {
+    // Kendi yüklediği set: filtreleme yok, sorular olduğu gibi çözülür.
+    const kendi = params.get('kendi');
+    if (kendi) {
+      const set = getSet(kendi);
+      if (set) return set.questions.map(toQuestion);
+    }
+
     const filters: PracticeFilters = {};
     const topic = params.get('topic');
     if (topic && TOPIC_IDS.includes(topic as TopicId)) filters.topics = [topic as TopicId];

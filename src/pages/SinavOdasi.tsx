@@ -15,6 +15,7 @@ import {
 } from '@/lib/examSession';
 import { gradeExam } from '@/lib/scoring';
 import { DAILY_DURATION_MIN, DAILY_EXAM_PREFIX, resolveDailyExam } from '@/lib/dailyExam';
+import { CUSTOM_EXAM_PREFIX, customDurationMin, resolveCustomExam } from '@/lib/customSets';
 import { recordAnswer } from '@/lib/wrongPool';
 import { wrongToCard } from '@/lib/autoCards';
 import { newCard } from '@/lib/srs';
@@ -26,8 +27,12 @@ export default function SinavOdasi() {
   const navigate = useNavigate();
   const { update } = useAppState();
 
-  const exam = exams.find((e) => e.id === examId) ?? resolveDailyExam(examId);
-  const durationMin = exam?.id.startsWith(DAILY_EXAM_PREFIX) ? DAILY_DURATION_MIN : EXAM_DURATION_MIN;
+  const exam = exams.find((e) => e.id === examId) ?? resolveDailyExam(examId) ?? resolveCustomExam(examId);
+  const durationMin = exam?.id.startsWith(CUSTOM_EXAM_PREFIX)
+    ? customDurationMin(exam.questions.length)
+    : exam?.id.startsWith(DAILY_EXAM_PREFIX)
+      ? DAILY_DURATION_MIN
+      : EXAM_DURATION_MIN;
 
   const [session, setSession] = useState<ExamSessionState | null>(() => {
     const existing = loadSession(sessionStorage);

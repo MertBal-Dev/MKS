@@ -32,11 +32,23 @@ export interface AiHocaTopic {
   examWeight?: number;
 }
 
+/** Öğrencinin yüklediği belge. PDF ve görseller modele olduğu gibi verilir. */
+export interface AiHocaDocument {
+  /** 'application/pdf', 'image/png', 'image/jpeg' */
+  mimeType: string;
+  /** base64 (data: öneki olmadan) */
+  data: string;
+}
+
 export interface AiHocaRequest {
-  mode?: 'explain' | 'chat' | 'expand';
+  mode?: 'explain' | 'chat' | 'expand' | 'parse';
   question?: AiHocaQuestion;
   topic?: AiHocaTopic;
   messages?: AiHocaTurn[];
+  /** parse modu: düz metin kaynağı (docx'ten çıkarılmış ya da yapıştırılmış). */
+  text?: string;
+  /** parse modu: PDF veya görsel. Taranmış belgeler de bu yolla okunur. */
+  document?: AiHocaDocument;
   /**
    * Serbest sohbette istemcinin ilettiği, uygulamanın doğrulanmış içeriğinden
    * seçilmiş ilgili notlar. Modelin kendi hafızası yerine bunlara dayanmasını sağlar.
@@ -183,6 +195,47 @@ Kurallar: Yalnızca kesin bildiğin olguları yaz. Emin olmadığın tarihi, ism
 hiç yazma. Uydurma eser/kişi/olay üretme.`;
 }
 
+/**
+ * Belgeden soru çıkarma talimatı.
+ *
+ * İki şey kritik: (1) soru metnini AYNEN korumak — özetlemek öğrencinin
+ * çalıştığı soruyu bozar; (2) cevap anahtarının nereden geldiğini dürüstçe
+ * bildirmek. Belgede anahtar yoksa model soruyu kendisi çözer ama bunu
+ * "ai" olarak işaretler, arayüz de bu rozeti gösterir.
+ */
+const PARSE_INSTRUCTION = `Sen bir sınav belgesini yapılandırılmış veriye çeviren bir ayrıştırıcısın.
+Sana verilen belgedeki ÇOKTAN SEÇMELİ soruları çıkar.
+
+KURALLAR:
+1. Soru metnini (stem) ve şık metinlerini BELGEDEKİ GİBİ AYNEN yaz. Özetleme, düzeltme, yeniden yazma yok.
+   Yalnızca satır sonu/boşluk temizliği yapabilirsin.
+2. Şık sayısı belgede kaçsa o kadar olsun (4 veya 5). Şık harflerini A'dan başlayarak sırala.
+3. Cevap anahtarı:
+   - Belgede anahtar varsa (soru altında işaretli, sonda liste hâlinde vb.) onu kullan ve "answerSource": "belge" yaz.
+   - Belgede anahtar YOKSA soruyu kendin çöz, "answerSource": "ai" yaz. Uydurma yapma; emin değilsen
+     "confidence": "belirsiz" ver.
+4. "explanation" alanına doğru cevabın NEDEN doğru olduğunu 1-3 cümleyle yaz (Türkçe).
+5. "topicId" alanına şu listeden en uygun olanı seç:
+   genel-turizm, turizm-cografyasi, anadolu-medeniyetleri, roma-yunan-bizans, genel-turk-tarihi,
+   arkeoloji-mitoloji, sanat-tarihi, halk-bilimi-edebiyat, ilk-yardim, muzecilik, osmanli-tarihi, dinler-tarihi
+6. "difficulty": 1 (kolay), 2 (orta), 3 (zor).
+7. Çoktan seçmeli OLMAYAN içeriği (açıklama metni, başlık, sayfa numarası) atla.
+8. Hiç soru bulamazsan boş dizi döndür.
+
+ÇIKTI: Yalnızca şu şemada bir JSON dizisi döndür, başka hiçbir metin yazma:
+[
+  {
+    "stem": "soru metni",
+    "choices": [{"id":"A","text":"..."},{"id":"B","text":"..."}],
+    "correct": "A",
+    "explanation": "...",
+    "answerSource": "belge",
+    "confidence": "kesin",
+    "topicId": "osmanli-tarihi",
+    "difficulty": 2
+  }
+]`;
+
 function createClient(env: AiHocaEnv): GoogleGenAI {
   if (!env.GOOGLE_CLOUD_PROJECT || !env.GOOGLE_CREDENTIALS_JSON) {
     throw new Error('Vertex AI yapılandırması eksik (GOOGLE_CLOUD_PROJECT / GOOGLE_CREDENTIALS_JSON)');
@@ -200,10 +253,19 @@ export async function runAiHoca(req: AiHocaRequest, env: AiHocaEnv): Promise<str
   const ai = createClient(env);
   const mode = req.mode ?? (req.messages?.length ? 'chat' : 'explain');
 
-  let contents: { role: 'user' | 'model'; parts: { text: string }[] }[];
+  type Part = { text: string } | { inlineData: { mimeType: string; data: string } };
+  let contents: { role: 'user' | 'model'; parts: Part[] }[];
   let systemInstruction = SYSTEM;
 
-  if (mode === 'explain') {
+  if (mode === 'parse') {
+    if (!req.document && !req.text?.trim()) throw new Error('parse modu için belge veya metin gerekli');
+    const parts: Part[] = [];
+    if (req.document) parts.push({ inlineData: req.document });
+    if (req.text?.trim()) parts.push({ text: req.text });
+    parts.push({ text: 'Yukarıdaki belgedeki çoktan seçmeli soruları şemaya göre çıkar.' });
+    contents = [{ role: 'user', parts }];
+    systemInstruction = PARSE_INSTRUCTION;
+  } else if (mode === 'explain') {
     if (!req.question) throw new Error('explain modu için soru gerekli');
     contents = [{ role: 'user', parts: [{ text: explainPrompt(req.question) }] }];
   } else if (mode === 'expand') {
@@ -231,7 +293,8 @@ export async function runAiHoca(req: AiHocaRequest, env: AiHocaEnv): Promise<str
     contents,
     config: {
       systemInstruction,
-      temperature: 0.3,
+      // Ayrıştırmada yaratıcılık istemiyoruz: metin birebir korunmalı.
+      temperature: mode === 'parse' ? 0 : 0.3,
       /**
        * Gemini 2.5 varsayılan olarak "düşünme" jetonu harcar ve bunlar
        * maxOutputTokens bütçesinden düşülür; bu yüzden cevaplar yarıda kesiliyordu.
@@ -239,7 +302,9 @@ export async function runAiHoca(req: AiHocaRequest, env: AiHocaEnv): Promise<str
        * bütçenin tamamını metne ayırıyoruz.
        */
       thinkingConfig: { thinkingBudget: 0 },
-      maxOutputTokens: mode === 'expand' ? 8192 : 4096,
+      // Şema uyumlu JSON, serbest metinden çok daha güvenilir ayrıştırılır.
+      ...(mode === 'parse' ? { responseMimeType: 'application/json' } : {}),
+      maxOutputTokens: mode === 'expand' || mode === 'parse' ? 8192 : 4096,
     },
   });
 
