@@ -1,123 +1,63 @@
 {
   "sayim": {
-    "tam": 281,
-    "kismi": 13,
-    "yok": 6
+    "tam": 291,
+    "kismi": 8,
+    "yok": 1
   },
   "eksikler": [
     {
       "konu": "anadolu-medeniyetleri",
       "karar": "kismi",
-      "eksik": "Orta Paleolitik Çağ bilgisi",
-      "stem": "İnsanlık tarihinde 'Neanderthal' (Homo neanderthalensis) insan türünün varlık gö"
+      "eksik": "Aigai antik kenti ve Likya eşleşmesinin yanlış olduğu bilgisi yok.",
+      "stem": "I. Tuşpa - Urartu\nII. Hattuşa - Hitit\nIII. Sardes - Karya\nIV. Gordion - Frig\nV. "
     },
     {
       "konu": "anadolu-medeniyetleri",
       "karar": "kismi",
-      "eksik": "Sagalassos ve Myra'nın Asklepion'a sahip olup olmadığına dair bilgi yok.",
-      "stem": "I. Bergama\nII. Kos\nIII. Allianoi\nIV. Sagalassos\nV. Myra\n\nYukarıdakilerden hangil"
+      "eksik": "Sümerler'in yazıyı icat ettiğine dair bilgi notlarda yok.",
+      "stem": "Tarihte yazıyı icat ederek tarih çağlarını başlatan uygarlık aşağıdakilerden han"
     },
     {
       "konu": "arkeoloji-mitoloji",
       "karar": "kismi",
-      "eksik": "Hitit - Teişeba eşleştirmesinin yanlış olduğu bilgisi",
-      "stem": "Aşağıdaki 'Uygarlık - Baş Tanrı/Tanrıça' eşleştirmelerinden hangisi yanlış veril"
-    },
-    {
-      "konu": "arkeoloji-mitoloji",
-      "karar": "kismi",
-      "eksik": "Gordios'un tarım aracı saban ile ilgili bir düğümü simgelediği bilgisi yok.",
+      "eksik": "Gordios'un Frig kralı olduğu belirtilmemiş; sadece çiftçi olduğu bilgisi var. Ayrıca 'Kördüğüm' ifadesi birebir geçmiyor.",
       "stem": "Efsanelere konu olan ve kimsenin çözemediği 'Kördüğüm'ü bir kılıç darbesiyle çöz"
     },
     {
       "konu": "genel-turizm",
-      "karar": "yok",
-      "eksik": "Tamu kavramı ve günümüzdeki karşılığı notlarda bulunmamaktadır.",
-      "stem": "Eski Türk inanç sisteminde ve bazı Budist metinlerde sıkça geçen, ölümden sonra "
-    },
-    {
-      "konu": "genel-turizm",
       "karar": "kismi",
-      "eksik": "Grand Tour'un yoğunlukla 18-19. yüzyıllarda gerçekleştirildiğine dair bilgi notlarda 17-18. yüzyıl olarak geçmektedir.",
+      "eksik": "Grand Tour'un yoğunlukla gerçekleştirildiği yüzyıllar 17. ve 18. yüzyıllar olarak belirtilmiştir, 19. yüzyıl başlarına dek sürdüğü ifade edilmiştir ancak 'yoğunlukla' ifadesi 18-19. yüzyıl cevabını tam olarak karşılamaz.",
       "stem": "Avrupalı aristokrat gençlerin eğitimlerini tamamlamak amacıyla çıktıkları \"Grand"
     },
     {
       "konu": "genel-turizm",
       "karar": "kismi",
-      "eksik": "Günübirlikçi terimi varken 'günübirlik turist' terimi geçmemektedir.",
-      "stem": "Bir ülkeye giriş yapan ancak 24 saatten az kalarak konaklama yapmadan ülkeden ay"
-    },
-    {
-      "konu": "genel-turizm",
-      "karar": "yok",
-      "eksik": "Nereidler Anıtı'nın hangi ülkede sergilendiği bilgisi notlarda yer almamaktadır.",
-      "stem": "Anadolu'dan yurt dışına götürülen \"Nereidler Anıtı\" günümüzde hangi ülkede sergi"
-    },
-    {
-      "konu": "genel-turizm",
-      "karar": "yok",
-      "eksik": "Turizm endüstrisinde doğrudan faaliyet gösteren işletmelerin listesi bulunmamaktadır.",
-      "stem": "Aşağıdakilerden hangisi turizm endüstrisinde doğrudan faaliyet gösteren işletmel"
-    },
-    {
-      "konu": "genel-turizm",
-      "karar": "kismi",
-      "eksik": "Plog'un tipolojilerinde 'İçe Dönük' ve 'Dışa Dönük' tanımlarının yerlerinin notlarda ters verilmiş olması.",
+      "eksik": "Allocentric ve Psychocentric tanımları notlarda ters verilmiş.",
       "stem": "Turist tipolojilerini psikografik özelliklerine göre sınıflandırarak 'İçe Dönük "
     },
     {
       "konu": "genel-turizm",
       "karar": "kismi",
-      "eksik": "Empatik yaklaşımın doğrudan 'güven ve memnuniyet artışı' sonuçlarını doğurduğu belirtilmemiştir, sadece 'anlaşıldığını hissetmesine yardımcı olur' ifadesi geçmektedir.",
-      "stem": "Turist rehberinin empatik yaklaşımı turist psikolojisi açısından aşağıdaki sonuç"
-    },
-    {
-      "konu": "genel-turizm",
-      "karar": "yok",
-      "eksik": "2025 yılında İznik'i ziyaret eden Papa veya XIV. Leo hakkında bilgi bulunmamaktadır.",
-      "stem": "2025 yılında İznik'i ziyaret eden Papa aşağıdakilerden hangisidir?"
-    },
-    {
-      "konu": "genel-turizm",
-      "karar": "kismi",
-      "eksik": "Sosyal taşıma kapasitesinin doğrudan 'yerel halkın tolere edebileceği turist yoğunluğunu' temsil ettiği açıkça belirtilmemiş, sadece tanımı verilmiş.",
-      "stem": "Bir destinasyondaki sosyal taşıma kapasitesini aşağıdakilerden hangisi temsil ed"
-    },
-    {
-      "konu": "genel-turizm",
-      "karar": "kismi",
-      "eksik": "Turizm İşletme Belgesi'nin Kültür ve Turizm Bakanlığı tarafından verildiği bilgisi doğrudan belirtilmemiştir, sadece seyahat acentası işletme belgesini Bakanlığın verdiği bilgisi bulunmaktadır.",
-      "stem": "\"Turizm İşletme Belgesi\" aşağıdaki kurumlardan hangisi tarafından verilmektedir?"
-    },
-    {
-      "konu": "halk-bilimi-edebiyat",
-      "karar": "yok",
-      "eksik": "İpek böcekçiliği ve dut ağacı ilişkisi notlarda geçmiyor.",
-      "stem": "UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer alan \"İpek böcekçiliği ve do"
-    },
-    {
-      "konu": "ilk-yardim",
-      "karar": "yok",
-      "eksik": "Michelangelo ve Davut Heykeli notlarda geçmiyor.",
-      "stem": "Rönesans döneminin başyapıtlarından biri kabul edilen ve Floransa'da sergilenen "
+      "eksik": "Plog'un turist tipolojilerini 'psikometrik' terimiyle değil, 'psychocentric' terimiyle tanımladığı belirtilmiştir.",
+      "stem": "Turist tipolojilerini kişilik özelliklerine göre \"psikometrik\" ve \"allocentrik\" "
     },
     {
       "konu": "sanat-tarihi",
       "karar": "kismi",
-      "eksik": "Tanım eksik. Sadece 'Dikdörtgen planlı yapı' ifadesi, notlarda verilen 'önünde bir giriş holü bulunan dikdörtgen planlı ve ocaklı yapı tipi' tanımını tam olarak karşılamıyor.",
+      "eksik": "Megaron tanımında 'önünde bir giriş holü bulunan' ve 'ortasında ocak yer alan' ifadeleri eksik bırakılmıştır.",
       "stem": "Antik dönem mimarisinde, önünde bir giriş holü bulunan dikdörtgen planlı ve ocak"
     },
     {
       "konu": "sanat-tarihi",
       "karar": "kismi",
-      "eksik": "Alaaeddin Bey Kümbeti ve Sırçalı Kümbet hakkında bilgi verilmemiş.",
+      "eksik": "Alaaeddin Bey Kümbeti'nin Kayseri'de olduğu, Sırçalı Kümbet'in Kayseri'de olduğu bilgisi var ancak Erzincan'da olmadığı bilgisi notlarda açıkça belirtilmemiş.",
       "stem": "I. Alemşah Kümbeti - Sivrihisar\nII. Döner Kümbet - Kayseri\nIII. Alaaeddin Bey Kü"
     },
     {
       "konu": "turizm-cografyasi",
-      "karar": "kismi",
-      "eksik": "Peri bacalarının oluşumunda etkili olan temel dış kuvvetlerin (akarsu aşındırması ve rüzgar) birlikte tam olarak belirtilmemesi, sadece volkanik tüflerin rüzgar ve sel sularıyla aşınması geçiyor.",
-      "stem": "Kapadokya bölgesindeki Peri Bacaları'nın oluşumunda etkili olan temel dış kuvvet"
+      "karar": "yok",
+      "eksik": "Anadolu'nun jeolojik oluşum sürecine dair ipuçları veren deniz canlısı fosillerinin yoğun olarak bulunduğu bölge/ilin Antalya olduğu bilgisi notlarda yer almamaktadır.",
+      "stem": "Anadolu'nun jeolojik oluşum sürecine dair ipuçları veren deniz canlısı fosilleri"
     }
   ]
 }
