@@ -1,75 +1,381 @@
 {
   "sayim": {
-    "tam": 49,
-    "kismi": 2,
-    "yok": 9
+    "tam": 238,
+    "kismi": 20,
+    "yok": 42
   },
   "eksikler": [
     {
+      "konu": "anadolu-medeniyetleri",
+      "karar": "kismi",
+      "eksik": "Aigai antik kentinin hangi uygarlığa ait olduğu belirtilmemiş; Sardes'in Karia değil Lidya'ya ait olduğu notlarda yazıyor ancak eşleştirmelerin doğru olup olmadığına karar vermek için Aigai bilgisi eksik",
+      "stem": "I. Tuşpa - Urartu\nII. Hattuşa - Hitit\nIII. Sardes - Karya\nIV. Gordion - Frig\nV. "
+    },
+    {
+      "konu": "anadolu-medeniyetleri",
+      "karar": "kismi",
+      "eksik": "Paleolitik Çağ'ın alt dönemlerinden 'Orta Paleolitik Çağ' ayrımı belirtilmemiş.",
+      "stem": "İnsanlık tarihinde 'Neanderthal' (Homo neanderthalensis) insan türünün varlık gö"
+    },
+    {
+      "konu": "anadolu-medeniyetleri",
+      "karar": "kismi",
+      "eksik": "Kos ve Allianoi'nin Asklepion'a sahip olduğu bilgisi notlarda yer almamaktadır.",
+      "stem": "I. Bergama\nII. Kos\nIII. Allianoi\nIV. Sagalassos\nV. Myra\n\nYukarıdakilerden hangil"
+    },
+    {
+      "konu": "anadolu-medeniyetleri",
+      "karar": "kismi",
+      "eksik": "Divriği Ulu Camii ve Darüşşifası'nın UNESCO listesinde olduğu bilgisi notlarda yer almamaktadır.",
+      "stem": "I. Divriği Ulu Camii ve Darüşşifası\nII. Hattuşa: Hitit Başkenti\nIII. Knidos Anti"
+    },
+    {
+      "konu": "arkeoloji-mitoloji",
+      "karar": "kismi",
+      "eksik": "Uygarlık - Baş Tanrı/Tanrıça eşleştirmesi ile ilgili bir yanlışlık bilgisi ders notlarında bulunmamaktadır.",
+      "stem": "Aşağıdaki 'Uygarlık - Baş Tanrı/Tanrıça' eşleştirmelerinden hangisi yanlış veril"
+    },
+    {
+      "konu": "arkeoloji-mitoloji",
+      "karar": "kismi",
+      "eksik": "Gordios'un düğümün Frig kralı olduğu belirtilmiş ancak tarım aracı saban ile ilgili olduğu ve bu düğümü çözdüğü bilgisi verilmemiş.",
+      "stem": "Efsanelere konu olan ve kimsenin çözemediği 'Kördüğüm'ü bir kılıç darbesiyle çöz"
+    },
+    {
+      "konu": "dinler-tarihi",
+      "karar": "yok",
+      "eksik": "Leonardo da Vinci'nin 'Son Akşam Yemeği' freski veya sanatçının kendisi notlarda geçmiyor.",
+      "stem": "Sanat tarihinin en bilinen eserlerinden biri olan ve Milano'daki Santa Maria del"
+    },
+    {
       "konu": "genel-turizm",
       "karar": "yok",
-      "eksik": "Sözsüz iletişim, mimik, kaş, göz ve yüz kaslarının kullanımı hakkında bilgi yok.",
+      "eksik": "Sözsüz iletişim, mimik, kaş, göz ve yüz kaslarının kullanımı konuları ders notlarında yer almamaktadır.",
       "stem": "Sözsüz iletişimde; kaş, göz ve yüz kaslarının kullanımıyla ortaya çıkan ifadeler"
     },
     {
       "konu": "genel-turizm",
       "karar": "yok",
-      "eksik": "Eski Türk toplum yapısı, Oguş, Urug ve İl kavramları hakkında bilgi yok.",
+      "eksik": "Eski Türk toplum yapısı, Oguş, Urug ve İl kavramları ders notlarında yer almamaktadır.",
       "stem": "Eski Türk toplum yapısında yer alan \"Oguş, Urug ve İl\" kavramlarının günümüzdeki"
     },
     {
       "konu": "genel-turizm",
       "karar": "yok",
-      "eksik": "Empati kavramı veya turist rehberinin turistlerin duygularını anlama yeteneği hakkında bilgi yok.",
+      "eksik": "Empati kavramı ve turist rehberinin empati yeteneği ders notlarında doğrudan açıklanmamıştır.",
       "stem": "Bir turist rehberinin, turistin duygu ve düşüncelerini anlayarak olaylara onun p"
     },
     {
       "konu": "genel-turizm",
       "karar": "yok",
-      "eksik": "Hz. Muhammed'in hicreti, hicri takvim veya Mescid-i Nebevi hakkında bilgi yok.",
+      "eksik": "Hz. Muhammed'in Hicreti, Hicri takvim, Mescid-i Nebevi konuları ders notlarında yer almamaktadır.",
       "stem": "Hz. Muhammed'in Mekke'den Medine'ye göçü (Hicret) ile ilgili aşağıdaki ifadelerd"
     },
     {
       "konu": "genel-turizm",
       "karar": "yok",
-      "eksik": "İletişim sürecinde 'ilk izlenim' ve 'fiziksel görünüş'ün etkisi hakkında bilgi bulunmamaktadır.",
+      "eksik": "İletişim sürecinde ilk izlenimin unsurları hakkında bilgi yok.",
       "stem": "İletişim sürecinde, alıcı üzerinde bırakılan 'ilk izlenim'de en yüksek etkiye sa"
     },
     {
       "konu": "genel-turizm",
       "karar": "yok",
-      "eksik": "İslam geleneğinde 'el-beledü'l-emin' ifadesinin hangi şehir için kullanıldığı belirtilmemiş.",
+      "eksik": "İslam geleneğinde \"el-beledü'l-emin\" ifadesinin kullanıldığı şehir bilgisi yok.",
       "stem": "İslam geleneğinde aşağıdaki şehirlerden hangisi için \"güvenilir belde\" anlamına "
     },
     {
       "konu": "genel-turizm",
       "karar": "yok",
-      "eksik": "Eski Türk inanç sisteminde 'Tamu' kavramının anlamı veya günümüzdeki karşılığı hakkında bilgi verilmemiş.",
+      "eksik": "Eski Türk inanç sistemindeki 'Tamu' kavramı ve günümüzdeki karşılığı hakkında bilgi yok.",
       "stem": "Eski Türk inanç sisteminde ve bazı Budist metinlerde sıkça geçen, ölümden sonra "
     },
     {
       "konu": "genel-turizm",
       "karar": "yok",
-      "eksik": "Büyük İskender'in hocası hakkında bilgi verilmemiş.",
+      "eksik": "Büyük İskender'in hocası olan filozof bilgisi yok.",
       "stem": "Makedonya Kralı Büyük İskender'in hocalığını yapmış olan ve Batı düşünce tarihin"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Sözsüz iletişimin ögeleri hakkında bilgi yok.",
+      "stem": "Rehberin tur sırasında anlatılarını yaparken el ve kol ile yapılan beden hareket"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "kismi",
+      "eksik": "Sözsüz iletişim, proksemik ve mahrem alan kavramlarının tanımı",
+      "stem": "Sözsüz iletişim ve mesafe kullanımında (proksemik), bireyin sadece çok yakınları"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "kismi",
+      "eksik": "Bilgi eksikliğinin potansiyel talep nedeni olduğu açıkça belirtilmemiş",
+      "stem": "Kişinin satın alma gücü ve isteği olduğu halde; sunulan olanaklar, destinasyon v"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Kültürleşme kavramının tanımı notlarda bulunmamaktadır.",
+      "stem": "İki farklı kültürün etkileşime girerek birbirlerinin özelliklerini alması ve yen"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Türk Halk Hikâyeleri ve Köroğlu gibi örnekler notlarda yer almamaktadır.",
+      "stem": "Aşağıdakilerden hangisi, konusunu daha çok kahramanlık mücadelelerinden ve epik "
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "kismi",
+      "eksik": "Grand Tour'un yoğunlukla gerçekleştirildiği yüzyıllar 17. ve 18. yüzyıllar olarak belirtilmiştir, 19. yüzyıl bilgisi eksiktir.",
+      "stem": "Avrupalı aristokrat gençlerin eğitimlerini tamamlamak amacıyla çıktıkları \"Grand"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Maslow'un İhtiyaçlar Hiyerarşisi ve müşteri sadakat programları arasındaki ilişki notlarda bulunmamaktadır.",
+      "stem": "İşletmelerin uyguladığı müşteri sadakat programları, Maslow'un İhtiyaçlar Hiyera"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "İletişimde mimik hareketlerinin oluşumu ile ilgili bilgi bulunmamaktadır.",
+      "stem": "I. Göz, II. El, III. Ayak, IV. Ağız. İletişimde 'mimik' hareketlerinin oluşumund"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "İletişim sürecinde mesajın alıcıya doğru ve tam olarak ulaşmasını engelleyen faktörlerden bahsedilmiyor.",
+      "stem": "İletişim sürecinde mesajın alıcıya doğru ve tam olarak ulaşmasını engelleyen en "
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "İnsan vücudundaki dolaşım sistemi ve bileşenleri hakkında bilgi verilmiyor.",
+      "stem": "I. Kalp, II. Akciğer, III. Damarlar, IV. Kan, V. Yutak. Yukarıdakilerden hangile"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "İnsan vücudunun temel biyolojik sistemleri hakkında bilgi verilmiyor.",
+      "stem": "Aşağıdakilerden hangisi, insan vücudunun işleyişini sağlayan temel biyolojik sis"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Anadolu'dan yurt dışına götürülen 'Nereidler Anıtı' veya sergilendiği ülke hakkında bilgi verilmiyor.",
+      "stem": "Anadolu'dan yurt dışına götürülen \"Nereidler Anıtı\" günümüzde hangi ülkede sergi"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Turistin destinasyonla duygusal bağ kurmasının tekrar ziyaret niyetini güçlendirdiğine dair bilgi verilmiyor.",
+      "stem": "Turistin destinasyonla duygusal bağ kurması aşağıdakilerden hangisini güçlendiri"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "İletişim teknikleri veya 'yansıtma' kavramı notlarda geçmiyor.",
+      "stem": "Rehberin turistin sorusunu tekrarlayarak yanıtlamaya başlaması aşağıdaki iletişi"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "kismi",
+      "eksik": "Turizm endüstrisinde doğrudan faaliyet gösteren işletmelerin listesi veya 'tarım işletmeleri'nin dolaylı/doğrudan etkisi belirtilmiyor.",
+      "stem": "Aşağıdakilerden hangisi turizm endüstrisinde doğrudan faaliyet gösteren işletmel"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "kismi",
+      "eksik": "Plog'un tipolojilerinde 'İçe Dönük' ve 'Dışa Dönük' tanımlarının yerlerinin notlarda ters verilmesi.",
+      "stem": "Turist tipolojilerini psikografik özelliklerine göre sınıflandırarak 'İçe Dönük "
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Turizm talebini etkileyen politik faktörler, özellikle 'vize uygulamaları' notlarda belirtilmemiştir.",
+      "stem": "Aşağıdakilerden hangisi turizm talebini etkileyen politik faktörlerden biridir?"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Rehberin beden dili kullanımının iletişim türleri kapsamında değerlendirilmesi notlarda yer almamaktadır.",
+      "stem": "Turist rehberinin tur esnasında anlatım yaparken beden dilini aktif kullanması a"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "kismi",
+      "eksik": "Empatik yaklaşımın doğrudan 'güven ve memnuniyet artışı' ile sonuçlanacağı bilgisi ders notlarında açıkça belirtilmemiştir.",
+      "stem": "Turist rehberinin empatik yaklaşımı turist psikolojisi açısından aşağıdaki sonuç"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Eser-yazar eşleştirmeleri ders notlarında yer almamaktadır.",
+      "stem": "Aşağıdakilerden hangisinde eser-yazar eşleştirmesi doğru verilmiştir?"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "2025 yılında İznik'i ziyaret eden Papa'ya dair bilgi ders notlarında bulunmamaktadır.",
+      "stem": "2025 yılında İznik'i ziyaret eden Papa aşağıdakilerden hangisidir?"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "İletişim sürecindeki ögeler veya gürültü kavramı ders notlarında geçmemektedir.",
+      "stem": "Bir turist rehberinin ortamdaki yüksek sesli müzik nedeniyle tura katılan turist"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Sözsüz iletişim ve mesafe türleri ders notlarında geçmemektedir.",
+      "stem": "Sözsüz iletişimde kişiye en yakın olan mesafeye ne ad verilmektedir?"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Balbal ve Eski Türklerdeki mezar gelenekleri hakkında bilgi bulunmamaktadır.",
+      "stem": "Eski Türklerde, ölen bir savaşçının hayattayken öldürdüğü düşman sayısını simgel"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Solunum sistemi ile ilgili herhangi bir bilgi bulunmamaktadır.",
+      "stem": "I. Yutak\nII. Omurilik\nIII. Soluk Borusu\nIV. Burun\nV. Kan\n\nYukarıdakilerden hangi"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Eski Türk inancı ve Erlik Han hakkında bilgi bulunmamaktadır.",
+      "stem": "Aşağıdakilerden hangisi Eski Türk inancında kötülükle ilişkilendirilen yeraltı r"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "kismi",
+      "eksik": "Turizm işletme belgesi ifadesi notlarda geçmiyor, sadece seyahat acentası işletme belgesini Kültür ve Turizm Bakanlığı'nın verdiği belirtiliyor.",
+      "stem": "\"Turizm İşletme Belgesi\" aşağıdaki kurumlardan hangisi tarafından verilmektedir?"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "kismi",
+      "eksik": "Çevre kirliliği ve doğal dokunun bozulması ifadesi doğrudan geçmiyor, 'çevre tahribatı' ve 'taşıma kapasitesinin aşılması' ifadeleri kullanılıyor.",
+      "stem": "Aşağıdakilerden hangisi, turizmin plansız gelişmesi sonucu ortaya çıkabilecek ol"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "kismi",
+      "eksik": "Plog'un tipolojileri 'psikometrik' ve 'allocentrik' yerine 'İçe Dönük (Psychocentric)' ve 'Dışa Dönük (Allocentric)' olarak geçiyor.",
+      "stem": "Turist tipolojilerini kişilik özelliklerine göre \"psikometrik\" ve \"allocentrik\" "
     },
     {
       "konu": "halk-bilimi-edebiyat",
       "karar": "yok",
-      "eksik": "Antik Yunan mimarisi ve sütun düzenleri hakkında bilgi bulunmamaktadır.",
+      "eksik": "Dor, İyon ve Korint düzenleri ile Antik Yunan mimarisi hakkında bilgi bulunmamaktadır.",
       "stem": "Dor, İyon ve Korint düzenleri, aşağıdaki mimari geleneklerden hangisinin temel s"
     },
     {
-      "konu": "sanat-tarihi",
+      "konu": "halk-bilimi-edebiyat",
+      "karar": "yok",
+      "eksik": "İkiztepe, Arslantepe, Küllüoba, Aşıklı Höyük gibi höyükler ve şehir eşleştirmeleri hakkında bilgi bulunmamaktadır.",
+      "stem": "I. İkiztepe - Samsun, II. Arslantepe - Malatya, III. Küllüoba - Eskişehir, IV. A"
+    },
+    {
+      "konu": "halk-bilimi-edebiyat",
+      "karar": "yok",
+      "eksik": "Odeon yapısı, opus sectile tekniği, Medusa mozaiği ve Kibyra antik kenti hakkında bilgi bulunmamaktadır.",
+      "stem": "Odeon yapısının orkestra bölümünde, \"opus sectile\" tekniğiyle yapılmış, yaklaşık"
+    },
+    {
+      "konu": "halk-bilimi-edebiyat",
+      "karar": "yok",
+      "eksik": "Kula-Salihli Jeoparkı'nın Manisa'da olduğu bilgisi notlarda yer almamaktadır.",
+      "stem": "Türkiye’nin ilk ve tek UNESCO Jeoparkı olan Kula-Salihli Jeoparkı, aşağıdaki ill"
+    },
+    {
+      "konu": "halk-bilimi-edebiyat",
+      "karar": "yok",
+      "eksik": "I. Gıyaseddin Keyhüsrev'in kız kardeşi adına yaptırdığı eser notlarda belirtilmemiştir.",
+      "stem": "I. Gıyaseddin Keyhüsrev'in kız kardeşi adına Anadolu'da yaptırdığı eser aşağıdak"
+    },
+    {
+      "konu": "halk-bilimi-edebiyat",
+      "karar": "yok",
+      "eksik": "Ankara Ahi Şerafettin Camii'nin UNESCO Dünya Kültür Mirası Listesi'nde yer aldığı bilgisi notlarda bulunmamaktadır.",
+      "stem": "Aşağıdaki eserlerden hangisi, UNESCO Dünya Kültür Mirası Listesi'nde yer alan 'A"
+    },
+    {
+      "konu": "halk-bilimi-edebiyat",
+      "karar": "yok",
+      "eksik": "Kral Yolu hakkında bilgi bulunmamaktadır.",
+      "stem": "Persler tarafından inşa edilen, Susa’dan başlayıp Anadolu'yu geçerek Sardes’e (M"
+    },
+    {
+      "konu": "halk-bilimi-edebiyat",
+      "karar": "yok",
+      "eksik": "Gökgöl Mağarası hakkında bilgi bulunmamaktadır.",
+      "stem": "Zonguldak-Ankara karayolu üzerinde yer alan, yaklaşık 3.350 metrelik uzunluğuyla"
+    },
+    {
+      "konu": "halk-bilimi-edebiyat",
+      "karar": "yok",
+      "eksik": "Başkomutan Tarihi Milli Parkı'nın bulunduğu iller hakkında bilgi bulunmamaktadır.",
+      "stem": "Başkomutan Tarihi Milli Parkı aşağıdaki illerden hangilerinin sınırları içinde y"
+    },
+    {
+      "konu": "halk-bilimi-edebiyat",
+      "karar": "yok",
+      "eksik": "İpek böcekçiliği ve dokuma için ipeğin geleneksel üretimi ile dut ağacı arasındaki bağlantı notlarda geçmemektedir.",
+      "stem": "UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer alan \"İpek böcekçiliği ve do"
+    },
+    {
+      "konu": "roma-yunan-bizans",
       "karar": "kismi",
-      "eksik": "Tanımın 'önünde bir giriş holü bulunan' ve 'ocaklı' kısımları notlarda geçmiyor.",
-      "stem": "Antik dönem mimarisinde, önünde bir giriş holü bulunan dikdörtgen planlı ve ocak"
+      "eksik": "Balçova-Aydın eşleştirmesinin doğruluğu hakkında bilgi yok.",
+      "stem": "I. Gönen - Denizli\nII. Kozaklı - Nevşehir\nIII. Oylat - Bursa\nIV. Kızılcahamam - "
+    },
+    {
+      "konu": "roma-yunan-bizans",
+      "karar": "yok",
+      "eksik": "Hitit Devleti ve hükümdarları hakkında bilgi yok.",
+      "stem": "Hitit Devleti'ni imparatorluk seviyesine taşıyan ve en parlak dönemini yaşatan h"
     },
     {
       "konu": "sanat-tarihi",
       "karar": "kismi",
-      "eksik": "Vaftizci Yahya'nın yanında bazen Pavlus'un da yer aldığı bilgisi notlarda bulunmuyor.",
-      "stem": "Ayasofya mozaiklerinde de görülen; ortada Hz. İsa, yanında Hz. Meryem ve Vaftizc"
+      "eksik": "Alaaeddin Bey Kümbeti ve Sırçalı Kümbet hakkında bilgi yok.",
+      "stem": "I. Alemşah Kümbeti - Sivrihisar\nII. Döner Kümbet - Kayseri\nIII. Alaaeddin Bey Kü"
+    },
+    {
+      "konu": "turizm-cografyasi",
+      "karar": "kismi",
+      "eksik": "Antalya'nın jeolojik oluşum sürecine dair ipuçları veren deniz canlısı fosillerinin yoğun olarak bulunduğu bölge/il olduğu bilgisi eksik.",
+      "stem": "Anadolu'nun jeolojik oluşum sürecine dair ipuçları veren deniz canlısı fosilleri"
+    },
+    {
+      "konu": "turizm-cografyasi",
+      "karar": "kismi",
+      "eksik": "Mağaranın iki girişli olduğu ve Pleistosen tabakalarında taş aletler ve hayvan kemikleri bulunduğu bilgisi eksik.",
+      "stem": "İstanbul'un Küçükçekmece ilçesi sınırları içinde yer alan, Pleistosen tabakaları"
+    },
+    {
+      "konu": "turizm-cografyasi",
+      "karar": "yok",
+      "eksik": "Deniz Kavimleri Göçü ve Lelegler hakkında bilgi yok",
+      "stem": "Aşağıdakilerden hangisi Geç Tunç Çağı'nın sonlarında gerçekleşen Deniz Kavimleri"
+    },
+    {
+      "konu": "turizm-cografyasi",
+      "karar": "kismi",
+      "eksik": "Akarsu aşındırması ve rüzgarın Peri Bacaları oluşumunda etkili olduğu bilgisi notlarda doğrudan geçmiyor, sadece 'volkanik tüflerin rüzgar ve sel sularıyla aşınması' şeklinde genel bir ifade var.",
+      "stem": "Kapadokya bölgesindeki Peri Bacaları'nın oluşumunda etkili olan temel dış kuvvet"
+    },
+    {
+      "konu": "turizm-cografyasi",
+      "karar": "yok",
+      "eksik": "2025 yılı için yabancı ziyaretçilerin milliyetlere göre dağılımı bilgisi notlarda bulunmamaktadır.",
+      "stem": "2025 yılında Türkiye'ye gelen yabancı ziyaretçilerin milliyetlere göre dağılımın"
     }
   ]
 }
