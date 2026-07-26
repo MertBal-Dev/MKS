@@ -1,0 +1,722 @@
+[
+  {
+    "subtopic": "Halk Bilimi ve Geçiş Dönemleri",
+    "difficulty": 2,
+    "stem": "Doğum sonrası uygulanan geleneklerden biri olan 'kırklama' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Doğumdan kırk gün sonra anne ve bebeğin yıkanması ritüelidir.",
+        "explanation": "Kırklama, doğumdan kırk gün sonra anne ve bebeğin yıkanmasıyla gerçekleştirilen bir gelenektir."
+      },
+      {
+        "id": "B",
+        "text": "Bebeğin ilk dişi çıktığında yapılan bir kutlamadır.",
+        "explanation": "Diş buğdayı (hedik) bebeğin ilk dişi çıktığında yapılan kutlamadır, kırklama değildir."
+      },
+      {
+        "id": "C",
+        "text": "Loğusa şerbetinin dağıtılması geleneğidir.",
+        "explanation": "Loğusa şerbeti, doğum sonrası anneye ve ziyaretçilere ikram edilen bir içecektir, kırklama farklı bir uygulamadır."
+      },
+      {
+        "id": "D",
+        "text": "Çocuğun göbek bağının gelecekteki mesleğini belirlemek amacıyla gömülmesidir.",
+        "explanation": "Göbek bağının nereye gömüldüğü çocuğun geleceğini belirler inancı vardır, bu kırklama değildir."
+      },
+      {
+        "id": "E",
+        "text": "Kısırlığı gidermek için yapılan bir uygulamadır.",
+        "explanation": "Kısırlığı giderme uygulamaları doğum öncesi döneme aittir ve kırklama ile ilgisi yoktur."
+      }
+    ],
+    "correct": "A",
+    "trick": "Doğum sonrası birçok gelenek olduğu için diğer geleneklerle karıştırılabilir.",
+    "id": "halk-bilimi-edebiyat-041",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Halk Edebiyatı",
+    "difficulty": 3,
+    "stem": "Türk halk edebiyatı türlerinden masal ve efsane arasındaki temel fark aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Masallar genellikle 'bir varmış bir yokmuş' kalıbıyla başlarken, efsaneler bu kalıbı kullanmaz.",
+        "explanation": "Bu doğru bir tespittir ancak temel farkı ifade etmez, masalların başlangıç kalıbı bir özelliğidir."
+      },
+      {
+        "id": "B",
+        "text": "Masallarda yer ve zaman belirsizken, efsaneler belirli bir yer, kişi veya olayla ilişkilidir ve inandırıcılık iddiası taşır.",
+        "explanation": "Masalların yer ve zamanı belirsizdir, ancak efsanelerin belirli bir yer, kişi veya olayla ilgili olması ve inandırıcılık iddiası taşıması masallardan en önemli farkıdır."
+      },
+      {
+        "id": "C",
+        "text": "Masallar nazım-nesir karışıkken, efsaneler tamamen nesir şeklinde anlatılır.",
+        "explanation": "Nazım-nesir karışık olanlar halk hikâyeleridir. Masal ve efsaneler genellikle nesirle anlatılır."
+      },
+      {
+        "id": "D",
+        "text": "Masallarda olağanüstü olaylar ve kişiler bulunurken, efsanelerde gerçekçi olaylar yer alır.",
+        "explanation": "Efsanelerde de olağanüstü olaylar ve kişiler yer alabilir, bu temel fark değildir."
+      },
+      {
+        "id": "E",
+        "text": "Masallarda genellikle mutlu son varken, efsanelerde trajik sonlar ağır basar.",
+        "explanation": "Bu, her iki tür için de genelleme yapılamayacak bir özelliktir ve temel farkı oluşturmaz."
+      }
+    ],
+    "correct": "B",
+    "trick": "Masal ve efsanenin her ikisinde de olağanüstülük bulunması, temel farkın gözden kaçmasına neden olabilir.",
+    "id": "halk-bilimi-edebiyat-042",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Halk Oyunları",
+    "difficulty": 1,
+    "stem": "Aşağıdaki halk oyunlarından hangisi Alevi-Bektaşi toplulukları tarafından ibadetin bir parçası olarak icra edilir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Zeybek",
+        "explanation": "Zeybek, Ege Bölgesi'ne özgü bir halk oyunudur ve ibadetin parçası değildir."
+      },
+      {
+        "id": "B",
+        "text": "Horon",
+        "explanation": "Horon, Karadeniz Bölgesi'ne özgü bir halk oyunudur ve ibadetin parçası değildir."
+      },
+      {
+        "id": "C",
+        "text": "Semah",
+        "explanation": "Semah, Alevi-Bektaşi toplulukları tarafından ibadetin bir parçası olarak icra edilen bir halk oyunudur."
+      },
+      {
+        "id": "D",
+        "text": "Halay",
+        "explanation": "Halay, Doğu ve Güneydoğu Anadolu'ya özgü bir halk oyunudur ve ibadetin parçası değildir."
+      },
+      {
+        "id": "E",
+        "text": "Bar",
+        "explanation": "Bar, Erzurum, Kars ve Artvin yörelerine özgü bir halk oyunudur ve ibadetin parçası değildir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Sema (Mevlevi) ile Semah (Alevi-Bektaşi) karıştırılabilir, ancak soru 'Alevi-Bektaşi' vurgusuyla yönlendirme yapmaktadır.",
+    "id": "halk-bilimi-edebiyat-043",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Halk Edebiyatı",
+    "difficulty": 2,
+    "stem": "Aşağıdaki destanlardan hangisi ait olduğu topluluk eşleştirmesi bakımından diğerlerinden farklı bir döneme veya coğrafyaya aittir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Oğuz Kağan Destanı - Hunlar",
+        "explanation": "Oğuz Kağan Destanı, Hunlar dönemine ait bir destandır."
+      },
+      {
+        "id": "B",
+        "text": "Bozkurt Destanı - Göktürkler",
+        "explanation": "Bozkurt Destanı, Göktürkler dönemine ait bir destandır."
+      },
+      {
+        "id": "C",
+        "text": "Ergenekon Destanı - Göktürkler",
+        "explanation": "Ergenekon Destanı, Göktürkler dönemine ait bir destandır."
+      },
+      {
+        "id": "D",
+        "text": "Manas Destanı - Kırgızlar",
+        "explanation": "Manas Destanı, Kırgızlara ait olup dünyanın en uzun destanıdır ve diğer şıklardaki destanlara göre daha yakın bir döneme ve farklı bir coğrafyaya işaret eder."
+      },
+      {
+        "id": "E",
+        "text": "Alp Er Tunga Destanı - Sakalar",
+        "explanation": "Alp Er Tunga Destanı, Sakalar (İskitler) dönemine ait bir destandır."
+      }
+    ],
+    "correct": "D",
+    "trick": "Destanların topluluk eşleştirmelerini bilmek, farklı olanı bulmayı zorlaştırabilir. Manas Destanı'nın 'dünyanın en uzunu' olması ve Kırgızlara ait olması onu diğerlerinden ayırır.",
+    "id": "halk-bilimi-edebiyat-044",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Türk Dili",
+    "difficulty": 2,
+    "stem": "Türk dilinin tarihsel süreçte kullandığı alfabelerin kronolojik sıralaması aşağıdaki seçeneklerden hangisinde doğru verilmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Uygur, Göktürk, Latin, Arap",
+        "explanation": "Göktürk alfabesi, Uygur alfabesinden önce kullanılmıştır."
+      },
+      {
+        "id": "B",
+        "text": "Arap, Göktürk, Uygur, Latin",
+        "explanation": "Göktürk ve Uygur alfabeleri, Arap alfabesinden önce kullanılmıştır."
+      },
+      {
+        "id": "C",
+        "text": "Latin, Arap, Uygur, Göktürk",
+        "explanation": "Latin alfabesi en son kullanılan alfabedir ve diğerleri ondan çok daha önce kullanılmıştır."
+      },
+      {
+        "id": "D",
+        "text": "Göktürk, Arap, Uygur, Latin",
+        "explanation": "Uygur alfabesi, Arap alfabesinden önce kullanılmıştır."
+      },
+      {
+        "id": "E",
+        "text": "Göktürk, Uygur, Arap, Latin",
+        "explanation": "Türklerin tarih boyunca kullandığı alfabelerin doğru kronolojik sıralaması Göktürk, Uygur, Arap ve Latin alfabeleridir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Alfabe sıralamasında Uygur ve Arap alfabelerinin sırası sıklıkla karıştırılır.",
+    "id": "halk-bilimi-edebiyat-045",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Geçiş Dönemleri",
+    "difficulty": 2,
+    "stem": "Evlenme geçiş döneminde yer alan geleneklerden 'kına' ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Gelinin eline yakılan kına, ayrılık ve fedakârlık simgesidir.",
+        "explanation": "Gelinin eline yakılan kına, genellikle ayrılık ve fedakârlığı simgeler."
+      },
+      {
+        "id": "B",
+        "text": "Sadece erkek tarafında damat için uygulanır.",
+        "explanation": "Kına gecesi gelinin eline kına yakılması esastır, ancak damat kınası da mevcuttur. Sadece erkek tarafında uygulanır ifadesi yanlıştır."
+      },
+      {
+        "id": "C",
+        "text": "Yeni evli çiftin bereketini artırmak için eşiğe yağ sürme geleneğidir.",
+        "explanation": "Eşiğe yağ sürme bereket ve uğur uygulamasıdır, kına ile ilgili değildir."
+      },
+      {
+        "id": "D",
+        "text": "Kız isteme töreninden hemen sonra yapılan bir nişan merasimidir.",
+        "explanation": "Kına gecesi, nişan sonrası düğünden hemen önce yapılan bir törendir, kız isteme sonrası değildir."
+      },
+      {
+        "id": "E",
+        "text": "Çeyiz sermenin bir diğer adıdır.",
+        "explanation": "Çeyiz serme, gelinin ev eşyalarının sergilenmesi geleneğidir, kına ile ilgili değildir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Kınanın sadece bir gelenek olduğu bilinirken, simgesel anlamı gözden kaçırılabilir.",
+    "id": "halk-bilimi-edebiyat-046",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Halk Bilimi",
+    "difficulty": 3,
+    "stem": "Aşağıdaki halk inanışlarından hangisi, İslam öncesi Türk inancından gelip İslam'la sentezlenmiş uygulamalar arasında DEĞİLDİR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Nazar inancı ve nazar boncuğu kullanımı",
+        "explanation": "Nazar inancı ve nazar boncuğu kullanımı, İslam öncesi Türk inancından gelip İslam'la sentezlenmiş uygulamalardandır."
+      },
+      {
+        "id": "B",
+        "text": "Cenaze namazı kılma",
+        "explanation": "Cenaze namazı, tamamen İslam dinine ait bir ibadettir ve İslam öncesi Türk inancından gelip sentezlenmiş bir uygulama değildir."
+      },
+      {
+        "id": "C",
+        "text": "Ağaca çaput bağlama geleneği",
+        "explanation": "Ağaca çaput bağlama geleneği, İslam öncesi Türk inancından gelip İslam'la sentezlenmiş uygulamalardandır."
+      },
+      {
+        "id": "D",
+        "text": "Adak adama ve yatır/türbe ziyareti",
+        "explanation": "Adak adama ve yatır/türbe ziyareti, İslam öncesi Türk inancından gelip İslam'la sentezlenmiş uygulamalardandır."
+      },
+      {
+        "id": "E",
+        "text": "Hıdrellez dilekleri tutma",
+        "explanation": "Hıdrellez dilekleri tutma, İslam öncesi Türk inancından gelip İslam'la sentezlenmiş uygulamalardandır."
+      }
+    ],
+    "correct": "B",
+    "trick": "Halk inanışlarının çoğu sentezlenmiş olduğu için, tamamen İslami olan bir uygulamanın ayırt edilmesi zor olabilir.",
+    "id": "halk-bilimi-edebiyat-047",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Türk Mutfağı",
+    "difficulty": 1,
+    "stem": "Türk Patent ve Marka Kurumu tarafından tescillenen coğrafi işaretli ürünlerde, üretimin tamamının belirli bir yörede gerçekleşmesi zorunluluğu bulunan kategori aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Mahreç işareti",
+        "explanation": "Mahreç işaretinde üretimin en az bir aşaması o yörede gerçekleşmelidir, tamamının değil."
+      },
+      {
+        "id": "B",
+        "text": "Geleneksel ürün adı",
+        "explanation": "Geleneksel ürün adı, coğrafi işaretlerin bir alt kategorisi değildir ve tanımı farklıdır."
+      },
+      {
+        "id": "C",
+        "text": "Menşe adı",
+        "explanation": "Menşe adı, üretimin tamamının belirli bir yörede gerçekleşmesi zorunluluğu olan coğrafi işaret kategorisidir."
+      },
+      {
+        "id": "D",
+        "text": "Tescilli marka",
+        "explanation": "Tescilli marka, coğrafi işaretlerden farklı bir fikri mülkiyet korumasıdır."
+      },
+      {
+        "id": "E",
+        "text": "Bölgesel spesiyalite",
+        "explanation": "Bölgesel spesiyalite, coğrafi işaret kategorilerinden biri değildir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Menşe adı ve Mahreç işareti arasındaki farkın karıştırılması.",
+    "id": "halk-bilimi-edebiyat-048",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Halk Bilimi ve Geçiş Dönemleri",
+    "difficulty": 2,
+    "stem": "Doğum sonrası uygulanan geleneklerden biri olan 'kırk basması' ve 'kırklama' ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Bebeğin ilk dişi çıktığında yapılan bir kutlamadır.",
+        "explanation": "Bu açıklama 'diş buğdayı' geleneğine aittir, kırklama ile ilgili değildir."
+      },
+      {
+        "id": "B",
+        "text": "Loğusa kadının ve bebeğin kötü ruhlardan korunması için yapılan bir törendir.",
+        "explanation": "Kırk basması ve kırklama, doğumdan kırk gün sonra anne ve bebeğin yıkanmasıyla ilgili bir temizlik ve geçiş ritüelidir, kötü ruhlardan korunma daha çok al basması (albastı) ile ilişkilidir."
+      },
+      {
+        "id": "C",
+        "text": "Çocuğun cinsiyetini tahmin etmek için yapılan bir uygulamadır.",
+        "explanation": "Çocuğun cinsiyetini tahmin etme uygulamaları doğum öncesi dönemle ilgilidir."
+      },
+      {
+        "id": "D",
+        "text": "Doğumdan kırk gün sonra anne ve bebeğin özel bir banyo ile arındırılmasıdır.",
+        "explanation": "Kırk basması ve kırklama, doğumdan kırk gün sonra anne ve bebeğin yıkanarak bir nevi arındırılması ve loğusalık döneminin sona erdiğini simgeleyen bir âdettir."
+      },
+      {
+        "id": "E",
+        "text": "Bebeğin göbek bağının nereye gömüldüğünü belirleyen bir ritüeldir.",
+        "explanation": "Göbek bağının nereye gömüldüğü çocuğun geleceğine yönelik inançlarla ilgilidir, kırklama ile doğrudan bağlantılı değildir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Kırk basması terimi, 'kötü ruhlar' veya 'hastalık' gibi olumsuz bir anlam çağrıştırsa da, kırklama ile birlikte anne ve bebeğin arınma ritüelini ifade ettiğini bilmemek yanıltıcı olabilir.",
+    "id": "halk-bilimi-edebiyat-049",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Halk Edebiyatı: Âşıklar, Anlatılar ve Türler",
+    "difficulty": 1,
+    "stem": "Aşağıdakilerden hangisi anonim halk edebiyatı ürünlerinden biri DEĞİLDİR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Mani",
+        "explanation": "Mani, söyleyeni belli olmayan anonim halk edebiyatı türlerinden biridir."
+      },
+      {
+        "id": "B",
+        "text": "Fıkra",
+        "explanation": "Fıkralar (Nasreddin Hoca, Bektaşi gibi), anonim halk edebiyatı ürünlerindendir."
+      },
+      {
+        "id": "C",
+        "text": "Türkü",
+        "explanation": "Türküler, ezgiyle söylenen ve genellikle anonim olan halk edebiyatı türlerindendir."
+      },
+      {
+        "id": "D",
+        "text": "Masal",
+        "explanation": "Masallar, 'Bir varmış bir yokmuş' gibi kalıplarla başlayan ve söyleyeni belli olmayan anonim halk edebiyatı ürünlerindendir."
+      },
+      {
+        "id": "E",
+        "text": "Koşma",
+        "explanation": "Koşma, âşık edebiyatının en yaygın türü olup şairi bellidir ve hece ölçüsüyle söylenir. Bu nedenle anonim değildir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Halk edebiyatının anonim ve âşık edebiyatı kollarının temel farkı olan 'söyleyenin belli olup olmaması' ayrımını gözden kaçırmak, bilinen türleri karıştırmaya yol açabilir.",
+    "id": "halk-bilimi-edebiyat-050",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Halk Edebiyatı: Âşıklar, Anlatılar ve Türler",
+    "difficulty": 2,
+    "stem": "Aşağıdaki destan-ait olduğu topluluk eşleştirmelerinden hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Manas Destanı - Kırgızlar",
+        "explanation": "Manas Destanı, Kırgızlara ait olup dünyanın en uzun destanı olarak bilinir. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "Oğuz Kağan Destanı - Göktürkler",
+        "explanation": "Oğuz Kağan Destanı, Hunlara ait bir destandır."
+      },
+      {
+        "id": "C",
+        "text": "Ergenekon Destanı - Uygurlar",
+        "explanation": "Ergenekon Destanı, Göktürklere ait bir destandır."
+      },
+      {
+        "id": "D",
+        "text": "Türeyiş Destanı - Hunlar",
+        "explanation": "Türeyiş Destanı, Uygurlara ait bir destandır."
+      },
+      {
+        "id": "E",
+        "text": "Dede Korkut Hikâyeleri - Saka (İskitler)",
+        "explanation": "Dede Korkut Hikâyeleri, Oğuz/Türkmenlere ait İslami dönem destanlarındandır."
+      }
+    ],
+    "correct": "A",
+    "trick": "Destanlar ve ait oldukları topluluklar sınavda sıkça karıştırılan bilgilerdir. Özellikle Türk destanlarının hangi Türk devletine ait olduğunu bilmek önemlidir.",
+    "id": "halk-bilimi-edebiyat-051",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Halk Edebiyatı: Âşıklar, Anlatılar ve Türler",
+    "difficulty": 3,
+    "stem": "Türk halk edebiyatında masal ve efsane türlerinin en önemli ayrım noktası aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Masallar nazım-nesir karışıkken, efsaneler tamamen nesir şeklindedir.",
+        "explanation": "Halk hikâyeleri nazım-nesir karışıkken, masal ve efsaneler genellikle nesir şeklindedir."
+      },
+      {
+        "id": "B",
+        "text": "Efsaneler belirli bir yer, kişi veya olayla ilgili olup inandırıcılık iddiası taşırken, masallarda yer ve zaman belirsizdir ve olağanüstülük ön plandadır.",
+        "explanation": "Bu ifade, masal ve efsanenin en temel ayrımını doğru bir şekilde belirtmektedir. Efsaneler gerçeklik iddiası taşırken, masallar tamamen kurgusaldır."
+      },
+      {
+        "id": "C",
+        "text": "Masalların sonunda her zaman mutlu son varken, efsaneler trajiktir.",
+        "explanation": "Her masalın mutlu sonla bitmesi veya her efsanenin trajik olması gibi kesin bir kural yoktur."
+      },
+      {
+        "id": "D",
+        "text": "Masallar genellikle dini motifler içerirken, efsaneler tamamen sekülerdir.",
+        "explanation": "Hem masallarda hem de efsanelerde dini motifler bulunabilir, bu kesin bir ayrım değildir."
+      },
+      {
+        "id": "E",
+        "text": "Efsaneler sadece kahramanlık konularını işlerken, masallar günlük hayatı konu alır.",
+        "explanation": "Masallar da kahramanlık konularını işleyebilirken, efsaneler sadece kahramanlıkla sınırlı değildir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Masal ve efsane arasındaki fark, genellikle her ikisinin de olağanüstülük içermesi nedeniyle karıştırılır. Ancak 'gerçeklik iddiası' ve 'belirli yer/kişi' unsuru efsaneyi masaldan ayıran kritik noktadır.",
+    "id": "halk-bilimi-edebiyat-052",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Geleneksel Seyirlik Sanatlar ve Halk Oyunları",
+    "difficulty": 2,
+    "stem": "Geleneksel Türk tiyatrosu türlerinden olan Karagöz ve Hacivat, Meddah ve Ortaoyunu'nun temel özelliklerine dair aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Karagöz ve Hacivat: Gölge oyunu olup, deve derisinden yapılan tasvirler perdeye yansıtılır.",
+        "explanation": "Karagöz ve Hacivat, gölge oyunu olup deve derisinden yapılan tasvirlerle oynanır, bu ifade doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "Meddah: Tek kişilik bir anlatı sanatıdır ve meddahın temel aksesuarları mendil ile bastondur.",
+        "explanation": "Meddah, tek kişilik bir gösteri sanatıdır ve mendil ile baston en önemli aksesuarlarıdır, bu ifade doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Ortaoyunu: Açık alanda, dekor kullanmadan oynanan doğaçlama tiyatrodur; başrolleri Karagöz ve Hacivat'tır.",
+        "explanation": "Ortaoyunu açık alanda ve dekorsuz oynanır, ancak başrolleri Karagöz ve Hacivat değil, Pişekâr ve Kavuklu'dur. Bu ifade yanlıştır."
+      },
+      {
+        "id": "D",
+        "text": "Karagöz ve Hacivat: Karagöz halktan, okumamış ve patavatsızken, Hacivat okumuş ve kibar bir karakterdir.",
+        "explanation": "Karagöz ve Hacivat'ın karakter özellikleri doğru tanımlanmıştır, bu ifade doğrudur."
+      },
+      {
+        "id": "E",
+        "text": "Ortaoyunu: Oyun alanına palanga, dükkâna dükkân, eve ise yeni dünya adı verilir.",
+        "explanation": "Ortaoyununda kullanılan terimler doğru verilmiştir, bu ifade doğrudur."
+      }
+    ],
+    "correct": "C",
+    "trick": "Karagöz ve Ortaoyunu'nun baş karakterleri sıkça karıştırılır. Ortaoyunu'nun başrollerinin Pişekâr ve Kavuklu olduğunu bilmemek, soruyu yanlış cevaplamanıza neden olabilir.",
+    "id": "halk-bilimi-edebiyat-053",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Geleneksel Seyirlik Sanatlar ve Halk Oyunları",
+    "difficulty": 1,
+    "stem": "Aşağıdaki halk oyunu ve yöre eşleştirmelerinden hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Halay - Ege Bölgesi",
+        "explanation": "Halay, daha çok Doğu ve Güneydoğu Anadolu Bölgeleri'ne ait bir halk oyunudur."
+      },
+      {
+        "id": "B",
+        "text": "Zeybek - Karadeniz Bölgesi",
+        "explanation": "Zeybek, Ege Bölgesi'ne ait ağır ve yiğitçe bir halk oyunudur."
+      },
+      {
+        "id": "C",
+        "text": "Bar - İç Anadolu Bölgesi",
+        "explanation": "Bar, Erzurum, Kars, Artvin gibi Doğu Anadolu bölgelerine ait toplu bir halk oyunudur."
+      },
+      {
+        "id": "D",
+        "text": "Horon - Karadeniz Bölgesi",
+        "explanation": "Horon, Karadeniz Bölgesi'ne (özellikle Trabzon, Rize) özgü, kemençe eşliğinde oynanan bir halk oyunudur."
+      },
+      {
+        "id": "E",
+        "text": "Kaşık Oyunu - Trakya Bölgesi",
+        "explanation": "Kaşık oyunu, daha çok Konya, Silifke, Mersin gibi İç Anadolu ve Akdeniz bölgelerine aittir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Halk oyunlarının yörelerini karıştırmak, bu tür sorularda en sık yapılan hatadır. Her oyunun ait olduğu bölgeyi net bir şekilde bilmek önemlidir.",
+    "id": "halk-bilimi-edebiyat-054",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Türk Mutfağı ve Coğrafi İşaretler",
+    "difficulty": 2,
+    "stem": "Türk kahvesi kültürü ve coğrafi işaretli ürünler hakkında verilen bilgilerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Türk kahvesi, 16. yüzyılda Yemen'den Osmanlı'ya gelmiş ve ilk kahvehaneler İstanbul'da açılmıştır.",
+        "explanation": "Türk kahvesinin kökeni ve İstanbul'daki ilk kahvehanelerin açılış tarihi doğru verilmiştir."
+      },
+      {
+        "id": "B",
+        "text": "Avrupa'ya kahve kültürü, Osmanlı İmparatorluğu üzerinden yayılmıştır.",
+        "explanation": "Avrupa'nın kahveyle tanışması genellikle Osmanlı'nın yayılışı ve Viyana kuşatması gibi tarihi olaylarla ilişkilendirilir, bu ifade doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Gaziantep baklavası, Avrupa Birliği'nden coğrafi işaret tescili alan ilk Türk ürünüdür.",
+        "explanation": "Gaziantep baklavası, AB tarafından tescillenen ilk Türk ürünüdür, bu ifade doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "Gaziantep ve Hatay, UNESCO Yaratıcı Şehirler Ağı'nda gastronomi dalında yer almaktadır.",
+        "explanation": "Gaziantep (2015) ve Hatay (2017) UNESCO Gastronomi Şehirleri listesindedir, bu ifade doğrudur."
+      },
+      {
+        "id": "E",
+        "text": "Coğrafi işaretli ürünlerde 'menşe adı', ürünün en az bir aşamasının o yörede gerçekleşmesini ifade eder.",
+        "explanation": "Menşe adı, ürünün üretiminin TAMAMININ o yörede gerçekleşmesini ifade eder. En az bir aşamanın gerçekleşmesi 'mahreç işareti' tanımına uyar. Bu ifade yanlıştır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Coğrafi işaretlerdeki 'menşe adı' ve 'mahreç işareti' tanımları sıklıkla karıştırılır. 'Menşe adı' için üretimin tamamı, 'mahreç işareti' için ise en az bir aşaması yörede gerçekleşmelidir.",
+    "id": "halk-bilimi-edebiyat-055",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Yazılı Edebiyatın Kilometre Taşları",
+    "difficulty": 3,
+    "stem": "Divan edebiyatında kullanılan nazım biçimleri ve özellikleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Şarkı ve rubai, divan edebiyatına Türklerin kazandırdığı özgün nazım biçimleridir.",
+        "explanation": "Şarkı ve tuyuğ, divan edebiyatına Türklerin kazandırdığı özgün nazım biçimleridir. Rubai ise Fars edebiyatından gelmiştir. Bu ifade yanlıştır."
+      },
+      {
+        "id": "B",
+        "text": "Gazel, aşk, güzellik gibi konuları işleyen, 5-15 beyitten oluşan bir nazım biçimidir.",
+        "explanation": "Gazelin konusu ve beyit sayısı doğru verilmiştir, bu ifade doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Kaside, genellikle din ve devlet büyüklerini övmek amacıyla yazılan, uzun bir nazım biçimidir.",
+        "explanation": "Kaside, övgü şiiridir ve din/devlet büyükleri için yazılır, bu ifade doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "Mesnevi, her beyti kendi içinde uyaklı olan ve uzun hikâyeleri anlatmak için kullanılan bir nazım biçimidir.",
+        "explanation": "Mesnevinin özelliği ve kullanım amacı doğru verilmiştir, bu ifade doğrudur."
+      },
+      {
+        "id": "E",
+        "text": "Divan edebiyatında Arapça ve Farsça kelimeler yoğun olarak kullanılır ve mazmun adı verilen kalıplaşmış imgelerden faydalanılır.",
+        "explanation": "Divan edebiyatının dil ve imge özellikleri doğru belirtilmiştir, bu ifade doğrudur."
+      }
+    ],
+    "correct": "A",
+    "trick": "Divan edebiyatında Türklerin kazandırdığı nazım biçimlerini (tuyuğ ve şarkı) diğerleriyle karıştırmak, özellikle rubai gibi Fars kökenli olanları bu kategoriye dahil etmek yanıltıcı olabilir.",
+    "id": "halk-bilimi-edebiyat-056",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Halk Bilimi ve Geçiş Dönemleri",
+    "difficulty": 2,
+    "stem": "Aşağıdakilerden hangisi ölüm geçiş dönemiyle ilgili uygulamalardan biri değildir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yedisi, kırkı ve elli ikisi mevlitleri",
+        "explanation": "Yedisi, kırkı ve elli ikisi, ölüm sonrası yapılan mevlitlerdir ve bu döneme aittir."
+      },
+      {
+        "id": "B",
+        "text": "Loğusa şerbeti ikramı",
+        "explanation": "Loğusa şerbeti ikramı, doğum sonrası annenin ve bebeğin ziyaretçilerine sunulan bir adettir ve doğum geçiş dönemiyle ilgilidir, ölümle değil."
+      },
+      {
+        "id": "C",
+        "text": "Helva dağıtma ve taziye ziyaretleri",
+        "explanation": "Helva dağıtma ve taziye (baş sağlığı) ziyaretleri ölüm sonrası geleneklerdendir."
+      },
+      {
+        "id": "D",
+        "text": "Ölünün gözlerinin kapatılması ve çenesinin bağlanması",
+        "explanation": "Can çekişme sırasında ölünün gözlerinin kapatılması ve çenesinin bağlanması ölüm geçiş döneminin başlangıç uygulamalarındandır."
+      },
+      {
+        "id": "E",
+        "text": "Ağıt yakma geleneği",
+        "explanation": "Ağıt yakma, ölen kişinin ardından söylenen ezgili sözlerdir ve ölüm kültürüyle doğrudan ilişkilidir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Kafa karışıklığı yaratmak için doğum ve ölüm gibi farklı geçiş dönemlerinin uygulamaları birbirine karıştırılabilir. Loğusa şerbeti doğum sonrası bir adettir.",
+    "id": "halk-bilimi-edebiyat-057",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Halk Edebiyatı: Âşıklar, Anlatılar ve Türler",
+    "difficulty": 3,
+    "stem": "Türk halk edebiyatındaki destanlar ve ait oldukları topluluklar düşünüldüğünde, aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Alp Er Tunga - Saka (İskit)",
+        "explanation": "Alp Er Tunga Destanı, Saka (İskit) Türklerine ait önemli bir destandır."
+      },
+      {
+        "id": "B",
+        "text": "Oğuz Kağan - Hun",
+        "explanation": "Oğuz Kağan Destanı, Hun Türklerine ait bir destandır."
+      },
+      {
+        "id": "C",
+        "text": "Manas - Uygur",
+        "explanation": "Manas Destanı, Kırgız Türklerine ait olup dünyanın en uzun destanıdır. Uygur destanları Türeyiş ve Göç destanlarıdır."
+      },
+      {
+        "id": "D",
+        "text": "Ergenekon - Göktürk",
+        "explanation": "Ergenekon Destanı, Göktürk Türklerine ait bir destandır."
+      },
+      {
+        "id": "E",
+        "text": "Dede Korkut Hikâyeleri - Oğuz/Türkmen",
+        "explanation": "Dede Korkut Hikâyeleri, Oğuz/Türkmen boylarına ait olup İslami dönemde şekillenmiştir ve UNESCO listesindedir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Manas Destanı'nın dünyanın en uzun destanı olduğu bilgisi bilinse de, hangi topluluğa ait olduğu karıştırılabilir. Uygur destanları Türeyiş ve Göç'tür.",
+    "id": "halk-bilimi-edebiyat-058",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Geleneksel Seyirlik Sanatlar ve Halk Oyunları",
+    "difficulty": 2,
+    "stem": "Aşağıdaki halk oyunlarından hangisi yöre eşleştirmesi bakımından diğerlerinden farklı bir coğrafyaya aittir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Bar",
+        "explanation": "Bar, Erzurum, Kars, Artvin gibi Doğu Anadolu ve Doğu Karadeniz illerinde oynanan bir halk oyunudur."
+      },
+      {
+        "id": "B",
+        "text": "Horon",
+        "explanation": "Horon, Karadeniz Bölgesi'ne (Trabzon, Rize) özgü bir halk oyunudur."
+      },
+      {
+        "id": "C",
+        "text": "Halay",
+        "explanation": "Halay, Doğu ve Güneydoğu Anadolu Bölgeleri'ne (Elazığ, Urfa, Diyarbakır) ait bir halk oyunudur."
+      },
+      {
+        "id": "D",
+        "text": "Zeybek",
+        "explanation": "Zeybek, Ege Bölgesi'ne (Aydın, İzmir, Muğla) ait bir halk oyunudur."
+      },
+      {
+        "id": "E",
+        "text": "Kaşık oyunu",
+        "explanation": "Kaşık oyunu, Konya, Silifke, Mersin gibi İç Anadolu ve Akdeniz Bölgeleri'nde yaygın olan bir halk oyunudur."
+      }
+    ],
+    "correct": "D",
+    "trick": "Bu soruda, şıklar arasında bölgesel bir farklılık aranmaktadır. Zeybek Ege'ye aitken, diğerleri daha çok Doğu, Güneydoğu, Karadeniz ve İç Anadolu ile ilişkilidir. Adayın tüm eşleştirmeleri doğru bilmesi beklenir.",
+    "id": "halk-bilimi-edebiyat-059",
+    "topicId": "halk-bilimi-edebiyat"
+  },
+  {
+    "subtopic": "Türk Mutfağı ve Coğrafi İşaretler",
+    "difficulty": 1,
+    "stem": "Türk kahvesi kültürüyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Türk kahvesi, 16. yüzyılda Avrupa'dan Osmanlı'ya gelmiştir.",
+        "explanation": "Türk kahvesi Avrupa'dan değil, Yemen'den Osmanlı'ya gelmiştir."
+      },
+      {
+        "id": "B",
+        "text": "Osmanlı'da ilk kahvehaneler 18. yüzyılda açılmıştır.",
+        "explanation": "Osmanlı'da ilk kahvehaneler 16. yüzyılda açılmıştır."
+      },
+      {
+        "id": "C",
+        "text": "'Bir fincan kahvenin on yıl hatırı vardır' sözüyle bilinir.",
+        "explanation": "'Bir fincan kahvenin kırk yıl hatırı vardır' sözüyle bilinir."
+      },
+      {
+        "id": "D",
+        "text": "Kız isteme törenlerinde kahve ikramı geleneği bulunmamaktadır.",
+        "explanation": "Kız isteme törenlerinde kahve ikramı önemli bir gelenektir."
+      },
+      {
+        "id": "E",
+        "text": "Türk kahvesi kültürü, UNESCO Somut Olmayan Kültürel Miras listesinde yer almaktadır.",
+        "explanation": "Türk kahvesi kültürü ve geleneği, UNESCO Somut Olmayan Kültürel Miras ögelerimizden biridir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Kahve ile ilgili tarihi ve kültürel detayların karıştırılması hedeflenir. Özellikle yüzyıl bilgileri ve atasözleri çeldirici olabilir.",
+    "id": "halk-bilimi-edebiyat-060",
+    "topicId": "halk-bilimi-edebiyat"
+  }
+]

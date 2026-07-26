@@ -1,0 +1,614 @@
+[
+  {
+    "subtopic": "Turizmin Tanımı ve Temel Kavramlar",
+    "difficulty": 2,
+    "stem": "Aşağıdakilerden hangisi turizmin temel özelliklerinden biri DEĞİLDİR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Talep esnek değildir.",
+        "explanation": "Turizm talebi, ekonomik krizler, salgınlar veya terör olayları gibi faktörlerden hızla etkilendiği için oldukça esnektir."
+      },
+      {
+        "id": "B",
+        "text": "Ürün stoklanamaz.",
+        "explanation": "Turizmde satılamayan bir otel odası veya uçak koltuğu o gün için kayıp gelirdir ve stoklanamaz."
+      },
+      {
+        "id": "C",
+        "text": "Üretim ve tüketim aynı anda, aynı yerde gerçekleşir.",
+        "explanation": "Turistik hizmetler, hizmetin üretildiği yerde ve üretildiği anda tüketilir."
+      },
+      {
+        "id": "D",
+        "text": "Emek yoğundur.",
+        "explanation": "Turizm sektörü, makineyle ikame edilemeyen insan hizmetine dayandığı için emek yoğundur."
+      },
+      {
+        "id": "E",
+        "text": "Mevsimlik bir yapıya sahiptir.",
+        "explanation": "Turizm talebi, yıl içinde dalgalanmalar gösterir ve genellikle mevsimlik özellik taşır (örneğin, Türkiye'de deniz turizmi)."
+      }
+    ],
+    "correct": "A",
+    "trick": "Turizm talebinin esnekliği genellikle olumsuz olaylarla karıştırılabilir, ancak esnek olması, bu olaylardan çabuk etkilenmesi anlamına gelir.",
+    "id": "genel-turizm-041",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "Turizm Türleri",
+    "difficulty": 1,
+    "stem": "Türkiye'de özellikle saç ekimi ve diş tedavisi gibi tıbbi işlemler için gelen ziyaretçilerin oluşturduğu turizm türü aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Termal turizm",
+        "explanation": "Termal turizm, şifalı sular ve kaplıcalar gibi doğal kaynaklara dayalı sağlık turizmidir, tıbbi işlemlerle doğrudan ilgili değildir."
+      },
+      {
+        "id": "B",
+        "text": "Medikal turizm",
+        "explanation": "Medikal turizm, ameliyat, saç ekimi, diş tedavisi gibi tıbbi işlemler için yapılan seyahatleri kapsar."
+      },
+      {
+        "id": "C",
+        "text": "Wellness turizmi",
+        "explanation": "Wellness turizmi, genel esenlik ve rahatlama odaklıdır, tıbbi tedavi içermez."
+      },
+      {
+        "id": "D",
+        "text": "Alternatif turizm",
+        "explanation": "Alternatif turizm, deniz-kum-güneş dışındaki tüm turizm türlerini kapsayan geniş bir kategoridir, spesifik bir tıbbi işlemi tanımlamaz."
+      },
+      {
+        "id": "E",
+        "text": "Kültür turizmi",
+        "explanation": "Kültür turizmi, tarihi ve kültürel mirasın ziyaret edilmesini amaçlar, sağlık hizmetleriyle ilişkili değildir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Termal turizm ile medikal turizm sıkça karıştırılır. Termal şifalı sudur, medikal ise tıbbi işlemlerdir.",
+    "id": "genel-turizm-042",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "Dünyada ve Türkiye'de Turizmin Tarihçesi",
+    "difficulty": 2,
+    "stem": "Aşağıdakilerden hangisi modern turizmin ve seyahat acentacılığının başlangıcı olarak kabul edilen Thomas Cook'un 1841'de gerçekleştirdiği ilk paket turun temel özelliklerinden biridir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yalnızca aristokratlara yönelik lüks bir gezi olması",
+        "explanation": "Grand Tour aristokratlara yönelikti, ancak Thomas Cook'un ilk paketi kitlelere hitap ediyordu."
+      },
+      {
+        "id": "B",
+        "text": "Uluslararası bir destinasyona düzenlenmesi",
+        "explanation": "İlk paket tur Leicester-Loughborough arasında, yani yurt içinde düzenlenmiştir."
+      },
+      {
+        "id": "C",
+        "text": "Demiryolu ile toplu taşıma kullanılması",
+        "explanation": "Thomas Cook, Leicester-Loughborough arasında demiryolu kullanarak 570 kişilik bir gezi düzenlemiştir."
+      },
+      {
+        "id": "D",
+        "text": "Boş zaman değerlendirme yerine dini amaç gütmesi",
+        "explanation": "Orta Çağ'daki hac yolculukları dini amaçlıydı. Cook'un turu boş zaman değerlendirme amaçlıydı."
+      },
+      {
+        "id": "E",
+        "text": "Sadece konaklama hizmetini içermesi",
+        "explanation": "Paket tur tanımı gereği ulaştırma, konaklama ve diğer hizmetleri bir arada sunar. Cook'un turu da bu hizmetleri içeriyordu."
+      }
+    ],
+    "correct": "C",
+    "trick": "Grand Tour ile Thomas Cook'un paket turu arasındaki farklar karıştırılabilir. Cook'un yeniliği toplu taşıma ve paket hizmet sunmasıdır.",
+    "id": "genel-turizm-043",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "Türkiye Turizminin Bugünkü Yapısı",
+    "difficulty": 3,
+    "stem": "Türkiye'de turizmin ekonomiye katkıları göz önüne alındığında, aşağıdaki ifadelerden hangisi 'görünmeyen ihracat' kavramını en iyi açıklar?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Turizm sektöründe yaratılan istihdamın ulusal gelire katkısı.",
+        "explanation": "Bu ifade istihdamın ekonomiye katkısını belirtir, ancak 'görünmeyen ihracat' kavramını doğrudan açıklamaz."
+      },
+      {
+        "id": "B",
+        "text": "Turistik tesislerin inşası için yapılan yatırımların ekonomik büyümeye etkisi.",
+        "explanation": "Bu ifade turizm yatırımlarının ekonomiye etkisini belirtir, ancak 'görünmeyen ihracat' kavramını doğrudan açıklamaz."
+      },
+      {
+        "id": "C",
+        "text": "Yerel halkın turistlere sattığı hediyelik eşyalardan elde edilen gelir.",
+        "explanation": "Bu, bir gelir kalemidir ancak 'görünmeyen ihracat'ın geniş tanımını ve döviz girdisi mekanizmasını tam olarak açıklamaz."
+      },
+      {
+        "id": "D",
+        "text": "Turistin harcadığı dövizin ülke içinde kalması ve dış ticaret açığını kapatması.",
+        "explanation": "Turistin ülke içinde harcadığı döviz, malın yurt dışına gitmeden alıcının ülkeye gelmesiyle sağlanan döviz girdisidir ve 'görünmeyen ihracat' olarak adlandırılır."
+      },
+      {
+        "id": "E",
+        "text": "Turizm sektörünün diğer sektörlerle olan bağlantıları sayesinde yarattığı çarpan etkisi.",
+        "explanation": "Çarpan etkisi, turizm harcamalarının ekonomiye yayılımını ifade eder, ancak 'görünmeyen ihracat'ın temelini oluşturan döviz girdisi mekanizmasını açıklamaz."
+      }
+    ],
+    "correct": "D",
+    "trick": "Çarpan etkisi ve istihdam gibi diğer ekonomik katkılar ile 'görünmeyen ihracat' kavramı karıştırılabilir. Görünmeyen ihracat, malın ülke dışına çıkmadan döviz girdisi sağlamasıdır.",
+    "id": "genel-turizm-044",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "1618 Sayılı Kanun: Seyahat Acentaları",
+    "difficulty": 2,
+    "stem": "1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu'na göre, aşağıda belirtilen seyahat acentası gruplarından hangisinin yetkileri doğru bir şekilde tanımlanmıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A grubu acentalar, yalnızca yurt içi turlar düzenleyebilir.",
+        "explanation": "A grubu acentalar, tüm seyahat acentacılığı hizmetlerini (yurt içi ve yurt dışı turlar dahil) yapma yetkisine sahiptir."
+      },
+      {
+        "id": "B",
+        "text": "C grubu acentalar, hem Türk vatandaşları hem de yabancılar için yurt dışı turlar düzenleyebilir.",
+        "explanation": "C grubu acentalar yalnızca Türk vatandaşları için yurt içi turlar düzenleyebilir, yurt dışı tur düzenleme yetkileri yoktur."
+      },
+      {
+        "id": "C",
+        "text": "A grubu acentalar, B ve C grubu acentaların yetkilerini kapsamaz.",
+        "explanation": "A grubu acentalar, bütün seyahat acentacılığı hizmetlerini yapabilir, dolayısıyla B ve C grubunun yetkilerini de kapsar."
+      },
+      {
+        "id": "D",
+        "text": "C grubu acentaların TÜRSAB'a üye olma zorunluluğu yoktur.",
+        "explanation": "TÜRSAB'a üyelik, tüm seyahat acentaları için zorunludur."
+      },
+      {
+        "id": "E",
+        "text": "B grubu acentalar, sadece uluslararası kara, deniz, hava ulaştırma araçlarıyla bilet satışı yapabilir ve A grubu acentaların turlarını pazarlayabilir.",
+        "explanation": "B grubu acentaların tanımı notlarda belirtildiği gibi, uluslararası ulaştırma bilet satışı ve A grubu turlarının pazarlanmasıdır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Acenta gruplarının yetkileri, özellikle C grubunun çift yönlü sınırlaması (yalnızca Türk vatandaşı ve yalnızca yurt içi) sıkça karıştırılır.",
+    "id": "genel-turizm-045",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "6326 Sayılı Kanun: Turist Rehberliği Mesleği",
+    "difficulty": 1,
+    "stem": "6326 sayılı Turist Rehberliği Meslek Kanunu'na göre, turist rehberliği mesleğini icra edebilmek için her yıl vize ettirilmesi zorunlu olan belge aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Çalışma kartı",
+        "explanation": "Fiilen rehberlik yapabilmek için her yıl vize ettirilmesi gereken belge çalışma kartıdır."
+      },
+      {
+        "id": "B",
+        "text": "Ruhsatname",
+        "explanation": "Ruhsatname, Bakanlık tarafından bir kez verilen ve süresiz olan belgedir, her yıl vize ettirilmez."
+      },
+      {
+        "id": "C",
+        "text": "Mesleki Yeterlilik Belgesi",
+        "explanation": "Mesleki Yeterlilik Belgesi, rehber olabilmek için gerekli olan genel yeterliliği gösterir, yıllık vizeye tabi değildir."
+      },
+      {
+        "id": "D",
+        "text": "TUREB Üyelik Belgesi",
+        "explanation": "TUREB üyeliği zorunludur ancak bu belge çalışma kartının yerine geçmez ve yıllık vize prosedürü farklıdır."
+      },
+      {
+        "id": "E",
+        "text": "Dil Yeterlilik Belgesi",
+        "explanation": "Dil yeterlilik belgesi, rehber olabilme şartlarından biridir ve bir kez sunulur, yıllık vizeye tabi değildir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Ruhsatname ve çalışma kartı arasındaki fark, özellikle yıllık vize zorunluluğu konusunda sıkça karıştırılır.",
+    "id": "genel-turizm-046",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "Rehberin Görev, Yetki ve Sorumlulukları",
+    "difficulty": 2,
+    "stem": "Bir turist rehberinin tur sırasında yapamayacağı veya etik olmayan davranışlardan biri aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Grubu müze girişinde saymak.",
+        "explanation": "Grubu saymak, rehberin güvenlik ve düzeni sağlamak adına temel görevlerinden biridir."
+      },
+      {
+        "id": "B",
+        "text": "Turistten habersiz komisyon almak veya alışverişe zorlamak.",
+        "explanation": "Bu, rehberin meslek etiğine aykırı ve yapamayacağı bir davranıştır, çıkar çatışması yaratır."
+      },
+      {
+        "id": "C",
+        "text": "Programda yer alan hizmetlerin verilip verilmediğini denetlemek.",
+        "explanation": "Rehber, programın eksiksiz uygulanmasından sorumludur ve hizmetlerin denetimini yapar."
+      },
+      {
+        "id": "D",
+        "text": "Anlatım sırasında doğru ve güncel bilgi vermek.",
+        "explanation": "Doğru ve güncel bilgi vermek, rehberin en temel bilgi aktarım sorumluluğudur."
+      },
+      {
+        "id": "E",
+        "text": "Güvenlik önlemleri konusunda grubu uyarmak.",
+        "explanation": "Grubun güvenliğini sağlamak ve onları bilgilendirmek, rehberin önemli görevlerindendir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Rehberin görevleri ile etik dışı davranışları arasındaki ayrım, özellikle 'komisyon' ve 'alışverişe zorlama' gibi hassas konularda karıştırılabilir.",
+    "id": "genel-turizm-047",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "İletişim Becerileri ve Grup Yönetimi",
+    "difficulty": 3,
+    "stem": "Rehberin beden dili ve anlatım teknikleri açısından, bir grubun karşısında durarak anlatım yaparken dikkat etmesi gereken doğru uygulamalar sırasıyla hangi seçenekte verilmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Eseri işaret parmağıyla göstermek, sürekli tek kişiye göz teması kurmak, anlatılan yere sırt dönmek.",
+        "explanation": "Parmakla işaret etmek, tek kişiye odaklanmak ve esere sırt dönmek yanlış uygulamalardır."
+      },
+      {
+        "id": "B",
+        "text": "Kolları kavuşturarak durmak, anlatılan yeri eliyle göstermek, güneşin turistlerin yüzüne gelmesini sağlamak.",
+        "explanation": "Kolları kavuşturmak savunmacı bir duruş sergiler ve güneşin turistlerin yüzüne gelmesi onların rahatsız olmasına neden olur."
+      },
+      {
+        "id": "C",
+        "text": "Anlatırken gruba dönük durmak, anlatılan yeri eliyle göstermek, göz temasını grubun tamamına dağıtmak.",
+        "explanation": "Bu seçenek, rehberin beden dili ve anlatım teknikleri için belirtilen doğru uygulamaların tamamını içerir."
+      },
+      {
+        "id": "D",
+        "text": "Anlatımı 30 dakikadan uzun tutmak, sadece tarih ve rakamlarla bilgi vermek, grubu rehberin arkasında toplamak.",
+        "explanation": "Anlatım süresi ayakta 15-20 dakikayı geçmemeli, hikâyeleştirme kullanılmalı ve grup rehberin çevresinde toplanmalıdır."
+      },
+      {
+        "id": "E",
+        "text": "Güneşin rehberin sırtına gelmesini sağlamak, göz temasını hiç kesmemek, tartışmalı konularda taraf tutmak.",
+        "explanation": "Güneş rehberin yüzüne, turistin sırtına gelmeli; göz teması dağıtılmalı ve rehber tartışmalı konularda tarafsız olmalıdır."
+      }
+    ],
+    "correct": "C",
+    "trick": "Beden dili ve grup yönetimi kuralları sıkça karıştırılır. Özellikle güneşin konumu, göz teması ve işaret etme şekli önemli ayrıntılardır.",
+    "id": "genel-turizm-048",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "Turizmin Tanımı ve Temel Kavramlar",
+    "difficulty": 2,
+    "stem": "Bir kişinin sürekli yaşadığı yer dışına çıkarak, kazanç sağlama ve sürekli yerleşme amacı gütmeden gerçekleştirdiği seyahat ve konaklama faaliyetlerinin oluşturduğu ilişkiler bütününe ne ad verilir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Göç",
+        "explanation": "Göç, sürekli yerleşme amacı güderken, turizm bu amacı gütmez."
+      },
+      {
+        "id": "B",
+        "text": "İş Seyahati",
+        "explanation": "İş seyahati, kazanç sağlama amacı güttüğü için turizm tanımına uymaz."
+      },
+      {
+        "id": "C",
+        "text": "İkamet",
+        "explanation": "İkamet, sürekli bir yerde yaşama durumunu ifade ederken, turizm geçici bir faaliyettir."
+      },
+      {
+        "id": "D",
+        "text": "Turizm",
+        "explanation": "Turizmin tanımı, sürekli yaşanan yer dışına çıkmak, kazanç sağlama amacı gütmemek ve sürekli yerleşme amacı gütmemek olmak üzere üç temel şartı içerir."
+      },
+      {
+        "id": "E",
+        "text": "Transit Geçiş",
+        "explanation": "Transit geçiş, genellikle bir varış noktasına ulaşmak için yapılan kısa süreli duraklamayı ifade eder ve konaklama veya boş zaman değerlendirme amacı içermez."
+      }
+    ],
+    "correct": "D",
+    "trick": "Tanımın üç temel şartından birinin eksik olduğu şıkları çeldirici olarak kullanmak.",
+    "id": "genel-turizm-049",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "Turizm Türleri",
+    "difficulty": 2,
+    "stem": "Aşağıdaki turizm türleri ve bunlara karşılık gelen Türkiye'deki örnek eşleştirmelerinden hangisi YANLIŞTIR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kültür turizmi - Efes",
+        "explanation": "Efes, tarihi ve arkeolojik mirasıyla kültür turizminin önemli bir örneğidir."
+      },
+      {
+        "id": "B",
+        "text": "İnanç turizmi - Meryem Ana Evi",
+        "explanation": "Meryem Ana Evi, dini mekân ziyareti kapsamında inanç turizmine örnektir."
+      },
+      {
+        "id": "C",
+        "text": "Termal turizm - Afyon",
+        "explanation": "Afyon, şifalı suları ve kaplıcalarıyla termal turizmin önemli merkezlerinden biridir."
+      },
+      {
+        "id": "D",
+        "text": "Golf turizmi - Belek",
+        "explanation": "Belek, golf sahalarıyla bilinen önemli bir golf turizmi destinasyonudur."
+      },
+      {
+        "id": "E",
+        "text": "Kongre turizmi - Ayder Yaylası",
+        "explanation": "Ayder Yaylası, yayla ve doğa turizmine örnektir. Kongre turizmi genellikle büyük şehirlerde (İstanbul, Antalya) yapılır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Tanınmış destinasyonları yanlış turizm türüyle eşleştirerek yanıltmak.",
+    "id": "genel-turizm-050",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "Türkiye'de Turizmin Tarihçesi",
+    "difficulty": 2,
+    "stem": "Türkiye'de turizmin planlı döneme geçişi ve kalkınma planlarına dahil edilmesi hangi yılda gerçekleşmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "1963",
+        "explanation": "1963 yılında Türkiye'de turizm planlı döneme geçerek kalkınma planlarına dahil edilmiştir."
+      },
+      {
+        "id": "B",
+        "text": "1923",
+        "explanation": "1923, Türkiye Cumhuriyeti'nin kuruluş yılıdır ve bu dönemde Türkiye Seyyahin Cemiyeti kurulmuştur."
+      },
+      {
+        "id": "C",
+        "text": "1953",
+        "explanation": "1953 yılında Turizm Endüstrisini Teşvik Kanunu çıkarılmıştır."
+      },
+      {
+        "id": "D",
+        "text": "1972",
+        "explanation": "1972 yılında 1618 sayılı Kanun ile seyahat acentacılığı düzenlenmiş ve TÜRSAB kurulmuştur."
+      },
+      {
+        "id": "E",
+        "text": "1982",
+        "explanation": "1982 yılında 2634 sayılı Turizmi Teşvik Kanunu ile turizmde önemli bir sıçrama yaşanmıştır."
+      }
+    ],
+    "correct": "A",
+    "trick": "Türkiye turizm tarihindeki önemli kanun ve kuruluş yıllarını karıştırarak çeldirici oluşturmak.",
+    "id": "genel-turizm-051",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "Türkiye Turizminin Bugünkü Yapısı",
+    "difficulty": 1,
+    "stem": "Türkiye'nin uluslararası ziyaretçi sayısında dünyada ilk 5 içinde yer alması, turizm ekonomisine en çok hangi katkıyı sağlamaktadır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Bölgesel kalkınma farklılıklarının artması",
+        "explanation": "Turizm, bölgesel kalkınmayı dengeleyici bir etkiye sahiptir, farklılıkları artırmaz."
+      },
+      {
+        "id": "B",
+        "text": "Dış ticaret açığının kapatılmasına yardımcı olan döviz girdisi",
+        "explanation": "Türkiye'ye gelen uluslararası ziyaretçiler, ülkeye döviz girdisi sağlayarak dış ticaret açığının kapatılmasına önemli katkıda bulunur."
+      },
+      {
+        "id": "C",
+        "text": "Kültürel yozlaşmanın hızlanması",
+        "explanation": "Kültürel yozlaşma, turizmin olumsuz etkilerinden biridir, ancak ekonomiye doğrudan katkı olarak değerlendirilmez."
+      },
+      {
+        "id": "D",
+        "text": "Mevsimlik istihdamın güvencesizliği",
+        "explanation": "Mevsimlik istihdamın güvencesizliği turizmin olumsuz sosyal etkilerindendir, ekonomik katkısı değildir."
+      },
+      {
+        "id": "E",
+        "text": "Çevre tahribatının artması",
+        "explanation": "Çevre tahribatı, turizmin olumsuz çevresel etkilerindendir, ekonomik katkısı değildir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Turizmin olumlu ve olumsuz etkilerini karıştırarak, olumsuz bir etkiyi ekonomik katkı olarak sunmak.",
+    "id": "genel-turizm-052",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "6326 Sayılı Kanun: Turist Rehberliği Mesleği",
+    "difficulty": 3,
+    "stem": "6326 sayılı Turist Rehberliği Meslek Kanunu'na göre, turist rehberi olabilmek için gerekli şartlardan biri aşağıdakilerden hangisi DEĞİLDİR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "T.C. vatandaşı olmak",
+        "explanation": "Turist rehberi olabilmek için T.C. vatandaşı olmak zorunludur."
+      },
+      {
+        "id": "B",
+        "text": "Turist rehberliği ön lisans/lisans mezunu olmak veya Bakanlıkça verilen rehberlik kursunu bitirmek",
+        "explanation": "Mesleki yeterlilik için bu eğitim şartlarından birini sağlamak gereklidir."
+      },
+      {
+        "id": "C",
+        "text": "En az bir yabancı dili ana dil seviyesinde konuşmak",
+        "explanation": "Yabancı dil yeterliliğini belgelemek gereklidir, ancak bu ana dil seviyesinde olmak zorunda değildir."
+      },
+      {
+        "id": "D",
+        "text": "Mesleğe Kabul Sınavı'nda (MKS) başarılı olmak",
+        "explanation": "MKS'de başarılı olmak rehber olabilmenin temel şartlarındandır."
+      },
+      {
+        "id": "E",
+        "text": "Mesleği yapmaya engel sağlık sorunu bulunmamak",
+        "explanation": "Sağlık durumu, mesleği icra edebilmek için önemli bir kriterdir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Yabancı dil yeterliliği şartını abartarak (ana dil seviyesi) çeldirici oluşturmak.",
+    "id": "genel-turizm-053",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "Rehberin Görev, Yetki ve Sorumlulukları",
+    "difficulty": 2,
+    "stem": "Bir turist rehberinin tur sırasında yapmaması gereken davranışlardan biri aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Grubu zamanında toplamak",
+        "explanation": "Grubu zamanında toplamak, rehberin önemli sorumluluklarından biridir."
+      },
+      {
+        "id": "B",
+        "text": "Programa uygun olarak anlatım yapmak",
+        "explanation": "Doğru ve programa uygun anlatım yapmak rehberin temel görevidir."
+      },
+      {
+        "id": "C",
+        "text": "Güvenliği gözetmek ve ilk yardım gerektiren durumda müdahale etmek",
+        "explanation": "Turistlerin güvenliğini sağlamak ve acil durumlarda müdahale etmek rehberin sorumluluğundadır."
+      },
+      {
+        "id": "D",
+        "text": "Turistten habersiz komisyon almak",
+        "explanation": "Turistten habersiz komisyon almak veya alışverişe zorlamak rehberin yapmaması gereken etik dışı bir davranıştır."
+      },
+      {
+        "id": "E",
+        "text": "Programda yer alan hizmetlerin verilip verilmediğini denetlemek",
+        "explanation": "Rehber, programda vaat edilen hizmetlerin eksiksiz yerine getirilip getirilmediğini kontrol etmekle yükümlüdür."
+      }
+    ],
+    "correct": "D",
+    "trick": "Rehberin görev ve sorumluluklarını, yapmaması gereken etik dışı davranışlarla karıştırarak çeldirici oluşturmak.",
+    "id": "genel-turizm-054",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "İletişim Becerileri ve Grup Yönetimi",
+    "difficulty": 1,
+    "stem": "Rehberin müze veya ören yerinde anlatım yaparken, grubun tamamıyla göz teması kurmasının ve anlatılan yeri eliyle göstermesinin temel amacı aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Sadece önemli kişilere odaklanmak ve parmakla işaret ederek dikkat çekmek",
+        "explanation": "Bu, rehberin yapmaması gereken bir davranıştır. Göz teması tüm gruba dağıtılmalı ve parmakla işaret etmek yerine elle gösterme tercih edilmelidir."
+      },
+      {
+        "id": "B",
+        "text": "Zaman kazanmak ve anlatımı hızlandırmak",
+        "explanation": "Bu davranışlar zaman kazanma veya anlatımı hızlandırma amacı taşımaz; daha çok iletişimin kalitesini artırmaya yöneliktir."
+      },
+      {
+        "id": "C",
+        "text": "Bilgiç turistleri susturmak ve grubun disiplinini sağlamak",
+        "explanation": "Bu davranışların amacı bilgiç turistleri susturmak veya disiplin sağlamak değildir; daha çok etkili iletişimi hedefler."
+      },
+      {
+        "id": "D",
+        "text": "Yalnızca önde duranlara hitap etmek ve esere sırt dönmemek",
+        "explanation": "Esere sırt dönmemek doğru bir davranıştır, ancak göz teması sadece önde duranlarla sınırlı kalmamalıdır."
+      },
+      {
+        "id": "E",
+        "text": "Grup üyeleri arasında ayrım yapmamak ve anlatılan objeyi netleştirmek",
+        "explanation": "Rehberin göz teması grubun tamamına dağıtılmalı, tek kişiye kilitlenmemelidir. Anlatılan yerin elle gösterilmesi, objenin net bir şekilde anlaşılmasını sağlar ve parmakla işaret etmekten kaçınılmalıdır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Beden dili kurallarını farklı amaçlarla birleştirerek veya yanlış yorumlayarak çeldirici oluşturmak.",
+    "id": "genel-turizm-055",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "Turizmin Tanımı ve Temel Kavramlar",
+    "difficulty": 3,
+    "stem": "Aşağıdakilerden hangisi UNWTO'nun 'ziyaretçi' tanımına göre 'turist' olarak kabul edilmek için gerekli temel şartlardan biridir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Gittiği yerde en az bir gece konaklaması",
+        "explanation": "UNWTO'ya göre 'turist' olmanın temel şartı, gidilen yerde en az bir gece konaklamaktır. Konaklamayanlar günübirlikçi olarak kabul edilir."
+      },
+      {
+        "id": "B",
+        "text": "Seyahatin en az 24 saat sürmesi",
+        "explanation": "UNWTO tanımında ziyaretçinin turizm sayılması için 24 saatten fazla, 1 yıldan az süre şartı vardır, ancak 'turist' olmanın temel ayırt edicisi konaklamadır."
+      },
+      {
+        "id": "C",
+        "text": "Uluslararası bir seyahat gerçekleştirmiş olması",
+        "explanation": "Turist tanımı uluslararası seyahatle sınırlı değildir; ülke içinde yapılan ve konaklama içeren seyahatler de turizm kapsamındadır."
+      },
+      {
+        "id": "D",
+        "text": "Seyahatin ana amacının kazanç sağlama olmaması",
+        "explanation": "Kazanç sağlama amacı gütmemek, turizmin genel tanımının bir parçasıdır ancak 'turist' ile 'günübirlikçi' arasındaki ayrımı belirleyen temel şart değildir."
+      },
+      {
+        "id": "E",
+        "text": "Pasaport sahibi olması",
+        "explanation": "Pasaport sahibi olmak, uluslararası seyahatler için gerekli olabilir ancak turist olmak için temel bir kriter değildir, ülke içi seyahatlerde pasaport gerekmez."
+      }
+    ],
+    "correct": "A",
+    "trick": "Turizmin genel tanımındaki şartlar ile 'turist' ve 'günübirlikçi' arasındaki ayrımı belirleyen temel şart karıştırılabilir.",
+    "id": "genel-turizm-056",
+    "topicId": "genel-turizm"
+  },
+  {
+    "subtopic": "Türkiye'de Turizmin Tarihçesi",
+    "difficulty": 2,
+    "stem": "Türkiye'de turizm alanında önemli bir dönüm noktası olan ve seyahat acentalarının faaliyetlerini düzenleyerek TÜRSAB'ın kurulmasını sağlayan kanun aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "2634 sayılı Turizmi Teşvik Kanunu",
+        "explanation": "2634 sayılı Kanun, turizm yatırımlarını ve bölgelerini teşvik etmeye yönelik olup seyahat acentalarının düzenlenmesi ve TÜRSAB'ın kuruluşuyla doğrudan ilgili değildir."
+      },
+      {
+        "id": "B",
+        "text": "1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu",
+        "explanation": "1618 sayılı Kanun, seyahat acentacılığını düzenlemiş ve Türkiye Seyahat Acentaları Birliği (TÜRSAB)'ın kuruluşunu sağlamıştır."
+      },
+      {
+        "id": "C",
+        "text": "6326 sayılı Turist Rehberliği Meslek Kanunu",
+        "explanation": "6326 sayılı Kanun, turist rehberliği mesleğini düzenlemiş ve TUREB'i kurmuştur, seyahat acentalarıyla ilgili değildir."
+      },
+      {
+        "id": "D",
+        "text": "4848 sayılı Kültür ve Turizm Bakanlığı Teşkilat Kanunu",
+        "explanation": "4848 sayılı Kanun, Kültür Bakanlığı ile Turizm Bakanlığı'nın birleşmesini sağlamıştır, seyahat acentalarının düzenlenmesiyle ilgili değildir."
+      },
+      {
+        "id": "E",
+        "text": "1953 tarihli Turizm Endüstrisini Teşvik Kanunu",
+        "explanation": "Bu kanun turizm endüstrisini teşvik etmeye yönelik ilk adımlardan biri olsa da, seyahat acentalarının kapsamlı düzenlemesi ve TÜRSAB'ın kuruluşu 1618 sayılı Kanun ile gerçekleşmiştir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Farklı turizm kanunlarının numaraları ve hangi kurumları kurdukları, neyi düzenledikleri karıştırılabilir.",
+    "id": "genel-turizm-057",
+    "topicId": "genel-turizm"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "subtopic": "Yunan Dünyası",
+    "difficulty": 2,
+    "stem": "Antik Yunan mimarisinde, sütun başlıklarında koç boynuzu şeklindeki spiral bezemeleriyle karakterize edilen düzen aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "İyon",
+        "explanation": "İyon düzeni, volüt adı verilen koç boynuzu şeklindeki spiral bezemeli sütun başlıklarıyla tanınır."
+      },
+      {
+        "id": "B",
+        "text": "Dor",
+        "explanation": "Dor düzeni sade ve yastık biçimli başlıklara sahiptir, koç boynuzu bezemeleri İyon düzenine aittir."
+      },
+      {
+        "id": "C",
+        "text": "Korint",
+        "explanation": "Korint düzeni akantus yaprağı motifleriyle en süslü düzendir, koç boynuzu bezemeleri İyon düzenine aittir."
+      },
+      {
+        "id": "D",
+        "text": "Tuscan",
+        "explanation": "Tuscan düzeni, Roma mimarisine özgü, Dor düzeninin daha basitleştirilmiş bir versiyonudur ve koç boynuzu bezemesi içermez."
+      },
+      {
+        "id": "E",
+        "text": "Kompozit",
+        "explanation": "Kompozit düzeni, Korint ve İyon düzenlerinin birleşimi olup, akantus yaprağı ve volüt motiflerini bir arada kullanır ancak doğrudan koç boynuzu bezemeleriyle karakterize edilmez."
+      }
+    ],
+    "correct": "A",
+    "trick": "Dor ve Korint düzenlerinin belirgin özellikleriyle karıştırılabilir, özellikle 'en süslü' Korint ile 'zarif' İyon arasındaki farka dikkat edilmelidir.",
+    "id": "roma-yunan-bizans-041",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Yunan Dünyası",
+    "difficulty": 2,
+    "stem": "Atina demokrasisinde, tehlikeli görülen ve tiranlığa eğilimli olabilecek kişilerin adının çömlek parçalarına yazılarak 10 yıl süreyle sürgün edilmesini sağlayan uygulama aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Areopagos",
+        "explanation": "Areopagos, Atina'da yüksek bir yargı organıydı, sürgün uygulamasıyla ilgili değildir."
+      },
+      {
+        "id": "B",
+        "text": "Ostrakizmos",
+        "explanation": "Ostrakizmos, Atina demokrasisinde halk oylamasıyla tehlikeli görülen kişilerin 10 yıl sürgün edilmesini sağlayan uygulamadır."
+      },
+      {
+        "id": "C",
+        "text": "Ekklesia",
+        "explanation": "Ekklesia, Atina'daki halk meclisiydi ve yasama işlevini görürdü, sürgün uygulamasıyla ilgili değildir."
+      },
+      {
+        "id": "D",
+        "text": "Heliaia",
+        "explanation": "Heliaia, Atina'daki halk mahkemesiydi, sürgün uygulamasıyla ilgili değildir."
+      },
+      {
+        "id": "E",
+        "text": "Boule",
+        "explanation": "Boule, Atina'da Ekklesia'ya gündem hazırlayan danışma meclisiydi, sürgün uygulamasıyla ilgili değildir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Diğer Atina demokratik kurumlarının isimleri çeldirici olarak kullanılabilir, ancak işlevleri farklıdır.",
+    "id": "roma-yunan-bizans-042",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Helenistik Dönem ve Bergama Krallığı",
+    "difficulty": 3,
+    "stem": "Helenistik dönemde, Mısır'ın papirüs ihracatını yasaklaması üzerine, deriden yazı malzemesi geliştirerek antik dünyanın ikinci büyük kütüphanesini kuran ve bu yeni yazı malzemesine adını veren Anadolu krallığı aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Selevkos Krallığı",
+        "explanation": "Selevkos Krallığı, İskender'in ardıllarından biriydi ancak parşömen ve büyük kütüphanesiyle ünlü olan Bergama'dır."
+      },
+      {
+        "id": "B",
+        "text": "Ptolemaios Krallığı",
+        "explanation": "Ptolemaios Krallığı, Mısır'da hüküm sürdü ve İskenderiye Kütüphanesi ile ünlüydü, papirüs ihracatını yasaklayan taraf kendisiydi, parşömeni geliştiren değil."
+      },
+      {
+        "id": "C",
+        "text": "Bergama Krallığı",
+        "explanation": "Bergama Krallığı, Mısır'ın papirüs ambargosu üzerine parşömeni (pergamen) geliştirmiş ve antik dünyanın ikinci büyük kütüphanesine sahip olmuştur."
+      },
+      {
+        "id": "D",
+        "text": "Galatya Krallığı",
+        "explanation": "Galatya Krallığı, Orta Anadolu'da yer alan bir Kelt krallığıydı ve parşömenle ilgili bir özelliği bulunmamaktadır."
+      },
+      {
+        "id": "E",
+        "text": "Kommagene Krallığı",
+        "explanation": "Kommagene Krallığı, Nemrut Dağı'ndaki anıtsal heykelleriyle bilinir, parşömenle ilgili bir özelliği yoktur."
+      }
+    ],
+    "correct": "C",
+    "trick": "Mısır'ın papirüsle olan ilişkisi ve İskenderiye Kütüphanesi bilgisi, Ptolemaios Krallığı'nı çeldirici yapabilir. Ancak soru, 'deriden yazı malzemesi geliştiren' ve 'adını veren' krallığı sormaktadır.",
+    "id": "roma-yunan-bizans-043",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Roma Mimarisi ve Anadolu'daki Eserleri",
+    "difficulty": 1,
+    "stem": "Anadolu'daki Roma tiyatroları arasında, günümüze en iyi korunmuş haliyle ulaşan ve hâlâ çeşitli etkinlikler için kullanılan yapı aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Efes Büyük Tiyatrosu",
+        "explanation": "Efes Büyük Tiyatrosu çok büyük ve etkileyicidir ancak Aspendos Tiyatrosu kadar iyi korunmuş değildir."
+      },
+      {
+        "id": "B",
+        "text": "Side Tiyatrosu",
+        "explanation": "Side Tiyatrosu önemli bir yapıdır ancak Aspendos Tiyatrosu'nun korunmuşluk seviyesine ulaşmaz."
+      },
+      {
+        "id": "C",
+        "text": "Perge Tiyatrosu",
+        "explanation": "Perge Tiyatrosu da önemli bir Roma yapısıdır ancak Aspendos'un koruma durumu daha üstündür."
+      },
+      {
+        "id": "D",
+        "text": "Aspendos Tiyatrosu",
+        "explanation": "Aspendos Tiyatrosu, Anadolu'nun en iyi korunmuş antik tiyatrosu olarak kabul edilir ve günümüzde de kullanılmaktadır."
+      },
+      {
+        "id": "E",
+        "text": "Hierapolis Tiyatrosu",
+        "explanation": "Hierapolis Tiyatrosu restore edilmiş ve güzel bir tiyatrodur, ancak en iyi korunmuş olarak Aspendos öne çıkar."
+      }
+    ],
+    "correct": "D",
+    "trick": "Anadolu'da pek çok iyi korunmuş tiyatro bulunması, diğer seçenekleri güçlü çeldirici yapar. 'En iyi korunmuş' ifadesi kilit noktadır.",
+    "id": "roma-yunan-bizans-044",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Bizans (Doğu Roma) İmparatorluğu",
+    "difficulty": 2,
+    "stem": "Bizans İmparatorluğu'nda 726-843 yılları arasında uygulanan İkonoklazm (İkona Kırıcılık) dönemiyle ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Dini tasvirlerin kullanımı tamamen yasaklanmıştır.",
+        "explanation": "İkonoklazm döneminde dini tasvirlerin kullanımı yasaklanmıştır, bu ifade doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "Sanatta figür yerine haç, bitki ve geometrik motifler kullanılmıştır.",
+        "explanation": "İkonoklazm döneminde figüratif sanat yerine sembolik ve soyut motiflere yönelim olmuştur, bu ifade doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "İmparator III. Leon tarafından başlatılmıştır.",
+        "explanation": "İkonoklazm hareketi İmparator III. Leon tarafından başlatılmıştır, bu ifade doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "Bizans sanat tarihinde büyük bir boşluk yaratmıştır.",
+        "explanation": "İkonoklazm, figüratif sanatın yasaklanması nedeniyle Bizans sanatında önemli bir kesintiye ve boşluğa neden olmuştur, bu ifade doğrudur."
+      },
+      {
+        "id": "E",
+        "text": "Bu dönemde ikonalar tamamen yok edilmiş ve bir daha kullanılmamıştır.",
+        "explanation": "İkonoklazm döneminde birçok ikona yok edilse de, 843 yılında ikonaların kullanımı 'Ortodoksluğun Zaferi' ile yeniden kabul edilmiştir, dolayısıyla 'bir daha kullanılmamıştır' ifadesi yanlıştır."
+      }
+    ],
+    "correct": "E",
+    "trick": "İkonoklazmın sertliği ve tahribatın büyüklüğü, 'bir daha kullanılmamıştır' gibi kesin bir ifadeyi doğru gibi gösterebilir. Ancak ikonaların daha sonra geri geldiği bilgisi önemlidir.",
+    "id": "roma-yunan-bizans-045",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Bizans (Doğu Roma) İmparatorluğu",
+    "difficulty": 3,
+    "stem": "Aşağıdaki Bizans İmparatorları ve dönemlerindeki önemli gelişmelerden hangisi yanlış eşleştirilmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Konstantin - Hristiyanlığın resmi din olarak kabul edilmesi",
+        "explanation": "Konstantin, 313 Milano Fermanı ile Hristiyanlığa serbestlik tanımıştır. Hristiyanlığı resmi din olarak kabul eden ise 380 yılında I. Theodosius'tur. Bu eşleştirme yanlıştır."
+      },
+      {
+        "id": "B",
+        "text": "I. Justinianus - Ayasofya'nın inşası",
+        "explanation": "Ayasofya, İmparator I. Justinianus döneminde inşa edilmiştir. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "III. Leon - İkonoklazm döneminin başlaması",
+        "explanation": "İkonoklazm dönemi, İmparator III. Leon tarafından başlatılmıştır. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "I. Theodosius - İmparatorluğun Doğu ve Batı olarak ikiye ayrılması",
+        "explanation": "İmparatorluk, I. Theodosius'un ölümüyle 395 yılında Doğu ve Batı olarak ikiye ayrılmıştır. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "E",
+        "text": "Fatih Sultan Mehmet - Konstantinopolis'in fethi",
+        "explanation": "Fatih Sultan Mehmet, 1453 yılında Konstantinopolis'i fethetmiştir. Bu eşleştirme doğrudur."
+      }
+    ],
+    "correct": "A",
+    "trick": "Konstantin'in Hristiyanlık tarihindeki kilit rolü (Milano Fermanı), onun Hristiyanlığı resmi din ilan ettiği yanılgısına yol açabilir. 'Serbestlik' ve 'resmi din' arasındaki fark kritik öneme sahiptir.",
+    "id": "roma-yunan-bizans-046",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Roma: Krallıktan İmparatorluğa",
+    "difficulty": 1,
+    "stem": "Roma hukukunun modern hukukun temeli sayılan ilk yazılı kanunları aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Corpus Juris Civilis",
+        "explanation": "Corpus Juris Civilis, Justinianus döneminde hazırlanmış Roma hukukunun derlemesidir, ilk yazılı kanunlar değildir."
+      },
+      {
+        "id": "B",
+        "text": "12 Levha Kanunları",
+        "explanation": "12 Levha Kanunları, Roma Cumhuriyeti döneminde pleblerin haklarını korumak amacıyla oluşturulan ve Roma'nın ilk yazılı hukukunu teşkil eden kanunlardır."
+      },
+      {
+        "id": "C",
+        "text": "Lex Aquilia",
+        "explanation": "Lex Aquilia, zararın tazmini ile ilgili bir Roma kanunuydu ancak ilk yazılı kanunlar bütünü değildir."
+      },
+      {
+        "id": "D",
+        "text": "Lex Canuleia",
+        "explanation": "Lex Canuleia, patrici ve plebler arasındaki evlilik yasağını kaldıran bir kanundu, ilk yazılı kanunlar bütünü değildir."
+      },
+      {
+        "id": "E",
+        "text": "Lex Hortensia",
+        "explanation": "Lex Hortensia, pleb meclisi kararlarının tüm halk için bağlayıcı olmasını sağlayan bir kanundu, ilk yazılı kanunlar bütünü değildir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Corpus Juris Civilis, Roma hukukunun en kapsamlı derlemesi olduğu için akla gelebilir, ancak soru 'ilk yazılı kanunları' sormaktadır.",
+    "id": "roma-yunan-bizans-047",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Bizans Sanatı ve Mimarisi",
+    "difficulty": 2,
+    "stem": "Aşağıdaki Bizans kiliselerinden hangisi, İstanbul'da yer almasına rağmen camiye çevrilmemiş ve minaresi bulunmayan tek büyük Bizans kilisesidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ayasofya",
+        "explanation": "Ayasofya, Osmanlı döneminde camiye çevrilmiş ve minareler eklenmiştir."
+      },
+      {
+        "id": "B",
+        "text": "Kariye (Chora) Kilisesi",
+        "explanation": "Kariye Kilisesi de Osmanlı döneminde camiye çevrilmiş ve minare eklenmiştir."
+      },
+      {
+        "id": "C",
+        "text": "Aya İrini Kilisesi",
+        "explanation": "Aya İrini Kilisesi, İstanbul'un fethinden sonra camiye çevrilmemiş ve minaresi bulunmayan tek büyük Bizans kilisesidir."
+      },
+      {
+        "id": "D",
+        "text": "Küçük Ayasofya (Sergios ve Bakhos Kilisesi)",
+        "explanation": "Küçük Ayasofya da camiye çevrilmiş ve minare eklenmiştir."
+      },
+      {
+        "id": "E",
+        "text": "Fethiye (Panagia Pammakaristos) Kilisesi",
+        "explanation": "Fethiye Kilisesi de Osmanlı döneminde camiye çevrilmiştir."
+      }
+    ],
+    "correct": "C",
+    "trick": "İstanbul'daki birçok Bizans kilisesinin camiye çevrilmiş olması nedeniyle, bu genellemenin dışındaki 'tek' örneği bilmek önemlidir.",
+    "id": "roma-yunan-bizans-048",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Yunan Dünyası",
+    "difficulty": 2,
+    "stem": "Antik Yunan mimarisinde, sütun başlıklarında volüt (koç boynuzu) motifleriyle tanınan ve zarif yapısıyla öne çıkan düzen aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Dor",
+        "explanation": "Dor düzeni sade, yastık biçimli başlıkları ve kalın, ağır yapısıyla karakterizedir."
+      },
+      {
+        "id": "B",
+        "text": "Korint",
+        "explanation": "Korint düzeni akantus yaprağı motifleriyle en süslü ve en geç ortaya çıkan düzendir."
+      },
+      {
+        "id": "C",
+        "text": "Kompozit",
+        "explanation": "Kompozit düzen, Roma dönemine ait olup İyon ve Korint düzenlerinin birleşimidir, Antik Yunan mimarisinde yer almaz."
+      },
+      {
+        "id": "D",
+        "text": "İyon",
+        "explanation": "İyon düzeni, sütun başlıklarında volüt (koç boynuzu) motifleriyle ve zarif yapısıyla öne çıkar."
+      },
+      {
+        "id": "E",
+        "text": "Tuskan",
+        "explanation": "Tuskan düzeni, Roma mimarisine ait olup Dor düzeninin sadeleştirilmiş bir versiyonudur, Antik Yunan mimarisinde yer almaz."
+      }
+    ],
+    "correct": "D",
+    "trick": "Farklı mimari düzenlerin karakteristik özelliklerini karıştırmak.",
+    "id": "roma-yunan-bizans-049",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Helenistik Dönem ve Bergama Krallığı",
+    "difficulty": 3,
+    "stem": "Aşağıdakilerden hangisi Helenistik Dönem'in kültürel ve sanatsal özelliklerinden biri DEĞİLDİR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yunan ve Doğu kültürlerinin sentezlenmesi",
+        "explanation": "Helenizm, İskender'in seferleriyle Yunan kültürü ile Doğu (Anadolu, Mısır, İran) kültürlerinin kaynaşmasından doğan bir sentezdir."
+      },
+      {
+        "id": "B",
+        "text": "Sanatta gerçekçilik, duygu ve hareketin ön plana çıkması",
+        "explanation": "Helenistik sanatta gerçekçilik, duygu ve hareket öne çıkar."
+      },
+      {
+        "id": "C",
+        "text": "Bilim ve kütüphane kültürünün gelişmesi",
+        "explanation": "Helenistik dönemde İskenderiye ve Bergama gibi merkezlerde bilim ve kütüphane kültürü gelişmiştir."
+      },
+      {
+        "id": "D",
+        "text": "Yeni şehirlerin kurulması ve ticari ağların genişlemesi",
+        "explanation": "İskender'in fetihleri sonrası birçok yeni şehir kurulmuş ve ticaret ağları genişlemiştir, bu da Helenistik dönemin bir özelliğidir."
+      },
+      {
+        "id": "E",
+        "text": "İdealize edilmiş insan figürlerinin ve dinginliğin ağır basması",
+        "explanation": "İdealize edilmiş insan figürleri ve dinginlik, Klasik Yunan sanatının özellikleridir. Helenistik sanatta ise gerçekçilik ve dramatik ifade daha baskındır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Helenistik ve Klasik Yunan sanatının özelliklerini karıştırmak.",
+    "id": "roma-yunan-bizans-050",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Roma: Krallıktan İmparatorluğa",
+    "difficulty": 1,
+    "stem": "Roma İmparatorluğu'nda MS 27 yılından MS 180 yılına kadar süren, barış ve refah dönemi olarak bilinen süreç aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Pax Romana",
+        "explanation": "Pax Romana, MÖ 27 - MS 180 yılları arasını kapsayan, iki yüzyıllık barış ve refah dönemidir."
+      },
+      {
+        "id": "B",
+        "text": "Tetrarşi",
+        "explanation": "Tetrarşi, Diocletianus tarafından kurulan ve imparatorluğu dörde bölen bir yönetim sistemidir, barış dönemi değildir."
+      },
+      {
+        "id": "C",
+        "text": "Cumhuriyet Dönemi",
+        "explanation": "Cumhuriyet Dönemi, MÖ 509-27 yılları arasını kapsar ve Pax Romana'dan öncedir."
+      },
+      {
+        "id": "D",
+        "text": "Krallık Dönemi",
+        "explanation": "Krallık Dönemi, MÖ 753-509 yılları arasını kapsar ve Pax Romana'dan çok öncedir."
+      },
+      {
+        "id": "E",
+        "text": "İkonoklazm Dönemi",
+        "explanation": "İkonoklazm, Bizans İmparatorluğu'nda ikonaların yasaklandığı bir dönemdir ve Roma İmparatorluğu ile doğrudan ilgili değildir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Farklı Roma dönemlerini veya Bizans dönemlerini birbiriyle karıştırmak.",
+    "id": "roma-yunan-bizans-051",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Roma Mimarisi ve Anadolu'daki Eserleri",
+    "difficulty": 2,
+    "stem": "Aşağıdaki Roma yapılarından hangisi plan tipi bakımından diğerlerinden farklıdır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Aspendos Tiyatrosu",
+        "explanation": "Aspendos Tiyatrosu, yarım daire planlı bir tiyatrodur."
+      },
+      {
+        "id": "B",
+        "text": "Roma Kolezyumu",
+        "explanation": "Kolezyum bir amfitiyatrodur ve elips planlıdır."
+      },
+      {
+        "id": "C",
+        "text": "Perge Tiyatrosu",
+        "explanation": "Perge Tiyatrosu, yarım daire planlı bir tiyatrodur."
+      },
+      {
+        "id": "D",
+        "text": "Side Tiyatrosu",
+        "explanation": "Side Tiyatrosu, yarım daire planlı bir tiyatrodur."
+      },
+      {
+        "id": "E",
+        "text": "Hierapolis Tiyatrosu",
+        "explanation": "Hierapolis Tiyatrosu, yarım daire planlı bir tiyatrodur."
+      }
+    ],
+    "correct": "B",
+    "trick": "Tiyatro (yarım daire) ve amfitiyatro (elips) planlarını karıştırmak.",
+    "id": "roma-yunan-bizans-052",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Bizans (Doğu Roma) İmparatorluğu",
+    "difficulty": 3,
+    "stem": "Bizans İmparatorluğu'nda 726-843 yılları arasında yaşanan ve dini tasvirlerin yasaklanmasıyla sonuçlanan döneme ne ad verilir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Nika İsyanı",
+        "explanation": "Nika İsyanı, 532 yılında Konstantinopolis'te çıkan bir isyandır, ikonoklazm dönemiyle ilgili değildir."
+      },
+      {
+        "id": "B",
+        "text": "Büyük Ayrılık (Şizma)",
+        "explanation": "Büyük Ayrılık, 1054 yılında Katolik ve Ortodoks kiliselerinin ayrılmasıdır, ikonoklazm dönemiyle ilgili değildir."
+      },
+      {
+        "id": "C",
+        "text": "İkonoklazm",
+        "explanation": "İkonoklazm, 726-843 yılları arasında Bizans'ta dini tasvirlerin yasaklandığı ve yok edildiği dönemdir."
+      },
+      {
+        "id": "D",
+        "text": "Haçlı Seferleri",
+        "explanation": "Haçlı Seferleri, 11. yüzyıl sonlarından itibaren başlayan ve Bizans'ı da etkileyen askeri seferlerdir, ikonoklazm dönemiyle ilgili değildir."
+      },
+      {
+        "id": "E",
+        "text": "Corpus Juris Civilis",
+        "explanation": "Corpus Juris Civilis, Justinianus döneminde Roma hukukunun derlenmesidir, dini bir dönem adı değildir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Bizans tarihindeki farklı olayları ve dönemleri karıştırmak.",
+    "id": "roma-yunan-bizans-053",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Bizans Sanatı ve Mimarisi",
+    "difficulty": 2,
+    "stem": "Aşağıdaki Bizans yapılarından hangisi, kare plan üzerine kubbe geçişinde pandantif tekniğinin en önemli ve erken örneklerinden biri olarak kabul edilir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kariye (Chora) Kilisesi",
+        "explanation": "Kariye Kilisesi, Geç Bizans mozaik ve freskleriyle ünlüdür, ancak pandantif tekniğinin erken ve devrimci örneği değildir."
+      },
+      {
+        "id": "B",
+        "text": "Aya İrini Kilisesi",
+        "explanation": "Aya İrini, İstanbul'un minaresi olmayan kiliselerindendir, ancak pandantif tekniğinin en önemli örneği Ayasofya'dır."
+      },
+      {
+        "id": "C",
+        "text": "Küçük Ayasofya (Sergios-Bakhos) Kilisesi",
+        "explanation": "Küçük Ayasofya, Ayasofya'nın 'provası' olarak kabul edilse de, pandantif tekniğinin en önemli örneği Ayasofya'dır."
+      },
+      {
+        "id": "D",
+        "text": "Ayasofya",
+        "explanation": "Ayasofya, Tralles'li Anthemios ve Miletos'lu İsidoros tarafından inşa edilmiş olup, pandantif tekniğiyle kare plan üzerine dev kubbe oturtulmuş mimarlık tarihinin dönüm noktası bir yapıdır."
+      },
+      {
+        "id": "E",
+        "text": "Sümela Manastırı",
+        "explanation": "Sümela Manastırı, kayaya oyulmuş bir manastırdır ve pandantif tekniğiyle bir ilgisi yoktur."
+      }
+    ],
+    "correct": "D",
+    "trick": "Farklı Bizans kiliselerinin mimari özelliklerini karıştırmak.",
+    "id": "roma-yunan-bizans-054",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Yunan Dünyası",
+    "difficulty": 1,
+    "stem": "Antik Atina'da tiranlığa karşı demokrasiyi korumak amacıyla, tehlikeli görülen kişinin adının çömlek parçasına yazılarak 10 yıl sürgün edilmesi uygulamasına ne ad verilirdi?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Demokrasi",
+        "explanation": "Demokrasi, Atina'nın yönetim biçimidir, sürgün etme uygulaması değildir."
+      },
+      {
+        "id": "B",
+        "text": "Oligarşi",
+        "explanation": "Oligarşi, Sparta'da uygulanan bir yönetim biçimidir, Atina'daki sürgün uygulaması değildir."
+      },
+      {
+        "id": "C",
+        "text": "Metropolis",
+        "explanation": "Metropolis, ana şehir anlamına gelir, sürgün etme uygulaması değildir."
+      },
+      {
+        "id": "D",
+        "text": "Kolonizasyon",
+        "explanation": "Kolonizasyon, Yunanların yeni yerleşim yerleri kurma hareketidir, sürgün etme uygulaması değildir."
+      },
+      {
+        "id": "E",
+        "text": "Ostrakizmos",
+        "explanation": "Ostrakizmos (çanak çömlek mahkemesi), tehlikeli görülen kişinin adının çömlek parçasına yazılmasıyla 10 yıl sürgün edilmesi uygulamasıdır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Atina'daki demokratik uygulamaları diğer kavramlarla karıştırmak.",
+    "id": "roma-yunan-bizans-055",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Roma: Krallıktan İmparatorluğa",
+    "difficulty": 2,
+    "stem": "Roma İmparatorluğu'nda Hristiyanlığın tarihinde kronolojik olarak doğru sıralama aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Milano Fermanı → İznik Konsili → Hristiyanlığın resmi din olması → Batı Roma'nın yıkılışı",
+        "explanation": "Milano Fermanı (313) ile serbestlik tanınmış, İznik Konsili (325) ile İsa'nın tanrısallığı kabul edilmiş, 380'de resmi din olmuş ve 476'da Batı Roma yıkılmıştır. Bu sıralama kronolojik olarak doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "İznik Konsili → Milano Fermanı → Hristiyanlığın resmi din olması → Batı Roma'nın yıkılışı",
+        "explanation": "Milano Fermanı (313) İznik Konsili'nden (325) önce gerçekleşmiştir."
+      },
+      {
+        "id": "C",
+        "text": "Hristiyanlığın resmi din olması → Milano Fermanı → İznik Konsili → Batı Roma'nın yıkılışı",
+        "explanation": "Milano Fermanı (313) ve İznik Konsili (325) Hristiyanlığın resmi din olmasından (380) önce gerçekleşmiştir."
+      },
+      {
+        "id": "D",
+        "text": "Batı Roma'nın yıkılışı → Milano Fermanı → İznik Konsili → Hristiyanlığın resmi din olması",
+        "explanation": "Batı Roma'nın yıkılışı (476) diğer olaylardan sonra gerçekleşmiştir."
+      },
+      {
+        "id": "E",
+        "text": "Milano Fermanı → Hristiyanlığın resmi din olması → Batı Roma'nın yıkılışı → İznik Konsili",
+        "explanation": "İznik Konsili (325) Hristiyanlığın resmi din olmasından (380) ve Batı Roma'nın yıkılışından (476) önce gerçekleşmiştir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Hristiyanlığın Roma İmparatorluğu'ndaki gelişimine dair önemli tarihsel olayların kronolojisini karıştırmak, özellikle Milano Fermanı ve resmi din olma arasındaki farkı gözden kaçırmak.",
+    "id": "roma-yunan-bizans-056",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Yunan Dünyası",
+    "difficulty": 2,
+    "stem": "Antik Yunan'da şehir devletlerini tiranlığa karşı korumak amacıyla uygulanan ve tehlikeli görülen kişilerin 10 yıl süreyle sürgün edilmesini sağlayan uygulama aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Areopagos",
+        "explanation": "Areopagos, Antik Atina'da yüksek yargı ve siyasi yetkilere sahip bir meclisti, sürgün uygulamasıyla doğrudan ilgili değildir."
+      },
+      {
+        "id": "B",
+        "text": "Ostrakizmos",
+        "explanation": "Ostrakizmos, tehlikeli görülen kişilerin adlarının çömlek parçalarına yazılmasıyla 10 yıl sürgün edilmesini sağlayan uygulamaydı ve demokrasinin korunmasına yönelikti."
+      },
+      {
+        "id": "C",
+        "text": "Ekklesia",
+        "explanation": "Ekklesia, tüm yurttaşların katıldığı halk meclisiydi ve yasaları çıkarmakla görevliydi, sürgün uygulamasıyla doğrudan ilgili değildir."
+      },
+      {
+        "id": "D",
+        "text": "Heliaia",
+        "explanation": "Heliaia, Atina'da halk mahkemesiydi, sürgün uygulamasıyla doğrudan ilgili değildir."
+      },
+      {
+        "id": "E",
+        "text": "Boulé",
+        "explanation": "Boulé, Ekklesia'nın gündemini hazırlayan ve idari işleri yürüten bir konseydi, sürgün uygulamasıyla doğrudan ilgili değildir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Atina demokrasisinin farklı kurumları çeldirici olarak kullanılmıştır; Ostrakizmos'un işlevi ve amacı iyi anlaşılmalıdır.",
+    "id": "roma-yunan-bizans-057",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Helenistik Dönem ve Bergama Krallığı",
+    "difficulty": 3,
+    "stem": "Büyük İskender'in ölümünden sonra imparatorluğunun ardılları (Diadokhlar) arasında Anadolu ve Suriye topraklarında egemenlik kuran krallık aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ptolemaioslar",
+        "explanation": "Ptolemaioslar, İskender'in ölümünden sonra Mısır ve İskenderiye'de egemenlik kurmuştur."
+      },
+      {
+        "id": "B",
+        "text": "Antigonoslar",
+        "explanation": "Antigonoslar, İskender'in ölümünden sonra Makedonya'da egemenlik kurmuştur."
+      },
+      {
+        "id": "C",
+        "text": "Selevkoslar",
+        "explanation": "Selevkoslar, İskender'in ölümünden sonra Anadolu ve Suriye topraklarında egemenlik kuran ardıl krallıklardan biridir."
+      },
+      {
+        "id": "D",
+        "text": "Attaloslar",
+        "explanation": "Attaloslar, Bergama Krallığı'nı yöneten hanedandır ancak İskender'in doğrudan ardıllarından (Diadokhlar) değildir, Selevkoslardan ayrılarak bağımsızlaşmışlardır."
+      },
+      {
+        "id": "E",
+        "text": "Lysimakhos",
+        "explanation": "Lysimakhos, İskender'in ardıllarından olup Trakya'da kısa süreli bir krallık kurmuştur."
+      }
+    ],
+    "correct": "C",
+    "trick": "Attaloslar ve Lysimakhos'un isimleri Diadokhlar listesinde geçtiği için karıştırılabilir, ancak Attaloslar doğrudan Diadokhlar değil, Selevkoslardan ayrılan bir hanedandır. Lysimakhos ise Trakya'da hüküm sürmüştür.",
+    "id": "roma-yunan-bizans-058",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Roma: Krallıktan İmparatorluğa",
+    "difficulty": 1,
+    "stem": "Roma İmparatorluğu'nda MÖ 27 ile MS 180 yılları arasını kapsayan, barış ve refah dönemi olarak bilinen süreç aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Pön Savaşları",
+        "explanation": "Pön Savaşları, Roma ile Kartaca arasında yapılan ve Roma'nın Akdeniz'deki hâkimiyetini pekiştiren savaşlardır, bir barış dönemi değildir."
+      },
+      {
+        "id": "B",
+        "text": "Tetrarkhi Dönemi",
+        "explanation": "Tetrarkhi Dönemi, Diocletianus tarafından imparatorluğun dörde bölünerek yönetildiği bir kriz sonrası yapılanma dönemidir, barış ve refah dönemi değildir."
+      },
+      {
+        "id": "C",
+        "text": "Cumhuriyet Dönemi",
+        "explanation": "Cumhuriyet Dönemi, Roma'nın İmparatorluk öncesi yönetim biçimidir ve genellikle iç karışıklıklar ve dış savaşlarla karakterizedir."
+      },
+      {
+        "id": "D",
+        "text": "Pax Romana",
+        "explanation": "Pax Romana, Roma İmparatorluğu'nun MÖ 27 ile MS 180 yılları arasında yaşadığı iki yüzyıllık barış ve refah dönemidir."
+      },
+      {
+        "id": "E",
+        "text": "İkonoklazm Dönemi",
+        "explanation": "İkonoklazm Dönemi, Bizans İmparatorluğu'nda dini tasvirlerin yasaklandığı ve yıkıldığı bir dönemdir, Roma İmparatorluğu'nun barış dönemiyle ilgisi yoktur."
+      }
+    ],
+    "correct": "D",
+    "trick": "Diğer şıklar Roma tarihinin farklı dönemlerine veya olaylarına işaret etmektedir ve Pax Romana'nın tanımına uymamaktadır.",
+    "id": "roma-yunan-bizans-059",
+    "topicId": "roma-yunan-bizans"
+  },
+  {
+    "subtopic": "Bizans Sanatı ve Mimarisi",
+    "difficulty": 2,
+    "stem": "Aşağıdaki Bizans kiliselerinden hangisi, günümüzde minaresi bulunmayan ve camiye çevrilmemiş nadir örneklerden biri olarak İstanbul'da yer almaktadır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ayasofya",
+        "explanation": "Ayasofya camiye çevrilmiş ve minareleri bulunmaktadır."
+      },
+      {
+        "id": "B",
+        "text": "Kariye Kilisesi (Chora)",
+        "explanation": "Kariye Kilisesi camiye çevrilmiş ve minareleri eklenmiştir."
+      },
+      {
+        "id": "C",
+        "text": "Küçük Ayasofya (Sergios ve Bakhos Kilisesi)",
+        "explanation": "Küçük Ayasofya camiye çevrilmiş ve minaresi eklenmiştir."
+      },
+      {
+        "id": "D",
+        "text": "Fethiye Camii (Theotokos Pammakaristos Kilisesi)",
+        "explanation": "Fethiye Camii, eski bir Bizans kilisesi olup camiye çevrilmiş ve minaresi bulunmaktadır."
+      },
+      {
+        "id": "E",
+        "text": "Aya İrini Kilisesi",
+        "explanation": "Aya İrini Kilisesi, İstanbul'da camiye çevrilmemiş ve minaresi bulunmayan nadir Bizans kiliselerindendir."
+      }
+    ],
+    "correct": "E",
+    "trick": "İstanbul'daki çoğu Bizans kilisesi Osmanlı döneminde camiye çevrilmiş ve minare eklenmiştir. Bu durum, Aya İrini'nin istisnai konumunu vurgular.",
+    "id": "roma-yunan-bizans-060",
+    "topicId": "roma-yunan-bizans"
+  }
+]

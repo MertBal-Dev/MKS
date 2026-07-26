@@ -1,0 +1,722 @@
+[
+  {
+    "subtopic": "Türkiye'nin Konumu ve Sınırları",
+    "difficulty": 2,
+    "stem": "Türkiye'nin coğrafi konumu ve yüzölçümü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Karadeniz'i Akdeniz'e bağlayan tek yol İstanbul ve Çanakkale Boğazları'dır.",
+        "explanation": "İstanbul ve Çanakkale Boğazları, Karadeniz'i Akdeniz'e bağlayan tek yoldur ve bu durum Türkiye'nin jeopolitik önemini artırır."
+      },
+      {
+        "id": "B",
+        "text": "Türkiye, 36°-42° güney enlemleri arasında yer alır.",
+        "explanation": "Türkiye, 36°-42° kuzey enlemleri arasında yer almaktadır, güney enlemlerinde değil."
+      },
+      {
+        "id": "C",
+        "text": "Doğu ile batı arasındaki yerel saat farkı 120 dakikadır.",
+        "explanation": "Doğu ile batı arasındaki yerel saat farkı 76 dakikadır, 120 dakika değildir."
+      },
+      {
+        "id": "D",
+        "text": "Türkiye'nin Avrupa kıtasındaki bölümü Anadolu olarak adlandırılır.",
+        "explanation": "Türkiye'nin Avrupa kıtasındaki bölümü Trakya olarak adlandırılırken, Asya'daki bölümü Anadolu'dur."
+      },
+      {
+        "id": "E",
+        "text": "Türkiye'nin en batı noktası Hatay Beysun köyüdür.",
+        "explanation": "Hatay Beysun köyü Türkiye'nin en güney noktasıdır. En batı noktası Çanakkale Baba Burnu'dur."
+      }
+    ],
+    "correct": "A",
+    "trick": "Enlem ve boylam değerlerindeki küçük değişiklikler veya 'Anadolu' ile 'Trakya' isimlerinin karıştırılması tuzağa düşürebilir.",
+    "id": "turizm-cografyasi-041",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Yer Şekilleri",
+    "difficulty": 3,
+    "stem": "Türkiye'nin yer şekilleri ve oluşum süreçleri düşünüldüğünde, aşağıdaki dağ ve oluşum tipi eşleştirmelerinden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ağrı Dağı - Volkanik",
+        "explanation": "Ağrı Dağı, Türkiye'nin en yüksek noktası olup volkanik bir dağdır."
+      },
+      {
+        "id": "B",
+        "text": "Kaçkar Dağları - Volkanik",
+        "explanation": "Kaçkar Dağları, Kuzey Anadolu Dağları'nın bir bölümü olup kıvrım dağlarıdır, volkanik değildir."
+      },
+      {
+        "id": "C",
+        "text": "Erciyes Dağı - Volkanik",
+        "explanation": "Erciyes Dağı, Kayseri'de bulunan volkanik bir dağdır."
+      },
+      {
+        "id": "D",
+        "text": "Nemrut Dağı (Bitlis) - Volkanik",
+        "explanation": "Bitlis'teki Nemrut Dağı, krater gölüne sahip volkanik bir dağdır."
+      },
+      {
+        "id": "E",
+        "text": "Uludağ - Kış Turizmi Merkezi",
+        "explanation": "Uludağ, kış turizmi açısından önemli bir dağdır ancak volkanik değil, bir masif dağdır. Soruda oluşum tipi sorulduğu için bu şık doğrudur, çünkü volkanik oluşum değildir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Türkiye'de birden fazla 'Nemrut Dağı' olması (Adıyaman'daki Kommagene krallığına ait heykellerin bulunduğu Nemrut Dağı ve Bitlis'teki volkanik Nemrut Dağı) ve volkanik dağlarla kıvrım dağlarının karıştırılması yaygın bir tuzaktır.",
+    "id": "turizm-cografyasi-042",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "İklim ve Bitki Örtüsü",
+    "difficulty": 1,
+    "stem": "Türkiye'de görülen başlıca iklim tipleri ve bu iklimlere özgü bitki örtüleri düşünüldüğünde, aşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Akdeniz İklimi - Bozkır",
+        "explanation": "Akdeniz ikliminin tipik bitki örtüsü maki ve kızılçamdır, bozkır değildir."
+      },
+      {
+        "id": "B",
+        "text": "Karadeniz İklimi - Maki",
+        "explanation": "Karadeniz ikliminin tipik bitki örtüsü ormanlardır, maki Akdeniz iklimine özgüdür."
+      },
+      {
+        "id": "C",
+        "text": "Akdeniz İklimi - Maki",
+        "explanation": "Akdeniz iklimi, yazları sıcak ve kurak, kışları ılık ve yağışlı olup, bitki örtüsü makidir."
+      },
+      {
+        "id": "D",
+        "text": "Karasal İklim - Orman",
+        "explanation": "Karasal iklimin bitki örtüsü bozkırdır, ormanlar Karadeniz ikliminde yaygındır."
+      },
+      {
+        "id": "E",
+        "text": "Karadeniz İklimi - Bozkır",
+        "explanation": "Karadeniz iklimi her mevsim yağışlıdır ve bitki örtüsü ormanlardır, bozkır karasal iklime aittir."
+      }
+    ],
+    "correct": "C",
+    "trick": "İklim ve bitki örtüsü eşleştirmelerinde benzer isimli bitki toplulukları (maki, psödomaki) veya farklı bölgelerdeki genel bitki örtüsü isimleri (orman, bozkır) karıştırılabilir.",
+    "id": "turizm-cografyasi-043",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Türkiye'nin Florası",
+    "difficulty": 2,
+    "stem": "Türkiye'nin bitki çeşitliliği açısından zengin olmasının nedenleri arasında aşağıdakilerden hangisi sayılamaz?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Üç farklı bitki coğrafyası bölgesinin kesişiminde yer alması",
+        "explanation": "Türkiye, Avrupa-Sibirya, Akdeniz ve İran-Turan bitki coğrafyası bölgelerinin kesişiminde yer alır, bu da bitki çeşitliliğini artırır."
+      },
+      {
+        "id": "B",
+        "text": "Kısa mesafelerde büyük yükselti ve iklim farklılıklarının görülmesi",
+        "explanation": "Kısa mesafelerde değişen yükselti ve iklim koşulları, farklı bitki türlerinin yaşamasına olanak tanır."
+      },
+      {
+        "id": "C",
+        "text": "Buzul çağlarında türler için sığınak (refuge) görevi görmesi",
+        "explanation": "Buzul çağlarında Anadolu'nun sığınak görevi görmesi, birçok türün burada hayatta kalmasını sağlamıştır."
+      },
+      {
+        "id": "D",
+        "text": "Endemik bitki türlerinin dünya genelindeki toplam tür sayısının çok üzerinde olması",
+        "explanation": "Türkiye'deki endemik bitki türü sayısı yüksek olsa da, dünya genelindeki toplam tür sayısının üzerinde değildir. Bu ifade yanlış bir karşılaştırmadır."
+      },
+      {
+        "id": "E",
+        "text": "Avrupa kıtasının tamamında bulunan bitki türü sayısına yakın bir zenginliğe sahip olması",
+        "explanation": "Türkiye'nin yaklaşık 11.700 bitki türüne sahip olması, Avrupa kıtasının tamamındaki yaklaşık 12.000 tür ile kıyaslandığında bitki çeşitliliği açısından ne kadar zengin olduğunu gösterir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Türkiye'nin bitki çeşitliliği açısından zenginliği ile ilgili abartılı veya yanlış karşılaştırmalar içeren şıklar tuzağa düşürebilir.",
+    "id": "turizm-cografyasi-044",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Türkiye'nin Faunası",
+    "difficulty": 2,
+    "stem": "Nesli tükenme tehlikesi altında olan ve uluslararası sözleşmelerle koruma altına alınan bazı hayvan türleri ve bunların Türkiye'deki yaşam alanları düşünüldüğünde, aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kelaynak - Şanlıurfa Birecik",
+        "explanation": "Kelaynak kuşları, dünyada doğal olarak sadece Şanlıurfa Birecik'te korunmaktadır."
+      },
+      {
+        "id": "B",
+        "text": "Akdeniz Foku - Foça, Gökova kıyıları",
+        "explanation": "Akdeniz foku, dünyanın en nadir fok türlerinden olup Foça, Gökova ve Bodrum gibi kıyılarda yaşamaktadır."
+      },
+      {
+        "id": "C",
+        "text": "Caretta caretta - Dalyan/İztuzu, Patara kumsalları",
+        "explanation": "Caretta caretta deniz kaplumbağaları, Dalyan/İztuzu ve Patara gibi kumsallarda yuvalama yapmaktadır."
+      },
+      {
+        "id": "D",
+        "text": "Flamingo - Tuz Gölü, Gediz Deltası",
+        "explanation": "Flamingo popülasyonları için Tuz Gölü önemli bir üreme alanı, Gediz Deltası ise yaşam alanıdır."
+      },
+      {
+        "id": "E",
+        "text": "Yaban Koyunu - Antalya Düzlerçamı",
+        "explanation": "Yaban koyunu (yaban koyunu), Konya Bozdağ'da korunurken, Antalya Düzlerçamı'nda alageyikler korunmaktadır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Farklı hayvan türlerinin koruma alanlarının karıştırılması veya benzer isimli bölgelerin kullanılması yanıltıcı olabilir.",
+    "id": "turizm-cografyasi-045",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Milli Parklar ve Korunan Alanlar",
+    "difficulty": 3,
+    "stem": "Türkiye'deki koruma statüleri ve özellikleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Türkiye'nin ilk milli parkı olan Yozgat Çamlığı Milli Parkı, 1958 yılında ilan edilmiştir.",
+        "explanation": "Yozgat Çamlığı Milli Parkı, Türkiye'nin ilk milli parkı olup 1958 yılında ilan edilmiştir."
+      },
+      {
+        "id": "B",
+        "text": "Tabiat parkları, bilimsel değeri çok yüksek olduğu için ziyarete tamamen kapalı alanlardır.",
+        "explanation": "Tabiat parkları, halkın dinlenmesine uygun alanlardır ve ziyarete açıktır. Ziyaretin en sınırlı olduğu statü 'tabiatı koruma alanı'dır."
+      },
+      {
+        "id": "C",
+        "text": "Milli parklar, Türkiye'de en katı koruma statüsüne sahip alanlardır.",
+        "explanation": "En katı koruma statüsüne sahip alanlar tabiatı koruma alanlarıdır. Milli parklar koruma-dinlenme-turizm amaçlıdır ve ziyarete açıktır."
+      },
+      {
+        "id": "D",
+        "text": "Tabiat anıtları, manzara bütünlüğü içinde halkın dinlenmesine uygun geniş alanları kapsar.",
+        "explanation": "Tabiat anıtları, tek bir doğal oluşumu (anıt ağaç, şelale gibi) ifade eder. Manzara bütünlüğü içinde halkın dinlenmesine uygun alanlar tabiat parklarıdır."
+      },
+      {
+        "id": "E",
+        "text": "Özel Çevre Koruma Bölgeleri (ÖÇKB), sadece doğal güzellikleri korumayı amaçlar ve kültürel değerleri kapsamaz.",
+        "explanation": "Özel Çevre Koruma Bölgeleri, doğal güzelliklerle birlikte kültürel değerleri de kapsayabilir (örn. Pamukkale-Hierapolis ÖÇKB)."
+      }
+    ],
+    "correct": "A",
+    "trick": "Farklı koruma statülerinin (milli park, tabiat parkı, tabiat anıtı, tabiatı koruma alanı, ÖÇKB) tanımları ve ziyaret kısıtlamaları arasındaki ince farklar karıştırılabilir.",
+    "id": "turizm-cografyasi-046",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Akarsular, Göller ve Denizler",
+    "difficulty": 2,
+    "stem": "Türkiye'deki göller ve özellikleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Van Gölü, Türkiye'nin en büyük gölü olup sodalı suya sahiptir.",
+        "explanation": "Van Gölü, Türkiye'nin en büyük gölüdür ve suyu sodalıdır."
+      },
+      {
+        "id": "B",
+        "text": "Beyşehir Gölü, Türkiye'nin en büyük krater gölüdür.",
+        "explanation": "Beyşehir Gölü, Türkiye'nin en büyük tatlı su gölüdür. En büyük krater gölü ise Nemrut Krater Gölü'dür."
+      },
+      {
+        "id": "C",
+        "text": "Tuz Gölü, Türkiye'nin tuz ihtiyacının büyük bir kısmını karşılar ve flamingo üreme alanıdır.",
+        "explanation": "Tuz Gölü, Türkiye'nin ikinci büyük gölüdür, tuzludur ve flamingolar için önemli bir üreme alanıdır."
+      },
+      {
+        "id": "D",
+        "text": "Salda Gölü, beyaz kumu ve stromatolitleri ile 'Türkiye'nin Maldivleri' olarak anılır.",
+        "explanation": "Salda Gölü, beyaz kumları ve stromatolitleri nedeniyle 'Türkiye'nin Maldivleri' olarak bilinir ve NASA'nın Mars araştırmalarında referans alınmıştır."
+      },
+      {
+        "id": "E",
+        "text": "Abant ve Yedigöller, heyelan set gölleri grubuna girer.",
+        "explanation": "Abant ve Yedigöller, heyelan set gölleri oluşum tipine örnektir."
+      }
+    ],
+    "correct": "B",
+    "trick": "En büyük göl, en büyük tatlı su gölü ve en büyük krater gölü gibi 'en' ifadelerinin karıştırılması veya farklı göl tiplerinin yanlış eşleştirilmesi tuzağa düşürebilir.",
+    "id": "turizm-cografyasi-047",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Coğrafi Bölgeler ve Turistik Değerleri",
+    "difficulty": 2,
+    "stem": "Türkiye'nin coğrafi bölgeleri ve öne çıkan turistik değerleri düşünüldüğünde, aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Marmara Bölgesi - İstanbul'un Tarihi Alanları",
+        "explanation": "İstanbul'un Tarihi Alanları, Marmara Bölgesi'nde yer alan önemli bir UNESCO Dünya Mirası Alanıdır."
+      },
+      {
+        "id": "B",
+        "text": "Ege Bölgesi - Efes Antik Kenti",
+        "explanation": "Efes Antik Kenti, Ege Bölgesi'nde yer alan ve UNESCO Dünya Mirası Listesi'nde bulunan önemli bir turistik değerdir."
+      },
+      {
+        "id": "C",
+        "text": "Akdeniz Bölgesi - Göbeklitepe",
+        "explanation": "Göbeklitepe, Güneydoğu Anadolu Bölgesi'nde, Şanlıurfa'da yer almaktadır, Akdeniz Bölgesi'nde değil."
+      },
+      {
+        "id": "D",
+        "text": "İç Anadolu Bölgesi - Kapadokya",
+        "explanation": "Kapadokya, İç Anadolu Bölgesi'nde yer alan ve peribacalarıyla ünlü bir doğal ve kültürel miras alanıdır."
+      },
+      {
+        "id": "E",
+        "text": "Karadeniz Bölgesi - Sümela Manastırı",
+        "explanation": "Sümela Manastırı, Karadeniz Bölgesi'nde, Trabzon'da yer alan önemli bir tarihi ve turistik yapıdır."
+      }
+    ],
+    "correct": "C",
+    "trick": "Bölgelerin sınırları ve bir turistik değerin hangi bölgede olduğunun karıştırılması yaygın bir tuzaktır, özellikle de popüler yerler farklı bölgelerde yer aldığında.",
+    "id": "turizm-cografyasi-048",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Türkiye'nin Konumu ve Sınırları",
+    "difficulty": 2,
+    "stem": "Türkiye'nin matematik konumu göz önüne alındığında, aşağıdaki ifadelerden hangisi doğru bir sonuç değildir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Dört mevsim belirgin olarak yaşanır.",
+        "explanation": "Türkiye'nin orta kuşakta yer alması nedeniyle dört mevsim belirgin olarak yaşanır, bu enlemin bir sonucudur."
+      },
+      {
+        "id": "B",
+        "text": "Kuzeyden güneye gidildikçe sıcaklık genellikle artar.",
+        "explanation": "Ekvator'a yaklaşıldıkça sıcaklıkların artması enlemin bir sonucudur."
+      },
+      {
+        "id": "C",
+        "text": "Doğu ile batı arasındaki yerel saat farkı 76 dakikadır.",
+        "explanation": "Bu ifade doğrudur ve Türkiye'nin boylamlarının bir sonucudur."
+      },
+      {
+        "id": "D",
+        "text": "Karadeniz'i Akdeniz'e bağlayan Boğazlar'a sahip olması, jeopolitik önemini artırır.",
+        "explanation": "Boğazlar'ın jeopolitik önemi, Türkiye'nin özel konumunun bir sonucudur, matematik konumunun değil."
+      },
+      {
+        "id": "E",
+        "text": "Ülke genelinde tek saat dilimi kullanılır.",
+        "explanation": "Türkiye'nin boylamlarının bir sonucu olarak ülke genelinde tek saat dilimi kullanılır."
+      }
+    ],
+    "correct": "D",
+    "trick": "Matematik konum ile özel konum sonuçlarını karıştırma.",
+    "id": "turizm-cografyasi-049",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Yer Şekilleri",
+    "difficulty": 1,
+    "stem": "Türkiye'nin yer şekillerinin genel özellikleri düşünüldüğünde, aşağıdaki dağ sıralarından hangisi kıyıya paralel uzanmaz?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Küre Dağları",
+        "explanation": "Küre Dağları, Kuzey Anadolu Dağları kuşağında yer alır ve Karadeniz kıyısına paralel uzanır."
+      },
+      {
+        "id": "B",
+        "text": "Canik Dağları",
+        "explanation": "Canik Dağları da Kuzey Anadolu Dağları kuşağında yer alır ve Karadeniz kıyısına paralel uzanır."
+      },
+      {
+        "id": "C",
+        "text": "Batı Toroslar",
+        "explanation": "Batı Toroslar, Akdeniz kıyısına paralel uzanan Toroslar'ın bir bölümüdür."
+      },
+      {
+        "id": "D",
+        "text": "Doğu Karadeniz Dağları",
+        "explanation": "Doğu Karadeniz Dağları, Karadeniz kıyısına paralel uzanır."
+      },
+      {
+        "id": "E",
+        "text": "Ege Bölgesi'ndeki Menteşe Dağları",
+        "explanation": "Menteşe Dağları Ege Bölgesi'nde yer alır ve Ege'deki dağlar kıyıya dik uzanır, paralel değil."
+      }
+    ],
+    "correct": "E",
+    "trick": "Kıyıya paralel uzanan dağ sıralarını, Ege'deki kıyıya dik uzanan dağlarla karıştırma.",
+    "id": "turizm-cografyasi-050",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "İklim ve Bitki Örtüsü",
+    "difficulty": 2,
+    "stem": "Türkiye'deki bitki örtüsü tipleri ve yayılış alanları göz önüne alındığında, aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Alpin çayır - Orman sınırının altındaki yüksek dağ etekleri",
+        "explanation": "Alpin çayırlar, orman sınırının üstündeki yüksek dağ çayırlarıdır, altındaki eteklerde değil."
+      },
+      {
+        "id": "B",
+        "text": "Maki - Akdeniz ve Ege kıyıları",
+        "explanation": "Maki, Akdeniz ikliminin görüldüğü Akdeniz ve Ege kıyılarının tipik bitki örtüsüdür."
+      },
+      {
+        "id": "C",
+        "text": "Psödomaki - Karadeniz kıyıları",
+        "explanation": "Psödomaki (yalancı maki), Karadeniz'de görülen, yaprak döken maki benzeri bitki örtüsüdür."
+      },
+      {
+        "id": "D",
+        "text": "Bozkır - İç Anadolu, Doğu ve Güneydoğu Anadolu",
+        "explanation": "Bozkır, karasal iklimin görüldüğü İç, Doğu ve Güneydoğu Anadolu'nun tipik bitki örtüsüdür."
+      },
+      {
+        "id": "E",
+        "text": "Kızılçam - Akdeniz kıyıları",
+        "explanation": "Kızılçam, Akdeniz ikliminin görüldüğü Akdeniz kıyılarında yaygın olan bir ağaç türüdür."
+      }
+    ],
+    "correct": "A",
+    "trick": "Alpin çayırın orman sınırının 'üstünde' mi 'altında' mı olduğunu karıştırma.",
+    "id": "turizm-cografyasi-051",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Türkiye'nin Florası",
+    "difficulty": 3,
+    "stem": "Türkiye'nin bitki coğrafyası bölgeleri (fitocoğrafya) ve bu bölgelere özgü bitki örtüsü eşleştirmelerinden hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Avrupa-Sibirya - Maki ve kızılçam",
+        "explanation": "Avrupa-Sibirya bölgesi nemli ormanlarla karakterizedir, maki ve kızılçam Akdeniz fitocoğrafyasına aittir."
+      },
+      {
+        "id": "B",
+        "text": "Avrupa-Sibirya - Karadeniz kıyıları ve Trakya'nın kuzeyi",
+        "explanation": "Avrupa-Sibirya bitki coğrafyası bölgesi, Karadeniz kıyıları ve Trakya'nın kuzeyinde nemli ormanlarla temsil edilir."
+      },
+      {
+        "id": "C",
+        "text": "Akdeniz - Bozkır",
+        "explanation": "Akdeniz bölgesi maki ve kızılçam ile karakterizedir, bozkır İran-Turan fitocoğrafyasına aittir."
+      },
+      {
+        "id": "D",
+        "text": "İran-Turan - Nemli ormanlar",
+        "explanation": "İran-Turan bölgesi bozkır ile karakterizedir, nemli ormanlar Avrupa-Sibirya fitocoğrafyasına aittir."
+      },
+      {
+        "id": "E",
+        "text": "Akdeniz - İç Anadolu, Doğu ve Güneydoğu",
+        "explanation": "Akdeniz bölgesi Akdeniz ve Ege kıyılarını kapsar, İç, Doğu ve Güneydoğu Anadolu İran-Turan fitocoğrafyasına aittir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Fitocoğrafya bölgelerinin adlarını, yayılış alanlarını ve karakteristik bitki örtülerini doğru eşleştirebilmek önemlidir.",
+    "id": "turizm-cografyasi-052",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Türkiye'nin Faunası",
+    "difficulty": 2,
+    "stem": "Türkiye faunasında yer alan sembolik hayvan türleri ve bunlarla ilgili koruma alanları veya özellikleri düşünüldüğünde, aşağıdaki ifadelerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Van kedisi, beyaz tüyleri ve farklı renklerdeki gözleriyle bilinen, suyu seven bir kedi ırkıdır.",
+        "explanation": "Van kedisinin ayırt edici özellikleri doğru belirtilmiştir."
+      },
+      {
+        "id": "B",
+        "text": "Kelaynak kuşları, dünyada doğal olarak sadece Şanlıurfa Birecik'te koruma altındadır.",
+        "explanation": "Kelaynak kuşlarının doğal olarak korunduğu yer Şanlıurfa Birecik'tir."
+      },
+      {
+        "id": "C",
+        "text": "Kangal çoban köpeği, tiftik yünü üretiminde kullanılan, Sivas kökenli tescilli bir ırktır.",
+        "explanation": "Kangal çoban köpeği Sivas kökenli tescilli bir ırk olsa da, tiftik yünü üretimi Ankara keçisiyle ilişkilidir, Kangal köpeğiyle değil."
+      },
+      {
+        "id": "D",
+        "text": "Akdeniz foku, dünyanın en nadir fok türlerinden biri olup, Foça kıyılarında özel koruma alanları bulunmaktadır.",
+        "explanation": "Akdeniz foku, dünyanın en nadir fok türüdür ve Foça'da koruma altındadır."
+      },
+      {
+        "id": "E",
+        "text": "Flamingoların Türkiye'deki önemli üreme alanlarından biri Tuz Gölü'dür.",
+        "explanation": "Tuz Gölü, flamingolar için önemli bir üreme alanıdır."
+      }
+    ],
+    "correct": "C",
+    "trick": "Farklı hayvan türlerinin özelliklerini ve onlarla ilişkilendirilen kavramları (tiftik yünü gibi) karıştırma.",
+    "id": "turizm-cografyasi-053",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Milli Parklar ve Korunan Alanlar",
+    "difficulty": 1,
+    "stem": "UNESCO Dünya Mirası Listesi'ndeki Türkiye varlıkları arasında, hem doğal hem de kültürel özellikler taşıyan 'karma' miras statüsüne sahip olanlar aşağıdaki seçeneklerin hangisinde doğru verilmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "İstanbul'un Tarihi Alanları ve Bergama Çok Katmanlı Kültürel Peyzaj",
+        "explanation": "Bu varlıklar sadece kültürel miras statüsündedir."
+      },
+      {
+        "id": "B",
+        "text": "Nemrut Dağı ve Ani Arkeolojik Alanı",
+        "explanation": "Bu varlıklar sadece kültürel miras statüsündedir."
+      },
+      {
+        "id": "C",
+        "text": "Xanthos-Letoon ve Efes",
+        "explanation": "Bu varlıklar sadece kültürel miras statüsündedir."
+      },
+      {
+        "id": "D",
+        "text": "Göreme Milli Parkı ve Kapadokya ile Hierapolis-Pamukkale",
+        "explanation": "Göreme Milli Parkı ve Kapadokya ile Hierapolis-Pamukkale, Türkiye'nin UNESCO Dünya Mirası Listesi'ndeki tek karma miras alanlarıdır."
+      },
+      {
+        "id": "E",
+        "text": "Göbeklitepe ve Çatalhöyük Neolitik Alanı",
+        "explanation": "Bu varlıklar sadece kültürel miras statüsündedir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Türkiye'nin sadece iki karma UNESCO miras alanı olduğunu ve bunların hangileri olduğunu doğru bilmek.",
+    "id": "turizm-cografyasi-054",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Akarsular, Göller ve Denizler",
+    "difficulty": 3,
+    "stem": "Aşağıdaki göllerden hangisi, oluşum türü ve özellikleri itibarıyla diğerlerinden farklı bir kategoride yer almaktadır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Van Gölü",
+        "explanation": "Van Gölü, volkanik set gölüdür ve sodalıdır."
+      },
+      {
+        "id": "B",
+        "text": "Nemrut Krater Gölü",
+        "explanation": "Nemrut Krater Gölü, volkanik oluşumlu bir krater gölüdür."
+      },
+      {
+        "id": "C",
+        "text": "Meke Gölü",
+        "explanation": "Meke Gölü, volkanik krater gölüdür."
+      },
+      {
+        "id": "D",
+        "text": "Acıgöl (Konya çevresi)",
+        "explanation": "Konya çevresindeki Acıgöl, volkanik krater gölüdür."
+      },
+      {
+        "id": "E",
+        "text": "Salda Gölü",
+        "explanation": "Salda Gölü, volkanik oluşumlu değildir; tektonik oluşumlu ve karstik özellikler gösteren bir göldür."
+      }
+    ],
+    "correct": "E",
+    "trick": "Farklı volkanik gölleri tanıyıp, volkanik olmayan ancak benzer şekilde bilinen göllerle karıştırmamak.",
+    "id": "turizm-cografyasi-055",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Coğrafi Bölgeler ve Turistik Değerleri",
+    "difficulty": 2,
+    "stem": "Türkiye'nin turizm açısından önemli coğrafi bölgeleri ve bu bölgelerdeki öne çıkan turistik değerler dikkate alındığında, aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "İç Anadolu Bölgesi - Kapadokya-Göreme (UNESCO), Konya (Mevlana), Ani (UNESCO)",
+        "explanation": "Kapadokya-Göreme ve Konya İç Anadolu Bölgesi'nde yer alırken, Ani UNESCO Dünya Mirası Alanı Doğu Anadolu Bölgesi'ndedir."
+      },
+      {
+        "id": "B",
+        "text": "Marmara Bölgesi - Bursa-Cumalıkızık (UNESCO)",
+        "explanation": "Bursa ve Cumalıkızık, Marmara Bölgesi'nde yer alan ve UNESCO Dünya Mirası Listesi'nde bulunan önemli kültürel değerlerdir."
+      },
+      {
+        "id": "C",
+        "text": "Ege Bölgesi - Efes (UNESCO), Pamukkale-Hierapolis (UNESCO)",
+        "explanation": "Efes ve Pamukkale-Hierapolis, Ege Bölgesi'nde yer alan ve UNESCO Dünya Mirası Listesi'nde bulunan önemli turistik değerlerdir."
+      },
+      {
+        "id": "D",
+        "text": "Akdeniz Bölgesi - Aspendos, Myra-Demre (Noel Baba), Xanthos-Letoon (UNESCO)",
+        "explanation": "Aspendos, Myra-Demre ve Xanthos-Letoon, Akdeniz Bölgesi'nde yer alan önemli kültürel ve tarihi değerlerdir."
+      },
+      {
+        "id": "E",
+        "text": "Karadeniz Bölgesi - Safranbolu (UNESCO), Sümela Manastırı, Ayder Yaylası",
+        "explanation": "Safranbolu, Sümela Manastırı ve Ayder Yaylası, Karadeniz Bölgesi'nin öne çıkan turistik değerleridir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Farklı coğrafi bölgelerdeki UNESCO alanlarını veya önemli turistik merkezleri doğru eşleştirebilmek.",
+    "id": "turizm-cografyasi-056",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Türkiye'nin Florası",
+    "difficulty": 2,
+    "stem": "Türkiye'nin bitki biyoçeşitliliği, Avrupa kıtasının tamamında bulunan bitki türü sayısıyla kıyaslandığında oldukça zengindir. Bu durumun başlıca nedenleri arasında aşağıdakilerden hangisi sayılamaz?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Üç farklı bitki coğrafyası bölgesinin kesişim noktasında yer alması",
+        "explanation": "Türkiye'nin üç bitki coğrafyası bölgesinin kesişiminde yer alması, bitki çeşitliliğinin zengin olmasının önemli bir nedenidir."
+      },
+      {
+        "id": "B",
+        "text": "Avrupa kıtasının yüzölçümüne kıyasla daha geniş bir alana sahip olması",
+        "explanation": "Türkiye'nin yüzölçümü Avrupa kıtasının tamamından daha küçük olup, bitki çeşitliliği zenginliği yüzölçümünden değil, coğrafi ve iklimsel koşullarından kaynaklanır. Notlarda Avrupa kıtasının tamamında yaklaşık 12.000 tür olduğu belirtilirken, Türkiye'nin tek başına neredeyse bir kıta kadar zengin olduğu vurgulanmıştır, bu bir yüzölçümü kıyaslaması değildir."
+      },
+      {
+        "id": "C",
+        "text": "Kısa mesafelerde büyük yükselti ve iklim farklılıklarının gözlenmesi",
+        "explanation": "Kısa mesafelerde görülen yükselti ve iklim farklılıkları, farklı ekosistemlerin oluşmasına ve dolayısıyla bitki çeşitliliğinin artmasına katkı sağlar."
+      },
+      {
+        "id": "D",
+        "text": "Buzul çağlarında birçok bitki türü için sığınak (refuge) görevi görmesi",
+        "explanation": "Buzul çağlarında sığınak görevi görmesi, birçok bitki türünün yok olmaktan kurtulmasını ve günümüze ulaşmasını sağlamıştır."
+      },
+      {
+        "id": "E",
+        "text": "Endemik bitki türlerinin sayısının oldukça yüksek olması",
+        "explanation": "Türkiye'deki endemik bitki türü sayısının yüksek olması, biyoçeşitliliğin bir sonucu ve göstergesidir, nedeni değildir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Bitki çeşitliliğinin zenginliği ile yüzölçümü arasında doğrudan bir neden-sonuç ilişkisi kurmaya çalışmak ve Avrupa kıtası ile yapılan sayısal kıyaslamayı yüzölçümüne bağlamak yanlış bir çıkarımdır.",
+    "id": "turizm-cografyasi-057",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Türkiye'nin Florası",
+    "difficulty": 3,
+    "stem": "Türkiye'nin florasında önemli bir yere sahip olan ve halk arasında 'ağlayan gelin' olarak bilinen bitki türü aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Sığla ağacı",
+        "explanation": "Sığla ağacı, 'günlük ağacı' olarak da bilinir ve yalnızca Güneybatı Anadolu'da doğal yayılış gösterir, 'ağlayan gelin' değildir."
+      },
+      {
+        "id": "B",
+        "text": "Datça hurması",
+        "explanation": "Datça hurması, Avrupa'nın tek doğal hurma türüdür ve Datça Yarımadası'nda bulunur, 'ağlayan gelin' değildir."
+      },
+      {
+        "id": "C",
+        "text": "Ters lale",
+        "explanation": "Ters lale, halk arasında 'ağlayan gelin' olarak bilinir ve Tunceli, Hakkari, Adıyaman yaylalarında yetişen, koparılması yasak endemik bir türdür."
+      },
+      {
+        "id": "D",
+        "text": "Kazdağı göknarı",
+        "explanation": "Kazdağı göknarı, yalnızca Kaz Dağları'nda yetişen endemik bir türdür, 'ağlayan gelin' değildir."
+      },
+      {
+        "id": "E",
+        "text": "Kasnak meşesi",
+        "explanation": "Kasnak meşesi, Isparta çevresinde görülen bir meşe türüdür, 'ağlayan gelin' değildir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Bitki isimlerini ve yerel adlarını karıştırma. 'Ağlayan gelin' ifadesinin hangi bitkiyle özdeşleştiğini bilmek gerekir.",
+    "id": "turizm-cografyasi-058",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Milli Parklar ve Korunan Alanlar",
+    "difficulty": 1,
+    "stem": "Aşağıdaki koruma statülerinden hangisi, bilimsel değeri yüksek alanlarda ziyaretin en sınırlı olduğu koruma kategorisini ifade eder?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Milli park",
+        "explanation": "Milli parklar, doğal ve kültürel kaynak değerlerine sahip, koruma, dinlenme ve turizm alanlarına açık doğa parçalarıdır ve ziyaretler daha serbesttir."
+      },
+      {
+        "id": "B",
+        "text": "Tabiat parkı",
+        "explanation": "Tabiat parkları, halkın dinlenmesine uygun, manzara bütünlüğü olan alanlardır ve ziyarete açıktır."
+      },
+      {
+        "id": "C",
+        "text": "Tabiat anıtı",
+        "explanation": "Tabiat anıtları, tek bir doğal oluşumu (anıt ağaç, şelale vb.) korur ve ziyaret genellikle mümkündür."
+      },
+      {
+        "id": "D",
+        "text": "Tabiatı koruma alanı",
+        "explanation": "Tabiatı koruma alanları, bilimsel değeri yüksek alanlardır ve ziyaretin en sınırlı olduğu koruma statüsünü temsil eder."
+      },
+      {
+        "id": "E",
+        "text": "Özel Çevre Koruma Bölgesi",
+        "explanation": "Özel Çevre Koruma Bölgeleri, belirli ekolojik, kültürel veya tarihi değerlere sahip geniş alanlardır ve ziyaret kısıtlamaları alana göre değişse de tabiatı koruma alanları kadar katı değildir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Farklı koruma statülerinin ziyaret kısıtlamaları arasındaki farkı gözden kaçırmak, özellikle 'en sınırlı' ifadesine dikkat etmemek.",
+    "id": "turizm-cografyasi-059",
+    "topicId": "turizm-cografyasi"
+  },
+  {
+    "subtopic": "Akarsular, Göller ve Denizler",
+    "difficulty": 2,
+    "stem": "Türkiye'deki denizlerin tuzluluk oranları kuzeyden güneye doğru belirli bir düzene sahiptir. Aşağıdaki sıralamalardan hangisi, Türkiye denizlerinin tuzluluk oranlarını kuzeyden güneye doğru doğru bir şekilde vermektedir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Karadeniz > Marmara > Ege > Akdeniz",
+        "explanation": "Bu sıralama yanlıştır. Tuzluluk oranı Karadeniz'de en düşük, Akdeniz'de ise en yüksektir."
+      },
+      {
+        "id": "B",
+        "text": "Ege > Akdeniz > Marmara > Karadeniz",
+        "explanation": "Bu sıralama yanlıştır. Akdeniz, Ege'den daha yüksek tuzluluk oranına sahiptir."
+      },
+      {
+        "id": "C",
+        "text": "Marmara > Ege > Akdeniz > Karadeniz",
+        "explanation": "Bu sıralama yanlıştır. Marmara Denizi'nin tuzluluk oranı Ege ve Akdeniz'den daha düşüktür."
+      },
+      {
+        "id": "D",
+        "text": "Karadeniz > Ege > Marmara > Akdeniz",
+        "explanation": "Bu sıralama yanlıştır. Karadeniz en düşük tuzluluğa sahipken, Akdeniz en yüksek tuzluluğa sahiptir."
+      },
+      {
+        "id": "E",
+        "text": "Akdeniz > Ege > Marmara > Karadeniz",
+        "explanation": "Bu sıralama doğrudur. Akdeniz en yüksek tuzluluk oranına sahipken, Karadeniz en düşük tuzluluk oranına sahiptir. Notlarda bu sıralama doğrudan verilmiştir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Denizlerin coğrafi konumlarına göre tuzluluk oranlarının değişimini karıştırmak veya genel sıcaklık algısıyla ters bir ilişki kurmaya çalışmak.",
+    "id": "turizm-cografyasi-060",
+    "topicId": "turizm-cografyasi"
+  }
+]

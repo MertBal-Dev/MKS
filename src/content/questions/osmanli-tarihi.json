@@ -1203,5 +1203,725 @@
       }
     ],
     "correct": "A"
+  },
+  {
+    "id": "osmanli-tarihi-041",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Kuruluş Dönemi",
+    "difficulty": 2,
+    "stem": "Osmanlı Devleti'nin kuruluş ve ilk dönemlerinde uygulanan istimalet politikasının temel amacı ve bu politikanın bir örneği aşağıdaki seçeneklerin hangisinde doğru verilmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Temel amaç: Yerli halkın devlete bağlılığını sağlamak; Örnek: Fethedilen bölgelerdeki halkın din ve dillerinde serbest bırakılması ve vergilerinin hafifletilmesi.",
+        "explanation": "İstimalet politikasının temel amacı, yerli halka hoşgörü göstererek onların devlete bağlılığını sağlamak ve dirençlerini kırmaktır. Din ve dil serbestliği ile vergi hafifletmeleri bunun en önemli örnekleridir."
+      },
+      {
+        "id": "B",
+        "text": "Temel amaç: Fethedilen bölgelerde merkezi otoriteyi güçlendirmek; Örnek: Tımar sisteminin yaygınlaştırılması.",
+        "explanation": "Tımar sistemi merkezi otoriteyi güçlendirse de, istimalet politikasının doğrudan bir örneği değildir ve temel amacı hoşgörü ile halkın desteğini kazanmaktır."
+      },
+      {
+        "id": "C",
+        "text": "Temel amaç: Yeni fethedilen topraklara Türkmen aileleri yerleştirerek bölgeyi Türkleştirmek; Örnek: Karesioğulları Beyliği'nin Osmanlı'ya katılması.",
+        "explanation": "Bu açıklama iskân politikasını tanımlar. İstimalet politikası Türkmen yerleşimi değil, yerli halka hoşgörü göstermektir. Karesioğulları'nın katılması ise bir fetih değil, beyliklerin birleşmesidir."
+      },
+      {
+        "id": "D",
+        "text": "Temel amaç: Balkanlarda Haçlılara karşı gaza ruhunu canlı tutmak; Örnek: Yeniçeri Ocağı'nın kurulması.",
+        "explanation": "Gaza ruhu Osmanlı büyümesinde etkili olsa da, istimalet politikasının doğrudan amacı değildir. Yeniçeri Ocağı ise bir ordu sistemidir ve istimalet politikasıyla doğrudan ilişkili değildir."
+      },
+      {
+        "id": "E",
+        "text": "Temel amaç: Bizans'taki taht kavgalarından faydalanmak; Örnek: Çimpe Kalesi'nin alınması.",
+        "explanation": "Bizans'taki taht kavgaları Osmanlı'nın büyümesini kolaylaştıran bir faktördür, ancak istimalet politikasının temel amacı değildir. Çimpe Kalesi'nin alınması ise Rumeli'ye geçişte stratejik bir adımdır."
+      }
+    ],
+    "correct": "A",
+    "trick": "İskân politikası ile karıştırılabilir. İstimalet, halka hoşgörü; İskân, Türkmen yerleşimidir."
+  },
+  {
+    "id": "osmanli-tarihi-042",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Kuruluş Dönemi",
+    "difficulty": 3,
+    "stem": "Osmanlı Devleti'nin kuruluş dönemindeki padişahların bazıları, devletin teşkilatlanmasında önemli adımlar atmıştır. Aşağıdaki eşleştirmelerden hangisi, padişah ve onun döneminde gerçekleşen bir ilke veya yeniliğe ilişkin doğru bir bilgi içermemektedir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Orhan Bey - İlk düzenli ordu (Yaya ve Müsellem)",
+        "explanation": "Orhan Bey döneminde ilk düzenli ordu olan Yaya ve Müsellem birlikleri kurulmuştur. Bu bilgi doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "I. Mehmet - İlk vezir ataması",
+        "explanation": "İlk vezir ataması I. Mehmet döneminde değil, Orhan Bey döneminde yapılmıştır. I. Mehmet ise Fetret Devri'ni bitirerek 'devletin ikinci kurucusu' unvanını almıştır."
+      },
+      {
+        "id": "C",
+        "text": "Osman Bey - Bizans'a karşı ilk savaş (Koyunhisar)",
+        "explanation": "Osman Bey döneminde Bizans'a karşı ilk savaş olan Koyunhisar Savaşı yapılmıştır. Bu bilgi doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "I. Murat - Yeniçeri Ocağı'nın kurulması",
+        "explanation": "Yeniçeri Ocağı, I. Murat döneminde kurulmuştur. Bu bilgi doğrudur."
+      },
+      {
+        "id": "E",
+        "text": "Yıldırım Bayezid - Anadolu Hisarı'nın yaptırılması",
+        "explanation": "Yıldırım Bayezid, İstanbul'u kuşatması sırasında Anadolu Hisarı'nı yaptırmıştır. Bu bilgi doğrudur."
+      }
+    ],
+    "correct": "B",
+    "trick": "I. Mehmet'in 'devletin ikinci kurucusu' olması, onun her alanda ilkleri başardığı yanılgısını yaratabilir. İlk vezir ataması Orhan Bey dönemindedir."
+  },
+  {
+    "id": "osmanli-tarihi-043",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Yükselme Dönemi",
+    "difficulty": 2,
+    "stem": "Osmanlı Devleti'nin yükselme döneminde gerçekleştirdiği önemli denizcilik faaliyetlerinden biri olan 1538 Preveze Deniz Savaşı'nın sonucunda aşağıdaki gelişmelerden hangisi yaşanmıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kırım'ın Osmanlı topraklarına katılması ve Karadeniz'in Türk gölü haline gelmesi",
+        "explanation": "Kırım'ın fethi ve Karadeniz'in Türk gölü haline gelmesi Fatih Sultan Mehmet döneminde gerçekleşmiştir."
+      },
+      {
+        "id": "B",
+        "text": "Mısır'ın fethi ve Baharat Yolu'nun Osmanlı kontrolüne geçmesi",
+        "explanation": "Mısır'ın fethi ve Baharat Yolu'nun kontrolü Yavuz Sultan Selim döneminde Mercidabık ve Ridaniye savaşlarıyla sağlanmıştır."
+      },
+      {
+        "id": "C",
+        "text": "Akdeniz'in bir Türk gölü haline gelmesi",
+        "explanation": "1538 Preveze Deniz Savaşı, Kanuni Sultan Süleyman döneminde Barbaros Hayreddin Paşa komutasında kazanılmış ve bu zaferle Akdeniz'deki Osmanlı üstünlüğü pekişerek Akdeniz bir Türk gölü haline gelmiştir."
+      },
+      {
+        "id": "D",
+        "text": "Hint Deniz Yolları'nın keşfedilmesi ve ticari güzergahların değişmesi",
+        "explanation": "Hint Deniz Yolları'nın keşfi, Osmanlı öncesi Coğrafi Keşifler dönemine aittir ve Avrupalı devletler tarafından gerçekleştirilmiştir."
+      },
+      {
+        "id": "E",
+        "text": "İnebahtı Deniz Savaşı'nda Osmanlı donanmasının yakılması",
+        "explanation": "İnebahtı Deniz Savaşı, Preveze'den sonra, 1571 yılında gerçekleşmiş ve Osmanlı donanması bu savaşta yenilgiye uğramıştır."
+      }
+    ],
+    "correct": "C",
+    "trick": "Diğer denizcilik başarıları veya denizcilikle ilgili olaylarla karıştırılabilir. Preveze, Akdeniz'in Türk gölü olmasını sağlamıştır."
+  },
+  {
+    "id": "osmanli-tarihi-044",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Devlet Teşkilatı",
+    "difficulty": 1,
+    "stem": "Osmanlı Devleti'nde taşra teşkilatında görevli olan Kadı'nın yetkileri arasında aşağıdakilerden hangisi bulunmamaktadır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Şer'i ve örfi davalara bakmak",
+        "explanation": "Kadı, hem şer'i hem de örfi hukuka göre davalara bakma yetkisine sahiptir."
+      },
+      {
+        "id": "B",
+        "text": "Belediye hizmetlerini yürütmek",
+        "explanation": "Kadı, yargı görevinin yanı sıra belediye başkanı gibi yerel yönetim hizmetlerini de yürütmüştür."
+      },
+      {
+        "id": "C",
+        "text": "Padişah dahil herkesi yargılayabilmek",
+        "explanation": "Kadı, yargı bağımsızlığına sahip olup padişah dahil herkesi yargılama yetkisine sahipti."
+      },
+      {
+        "id": "D",
+        "text": "Vergi toplamak ve tımar sahiplerinin denetimini yapmak",
+        "explanation": "Vergi toplama ve tımar sahiplerinin denetimi genellikle Sancakbeyi gibi diğer taşra görevlilerinin yetkisindedir. Kadı'nın temel görevi yargı ve yerel yönetimdir."
+      },
+      {
+        "id": "E",
+        "text": "Evlenme, boşanma, miras gibi hukuki işlemleri kaydetmek",
+        "explanation": "Kadı, bugünkü noterlik görevlerini de yerine getirerek evlenme, boşanma ve miras gibi hukuki işlemleri kaydetmiştir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Kadı'nın geniş yetkileri olduğu bilinir, ancak tüm idari ve mali yetkilerin ona ait olmadığına dikkat edilmelidir."
+  },
+  {
+    "id": "osmanli-tarihi-045",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Duraklama, Gerileme ve Modernleşme",
+    "difficulty": 2,
+    "stem": "Osmanlı Devleti'nde 18. yüzyılın başlarında yaşanan Lale Devri (1718-1730) ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Batı'ya ilk kez geçici elçilikler gönderilmiştir.",
+        "explanation": "Lale Devri'nde Batı'ya ilk kez geçici elçilikler gönderilerek Batı'daki gelişmeler yakından takip edilmeye çalışılmıştır."
+      },
+      {
+        "id": "B",
+        "text": "İbrahim Müteferrika ve Sait Efendi tarafından ilk Türk matbaası kurulmuştur.",
+        "explanation": "1727 yılında İbrahim Müteferrika ve Sait Efendi tarafından ilk Türk matbaası kurulmuştur. Bu, Lale Devri'nin önemli bir yeniliğidir."
+      },
+      {
+        "id": "C",
+        "text": "Sarayda ve çevresinde lüks ve israfın arttığı bir dönem olmuştur.",
+        "explanation": "Lale Devri, adını bu dönemde artan lale yetiştiriciliği ve saray çevresindeki zevk ve sefa ortamından almıştır, bu da lüks ve israfı beraberinde getirmiştir."
+      },
+      {
+        "id": "D",
+        "text": "Patrona Halil İsyanı ile sona ermiştir.",
+        "explanation": "Lale Devri, 1730 yılında çıkan Patrona Halil İsyanı ile sona ermiştir."
+      },
+      {
+        "id": "E",
+        "text": "Nizam-ı Cedit ordusu bu dönemde kurulmuştur.",
+        "explanation": "Nizam-ı Cedit ordusu, Lale Devri'nden çok sonra, III. Selim döneminde (18. yüzyıl sonu) kurulmuştur. Bu ifade yanlıştır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Lale Devri'nin yenilikçi bir dönem olması nedeniyle, sonraki dönemlerdeki yeniliklerle karıştırılması olasıdır. Nizam-ı Cedit, III. Selim dönemine aittir."
+  },
+  {
+    "id": "osmanli-tarihi-046",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Devlet Teşkilatı",
+    "difficulty": 3,
+    "stem": "Osmanlı Devleti'nde Divan-ı Hümayun üyelerinden olan Şeyhülislam'ın Divan'daki konumu ve yetkileriyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Divan toplantılarında oy hakkı bulunmamakla birlikte, alınan kararların İslam hukukuna uygunluğu konusunda fetva verirdi.",
+        "explanation": "Şeyhülislam, Divan toplantılarına katılır ancak oy hakkı yoktur. Onun görevi, alınan kararların Şeriat'a uygun olup olmadığı konusunda fetva vermekti."
+      },
+      {
+        "id": "B",
+        "text": "Devletin mali işlerinden sorumlu olup, bütçeyi hazırlardı.",
+        "explanation": "Devletin mali işlerinden sorumlu olan Divan üyesi Defterdar'dır."
+      },
+      {
+        "id": "C",
+        "text": "Padişah adına tuğra çeker ve arazi kayıtlarını tutardı.",
+        "explanation": "Padişah adına tuğra çeken ve arazi kayıtlarını tutan Divan üyesi Nişancı'dır."
+      },
+      {
+        "id": "D",
+        "text": "Yargı ve eğitim işlerinden sorumlu olup, kadı ve müderris atamalarını yapardı.",
+        "explanation": "Yargı ve eğitim işlerinden sorumlu olan Divan üyesi Kazasker'dir."
+      },
+      {
+        "id": "E",
+        "text": "Padişahın mutlak vekili olup, padişah mührünü taşırdı.",
+        "explanation": "Padişahın mutlak vekili olan ve padişah mührünü taşıyan Divan üyesi Sadrazam'dır."
+      }
+    ],
+    "correct": "A",
+    "trick": "Şeyhülislam'ın Divan'daki yüksek konumu nedeniyle, onun da diğer üyeler gibi oy hakkına sahip olduğu yanılgısı oluşabilir. Ancak görevi sadece fetva vermektir."
+  },
+  {
+    "id": "osmanli-tarihi-047",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Duraklama, Gerileme ve Modernleşme",
+    "difficulty": 2,
+    "stem": "Osmanlı Devleti'nde 19. yüzyılda gerçekleşen Tanzimat Fermanı (1839) ve Islahat Fermanı (1856) ile ilgili aşağıdaki kronolojik sıralamalardan hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I. Meşrutiyet → Tanzimat Fermanı",
+        "explanation": "I. Meşrutiyet 1876'da, Tanzimat Fermanı ise 1839'da ilan edilmiştir. Bu sıralama yanlıştır."
+      },
+      {
+        "id": "B",
+        "text": "Tanzimat Fermanı → Islahat Fermanı",
+        "explanation": "Tanzimat Fermanı 1839'da, Islahat Fermanı ise 1856'da ilan edilmiştir. Bu sıralama doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Islahat Fermanı → II. Meşrutiyet",
+        "explanation": "Islahat Fermanı 1856'da, II. Meşrutiyet ise 1908'de ilan edilmiştir. Bu sıralama doğru olsa da, seçenekler arasında en doğrusu A'dır."
+      },
+      {
+        "id": "D",
+        "text": "Sened-i İttifak → Islahat Fermanı",
+        "explanation": "Sened-i İttifak 1808'de, Islahat Fermanı ise 1856'da ilan edilmiştir. Bu sıralama doğru olsa da, soruda Tanzimat ve Islahat Fermanları sorulmaktadır."
+      },
+      {
+        "id": "E",
+        "text": "II. Mahmut Dönemi Yenilikleri → Tanzimat Fermanı",
+        "explanation": "II. Mahmut Dönemi yenilikleri Tanzimat Fermanı'ndan önce gerçekleşmiştir (1808-1839). Ancak soruda özellikle Tanzimat ve Islahat Fermanları arasındaki kronoloji sorulmaktadır."
+      }
+    ],
+    "correct": "B",
+    "trick": "Bu iki fermanın kronolojisi ve içerikleri sıkça karıştırılır. Tanzimat Fermanı (1839) önce, Islahat Fermanı (1856) daha sonradır."
+  },
+  {
+    "id": "osmanli-tarihi-048",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Duraklama, Gerileme ve Modernleşme",
+    "difficulty": 1,
+    "stem": "Aşağıdakilerden hangisi, Osmanlı Devleti'nin I. Dünya Savaşı'nda kazandığı tek cephe olma özelliğini taşımaktadır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kafkas Cephesi",
+        "explanation": "Kafkas Cephesi'nde Osmanlı Devleti, Sarıkamış Harekatı gibi büyük kayıplar yaşamış ve bu cephede başarılı olamamıştır."
+      },
+      {
+        "id": "B",
+        "text": "Kanal Cephesi",
+        "explanation": "Kanal Cephesi'nde İngilizlere karşı yapılan saldırılar başarısızlıkla sonuçlanmıştır."
+      },
+      {
+        "id": "C",
+        "text": "Çanakkale Cephesi",
+        "explanation": "Çanakkale Cephesi, Osmanlı Devleti'nin I. Dünya Savaşı'nda İtilaf Devletleri'ne karşı büyük bir direniş göstererek kazandığı tek cephedir."
+      },
+      {
+        "id": "D",
+        "text": "Suriye-Filistin Cephesi",
+        "explanation": "Suriye-Filistin Cephesi'nde Osmanlı Devleti, İngilizler karşısında ağır yenilgiler almıştır."
+      },
+      {
+        "id": "E",
+        "text": "Irak Cephesi",
+        "explanation": "Irak Cephesi'nde Kut'ül Amare gibi başarılar elde edilmiş olsa da, genel olarak cephe İngiliz işgaliyle sonuçlanmıştır."
+      }
+    ],
+    "correct": "C",
+    "trick": "Çanakkale Zaferi'nin önemi ve Mustafa Kemal'in buradaki rolü nedeniyle, diğer cephelerle karıştırılma ihtimali düşüktür, ancak yine de dikkatli olunmalıdır."
+  },
+  {
+    "id": "osmanli-tarihi-049",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Kuruluş Dönemi",
+    "difficulty": 2,
+    "stem": "Osmanlı Devleti'nin kuruluş ve ilk dönemlerinde uyguladığı politikalar ve teşkilatlanma süreçleri göz önüne alındığında, aşağıdakilerden hangisi Orhan Bey dönemine ait bir gelişme DEĞİLDİR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "İlk düzenli ordunun kurulması",
+        "explanation": "İlk düzenli ordu (yaya ve müsellem) Orhan Bey döneminde kurulmuştur."
+      },
+      {
+        "id": "B",
+        "text": "Bursa'nın başkent yapılması",
+        "explanation": "Bursa, Orhan Bey döneminde fethedilerek başkent yapılmıştır."
+      },
+      {
+        "id": "C",
+        "text": "Çimpe Kalesi'nin alınarak Rumeli'ye ayak basılması",
+        "explanation": "Çimpe Kalesi (1353) Orhan Bey döneminde alınmış ve Osmanlı'nın Rumeli'ye geçişini sağlamıştır."
+      },
+      {
+        "id": "D",
+        "text": "Yeniçeri Ocağı'nın kurulması",
+        "explanation": "Yeniçeri Ocağı, I. Murat (Hüdavendigar) döneminde kurulmuştur, Orhan Bey dönemine ait değildir."
+      },
+      {
+        "id": "E",
+        "text": "Karesioğulları Beyliği'nin Osmanlı topraklarına katılması",
+        "explanation": "Karesioğulları Beyliği, Orhan Bey döneminde Osmanlı'ya katılan ilk beyliktir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Orhan Bey ve I. Murat dönemlerinin birbirine yakınlığı ve her ikisinin de önemli teşkilatlanmalar yapması nedeniyle olaylar karıştırılabilir."
+  },
+  {
+    "id": "osmanli-tarihi-050",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Kuruluş Dönemi",
+    "difficulty": 3,
+    "stem": "Osmanlı Devleti'nin kuruluş ve yükselme dönemlerinde uyguladığı istimalet politikası, fethedilen bölgelerdeki halkın devlete bağlılığını artırmada önemli bir rol oynamıştır. Aşağıdakilerden hangisi bu politikanın somut bir göstergesi olarak kabul edilebilir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Fethedilen topraklara sadece Müslüman Türkmen ailelerin yerleştirilmesi",
+        "explanation": "İskan politikası fethedilen yerlere Türkmen ailelerin yerleştirilmesini içerse de, istimalet politikası yerli halka hoşgörü gösterilmesini ifade eder. Bu şık, 'sadece' kelimesiyle istimaletin kapsamını daraltmaktadır."
+      },
+      {
+        "id": "B",
+        "text": "Bizans İmparatorluğu'nun taht kavgalarına doğrudan müdahale edilmesi",
+        "explanation": "Bizans'taki taht kavgaları Osmanlı'nın büyümesini kolaylaştıran bir faktör olsa da, bu durum doğrudan istimalet politikası kapsamında değildir."
+      },
+      {
+        "id": "C",
+        "text": "Yeniçeri Ocağı'na sadece Hristiyan çocukların alınması",
+        "explanation": "Devşirme sistemi Hristiyan çocukların alınmasını içerse de, istimalet politikasının temel amacı dini hoşgörü ve yerli halkın haklarını korumaktır, askeri sistemin bir parçası değildir."
+      },
+      {
+        "id": "D",
+        "text": "Anadolu Hisarı'nın İstanbul kuşatması öncesinde yapılması",
+        "explanation": "Anadolu Hisarı, İstanbul'un fethi için yapılan askeri bir hazırlıktır ve istimalet politikasıyla doğrudan ilgili değildir."
+      },
+      {
+        "id": "E",
+        "text": "İstanbul'un fethinden sonra Ortodoks Patrikhanesi'nin varlığının devam ettirilmesi",
+        "explanation": "Fatih Sultan Mehmet'in İstanbul'un fethinden sonra Ortodoks Patrikhanesi'ne dokunmaması, istimalet politikasının en büyük ve somut örneklerinden biridir; yerli halkın dini inançlarına saygı gösterildiğini kanıtlar."
+      }
+    ],
+    "correct": "E",
+    "trick": "İskan politikası, devşirme sistemi gibi diğer politikalarla istimalet politikası arasındaki farkı ayırt edememek."
+  },
+  {
+    "id": "osmanli-tarihi-051",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Yükselme Dönemi",
+    "difficulty": 2,
+    "stem": "Aşağıdaki olay-sonuç eşleştirmelerinden hangisi YANLIŞTIR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Otlukbeli Savaşı – Kırım'ın Osmanlı egemenliğine girmesi",
+        "explanation": "Otlukbeli Savaşı (1473) Akkoyunlulara karşı kazanılmış bir zaferdir. Kırım'ın fethi ise Fatih Sultan Mehmet döneminde Cenevizlilerden alınarak gerçekleşmiştir ve Otlukbeli Savaşı ile ilişkili değildir."
+      },
+      {
+        "id": "B",
+        "text": "İstanbul'un Fethi – Orta Çağ'ın kapanıp Yeni Çağ'ın başlaması",
+        "explanation": "İstanbul'un Fethi, evrensel sonuçları nedeniyle Orta Çağ'ın sonu ve Yeni Çağ'ın başlangıcı olarak kabul edilir."
+      },
+      {
+        "id": "C",
+        "text": "Mercidabık ve Ridaniye Savaşları – Halifeliğin Osmanlı'ya geçmesi",
+        "explanation": "Yavuz Sultan Selim'in Memlük Devleti'ni yıkmasıyla sonuçlanan Mercidabık (1516) ve Ridaniye (1517) savaşları sonucunda halifelik Osmanlı'ya geçmiştir."
+      },
+      {
+        "id": "D",
+        "text": "Preveze Deniz Savaşı – Akdeniz'in Türk gölü haline gelmesi",
+        "explanation": "Barbaros Hayreddin Paşa komutasındaki Osmanlı donanmasının kazandığı Preveze Deniz Savaşı (1538) ile Akdeniz'deki Osmanlı hakimiyeti pekişmiş ve Akdeniz 'Türk gölü' olarak anılmaya başlanmıştır."
+      },
+      {
+        "id": "E",
+        "text": "Kırım'ın Fethi – Karadeniz'in Türk gölü haline gelmesi",
+        "explanation": "Fatih Sultan Mehmet döneminde Kırım'ın fethiyle Karadeniz tamamen Osmanlı kontrolüne geçmiş ve 'Türk gölü' haline gelmiştir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Osmanlı'nın iki farklı dönemindeki farklı fetihlerin sonuçlarını karıştırmak."
+  },
+  {
+    "id": "osmanli-tarihi-052",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Devlet Teşkilatı",
+    "difficulty": 1,
+    "stem": "Osmanlı Devleti'nde taşra yönetiminde görevli olan kadıların yetki ve sorumlulukları arasında aşağıdakilerden hangisi yer almaz?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yargı görevini yürütmek",
+        "explanation": "Kadı, taşrada yargıç olarak görev yapar."
+      },
+      {
+        "id": "B",
+        "text": "Vergi toplamak",
+        "explanation": "Kadıların vergi toplama gibi bir görevi bulunmamaktadır. Vergi toplama işi daha çok tımarlı sipahiler ve vergi memurları tarafından yapılırdı."
+      },
+      {
+        "id": "C",
+        "text": "Belediye hizmetlerini denetlemek",
+        "explanation": "Kadı, aynı zamanda belediye başkanı gibi hizmetleri denetlerdi."
+      },
+      {
+        "id": "D",
+        "text": "Padişah dâhil herkesi yargılayabilmek",
+        "explanation": "Kadı, padişah dâhil herkesi yargılama yetkisine sahipti."
+      },
+      {
+        "id": "E",
+        "text": "Evlenme ve boşanma gibi hukuki işlemleri yürütmek",
+        "explanation": "Kadılar, evlenme, boşanma, miras gibi hukuki işlemleri de yürütürlerdi."
+      }
+    ],
+    "correct": "B",
+    "trick": "Kadıların geniş yetki alanlarının tümünü bilmemek ve vergi toplama gibi idari görevleri de üstlendiklerini sanmak."
+  },
+  {
+    "id": "osmanli-tarihi-053",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Devlet Teşkilatı",
+    "difficulty": 2,
+    "stem": "Osmanlı Devleti'nde uygulanan tımar sistemi, birçok önemli amaca hizmet etmiştir. Aşağıdakilerden hangisi tımar sisteminin amaçlarından biri DEĞİLDİR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Hazineden para çıkmadan asker beslemek",
+        "explanation": "Tımar sistemi, hazineden para çıkmadan tımarlı sipahi adı verilen askerlerin beslenmesini sağlamıştır."
+      },
+      {
+        "id": "B",
+        "text": "Toprağın boş kalmasını önlemek ve üretimi sürdürmek",
+        "explanation": "Tımar sahipleri, toprakların işlenmesini sağlayarak üretimin devamlılığını güvence altına almıştır."
+      },
+      {
+        "id": "C",
+        "text": "Merkezi otoriteyi güçlendirmek için Kapıkulu askerlerinin sayısını artırmak",
+        "explanation": "Tımar sistemi eyalet askerlerinin (tımarlı sipahiler) beslenmesini sağlarken, Kapıkulu askerleri devşirme sistemiyle ve doğrudan merkeze bağlı olarak beslenirdi. Tımar sisteminin Kapıkulu askerlerinin sayısını artırma gibi bir amacı yoktur, aksine taşrada merkezi otoriteye bağlı olmayan bir askeri güç yaratır."
+      },
+      {
+        "id": "D",
+        "text": "Vergi toplama işini kolaylaştırmak ve düzenli hale getirmek",
+        "explanation": "Tımar sahipleri, kendi bölgelerindeki vergileri toplayarak devlet adına önemli bir görev üstlenmiştir."
+      },
+      {
+        "id": "E",
+        "text": "Taşrada asayiş ve güvenliği sağlamak",
+        "explanation": "Tımarlı sipahiler, barış zamanında kendi bölgelerinde asayişi sağlamakla da görevliydi."
+      }
+    ],
+    "correct": "C",
+    "trick": "Tımar sistemi ile Kapıkulu askerleri arasındaki farkı gözden kaçırmak ve tımar sisteminin merkezi otoriteye olan etkisini yanlış yorumlamak."
+  },
+  {
+    "id": "osmanli-tarihi-054",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Duraklama ve Gerileme Dönemi",
+    "difficulty": 2,
+    "stem": "Osmanlı Devleti'nin Gerileme Dönemi'nde (1699-1792) imzalanan antlaşmalar ve yaşanan gelişmeler, devletin toprak kayıplarını ve uluslararası arenadaki konumunu önemli ölçüde etkilemiştir. Bu dönemdeki antlaşmaların kronolojik sıralaması aşağıdakilerden hangisinde doğru verilmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Karlofça – Küçük Kaynarca – Pasarofça – Yaş",
+        "explanation": "Karlofça (1699), Küçük Kaynarca (1774), Pasarofça (1718), Yaş (1792) bu sıralama hatalıdır."
+      },
+      {
+        "id": "B",
+        "text": "Pasarofça – Karlofça – Yaş – Küçük Kaynarca",
+        "explanation": "Pasarofça (1718), Karlofça (1699), Yaş (1792), Küçük Kaynarca (1774) bu sıralama hatalıdır."
+      },
+      {
+        "id": "C",
+        "text": "Küçük Kaynarca – Karlofça – Pasarofça – Yaş",
+        "explanation": "Küçük Kaynarca (1774), Karlofça (1699), Pasarofça (1718), Yaş (1792) bu sıralama hatalıdır."
+      },
+      {
+        "id": "D",
+        "text": "Karlofça – Pasarofça – Küçük Kaynarca – Yaş",
+        "explanation": "Doğru kronolojik sıralama Karlofça (1699), Pasarofça (1718), Küçük Kaynarca (1774) ve Yaş (1792) Antlaşmaları şeklindedir. Karlofça Gerileme'nin başlangıcı, Yaş ise Gerileme'nin sonu olarak kabul edilir."
+      },
+      {
+        "id": "E",
+        "text": "Yaş – Pasarofça – Karlofça – Küçük Kaynarca",
+        "explanation": "Yaş (1792), Pasarofça (1718), Karlofça (1699), Küçük Kaynarca (1774) bu sıralama hatalıdır."
+      }
+    ],
+    "correct": "D",
+    "trick": "Antlaşmaların tarihlerini karıştırmak veya 'ilk büyük toprak kaybı', 'en ağır antlaşma' gibi tanımlayıcı bilgileri kronolojiye doğru oturtamamak."
+  },
+  {
+    "id": "osmanli-tarihi-055",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Modernleşme Dönemi",
+    "difficulty": 3,
+    "stem": "Osmanlı Devleti'nin modernleşme çabaları kapsamında yapılan ıslahat hareketleri, farklı padişahlar döneminde çeşitli alanlarda kendini göstermiştir. Aşağıdaki ıslahatlar ve padişah eşleştirmelerinden hangisi YANLIŞTIR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Nizam-ı Cedid Ordusu'nun kurulması – III. Selim",
+        "explanation": "Nizam-ı Cedid Ordusu, III. Selim döneminde Batı tarzında kurulan modern ordudur."
+      },
+      {
+        "id": "B",
+        "text": "Yeniçeri Ocağı'nın kaldırılması (Vaka-i Hayriye) – II. Mahmut",
+        "explanation": "Yeniçeri Ocağı, 1826 yılında II. Mahmut tarafından kaldırılmış ve bu olaya Vaka-i Hayriye denilmiştir."
+      },
+      {
+        "id": "C",
+        "text": "Tanzimat Fermanı'nın ilanı – Abdülmecit",
+        "explanation": "Tanzimat Fermanı, 1839 yılında Sultan Abdülmecit döneminde ilan edilmiştir."
+      },
+      {
+        "id": "D",
+        "text": "İlk Türk matbaasının kurulması – Lale Devri (III. Ahmet dönemi)",
+        "explanation": "İbrahim Müteferrika ve Sait Efendi tarafından ilk Türk matbaası, 1727 yılında Lale Devri'nde (III. Ahmet dönemi) kurulmuştur."
+      },
+      {
+        "id": "E",
+        "text": "I. Meşrutiyet'in ilanı ve Kanun-i Esasi'nin kabulü – V. Mehmet Reşat",
+        "explanation": "I. Meşrutiyet ve Kanun-i Esasi, 1876 yılında II. Abdülhamit döneminde ilan edilmiştir. V. Mehmet Reşat döneminde ise II. Meşrutiyet ilan edilmiştir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Meşrutiyet dönemlerinin padişahlarını veya kronolojisini karıştırmak (I. Meşrutiyet II. Abdülhamit, II. Meşrutiyet V. Mehmet Reşat)."
+  },
+  {
+    "id": "osmanli-tarihi-056",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Toplum ve Kültür",
+    "difficulty": 1,
+    "stem": "Osmanlı Devleti'nde devşirme sistemiyle ilgili aşağıdaki bilgilerden hangisi DOĞRUDUR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Devşirme sistemiyle seçilen çocuklar, Enderun'da eğitilerek devletin en üst kademelerine kadar yükselebilirdi.",
+        "explanation": "Devşirme sistemiyle seçilen yetenekli çocuklar Enderun'da eğitim görerek sadrazamlığa kadar yükselebilirdi."
+      },
+      {
+        "id": "B",
+        "text": "Sadece Türk ve Müslüman ailelerin çocukları devşirme olarak alınırdı.",
+        "explanation": "Devşirme sisteminde Balkanlardaki Hristiyan ailelerin çocukları alınırdı, Türk ve Müslüman çocuklar alınmazdı."
+      },
+      {
+        "id": "C",
+        "text": "Devşirme çocukları doğrudan Yeniçeri Ocağı'na alınırdı, başka bir eğitimden geçmezlerdi.",
+        "explanation": "Devşirme çocukları Türk-İslam terbiyesiyle yetiştirilir, yetenekli olanlar Enderun'da eğitim alıp devletin üst kademelerine çıkabilirdi, doğrudan ocağa alınmazlardı."
+      },
+      {
+        "id": "D",
+        "text": "Tek çocuklu ailelerden de devşirme alınabilirdi.",
+        "explanation": "Tek çocuklu ailelerden devşirme alınmazdı."
+      },
+      {
+        "id": "E",
+        "text": "Devşirme sistemi, Osmanlı'nın kuruluşundan itibaren uygulanan bir sistem değildir.",
+        "explanation": "Devşirme sistemi Osmanlı'nın kuruluş döneminden itibaren uygulanan bir sistemdir (I. Murat dönemi Yeniçeri Ocağı ile başlar)."
+      }
+    ],
+    "correct": "A",
+    "trick": "Devşirme sisteminin kurallarını (kimlerin alınıp kimlerin alınmadığı, eğitim süreçleri) eksik veya yanlış bilmek."
+  },
+  {
+    "id": "osmanli-tarihi-057",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Osmanlı Kuruluş Dönemi",
+    "difficulty": 2,
+    "stem": "Osmanlı Devleti'nin kuruluş ve yükselişinde önemli rol oynayan politikalardan biri olan istimalet, aşağıdakilerden hangisini ifade etmektedir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Fethedilen topraklara Anadolu'dan Türkmen ailelerin yerleştirilmesi.",
+        "explanation": "Bu durum iskân politikası olarak bilinir, istimalet politikası değildir."
+      },
+      {
+        "id": "B",
+        "text": "Gayrimüslim halka din ve dillerinde serbestlik tanınması ve vergilerinin hafifletilmesi.",
+        "explanation": "İstimalet politikası, fethedilen yerlerdeki yerli halka hoşgörü gösterilerek onların devlete bağlılığını sağlamayı amaçlayan bir yaklaşımdır."
+      },
+      {
+        "id": "C",
+        "text": "Bizans İmparatorluğu'ndaki taht kavgalarından faydalanılması.",
+        "explanation": "Bu, Osmanlı'nın büyümesini sağlayan dış faktörlerden biridir, bir politika adı değildir."
+      },
+      {
+        "id": "D",
+        "text": "Türk beylikleriyle savaşmaktan kaçınıp batıya yönelinmesi.",
+        "explanation": "Bu durum Osmanlı'nın coğrafi konumunun getirdiği bir avantajdır, bir politika adı değildir."
+      },
+      {
+        "id": "E",
+        "text": "Savaş esirlerinin beşte birinin devlete ayrılması ve asker olarak yetiştirilmesi.",
+        "explanation": "Bu durum pençik sistemi ile ilgilidir ve devşirme sisteminin bir öncülüdür, istimalet politikasıyla ilişkili değildir."
+      }
+    ],
+    "correct": "B",
+    "trick": "İskân politikasıyla karıştırılabilir; iskân yerleştirme, istimalet hoşgörüdür."
+  },
+  {
+    "id": "osmanli-tarihi-058",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Osmanlı Yükselme Dönemi",
+    "difficulty": 3,
+    "stem": "Osmanlı Devleti'nde I. Murat döneminde 'ülke hanedanın ortak malıdır' anlayışından 'ülke padişah ve oğullarınındır' anlayışına geçiş, merkezi otoritenin güçlenmesi açısından önemli bir adımdır. Fatih Sultan Mehmet döneminde çıkarılan ve kardeş katlini yasal hale getiren düzenleme ile bu anlayışın pekiştirildiği görülmektedir. Bu düzenlemenin adı aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Sened-i İttifak",
+        "explanation": "Sened-i İttifak, II. Mahmut döneminde ayanlarla padişah arasında yapılan ve padişahın yetkilerini sınırlayan bir belgedir."
+      },
+      {
+        "id": "B",
+        "text": "Tanzimat Fermanı",
+        "explanation": "Tanzimat Fermanı, Abdülmecit döneminde ilan edilen, kanun üstünlüğünü ve vatandaşlık haklarını güvence altına alan bir düzenlemedir."
+      },
+      {
+        "id": "C",
+        "text": "Kanunname-i Âl-i Osman",
+        "explanation": "Kanunname-i Âl-i Osman, Fatih Sultan Mehmet döneminde çıkarılan ve kardeş katlini devletin bekası için yasal hale getiren ilk Osmanlı kanunnamesidir. Bu düzenleme, merkezi otoriteyi güçlendirme ve taht kavgalarını engelleme amacı taşımıştır."
+      },
+      {
+        "id": "D",
+        "text": "Islahat Fermanı",
+        "explanation": "Islahat Fermanı, Abdülmecit döneminde ilan edilen ve gayrimüslimlere eşit haklar tanımayı amaçlayan bir düzenlemedir."
+      },
+      {
+        "id": "E",
+        "text": "Kanun-i Esasi",
+        "explanation": "Kanun-i Esasi, II. Abdülhamit döneminde ilan edilen ilk Osmanlı anayasasıdır."
+      }
+    ],
+    "correct": "C",
+    "trick": "Fatih Sultan Mehmet dönemindeki diğer önemli gelişmelerle veya sonraki dönemlerdeki fermanlarla karıştırılabilir."
+  },
+  {
+    "id": "osmanli-tarihi-059",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Osmanlı Devlet Teşkilatı",
+    "difficulty": 1,
+    "stem": "Osmanlı Devleti'nde devletin en yüksek karar organı olan Divan-ı Hümayun'da, fetva verme yetkisine sahip olmasına rağmen oy hakkı bulunmayan üye aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Sadrazam",
+        "explanation": "Sadrazam, padişahın vekili olup Divan'ın en yetkili üyesiydi ve oy hakkı vardı."
+      },
+      {
+        "id": "B",
+        "text": "Kazasker",
+        "explanation": "Kazasker, yargı ve eğitim işlerinden sorumlu olup Divan'da oy hakkı vardı."
+      },
+      {
+        "id": "C",
+        "text": "Defterdar",
+        "explanation": "Defterdar, mali işlerden sorumlu olup Divan'da oy hakkı vardı."
+      },
+      {
+        "id": "D",
+        "text": "Şeyhülislam",
+        "explanation": "Şeyhülislam, dini konularda fetva verme yetkisine sahip olmasına rağmen, Divan-ı Hümayun'un bir danışma organı olması ve son sözün padişahta olması nedeniyle oy hakkı bulunmamaktaydı; sadece görüş bildirirdi."
+      },
+      {
+        "id": "E",
+        "text": "Nişancı",
+        "explanation": "Nişancı, padişahın tuğrasını çeken ve arazi kayıtlarını tutan üye olup Divan'da oy hakkı vardı."
+      }
+    ],
+    "correct": "D",
+    "trick": "Şeyhülislam'ın Divan'daki önemine rağmen oy hakkının olmaması, bazen şaşırtıcı olabilir."
+  },
+  {
+    "id": "osmanli-tarihi-060",
+    "topicId": "osmanli-tarihi",
+    "subtopic": "Osmanlı Duraklama ve Gerileme Dönemi",
+    "difficulty": 2,
+    "stem": "Aşağıdaki antlaşma ve özellikleri eşleştirmelerinden hangisi YANLIŞTIR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Zitvatorok Antlaşması (1606) - Osmanlı padişahı ile Avusturya kralının denk sayılması",
+        "explanation": "Zitvatorok Antlaşması, Osmanlı'nın Avusturya üzerindeki siyasi üstünlüğünü kaybettiği ve padişah ile Avusturya kralının protokolde denk sayıldığı bir antlaşmadır. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "Vasvar Antlaşması (1664) - Osmanlı Devleti'nin son kez toprak kazandığı antlaşmalardan biri",
+        "explanation": "Vasvar Antlaşması, Osmanlı'nın batıda son kez toprak kazandığı antlaşmalardan biridir. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Karlofça Antlaşması (1699) - Osmanlı Devleti'nin ilk kez büyük çapta toprak kaybettiği antlaşma",
+        "explanation": "Karlofça Antlaşması, Osmanlı Devleti'nin ilk büyük toprak kaybını yaşadığı ve Duraklama Dönemi'nin sonu, Gerileme Dönemi'nin başlangıcı kabul edilen antlaşmadır. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "Pasarofça Antlaşması (1718) - Lale Devri'nin başlangıcı",
+        "explanation": "Pasarofça Antlaşması, Osmanlı'nın batıdan toprak kaybetmesine rağmen, Avrupa'ya yönelik bir barış ve reform döneminin (Lale Devri) başlangıcı kabul edilir. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "E",
+        "text": "Küçük Kaynarca Antlaşması (1774) - Kırım'ın Osmanlı'ya bağlı bir hanlık olarak bağımsızlığını kazanması",
+        "explanation": "Küçük Kaynarca Antlaşması ile Kırım'a bağımsızlık verilmiş, ancak bu 'bağımsızlık' fiilen Rusya'nın Kırım üzerindeki etkinliğinin başlangıcı olmuştur. Kırım'ın Osmanlı'ya bağlı bir hanlık olarak bağımsızlığını kazanması ifadesi yanlıştır; Kırım, Osmanlı'ya dini yönden bağlı kalmakla birlikte siyasi olarak bağımsız olmuştur, bu da Rusya'nın işgaline zemin hazırlamıştır. Siyasi bağımsızlık Osmanlı'dan kopuşu ifade eder. Bu eşleştirme yanlıştır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Küçük Kaynarca Antlaşması'nın Kırım'a getirdiği 'bağımsızlık' statüsünün tam olarak ne anlama geldiği ve Osmanlı'ya bağlılığının sadece dini boyutta kalması detayına dikkat edilmelidir."
   }
 ]

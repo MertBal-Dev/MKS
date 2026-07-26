@@ -1214,5 +1214,725 @@
     ],
     "correct": "C",
     "trick": "'Güneş tutulması savaşı' = Halys Savaşı (Lidya-Med, MÖ 585). Thales bağlantısıyla İyonya sorusu gibi de gelebilir."
+  },
+  {
+    "id": "anadolu-medeniyetleri-041",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Tarih Öncesi Anadolu",
+    "difficulty": 2,
+    "stem": "Neolitik Dönem'de tarım ve hayvancılığa geçişle birlikte yerleşik hayatın başlaması, insanlık tarihinde 'Neolitik Devrim' olarak adlandırılmıştır. Bu devrimin Anadolu'daki önemli merkezlerinden biri olan Çatalhöyük ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "T biçimli dikili taşlar üzerine yılan, tilki ve akrep kabartmaları yer almaktadır.",
+        "explanation": "T biçimli dikili taşlar üzerine yılan, tilki, akrep gibi hayvan kabartmaları Göbeklitepe'nin özelliğidir, Çatalhöyük'ün değil."
+      },
+      {
+        "id": "B",
+        "text": "Dünyanın en eski kent yerleşimlerinden biri olarak kabul edilir.",
+        "explanation": "Çatalhöyük, MÖ 7400 civarına tarihlenen dünyanın en eski kent yerleşimlerinden biridir."
+      },
+      {
+        "id": "C",
+        "text": "Evlere girişler damdan sağlanmış olup, bilinen bir sokak düzeni yoktur.",
+        "explanation": "Çatalhöyük'ün karakteristik özelliklerinden biri, evlerin bitişik nizamda yapılması ve girişlerin damdan merdivenle sağlanmasıdır; sokak sistemi bulunmaz."
+      },
+      {
+        "id": "D",
+        "text": "Duvar resimlerinde av sahneleri ve boğa figürleri sıkça yer alır.",
+        "explanation": "Çatalhöyük'teki duvarlarda av sahneleri ve boğa resimleri gibi sanatsal ifadeler bulunmaktadır."
+      },
+      {
+        "id": "E",
+        "text": "Ölüler, evin tabanına gömülerek yaşam döngüsünün bir parçası olarak görülmüştür.",
+        "explanation": "Çatalhöyük'te ölüler evin tabanına gömülmüştür, bu da dönemin inanç ve yaşam biçimini yansıtır."
+      }
+    ],
+    "correct": "A",
+    "trick": "Göbeklitepe'nin bilinen özelliklerini Çatalhöyük ile karıştırma tuzağı."
+  },
+  {
+    "id": "anadolu-medeniyetleri-042",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Asur Ticaret Kolonileri",
+    "difficulty": 1,
+    "stem": "Anadolu'da tarih çağlarının başlangıcını işaret eden Asur Ticaret Kolonileri Çağı'nda, Asurlu tüccarların Mezopotamya'dan Anadolu'ya getirdiği ve Anadolu'dan götürdüğü başlıca ticaret malları aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Mezopotamya'dan demir ve ipek getirip, Anadolu'dan tahıl ve zeytinyağı götürmüşlerdir.",
+        "explanation": "Notlarda demir, ipek, tahıl veya zeytinyağından bahsedilmemektedir."
+      },
+      {
+        "id": "B",
+        "text": "Mezopotamya'dan kalay ve kumaş getirip, Anadolu'dan altın ve gümüş götürmüşlerdir.",
+        "explanation": "Asurlu tüccarlar Mezopotamya'dan kalay ve kumaş getirirken, Anadolu'dan altın ve gümüş gibi değerli madenleri götürmüşlerdir."
+      },
+      {
+        "id": "C",
+        "text": "Mezopotamya'dan tunç ve seramik getirip, Anadolu'dan köle ve baharat götürmüşlerdir.",
+        "explanation": "Notlarda tunç, seramik, köle veya baharattan bahsedilmemektedir. Tunç üretimi için kalay Anadolu'ya getiriliyordu."
+      },
+      {
+        "id": "D",
+        "text": "Mezopotamya'dan bakır ve cam getirip, Anadolu'dan mermer ve kereste götürmüşlerdir.",
+        "explanation": "Notlarda bakır, cam, mermer veya keresteden bahsedilmemektedir."
+      },
+      {
+        "id": "E",
+        "text": "Mezopotamya'dan buğday ve arpa getirip, Anadolu'dan at ve sığır götürmüşlerdir.",
+        "explanation": "Notlarda buğday, arpa, at veya sığırdan bahsedilmemektedir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Ticaret mallarının doğru eşleştirilmesini karıştırma tuzağı."
+  },
+  {
+    "id": "anadolu-medeniyetleri-043",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Hititler",
+    "difficulty": 3,
+    "stem": "Hitit Devleti'nde kralın yetkilerini sınırlayan, soylulardan oluşan meclise verilen ad ve bu meclisin Anadolu'daki önemi hakkında aşağıdakilerden hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Tavananna adı verilen bu meclis, kralın dini yetkilerini denetlerdi.",
+        "explanation": "Tavananna kraliçeye verilen addır, meclise değil. Meclis, kralın yetkilerini sınırlar, sadece dini değil genel yetkilerini de kapsar."
+      },
+      {
+        "id": "B",
+        "text": "Anal adı verilen bu kurum, kralın yaptığı savaşları onaylardı.",
+        "explanation": "Anal, Hitit krallarının yıllıklarıdır ve savaşları onaylama gibi bir görevi yoktur; başarıları ve başarısızlıkları kaydeder."
+      },
+      {
+        "id": "C",
+        "text": "Pankuş adı verilen bu meclis, Anadolu'da bilinen ilk meclis geleneğinin örneğidir.",
+        "explanation": "Hititlerde soylulardan oluşan ve kralın yetkilerini sınırlayan meclise Pankuş adı verilir ve bu, Anadolu'da meclis geleneğinin ilk örneğidir."
+      },
+      {
+        "id": "D",
+        "text": "Pankuş, sadece dini törenlere katılan bir danışma organıydı.",
+        "explanation": "Pankuş, sadece dini törenlere katılmakla kalmaz, kralın yetkilerini sınırlayan siyasi bir gücü de vardı."
+      },
+      {
+        "id": "E",
+        "text": "Bu meclis, Hititlerin çok tanrılı dinini düzenlemekle görevliydi.",
+        "explanation": "Meclisin görevi kralların yetkilerini sınırlamak ve devlet işlerine dair kararlarda rol almaktı, dini düzenlemek değil."
+      }
+    ],
+    "correct": "C",
+    "trick": "Pankuş, Tavananna ve Anal kavramlarını karıştırma tuzağı."
+  },
+  {
+    "id": "anadolu-medeniyetleri-044",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Frigler",
+    "difficulty": 2,
+    "stem": "Frigler, tarım ve hayvancılığa dayalı ekonomileriyle bilinen bir uygarlıktır. Bu durum, onların hukuk sistemlerine de yansımış ve bazı eylemler çok ağır cezalarla karşılanmıştır. Buna göre, Frig hukukunda aşağıdakilerden hangisi ölüm cezasıyla sonuçlanabilen bir suç olarak kabul edilmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Madeni eşya çalmak.",
+        "explanation": "Notlarda madeni eşya çalmaya verilen cezadan bahsedilmemektedir, ancak Frigler madencilikte ustaydı. Ölüm cezası saban kırmak ve öküz öldürmekle ilişkilidir."
+      },
+      {
+        "id": "B",
+        "text": "Kral Midas'ın heykellerine zarar vermek.",
+        "explanation": "Notlarda kral heykellerine zarar vermeye verilen cezadan bahsedilmemektedir."
+      },
+      {
+        "id": "C",
+        "text": "Kibele kültüne katılmayı reddetmek.",
+        "explanation": "Notlarda Kibele kültüne katılmayı reddetmeye verilen cezadan bahsedilmemektedir."
+      },
+      {
+        "id": "D",
+        "text": "Saban kırmak veya öküz öldürmek.",
+        "explanation": "Frigler'de tarımın kutsallığı nedeniyle saban kıran veya öküz öldüren kişilere ölüm cezası verilirdi."
+      },
+      {
+        "id": "E",
+        "text": "Gordion düğümünü çözmeye çalışmak.",
+        "explanation": "Gordion düğümünü çözmeye çalışmak bir suç değil, bir kehanetle ilişkilendirilen bir eylemdir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Frig hukukunun özgün ceza sistemini, genel suçlarla karıştırma tuzağı."
+  },
+  {
+    "id": "anadolu-medeniyetleri-045",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Urartular",
+    "difficulty": 1,
+    "stem": "Doğu Anadolu'da kurulan Urartu Devleti'nin coğrafi konumu, onları belirli alanlarda uzmanlaşmaya itmiştir. Aşağıdakilerden hangisi Urartu uygarlığının öne çıktığı alanlardan biri değildir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kale ve sur mimarisi",
+        "explanation": "Urartular, dağlık ve sarp coğrafyaları nedeniyle kale ve sur mimarisinde ustalaşmışlardır."
+      },
+      {
+        "id": "B",
+        "text": "Su mühendisliği",
+        "explanation": "Urartular, tarıma elverişsiz arazileri sulamak için Menua Kanalı gibi önemli su mühendisliği eserleri yapmışlardır."
+      },
+      {
+        "id": "C",
+        "text": "Madencilik ve maden sanatı",
+        "explanation": "Urartular, doğal kaynakları sayesinde madencilik ve maden sanatında ileri gitmişlerdir."
+      },
+      {
+        "id": "D",
+        "text": "Kaya mezarları",
+        "explanation": "Urartular, ölü gömme geleneklerinde kaya mezarlarını kullanmışlardır."
+      },
+      {
+        "id": "E",
+        "text": "Paralı askerlik sistemi",
+        "explanation": "Paralı askerlik sistemi Lidyalıların yıkılış nedeni olarak belirtilmiştir, Urartuların öne çıktığı bir alan değildir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Lidyalıların ayırt edici özelliği olan paralı askerliği Urartuların özelliği olarak sunarak yanıltma tuzağı."
+  },
+  {
+    "id": "anadolu-medeniyetleri-046",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Lidyalılar",
+    "difficulty": 2,
+    "stem": "Lidyalıların icat ettiği madeni para, dünya ekonomi tarihinde önemli bir dönüm noktası olmuştur. Ancak, bu uygarlığın çöküşünde de ekonomileriyle ilgili bir zafiyetin etkili olduğu belirtilir. Buna göre Lidyalıların yıkılışının temel nedenlerinden biri olarak aşağıdakilerden hangisi gösterilir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ordularında paralı asker kullanmaları ve kendi vatandaşlarından ordu kurmamaları.",
+        "explanation": "Lidyalıların yıkılış nedeni olarak ordularında paralı asker kullanmaları ve kendi vatandaşlarından ordu kurmayarak savunmasız kalmaları gösterilir."
+      },
+      {
+        "id": "B",
+        "text": "Kral Yolu'nun kontrolünü kaybetmeleri ve ticaret yollarının değişmesi.",
+        "explanation": "Kral Yolu önemli bir ticaret yolu olsa da, kontrolünün kaybedilmesi yıkılışın doğrudan ve tek nedeni olarak belirtilmemiştir; daha çok askeri zafiyet ön plandadır."
+      },
+      {
+        "id": "C",
+        "text": "Kybele kültünün zayıflaması ve dini inançlardaki düşüş.",
+        "explanation": "Dini inançlardaki değişikliklerin bir devletin yıkılışına neden olduğu notlarda belirtilmemiştir."
+      },
+      {
+        "id": "D",
+        "text": "Sardes'teki altın madenlerinin tükenmesi ve ekonomik güçlerinin azalması.",
+        "explanation": "Altın kaynaklarının tükenmesi doğrudan bir yıkılış nedeni olarak notlarda yer almamaktadır; paralı askerlik vurgulanmıştır."
+      },
+      {
+        "id": "E",
+        "text": "Bintepeler'deki tümülüslerin yağmalanması ve moral bozukluğu.",
+        "explanation": "Tümülüslerin yağmalanması bir yıkılış nedeni olarak notlarda geçmemektedir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Lidyalıların zenginliği ile yıkılış nedenini ilişkilendiren özel bilgiyi diğer genel ekonomik veya kültürel faktörlerle karıştırma tuzağı."
+  },
+  {
+    "id": "anadolu-medeniyetleri-047",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "İyonlar",
+    "difficulty": 3,
+    "stem": "Antik Yunan dünyasında bilim ve felsefenin doğuşuna ev sahipliği yapan İyonya'da, şehir planlamacılığında modern yaklaşımların temelleri atılmıştır. Aşağıdakilerden hangisi İyonya ile ilişkili olup, modern şehir planlamacılığının atası sayılan 'ızgara (grid) plan' sistemini geliştiren kişi ve bu plana göre kurulan önemli bir antik kentin doğru eşleştirilmesidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Thales - Efes",
+        "explanation": "Thales Miletli bir filozoftur, Efesli değildir ve şehir planlamacılığı ile değil, felsefe ve astronomi ile bilinir."
+      },
+      {
+        "id": "B",
+        "text": "Hipodamos - Milet",
+        "explanation": "Miletli Hipodamos, birbirini dik kesen caddelerle kurulan ızgara (grid) şehir planını geliştirmiştir. Milet de bu plana göre kurulmuştur."
+      },
+      {
+        "id": "C",
+        "text": "Herakleitos - Priene",
+        "explanation": "Herakleitos Efesli bir filozoftur, Prieneli değildir ve şehir planlamacılığı ile değil, değişim felsefesi ile bilinir."
+      },
+      {
+        "id": "D",
+        "text": "Anaksimandros - Klazomenai",
+        "explanation": "Anaksimandros Miletli bir filozoftur, Klazomenaili değildir ve şehir planlamacılığı ile değil, ilk dünya haritalarından biriyle bilinir."
+      },
+      {
+        "id": "E",
+        "text": "Pisagor - Kolophon",
+        "explanation": "Pisagor Sisamlıdır, Kolophonlu değildir ve şehir planlamacılığı ile değil, matematik ve geometri ile bilinir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Farklı İyonyalı düşünürleri ve kentlerini karıştırma tuzağı."
+  },
+  {
+    "id": "anadolu-medeniyetleri-048",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Anadolu'daki İlkler",
+    "difficulty": 2,
+    "stem": "Anadolu uygarlıkları, insanlık tarihinde birçok ilke imza atmıştır. Aşağıdaki 'ilk'lerden hangisi, ilgili uygarlık veya yerleşimle yanlış eşleştirilmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "İlk tapınak / anıtsal yapı: Göbeklitepe",
+        "explanation": "Göbeklitepe, dünyanın bilinen en eski tapınak/anıtsal yapı kompleksidir."
+      },
+      {
+        "id": "B",
+        "text": "Yazının Anadolu'ya girişi / tarih çağlarının başlaması: Asur Ticaret Kolonileri (Kültepe)",
+        "explanation": "Asurlu tüccarların Kültepe'ye getirdiği çivi yazısı ile Anadolu'da tarih çağları başlamıştır."
+      },
+      {
+        "id": "C",
+        "text": "Çengelli iğnenin atası (fibula): Hititler",
+        "explanation": "Çengelli iğnenin atası olan fibula, Friglerin buluşudur, Hititlerin değil."
+      },
+      {
+        "id": "D",
+        "text": "İlk madeni para: Lidyalılar (elektrum)",
+        "explanation": "Lidyalılar, MÖ 7. yüzyılda elektrumdan ilk madeni parayı bastılar."
+      },
+      {
+        "id": "E",
+        "text": "İlk demokratik federasyon: Likya Birliği",
+        "explanation": "Likya Birliği, kentlerin nüfuslarına göre oy hakkına sahip olduğu ilk demokratik federasyon olarak kabul edilir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Farklı uygarlıkların 'ilk'lerini birbirine karıştırma ve özellikle Friglerin fibulasını başka bir uygarlıkla eşleştirme tuzağı."
+  },
+  {
+    "id": "anadolu-medeniyetleri-049",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Tarih Öncesi Anadolu",
+    "difficulty": 2,
+    "stem": "Neolitik Dönem'in en önemli özelliklerinden biri olan tarım ve hayvancılığa geçiş, insanlık tarihinde büyük bir kırılma yaratmıştır. Aşağıdaki yerleşim yerlerinden hangisi bu dönemde bakırın ilk kez işlendiği ve ilk dokuma parçalarının bulunduğu yerleşimlerden biridir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Karain Mağarası",
+        "explanation": "Karain Mağarası, Paleolitik Dönem'den Roma'ya kadar iskân görmüş, ancak bakır işçiliği ve dokumacılıkla öne çıkan bir Neolitik yerleşim değildir."
+      },
+      {
+        "id": "B",
+        "text": "Çatalhöyük",
+        "explanation": "Çatalhöyük, dünyanın en eski kent yerleşimlerinden biri olup, Neolitik Dönem'de tarım ve yerleşik hayatın önemli bir merkezidir, ancak bakırın ilk işlendiği yer değildir."
+      },
+      {
+        "id": "C",
+        "text": "Göbeklitepe",
+        "explanation": "Göbeklitepe, dünyanın bilinen en eski tapınak kompleksidir ve tarım başlamadan önce avcı-toplayıcılar tarafından yapılmıştır, bakır işçiliği ile ilişkilendirilmez."
+      },
+      {
+        "id": "D",
+        "text": "Çayönü",
+        "explanation": "Çayönü, Diyarbakır'da yer alan Neolitik bir yerleşim olup, bakırın ilk kez işlendiği ve ilk dokuma parçalarının bulunduğu yerleşimlerden biri olarak notlarda belirtilmiştir."
+      },
+      {
+        "id": "E",
+        "text": "Hacılar",
+        "explanation": "Hacılar, gelişkin boyalı çanak çömlekleriyle bilinen bir Neolitik yerleşimdir, ancak bakır işçiliği veya dokumacılıkla ilgili özel bir vurgu yoktur."
+      }
+    ],
+    "correct": "D",
+    "trick": "Neolitik dönem yerleşimleri arasında farklı özellikleriyle öne çıkanları karıştırma."
+  },
+  {
+    "id": "anadolu-medeniyetleri-050",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Hititler",
+    "difficulty": 3,
+    "stem": "Hitit Devleti'nde kralın yetkilerini sınırlayan, soylulardan oluşan meclise verilen ad ve kraliçenin dini törenlere katılması, kral savaştayken devleti yönetmesi gibi yetkilere sahip olması, Anadolu'daki yönetim geleneği açısından önemli ilkleri temsil eder. Buna göre, Hititlerdeki bu iki önemli kuruma verilen adlar aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Pankuş - Arinna",
+        "explanation": "Pankuş doğru meclis adıdır, ancak Arinna bir kraliçe adı değil, Güneş Tanrıçası'nın adıdır."
+      },
+      {
+        "id": "B",
+        "text": "Anal - Tavananna",
+        "explanation": "Anal, Hitit yıllıklarına verilen addır ve ilk tarih yazıcılığı örneğidir, meclis değildir. Tavananna doğru kraliçe adıdır."
+      },
+      {
+        "id": "C",
+        "text": "Kaniş - Hepat",
+        "explanation": "Kaniş, Asur Ticaret Kolonileri döneminde Kültepe'nin adıdır. Hepat ise baş tanrıça Arinna'nın Güneş Tanrıçası'nın adıdır, kraliçe unvanı değildir."
+      },
+      {
+        "id": "D",
+        "text": "Labarna - Muvatalli",
+        "explanation": "Labarna ve Muvatalli, Hitit krallarının adlarıdır, meclis veya kraliçe unvanları değildir."
+      },
+      {
+        "id": "E",
+        "text": "Pankuş - Tavananna",
+        "explanation": "Pankuş, soylulardan oluşan meclise verilen addır ve kralın yetkilerini sınırlar. Tavananna ise dini törenlere katılan ve kral savaştayken devleti yöneten kraliçeye verilen addır. Bu eşleştirme doğrudur."
+      }
+    ],
+    "correct": "E",
+    "trick": "Hititlere ait farklı kurum ve unvanların adlarını karıştırma."
+  },
+  {
+    "id": "anadolu-medeniyetleri-051",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Frigler",
+    "difficulty": 2,
+    "stem": "Frig Uygarlığı, tarım ve hayvancılığa büyük önem vermesiyle bilinir. Bu önem, hukuk sistemlerine de yansımış ve tarımı koruyucu sert yasalar getirilmiştir. Aşağıdakilerden hangisi Friglerin tarıma verdiği önemi gösteren hukuki uygulamalardan biridir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Saban kıran veya öküz öldürene ölüm cezası verilmesi",
+        "explanation": "Friglerde saban kıran veya öküz öldürene ölüm cezası verilmesi, tarıma verilen büyük önemi ve bu konudaki hukuki hassasiyetlerini açıkça göstermektedir."
+      },
+      {
+        "id": "B",
+        "text": "Toprak ağalığı sisteminin yaygınlaştırılması",
+        "explanation": "Friglerde toprak ağalığı sisteminin yaygınlaştırıldığına dair notlarda bilgi bulunmamaktadır."
+      },
+      {
+        "id": "C",
+        "text": "Tüm tarım ürünlerinin devlet kontrolünde üretilmesi",
+        "explanation": "Friglerde tüm tarım ürünlerinin devlet kontrolünde üretildiğine dair notlarda bilgi bulunmamaktadır."
+      },
+      {
+        "id": "D",
+        "text": "Çiftçilere özel vergi muafiyetleri tanınması",
+        "explanation": "Çiftçilere özel vergi muafiyetleri tanındığına dair notlarda bilgi bulunmamaktadır."
+      },
+      {
+        "id": "E",
+        "text": "Tarım arazilerinin yalnızca kraliyet ailesine ait olması",
+        "explanation": "Tarım arazilerinin yalnızca kraliyet ailesine ait olduğuna dair notlarda bilgi bulunmamaktadır."
+      }
+    ],
+    "correct": "A",
+    "trick": "Friglerin tarım hukukunu diğer uygarlıkların ekonomik uygulamalarıyla karıştırma."
+  },
+  {
+    "id": "anadolu-medeniyetleri-052",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Urartular",
+    "difficulty": 1,
+    "stem": "Urartu Uygarlığı, Doğu Anadolu'nun sarp coğrafyasında kurulmuş ve bu coğrafyanın getirdiği zorluklara karşı geliştirdiği mühendislik becerileriyle öne çıkmıştır. Özellikle su kaynaklarını yönetme konusundaki ustalıkları günümüze kadar ulaşan eserlerle kanıtlanmıştır. Aşağıdakilerden hangisi Urartuların su mühendisliğindeki başarısını gösteren önemli bir yapıdır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kadeş Antlaşması",
+        "explanation": "Kadeş Antlaşması, Hititler ve Mısırlılar arasında imzalanmış bir barış antlaşmasıdır, Urartu su mühendisliği ile ilgili değildir."
+      },
+      {
+        "id": "B",
+        "text": "Menua Kanalı (Şamran Kanalı)",
+        "explanation": "Menua Kanalı, Urartu Kralı Menua tarafından yaptırılmış ve yaklaşık 50 km uzunluğunda olup günümüzde bile su taşımaya devam eden bir su mühendisliği harikasıdır."
+      },
+      {
+        "id": "C",
+        "text": "Pankuş Meclisi",
+        "explanation": "Pankuş Meclisi, Hititlerdeki soylular meclisidir, Urartu su mühendisliği ile ilgili değildir."
+      },
+      {
+        "id": "D",
+        "text": "Fibula",
+        "explanation": "Fibula, Friglerin icat ettiği bir çengelli iğnedir, Urartu su mühendisliği ile ilgili değildir."
+      },
+      {
+        "id": "E",
+        "text": "Kültepe Tabletleri",
+        "explanation": "Kültepe Tabletleri, Asur Ticaret Kolonileri dönemine ait yazılı belgelerdir, Urartu su mühendisliği ile ilgili değildir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Urartulara ait su mühendisliği eserini diğer uygarlıklara ait farklı eserlerle karıştırma."
+  },
+  {
+    "id": "anadolu-medeniyetleri-053",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Lidyalılar",
+    "difficulty": 2,
+    "stem": "Lidyalılar, Batı Anadolu'da, Gediz ve Küçük Menderes vadilerinde kurulmuş ve dünya ekonomi tarihinde önemli bir dönüm noktasına imza atmışlardır. Ancak bu ekonomik yenilik, aynı zamanda devletin yıkılışında da etkili olan bir zaaf yaratmıştır. Buna göre, Lidyalıların dünya ekonomisine en önemli katkısı ve devletlerinin yıkılışında etkili olan temel zaaf aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kral Yolu'nu inşa etmeleri - Tarıma yeterince önem vermemeleri",
+        "explanation": "Kral Yolu Persler tarafından geliştirilmiştir, Lidyalılar inşa etmemiştir. Tarıma önem vermeme yıkılış sebebi olarak belirtilmemiştir."
+      },
+      {
+        "id": "B",
+        "text": "Altın madenciliğinde ustalaşmaları - Ticaret yollarının kontrolünü kaybetmeleri",
+        "explanation": "Altın madenciliğinde ustalaşmaları doğru olsa da, ticaret yollarının kontrolünü kaybetmeleri yıkılışın doğrudan sebebi olarak belirtilmemiştir."
+      },
+      {
+        "id": "C",
+        "text": "İlk madeni parayı basmaları - Ordularında paralı asker kullanmaları",
+        "explanation": "Lidyalıların ilk madeni parayı basmaları dünya ekonomisine en önemli katkılarıdır. Ordularında paralı asker kullanmaları ve buna bağlı olarak kendi vatandaşlarından ordu kurmamaları, Persler tarafından yıkılışlarının temel nedeni olarak belirtilmiştir. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "Elektrum para basmaları - Kybele kültüne aşırı bağlılıkları",
+        "explanation": "Elektrum para basmaları doğru katkıdır, ancak Kybele kültüne aşırı bağlılıkları yıkılış sebebi olarak notlarda geçmemektedir."
+      },
+      {
+        "id": "E",
+        "text": "Sardes'i başkent yapmaları - Deniz ticaretine yeterince yönelmemeleri",
+        "explanation": "Sardes başkentleri olsa da, deniz ticaretine yönelmemeleri yıkılış sebebi olarak belirtilmemiştir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Lidyalıların katkısını ve yıkılış nedenini, diğer uygarlıkların özellikleri veya yanlış çıkarımlarla karıştırma."
+  },
+  {
+    "id": "anadolu-medeniyetleri-054",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "İyonlar",
+    "difficulty": 3,
+    "stem": "İyon Uygarlığı, Batı Anadolu kıyılarında kurulan şehir devletleri ve deniz ticareti sayesinde zenginleşmeleriyle bilim ve felsefenin beşiği olmuştur. Doğa olaylarını dinle değil akılla açıklamaya çalışan birçok önemli düşünür bu bölgeden çıkmıştır. Aşağıdaki düşünürlerden hangisi, İzmir veya Sakız Adası kökenli olup, epik şiirleriyle dünya edebiyatına damga vurmuştur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Thales",
+        "explanation": "Thales, Miletli olup güneş tutulmasını hesaplaması ve ilk filozof olmasıyla tanınır, epik şiirleriyle değil."
+      },
+      {
+        "id": "B",
+        "text": "Anaksimandros",
+        "explanation": "Anaksimandros, Miletli olup ilk dünya haritalarından birini yapmasıyla tanınır, epik şiirleriyle değil."
+      },
+      {
+        "id": "C",
+        "text": "Herakleitos",
+        "explanation": "Herakleitos, Efesli olup değişim felsefesiyle ('aynı nehirde iki kez yıkanılmaz') tanınır, epik şiirleriyle değil."
+      },
+      {
+        "id": "D",
+        "text": "Homeros",
+        "explanation": "Homeros, İzmir veya Sakız Adası kökenli olup 'İlyada' ve 'Odysseia' destanlarıyla dünya edebiyatına damga vurmuş epik şiir yazarıdır."
+      },
+      {
+        "id": "E",
+        "text": "Pisagor",
+        "explanation": "Pisagor, Sisamlı olup matematik ve geometri alanındaki çalışmalarıyla tanınır, epik şiirleriyle değil."
+      }
+    ],
+    "correct": "D",
+    "trick": "İyonya'nın farklı bilim ve sanat insanlarını ve uzmanlık alanlarını karıştırma."
+  },
+  {
+    "id": "anadolu-medeniyetleri-055",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Karşılaştırmalı Özet ve Anadolu'daki İlkler",
+    "difficulty": 2,
+    "stem": "Anadolu, farklı uygarlıkların beşiği olmuş ve insanlık tarihine birçok ilki kazandırmıştır. Aşağıdaki 'ilk'lerden hangisi, karşısında verilen uygarlık ile doğru eşleştirilmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "İlk meclis geleneği - Lidyalılar",
+        "explanation": "İlk meclis geleneği (Pankuş) Hititlere aittir, Lidyalılara değil."
+      },
+      {
+        "id": "B",
+        "text": "İlk madeni para - Asur Ticaret Kolonileri",
+        "explanation": "İlk madeni para Lidyalılara aittir. Asur Ticaret Kolonileri Anadolu'ya yazıyı getirmiştir."
+      },
+      {
+        "id": "C",
+        "text": "İlk kentleşme örneği - Göbeklitepe",
+        "explanation": "Göbeklitepe ilk tapınak/anıtsal yapıdır, ilk kentleşme örneklerinden biri Çatalhöyük'tür."
+      },
+      {
+        "id": "D",
+        "text": "Çengelli iğnenin atası (fibula) - Urartular",
+        "explanation": "Çengelli iğnenin atası olan fibula Friglere aittir, Urartulara değil."
+      },
+      {
+        "id": "E",
+        "text": "İlk tarih yazıcılığı - Hititler",
+        "explanation": "Hititlerin 'Anal' adı verilen yıllıklarındaki tarafsız kayıtlar, ilk tarih yazıcılığı örneği olarak kabul edilir. Bu eşleştirme doğrudur."
+      }
+    ],
+    "correct": "E",
+    "trick": "Anadolu'daki ilkleri ve ilgili uygarlıkları birbirine karıştırma."
+  },
+  {
+    "id": "anadolu-medeniyetleri-056",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Asur Ticaret Kolonileri",
+    "difficulty": 1,
+    "stem": "Kuzey Mezopotamya'dan Anadolu'ya gelen Asurlu tüccarlar, yaklaşık MÖ 1950-1750 yılları arasında Anadolu'da ticaret merkezleri kurmuşlardır. Bu ticaret faaliyetleri, Anadolu'da büyük bir değişimin başlangıcı olmuştur. Aşağıdakilerden hangisi Asur Ticaret Kolonileri döneminin Anadolu için en kritik sonucudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Çivi yazısının Anadolu'ya gelmesi ve tarih çağlarının başlaması",
+        "explanation": "Asurlu tüccarlar beraberlerinde çivi yazısını getirmiş ve bu sayede Anadolu'da tarih çağları başlamıştır. Bu, dönemin en kritik sonucudur."
+      },
+      {
+        "id": "B",
+        "text": "Anadolu'nun siyasi birliğini sağlamaları",
+        "explanation": "Asurlular Anadolu'yu siyasi olarak yönetmemiş, yalnızca ticaret yapmışlardır. Siyasi birliği sağlayan ilk isim Kuşşara kralı Anitta'dır."
+      },
+      {
+        "id": "C",
+        "text": "İlk madeni paranın kullanılmaya başlanması",
+        "explanation": "İlk madeni para Lidyalılar tarafından icat edilmiştir, Asurlular tarafından değil."
+      },
+      {
+        "id": "D",
+        "text": "Anadolu'da ilk şehir devletlerinin kurulması",
+        "explanation": "Şehir devletleri Tunç Çağı'nda ortaya çıkmıştır. Asur Ticaret Kolonileri bu yapıları kurmamıştır."
+      },
+      {
+        "id": "E",
+        "text": "Demir madenciliğinin yaygınlaşması",
+        "explanation": "Demir Çağı, Tunç Çağı'ndan sonra başlamıştır ve Asur Ticaret Kolonileri dönemiyle doğrudan ilgili değildir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Asurluların katkısını, diğer uygarlıkların veya farklı dönemlerin özellikleriyle karıştırma."
+  },
+  {
+    "id": "anadolu-medeniyetleri-057",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Lidyalılar",
+    "difficulty": 2,
+    "stem": "Anadolu uygarlıkları arasında parayı icat etmeleriyle bilinen Lidyalılar, ekonomik güçlerini ve ticaretlerini geliştirmek amacıyla Sardes'ten Mezopotamya'daki Susa'ya uzanan uzun bir ticaret yolu inşa etmişlerdir. Bu ticaret yoluna verilen isim aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "İpek Yolu",
+        "explanation": "İpek Yolu, Çin'den başlayarak Anadolu'ya ve Avrupa'ya uzanan farklı bir ticaret yoludur ve daha çok ipek ticaretiyle anılır."
+      },
+      {
+        "id": "B",
+        "text": "Kral Yolu",
+        "explanation": "Lidyalılar tarafından inşa edilen ve Persler tarafından geliştirilen bu yol, Sardes'ten Susa'ya uzanan önemli bir ticaret ve iletişim ağıydı."
+      },
+      {
+        "id": "C",
+        "text": "Baharat Yolu",
+        "explanation": "Baharat Yolu, Hindistan'dan ve Doğu'dan gelen baharatların deniz ve kara yoluyla Batı'ya taşındığı güzergahtır."
+      },
+      {
+        "id": "D",
+        "text": "Kehribar Yolu",
+        "explanation": "Kehribar Yolu, Baltık Denizi'nden Akdeniz'e kehribar ticaretinin yapıldığı bir güzergahtır."
+      },
+      {
+        "id": "E",
+        "text": "Tuz Yolu",
+        "explanation": "Tuz Yolu, tuzun çıkarıldığı bölgelerden diğer yerleşimlere taşındığı daha yerel ticaret yollarına verilen addır."
+      }
+    ],
+    "correct": "B",
+    "trick": "Kral Yolu, Persler tarafından geliştirilmiş olsa da Lidyalılar tarafından inşa edilmeye başlanmıştır. Sınavda Persler çeldirici olarak kullanılabilir."
+  },
+  {
+    "id": "anadolu-medeniyetleri-058",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Frigler",
+    "difficulty": 3,
+    "stem": "Frig uygarlığı, tarım ve hayvancılığı ekonomilerinin temeli olarak benimsemiş ve bu alanları hukuki düzenlemelerle de koruma altına almıştır. Aşağıdaki kanun maddelerinden hangisi Friglerin tarıma verdiği önemi en iyi şekilde yansıtmaktadır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Tarımsal ürünlerin fiyatlarını manipüle edenler ağır para cezasına çarptırılır.",
+        "explanation": "Bu tür bir düzenleme, fiyat kontrolüne yönelik olup tarıma verilen genel önemi yansıtmaz, daha çok ekonomik düzenlemelerle ilgilidir."
+      },
+      {
+        "id": "B",
+        "text": "Hasat döneminde tarlalarda çalışan kölelere özgürlükleri verilirdi.",
+        "explanation": "Bu bir ödül sistemi olup tarımın önemini gösterse de Frig hukukundaki koruyucu nitelikteki cezai yaptırımı yansıtmamaktadır."
+      },
+      {
+        "id": "C",
+        "text": "Saban kıran veya öküz öldürene ölüm cezası verilirdi.",
+        "explanation": "Frigler, tarımın kutsallığına o kadar inanmışlardır ki saban kıran veya öküz öldürene ölüm cezası vererek tarımsal faaliyetleri en ağır şekilde korumuşlardır."
+      },
+      {
+        "id": "D",
+        "text": "Her aile, devlete belirli miktarda tarımsal ürün vergisi ödemekle yükümlüydü.",
+        "explanation": "Bu, bir vergilendirme sistemidir ve tarımın önemini doğrudan cezai yaptırımlarla koruyan bir kanun maddesi değildir."
+      },
+      {
+        "id": "E",
+        "text": "Yeni tarım alanları açanlara devlet tarafından toprak tahsisi yapılırdı.",
+        "explanation": "Bu bir teşvik mekanizmasıdır, ancak Friglerin tarımı korumak için uyguladığı sert hukuki yaptırımı ifade etmez."
+      }
+    ],
+    "correct": "C",
+    "trick": "Sınavda tarımın önemini gösteren genel ifadeler çeldirici olarak kullanılabilir, ancak doğrudan hukuki yaptırım içeren maddeye dikkat edilmelidir."
+  },
+  {
+    "id": "anadolu-medeniyetleri-059",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "Urartular",
+    "difficulty": 2,
+    "stem": "Doğu Anadolu'da, Van Gölü çevresinde kurulan Urartu Devleti, dağlık ve sarp coğrafyası nedeniyle bazı alanlarda özel bir uzmanlık geliştirmiştir. Aşağıdakilerden hangisi Urartuların bu coğrafi koşullar nedeniyle öne çıktığı alanlardan biri DEĞİLDİR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kale ve sur mimarisi",
+        "explanation": "Urartular, sarp coğrafyalarında savunma ihtiyacı nedeniyle kale ve sur mimarisinde ustalaşmışlardır."
+      },
+      {
+        "id": "B",
+        "text": "Su mühendisliği ve kanallar",
+        "explanation": "Tarıma elverişsiz arazilerde yaşamaları, Urartuları sulama kanalları ve su mühendisliğinde gelişmeye itmiştir (örn. Menua Kanalı)."
+      },
+      {
+        "id": "C",
+        "text": "Madencilik ve maden sanatı",
+        "explanation": "Bölgedeki maden yatakları ve dağlık yapı, Urartuların madencilik ve maden sanatında ileri gitmelerini sağlamıştır."
+      },
+      {
+        "id": "D",
+        "text": "Deniz ticareti ve kolonizasyon",
+        "explanation": "Urartular, iç bölgede dağlık bir coğrafyada yer aldıkları için deniz ticaretinde veya deniz aşırı kolonizasyonda öne çıkmamışlardır. Bu alan daha çok Batı Anadolu uygarlıklarının özelliğidir."
+      },
+      {
+        "id": "E",
+        "text": "Kaya mezarları",
+        "explanation": "Urartular, coğrafyalarının sunduğu imkanlarla kayalara oyulmuş mezarlar inşa etmişlerdir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Urartuların coğrafyası, denizle doğrudan ilişkileri olmamasına rağmen, 'ticaret' kelimesi genel bir çeldirici olabilir. Ancak deniz ticareti, onların uzmanlık alanı değildir."
+  },
+  {
+    "id": "anadolu-medeniyetleri-060",
+    "topicId": "anadolu-medeniyetleri",
+    "subtopic": "İyonlar",
+    "difficulty": 1,
+    "stem": "Antik dünyada bilim ve felsefenin beşiği olarak kabul edilen İyonya'da, özgür düşüncenin ve bilginin gelişmesinde en etkili faktörlerden biri şehir devletlerinin yapısı ve ticaret faaliyetleri olmuştur. Aşağıdakilerden hangisi İyonya'nın önemli şehir devletlerinden biri DEĞİLDİR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Milet",
+        "explanation": "Milet, İyonya'nın en önemli ve bilinen şehir devletlerinden biridir; Thales gibi filozoflara ev sahipliği yapmıştır."
+      },
+      {
+        "id": "B",
+        "text": "Efes",
+        "explanation": "Efes, İyonya'nın önemli şehirlerinden biri olup Artemis Tapınağı ve Herakleitos ile tanınır."
+      },
+      {
+        "id": "C",
+        "text": "Foça (Phokaia)",
+        "explanation": "Foça, İyonya'nın denizcilikte ve kolonicilikte öne çıkan şehir devletlerinden biridir."
+      },
+      {
+        "id": "D",
+        "text": "Priene",
+        "explanation": "Priene, Hipodamik planın uygulandığı önemli bir İyon şehridir."
+      },
+      {
+        "id": "E",
+        "text": "Halikarnassos",
+        "explanation": "Halikarnassos (Bodrum), İyonya'da değil, daha güneydeki Karya bölgesinde yer alan önemli bir şehirdir ve Mausoleum ile tanınır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Halikarnassos, Batı Anadolu'da yer almasına rağmen İyonya şehir devletleri arasında değildir, bu nedenle 'Batı Anadolu' genel kategorisi altında karıştırılabilir."
   }
 ]

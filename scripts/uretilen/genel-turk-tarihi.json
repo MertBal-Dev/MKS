@@ -1,0 +1,686 @@
+[
+  {
+    "subtopic": "Orta Asya: İlk Türk Devletleri",
+    "difficulty": 2,
+    "stem": "Aşağıdakilerden hangisi, Türklerin Orta Asya'dan göç etme nedenlerinden biri DEĞİLDİR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ticaret yollarını ele geçirme isteği",
+        "explanation": "Ticaret yollarını ele geçirme isteği, Türklerin Orta Asya'dan göç etme nedenleri arasında yer almamaktadır. Daha çok cihan hakimiyeti düşüncesi ve dış baskılar etkili olmuştur."
+      },
+      {
+        "id": "B",
+        "text": "Kuraklık ve otlak yetersizliği",
+        "explanation": "Kuraklık ve otlak yetersizliği, Türklerin Orta Asya'dan göç etme nedenlerinden biridir."
+      },
+      {
+        "id": "C",
+        "text": "Nüfus artışı ve geçim sıkıntısı",
+        "explanation": "Nüfus artışı ve buna bağlı geçim sıkıntısı, Türklerin Orta Asya'dan göç etme nedenlerinden biridir."
+      },
+      {
+        "id": "D",
+        "text": "Boylar arası mücadeleler",
+        "explanation": "Boylar arası rekabet ve mücadeleler, Türklerin Orta Asya'dan göç etme nedenlerinden biridir."
+      },
+      {
+        "id": "E",
+        "text": "Cihan hâkimiyeti düşüncesi",
+        "explanation": "Cihan hâkimiyeti düşüncesi, Türklerin Orta Asya'dan göç etme nedenlerinden biridir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Soru kökündeki 'DEĞİLDİR' ifadesine dikkat edilmeli. Genel geçer ekonomik nedenler yerine, spesifik Türk göç nedenleri düşünülmeli.",
+    "id": "genel-turk-tarihi-041",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Orta Asya: İlk Türk Devletleri",
+    "difficulty": 3,
+    "stem": "Aşağıdaki Orta Asya kültür merkezlerinden hangisi, demirin ilk kez işlendiği yer olarak bilinmektedir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Anav",
+        "explanation": "Anav, Türkmenistan'da bilinen en eski kültür merkezidir, ancak demir işleme özelliğiyle öne çıkmaz."
+      },
+      {
+        "id": "B",
+        "text": "Karasuk",
+        "explanation": "Karasuk kültürü, demirin ilk kez işlendiği yer olarak bilinmektedir."
+      },
+      {
+        "id": "C",
+        "text": "Afanasyevo",
+        "explanation": "Afanasyevo, Türk kültürünün temeli sayılan bir merkezdir, ancak demir işleme özelliğiyle bilinmez."
+      },
+      {
+        "id": "D",
+        "text": "Andronova",
+        "explanation": "Andronova, en geniş yayılıma sahip Orta Asya kültür merkezidir, ancak demir işleme özelliğiyle öne çıkmaz."
+      },
+      {
+        "id": "E",
+        "text": "Tagar",
+        "explanation": "Tagar kültürü, Orta Asya'nın en gelişmiş kültür merkezlerinden biridir, ancak demir işleme özelliğiyle öne çıkmaz."
+      }
+    ],
+    "correct": "B",
+    "trick": "Orta Asya kültür merkezlerinin spesifik özelliklerini hatırlamakta zorlanılabilir. Her merkezin ayırt edici özelliğini karıştırmamak önemlidir.",
+    "id": "genel-turk-tarihi-042",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Orta Asya: İlk Türk Devletleri",
+    "difficulty": 2,
+    "stem": "Türk Kara Kuvvetleri'nin kuruluş tarihi olarak MÖ 209 yılının kabul edilmesinde etkili olan Türk hükümdarı aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Attila",
+        "explanation": "Attila, Avrupa Hun Devleti'nin en parlak dönemini yaşatmış ve Roma'yı kuşatmıştır, ancak Kara Kuvvetleri'nin kuruluş tarihiyle ilişkilendirilmez."
+      },
+      {
+        "id": "B",
+        "text": "Bumin Kağan",
+        "explanation": "Bumin Kağan, Göktürk Devleti'nin kurucusudur, ancak onluk sistemle orduyu kuran o değildir."
+      },
+      {
+        "id": "C",
+        "text": "Mete Han",
+        "explanation": "Mete Han, orduyu onluk sisteme göre örgütlemiş ve bu sistem modern ordu teşkilatının temeli sayılmıştır. Bu nedenle Türk Kara Kuvvetleri'nin kuruluş tarihi onun tahta çıkışına (MÖ 209) dayandırılır."
+      },
+      {
+        "id": "D",
+        "text": "Kutluk Kağan",
+        "explanation": "Kutluk Kağan, II. Göktürk Devleti'nin kurucusudur, ancak onluk sistemi kuran o değildir."
+      },
+      {
+        "id": "E",
+        "text": "Bilge Kağan",
+        "explanation": "Bilge Kağan, II. Göktürk Devleti'nin önemli hükümdarlarından biridir, ancak onluk sistemi kuran o değildir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Farklı Türk hükümdarlarının askeri başarıları ve yenilikleri arasında karışıklık yaşanabilir. Özellikle Mete Han'ın onluk sistemi ve bu sistemin modern orduya etkisi anahtar bilgidir.",
+    "id": "genel-turk-tarihi-043",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Eski Türk Kültürü ve İnancı",
+    "difficulty": 2,
+    "stem": "Eski Türk devletlerinde, yönetme yetkisinin Tanrı tarafından hükümdara ve soyuna verildiği inancı aşağıdakilerden hangisiyle ifade edilir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Toy",
+        "explanation": "Toy, eski Türklerde devlet meclisine verilen isimdir."
+      },
+      {
+        "id": "B",
+        "text": "Töre",
+        "explanation": "Töre, eski Türklerde yazısız hukuk kurallarını ifade eder."
+      },
+      {
+        "id": "C",
+        "text": "Kurgan",
+        "explanation": "Kurgan, eski Türk mezar yapılarına verilen isimdir."
+      },
+      {
+        "id": "D",
+        "text": "Kut",
+        "explanation": "Kut, yönetme yetkisinin Tanrı tarafından hükümdara ve soyuna verildiği inancını ifade eder."
+      },
+      {
+        "id": "E",
+        "text": "Balbal",
+        "explanation": "Balbal, ölen kişinin mezarına dikilen taş heykellerdir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Kut, Töre, Toy gibi kavramların anlamları birbirine karıştırılabilir. Her kavramın spesifik tanımını bilmek önemlidir.",
+    "id": "genel-turk-tarihi-044",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "İslamiyet'le Tanışma: Karahanlılar, Gazneliler, Tolunoğulları",
+    "difficulty": 1,
+    "stem": "Aşağıdaki Türk-İslam eserlerinden hangisi, 'Hakikatlerin eşiği' anlamına gelmekte olup ahlak ve öğüt konulu bir eserdir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kutadgu Bilig",
+        "explanation": "Kutadgu Bilig, Yusuf Has Hacip tarafından yazılmış, 'Mutluluk veren bilgi' anlamına gelen ilk siyasetnamedir."
+      },
+      {
+        "id": "B",
+        "text": "Divanü Lügati't-Türk",
+        "explanation": "Divanü Lügati't-Türk, Kaşgarlı Mahmut tarafından Araplara Türkçe öğretmek amacıyla yazılmış ilk Türkçe sözlüktür."
+      },
+      {
+        "id": "C",
+        "text": "Divan-ı Hikmet",
+        "explanation": "Divan-ı Hikmet, Hoca Ahmet Yesevi tarafından yazılmış ilk tasavvuf/tekke edebiyatı eseridir."
+      },
+      {
+        "id": "D",
+        "text": "Şehname",
+        "explanation": "Şehname, Firdevsi tarafından yazılmış, İran destanlarını konu alan bir eserdir."
+      },
+      {
+        "id": "E",
+        "text": "Atabetü'l Hakayık",
+        "explanation": "Atabetü'l Hakayık, Edip Ahmet Yükneki tarafından yazılmış, 'Hakikatlerin eşiği' anlamına gelen ahlak ve öğüt konulu bir eserdir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Türk-İslam eserlerinin isimleri, yazarları ve konuları sıklıkla karıştırılabilir. Her eserin temel özelliğini doğru eşleştirmek önemlidir.",
+    "id": "genel-turk-tarihi-045",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Büyük Selçuklu Devleti",
+    "difficulty": 2,
+    "stem": "Büyük Selçuklu Devleti'nde toprağın mülkiyeti devlete ait olmakla birlikte, gelirinin hizmet karşılığı görevlilere bırakıldığı sistem aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "İkta Sistemi",
+        "explanation": "İkta sistemi, Büyük Selçuklu Devleti'nde uygulanan, toprağın mülkiyeti devlette kalmak şartıyla gelirinin hizmet karşılığı görevlilere bırakıldığı sistemdir."
+      },
+      {
+        "id": "B",
+        "text": "Tımar Sistemi",
+        "explanation": "Tımar sistemi, Osmanlı Devleti'nde uygulanan bir sistemdir ve ikta sisteminin devamı niteliğindedir."
+      },
+      {
+        "id": "C",
+        "text": "Vakıf Sistemi",
+        "explanation": "Vakıf sistemi, gelirleri hayır işlerine ayrılan kurumlardır."
+      },
+      {
+        "id": "D",
+        "text": "Müsadere Sistemi",
+        "explanation": "Müsadere sistemi, Osmanlı Devleti'nde devletin, haksız kazanç elde ettiği düşünülen kişilerin mallarına el koymasıdır."
+      },
+      {
+        "id": "E",
+        "text": "Cizye Sistemi",
+        "explanation": "Cizye, İslam devletlerinde gayrimüslim erkeklerden alınan vergi türüdür."
+      }
+    ],
+    "correct": "A",
+    "trick": "İkta ve tımar sistemleri arasındaki fark karıştırılabilir. İkta'nın Selçuklu'da, tımar'ın Osmanlı'da uygulandığına dikkat edilmelidir.",
+    "id": "genel-turk-tarihi-046",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Anadolu Selçuklu Devleti ve Beylikler",
+    "difficulty": 3,
+    "stem": "Aşağıdaki Anadolu Selçuklu hükümdarları ve fethettikleri şehir eşleştirmelerinden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "I. Gıyaseddin Keyhüsrev - Antalya",
+        "explanation": "I. Gıyaseddin Keyhüsrev, Anadolu Selçuklu Devleti döneminde Antalya'yı fethederek ilk deniz kapısını açmıştır. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "II. Kılıç Arslan - İznik",
+        "explanation": "II. Kılıç Arslan, 1176 Miryokefalon Savaşı ile Anadolu'nun kesin Türk yurdu olmasını sağlamıştır, ancak İznik'i fetheden değil, başkenti İznik'ten Konya'ya taşımak zorunda kalan hükümdar I. Kılıç Arslan'dır. Bu eşleştirme yanlıştır."
+      },
+      {
+        "id": "C",
+        "text": "I. İzzeddin Keykavus - Sinop",
+        "explanation": "I. İzzeddin Keykavus, Anadolu Selçuklu Devleti döneminde Sinop'u fethederek Karadeniz'e ulaşmıştır. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "I. Alaeddin Keykubat - Alanya",
+        "explanation": "I. Alaeddin Keykubat, Anadolu Selçuklu Devleti'nin en parlak döneminde Alanya'yı fethetmiş, tersane ve Kızıl Kule'yi yaptırmıştır. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "E",
+        "text": "I. Kılıç Arslan - Konya",
+        "explanation": "I. Kılıç Arslan, Haçlı Seferleri nedeniyle başkenti İznik'ten Konya'ya taşımak zorunda kalmıştır. Bu eşleştirme doğrudur."
+      }
+    ],
+    "correct": "B",
+    "trick": "Selçuklu hükümdarlarının isimleri ve fethettikleri yerler karıştırılabilir. Özellikle I. ve II. Kılıç Arslan'ın rolleri arasındaki farka dikkat etmek gerekir.",
+    "id": "genel-turk-tarihi-047",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Anadolu Selçuklu Devleti ve Beylikler",
+    "difficulty": 2,
+    "stem": "Anadolu Selçuklu Devleti'nin ticareti geliştirmek amacıyla uyguladığı politikalardan biri olan, yolda soyulan tüccarın zararını hazineden karşılama sistemi aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Gümrük kolaylıkları",
+        "explanation": "Gümrük kolaylıkları, Anadolu Selçuklu'nun ticareti geliştirmek için uyguladığı bir politika olsa da, tüccarın zararını karşılama sistemi değildir."
+      },
+      {
+        "id": "B",
+        "text": "Kervansaraylar",
+        "explanation": "Kervansaraylar, tüccarların konaklaması için yapılmış yapılar olup, zarar karşılama sistemi değildir."
+      },
+      {
+        "id": "C",
+        "text": "Sigorta sistemi",
+        "explanation": "Anadolu Selçuklu Devleti'nin yolda soyulan tüccarın zararını hazineden karşılaması, dünyanın ilk devlet sigortası uygulamalarından biri olarak kabul edilir."
+      },
+      {
+        "id": "D",
+        "text": "Limanların fethi",
+        "explanation": "Limanların fethi, ticareti geliştirmek için önemli bir adımdır, ancak tüccarın zararını karşılama sistemi değildir."
+      },
+      {
+        "id": "E",
+        "text": "İkta sistemi",
+        "explanation": "İkta sistemi, toprak yönetimi ve asker besleme ile ilgili bir sistemdir, ticaret sigortasıyla ilişkili değildir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Ticaretle ilgili tüm politikaların birbiriyle karıştırılma ihtimali vardır. Özellikle 'sigorta sistemi'nin o dönem için ne anlama geldiği iyi anlaşılmalıdır.",
+    "id": "genel-turk-tarihi-048",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Orta Asya: İlk Türk Devletleri",
+    "difficulty": 2,
+    "stem": "Aşağıdakilerden hangisi, Türklerin Orta Asya'dan farklı coğrafyalara göç etmesinde etkili olan nedenlerden biri DEĞİLDİR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kuraklık ve otlak yetersizliği",
+        "explanation": "Kuraklık ve otlak yetersizliği, Orta Asya'daki temel geçim kaynağı olan hayvancılığı olumsuz etkilediği için önemli bir göç nedenidir."
+      },
+      {
+        "id": "B",
+        "text": "Nüfus artışı ve kaynakların yetersiz kalması",
+        "explanation": "Nüfus artışı, mevcut kaynaklar üzerinde baskı oluşturarak yeni yaşam alanları arayışına iten bir göç nedenidir."
+      },
+      {
+        "id": "C",
+        "text": "Boylar arası mücadeleler ve siyasi çekişmeler",
+        "explanation": "Boylar arası rekabet ve siyasi mücadeleler, bazı Türk boylarının anayurtlarından ayrılarak yeni yerleşim yerleri aramasına yol açmıştır."
+      },
+      {
+        "id": "D",
+        "text": "Ticaret yollarını ele geçirme arzusu",
+        "explanation": "Notlarda Türklerin göç nedenleri arasında ticaret yollarını ele geçirme arzusundan bahsedilmemektedir. Daha çok kuraklık, nüfus artışı, boylar arası mücadele, dış baskılar ve cihan hakimiyeti düşüncesi gibi faktörler vurgulanmıştır."
+      },
+      {
+        "id": "E",
+        "text": "Cihan hâkimiyeti düşüncesi",
+        "explanation": "Türklerin 'cihan hakimiyeti' ideali, yeni topraklar fethetme ve genişleme arzusuyla batıya doğru ilerlemelerinde etkili olan önemli bir motivasyon kaynağıdır."
+      }
+    ],
+    "correct": "D",
+    "trick": "Göç nedenleri arasında ekonomik ve siyasi faktörler sıkça geçse de, notlarda 'ticaret yollarını ele geçirme' spesifik olarak belirtilmemiştir; bu bir çeldiricidir.",
+    "id": "genel-turk-tarihi-049",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Orta Asya: İlk Türk Devletleri",
+    "difficulty": 1,
+    "stem": "Aşağıdaki Orta Asya kültür merkezlerinden hangisi, demirin ilk kez işlendiği yer olarak bilinir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Anav",
+        "explanation": "Anav, Türkmenistan'da bulunan ve en eski kültür merkezi olarak bilinen yerdir, ancak demirin işlenmesiyle özdeşleşmez."
+      },
+      {
+        "id": "B",
+        "text": "Afanasyevo",
+        "explanation": "Afanasyevo kültürü, Türk kültürünün temeli sayılır, ancak demir işlenmesiyle ilgili spesifik bir bilgi notlarda yer almamaktadır."
+      },
+      {
+        "id": "C",
+        "text": "Andronova",
+        "explanation": "Andronova kültürü, en geniş yayılıma sahip kültür merkezi olarak bilinir, ancak demir işlenmesiyle ilgili spesifik bir bilgi notlarda yer almamaktadır."
+      },
+      {
+        "id": "D",
+        "text": "Tagar",
+        "explanation": "Tagar kültürü, Orta Asya'nın en gelişmiş kültür merkezlerinden biri olarak bilinir, ancak demir işlenmesiyle ilgili spesifik bir bilgi notlarda yer almamaktadır."
+      },
+      {
+        "id": "E",
+        "text": "Karasuk",
+        "explanation": "Notlarda Karasuk kültürü için 'demir işlendi' ifadesi açıkça belirtilmiştir, bu da onu demirin ilk işlendiği yer yapar."
+      }
+    ],
+    "correct": "E",
+    "trick": "Diğer kültür merkezlerinin farklı özellikleri vurgulanırken, Karasuk'un demir işlenmesiyle öne çıktığı bilgisi gözden kaçabilir.",
+    "id": "genel-turk-tarihi-050",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Eski Türk Kültürü ve İnancı",
+    "difficulty": 2,
+    "stem": "Türk devletlerinde görülen 'kut anlayışı' ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Hükümdarın mutlak gücünü pekiştirmiş ve töreye aykırı hareket etmesine olanak sağlamıştır.",
+        "explanation": "Notlarda 'Hükümdar bile töreye uymak zorundadır' ifadesi yer almaktadır. Bu durum, kut anlayışının hükümdara töreye aykırı hareket etme yetkisi vermediğini gösterir. Hükümdar, Tanrı vergisi bir yetkiye sahip olsa da töreye bağlıdır. Dolayısıyla bu ifade yanlıştır."
+      },
+      {
+        "id": "B",
+        "text": "Yönetme yetkisinin Tanrı tarafından hükümdara verildiği inancıdır.",
+        "explanation": "Kut anlayışı, yönetme yetkisinin ilahi bir güç olan Tanrı tarafından hükümdara verildiği inancını ifade eder, bu doğru bir ifadedir."
+      },
+      {
+        "id": "C",
+        "text": "Kutun kan yoluyla geçtiğine inanıldığı için hanedan üyeleri taht üzerinde hak iddia edebilmiştir.",
+        "explanation": "Kutun kan yoluyla geçtiği inancı, hanedanın tüm erkek üyelerinin taht üzerinde hak sahibi olduğunu düşünmelerine neden olmuştur, bu doğru bir ifadedir."
+      },
+      {
+        "id": "D",
+        "text": "Bu anlayış, Türk devletlerinin kısa ömürlü olmasında etkili olmuştur.",
+        "explanation": "Kut anlayışından kaynaklanan hanedan içi taht kavgaları, Türk devletlerinin sık sık zayıflamasına ve kısa ömürlü olmasına yol açmıştır, bu doğru bir ifadedir."
+      },
+      {
+        "id": "E",
+        "text": "Türklerin İslamiyet'i kabulünden sonra da 'kut' kavramı farklı yorumlarla varlığını sürdürmüştür.",
+        "explanation": "Notlarda doğrudan İslamiyet sonrası devamına değinilmese de, kut anlayışı Türk siyasi geleneğinin temelini oluşturur ve İslamiyet sonrası Türk devletlerinde de farklı şekillerde yorumlanarak devam etmiştir. Ancak notlar bazında değerlendirildiğinde D şıkkı daha net bir yanlışlık içermektedir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Kut anlayışının hükümdara ilahi bir güç vermesi, onun mutlak yetkili olduğu ve töreye bağlı olmadığı yanılgısını yaratabilir. Ancak notlarda törenin üstünlüğü vurgulanmıştır.",
+    "id": "genel-turk-tarihi-051",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "İslamiyet'le Tanışma",
+    "difficulty": 3,
+    "stem": "Aşağıdaki Türk-İslam eserleri ve yazarları eşleştirmelerinden hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Divanü Lügati't-Türk - Yusuf Has Hacip",
+        "explanation": "Divanü Lügati't-Türk'ün yazarı Kaşgarlı Mahmut'tur. Yusuf Has Hacip ise Kutadgu Bilig'in yazarıdır."
+      },
+      {
+        "id": "B",
+        "text": "Atabetü'l Hakayık - Edip Ahmet Yükneki",
+        "explanation": "Atabetü'l Hakayık'ın yazarı Edip Ahmet Yükneki'dir. Bu eşleştirme notlarda belirtildiği gibi doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Kutadgu Bilig - Kaşgarlı Mahmut",
+        "explanation": "Kutadgu Bilig'in yazarı Yusuf Has Hacip'tir. Kaşgarlı Mahmut ise Divanü Lügati't-Türk'ün yazarıdır."
+      },
+      {
+        "id": "D",
+        "text": "Divan-ı Hikmet - Firdevsi",
+        "explanation": "Divan-ı Hikmet'in yazarı Hoca Ahmet Yesevi'dir. Firdevsi ise Gazneliler döneminde yaşamış Şehname'nin yazarıdır."
+      },
+      {
+        "id": "E",
+        "text": "Şehname - Hoca Ahmet Yesevi",
+        "explanation": "Şehname'nin yazarı Firdevsi'dir. Hoca Ahmet Yesevi ise Divan-ı Hikmet'in yazarıdır."
+      }
+    ],
+    "correct": "B",
+    "trick": "İlk Türk-İslam eserleri ve yazarları sıklıkla karıştırılır. Çeldiricilerde yanlış yazar-eser eşleştirmeleri kullanılarak bilgi karışıklığı hedeflenmiştir.",
+    "id": "genel-turk-tarihi-052",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Büyük Selçuklu Devleti",
+    "difficulty": 2,
+    "stem": "Büyük Selçuklu Devleti'nin veziri Nizamülmülk tarafından kurulan Nizamiye Medreseleri'nin temel amaçlarından biri aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ticaret yollarının güvenliğini sağlamak",
+        "explanation": "Nizamiye Medreseleri eğitim kurumlarıdır; ticaret yollarının güvenliği ikta sistemi ve kervansaraylar gibi uygulamalarla sağlanmıştır."
+      },
+      {
+        "id": "B",
+        "text": "Askeri alanda yeni teknikler geliştirmek",
+        "explanation": "Medreseler dini ve ilmi eğitim veren kurumlardır. Askeri teknikler ordu teşkilatı içinde geliştirilmiştir."
+      },
+      {
+        "id": "C",
+        "text": "Batınilik gibi yıkıcı faaliyetlere karşı devlete bağlı alimler yetiştirmek",
+        "explanation": "Notlarda Nizamülmülk'ün vezirliği döneminde Batınilik faaliyetlerinden bahsedilir ve medreselerin kuruluşu bu bağlamda ilmi ve ideolojik mücadele amacıyla açıklanır. Bu, medreselerin temel amaçlarından biridir."
+      },
+      {
+        "id": "D",
+        "text": "Hanedan üyelerinin taht kavgalarını engellemek",
+        "explanation": "Nizamiye Medreseleri eğitim kurumlarıdır. Taht kavgaları 'kut anlayışı'ndan kaynaklanır ve medreseler bu sorunu doğrudan çözme amacı taşımazdı."
+      },
+      {
+        "id": "E",
+        "text": "Saray bünyesinde diplomat yetiştirmek",
+        "explanation": "Medreseler genel olarak ilim ve din eğitimi verirken, diplomatik eğitim saray veya özel eğitimlerle sağlanırdı."
+      }
+    ],
+    "correct": "C",
+    "trick": "Medreselerin genel eğitim işlevinin yanı sıra, Nizamülmülk dönemindeki Batınilik tehdidi bağlamında özel bir amacı olduğu bilgisi, diğer genel eğitim amaçlarından ayrışır.",
+    "id": "genel-turk-tarihi-053",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Büyük Selçuklu Devleti",
+    "difficulty": 2,
+    "stem": "Büyük Selçuklu Devleti'nde uygulanan İkta Sistemi'nin temel amaçları arasında aşağıdakilerden hangisi YER ALMAZ?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Devletin hazinesinden para çıkmadan asker beslemek",
+        "explanation": "İkta sistemi sayesinde, ikta sahipleri elde ettikleri gelirle asker beslerdi, bu da hazineye yük bindirmezdi."
+      },
+      {
+        "id": "B",
+        "text": "Toprakların düzenli bir şekilde işlenmesini sağlamak",
+        "explanation": "İkta sahipleri, kendilerine verilen toprakların işlenmesini sağlamakla yükümlüydü, bu da tarımsal üretimi artırırdı."
+      },
+      {
+        "id": "C",
+        "text": "Vergilerin düzenli olarak toplanmasını sağlamak",
+        "explanation": "İkta sahipleri, sorumluluklarındaki bölgelerden vergileri toplama yetkisine sahipti, bu da vergi sistemini kolaylaştırırdı."
+      },
+      {
+        "id": "D",
+        "text": "Toprağın mülkiyetini köylülere dağıtmak",
+        "explanation": "İkta sisteminde toprağın mülkiyeti devlete aittir; köylülere dağıtılmak yerine, gelirleri hizmet karşılığı görevlilere bırakılır. Bu nedenle bu ifade yanlıştır."
+      },
+      {
+        "id": "E",
+        "text": "Merkezi otoriteyi taşrada güçlendirmek",
+        "explanation": "İkta sahipleri, bölgelerinde devletin temsilcisi olarak görev yaparak merkezi otoritenin taşradaki etkisini artırırdı."
+      }
+    ],
+    "correct": "D",
+    "trick": "İkta sistemi, toprağın mülkiyeti ve kullanımı arasındaki ayrımı içerir. Mülkiyetin devlete ait olduğu bilgisi, diğer şıklarla karıştırılarak yanlış anlaşılabilir.",
+    "id": "genel-turk-tarihi-054",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Anadolu Selçuklu Devleti ve Beylikler",
+    "difficulty": 1,
+    "stem": "Anadolu Selçuklu Devleti'nde I. Alaeddin Keykubat dönemi, devletin en parlak dönemi olarak kabul edilir. Bu dönemdeki önemli gelişmelerden biri aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Malazgirt Savaşı'nda Bizans'ın yenilmesi",
+        "explanation": "Malazgirt Savaşı, Büyük Selçuklu Devleti döneminde Alparslan tarafından kazanılmıştır, I. Alaeddin Keykubat dönemi değildir."
+      },
+      {
+        "id": "B",
+        "text": "Kutalmışoğlu Süleyman Şah tarafından devletin kurulması",
+        "explanation": "Devletin kuruluşu Kutalmışoğlu Süleyman Şah dönemindedir, I. Alaeddin Keykubat dönemi değil."
+      },
+      {
+        "id": "C",
+        "text": "1176 Miryokefalon Savaşı ile Anadolu'nun kesin Türk yurdu haline gelmesi",
+        "explanation": "Miryokefalon Savaşı, II. Kılıç Arslan döneminde gerçekleşmiştir, I. Alaeddin Keykubat dönemi değil."
+      },
+      {
+        "id": "D",
+        "text": "1243 Kösedağ Savaşı'nda Moğollara yenilmesi",
+        "explanation": "Kösedağ Savaşı, I. Alaeddin Keykubat'ın ölümünden sonraki bir döneme denk gelir ve devletin yıkılış sürecini başlatmıştır, parlak dönemi temsil etmez."
+      },
+      {
+        "id": "E",
+        "text": "Alanya'nın fethedilmesi ve tersane inşa edilmesi",
+        "explanation": "I. Alaeddin Keykubat, Alanya'yı (Alaiye) fethetmiş, burada tersane ve Kızıl Kule'yi yaptırarak denizcilik ve ticareti geliştirmiştir. Bu, onun en parlak döneminin önemli bir göstergesidir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Diğer şıklarda Anadolu Selçuklu tarihinin farklı önemli olayları verilerek, I. Alaeddin Keykubat'ın spesifik başarılarıyla karıştırılması hedeflenmiştir.",
+    "id": "genel-turk-tarihi-055",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Anadolu Selçuklu Devleti ve Beylikler",
+    "difficulty": 3,
+    "stem": "Aşağıdaki beyliklerden hangisi, Osmanlı Devleti'ne katılan ilk beylik olup, donanmasıyla Osmanlı'ya önemli katkı sağlamıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Karesioğulları",
+        "explanation": "Karesioğulları, Osmanlı Devleti'ne katılan ilk beyliktir ve donanmalarıyla Osmanlı deniz gücüne önemli katkılar sağlamıştır. Bu bilgi notlarda açıkça belirtilmiştir."
+      },
+      {
+        "id": "B",
+        "text": "Germiyanoğulları",
+        "explanation": "Germiyanoğulları, çeyiz yoluyla Osmanlı'ya toprak vermesiyle bilinir, ilk katılan beylik değildir ve donanma özelliğiyle öne çıkmaz."
+      },
+      {
+        "id": "C",
+        "text": "Karamanoğulları",
+        "explanation": "Karamanoğulları, Türkçeyi resmi dil ilan etmesi ve Osmanlı'nın en güçlü rakibi olmasıyla bilinir, ilk katılan beylik değildir."
+      },
+      {
+        "id": "D",
+        "text": "Aydınoğulları",
+        "explanation": "Aydınoğulları denizci bir beyliktir ve Gazi Umur Bey ile tanınır, ancak Osmanlı'ya katılan ilk beylik değildir."
+      },
+      {
+        "id": "E",
+        "text": "Menteşeoğulları",
+        "explanation": "Menteşeoğulları da denizci bir beyliktir ancak Osmanlı'ya katılan ilk beylik değildir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Denizci beylikler ve Osmanlı'ya katılan beylikler karıştırılabilir. 'İlk' olma özelliği ve 'donanma katkısı' aynı beylikte birleştiği için bu bilgi önemlidir.",
+    "id": "genel-turk-tarihi-056",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "İslamiyet'le Tanışma",
+    "difficulty": 3,
+    "stem": "Aşağıdaki Türk-İslam devletleri ve özellikleri eşleştirmelerinden hangisi YANLIŞTIR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Karahanlılar - İlk Türk-İslam medreselerini kurdular",
+        "explanation": "Karahanlılar, ilk Türk-İslam medreselerini kuran devlettir."
+      },
+      {
+        "id": "B",
+        "text": "Karahanlılar - Resmi dilleri Farsçaydı",
+        "explanation": "Karahanlılar, halkı ve yöneticileri tamamen Türk olduğu için Türkçeyi resmi dil olarak korumuşlardır. Farsça, Gaznelilerin resmi dilidir."
+      },
+      {
+        "id": "C",
+        "text": "Gazneliler - Abbasi halifesini Şii Büveyhoğulları'na karşı korudular",
+        "explanation": "Gazneli Mahmut, Abbasi halifesini koruyarak 'sultan' unvanını almıştır."
+      },
+      {
+        "id": "D",
+        "text": "Tolunoğulları - Mısır'da kurulan ilk Türk devleti oldular",
+        "explanation": "Tolunoğulları, Mısır'da kurulan ilk Türk devletidir."
+      },
+      {
+        "id": "E",
+        "text": "Gazneliler - Hindistan'da İslamiyet'in yayılmasını sağladılar",
+        "explanation": "Gazneli Mahmut'un Hindistan'a düzenlediği 17 sefer, İslamiyet'in bu coğrafyada yayılmasında etkili olmuştur."
+      }
+    ],
+    "correct": "B",
+    "trick": "Karahanlılar ve Gaznelilerin resmi dilleri sıklıkla karıştırılır. Karahanlılar Türkçeyi, Gazneliler Farsçayı resmi dil olarak kullanmıştır.",
+    "id": "genel-turk-tarihi-057",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Büyük Selçuklu Devleti",
+    "difficulty": 2,
+    "stem": "Büyük Selçuklu Devleti'nde vezir Nizamülmülk tarafından kurulan ve dünyanın ilk üniversite benzeri eğitim kurumları arasında sayılan medreseler aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Karahanlı Medreseleri",
+        "explanation": "Karahanlılar da medreseler kurmuştur ancak Nizamülmülk tarafından kurulanlar değildir."
+      },
+      {
+        "id": "B",
+        "text": "Karatay Medresesi",
+        "explanation": "Karatay Medresesi, Anadolu Selçuklu dönemine ait önemli bir yapıdır, Büyük Selçuklu döneminde kurulmamıştır."
+      },
+      {
+        "id": "C",
+        "text": "Nizamiye Medreseleri",
+        "explanation": "Nizamiye Medreseleri, Vezir Nizamülmülk tarafından kurulan ve dünyanın ilk üniversite benzeri eğitim kurumları olarak kabul edilen medreselerdir."
+      },
+      {
+        "id": "D",
+        "text": "İnce Minareli Medrese",
+        "explanation": "İnce Minareli Medrese de Karatay Medresesi gibi Anadolu Selçuklu dönemine aittir."
+      },
+      {
+        "id": "E",
+        "text": "Semerkant Medreseleri",
+        "explanation": "Semerkant Medreseleri daha çok Timur ve sonrası dönemlerde önemli hale gelmiştir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Anadolu Selçuklu medreseleri ile Büyük Selçuklu medreseleri karıştırılabilir. Nizamülmülk ve Nizamiye Medreseleri Büyük Selçuklu dönemine aittir.",
+    "id": "genel-turk-tarihi-058",
+    "topicId": "genel-turk-tarihi"
+  },
+  {
+    "subtopic": "Anadolu Selçuklu Devleti ve Beylikler",
+    "difficulty": 1,
+    "stem": "Aşağıdaki beyliklerden hangisi, Osmanlı Devleti'ne katılan ilk beylik olup, donanmasını Osmanlı'ya kazandırmıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Karamanoğulları",
+        "explanation": "Karamanoğulları, Osmanlı'nın en güçlü rakibiydi ve Osmanlı'ya en son katılan beyliklerden biridir."
+      },
+      {
+        "id": "B",
+        "text": "Germiyanoğulları",
+        "explanation": "Germiyanoğulları, çeyiz yoluyla Osmanlı'ya toprak vermiştir."
+      },
+      {
+        "id": "C",
+        "text": "Aydınoğulları",
+        "explanation": "Aydınoğulları, denizcilik alanında önemli bir beylik olmasına rağmen Osmanlı'ya katılan ilk beylik değildir."
+      },
+      {
+        "id": "D",
+        "text": "Karesioğulları",
+        "explanation": "Karesioğulları, Osmanlı Devleti'ne katılan ilk beyliktir ve donanmasını Osmanlı'ya kazandırmıştır."
+      },
+      {
+        "id": "E",
+        "text": "Menteşeoğulları",
+        "explanation": "Menteşeoğulları da denizci bir beyliktir ancak Osmanlı'ya ilk katılan beylik değildir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Denizci beyliklerin birbiriyle karıştırılması olasıdır. Karesioğulları'nın hem ilk katılan hem de donanmayı kazandıran beylik olduğu bilgisini hatırlamak önemlidir.",
+    "id": "genel-turk-tarihi-059",
+    "topicId": "genel-turk-tarihi"
+  }
+]

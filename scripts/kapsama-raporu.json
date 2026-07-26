@@ -1,0 +1,279 @@
+{
+  "sayim": {
+    "tam": 15,
+    "kismi": 6,
+    "yok": 39
+  },
+  "eksikler": [
+    {
+      "konu": "anadolu-medeniyetleri",
+      "karar": "yok",
+      "eksik": "Pers İmparatorluğu'nda eyaletleri yöneten valilerin adı (Satrap) notlarda geçmiyor.",
+      "stem": "Pers İmparatorluğu'nda eyaletleri yönetmekle görevlendirilen valilere ne ad veri"
+    },
+    {
+      "konu": "anadolu-medeniyetleri",
+      "karar": "kismi",
+      "eksik": "I. Sarduri'nin Urartu kralı olduğu bilgisi notlarda bulunmuyor.",
+      "stem": "I. Sarduri tarafından kurulan ve başkenti Tuşpa olan Anadolu medeniyeti aşağıdak"
+    },
+    {
+      "konu": "arkeoloji-mitoloji",
+      "karar": "yok",
+      "eksik": "Pamukkale'nin UNESCO Dünya Miras Listesi'nde 'Karma' kategorisinde yer aldığı bilgisi notlarda bulunmuyor.",
+      "stem": "Türkiye'nin UNESCO Dünya Miras Listesi’nde hem 'Doğal' hem de 'Kültürel' (Karma)"
+    },
+    {
+      "konu": "arkeoloji-mitoloji",
+      "karar": "yok",
+      "eksik": "Herodot veya \"Tarihin Babası\" bilgisi ders notlarında yer almamaktadır.",
+      "stem": "\"Historia\" adlı eseriyle tanınan ve Cicero tarafından \"Tarihin Babası\" olarak ni"
+    },
+    {
+      "konu": "arkeoloji-mitoloji",
+      "karar": "yok",
+      "eksik": "Fibula terimi ders notlarında geçmekle birlikte, Frigler tarafından icat edildiği bilgisi bulunmamaktadır.",
+      "stem": "Frigler tarafından icat edilen ve günümüzdeki çengelli iğnenin atası sayılan tak"
+    },
+    {
+      "konu": "arkeoloji-mitoloji",
+      "karar": "kismi",
+      "eksik": "Sitadel tanımı ve kavramı ders notlarında yer almamaktadır.",
+      "stem": "1. Yüksek kayalıklar üzerine kurulmuş, çevresi surlarla kuşatılmış, içinde saray"
+    },
+    {
+      "konu": "dinler-tarihi",
+      "karar": "yok",
+      "eksik": "Milano Fermanı bilgisi ders notlarında yer almamaktadır.",
+      "stem": "Roma İmparatorluğu'nun batısına hükmeden Licinius ve doğusuna hükmeden I. Consta"
+    },
+    {
+      "konu": "dinler-tarihi",
+      "karar": "yok",
+      "eksik": "Yahuda'nın Kapadokya kaya kiliselerinde tasvir edildiği veya Hz. İsa'ya ihanet ettiği bilgisi ders notlarında yer almamaktadır.",
+      "stem": "Aşağıdakilerden hangisi Kapadokya kaya kiliselerinde de sıkça tasvir edilen ve H"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Turizmin olumlu etkileri notlarda detaylandırılmamış, sadece genel ekonomik katkılardan bahsedilmiş.",
+      "stem": "Aşağıdakilerden hangisi, turizmin gelişmesinin yarattığı olumlu etkilerden biri "
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "kismi",
+      "eksik": "Mimik tanımı notlarda doğrudan geçmiyor, sadece sözsüz iletişimin önemi belirtilmiş.",
+      "stem": "Sözsüz iletişimde; kaş, göz ve yüz kaslarının kullanımıyla ortaya çıkan ifadeler"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Eski Türk toplum yapısındaki 'Oguş, Urug ve İl' kavramları ders notlarında bulunmamaktadır.",
+      "stem": "Eski Türk toplum yapısında yer alan \"Oguş, Urug ve İl\" kavramlarının günümüzdeki"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Empati kavramının tanımı veya turist rehberliği ile ilişkisi ders notlarında yer almamaktadır.",
+      "stem": "Bir turist rehberinin, turistin duygu ve düşüncelerini anlayarak olaylara onun p"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Hz. Muhammed'in Hicret'i ile ilgili bilgiler ders notlarında bulunmamaktadır.",
+      "stem": "Hz. Muhammed'in Mekke'den Medine'ye göçü (Hicret) ile ilgili aşağıdaki ifadelerd"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Pamukkale-Hierapolis'in UNESCO Dünya Miras Listesi'ne dahil edilme kriterleri belirtilmemiştir.",
+      "stem": "UNESCO Dünya Miras Listesi'nde yer alan Pamukkale-Hierapolis, listeye hangi teme"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Müşteri değeri tanımı ve seyahat faydaları ile maliyet karşılaştırması notlarda yer almamaktadır.",
+      "stem": "Bir turistin, gerçekleştirdiği seyahatten elde ettiği faydalar ile katlandığı se"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Potansiyel Turizm Talebi tanımı veya ertelenen turizm talebiyle ilgili bilgi notlarda bulunmamaktadır.",
+      "stem": "Ekonomik yetersizlik, zaman kısıtı veya sağlık sorunları gibi nedenlerle ertelen"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "kismi",
+      "eksik": "İletişimde 'ilk izlenim'de fiziksel görünüşün en yüksek etkiye sahip olduğu belirtilmemiştir, sadece beden dilinin genel etkisi vurgulanmıştır.",
+      "stem": "İletişim sürecinde, alıcı üzerinde bırakılan 'ilk izlenim'de en yüksek etkiye sa"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Turizm sosyolojisinin tanımı veya temel inceleme alanı notlarda yer almamaktadır.",
+      "stem": "Turizm sosyolojisinin temel inceleme alanı aşağıdakilerden hangisidir?"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "TUREB'e bağlı meslek odası sayısı belirtilmemiştir.",
+      "stem": "Turist Rehberleri Birliği'ne (TUREB) bağlı meslek odası sayısı aşağıdakilerden h"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "İslam geleneğinde 'el-beledü'l-emin' ifadesinin hangi şehir için kullanıldığı belirtilmemiştir.",
+      "stem": "İslam geleneğinde aşağıdaki şehirlerden hangisi için \"güvenilir belde\" anlamına "
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Eski Türk inanç sistemindeki 'Tamu' kavramının anlamı veya günümüzdeki karşılığı belirtilmemiştir.",
+      "stem": "Eski Türk inanç sisteminde ve bazı Budist metinlerde sıkça geçen, ölümden sonra "
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "'Türk Dünyası Kültür Başkenti' uygulaması ve Türkiye'den seçilen ilk şehri hakkında bilgi verilmemiştir.",
+      "stem": "\"Türk Dünyası Kültür Başkenti\" uygulamasının Türkiye'den seçilen ilk şehri aşağı"
+    },
+    {
+      "konu": "genel-turizm",
+      "karar": "yok",
+      "eksik": "Büyük İskender'in hocası olan filozof hakkında bilgi verilmemiştir.",
+      "stem": "Makedonya Kralı Büyük İskender'in hocalığını yapmış olan ve Batı düşünce tarihin"
+    },
+    {
+      "konu": "genel-turk-tarihi",
+      "karar": "yok",
+      "eksik": "Kafkasya üzerinden Anadolu'ya göç eden topluluklar hakkında bilgi verilmemiştir.",
+      "stem": "Tarihsel süreçte Kafkasya üzerinden Anadolu'ya göç ederek hakimiyet kuran toplul"
+    },
+    {
+      "konu": "halk-bilimi-edebiyat",
+      "karar": "yok",
+      "eksik": "Antik Yunan mimarisi ve sütun düzenleri hakkında bilgi bulunmamaktadır.",
+      "stem": "Dor, İyon ve Korint düzenleri, aşağıdaki mimari geleneklerden hangisinin temel s"
+    },
+    {
+      "konu": "muzecilik",
+      "karar": "yok",
+      "eksik": "Ankara Şehit Cuma Dağ Tabiat Tarihi Müzesi veya Maden Tetkik ve Arama Genel Müdürlüğü'nün müzecilik faaliyetleri hakkında bilgi bulunmamaktadır.",
+      "stem": "Ankara Şehit Cuma Dağ Tabiat Tarihi Müzesi aşağıdaki kurumlardan hangisinin büny"
+    },
+    {
+      "konu": "muzecilik",
+      "karar": "yok",
+      "eksik": "Bodrum Sualtı Arkeoloji Müzesi'ne dair bilgi veya 'Yaşayan Müze' ödülü ile ilgili bilgi bulunmamaktadır.",
+      "stem": "Yaşayan Müze\" ödüllü, Türkiye’nin ilk ve dünyanın sayılı su altı arkeoloji müzel"
+    },
+    {
+      "konu": "osmanli-tarihi",
+      "karar": "yok",
+      "eksik": "Mimar Sinan'ın eserleri ve 'ustalık eserim' ifadesi belirtilmemiş.",
+      "stem": "Ünlü Osmanlı mimarı Mimar Sinan’ın \"ustalık eserim\" olarak nitelendirdiği cami a"
+    },
+    {
+      "konu": "osmanli-tarihi",
+      "karar": "yok",
+      "eksik": "Surname kavramı veya içeriği ders notlarında geçmiyor.",
+      "stem": "Osmanlı İmparatorluğu'nda şehzadelerin sünnet düğünlerini veya hanımsultanların "
+    },
+    {
+      "konu": "osmanli-tarihi",
+      "karar": "kismi",
+      "eksik": "Kars ve Erzurum'un fethi ile 'Sekiz yıla seksen yıllık iş sığdırdı' ifadesi geçmiyor.",
+      "stem": "Trabzon Sancağına vali olarak tayin edilen, Kars ve Erzurum'u fetheden ve tarihç"
+    },
+    {
+      "konu": "roma-yunan-bizans",
+      "karar": "yok",
+      "eksik": "Jül Sezar'ın 'Veni, vidi, vici' sözü ve Zela ile bağlantısı notlarda yer almıyor.",
+      "stem": "Roma İmparatoru Jül Sezar’ın (Julius Caesar), Pontus Kralı II. Pharnakes'e karşı"
+    },
+    {
+      "konu": "roma-yunan-bizans",
+      "karar": "yok",
+      "eksik": "Mağara ve il eşleştirmeleri bilgisi bulunmamaktadır.",
+      "stem": "Aşağıdaki mağara ve bulunduğu il eşleştirmelerinden hangisi yanlıştır?"
+    },
+    {
+      "konu": "roma-yunan-bizans",
+      "karar": "yok",
+      "eksik": "Thukydides'in Peloponnes Savaşları'nı kaleme aldığı bilgisi bulunmamaktadır.",
+      "stem": "M.Ö. 5. yüzyılda Atina ve Sparta arasında gerçekleşen Peloponnes Savaşları'nı ta"
+    },
+    {
+      "konu": "roma-yunan-bizans",
+      "karar": "yok",
+      "eksik": "Olimpiyat Oyunları ve kime ithaf edildiği bilgisi bulunmamaktadır.",
+      "stem": "Antik Yunan’da düzenlenen Olimpiyat Oyunları ile ilgili aşağıdaki ifadelerden ha"
+    },
+    {
+      "konu": "sanat-tarihi",
+      "karar": "yok",
+      "eksik": "Nereidler Anıtı ve Ksantos'a ait bilgi bulunmamaktadır.",
+      "stem": "Likya mimarisinin önemli örneklerinden biri olan ve günümüzde British Museum'da "
+    },
+    {
+      "konu": "sanat-tarihi",
+      "karar": "yok",
+      "eksik": "Nemrut Dağı, Kommagene krallığı ve I. Antiochos hakkında bilgi bulunmamaktadır.",
+      "stem": "UNESCO Dünya Mirası Listesi'nde yer alan Nemrut Dağı'ndaki devasa heykeller ve t"
+    },
+    {
+      "konu": "sanat-tarihi",
+      "karar": "yok",
+      "eksik": "Megaron tipi yapı tanımı ve özellikleri ders notlarında bulunmamaktadır.",
+      "stem": "Antik dönem mimarisinde, önünde bir giriş holü bulunan dikdörtgen planlı ve ocak"
+    },
+    {
+      "konu": "sanat-tarihi",
+      "karar": "yok",
+      "eksik": "Ayasofya mozaikleri, Hz. İsa, Hz. Meryem, Vaftizci Yahya ve Deisis kavramı ders notlarında bulunmamaktadır.",
+      "stem": "Ayasofya mozaiklerinde de görülen; ortada Hz. İsa, yanında Hz. Meryem ve Vaftizc"
+    },
+    {
+      "konu": "sanat-tarihi",
+      "karar": "yok",
+      "eksik": "Potern mimari yapısı ders notlarında bulunmamaktadır.",
+      "stem": "Düşmana karşı baskın düzenlemek ve çıkartma yapmak amacıyla, toprak yığmasının a"
+    },
+    {
+      "konu": "turizm-cografyasi",
+      "karar": "yok",
+      "eksik": "Deniz canlısı fosilleri veya Antalya'nın jeolojik oluşum süreciyle ilgili bilgi bulunmamaktadır.",
+      "stem": "Anadolu'nun jeolojik oluşum sürecine dair ipuçları veren deniz canlısı fosilleri"
+    },
+    {
+      "konu": "turizm-cografyasi",
+      "karar": "kismi",
+      "eksik": "Ulubey Kanyonu'nun dünyanın en uzun ikinci kanyonu olduğu ve Uşak'ta bulunduğu bilgisi bulunmamaktadır.",
+      "stem": "Dünyanın en uzun ikinci kanyonu olduğu belirtilen Ulubey Kanyonu, hangi ilimizde"
+    },
+    {
+      "konu": "turizm-cografyasi",
+      "karar": "yok",
+      "eksik": "İstanbul'daki Yarımburgaz Mağarası'na, Paleolitik Çağ izlerine veya Pleistosen tabakalarına dair bilgi bulunmamaktadır.",
+      "stem": "İstanbul'un Küçükçekmece ilçesi sınırları içinde yer alan, Pleistosen tabakaları"
+    },
+    {
+      "konu": "turizm-cografyasi",
+      "karar": "yok",
+      "eksik": "İstanbul'daki Yarımburgaz Mağarası'na veya Paleolitik döneme ait insan izlerine dair bilgi bulunmamaktadır.",
+      "stem": "İstanbul sınırları içerisinde yer alan ve Paleolitik döneme ait insan izlerine r"
+    },
+    {
+      "konu": "turizm-cografyasi",
+      "karar": "yok",
+      "eksik": "Türklerin ana yurdu veya yerleşim alanı olarak kabul edilmeyen coğrafi bölgelere dair bilgi bulunmamaktadır.",
+      "stem": "Aşağıdaki coğrafi bölgelerden hangisi, tarih boyunca Türklerin ana yurdu veya ye"
+    },
+    {
+      "konu": "turizm-cografyasi",
+      "karar": "yok",
+      "eksik": "Ballıca Mağarası'na veya Tokat'taki mağaralara dair bilgi bulunmamaktadır.",
+      "stem": "Sarkıt ve dikitleri ile ünlü Ballıca Mağarası, aşağıdaki illerimizin hangisinde "
+    }
+  ]
+}

@@ -1209,5 +1209,725 @@
     ],
     "correct": "C",
     "trick": "Dönüşüm mitleri seti: Arakhne→örümcek, Niobe→kaya, Daphne→defne. Kim neye dönüştü, çapraz sorulur."
+  },
+  {
+    "id": "arkeoloji-mitoloji-041",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Arkeolojinin Yöntemleri ve Terimleri",
+    "difficulty": 2,
+    "stem": "Arkeolojide bir eserin bulunduğu özgün yerde, hiç bozulmadan duruyor olmasını ifade eden terim aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "In situ",
+        "explanation": "In situ, eserin bulunduğu özgün yerde olması durumunu tanımlayan arkeolojik bir terimdir."
+      },
+      {
+        "id": "B",
+        "text": "Stratigrafi",
+        "explanation": "Stratigrafi, tabakalanma ilkesi olup, alttaki tabakanın daha eski olduğunu ifade eder."
+      },
+      {
+        "id": "C",
+        "text": "Ekofakt",
+        "explanation": "Ekofakt, insan yapımı olmayan doğal kalıntılardır (tohum, kemik vb.)."
+      },
+      {
+        "id": "D",
+        "text": "Artefakt",
+        "explanation": "Artefakt (buluntu), insan eliyle yapılmış nesnelerdir."
+      },
+      {
+        "id": "E",
+        "text": "Sondaj",
+        "explanation": "Sondaj, alanı tanımak için açılan küçük deneme kazısıdır."
+      }
+    ],
+    "correct": "A",
+    "trick": "Terimlerin anlamlarının karıştırılması, özellikle artefakt ve ekofakt gibi benzer kelimelerin çeldirici olarak kullanılması."
+  },
+  {
+    "id": "arkeoloji-mitoloji-042",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Arkeolojinin Yöntemleri ve Terimleri",
+    "difficulty": 1,
+    "stem": "Antik Yunan kentlerinde meclis binası olarak kullanılan yapıya ne ad verilir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Agora",
+        "explanation": "Agora, Yunan kent meydanıdır ve forumun Yunan karşılığıdır."
+      },
+      {
+        "id": "B",
+        "text": "Bouleuterion",
+        "explanation": "Bouleuterion, antik Yunan kentlerinde meclis binası olarak işlev gören yapıdır."
+      },
+      {
+        "id": "C",
+        "text": "Odeon",
+        "explanation": "Odeon, küçük, üstü kapalı konser veya toplantı yapısıdır."
+      },
+      {
+        "id": "D",
+        "text": "Gymnasion",
+        "explanation": "Gymnasion, eğitim ve spor yapısıdır."
+      },
+      {
+        "id": "E",
+        "text": "Nymphaeum",
+        "explanation": "Nymphaeum, anıtsal çeşme yapısıdır."
+      }
+    ],
+    "correct": "B",
+    "trick": "Antik kent yapılarının işlevlerinin karıştırılması, özellikle agora ve bouleuterion arasındaki fark."
+  },
+  {
+    "id": "arkeoloji-mitoloji-043",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Arkeolojinin Yöntemleri ve Terimleri",
+    "difficulty": 3,
+    "stem": "Arkeolojik bir kazıda, baraj veya yol yapımı gibi acil durumlar nedeniyle gerçekleştirilen ve buluntuların kurtarılmasını amaçlayan kazı türü aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Sistemli (bilimsel) kazı",
+        "explanation": "Sistemli kazı, planlı ve uzun vadeli bilimsel amaçlarla yapılan kazıdır."
+      },
+      {
+        "id": "B",
+        "text": "Sondaj kazısı",
+        "explanation": "Sondaj kazısı, alan hakkında bilgi edinmek için yapılan küçük deneme kazısıdır."
+      },
+      {
+        "id": "C",
+        "text": "Kurtarma kazısı",
+        "explanation": "Kurtarma kazısı, baraj, yol veya inşaat gibi nedenlerle yok olma tehlikesi altındaki arkeolojik alanlarda acil olarak yapılan kazıdır."
+      },
+      {
+        "id": "D",
+        "text": "Müze kazısı",
+        "explanation": "Müze kazısı diye özel bir kazı türü yoktur, müzeler kazılardan çıkan eserleri sergiler."
+      },
+      {
+        "id": "E",
+        "text": "Yüzey araştırması",
+        "explanation": "Yüzey araştırması, kazı yapmadan arkeolojik verileri toplama yöntemidir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Farklı kazı türlerinin amaçlarının karıştırılması, özellikle 'sondaj' ve 'kurtarma' arasındaki fark."
+  },
+  {
+    "id": "arkeoloji-mitoloji-044",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Yunan Mitolojisi: Tanrılar ve Kökenler",
+    "difficulty": 2,
+    "stem": "Aşağıdaki tanrı ve Roma karşılığı eşleştirmelerinden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Zeus - Jupiter",
+        "explanation": "Zeus'un Roma mitolojisindeki karşılığı Jupiter'dir."
+      },
+      {
+        "id": "B",
+        "text": "Hera - Juno",
+        "explanation": "Hera'nın Roma mitolojisindeki karşılığı Juno'dur."
+      },
+      {
+        "id": "C",
+        "text": "Poseidon - Neptün",
+        "explanation": "Poseidon'un Roma mitolojisindeki karşılığı Neptün'dür."
+      },
+      {
+        "id": "D",
+        "text": "Apollon - Merkür",
+        "explanation": "Apollon'un Roma mitolojisindeki karşılığı Apollo'dur; Merkür ise Hermes'in Roma adıdır."
+      },
+      {
+        "id": "E",
+        "text": "Afrodit - Venüs",
+        "explanation": "Afrodit'in Roma mitolojisindeki karşılığı Venüs'tür."
+      }
+    ],
+    "correct": "D",
+    "trick": "Tanrıların Yunan ve Roma adlarının karıştırılması, özellikle Apollon ve Hermes'in Roma karşılıkları."
+  },
+  {
+    "id": "arkeoloji-mitoloji-045",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Mitolojik Anlatılar ve Anadolu'daki İzleri",
+    "difficulty": 2,
+    "stem": "Troya Savaşı'na neden olan 'en güzele' yazılı altın elma hangi tanrıça tarafından ortaya atılmıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Hera",
+        "explanation": "Hera, elmayı alma konusunda Paris'e güç önermiştir, ancak elmayı ortaya atan o değildir."
+      },
+      {
+        "id": "B",
+        "text": "Afrodit",
+        "explanation": "Afrodit, elmayı Paris'ten alarak dünyanın en güzel kadınını vaat etmiştir, ancak elmayı ortaya atan o değildir."
+      },
+      {
+        "id": "C",
+        "text": "Athena",
+        "explanation": "Athena, elmayı alma konusunda Paris'e bilgelik önermiştir, ancak elmayı ortaya atan o değildir."
+      },
+      {
+        "id": "D",
+        "text": "Thetis",
+        "explanation": "Thetis, düğününde Eris'in elmayı ortaya attığı deniz tanrıçasıdır, ancak elmayı atan o değildir."
+      },
+      {
+        "id": "E",
+        "text": "Eris",
+        "explanation": "Eris, yani Nifak Tanrıçası, düğüne davet edilmediği için intikam amacıyla 'en güzele' yazılı altın elmayı ortaya atmıştır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Troya Savaşı'ndaki 'altın elma' olayında, elmayı alan tanrıçalarla, elmayı ortaya atan tanrıçanın karıştırılması."
+  },
+  {
+    "id": "arkeoloji-mitoloji-046",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Mitolojik Anlatılar ve Anadolu'daki İzleri",
+    "difficulty": 1,
+    "stem": "Antik çağda, ağzından ateş püskürten Khimaira adlı yaratığın, Bellerophon tarafından Pegasus ile öldürüldüğü efsanesinin geçtiği yer olarak bilinen ve günümüzde hala yanan doğal gaz çıkışlarına ev sahipliği yapan bölge aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Olympos-Çıralı (Yanartaş)",
+        "explanation": "Olympos-Çıralı'daki Yanartaş, ağzından ateş püsküren Khimaira efsanesiyle ilişkilendirilen doğal gaz çıkışlarına ev sahipliği yapar."
+      },
+      {
+        "id": "B",
+        "text": "Letoon",
+        "explanation": "Letoon, Leto, Apollon ve Artemis'in doğumu ile ilgili efsanelerin geçtiği Likya'daki kutsal alandır."
+      },
+      {
+        "id": "C",
+        "text": "Gordion",
+        "explanation": "Gordion, Midas'ın altın dokunuşu ve Gordion Düğümü efsaneleriyle ilişkilidir."
+      },
+      {
+        "id": "D",
+        "text": "Manisa (Spil Dağı)",
+        "explanation": "Manisa Spil Dağı, Niobe'nin ağlayan kayaya dönüşmesi efsanesiyle ilişkilidir."
+      },
+      {
+        "id": "E",
+        "text": "Hierapolis",
+        "explanation": "Hierapolis, Hades'e giriş kapısı olarak bilinen Cehennem Kapısı (Plutonium) ile ünlüdür."
+      }
+    ],
+    "correct": "A",
+    "trick": "Anadolu'daki mitolojik efsanelerin geçtiği yerlerin karıştırılması."
+  },
+  {
+    "id": "arkeoloji-mitoloji-047",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Tanrıları Eserde Tanımak: Attribut (Simge) Bilgisi",
+    "difficulty": 3,
+    "stem": "Antik heykellerde, elinde çift yılanlı ve kanatlı bir asa (kaduseus) tutan, kanatlı sandaletler giyen bir erkek figürü hangi tanrıyı temsil eder?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Asklepios",
+        "explanation": "Asklepios'un simgesi tek yılanlı ve kanatsız asadır, tıp ile ilişkilendirilir."
+      },
+      {
+        "id": "B",
+        "text": "Hermes",
+        "explanation": "Hermes, kanatlı sandaletleri, kanatlı başlığı ve çift yılanlı, kanatlı asası (kaduseus) ile tanrıların habercisi ve ticaretin tanrısı olarak betimlenir."
+      },
+      {
+        "id": "C",
+        "text": "Apollon",
+        "explanation": "Apollon, lir, defne çelengi ve yay ile simgelenir."
+      },
+      {
+        "id": "D",
+        "text": "Zeus",
+        "explanation": "Zeus, yıldırım demeti, kartal ve asa ile simgelenir."
+      },
+      {
+        "id": "E",
+        "text": "Dionysos",
+        "explanation": "Dionysos, asma, üzüm salkımı ve thyrsos (kozalaklı değnek) ile simgelenir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Asklepios'un tek yılanlı asası ile Hermes'in çift yılanlı ve kanatlı kaduseus'unun karıştırılması."
+  },
+  {
+    "id": "arkeoloji-mitoloji-048",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Tanrıları Eserde Tanımak: Attribut (Simge) Bilgisi",
+    "difficulty": 2,
+    "stem": "Aşağıdaki tanrıça ve simge eşleştirmelerinden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Hera - Tavus kuşu",
+        "explanation": "Hera, tavus kuşu ve nar ile simgelenir."
+      },
+      {
+        "id": "B",
+        "text": "Athena - Baykuş",
+        "explanation": "Athena, baykuş, zeytin dalı, miğfer ve kalkan ile simgelenir."
+      },
+      {
+        "id": "C",
+        "text": "Demeter - Asma",
+        "explanation": "Demeter, başak demeti ve meşale ile simgelenir. Asma ve üzüm salkımı Dionysos'un simgeleridir."
+      },
+      {
+        "id": "D",
+        "text": "Artemis - Geyik",
+        "explanation": "Artemis, yay-sadak, geyik ve hilal ile simgelenir."
+      },
+      {
+        "id": "E",
+        "text": "Afrodit - Güvercin",
+        "explanation": "Afrodit, deniz kabuğu ve güvercin ile simgelenir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Tanrıların simgelerinin karıştırılması, özellikle Demeter ve Dionysos'un tarım ve bereketle ilgili simgeleri."
+  },
+  {
+    "id": "arkeoloji-mitoloji-049",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Arkeolojinin Yöntemleri ve Terimleri",
+    "difficulty": 2,
+    "stem": "Arkeolojik bir kazı alanında, insan eliyle yapılmış ve geçmiş kültürel faaliyetlere dair bilgi veren her türlü nesneye ne ad verilir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ekofakt",
+        "explanation": "Ekofakt, insan yapımı olmayan, doğal kalıntıları (tohum, kemik, polen gibi) ifade eder."
+      },
+      {
+        "id": "B",
+        "text": "In situ",
+        "explanation": "In situ, bir eserin bulunduğu özgün yerde olması durumunu tanımlayan bir terimdir."
+      },
+      {
+        "id": "C",
+        "text": "Stratigrafi",
+        "explanation": "Stratigrafi, arkeolojide tabakalanma ilkesini ifade eder; alttaki tabakanın daha eski olduğunu belirtir."
+      },
+      {
+        "id": "D",
+        "text": "Artefakt",
+        "explanation": "Artefakt (buluntu), insan eliyle yapılmış nesneleri ifade eder ve geçmiş insan topluluklarının kültürel faaliyetleri hakkında bilgi verir."
+      },
+      {
+        "id": "E",
+        "text": "Ostrakon",
+        "explanation": "Ostrakon, üzerine yazı yazılan çömlek parçalarına verilen addır."
+      }
+    ],
+    "correct": "D",
+    "trick": "Artefakt ve ekofakt terimleri sıklıkla karıştırılır; artefakt insan yapımı, ekofakt doğal kalıntıdır."
+  },
+  {
+    "id": "arkeoloji-mitoloji-050",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Yunan Mitolojisi: Tanrılar ve Kökenler",
+    "difficulty": 1,
+    "stem": "Yunan mitolojisinde aşk ve güzellik tanrıçası olarak bilinen Afrodit'in Roma mitolojisindeki karşılığı aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Minerva",
+        "explanation": "Minerva, Yunan mitolojisindeki Athena'nın (akıl, strateji) Roma karşılığıdır."
+      },
+      {
+        "id": "B",
+        "text": "Juno",
+        "explanation": "Juno, Yunan mitolojisindeki Hera'nın (evlilik, aile) Roma karşılığıdır."
+      },
+      {
+        "id": "C",
+        "text": "Ceres",
+        "explanation": "Ceres, Yunan mitolojisindeki Demeter'in (tarım, bereket) Roma karşılığıdır."
+      },
+      {
+        "id": "D",
+        "text": "Diana",
+        "explanation": "Diana, Yunan mitolojisindeki Artemis'in (av, ay) Roma karşılığıdır."
+      },
+      {
+        "id": "E",
+        "text": "Venüs",
+        "explanation": "Venüs, Yunan mitolojisindeki Afrodit'in (aşk ve güzellik) Roma karşılığıdır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Roma isimlerinin Yunan isimleriyle karıştırılması veya yanlış eşleştirilmesi sıkça karşılaşılan bir tuzaktır."
+  },
+  {
+    "id": "arkeoloji-mitoloji-051",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Mitolojik Anlatılar ve Anadolu'daki İzleri",
+    "difficulty": 3,
+    "stem": "Aşağıdaki mitolojik anlatılardan hangisiyle ilgili mekan eşleştirmesi YANLIŞTIR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Marsyas'ın Apollon'la müzik yarışması – Efes",
+        "explanation": "Marsyas'ın Apollon'la müzik yarışması ve derisinin yüzülmesi efsanesi Dinar (Apameia) veya Kelainai ile ilişkilendirilir, Efes ile değil."
+      },
+      {
+        "id": "B",
+        "text": "Midas'ın altın dokunuşu – Gordion",
+        "explanation": "Kral Midas'ın altın dokunuşu efsanesi Frigya'nın başkenti Gordion ile ilişkilendirilir ve doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Niobe'nin ağlayan kayaya dönüşmesi – Manisa (Spil Dağı)",
+        "explanation": "Niobe'nin ağlayan kayaya dönüşmesi efsanesi Manisa'daki Spil Dağı ile ilişkilendirilir ve doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "Khimaira'nın Bellerophon tarafından öldürülmesi – Olympos-Çıralı",
+        "explanation": "Ağzından ateş püskürten Khimaira'nın Bellerophon tarafından öldürülmesi efsanesi Antalya'daki Olympos-Çıralı (Yanartaş) ile ilişkilendirilir ve doğrudur."
+      },
+      {
+        "id": "E",
+        "text": "Leto, Apollon ve Artemis'in doğumu – Letoon",
+        "explanation": "Tanrıça Leto'nun Apollon ve Artemis'i doğurması efsanesi Likya'daki Letoon kutsal alanı ile ilişkilendirilir ve doğrudur."
+      }
+    ],
+    "correct": "A",
+    "trick": "Anadolu'daki mitolojik anlatıların geçtiği yerlerin karıştırılması, özellikle popüler antik kentlerle (Efes gibi) yanlış eşleştirilmesi yaygın bir tuzaktır."
+  },
+  {
+    "id": "arkeoloji-mitoloji-052",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Arkeolojinin Yöntemleri ve Terimleri",
+    "difficulty": 2,
+    "stem": "Arkeolojik bir yerleşim yerinde, üst üste gelen farklı dönemlere ait katmanların oluşturduğu yapay tepeye verilen ad aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Tümülüs",
+        "explanation": "Tümülüs, mezarın üzerine yığılan toprak tepedir, yerleşim yeri değildir."
+      },
+      {
+        "id": "B",
+        "text": "Höyük",
+        "explanation": "Höyük, aynı yerde üst üste kurulan yerleşimlerin oluşturduğu yapay tepeye verilen addır."
+      },
+      {
+        "id": "C",
+        "text": "Nekropol",
+        "explanation": "Nekropol, antik mezarlık alanıdır, yerleşim katmanlarının oluşturduğu tepe değildir."
+      },
+      {
+        "id": "D",
+        "text": "Stel",
+        "explanation": "Stel, dikili yazıtlı veya kabartmalı taştır."
+      },
+      {
+        "id": "E",
+        "text": "Lahit",
+        "explanation": "Lahit (sarkofag), taş tabuttur."
+      }
+    ],
+    "correct": "B",
+    "trick": "Höyük ve tümülüs terimleri sıkça karıştırılır; höyük yerleşim tepesi, tümülüs ise mezar tepesidir."
+  },
+  {
+    "id": "arkeoloji-mitoloji-053",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Tanrıları Eserde Tanımak: Attribut (Simge) Bilgisi",
+    "difficulty": 3,
+    "stem": "Bir antik heykelde veya kabartmada, üzerinde Gorgon başlı aegis bulunan bir kalkan, miğfer ve baykuş simgeleriyle betimlenen tanrıça aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Hera",
+        "explanation": "Hera, tavus kuşu ve nar ile simgelenir, Gorgon başlı kalkan ve baykuş Athena'ya aittir."
+      },
+      {
+        "id": "B",
+        "text": "Artemis",
+        "explanation": "Artemis, yay-sadak, geyik ve hilal ile simgelenir, baykuş ve kalkan Athena'nın simgeleridir."
+      },
+      {
+        "id": "C",
+        "text": "Athena",
+        "explanation": "Miğfer, kalkan (Gorgon başlı aegis), mızrak ve baykuş, akıl ve strateji tanrıçası Athena'nın ayırt edici simgeleridir."
+      },
+      {
+        "id": "D",
+        "text": "Afrodit",
+        "explanation": "Afrodit, deniz kabuğu ve güvercin ile simgelenir, savaş aletleri ve baykuş Athena'ya aittir."
+      },
+      {
+        "id": "E",
+        "text": "Demeter",
+        "explanation": "Demeter, başak demeti ve meşale ile simgelenir, baykuş ve kalkan Athena'ya aittir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Birden fazla simgenin bir arada verilerek tanrıçanın doğru tanınması hedeflenir. Özellikle Gorgon başlı kalkan ve baykuş gibi spesifik simgeler anahtar ipuçlarıdır."
+  },
+  {
+    "id": "arkeoloji-mitoloji-054",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Mitolojik Anlatılar ve Anadolu'daki İzleri",
+    "difficulty": 2,
+    "stem": "Hitit mitolojisine ait olan ve kaybolan bereket tanrısı temasını işleyen, Anadolu'nun en eski yazılı mitlerinden biri aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Troya Savaşı",
+        "explanation": "Troya Savaşı, Yunan mitolojisine aittir ve Homeros'un İlyada'sında anlatılır."
+      },
+      {
+        "id": "B",
+        "text": "Khimaira Efsanesi",
+        "explanation": "Khimaira Efsanesi, Yunan mitolojisine ait olup Likya bölgesindeki Olympos-Çıralı ile ilişkilendirilir."
+      },
+      {
+        "id": "C",
+        "text": "Midas'ın Dokunuşu",
+        "explanation": "Midas'ın Dokunuşu, Frigya mitolojisine ait bir efsanedir."
+      },
+      {
+        "id": "D",
+        "text": "Telipinu Miti",
+        "explanation": "Telipinu Miti, Hitit mitolojisine ait, kaybolan bereket tanrısı temasını işleyen ve Anadolu'nun en eski yazılı mitlerinden biridir."
+      },
+      {
+        "id": "E",
+        "text": "Nuh'un Gemisi",
+        "explanation": "Nuh'un Gemisi, İbrahimi dinlere ait bir anlatıdır ve Anadolu'da Ağrı Dağı ile ilişkilendirilir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Anadolu'da geçen mitolojik anlatılar ve bunların kökenleri (Yunan, Hitit, Frig) karıştırılabilir. Soruda 'Hitit mitolojisi' ve 'en eski yazılı mit' vurguları anahtar kelimelerdir."
+  },
+  {
+    "id": "arkeoloji-mitoloji-055",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Arkeolojinin Yöntemleri ve Terimleri",
+    "difficulty": 3,
+    "stem": "Aşağıdaki arkeolojik terimlerden hangisi, pişmiş topraktan yapılmış nesnelerin (seramik gibi) tarihlendirilmesinde kullanılan bir yöntemdir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Karbon-14",
+        "explanation": "Karbon-14, organik malzemelerin (kemik, ahşap, tohum) tarihlendirilmesinde kullanılır."
+      },
+      {
+        "id": "B",
+        "text": "Dendrokronoloji",
+        "explanation": "Dendrokronoloji, ağaç halkalarını sayarak tarihlendirme yöntemidir."
+      },
+      {
+        "id": "C",
+        "text": "Potasyum-Argon",
+        "explanation": "Potasyum-Argon, çok eski volkanik tabakaların tarihlendirilmesinde kullanılır."
+      },
+      {
+        "id": "D",
+        "text": "Stratigrafi",
+        "explanation": "Stratigrafi, göreli (relatif) tarihlendirme yöntemidir ve mutlak bir yaş vermez."
+      },
+      {
+        "id": "E",
+        "text": "Termolüminesans",
+        "explanation": "Termolüminesans, pişmiş toprak (seramik) ve bazı minerallerin tarihlendirilmesinde kullanılan bir yöntemdir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Farklı tarihlendirme yöntemlerinin hangi malzemeler için kullanıldığı karıştırılabilir. Özellikle Karbon-14'ün her şeye uygulandığı yanılgısı yaygındır."
+  },
+  {
+    "id": "arkeoloji-mitoloji-056",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Tanrıları Eserde Tanımak: Attribut (Simge) Bilgisi",
+    "difficulty": 2,
+    "stem": "Yunan mitolojisinde ticaret, yolcular ve tanrıların habercisi olan Hermes, sanat eserlerinde genellikle hangi simgeyle betimlenir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kaduseus (iki yılanlı, kanatlı asa)",
+        "explanation": "Kanatlı sandaletler ve kaduseus (iki yılanlı, kanatlı asa), haberci tanrı Hermes'in ayırt edici simgeleridir."
+      },
+      {
+        "id": "B",
+        "text": "Üç dişli mızrak (trident)",
+        "explanation": "Üç dişli mızrak, deniz tanrısı Poseidon'un simgesidir."
+      },
+      {
+        "id": "C",
+        "text": "Başak demeti",
+        "explanation": "Başak demeti, tarım tanrıçası Demeter'in simgesidir."
+      },
+      {
+        "id": "D",
+        "text": "Yıldırım demeti",
+        "explanation": "Yıldırım demeti, tanrıların kralı Zeus'un simgesidir."
+      },
+      {
+        "id": "E",
+        "text": "Lir (kithara)",
+        "explanation": "Lir, müzik ve sanat tanrısı Apollon'un simgesidir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Hermes'in kaduseus'u ile tıp tanrısı Asklepios'un tek yılanlı asasının karıştırılması yaygın bir tuzaktır."
+  },
+  {
+    "id": "arkeoloji-mitoloji-057",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Arkeolojinin Yöntemleri ve Terimleri",
+    "difficulty": 2,
+    "stem": "Arkeolojik bir kazı alanında, insan eliyle yapılmış ve geçmiş kültürel faaliyetlere ışık tutan her türlü nesneye ne ad verilir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ekofakt",
+        "explanation": "Ekofakt, insan yapımı olmayan doğal kalıntılar (tohum, kemik) için kullanılan terimdir."
+      },
+      {
+        "id": "B",
+        "text": "Artefakt",
+        "explanation": "Artefakt (buluntu), insan eliyle yapılmış nesneler için kullanılan doğru terimdir."
+      },
+      {
+        "id": "C",
+        "text": "In situ",
+        "explanation": "In situ, eserin bulunduğu özgün yerde olması durumunu ifade eden bir terimdir."
+      },
+      {
+        "id": "D",
+        "text": "Stratigrafi",
+        "explanation": "Stratigrafi, tabakalanma prensibini ve alttaki tabakanın daha eski olduğunu ifade eden bir arkeolojik yöntemdir."
+      },
+      {
+        "id": "E",
+        "text": "Ostrakon",
+        "explanation": "Ostrakon, üzerine yazı yazılan çömlek parçası anlamına gelir ve belirli bir tür artefakttır, genel tanımı karşılamaz."
+      }
+    ],
+    "correct": "B",
+    "trick": "Ekofakt ile artefakt terimlerinin karıştırılması."
+  },
+  {
+    "id": "arkeoloji-mitoloji-058",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Yunan Mitolojisi: Tanrılar ve Kökenler",
+    "difficulty": 3,
+    "stem": "Yunan mitolojisindeki On İki Olimpos Tanrısı arasında yer alan ve şarap, coşku ve tiyatro ile özdeşleşen tanrı aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Hephaistos",
+        "explanation": "Hephaistos, demircilik ve ateş tanrısıdır, şarap ve coşku ile ilgili değildir."
+      },
+      {
+        "id": "B",
+        "text": "Hestia",
+        "explanation": "Hestia, ocak ve ev tanrıçasıdır. Bazı listelerde Olimpos tanrıları arasında yer alsa da şarap ve coşku ile ilişkili değildir."
+      },
+      {
+        "id": "C",
+        "text": "Dionysos",
+        "explanation": "Dionysos, şarap, coşku, tiyatro ve bereket tanrısıdır. Olimpos tanrıları arasında yer alır ve bu özelliklerle özdeşleşmiştir."
+      },
+      {
+        "id": "D",
+        "text": "Apollon",
+        "explanation": "Apollon, güneş, müzik ve kehanet tanrısıdır, şarap ve coşku ile ilişkisi yoktur."
+      },
+      {
+        "id": "E",
+        "text": "Ares",
+        "explanation": "Ares, savaş tanrısıdır, şarap ve coşku ile ilgili değildir."
+      }
+    ],
+    "correct": "C",
+    "trick": "On İki Olimpos Tanrısı listesinde zaman zaman Hestia ile Dionysos'un yer değiştirmesi veya Hades'in Olimpos tanrısı sanılması."
+  },
+  {
+    "id": "arkeoloji-mitoloji-059",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Mitolojik Anlatılar ve Anadolu'daki İzleri",
+    "difficulty": 2,
+    "stem": "Aşağıdaki efsane ve geçtiği antik kent eşleştirmelerinden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Khimaira (Yanartaş) - Olympos-Çıralı",
+        "explanation": "Khimaira efsanesi, ağzından ateş püsküren yaratıkla birlikte Olympos-Çıralı bölgesinde geçer ve doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "Leto, Apollon ve Artemis'in doğumu - Letoon",
+        "explanation": "Leto'nun ikiz çocukları Apollon ve Artemis'i doğurduğu yer olarak Letoon antik kenti gösterilir ve doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Niobe'nin ağlayan kayaya dönüşmesi - Manisa (Spil Dağı)",
+        "explanation": "Niobe efsanesi ve Ağlayan Kaya ile Manisa (Spil Dağı) ilişkilidir ve doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "Marsyas'ın Apollon'la müzik yarışması - Efes",
+        "explanation": "Marsyas'ın Apollon'la müzik yarışması efsanesi Dinar (Apameia) veya Kelainai antik kentlerinde geçer, Efes'te değil. Bu eşleştirme yanlıştır."
+      },
+      {
+        "id": "E",
+        "text": "Midas'ın altın dokunuşu ve eşek kulakları - Gordion",
+        "explanation": "Kral Midas'ın altın dokunuşu ve eşek kulakları efsaneleri Gordion antik kenti ile ilişkilidir ve doğrudur."
+      }
+    ],
+    "correct": "D",
+    "trick": "Antik kentlerin coğrafi konumları ve benzer mitolojik anlatılarla karıştırılması."
+  },
+  {
+    "id": "arkeoloji-mitoloji-060",
+    "topicId": "arkeoloji-mitoloji",
+    "subtopic": "Tanrıları Eserde Tanımak: Attribut (Simge) Bilgisi",
+    "difficulty": 1,
+    "stem": "Müzelerde veya ören yerlerinde karşılaşılan antik heykellerde, elinde kartal ve yıldırım demeti tutan, sakallı ve heybetli bir erkek figürü genellikle hangi tanrıyı temsil eder?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Poseidon",
+        "explanation": "Poseidon, üç dişli mızrak ve at ile simgelenir, kartal ve yıldırım Zeus'a aittir."
+      },
+      {
+        "id": "B",
+        "text": "Apollon",
+        "explanation": "Apollon, lir ve defne ile simgelenen genç ve sakalsız bir tanrıdır."
+      },
+      {
+        "id": "C",
+        "text": "Ares",
+        "explanation": "Ares, miğfer ve mızrak gibi savaş unsurlarıyla betimlenir, kartal ve yıldırım ona ait değildir."
+      },
+      {
+        "id": "D",
+        "text": "Hermes",
+        "explanation": "Hermes, kanatlı sandalet ve kaduseus (iki yılanlı asa) ile simgelenir."
+      },
+      {
+        "id": "E",
+        "text": "Zeus",
+        "explanation": "Kartal ve yıldırım demeti, tanrıların kralı Zeus'un en belirgin simgeleridir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Diğer güçlü erkek tanrıların simgeleriyle karıştırılması."
   }
 ]

@@ -1200,5 +1200,725 @@
       }
     ],
     "correct": "B"
+  },
+  {
+    "id": "dinler-tarihi-041",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Erken İnanç Biçimleri",
+    "difficulty": 2,
+    "stem": "Aşağıdaki erken inanç biçimlerinden hangisi bir din olarak değil, ruhlarla iletişim kurma pratiği olarak kabul edilir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Şamanizm",
+        "explanation": "Şamanizm, ruhlarla iletişim kurabilen şaman (kam) aracılığıyla yapılan uygulamalar bütünüdür ve bir din değil, bir uygulama sistemidir."
+      },
+      {
+        "id": "B",
+        "text": "Animizm",
+        "explanation": "Animizm, doğadaki her varlığın ruhu olduğuna inanılan bir inanç biçimidir, bir uygulama sistemi değildir."
+      },
+      {
+        "id": "C",
+        "text": "Totemizm",
+        "explanation": "Totemizm, bir klanın kendini kutsal bir hayvan veya bitkiyle özdeşleştirmesi inancıdır."
+      },
+      {
+        "id": "D",
+        "text": "Fetişizm",
+        "explanation": "Fetişizm, nesnelere olağanüstü güç atfetme inancıdır."
+      },
+      {
+        "id": "E",
+        "text": "Natürizm",
+        "explanation": "Natürizm, doğa güçlerine (güneş, ay, fırtına) tapınma inancıdır."
+      }
+    ],
+    "correct": "A",
+    "trick": "Şamanizm'in bir din değil, uygulama sistemi olduğu ayrımı."
+  },
+  {
+    "id": "dinler-tarihi-042",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Hint ve Uzakdoğu Dinleri",
+    "difficulty": 3,
+    "stem": "Hint ve Uzakdoğu dinleriyle ilgili aşağıdaki yargılardan hangisi YANLIŞTIR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Budizm, Hinduizm'den farklı olarak kast sistemini reddetmektedir.",
+        "explanation": "Bu ifade doğrudur. Budizm'in önemli farklılıklarından biri kast sistemini reddetmesidir."
+      },
+      {
+        "id": "B",
+        "text": "Japonya'nın milli dini olan Şintoizm'in kutsal kitapları arasında Vedalar bulunmaktadır.",
+        "explanation": "Bu ifade yanlıştır. Vedalar, Hinduizm'in kutsal metinleridir. Şintoizm'in kutsal kitapları arasında Vedalar yer almaz."
+      },
+      {
+        "id": "C",
+        "text": "Hinduizm'de ruh göçüne reenkarnasyon, bu döngüden kurtuluşa ise moksha adı verilir.",
+        "explanation": "Bu ifade doğrudur. Reenkarnasyon (samsara) ve moksha Hinduizm'in temel kavramlarındandır."
+      },
+      {
+        "id": "D",
+        "text": "Çin'de ortaya çıkan Konfüçyanizm, bir dinden çok ahlak ve devlet felsefesi olarak kabul edilir.",
+        "explanation": "Bu ifade doğrudur. Konfüçyanizm, toplumsal düzen ve ahlak ilkelerine odaklanan bir felsefedir."
+      },
+      {
+        "id": "E",
+        "text": "Sihizm, Hinduizm ve İslam'ın sentezi niteliğinde olup, tek tanrı inancını ve kast reddini benimser.",
+        "explanation": "Bu ifade doğrudur. Sihizm, Guru Nanak tarafından kurulmuş ve bu iki dinin öğretilerinden etkilenmiştir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Farklı dinlerin kutsal metinlerini karıştırma tuzağı."
+  },
+  {
+    "id": "dinler-tarihi-043",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Yahudilik",
+    "difficulty": 2,
+    "stem": "Yahudilikle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yahudilik, evrensel bir din olup misyonerlik faaliyetleriyle yayılmayı hedefler.",
+        "explanation": "Yahudilik millî (kavmî) bir dindir ve misyonerlik yapmaz, 'seçilmiş halk' inancı vardır."
+      },
+      {
+        "id": "B",
+        "text": "Yahudilerin kutsal günü Pazar olup, bu günde ibadet etmek esastır.",
+        "explanation": "Yahudilerin kutsal günü Şabat (Sebt) Cumartesi'dir; Pazar Hristiyanların ibadet günüdür."
+      },
+      {
+        "id": "C",
+        "text": "Yahudiliğin kutsal kitabı Tevrat (Tora) olup, Eski Ahit'in ilk beş kitabını oluşturur.",
+        "explanation": "Bu ifade doğrudur. Tevrat, Yahudiliğin temel kutsal kitabıdır ve Eski Ahit'in ilk beş kitabından oluşur."
+      },
+      {
+        "id": "D",
+        "text": "Yahudilikte domuz eti tüketimi serbest olup, özel bir beslenme kuralı bulunmamaktadır.",
+        "explanation": "Yahudilikte koşer (kaşrut) beslenme kuralları vardır ve domuz eti yasaktır."
+      },
+      {
+        "id": "E",
+        "text": "Yahudiliğin en önemli sembolü dokuz kollu Hanukiya'dır.",
+        "explanation": "Yahudiliğin önemli sembollerinden biri yedi kollu şamdan (Menora) ve Davut Yıldızı'dır. Hanukiya Hanuka Bayramı'nda yakılan dokuz kollu şamdandır."
+      }
+    ],
+    "correct": "C",
+    "trick": "Yahudiliğin millî din oluşu ve kutsal gününün Pazar değil Cumartesi olması gibi genel bilgilerle çeldirme."
+  },
+  {
+    "id": "dinler-tarihi-044",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Hristiyanlık",
+    "difficulty": 1,
+    "stem": "Hristiyanlıkta Baba, Oğul ve Kutsal Ruh'tan oluşan tek Tanrı'nın üç görünümüne verilen ad aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Reenkarnasyon",
+        "explanation": "Reenkarnasyon, ruh göçü inancı olup Hinduizm gibi dinlerde yer alır, Hristiyanlıkta yoktur."
+      },
+      {
+        "id": "B",
+        "text": "Nirvana",
+        "explanation": "Nirvana, Budizm'de arzuların söndüğü ve doğum-ölüm döngüsünden kurtuluş halidir."
+      },
+      {
+        "id": "C",
+        "text": "Vaftiz",
+        "explanation": "Vaftiz, Hristiyanlıkta suya batırma veya su serpme ile dine giriş ayinidir, Tanrı anlayışını ifade etmez."
+      },
+      {
+        "id": "D",
+        "text": "Teslis (Kutsal Üçleme)",
+        "explanation": "Teslis, Hristiyanlıkta Baba, Oğul ve Kutsal Ruh'tan oluşan tek Tanrı'nın üç görünümüne verilen addır."
+      },
+      {
+        "id": "E",
+        "text": "Komünyon",
+        "explanation": "Komünyon (Aşai Rabbani), Hristiyanlıkta ekmek ve şarap ayinidir, Tanrı anlayışını ifade etmez."
+      }
+    ],
+    "correct": "D",
+    "trick": "Diğer dinlere ait kavramlarla veya Hristiyanlığın başka ritüelleriyle karıştırma."
+  },
+  {
+    "id": "dinler-tarihi-045",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Hristiyanlık",
+    "difficulty": 2,
+    "stem": "Hristiyanlık tarihinde büyük önem taşıyan ve 'Hristiyan' adının ilk kez kullanıldığı, ilk mağara kiliselerinden birine ev sahipliği yapan şehir aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Efes",
+        "explanation": "Efes, Meryem Ana Evi ve Vahiy'deki Yedi Kilise'den biriyle önemlidir ancak 'Hristiyan' adının ilk kullanıldığı yer değildir."
+      },
+      {
+        "id": "B",
+        "text": "İznik",
+        "explanation": "İznik, ilk ekümenik konsilin toplandığı yerdir ancak 'Hristiyan' adının ilk kullanıldığı şehir değildir."
+      },
+      {
+        "id": "C",
+        "text": "Tarsus",
+        "explanation": "Tarsus, Aziz Pavlus'un doğum yeridir ancak 'Hristiyan' adının ilk kullanıldığı şehir değildir."
+      },
+      {
+        "id": "D",
+        "text": "Demre (Myra)",
+        "explanation": "Demre, Aziz Nikolaos'un (Noel Baba) piskoposluk yaptığı yerdir ancak 'Hristiyan' adının ilk kullanıldığı şehir değildir."
+      },
+      {
+        "id": "E",
+        "text": "Antakya (Antioch)",
+        "explanation": "Antakya, 'Hristiyan' adının ilk kez kullanıldığı ve ilk kilise (St. Pierre Kilisesi) ile bilinen önemli bir merkezdir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Anadolu'daki diğer önemli Hristiyan merkezleriyle karıştırma."
+  },
+  {
+    "id": "dinler-tarihi-046",
+    "topicId": "dinler-tarihi",
+    "subtopic": "İslam ve Türk-İslam Tasavvufu",
+    "difficulty": 2,
+    "stem": "Anadolu'da esnaf ahlakının ve dayanışmasının temelini oluşturan Ahilik teşkilatının piri olarak kabul edilen mutasavvıf aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ahi Evran",
+        "explanation": "Ahi Evran, Kırşehir'de yaşamış ve Ahilik teşkilatının piri olarak kabul edilir."
+      },
+      {
+        "id": "B",
+        "text": "Mevlana Celaleddin Rumi",
+        "explanation": "Mevlana, Konya'da yaşamış ve Mesnevi ile tanınan büyük bir mutasavvıftır, ancak Ahilik piri değildir."
+      },
+      {
+        "id": "C",
+        "text": "Hacı Bektaş-ı Veli",
+        "explanation": "Hacı Bektaş-ı Veli, Bektaşilik ve Alevilik geleneğinin piridir, ancak Ahilik piri değildir."
+      },
+      {
+        "id": "D",
+        "text": "Yunus Emre",
+        "explanation": "Yunus Emre, Türkçe tasavvuf şiirinin önemli temsilcisidir, ancak Ahilik piri değildir."
+      },
+      {
+        "id": "E",
+        "text": "Hoca Ahmet Yesevi",
+        "explanation": "Hoca Ahmet Yesevi, Türkistan'da yaşamış ve Anadolu'ya gelen dervişlerin kaynağıdır, ancak Ahilik piri değildir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Anadolu'daki diğer önemli mutasavvıflarla karıştırma."
+  },
+  {
+    "id": "dinler-tarihi-047",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Anadolu'nun İnanç Turizmi Haritası",
+    "difficulty": 3,
+    "stem": "Aşağıdaki inanç turizmi merkezlerinden hangisi, hem Hristiyanlık hem de İslam geleneğinde ortak bir öneme sahip olan 'Yedi Uyurlar' (Eshab-ı Kehf) anlatısıyla ilişkilidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Sümela Manastırı",
+        "explanation": "Sümela Manastırı, Trabzon'da bulunan önemli bir Rum Ortodoks manastırıdır, Yedi Uyurlar ile ilişkili değildir."
+      },
+      {
+        "id": "B",
+        "text": "Efes",
+        "explanation": "Efes, Meryem Ana Evi ve Vahiy'deki Yedi Kiliseler'den biri olmasına rağmen, Yedi Uyurlar (Eshab-ı Kehf) anlatısıyla da ilişkilendirilen yerlerden biridir."
+      },
+      {
+        "id": "C",
+        "text": "Balıklıgöl",
+        "explanation": "Balıklıgöl, Şanlıurfa'da Hz. İbrahim geleneğiyle bilinen bir İslam merkezidir, Yedi Uyurlar ile ilişkili değildir."
+      },
+      {
+        "id": "D",
+        "text": "Sardes Sinagogu",
+        "explanation": "Sardes Sinagogu, Manisa'da bulunan antik bir Yahudi ibadethanesidir, Yedi Uyurlar ile ilişkili değildir."
+      },
+      {
+        "id": "E",
+        "text": "Mor Gabriel Manastırı",
+        "explanation": "Mor Gabriel Manastırı, Mardin'de bulunan önemli bir Süryani manastırıdır, Yedi Uyurlar ile ilişkili değildir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Yedi Uyurlar anlatısının birden fazla şehirle ilişkilendirilmesi ve diğer önemli inanç merkezleriyle karıştırma."
+  },
+  {
+    "id": "dinler-tarihi-048",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Dinlerin Sınıflandırılması",
+    "difficulty": 1,
+    "stem": "Yahudilik, Hristiyanlık ve İslam aşağıdaki din sınıflandırmalarından hangisine örnektir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Beşerî dinler",
+        "explanation": "Beşerî dinler insan kaynaklı dinlerdir (örn. Budizm), vahye dayalı değildir."
+      },
+      {
+        "id": "B",
+        "text": "Politeist dinler",
+        "explanation": "Politeist dinler çok tanrılı dinlerdir, bu üç din tek tanrılıdır."
+      },
+      {
+        "id": "C",
+        "text": "İlahi (vahye dayalı / semavi) dinler",
+        "explanation": "Yahudilik, Hristiyanlık ve İslam kutsal kitapları ve peygamberleri aracılığıyla vahye dayalı kabul edilen ilahi dinlerdir."
+      },
+      {
+        "id": "D",
+        "text": "Düalist dinler",
+        "explanation": "Düalist dinler iki zıt güce inanan dinlerdir (örn. Zerdüştlük), bu üç din bu kategoriye girmez."
+      },
+      {
+        "id": "E",
+        "text": "Henoteist dinler",
+        "explanation": "Henoteist dinler birçok tanrı içinde birini üstün tutan dinlerdir, bu üç din tek tanrılıdır."
+      }
+    ],
+    "correct": "C",
+    "trick": "Dinlerin farklı sınıflandırma kategorileriyle karıştırma."
+  },
+  {
+    "id": "dinler-tarihi-049",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Erken İnanç Biçimleri",
+    "difficulty": 2,
+    "stem": "Doğada bulunan cansız nesnelerin ve bazı hayvanların kutsal bir güce sahip olduğuna inanma ve bu nesneleri kutsal kabul etme şeklinde tanımlanan ilkel inanç biçimi aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Totemizm",
+        "explanation": "Totemizm, bir klanın kendisini kutsal bir hayvan veya bitkiyle özdeşleştirmesidir, cansız nesnelerle ilgili değildir."
+      },
+      {
+        "id": "B",
+        "text": "Animizm",
+        "explanation": "Animizm, doğadaki her varlığın ruhu olduğuna inanma durumudur, cansız nesnelere kutsal güç atfetme değildir."
+      },
+      {
+        "id": "C",
+        "text": "Natürizm",
+        "explanation": "Natürizm, doğa güçlerine (güneş, ay, fırtına) tapınmadır, nesnelere güç atfetme değildir."
+      },
+      {
+        "id": "D",
+        "text": "Fetişizm",
+        "explanation": "Fetişizm, nesnelere olağanüstü güç atfetme inancıdır."
+      },
+      {
+        "id": "E",
+        "text": "Şamanizm",
+        "explanation": "Şamanizm, ruhlarla iletişim kurabilen şaman aracılığıyla yapılan uygulamalar bütünüdür, bir inanç biçiminden ziyade bir uygulama sistemidir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Animizm ile karıştırılabilir, ancak animizm ruh inancına odaklanırken, fetişizm nesnelerin gücüne odaklanır."
+  },
+  {
+    "id": "dinler-tarihi-050",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Hint ve Uzakdoğu Dinleri",
+    "difficulty": 3,
+    "stem": "Hinduizm ve Budizm arasındaki temel farklardan biri, toplumsal yapıya yaklaşımlarıdır. Aşağıdakilerden hangisi bu iki dinin toplumsal yapıya bakış açılarındaki en belirgin farkı doğru bir şekilde ifade etmektedir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Hinduizm'de reenkarnasyon inancı varken, Budizm bu inancı reddeder.",
+        "explanation": "Hem Hinduizm hem de Budizm'de reenkarnasyon (ruh göçü) inancı vardır."
+      },
+      {
+        "id": "B",
+        "text": "Budizm, kast sistemini benimserken, Hinduizm buna karşı çıkar.",
+        "explanation": "Bu ifade yanlıştır; Hinduizm kast sistemini benimserken, Budizm kast sistemini reddeder."
+      },
+      {
+        "id": "C",
+        "text": "Hinduizm'de çok tanrıcılık ön plandayken, Budizm tek tanrılı bir dindir.",
+        "explanation": "Budizm'de tanrı inancı merkezi değildir ve beşerî din olarak kabul edilir; tek tanrılı bir din değildir."
+      },
+      {
+        "id": "D",
+        "text": "Budizm, Nirvana'ya ulaşmayı hedeflerken, Hinduizm'in amacı Moksha'dır.",
+        "explanation": "Nirvana Budizm'in, Moksha ise Hinduizm'in döngüden kurtuluş hedefleridir, ancak bu toplumsal yapıya bakış açısındaki farkı değil, kurtuluş kavramındaki farkı gösterir."
+      },
+      {
+        "id": "E",
+        "text": "Hinduizm kast sistemine sahipken, Budizm kast sistemini reddeder.",
+        "explanation": "Hinduizm'in kast sistemi ile Budizm'in bu sistemi reddetmesi, iki din arasındaki en önemli toplumsal farklardan biridir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Nirvana/Moksha ayrımı doğru olsa da, soru toplumsal yapıya ilişkin farkı sormaktadır. Kast sistemi, bu bağlamda en belirgin farktır."
+  },
+  {
+    "id": "dinler-tarihi-051",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Yahudilik",
+    "difficulty": 2,
+    "stem": "Aşağıdaki Yahudi bayramlarından hangisi, İsrailoğullarının Mısır'dan çıkışını ve özgürlüğe kavuşmalarını anmak amacıyla kutlanır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Pesah (Hamursuz)",
+        "explanation": "Pesah, İsrailoğullarının Mısır'dan çıkışını anan ve hamursuz ekmek yenilen bayramdır."
+      },
+      {
+        "id": "B",
+        "text": "Yom Kippur",
+        "explanation": "Yom Kippur, kefaret günü olarak bilinen ve oruçla geçirilen kutsal bir gündür."
+      },
+      {
+        "id": "C",
+        "text": "Roş Aşana",
+        "explanation": "Roş Aşana, Yahudi yılbaşıdır."
+      },
+      {
+        "id": "D",
+        "text": "Hanuka",
+        "explanation": "Hanuka, Kudüs Tapınağı'nın yeniden takdisini ve mucizevi bir şekilde yanan yağı anan Işık Bayramı'dır."
+      },
+      {
+        "id": "E",
+        "text": "Sukot",
+        "explanation": "Sukot, çardaklar bayramı olup, çölde geçirilen kırk yıllık dönemi ve hasat zamanını anar."
+      }
+    ],
+    "correct": "A",
+    "trick": "Yahudi bayramlarının isimleri ve anlamları karıştırılabilir. Pesah'ın Mısır'dan Çıkış ile ilişkisi önemlidir."
+  },
+  {
+    "id": "dinler-tarihi-052",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Hristiyanlık",
+    "difficulty": 1,
+    "stem": "Hristiyanlıkta, ekmek ve şarapla gerçekleştirilen ve Hz. İsa'nın çarmıha gerilmeden önceki son yemeğini temsil eden ayin aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vaftiz",
+        "explanation": "Vaftiz, suyla dine giriş ve günahlardan arınma törenidir."
+      },
+      {
+        "id": "B",
+        "text": "Aşai Rabbani (Efkaristiya / Komünyon)",
+        "explanation": "Aşai Rabbani, ekmek ve şarapla yapılan, Hz. İsa'nın son yemeğini anan ayindir."
+      },
+      {
+        "id": "C",
+        "text": "Konfirmasyon",
+        "explanation": "Konfirmasyon, vaftiz sonrası Hristiyan inancını onaylama törenidir."
+      },
+      {
+        "id": "D",
+        "text": "Evlilik",
+        "explanation": "Evlilik, Hristiyanlıkta bir sakrament olsa da, ekmek ve şarap ayini değildir."
+      },
+      {
+        "id": "E",
+        "text": "Günah Çıkarma",
+        "explanation": "Günah çıkarma, Katoliklikte günahların rahip aracılığıyla itiraf edilmesidir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Hristiyanlıktaki farklı sakramentlerin karıştırılması."
+  },
+  {
+    "id": "dinler-tarihi-053",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Hristiyanlık",
+    "difficulty": 2,
+    "stem": "Aşağıdakilerden hangisi, Hristiyanlık tarihinde önemli bir dönüm noktası olan ve Katolik Kilisesi'nden ayrılan Protestanlığın doğuşuna yol açan reform hareketini başlatan kişi ve olayın gerçekleştiği yıl ile doğru eşleştirilmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Aziz Pavlus - 325",
+        "explanation": "Aziz Pavlus, Hristiyanlığın yayılmasında önemli bir figürdür ancak Reform hareketini başlatmamıştır. 325 yılı ise İznik Konsili'nin tarihidir."
+      },
+      {
+        "id": "B",
+        "text": "Hz. İsa - 1054",
+        "explanation": "Hz. İsa, Hristiyanlığın kurucusudur. 1054 yılı ise Katolik ve Ortodoks kiliselerinin ayrılığına (Büyük Ayrılık) işaret eder."
+      },
+      {
+        "id": "C",
+        "text": "Martin Luther - 1517",
+        "explanation": "Martin Luther, 1517'de başlattığı Reform hareketleriyle Protestanlığın doğuşuna öncülük etmiştir."
+      },
+      {
+        "id": "D",
+        "text": "Papa Urban II - 1095",
+        "explanation": "Papa Urban II, Birinci Haçlı Seferi'ni başlatan kişidir. 1095 yılı, Clermont Konsili'nin tarihidir."
+      },
+      {
+        "id": "E",
+        "text": "John Calvin - 1648",
+        "explanation": "John Calvin, Reform hareketinin önemli liderlerinden biridir ancak başlangıç tarihi ve lideri Luther'dir. 1648 yılı ise Otuz Yıl Savaşları'nın sonudur."
+      }
+    ],
+    "correct": "C",
+    "trick": "1054'teki Büyük Ayrılık ile 1517'deki Reform hareketinin karıştırılması."
+  },
+  {
+    "id": "dinler-tarihi-054",
+    "topicId": "dinler-tarihi",
+    "subtopic": "İslam ve Türk-İslam Tasavvufu",
+    "difficulty": 3,
+    "stem": "Anadolu'nun Türkleşmesi ve İslamlaşmasında önemli rol oynayan tasavvufi şahsiyetler ve onların öğretileri bulunmaktadır. Aşağıdaki tasavvufi şahsiyet-önemli öğreti/eser eşleştirmelerinden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Mevlana Celaleddin Rumi - Şeb-i Arus",
+        "explanation": "Şeb-i Arus, Mevlana'nın vuslat gecesi olarak kutlanan önemli bir anmadır, eşleştirme doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "Hacı Bayram-ı Veli - Ankara'nın manevi kimliği",
+        "explanation": "Hacı Bayram-ı Veli, Ankara'nın manevi kimliğiyle özdeşleşmiş bir şahsiyettir, eşleştirme doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Ahi Evran - Ahilik teşkilatının piri",
+        "explanation": "Ahi Evran, esnaf dayanışması ve ahlakını temsil eden Ahilik teşkilatının kurucusudur, eşleştirme doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "Hacı Bektaş-ı Veli - 'Yaratılanı severiz Yaratan'dan ötürü'",
+        "explanation": "Bu söz Yunus Emre'ye aittir. Hacı Bektaş-ı Veli'nin temel düsturu 'Eline, diline, beline sahip ol'dur. Bu eşleştirme yanlıştır."
+      },
+      {
+        "id": "E",
+        "text": "Hoca Ahmet Yesevi - Divan-ı Hikmet",
+        "explanation": "Divan-ı Hikmet, Hoca Ahmet Yesevi'nin hikmetli şiirlerini içeren önemli eseridir, eşleştirme doğrudur."
+      }
+    ],
+    "correct": "D",
+    "trick": "Tasavvuf büyüklerinin özdeşleşmiş sözlerinin ve eserlerinin karıştırılması."
+  },
+  {
+    "id": "dinler-tarihi-055",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Anadolu'nun İnanç Turizmi Haritası",
+    "difficulty": 2,
+    "stem": "Türkiye, inanç turizmi açısından zengin bir coğrafyaya sahiptir. Aşağıdaki şehir ve bu şehirde bulunan önemli inanç turizmi merkezi eşleştirmelerinden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Hatay (Antakya) - St. Pierre Kilisesi",
+        "explanation": "St. Pierre Kilisesi, dünyanın ilk kiliselerinden biri olarak Hatay'da (Antakya) yer almaktadır. Eşleştirme doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "Mersin (Tarsus) - Aziz Pavlus Kuyusu ve Kilisesi",
+        "explanation": "Aziz Pavlus'un doğduğu yer olan Tarsus'ta Aziz Pavlus Kuyusu ve Kilisesi bulunmaktadır. Eşleştirme doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Nevşehir (Hacıbektaş) - Hacı Bektaş-ı Veli Külliyesi",
+        "explanation": "Hacı Bektaş-ı Veli Külliyesi, Nevşehir'in Hacıbektaş ilçesinde yer almaktadır. Eşleştirme doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "İzmir (Selçuk/Efes) - Meryem Ana Evi",
+        "explanation": "Meryem Ana Evi, Efes antik kentinin yakınında, İzmir'in Selçuk ilçesinde yer almaktadır. Eşleştirme doğrudur."
+      },
+      {
+        "id": "E",
+        "text": "Şanlıurfa - Akdamar Kilisesi",
+        "explanation": "Akdamar Kilisesi, Van Gölü üzerindeki Akdamar Adası'nda bulunmaktadır, Şanlıurfa'da değildir. Eşleştirme yanlıştır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Farklı illerdeki önemli inanç merkezlerinin karıştırılması."
+  },
+  {
+    "id": "dinler-tarihi-056",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Din Kavramı ve Erken İnanç Biçimleri",
+    "difficulty": 3,
+    "stem": "Aşağıdaki inanç sistemlerinden hangisi, bir din olarak kabul edilmeyip, ruhlarla iletişim kurabilen kam adı verilen kişiler aracılığıyla gerçekleştirilen bir uygulamalar bütünü olarak tanımlanmaktadır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Şamanizm",
+        "explanation": "Şamanizm, bir din değil, ruhlarla iletişim kurabilen şaman (kam) aracılığıyla yapılan uygulamalar bütünüdür."
+      },
+      {
+        "id": "B",
+        "text": "Animizm",
+        "explanation": "Animizm, doğadaki her varlığın ruhu olduğuna inanılan bir inanç biçimidir."
+      },
+      {
+        "id": "C",
+        "text": "Fetişizm",
+        "explanation": "Fetişizm, nesnelere olağanüstü güç atfetme inancıdır."
+      },
+      {
+        "id": "D",
+        "text": "Totemizm",
+        "explanation": "Totemizm, bir klanın kendisini kutsal bir hayvan veya bitkiyle özdeşleştirmesidir."
+      },
+      {
+        "id": "E",
+        "text": "Natürizm",
+        "explanation": "Natürizm, doğa güçlerine tapınma inancıdır."
+      }
+    ],
+    "correct": "A",
+    "trick": "Şamanizmin bir din mi yoksa bir uygulamalar bütünü mü olduğu ayrımı, sınavda sıkça sorulan bir tuzaktır."
+  },
+  {
+    "id": "dinler-tarihi-057",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Erken İnanç Biçimleri",
+    "difficulty": 2,
+    "stem": "Aşağıdaki inanç biçimlerinden hangisi, doğadaki her varlığın bir ruhu olduğuna inanılması esasına dayanır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Totemizm",
+        "explanation": "Totemizm, bir klanın kendini kutsal bir hayvan veya bitkiyle özdeşleştirmesidir."
+      },
+      {
+        "id": "B",
+        "text": "Animizm",
+        "explanation": "Animizm, doğadaki her varlığın bir ruhu olduğu inancıdır."
+      },
+      {
+        "id": "C",
+        "text": "Fetişizm",
+        "explanation": "Fetişizm, nesnelere olağanüstü güç atfetme inancıdır."
+      },
+      {
+        "id": "D",
+        "text": "Natürizm",
+        "explanation": "Natürizm, doğa güçlerine (güneş, ay, fırtına) tapınmadır."
+      },
+      {
+        "id": "E",
+        "text": "Şamanizm",
+        "explanation": "Şamanizm, ruhlarla iletişim kurabilen şamanlar aracılığıyla yapılan uygulamalar bütünüdür, bir din değil uygulama sistemidir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Farklı erken inanç biçimlerinin tanımlarını karıştırma."
+  },
+  {
+    "id": "dinler-tarihi-058",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Hinduizm ve Budizm",
+    "difficulty": 2,
+    "stem": "Hinduizm ve Budizm arasındaki temel farklardan biri, toplumsal yapıya yaklaşımlarıdır. Buna göre, aşağıdaki ifadelerden hangisi bu iki din arasındaki ayrımı doğru bir şekilde yansıtmaktadır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Hinduizm'de reenkarnasyon inancı bulunurken, Budizm bu inancı reddeder.",
+        "explanation": "Hem Hinduizm hem de Budizm'de reenkarnasyon inancı (doğum-ölüm döngüsü) bulunmaktadır."
+      },
+      {
+        "id": "B",
+        "text": "Budizm, tanrı inancını merkezine alırken, Hinduizm panteist bir yapıya sahiptir.",
+        "explanation": "Budizm'de tanrı inancı merkezî değildir; Hinduizm ise çok tanrılı bir yapıya sahiptir (Trimurti)."
+      },
+      {
+        "id": "C",
+        "text": "Hinduizm'de kast sistemi yaygınken, Budizm bu sistemi reddeder.",
+        "explanation": "Hinduizm'de kast sistemi toplumsal yapının önemli bir parçasıdır; Budizm ise kurucusu Buda tarafından kast sistemine karşı çıkılarak ortaya çıkmıştır."
+      },
+      {
+        "id": "D",
+        "text": "Budizm'de nirvanaya ulaşmak için Vedalar okunurken, Hinduizm'de Sekiz Dilimli Yol takip edilir.",
+        "explanation": "Vedalar Hinduizm'in kutsal metinleridir; Nirvana'ya ulaşmak Budizm'in amacıdır ve Sekiz Dilimli Yol Budizm'e aittir."
+      },
+      {
+        "id": "E",
+        "text": "Hinduizm evrensel bir din iken, Budizm milli bir dindir.",
+        "explanation": "Budizm evrensel (misyoner) bir din iken, Hinduizm milli (kavmî) bir dindir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Hinduizm ve Budizm'in benzerlikleri ve farklılıkları arasındaki ince çizgiyi karıştırma."
+  },
+  {
+    "id": "dinler-tarihi-059",
+    "topicId": "dinler-tarihi",
+    "subtopic": "Hristiyanlık",
+    "difficulty": 3,
+    "stem": "Hristiyanlık tarihi açısından Anadolu, birçok önemli olaya ev sahipliği yapmıştır. Aşağıdaki Hristiyanlık ile ilgili olay ve mekân eşleştirmelerinden hangisi YANLIŞTIR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Hristiyan adının ilk kez kullanılması - Antakya",
+        "explanation": "Hristiyan adı ilk kez Antakya'da kullanılmıştır ve ilk kilise de buradadır."
+      },
+      {
+        "id": "B",
+        "text": "Aziz Pavlus'un doğduğu yer - Tarsus",
+        "explanation": "Aziz Pavlus, Tarsus'ta doğmuştur ve Hristiyanlığı Anadolu ve Avrupa'ya yayan önemli bir misyonerdir."
+      },
+      {
+        "id": "C",
+        "text": "Noel Baba figürünün kaynağı - Demre (Myra)",
+        "explanation": "Aziz Nikolaos (Noel Baba), Demre (Myra) piskoposu olup, çocukları koruyan aziz olarak Noel Baba figürünün kaynağıdır."
+      },
+      {
+        "id": "D",
+        "text": "Büyük Ayrılık (Schisma) ile Ortodoks ve Katolik kiliselerinin kesin ayrılığı - İznik",
+        "explanation": "Büyük Ayrılık (Schisma) 1054 yılında İstanbul ve Roma kiliseleri arasında gerçekleşmiştir, İznik'te ise ilk ekümenik konsil toplanmıştır."
+      },
+      {
+        "id": "E",
+        "text": "Vatikan tarafından hac yeri kabul edilen Meryem Ana Evi - İzmir (Selçuk/Efes)",
+        "explanation": "Meryem Ana Evi, Efes yakınlarında olup Vatikan tarafından hac yeri olarak kabul edilmiştir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Hristiyanlık tarihindeki önemli olayların yer ve zamanlarını karıştırma, özellikle konsiller ve büyük ayrılık gibi kritik dönüm noktalarını."
+  },
+  {
+    "id": "dinler-tarihi-060",
+    "topicId": "dinler-tarihi",
+    "subtopic": "İslam ve Türk-İslam Tasavvufu",
+    "difficulty": 1,
+    "stem": "Anadolu'nun Türkleşmesi ve İslamlaşmasında önemli rol oynayan tasavvuf önderlerinden Hacı Bektaş-ı Veli, hangi ilimizle özdeşleşmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Konya",
+        "explanation": "Konya, Mevlana Celaleddin Rumi ile özdeşleşmiştir."
+      },
+      {
+        "id": "B",
+        "text": "Kırşehir",
+        "explanation": "Kırşehir, Ahi Evran ile özdeşleşmiştir."
+      },
+      {
+        "id": "C",
+        "text": "Ankara",
+        "explanation": "Ankara, Hacı Bayram-ı Veli ile özdeşleşmiştir."
+      },
+      {
+        "id": "D",
+        "text": "Eskişehir",
+        "explanation": "Eskişehir, Yunus Emre ile özdeşleşmiştir."
+      },
+      {
+        "id": "E",
+        "text": "Nevşehir",
+        "explanation": "Hacı Bektaş-ı Veli, Nevşehir'in Hacıbektaş ilçesi ile özdeşleşmiştir ve Bektaşilik geleneğinin piri olarak kabul edilir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Anadolu'daki tasavvuf önderlerinin ve eserlerinin coğrafi konumlarını karıştırma."
   }
 ]

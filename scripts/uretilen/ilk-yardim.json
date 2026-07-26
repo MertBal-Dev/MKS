@@ -1,0 +1,722 @@
+[
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 2,
+    "stem": "İlk yardımın temel uygulamalarından olan 'Bildirme' aşamasında 112 Acil Çağrı Merkezi'ne telefon edildiğinde, hattı kapatma yetkisi kime aittir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "112 Acil Çağrı Merkezi görevlisi",
+        "explanation": "112 Acil Çağrı Merkezi'ne yapılan aramalarda, telefonu kapatma yetkisi yalnızca çağrı merkezi görevlisine aittir. Bu, gerekli tüm bilgilerin eksiksiz alındığından emin olmak içindir."
+      },
+      {
+        "id": "B",
+        "text": "Olay yerindeki en yetkili kişi",
+        "explanation": "Olay yerindeki en yetkili kişinin hattı kapatma yetkisi yoktur, sadece bilgi aktarımında bulunulur."
+      },
+      {
+        "id": "C",
+        "text": "İlk yardım uygulamasını yapan kişi",
+        "explanation": "İlk yardım uygulamalarını yapan kişi, gerekli bilgileri aktardıktan sonra hattı kapatma yetkisine sahip değildir."
+      },
+      {
+        "id": "D",
+        "text": "Hasta veya yaralının en yakını",
+        "explanation": "Hasta veya yaralının yakını, ilk yardım sürecinde bilgi sağlayabilir ancak hattı kapatma yetkisi yoktur."
+      },
+      {
+        "id": "E",
+        "text": "Olay yerinde bulunan güvenlik görevlisi",
+        "explanation": "Güvenlik görevlisi olaya müdahale edebilir veya bilgi sağlayabilir ancak hattı kapatma yetkisi yoktur."
+      }
+    ],
+    "correct": "A",
+    "trick": "Telefonu kimin kapatacağı sorusu, ilk yardımcının değil, çağrı merkezi görevlisinin yetkisinde olduğu detayıyla karıştırılabilir.",
+    "id": "ilk-yardim-041",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 1,
+    "stem": "Aşağıdakilerden hangisi, Temel Yaşam Desteği (TYD) sırasında bebeklerde (0-12 ay) kalp masajı bası derinliği için doğru bilgidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "2 cm",
+        "explanation": "Bebeklerde kalp masajı bası derinliği 2 cm değil, 4 cm'dir."
+      },
+      {
+        "id": "B",
+        "text": "4 cm",
+        "explanation": "Bebeklerde (0-12 ay) kalp masajı bası derinliği 4 cm olarak belirlenmiştir."
+      },
+      {
+        "id": "C",
+        "text": "3 cm",
+        "explanation": "Bebeklerde kalp masajı bası derinliği 3 cm değil, 4 cm'dir."
+      },
+      {
+        "id": "D",
+        "text": "5 cm",
+        "explanation": "5 cm bası derinliği yetişkinler ve çocuklarda (1-8 yaş) uygulanır, bebeklerde değil."
+      },
+      {
+        "id": "E",
+        "text": "6 cm",
+        "explanation": "6 cm bası derinliği uluslararası kılavuzlarda yetişkinler için üst sınır olarak belirtilse de, Türkiye'deki resmi standartlarda bebekler için geçerli değildir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Farklı yaş grupları için bası derinliklerinin karıştırılması yaygın bir yanılgıdır.",
+    "id": "ilk-yardim-042",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 2,
+    "stem": "Aşağıdakilerden hangisi, hasta/yaralının değerlendirilmesinde kullanılan 'ABC' kuralının 'C' harfi ile ifade edilen durumu doğru tanımlamaktadır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Bilinç kontrolü",
+        "explanation": "Bilinç kontrolü, hasta/yaralı değerlendirmesinin ilk adımlarından biridir ancak 'ABC' kuralının 'C' harfiyle ilişkili değildir."
+      },
+      {
+        "id": "B",
+        "text": "Hava yolu açıklığı",
+        "explanation": "Hava yolu açıklığı, 'ABC' kuralının 'A' (Airway) harfi ile ifade edilir."
+      },
+      {
+        "id": "C",
+        "text": "Dolaşım ve kanama kontrolü",
+        "explanation": "'ABC' kuralının 'C' (Circulation) harfi dolaşım ve kanama kontrolünü ifade eder, yani kan dolaşımının sağlanıp sağlanmadığı ve ciddi bir kanamanın olup olmadığına bakılır."
+      },
+      {
+        "id": "D",
+        "text": "Solunum varlığı",
+        "explanation": "Solunum varlığı, 'ABC' kuralının 'B' (Breathing) harfi ile ifade edilir."
+      },
+      {
+        "id": "E",
+        "text": "Vücut ısısı kontrolü",
+        "explanation": "Vücut ısısı kontrolü, hasta/yaralı değerlendirmesinde önemli olsa da 'ABC' kuralının doğrudan bir parçası değildir."
+      }
+    ],
+    "correct": "C",
+    "trick": "'ABC' harflerinin anlamlarının karıştırılması veya 'C' harfinin 'Consciousness' (bilinç) ile ilişkilendirilmesi yanıltıcı olabilir.",
+    "id": "ilk-yardim-043",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 3,
+    "stem": "Turnike uygulamasıyla ilgili aşağıdakilerden hangisi YANLIŞTIR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Sadece kol ve uyluk bölgesine uygulanmalıdır.",
+        "explanation": "Turnike, tek kemikli bölgeler olan kol ve uyluğa uygulanır, bu ifade doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "Uygulama saati mutlaka kaydedilmeli ve hastanın görünür bir yerine not edilmelidir.",
+        "explanation": "Turnike uygulamasının saatinin kaydedilmesi, doku hasarını önlemek için kritik bir kuraldır, bu ifade doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Tel, ip gibi ince malzemeler yerine en az 5 cm genişliğinde bez kullanılmalıdır.",
+        "explanation": "İnce malzemeler dokuya zarar verebileceği için geniş bez kullanılması gerektiği ifadesi doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "En geç 20 dakikada bir gevşetilerek kan akışı sağlanmalıdır.",
+        "explanation": "Turnike, doku nekrozunu önlemek için sağlık ekibi gelene kadar gevşetilmez. Bu ifade yanlıştır."
+      },
+      {
+        "id": "E",
+        "text": "Yalnızca uzuv kopması veya durdurulamayan hayati kanamalarda son çare olarak düşünülmelidir.",
+        "explanation": "Turnike, diğer kanama durdurma yöntemleri başarısız olduğunda veya uzuv kopması gibi durumlarda uygulanan son çare bir yöntemdir, bu ifade doğrudur."
+      }
+    ],
+    "correct": "D",
+    "trick": "Turnikenin gevşetilmesi konusu, halk arasında yanlış bilinen bir uygulamadır. Turnike sağlık ekibi gelene kadar gevşetilmez, bu durum sınavda çeldirici olarak kullanılabilir.",
+    "id": "ilk-yardim-044",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 2,
+    "stem": "Aşağıdaki acil durum ve ilk yardım uygulaması eşleştirmelerinden hangisi YANLIŞTIR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kısmi hava yolu tıkanıklığı - Kişiyi öksürmeye teşvik etme",
+        "explanation": "Kısmi tıkanıklıkta kişi öksürebiliyor ve konuşabiliyorsa müdahale edilmez, öksürmeye teşvik edilir. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "Bilinç kapalı, solunum var - Koma pozisyonu verme",
+        "explanation": "Bilinci kapalı ancak solunumu olan hastalarda hava yolunun açık kalmasını sağlamak için koma (yarı yüzükoyun yan) pozisyonu verilir. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Saplanmış cisim - Cismi çıkarmadan etrafını sabitleme",
+        "explanation": "Vücuda saplanmış cisimler çıkarılmaz, hareketini engellemek ve daha fazla zarar vermesini önlemek için etrafı sabitlenir. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "Yanık - Yanan bölgeyi en az 20 dakika soğuk su altında tutma",
+        "explanation": "Yanıkta ilk müdahale olarak yanan bölgenin uzun süre soğuk su altında tutulması doğru bir uygulamadır. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "E",
+        "text": "Atardamar kanaması - Kanamayı kalp seviyesinin altında tutma",
+        "explanation": "Atardamar kanamasında veya herhangi bir dış kanamada, kanayan bölge kalp seviyesinin ÜSTÜNE kaldırılmalıdır. Kalp seviyesinin altında tutmak kanamayı artırır. Bu eşleştirme yanlıştır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Kanayan bölgenin kalp seviyesinin altında veya üstünde tutulması kuralı, özellikle atardamar kanaması gibi acil durumlarda karıştırılabilir.",
+    "id": "ilk-yardim-045",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 3,
+    "stem": "Bir tur rehberi, turist grubundaki bir kişinin yemek sırasında aniden nefes almakta zorlandığını, öksüremeyip elleriyle boğazını tuttuğunu fark etmiştir. Bu durumda rehberin öncelikli olarak uygulaması gereken ilk yardım yöntemi aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Heimlich manevrasını uygulamak",
+        "explanation": "Kişinin öksürememesi, konuşamaması ve boğazını tutması tam tıkanıklık belirtileridir. Bu durumda derhal Heimlich manevrası uygulanmalıdır."
+      },
+      {
+        "id": "B",
+        "text": "Kişiyi öksürmeye teşvik ederek su vermeye çalışmak",
+        "explanation": "Kişi öksüremediği için bu durum tam tıkanıklık belirtisidir ve su vermek durumu kötüleştirebilir. Öksürmeye teşvik etmek kısmi tıkanıklıkta uygulanır."
+      },
+      {
+        "id": "C",
+        "text": "Sırtına kuvvetli bir şekilde 5 kez vurmak",
+        "explanation": "Sırtına vurmak kısmi tıkanıklıkta cismi daha derine itebilir ve tam tıkanıklıkta tek başına yeterli değildir; ayrıca Heimlich manevrasından önce denenmez."
+      },
+      {
+        "id": "D",
+        "text": "Kişiyi yere yatırıp Temel Yaşam Desteği'ne başlamak",
+        "explanation": "Kişinin bilinci açık olduğu sürece TYD'ye başlanmaz. TYD, bilinci kaybolan ve solunumu duran kişiler için geçerlidir."
+      },
+      {
+        "id": "E",
+        "text": "Acilen 112'yi arayarak ambulans beklemek",
+        "explanation": "112'yi aramak önemli olsa da, tam tıkanıklık gibi hayati tehlike arz eden durumlarda ilk yardımcı, ambulans gelene kadar vakit kaybetmeden Heimlich manevrası gibi hayat kurtarıcı müdahaleyi yapmalıdır."
+      }
+    ],
+    "correct": "A",
+    "trick": "Tam tıkanıklık ile kısmi tıkanıklık arasındaki farkı gözden kaçırmak veya Heimlich manevrası yerine yanlış bir uygulama seçmek bu sorudaki tuzaktır.",
+    "id": "ilk-yardim-046",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 2,
+    "stem": "İlk yardımcının temel özelliklerinden biri olarak, kesin olarak bilmediği bir uygulamayı yapmaması gerektiği belirtilmiştir. Bu kuralın temel amacı aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kendi yasal sorumluluğunu azaltmak",
+        "explanation": "Yasal sorumluluk önemli olsa da, bu kuralın birincil amacı hasta/yaralının zarar görmesini engellemektir."
+      },
+      {
+        "id": "B",
+        "text": "Hasta/yaralının durumunun kötüleşmesini engellemek",
+        "explanation": "Kesin olarak bilmediği bir uygulamayı yapmamak, yanlış müdahale ile hasta/yaralının durumunu daha da kötüleştirmeyi önleyerek ilk yardımın temel amaçlarından biri olan 'kötüleşmeyi önlemek' ilkesine hizmet eder."
+      },
+      {
+        "id": "C",
+        "text": "Acil sağlık ekiplerinin işini kolaylaştırmak",
+        "explanation": "Acil sağlık ekiplerinin işini kolaylaştırmak dolaylı bir sonuç olsa da, asıl amaç değildir."
+      },
+      {
+        "id": "D",
+        "text": "Olay yerinde gereksiz kalabalığı önlemek",
+        "explanation": "Bu, olay yeri değerlendirmesinin bir parçasıdır ve bilmediği uygulamayı yapmama kuralıyla doğrudan ilgili değildir."
+      },
+      {
+        "id": "E",
+        "text": "Mevcut araç-gereçleri doğru kullanmak",
+        "explanation": "Mevcut araç-gereçleri doğru kullanmak ilk yardımcının özelliklerinden biridir ancak bilmediği uygulamayı yapmama kuralının doğrudan amacı değildir."
+      }
+    ],
+    "correct": "B",
+    "trick": "İlk yardımcının sorumlulukları veya yasal konularla ilgili çeldiricilerle karıştırılabilir, ancak temel amaç hasta/yaralının iyiliğidir.",
+    "id": "ilk-yardim-047",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 1,
+    "stem": "Şok pozisyonu verilen bir hastada ayakların yaklaşık 30 cm yukarı kaldırılmasının temel amacı aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Bilinç durumunu kontrol etmek",
+        "explanation": "Ayakların yükseltilmesi bilinç durumu kontrolü için değil, kan dolaşımını desteklemek içindir."
+      },
+      {
+        "id": "B",
+        "text": "Solunumu kolaylaştırmak",
+        "explanation": "Ayakların yükseltilmesi solunumu doğrudan kolaylaştırmaz, bu pozisyon dolaşım içindir."
+      },
+      {
+        "id": "C",
+        "text": "Beyne kan akışını artırmak",
+        "explanation": "Ayakların yaklaşık 30 cm yukarı kaldırılması, vücuttaki kanın yer çekimi etkisiyle kalbe ve oradan da beyne daha kolay ulaşmasını sağlayarak beyne kan akışını artırır ve şokun etkilerini azaltmaya yardımcı olur."
+      },
+      {
+        "id": "D",
+        "text": "Yaralının rahat etmesini sağlamak",
+        "explanation": "Rahatlık ikincil bir etkidir; asıl amaç fizyolojik bir fayda sağlamaktır."
+      },
+      {
+        "id": "E",
+        "text": "Kusmayı önlemek",
+        "explanation": "Kusmayı önlemek için koma pozisyonu gibi farklı pozisyonlar kullanılır, şok pozisyonunun doğrudan amacı değildir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Şok pozisyonu ile koma pozisyonunun amaçlarının karıştırılması veya ayak yükseltmenin sadece 'rahatlık' için olduğu yanılgısı tuzağı oluşturabilir.",
+    "id": "ilk-yardim-048",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 2,
+    "stem": "İlk yardımın temel uygulamalarından olan 'Bildirme' aşamasında 112 Acil Çağrı Merkezi'ne telefon edildiğinde, hattın ne zaman kapatılması gerektiği konusunda doğru yaklaşım aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "İlk yardımcı tüm bilgileri verdikten hemen sonra telefonu kapatmalıdır.",
+        "explanation": "Telefonu ilk yardımcı değil, 112 Acil Çağrı Merkezi görevlisi kapatmalıdır. İlk yardımcı bilgileri eksiksiz vermeli ve görevlinin sorularını yanıtlamalıdır."
+      },
+      {
+        "id": "B",
+        "text": "Olay yerindeki en yetkili kişi telefon konuşmasını bitirince kapatmalıdır.",
+        "explanation": "Telefonu kapatma yetkisi, olay yerindeki yetkiliye değil, 112 Acil Çağrı Merkezi görevlisine aittir."
+      },
+      {
+        "id": "C",
+        "text": "Hasta/yaralının durumu stabil hale geldikten sonra kapatılmalıdır.",
+        "explanation": "Hasta/yaralının durumu telefonun kapatılması için bir kriter değildir. Telefonun kapatılması kararı 112 görevlisine aittir."
+      },
+      {
+        "id": "D",
+        "text": "112 görevlisi, gerekli tüm bilgileri aldığını teyit ettikten sonra kapatmalıdır.",
+        "explanation": "Doğru yaklaşım budur. 112 görevlisi, tüm bilgileri aldığını ve başka soru sormayacağını belirttiğinde telefon kapatılmalıdır."
+      },
+      {
+        "id": "E",
+        "text": "Sağlık ekipleri olay yerine ulaştığında kapatılmalıdır.",
+        "explanation": "Sağlık ekipleri olay yerine ulaşana kadar telefonun açık kalması gerekmez. 112 görevlisi uygun zamanda kapatacaktır."
+      }
+    ],
+    "correct": "D",
+    "trick": "Telefonu kimin kapatacağı konusunda yapılan yaygın hata, ilk yardımcının bilgileri verdikten sonra kapatmasıdır. Oysa kural, görevlinin kapatmasıdır.",
+    "id": "ilk-yardim-049",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 1,
+    "stem": "Hasta/yaralının hava yolu açıklığını sağlamak amacıyla uygulanan 'Baş geri-çene yukarı' pozisyonunda temel amaç aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Beyne giden kan akışını hızlandırmak.",
+        "explanation": "Bu pozisyonun amacı beyne giden kan akışını hızlandırmak değil, hava yolunu açmaktır."
+      },
+      {
+        "id": "B",
+        "text": "Solunum kaslarını rahatlatmak.",
+        "explanation": "Pozisyonun birincil amacı solunum kaslarını rahatlatmak değil, fiziksel bir engeli ortadan kaldırmaktır."
+      },
+      {
+        "id": "C",
+        "text": "Kusmayı kolaylaştırmak.",
+        "explanation": "Bu pozisyonun amacı kusmayı kolaylaştırmak değil, hava yolunu açık tutmaktır. Kusma riski olan bilinçsiz kişilerde koma pozisyonu tercih edilir."
+      },
+      {
+        "id": "D",
+        "text": "Vücut ısısını dengelemek.",
+        "explanation": "Bu pozisyonun vücut ısısını dengelemekle doğrudan bir ilgisi yoktur."
+      },
+      {
+        "id": "E",
+        "text": "Dilin geriye kaçarak hava yolunu tıkamasını önlemek.",
+        "explanation": "Doğru cevap budur. Baş geri-çene yukarı pozisyonu, bilinçsiz kişilerde dilin geriye düşerek hava yolunu kapatmasını engeller."
+      }
+    ],
+    "correct": "E",
+    "trick": "Hava yolu açma pozisyonunun neden yapıldığına dair yanlış çıkarımlar çeldirici olabilir. Temel amaç dilin hava yolunu tıkamasını engellemektir.",
+    "id": "ilk-yardim-050",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 3,
+    "stem": "Aşağıdaki hasta/yaralı yaş gruplarından hangisine uygulanan kalp masajı bası derinliği diğerlerinden farklıdır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Bebek (0-12 ay)",
+        "explanation": "Bebeklerde (0-12 ay) bası derinliği 4 cm'dir ve diğer yaş gruplarından farklıdır."
+      },
+      {
+        "id": "B",
+        "text": "Yetişkin",
+        "explanation": "Yetişkinlerde bası derinliği 5 cm'dir."
+      },
+      {
+        "id": "C",
+        "text": "Çocuk (1-8 yaş)",
+        "explanation": "Çocuklarda (1-8 yaş) bası derinliği 5 cm'dir."
+      },
+      {
+        "id": "D",
+        "text": "Ergen (9-15 yaş)",
+        "explanation": "Ergenler genel olarak yetişkin kategorisinde değerlendirilir ve bası derinliği 5 cm'dir."
+      },
+      {
+        "id": "E",
+        "text": "Genç yetişkin (16-25 yaş)",
+        "explanation": "Genç yetişkinler yetişkin kategorisinde değerlendirilir ve bası derinliği 5 cm'dir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Çocuk ve yetişkin bası derinliklerinin aynı (5 cm) olması, bebek bası derinliğinin (4 cm) farklı olmasını gözden kaçırmaya neden olabilir.",
+    "id": "ilk-yardim-051",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 2,
+    "stem": "Tam tıkanıklık yaşayan bir yetişkine Heimlich manevrası uygulanırken, bilincini kaybetmesi durumunda ilk yardımcının yapması gereken ilk eylem aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Manevraya daha güçlü bir şekilde devam etmek.",
+        "explanation": "Bilinç kaybolduğunda Heimlich manevrasına devam edilmez, kişi yere yatırılır ve temel yaşam desteğine başlanır."
+      },
+      {
+        "id": "B",
+        "text": "Hemen 112 Acil Çağrı Merkezi'ni aramak ve temel yaşam desteğine başlamak.",
+        "explanation": "Doğru cevap budur. Bilinç kaybı durumunda kişi yere yatırılır, 112 aranır ve temel yaşam desteği (kalp masajı ve suni solunum) başlatılır."
+      },
+      {
+        "id": "C",
+        "text": "Kişiyi derhal yan çevirerek kusmasını sağlamak.",
+        "explanation": "Bilinç kapalıyken yan çevirme, hava yolunun açılması için yeterli değildir ve öncelik değildir. Kişi yere yatırılır."
+      },
+      {
+        "id": "D",
+        "text": "Ağzını kontrol ederek cismi çıkarmaya çalışmak.",
+        "explanation": "Ağza kör parmakla girmek, cismi daha derine itme riski taşır ve önerilmez. Sadece görünür bir cisim varsa dikkatlice çıkarılır."
+      },
+      {
+        "id": "E",
+        "text": "Kişiyi rahat bir pozisyona getirmek ve beklemek.",
+        "explanation": "Bilinç kaybı acil bir durumdur ve beklemek yerine derhal tıbbi yardım çağrılmalı ve temel yaşam desteği uygulanmalıdır."
+      }
+    ],
+    "correct": "B",
+    "trick": "Tam tıkanıklıkta bilincin kapanması sonrası yapılması gereken eylemlerin sırası karıştırılabilir. 112'yi arama ve TYD'ye başlama önceliklidir.",
+    "id": "ilk-yardim-052",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 3,
+    "stem": "Aşağıdaki kanama türlerinden hangisi, rengi 'koyu kırmızı' olması ve 'sızarak' akması ile karakterize edilir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Atardamar kanaması",
+        "explanation": "Atardamar kanaması açık kırmızı renkte ve fışkırır şekildedir."
+      },
+      {
+        "id": "B",
+        "text": "Kılcal damar kanaması",
+        "explanation": "Kılcal damar kanaması yüzeyel ve sızıntı şeklindedir, ancak rengi genellikle açık kırmızıya yakındır ve belirgin bir 'koyu kırmızı' tanımı yoktur."
+      },
+      {
+        "id": "C",
+        "text": "Toplardamar kanaması",
+        "explanation": "Doğru cevap budur. Toplardamar kanaması koyu kırmızı renkte ve sızarak akar."
+      },
+      {
+        "id": "D",
+        "text": "İç kanama",
+        "explanation": "İç kanama vücut içinde olduğu için dışarıdan rengi veya akış şekli gözlemlenemez."
+      },
+      {
+        "id": "E",
+        "text": "Burun kanaması",
+        "explanation": "Burun kanaması genellikle kılcal veya küçük damarlardan gelir, rengi ve akış şekli toplardamar kanamasına özgü değildir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Kanama türlerinin renk ve akış özellikleri birbirine karıştırılabilir. Özellikle kılcal damar kanaması ile toplardamar kanaması arasındaki farklar çeldirici olabilir.",
+    "id": "ilk-yardim-053",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 2,
+    "stem": "Şok durumundaki bir hastaya ilk yardım uygulamalarından biri olan şok pozisyonu verilirken, ayaklar yerden kaç cm yukarı kaldırılmalıdır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "15 cm",
+        "explanation": "15 cm şok pozisyonu için yeterli bir yükseklik değildir."
+      },
+      {
+        "id": "B",
+        "text": "20 cm",
+        "explanation": "20 cm şok pozisyonu için yeterli bir yükseklik değildir."
+      },
+      {
+        "id": "C",
+        "text": "45 cm",
+        "explanation": "45 cm gereğinden fazla bir yükseklik olup, hastaya rahatsızlık verebilir veya pozisyonun sürdürülmesini zorlaştırabilir."
+      },
+      {
+        "id": "D",
+        "text": "30 cm",
+        "explanation": "Doğru cevap budur. Şok pozisyonunda ayaklar 30 cm yukarı kaldırılmalıdır."
+      },
+      {
+        "id": "E",
+        "text": "Ayaklar yerden kaldırılmamalıdır.",
+        "explanation": "Bu bilgi yanlıştır, şok pozisyonunun temel unsurlarından biri ayakların yükseltilmesidir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Şok pozisyonunun diğer unsurları (sırtüstü yatırma, üzeri örtme) bilinse de, ayakların yükseltilmesi gereken spesifik mesafe unutulabilir veya yanlış tahmin edilebilir.",
+    "id": "ilk-yardim-054",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 1,
+    "stem": "Aşağıdakilerden hangisi bir turist rehberinin ilk yardım çantasında bulunması GEREKEN malzemelerden biri DEĞİLDİR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Steril gazlı bez",
+        "explanation": "Steril gazlı bez, ilk yardım çantasında bulunması gereken temel malzemelerdendir."
+      },
+      {
+        "id": "B",
+        "text": "Sargı bezi",
+        "explanation": "Sargı bezi, ilk yardım çantasında bulunması gereken temel malzemelerdendir."
+      },
+      {
+        "id": "C",
+        "text": "Çengelli iğne",
+        "explanation": "Çengelli iğne, sargıları sabitlemek gibi amaçlarla ilk yardım çantasında bulunması gereken bir malzemedir."
+      },
+      {
+        "id": "D",
+        "text": "Antiseptik solüsyon",
+        "explanation": "Antiseptik solüsyon, yara temizliği için ilk yardım çantasında bulunması gereken bir malzemedir."
+      },
+      {
+        "id": "E",
+        "text": "Ağrı kesici tablet",
+        "explanation": "Doğru cevap budur. İlk yardım çantasında ilaç bulunmaz. İlaç vermek ilk yardım değil, acil tedavi kapsamındadır."
+      }
+    ],
+    "correct": "E",
+    "trick": "İlk yardımın 'ilaçsız' olması kuralı gözden kaçırılabilir ve ağrı kesici gibi yaygın kullanılan bir ilacın çantada bulunması gerektiği düşünülebilir.",
+    "id": "ilk-yardim-055",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 2,
+    "stem": "Türkiye'nin sağlık turizmi alanında sahip olduğu avantajlardan biri olarak, jeotermal kaynak zenginliği açısından Avrupa ve dünya sıralamasındaki yeri aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Avrupa'da ilk sıralarda, dünyada ilk yedi içinde.",
+        "explanation": "Doğru cevap budur. Türkiye jeotermal kaynak zenginliğinde Avrupa'da ilk sıralarda, dünyada ise ilk yedi içindedir."
+      },
+      {
+        "id": "B",
+        "text": "Avrupa'da ilk üçte, dünyada ilk beşte.",
+        "explanation": "Türkiye'nin jeotermal kaynaklardaki yeri bu sıralamadan daha yüksektir."
+      },
+      {
+        "id": "C",
+        "text": "Avrupa'da ilk beşte, dünyada ilk on beşte.",
+        "explanation": "Türkiye'nin jeotermal kaynaklardaki yeri bu sıralamadan daha yüksektir."
+      },
+      {
+        "id": "D",
+        "text": "Avrupa'da ilk on beş içinde, dünyada ilk yirmide.",
+        "explanation": "Türkiye'nin jeotermal kaynaklardaki yeri bu sıralamadan daha yüksektir."
+      },
+      {
+        "id": "E",
+        "text": "Avrupa'da ilk yirmide, dünyada ilk yirmibeşte.",
+        "explanation": "Türkiye'nin jeotermal kaynaklardaki yeri bu sıralamadan daha yüksektir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Türkiye'nin jeotermal kaynak zenginliğinin derecesi ve sıralaması, spesifik bir bilgi olduğu için karıştırılabilir veya yanlış hatırlanabilir.",
+    "id": "ilk-yardim-056",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 2,
+    "stem": "Aşağıdakilerden hangisi, ilk yardımın temel uygulamalarından olan 'Bildirme' aşamasında 112'ye iletilmesi gereken bilgiler arasında yer almaz?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Olayın kesin adresi ve bilinen bir nokta",
+        "explanation": "Olayın kesin adresi ve bilinen bir nokta, 112'ye bildirilmesi gereken temel bilgilerden biridir."
+      },
+      {
+        "id": "B",
+        "text": "Hasta/yaralının sigorta bilgileri ve pasaport numarası",
+        "explanation": "Hasta/yaralının sigorta bilgileri ve pasaport numarası, rehberin acentaya ve sağlık kuruluşuna iletmesi gereken bilgilerdir ancak 112'ye bildirme aşamasında öncelikli değildir. Bu bilgiler genellikle sağlık ekibi olay yerine ulaştıktan sonra veya hastaneye ulaştırıldığında gereklidir."
+      },
+      {
+        "id": "C",
+        "text": "Arayanın kimliği ve telefon numarası",
+        "explanation": "Arayanın kimliği ve telefon numarası, 112'ye bildirilmesi gereken önemli bilgilerdendir."
+      },
+      {
+        "id": "D",
+        "text": "Olayın ne olduğu (kaza, düşme, yangın vb.)",
+        "explanation": "Olayın niteliği (kaza, düşme, yangın vb.), 112'ye durumun ciddiyetini ve türünü bildirmek için önemlidir."
+      },
+      {
+        "id": "E",
+        "text": "Hasta/yaralı sayısı ve genel durumu",
+        "explanation": "Hasta/yaralı sayısı ve genel durumu, 112'nin göndereceği ekibin büyüklüğünü ve hazırlığını belirlemek için kritik bir bilgidir."
+      }
+    ],
+    "correct": "B",
+    "trick": "112'ye bildirilecek bilgiler listesinde sigorta/pasaport bilgileri yer almaz; bu rehberin acentaya ve hastaneye bildireceği bir detaydır.",
+    "id": "ilk-yardim-057",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 3,
+    "stem": "Bilinç kontrolü yapılan bir hastanın omuzlarına hafifçe dokunularak 'İyi misiniz?' diye sorulduğunda yanıt alınamıyorsa ve boyun/omurga yaralanması şüphesi bulunuyorsa, hava yolu açıklığını sağlamak için hangi yöntem uygulanmalıdır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Baş geri-çene yukarı pozisyonu",
+        "explanation": "Baş geri-çene yukarı pozisyonu, dilin hava yolunu tıkamasını önlemek için standart bir yöntemdir ancak boyun/omurga yaralanması şüphesinde uygulanmaz, çünkü bu durum omuriliğe zarar verebilir."
+      },
+      {
+        "id": "B",
+        "text": "Hastayı hemen yan çevirerek koma pozisyonuna almak",
+        "explanation": "Koma pozisyonu bilinç kapalı ancak solunumu olan hastalarda hava yolunu açık tutmak için kullanılır ancak boyun/omurga yaralanması şüphesinde hastanın hareket ettirilmesi risklidir."
+      },
+      {
+        "id": "C",
+        "text": "Sadece çeneyi öne ve yukarı doğru kaldırmak",
+        "explanation": "Boyun/omurga yaralanması şüphesi olan durumlarda, başı geriye itmeden sadece çeneyi öne ve yukarı doğru kaldırmak, omuriliğe zarar verme riskini en aza indirerek hava yolu açıklığını sağlamanın doğru yoludur."
+      },
+      {
+        "id": "D",
+        "text": "Ağız içini kontrol ederek yabancı cisim varsa çıkarmak",
+        "explanation": "Ağız içini kontrol etmek ve yabancı cisimleri çıkarmak önemli olsa da, hava yolu açma manevrası yerine geçmez ve boyun yaralanması şüphesinde dikkatli olunmalıdır."
+      },
+      {
+        "id": "E",
+        "text": "Sırtına vurarak öksürmesini sağlamak",
+        "explanation": "Sırtına vurmak, kısmi tıkanıklıklarda öksürmeyi teşvik etmek için kullanılır ancak hava yolu açıklığı sağlamak için birincil yöntem değildir ve boyun yaralanması şüphesinde risklidir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Baş geri-çene yukarı pozisyonu, boyun travması şüphesi olmayan durumlarda doğru iken, bu şüphe varsa sadece çeneyi öne çekmek gerekir. Bu ince fark, doğru cevabı bulmada yanıltıcı olabilir.",
+    "id": "ilk-yardim-058",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 1,
+    "stem": "Aşağıdaki durumların hangisinde Heimlich manevrası uygulanmamalıdır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yemek yerken boğazına bir şey kaçan ve konuşamayan yetişkin bir kişide",
+        "explanation": "Konuşamayan, öksüremeyen ve nefes alamayan yetişkin bir kişide tam tıkanıklık olduğu için Heimlich manevrası uygulanmalıdır."
+      },
+      {
+        "id": "B",
+        "text": "Elleriyle boğazını tutan ve yüzü morarmaya başlayan bir çocukta",
+        "explanation": "Bu durum tam tıkanıklık belirtisidir ve Heimlich manevrası çocuklarda da uygulanır."
+      },
+      {
+        "id": "C",
+        "text": "Bilinç kaybı yaşamadan önce tam tıkanıklık belirtileri gösteren hamile bir kadında",
+        "explanation": "Hamilelerde Heimlich manevrası göğüs kemiği üzerine bası şeklinde uygulanır, ancak genel prensip olarak tam tıkanıklıkta uygulanır."
+      },
+      {
+        "id": "D",
+        "text": "Öksürebilen, konuşabilen ve nefes alabilen ancak boğazında bir cisim hissettiğini söyleyen bir kişide",
+        "explanation": "Kişi öksürebiliyor, konuşabiliyor ve nefes alabiliyorsa kısmi tıkanıklık vardır. Bu durumda Heimlich manevrası uygulanmaz, kişi öksürmeye teşvik edilir ve yakından izlenir."
+      },
+      {
+        "id": "E",
+        "text": "Yemek sırasında aniden nefes almakta güçlük çeken ve evrensel boğulma işaretini yapan bir kişide",
+        "explanation": "Bu durum tam tıkanıklık belirtisidir ve Heimlich manevrası uygulanmalıdır."
+      }
+    ],
+    "correct": "D",
+    "trick": "Kısmi tıkanıklık ile tam tıkanıklık arasındaki farka dikkat edilmemesi, bu soruda çeldirici olabilir. Öksürebilen kişiye müdahale edilmez.",
+    "id": "ilk-yardim-059",
+    "topicId": "ilk-yardim"
+  },
+  {
+    "subtopic": "ilk-yardim",
+    "difficulty": 2,
+    "stem": "Vücudunda görünür bir dış kanama olan bir hasta/yaralıya ilk yardım uygulamasında aşağıdaki adımlardan hangisi diğerlerinden sonra gelmelidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Kanayan yara üzerine temiz bir bezle doğrudan basınç uygulamak",
+        "explanation": "Doğrudan basınç, dış kanamalarda ilk ve en etkili müdahale yöntemidir."
+      },
+      {
+        "id": "B",
+        "text": "Kanayan bölgeyi kalp seviyesinden yukarı kaldırmak",
+        "explanation": "Kanayan bölgeyi kalp seviyesinden yukarı kaldırmak, doğrudan basınçtan sonra veya eş zamanlı olarak kanamayı azaltmaya yardımcı olur."
+      },
+      {
+        "id": "C",
+        "text": "Kanamanın durmaması durumunda basınç noktalarına bası uygulamak",
+        "explanation": "Basınç noktalarına bası uygulamak, doğrudan basınç ve yüksekte tutmaya rağmen kanama durmuyorsa devreye girer."
+      },
+      {
+        "id": "D",
+        "text": "Hasta/yaralının bilincini kontrol etmek",
+        "explanation": "Bilinç kontrolü, hasta/yaralının genel değerlendirmesinin ilk adımlarından biridir ve kanama kontrolünden önce yapılır."
+      },
+      {
+        "id": "E",
+        "text": "Turnike uygulamak",
+        "explanation": "Turnike, dış kanamalarda en son çaredir ve genellikle uzuv kopması veya diğer yöntemlerle durdurulamayan hayati kanamalarda kullanılır. Diğer tüm müdahalelerden sonra düşünülür."
+      }
+    ],
+    "correct": "E",
+    "trick": "Turnikenin 'en son çare' olduğu bilgisini gözden kaçırmak, bu soruda yanlış cevabı seçmeye neden olabilir. Kanama kontrolü adımlarının sırasını karıştırma eğilimi yaygındır.",
+    "id": "ilk-yardim-060",
+    "topicId": "ilk-yardim"
+  }
+]

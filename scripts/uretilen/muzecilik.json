@@ -1,0 +1,722 @@
+[
+  {
+    "subtopic": "Müze Kavramı, İşlevleri ve Türleri",
+    "difficulty": 2,
+    "stem": "ICOM tanımına göre bir müzenin temel işlevleri arasında aşağıdakilerden hangisi yer almaz?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ticaret",
+        "explanation": "ICOM tanımına göre müzeler kâr amacı gütmeyen kurumlardır ve ticaret temel işlevleri arasında yer almaz."
+      },
+      {
+        "id": "B",
+        "text": "Toplama",
+        "explanation": "Toplama (derleme), ICOM tarafından tanımlanan müzenin altı temel işlevinden biridir."
+      },
+      {
+        "id": "C",
+        "text": "Koruma",
+        "explanation": "Koruma (konservasyon-restorasyon), ICOM tarafından tanımlanan müzenin altı temel işlevinden biridir."
+      },
+      {
+        "id": "D",
+        "text": "Araştırma",
+        "explanation": "Araştırma, ICOM tarafından tanımlanan müzenin altı temel işlevinden biridir."
+      },
+      {
+        "id": "E",
+        "text": "Eğitim",
+        "explanation": "Eğitim ve iletişim, ICOM tarafından tanımlanan müzenin altı temel işlevinden biridir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Müzelerin kâr amacı gütmeyen kurumlar olduğu bilgisi gözden kaçırılabilir, bu da ticaretin bir işlev olamayacağını atlamaya neden olabilir.",
+    "id": "muzecilik-041",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Türkiye'de Müzeciliğin Tarihi",
+    "difficulty": 3,
+    "stem": "Osmanlı İmparatorluğu'nda müzeciliğin gelişimine dair aşağıdaki kronolojik sıralamalardan hangisi doğrudur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Müze-i Hümayun'un kurulması → Aya İrini'de eserlerin toplanması → Osman Hamdi Bey'in müdür atanması → İlk Âsâr-ı Atika Nizamnamesi",
+        "explanation": "Müze-i Hümayun'un kurulması (1869), Aya İrini'de eserlerin toplanmasından (1846) ve ilk Âsâr-ı Atika Nizamnamesi'nden (1869) sonra gerçekleşmiştir, bu sıralama yanlıştır."
+      },
+      {
+        "id": "B",
+        "text": "Aya İrini'de eserlerin toplanması → Müze-i Hümayun'un kurulması → Osman Hamdi Bey'in müdür atanması → Bugünkü İstanbul Arkeoloji Müzeleri binasının açılması",
+        "explanation": "Aya İrini'de eserlerin toplanması (1846) ile başlar, ardından Müze-i Hümayun'un kurulması (1869) ve Osman Hamdi Bey'in müdür atanması (1881) gelir. Bugünkü İstanbul Arkeoloji Müzeleri binasının açılması (1891) bu sürecin devamıdır. Bu sıralama doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Osman Hamdi Bey'in müdür atanması → İlk Âsâr-ı Atika Nizamnamesi → Aya İrini'de eserlerin toplanması → Çinili Köşk'e taşınma",
+        "explanation": "Osman Hamdi Bey'in müdür atanması (1881), ilk Âsâr-ı Atika Nizamnamesi'nden (1869) ve Aya İrini'de eserlerin toplanmasından (1846) çok sonradır, bu sıralama yanlıştır."
+      },
+      {
+        "id": "D",
+        "text": "Bugünkü İstanbul Arkeoloji Müzeleri binasının açılması → Aya İrini'de eserlerin toplanması → Müze-i Hümayun'un kurulması → Osman Hamdi Bey'in müdür atanması",
+        "explanation": "Bugünkü İstanbul Arkeoloji Müzeleri binasının açılması (1891) en son olaylardan biridir. Aya İrini'de eserlerin toplanması (1846) ise en başta gelir, bu sıralama yanlıştır."
+      },
+      {
+        "id": "E",
+        "text": "İlk Âsâr-ı Atika Nizamnamesi → Osman Hamdi Bey'in müdür atanması → Müze-i Hümayun'un kurulması → Aya İrini'de eserlerin toplanması",
+        "explanation": "Aya İrini'de eserlerin toplanması (1846) en başta gelirken, bu sıralama onu en sona koymuştur, bu sıralama yanlıştır."
+      }
+    ],
+    "correct": "B",
+    "trick": "Türk müzeciliğinin başlangıcı, kurumsal doğum ve bilimsel döneme ait farklı tarihler ve olaylar karıştırılabilir. Özellikle Müze-i Hümayun'un kuruluşu ile Aya İrini'de eserlerin toplanması arasındaki öncelik önemli bir çeldiricidir.",
+    "id": "muzecilik-042",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Türkiye'nin Önemli Müzeleri",
+    "difficulty": 1,
+    "stem": "Aşağıdaki müzelerden hangisi, ören yerinin içinde yer alması ve buluntuların yerinde sergilenmesi prensibiyle 'site (yer) müzesi' kategorisine girer?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ankara Etnografya Müzesi",
+        "explanation": "Ankara Etnografya Müzesi, site müzesi değil, etnografya müzesi türündedir ve ören yeri içinde değildir."
+      },
+      {
+        "id": "B",
+        "text": "İstanbul Modern",
+        "explanation": "İstanbul Modern, site müzesi değil, modern sanat müzesi türündedir ve ören yeri içinde değildir."
+      },
+      {
+        "id": "C",
+        "text": "Efes Müzesi (Selçuk)",
+        "explanation": "Efes Müzesi, Efes Antik Kenti'nin içinde veya çok yakınında yer alan, ören yerinin buluntularını sergileyen tipik bir site (yer) müzesidir."
+      },
+      {
+        "id": "D",
+        "text": "Sadberk Hanım Müzesi",
+        "explanation": "Sadberk Hanım Müzesi, site müzesi değil, özel müze türündedir ve ören yeri içinde değildir."
+      },
+      {
+        "id": "E",
+        "text": "Rahmi M. Koç Müzesi",
+        "explanation": "Rahmi M. Koç Müzesi, site müzesi değil, bilim ve teknoloji müzesi türündedir ve ören yeri içinde değildir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Farklı müze türlerinin temel özelliklerini karıştırmak veya 'site müzesi' teriminin anlamını tam olarak kavramamış olmak çeldirici olabilir.",
+    "id": "muzecilik-043",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Kültür Varlıkları Mevzuatı ve Miras Suçları",
+    "difficulty": 2,
+    "stem": "2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu'na göre Türkiye sınırları içinde bulunan kültür ve tabiat varlıklarına dair aşağıdakilerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Bu varlıklar, kimin arazisinde bulunursa bulunsun, devlet malıdır.",
+        "explanation": "Kanunun temel ilkesi, Türkiye sınırları içindeki tüm kültür ve tabiat varlıklarının devlet malı olduğudur. Bu ifade doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "Eser bulan kişi, 3 gün içinde en yakın müze müdürlüğüne haber vermek zorundadır.",
+        "explanation": "Kanuna göre eser bulan kişi, en geç 3 gün içinde en yakın müze müdürlüğüne veya mülki amirliğe haber vermekle yükümlüdür. Bu ifade doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Haber veren kişiye ikramiye ödenir, ancak mülkiyet devlete aittir.",
+        "explanation": "Eseri bulan kişiye ikramiye ödenir, ancak mülkiyeti devlete ait olduğu için 'bulan kişinin olur' mantığı yanlıştır. Bu ifade doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "Müzelerde 'etütlük eser' ve 'envanterlik eser' ayrımı yapılmaz, tüm eserler aynı statüdedir.",
+        "explanation": "Müzelerde bilimsel değeri olan ancak sergilenmeyen 'etütlük eser' ile envantere kaydedilen 'envanterlik eser' ayrımı yapılır. Bu ifade yanlıştır."
+      },
+      {
+        "id": "E",
+        "text": "Ruhsatsız kazı yapmak veya define aramak yasalara aykırıdır.",
+        "explanation": "İzinsiz kazı ve definecilik miras suçları kapsamında yer alır ve yasalara aykırıdır. Bu ifade doğrudur."
+      }
+    ],
+    "correct": "D",
+    "trick": "Kanunun temel ilkeleri ve miras suçları hakkında doğru bilgilerin arasına, müzecilikteki envanter ayrımı gibi farklı bir konuda yanlış bir bilgi konularak çeldirici oluşturulmuştur. Temel ilke olan 'devlet malı' bilgisi ile karıştırılabilir.",
+    "id": "muzecilik-044",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Çağdaş Müzecilik ve Müzede Rehberlik",
+    "difficulty": 2,
+    "stem": "Çağdaş müzecilik anlayışının geleneksel müzecilikten en belirgin farkı aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Eserlerin sadece vitrinlerde sergilenmesi",
+        "explanation": "Geleneksel müzecilik eserlerin vitrinlerde pasif izlenmesine odaklanırken, çağdaş müzecilik etkileşim ve deneyimi öne çıkarır. Bu ifade geleneksel müzeciliğe aittir."
+      },
+      {
+        "id": "B",
+        "text": "Müzenin kâr amacı gütmesi",
+        "explanation": "ICOM tanımına göre müzeler kâr amacı gütmez, bu hem geleneksel hem de çağdaş müzecilik için geçerlidir. Bu ifade yanlıştır."
+      },
+      {
+        "id": "C",
+        "text": "Sadece belirli dönemlere ait eserlerin toplanması",
+        "explanation": "Müzelerin topladığı eserlerin dönemi, müzenin türüne göre değişir ancak çağdaş/geleneksel ayrımı bu değildir. Bu ifade yanlıştır."
+      },
+      {
+        "id": "D",
+        "text": "Müze eğitim birimlerinin bulunmaması",
+        "explanation": "Çağdaş müzecilikte müze eğitim birimleri, çocuk atölyeleri ve eğitim faaliyetleri önemli yer tutar. Bu ifade yanlıştır."
+      },
+      {
+        "id": "E",
+        "text": "Ziyaretçi odaklı bir deneyim sunması",
+        "explanation": "Çağdaş müzecilik, ziyaretçi odaklı bir yaklaşımla deneyim, öğrenme ve katılımı ön planda tutar. Geleneksel müzecilik ise eser odaklıdır. Bu ifade doğrudur."
+      }
+    ],
+    "correct": "E",
+    "trick": "Geleneksel ve çağdaş müzecilik arasındaki temel ayrımı oluşturan 'eser odaklı' ve 'ziyaretçi odaklı' kavramları arasındaki farkın net anlaşılamaması çeldirici olabilir.",
+    "id": "muzecilik-045",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Müze Kavramı, İşlevleri ve Türleri",
+    "difficulty": 1,
+    "stem": "Antik dünyanın en ünlü 'Mouseion'u olarak bilinen ve müze kelimesinin kökenini oluşturan yapı hangi şehirde yer almaktadır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "İskenderiye",
+        "explanation": "Müze kelimesinin kökeni Yunanca Mouseion'dur ve Antik dünyanın en ünlüsü İskenderiye Mouseion'udur."
+      },
+      {
+        "id": "B",
+        "text": "Atina",
+        "explanation": "Müze kelimesinin kökeni olan Mouseion'un en ünlüsü Atina'da değil, İskenderiye'deydi."
+      },
+      {
+        "id": "C",
+        "text": "Roma",
+        "explanation": "Müze kelimesinin kökeni olan Mouseion'un en ünlüsü Roma'da değil, İskenderiye'deydi."
+      },
+      {
+        "id": "D",
+        "text": "İstanbul",
+        "explanation": "Müze kelimesinin kökeni olan Mouseion'un en ünlüsü İstanbul'da değil, İskenderiye'deydi."
+      },
+      {
+        "id": "E",
+        "text": "Ephesus (Efes)",
+        "explanation": "Müze kelimesinin kökeni olan Mouseion'un en ünlüsü Efes'te değil, İskenderiye'deydi."
+      }
+    ],
+    "correct": "A",
+    "trick": "Antik şehirlerin genel bilinirliği nedeniyle diğer şıklar çeldirici olabilir, ancak spesifik bilgi İskenderiye'dir.",
+    "id": "muzecilik-046",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Türkiye'nin Önemli Müzeleri",
+    "difficulty": 3,
+    "stem": "Türkiye'deki önemli müzeler ve öne çıkan özellikleri ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Anadolu Medeniyetleri Müzesi - 1997 Avrupa'da Yılın Müzesi",
+        "explanation": "Anadolu Medeniyetleri Müzesi, 1997 yılında Avrupa'da Yılın Müzesi ödülünü almıştır. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "İstanbul Arkeoloji Müzeleri - Büyük İskender'in lahdi",
+        "explanation": "İstanbul Arkeoloji Müzeleri'nde sergilenen 'İskender Lahdi' adını İskender'in betimlenmesinden alır, ancak Büyük İskender'e ait değildir. Bu eşleştirme yanlıştır."
+      },
+      {
+        "id": "C",
+        "text": "Zeugma Mozaik Müzesi - 'Çingene Kızı' mozaiği",
+        "explanation": "Zeugma Mozaik Müzesi, ünlü 'Çingene Kızı' mozaiğine ev sahipliği yapmaktadır. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "Şanlıurfa Arkeoloji Müzesi - Balıklıgöl Heykeli",
+        "explanation": "Şanlıurfa Arkeoloji Müzesi, dünyanın bilinen en eski insan boyu heykeli olan Balıklıgöl Heykeli'ni barındırır. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "E",
+        "text": "Topkapı Sarayı Müzesi - Kaşıkçı Elması",
+        "explanation": "Topkapı Sarayı Müzesi, Türkiye'nin en değerli eserlerinden Kaşıkçı Elması'nı sergilemektedir. Bu eşleştirme doğrudur."
+      }
+    ],
+    "correct": "B",
+    "trick": "İskender Lahdi'nin adının yanıltıcı olması ve aslında Büyük İskender'e ait olmaması, bu sorunun en önemli tuzağıdır. Yaygın bir yanlış bilgiyi hedef alır.",
+    "id": "muzecilik-047",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Çağdaş Müzecilik ve Müzede Rehberlik",
+    "difficulty": 2,
+    "stem": "Müze rehberliğinde 'müze yorgunluğu' (museum fatigue) kavramı dikkate alındığında, bir rehberin tur planlamasında aşağıdakilerden hangisini yapması en uygun olur?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Mümkün olduğunca çok eseri detaylıca anlatarak ziyaretçinin tüm bilgileri edinmesini sağlamak.",
+        "explanation": "Aşırı bilgi vermek ve çok sayıda eseri detaylıca anlatmak müze yorgunluğunu artırır. Ortalama dikkat süresi kısıtlıdır. Bu ifade yanlıştır."
+      },
+      {
+        "id": "B",
+        "text": "Tüm müzeyi tek bir solukta, molasız gezerek zamandan tasarruf etmek.",
+        "explanation": "Molasız ve uzun süreli geziler müze yorgunluğunu tetikler. Mola planlaması önemlidir. Bu ifade yanlıştır."
+      },
+      {
+        "id": "C",
+        "text": "Her salonda 3-5 kilit eser seçip bunlar üzerinden hikâye kurarak anlatımı odaklamak ve mola planlamak.",
+        "explanation": "Müze yorgunluğunu önlemek için rehberin seçici davranması, kilit eserlere odaklanması ve yeterli mola vermesi en uygun yaklaşımdır."
+      },
+      {
+        "id": "D",
+        "text": "Ziyaretçilerin her esere dokunmasına izin vererek fiziksel etkileşimi artırmak.",
+        "explanation": "Esere dokunmak eserlerin korunması açısından yasaktır ve müze yorgunluğuyla doğrudan ilgili değildir. Bu ifade yanlıştır."
+      },
+      {
+        "id": "E",
+        "text": "Sesini yüksek tutarak tüm grubun anlatımı net duymasını sağlamak.",
+        "explanation": "Yüksek sesle anlatım diğer ziyaretçileri rahatsız edebilir ve birçok müzede whisper sistemi zorunludur. Müze yorgunluğuyla doğrudan ilgili değildir. Bu ifade yanlıştır."
+      }
+    ],
+    "correct": "C",
+    "trick": "Rehberin iyi niyetle 'tüm bilgiyi aktarma' veya 'hızlı gezme' gibi yaklaşımları seçebileceği düşünülerek çeldiriciler oluşturulmuştur. Ancak müze yorgunluğu bağlamında en uygun cevap, seçici anlatım ve mola planlamasıdır.",
+    "id": "muzecilik-048",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Müze Kavramı, İşlevleri ve Türleri",
+    "difficulty": 2,
+    "stem": "ICOM tanımına göre bir müzenin temel işlevleri arasında aşağıdakilerden hangisi bulunmaz?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Toplama",
+        "explanation": "Toplama, ICOM tanımına göre müzenin temel işlevlerinden biridir."
+      },
+      {
+        "id": "B",
+        "text": "Koruma",
+        "explanation": "Koruma, ICOM tanımına göre müzenin temel işlevlerinden biridir."
+      },
+      {
+        "id": "C",
+        "text": "Araştırma",
+        "explanation": "Araştırma, ICOM tanımına göre müzenin temel işlevlerinden biridir."
+      },
+      {
+        "id": "D",
+        "text": "Satış",
+        "explanation": "Müzeler kâr amacı gütmeyen kurumlardır ve eser satışı temel işlevleri arasında yer almaz."
+      },
+      {
+        "id": "E",
+        "text": "Eğitim",
+        "explanation": "Eğitim, ICOM tanımına göre müzenin temel işlevlerinden biridir."
+      }
+    ],
+    "correct": "D",
+    "trick": "ICOM tanımında 'kâr amacı gütmeyen' ifadesi, satış işlevinin olmadığını vurgular.",
+    "id": "muzecilik-049",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Türkiye'de Müzeciliğin Tarihi",
+    "difficulty": 3,
+    "stem": "Türk müzeciliği tarihinde önemli bir dönüm noktası olan ve eserlerin yurt dışına çıkarılmasını kesin olarak yasaklayan Âsâr-ı Atika Nizamnamesi hangi müze müdürünün girişimiyle hazırlanmıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Saffet Paşa",
+        "explanation": "Saffet Paşa, ilk Âsâr-ı Atika Nizamnamesi'nin yürürlüğe girdiği dönemde Maarif Nazırıydı, ancak bu nizamname eserlerin yurt dışına çıkarılmasına izin veriyordu."
+      },
+      {
+        "id": "B",
+        "text": "Fethi Paşa",
+        "explanation": "Fethi Paşa, Aya İrini'de eserlerin toplanmaya başlandığı 1846'daki koleksiyonun sorumlusuydu, nizamname hazırlığıyla doğrudan ilişkili değildir."
+      },
+      {
+        "id": "C",
+        "text": "Abdülmecid",
+        "explanation": "Sultan Abdülmecid, Türk müzeciliğinin başlangıcı kabul edilen Aya İrini'deki koleksiyonun oluşturulduğu dönemdeki Osmanlı padişahıdır, nizamnameyi hazırlayan kişi değildir."
+      },
+      {
+        "id": "D",
+        "text": "Halil Edhem Eldem",
+        "explanation": "Halil Edhem Eldem, Osman Hamdi Bey'den sonra müze müdürlüğü yapan isimlerdendir, ancak 1883 nizamnamesi onun döneminde hazırlanmamıştır."
+      },
+      {
+        "id": "E",
+        "text": "Osman Hamdi Bey",
+        "explanation": "1881'de müze müdürlüğüne atanan Osman Hamdi Bey, 1883'te hazırladığı Âsâr-ı Atika Nizamnamesi ile eserlerin yurt dışına çıkarılmasını yasaklamıştır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Farklı nizamnamelerin farklı kişilerle ilişkilendirilmesi ve yetkileri karıştırma tuzağı.",
+    "id": "muzecilik-050",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Müze Kavramı, İşlevleri ve Türleri",
+    "difficulty": 2,
+    "stem": "Antik Çağ'da ilham perileri Musalar'a adanmış tapınaklardan adını alan ve günümüz 'müze' kelimesinin kökenini oluşturan yapı aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Mouseion",
+        "explanation": "Müze kelimesi, Yunanca Musalar'ın tapınağı anlamına gelen 'Mouseion'dan türemiştir. İskenderiye Mouseion'u bunun en ünlü örneğidir."
+      },
+      {
+        "id": "B",
+        "text": "Akropolis",
+        "explanation": "Akropolis, Antik Yunan kentlerinde yüksek bir alana inşa edilmiş, genellikle dini ve savunma amaçlı kullanılan bir yerleşim yeridir."
+      },
+      {
+        "id": "C",
+        "text": "Agora",
+        "explanation": "Agora, Antik Yunan kentlerinde halkın toplandığı, ticaret ve sosyal faaliyetlerin yürütüldüğü açık bir alandır."
+      },
+      {
+        "id": "D",
+        "text": "Odeon",
+        "explanation": "Odeon, Antik Yunan ve Roma'da müzik, şiir ve tiyatro gösterileri için kullanılan küçük tiyatrolara verilen addır."
+      },
+      {
+        "id": "E",
+        "text": "Stoa",
+        "explanation": "Stoa, Antik Yunan mimarisinde halka açık yerlerde bulunan, sütunlarla çevrili üstü kapalı bir galeridir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Antik yapı isimlerinin benzerliği nedeniyle karıştırma tuzağı.",
+    "id": "muzecilik-051",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Türkiye'nin Önemli Müzeleri",
+    "difficulty": 1,
+    "stem": "Türkiye'nin ilk sanayi ve ulaşım müzesi olarak bilinen ve 1994 yılında açılan müze aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Sadberk Hanım Müzesi",
+        "explanation": "Sadberk Hanım Müzesi, Türkiye'nin ilk özel müzesidir (1980), sanayi ve ulaşım müzesi değildir."
+      },
+      {
+        "id": "B",
+        "text": "Rahmi M. Koç Müzesi",
+        "explanation": "Rahmi M. Koç Müzesi, Türkiye'nin ilk sanayi ve ulaşım müzesidir ve 1994 yılında açılmıştır."
+      },
+      {
+        "id": "C",
+        "text": "Sakıp Sabancı Müzesi",
+        "explanation": "Sakıp Sabancı Müzesi, hat sanatı ve resim koleksiyonlarıyla bilinen bir sanat müzesidir."
+      },
+      {
+        "id": "D",
+        "text": "İstanbul Modern",
+        "explanation": "İstanbul Modern, Türkiye'nin ilk modern sanat müzesidir."
+      },
+      {
+        "id": "E",
+        "text": "Panorama 1453 Tarih Müzesi",
+        "explanation": "Panorama 1453, Türkiye'nin ilk tam panoramik müzesi olup tarih müzesi kategorisindedir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Farklı 'ilk' olma özelliklerine sahip müzelerin karıştırılması.",
+    "id": "muzecilik-052",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Çağdaş Müzecilik ve Müzede Rehberlik",
+    "difficulty": 2,
+    "stem": "Müzede rehberlik yaparken, çağdaş müzecilik anlayışına göre aşağıdakilerden hangisi rehberin kaçınması gereken bir davranıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ziyaretçilere seçili 3-5 kilit eser üzerinden hikâye anlatmak",
+        "explanation": "Bu, 'müze yorgunluğunu' önlemek ve ziyaretçinin dikkatini dağıtmamak için önerilen bir yaklaşımdır."
+      },
+      {
+        "id": "B",
+        "text": "Eserin önünü kapatmayacak şekilde grubu konumlandırmak",
+        "explanation": "Bu, diğer ziyaretçilerin de eseri görebilmesi için doğru bir davranıştır."
+      },
+      {
+        "id": "C",
+        "text": "Her salondaki tüm eserler hakkında ayrıntılı bilgi vermek",
+        "explanation": "Her salondaki her eseri anlatmak, 'müze yorgunluğuna' yol açabilir ve ziyaretçinin odaklanmasını zorlaştırır. Çağdaş müzecilik, seçici olmayı önerir."
+      },
+      {
+        "id": "D",
+        "text": "Sesini yükseltmek yerine whisper (fısıltı) sistemi kullanmak",
+        "explanation": "Bu, müzedeki diğer ziyaretçileri rahatsız etmemek ve grubun rehberi daha net duymasını sağlamak için doğru bir yöntemdir."
+      },
+      {
+        "id": "E",
+        "text": "Anlatım sırasında esere sırtını dönmek yerine yan durmak",
+        "explanation": "Bu, hem esere saygı hem de ziyaretçilerle iletişimi sürdürmek için doğru bir davranıştır."
+      }
+    ],
+    "correct": "C",
+    "trick": "Rehberin aşırı bilgi verme isteğinin müze yorgunluğuna yol açabileceği noktasını gözden kaçırma.",
+    "id": "muzecilik-053",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Kültür Varlıkları Mevzuatı ve Miras Suçları",
+    "difficulty": 3,
+    "stem": "1970 UNESCO Sözleşmesi ile 1995 UNIDROIT Sözleşmesi'nin temel amaçları aşağıdaki seçeneklerin hangisinde doğru eşleştirilmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "1970 UNESCO: Dünya Mirası Listesi'ni oluşturma; 1995 UNIDROIT: Silahlı çatışmalarda kültür varlıklarını koruma",
+        "explanation": "1970 UNESCO Sözleşmesi Dünya Mirası Listesi ile ilgili değildir (bu 1972'dir); 1995 UNIDROIT silahlı çatışmalarla ilgili değildir (bu 1954 Lahey'dir)."
+      },
+      {
+        "id": "B",
+        "text": "1970 UNESCO: Kültür varlıklarının korunması için ulusal envanter çıkarma; 1995 UNIDROIT: Müzelerde eğitim faaliyetlerini destekleme",
+        "explanation": "Bu sözleşmelerin doğrudan amacı ulusal envanter çıkarma veya eğitim faaliyetlerini destekleme değildir."
+      },
+      {
+        "id": "C",
+        "text": "1970 UNESCO: Uluslararası Müzeler Konseyi'ni kurma; 1995 UNIDROIT: Arkeolojik kazıları standartlaştırma",
+        "explanation": "Uluslararası Müzeler Konseyi (ICOM) 1946'da kurulmuştur; bu sözleşmelerin arkeolojik kazıları standartlaştırma gibi bir amacı yoktur."
+      },
+      {
+        "id": "D",
+        "text": "1970 UNESCO: Kültür varlıklarının yasa dışı ithal, ihraç ve mülkiyet transferini önleme; 1995 UNIDROIT: Çalınmış veya yasa dışı ihraç edilmiş kültür varlıklarının iadesi",
+        "explanation": "1970 UNESCO Sözleşmesi, kültür varlıklarının yasa dışı ticaretini önlemeyi hedeflerken, 1995 UNIDROIT Sözleşmesi çalınan veya yasa dışı ihraç edilen eserlerin iadesini düzenler. Bu eşleştirme doğrudur."
+      },
+      {
+        "id": "E",
+        "text": "1970 UNESCO: Somut olmayan kültürel mirası koruma; 1995 UNIDROIT: Sanat eserlerinin sigortalanmasını düzenleme",
+        "explanation": "1970 UNESCO Sözleşmesi somut olmayan kültürel miras ile ilgili değildir; 1995 UNIDROIT sigorta ile ilgili değildir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Uluslararası sözleşmelerin tarihleri ve amaçlarının karıştırılması.",
+    "id": "muzecilik-054",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Türkiye'nin Önemli Müzeleri",
+    "difficulty": 2,
+    "stem": "Aşağıdaki müzelerden hangisi 'site (yer) müzesi' kategorisine girmektedir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ankara Etnografya Müzesi",
+        "explanation": "Ankara Etnografya Müzesi bir etnografya müzesidir, site müzesi değildir."
+      },
+      {
+        "id": "B",
+        "text": "Rahmi M. Koç Müzesi",
+        "explanation": "Rahmi M. Koç Müzesi bir bilim ve teknoloji müzesidir, site müzesi değildir."
+      },
+      {
+        "id": "C",
+        "text": "Sadberk Hanım Müzesi",
+        "explanation": "Sadberk Hanım Müzesi özel bir müzedir, site müzesi değildir."
+      },
+      {
+        "id": "D",
+        "text": "Sakıp Sabancı Müzesi",
+        "explanation": "Sakıp Sabancı Müzesi bir sanat müzesidir, site müzesi değildir."
+      },
+      {
+        "id": "E",
+        "text": "Efes Müzesi",
+        "explanation": "Efes Müzesi, Efes antik kentinin içinde veya çok yakınında yer alan ve ören yerinden çıkan buluntuları sergileyen bir site müzesidir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Farklı müze türleri arasındaki ayrımı karıştırma.",
+    "id": "muzecilik-055",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "Türkiye'de Müzeciliğin Tarihi",
+    "difficulty": 1,
+    "stem": "Osman Hamdi Bey'in Türk müzeciliğine katkıları arasında aşağıdakilerden hangisi yer almaz?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Mecma-ı Âsâr-ı Atika'yı kurması",
+        "explanation": "Mecma-ı Âsâr-ı Atika, Osman Hamdi Bey'den önce, 1846'da Sultan Abdülmecid döneminde kurulmuştur. Osman Hamdi Bey bu koleksiyonun başına geçmiştir, kurucusu değildir."
+      },
+      {
+        "id": "B",
+        "text": "Sanayi-i Nefise Mektebi'ni kurması",
+        "explanation": "Osman Hamdi Bey, Sanayi-i Nefise Mektebi'ni kurmuş ve ilk müdürü olmuştur."
+      },
+      {
+        "id": "C",
+        "text": "1883 Âsâr-ı Atika Nizamnamesi'ni hazırlaması",
+        "explanation": "Osman Hamdi Bey, eserlerin yurt dışına çıkarılmasını yasaklayan 1883 Nizamnamesi'ni hazırlamıştır."
+      },
+      {
+        "id": "D",
+        "text": "Sayda Kral Mezarlığı kazısını yaparak İskender Lahdi'ni İstanbul'a getirmesi",
+        "explanation": "Osman Hamdi Bey, Sayda Kral Mezarlığı kazısını yapmış ve İskender Lahdi'ni İstanbul'a getirmiştir."
+      },
+      {
+        "id": "E",
+        "text": "Türkiye'nin ilk müze binası olan İstanbul Arkeoloji Müzeleri binasının açılışını yapması",
+        "explanation": "1891'de açılan İstanbul Arkeoloji Müzeleri binası, Osman Hamdi Bey'in müdürlüğü döneminde inşa edilmiş ve açılmıştır."
+      }
+    ],
+    "correct": "A",
+    "trick": "Osman Hamdi Bey'in birçok 'ilk' ile anılması nedeniyle, onun öncesindeki bir olayı ona atfetme tuzağı.",
+    "id": "muzecilik-056",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "muzecilik",
+    "difficulty": 2,
+    "stem": "ICOM (Uluslararası Müzeler Konseyi) tanımına göre bir müzenin temel işlevleri arasında aşağıdakilerden hangisi yer almaz?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Toplama",
+        "explanation": "Toplama (derleme), ICOM tarafından belirlenen müzenin altı temel işlevinden biridir."
+      },
+      {
+        "id": "B",
+        "text": "Ticaret",
+        "explanation": "ICOM tanımına göre müzeler kâr amacı gütmeyen kurumlardır ve ticaret temel işlevleri arasında yer almaz."
+      },
+      {
+        "id": "C",
+        "text": "Koruma",
+        "explanation": "Koruma (konservasyon-restorasyon), ICOM tarafından belirlenen müzenin altı temel işlevinden biridir."
+      },
+      {
+        "id": "D",
+        "text": "Belgeleme",
+        "explanation": "Belgeleme (envanter), ICOM tarafından belirlenen müzenin altı temel işlevinden biridir."
+      },
+      {
+        "id": "E",
+        "text": "Eğitim",
+        "explanation": "Eğitim ve iletişim, ICOM tarafından belirlenen müzenin altı temel işlevinden biridir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Müzenin 'ticari' faaliyetleri (mağaza, kafe vb.) olsa da, ICOM tanımında 'kâr amacı gütmeme' vurgusu yapılır ve 'ticaret' bir işlev olarak belirtilmez.",
+    "id": "muzecilik-057",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "muzecilik",
+    "difficulty": 3,
+    "stem": "Osmanlı İmparatorluğu döneminde, Türk müzeciliğinin gelişiminde önemli bir dönüm noktası olan 1883 tarihli Âsâr-ı Atika Nizamnamesi'nin en belirgin özelliği aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "İlk kez müze müdürlüğüne bir Türk'ün atanmasını sağlamıştır.",
+        "explanation": "Osman Hamdi Bey'in müze müdürlüğüne atanması 1881'de gerçekleşmiş olup, bu nizamname ile ilgili değildir."
+      },
+      {
+        "id": "B",
+        "text": "Müze-i Hümayun'un Çinili Köşk'e taşınmasını resmileştirmiştir.",
+        "explanation": "Müzenin Çinili Köşk'e taşınması 1880'de gerçekleşmiştir."
+      },
+      {
+        "id": "C",
+        "text": "Eski eserlerin yurt dışına çıkarılmasını kesin olarak yasaklamıştır.",
+        "explanation": "1883 Nizamnamesi, Osman Hamdi Bey tarafından hazırlanmış ve daha önceki nizamnamelerin aksine eserlerin yurt dışına çıkarılmasını kesin olarak yasaklayarak Türk müzeciliği için bir dönüm noktası olmuştur."
+      },
+      {
+        "id": "D",
+        "text": "Aya İrini Kilisesi'ndeki koleksiyonun 'Mecma-ı Âsâr-ı Atika' olarak adlandırılmasını sağlamıştır.",
+        "explanation": "Mecma-ı Âsâr-ı Atika adı 1846'daki ilk eser toplama dönemine aittir."
+      },
+      {
+        "id": "E",
+        "text": "İstanbul Arkeoloji Müzeleri'nin bugünkü binasının inşaatına başlanmasına karar vermiştir.",
+        "explanation": "İstanbul Arkeoloji Müzeleri binası 1891'de açılmıştır, 1883 Nizamnamesi ile doğrudan ilgili değildir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Nizamnamelerin tarihlerini ve içeriklerini karıştırma. Özellikle 1883 Nizamnamesi'nin 'eserlerin yurt dışına çıkarılmasının yasaklanması' yönündeki kritik özelliğini vurgulamak gerekir.",
+    "id": "muzecilik-058",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "muzecilik",
+    "difficulty": 2,
+    "stem": "Türkiye'deki müze türleri ve örnekleri düşünüldüğünde, aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Arkeoloji Müzesi - Anadolu Medeniyetleri Müzesi (Ankara)",
+        "explanation": "Anadolu Medeniyetleri Müzesi, Hitit, Frig ve Urartu eserleri gibi kazı buluntularını barındıran önemli bir arkeoloji müzesidir."
+      },
+      {
+        "id": "B",
+        "text": "Etnografya Müzesi - Ankara Etnografya Müzesi",
+        "explanation": "Ankara Etnografya Müzesi, halk kültürü, giysi ve el sanatları gibi etnografik eserleri sergiler."
+      },
+      {
+        "id": "C",
+        "text": "Açık Hava Müzesi - Göreme Açık Hava Müzesi",
+        "explanation": "Göreme Açık Hava Müzesi, kaya kiliselerini ve freskleri yerinde sergileyen bir açık hava müzesidir."
+      },
+      {
+        "id": "D",
+        "text": "Sanat Müzesi - Sadberk Hanım Müzesi",
+        "explanation": "Sadberk Hanım Müzesi, Türkiye'nin ilk özel müzesi olup genellikle arkeolojik ve etnografik eserler barındırır, doğrudan bir sanat müzesi olarak sınıflandırılmaz."
+      },
+      {
+        "id": "E",
+        "text": "Bilim ve Teknoloji Müzesi - Rahmi M. Koç Müzesi",
+        "explanation": "Rahmi M. Koç Müzesi, Türkiye'nin ilk sanayi ve ulaşım müzesi olarak bilim ve teknoloji alanında eserler barındırır."
+      }
+    ],
+    "correct": "D",
+    "trick": "Sadberk Hanım Müzesi'nin 'ilk özel müze' olması bilgisini 'sanat müzesi' tanımıyla karıştırıp doğru şık olarak işaretleme eğilimi yaratılabilir.",
+    "id": "muzecilik-059",
+    "topicId": "muzecilik"
+  },
+  {
+    "subtopic": "muzecilik",
+    "difficulty": 1,
+    "stem": "Müzelerde eserlerin bulunduğu yerde, özgün konumunda sergilenmesi anlamına gelen kavram aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Diorama",
+        "explanation": "Diorama, üç boyutlu modeller ve arka plan resimleriyle bir sahnenin canlandırılmasıdır, yerinde sergileme değildir."
+      },
+      {
+        "id": "B",
+        "text": "Replika",
+        "explanation": "Replika, bir eserin kopyasıdır, orijinal eserin yerinde sergilenmesi anlamına gelmez."
+      },
+      {
+        "id": "C",
+        "text": "Kalıcı sergi",
+        "explanation": "Kalıcı sergi, müzenin ana koleksiyonunun sürekli olarak sergilenmesidir, ancak eserin mutlaka 'yerinde' olduğu anlamına gelmez."
+      },
+      {
+        "id": "D",
+        "text": "Envanterlik eser",
+        "explanation": "Envanterlik eser, kayda geçirilmiş ve sergilenmeye uygun olan eserdir, bir sergileme kavramı değildir."
+      },
+      {
+        "id": "E",
+        "text": "In situ sergileme",
+        "explanation": "In situ sergileme, eserin bulunduğu yerde, özgün konumunda sergilenmesi anlamına gelir. Zeugma mozaikleri ve Göreme kiliseleri bu duruma örnek teşkil eder."
+      }
+    ],
+    "correct": "E",
+    "trick": "Diğer şıkların da sergileme veya eserle ilgili kavramlar olması, kavramları tam olarak bilmeyen ziyaretçiyi yanıltabilir.",
+    "id": "muzecilik-060",
+    "topicId": "muzecilik"
+  }
+]

@@ -1205,5 +1205,689 @@
       }
     ],
     "correct": "B"
+  },
+  {
+    "id": "sanat-tarihi-041",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Antik Mimari",
+    "difficulty": 2,
+    "stem": "Antik Yunan tapınak mimarisinde, tapınağı dört yandan çift sıra sütunla çevreleyen plana verilen ad aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Dipteros",
+        "explanation": "Dipteros, tapınağı dört yandan çift sıra sütunla çevreleyen plan tipidir. Efes Artemis ve Didyma Apollon Tapınakları bu tiptedir."
+      },
+      {
+        "id": "B",
+        "text": "Prostylos",
+        "explanation": "Prostylos, yalnızca önde sütun bulunan tapınak tipidir."
+      },
+      {
+        "id": "C",
+        "text": "Amphiprostylos",
+        "explanation": "Amphiprostylos, ön ve arka cephesinde sütun bulunan tapınak tipidir."
+      },
+      {
+        "id": "D",
+        "text": "Peripteros",
+        "explanation": "Peripteros, dört yanı tek sıra sütunla çevrili tapınak tipidir."
+      },
+      {
+        "id": "E",
+        "text": "Tholos",
+        "explanation": "Tholos, yuvarlak planlı tapınak tipidir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Tapınak tipleri arasındaki benzer isimler ve sütun sıralarının karıştırılması (tek sıra peripteros, çift sıra dipteros)."
+  },
+  {
+    "id": "sanat-tarihi-042",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Antik Mimari",
+    "difficulty": 1,
+    "stem": "Aşağıdakilerden hangisi Antik Yunan tiyatrosunun bölümlerinden biri DEĞİLDİR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Cavea",
+        "explanation": "Cavea, tiyatrodaki oturma basamaklarına verilen addır."
+      },
+      {
+        "id": "B",
+        "text": "Thermae",
+        "explanation": "Thermae, Roma hamamlarına verilen addır ve tiyatro bölümü değildir."
+      },
+      {
+        "id": "C",
+        "text": "Orkestra",
+        "explanation": "Orkestra, tiyatrodaki yarım daire zemin alandır."
+      },
+      {
+        "id": "D",
+        "text": "Skene",
+        "explanation": "Skene, tiyatrodaki sahne binasına verilen addır."
+      },
+      {
+        "id": "E",
+        "text": "Parodos",
+        "explanation": "Parodos, tiyatronun yan girişlerine verilen addır."
+      }
+    ],
+    "correct": "B",
+    "trick": "Antik dönem yapıları arasındaki benzer terimlerin karıştırılması. Thermae, hamam tipidir, tiyatro bölümü değil."
+  },
+  {
+    "id": "sanat-tarihi-043",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Temel Kavramlar ve Mimari Terimler",
+    "difficulty": 2,
+    "stem": "Kare plandan yuvarlak kubbeye geçişte, köşeleri kesen küçük yarım konik ögeye ne ad verilir ve bu öge hangi mimari dönemde yaygın olarak kullanılmıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Pandantif - Bizans",
+        "explanation": "Pandantif, küresel üçgen geçiş elemanıdır ve Bizans mimarisinde yaygındır."
+      },
+      {
+        "id": "B",
+        "text": "Mukarnas - Osmanlı",
+        "explanation": "Mukarnas, sarkıt biçiminde, kademeli hücrelerden oluşan dolgu bezemesidir, geçiş ögesi değildir."
+      },
+      {
+        "id": "C",
+        "text": "Tromp - Selçuklu",
+        "explanation": "Tromp, kare plandan kubbeye geçişte köşeleri kesen küçük yarım konik ögedir ve Selçuklu mimarisinde yaygın olarak kullanılmıştır."
+      },
+      {
+        "id": "D",
+        "text": "Türk üçgeni - Erken Osmanlı",
+        "explanation": "Türk üçgeni, üst üste dizili ters-düz üçgenlerden oluşan Türklere özgü bir geçiş ögesidir."
+      },
+      {
+        "id": "E",
+        "text": "Fil ayağı - Klasik Osmanlı",
+        "explanation": "Fil ayağı, kubbeyi taşıyan kalın taşıyıcıdır, geçiş ögesi değildir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Pandantif ve tromp arasındaki farkın karıştırılması (küresel üçgen mi yarım konik mi) ve dönem eşleşmesi."
+  },
+  {
+    "id": "sanat-tarihi-044",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Anadolu Selçuklu ve Beylikler Dönemi Sanatı",
+    "difficulty": 3,
+    "stem": "Aşağıdaki mimari eserlerden hangisi, 2023 yılında 'Orta Çağ Anadolu Ahşap Hipostil Camileri' adıyla UNESCO Dünya Mirası Listesi'ne giren ahşap direkli camiler grubuna dâhil DEĞİLDİR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Afyon Ulu Cami",
+        "explanation": "Afyon Ulu Cami, ahşap direkli camiler grubundadır."
+      },
+      {
+        "id": "B",
+        "text": "Ankara Arslanhane Camii",
+        "explanation": "Ankara Arslanhane Camii, ahşap direkli camiler grubundadır."
+      },
+      {
+        "id": "C",
+        "text": "Beyşehir Eşrefoğlu Camii",
+        "explanation": "Beyşehir Eşrefoğlu Camii, ahşap direkli camiler grubundadır."
+      },
+      {
+        "id": "D",
+        "text": "Divriği Ulu Camii ve Darüşşifası",
+        "explanation": "Divriği Ulu Camii ve Darüşşifası, olağanüstü taş işçiliği ile bilinen Mengücekli eseridir ve ahşap direkli cami grubunda değildir. 1985 yılında UNESCO Dünya Mirası olmuştur."
+      },
+      {
+        "id": "E",
+        "text": "Kastamonu Kasabaköy Mahmut Bey Camii",
+        "explanation": "Kastamonu Kasabaköy Mahmut Bey Camii, ahşap direkli camiler grubundadır."
+      }
+    ],
+    "correct": "D",
+    "trick": "Farklı UNESCO listelerindeki eserlerin ve ahşap-taş yapı ayrımının karıştırılması."
+  },
+  {
+    "id": "sanat-tarihi-045",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Osmanlı Mimarisi ve Mimar Sinan",
+    "difficulty": 2,
+    "stem": "Osmanlı mimarisinde merkezi büyük kubbe + yan mekânlar şeması ile dört farklı minarenin ilk kez denendiği, adını üç şerefeli minaresinden alan ve erken Osmanlı döneminin dönüm noktası kabul edilen cami aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Bursa Ulu Camii",
+        "explanation": "Bursa Ulu Camii, çok kubbeli (ulu cami) plan tipindedir ve bu özelliklere sahip değildir."
+      },
+      {
+        "id": "B",
+        "text": "Edirne Eski Camii",
+        "explanation": "Edirne Eski Camii de çok kubbeli plan tipindedir."
+      },
+      {
+        "id": "C",
+        "text": "Bursa Yeşil Cami",
+        "explanation": "Bursa Yeşil Cami, Ters T (zaviyeli) planlı cami tipindedir."
+      },
+      {
+        "id": "D",
+        "text": "İznik Hacı Özbek Camii",
+        "explanation": "İznik Hacı Özbek Camii, tek kubbeli cami tipinin erken örneklerindendir."
+      },
+      {
+        "id": "E",
+        "text": "Edirne Üç Şerefeli Camii",
+        "explanation": "Edirne Üç Şerefeli Camii, Osmanlı mimarisinin dönüm noktası olup, merkezi büyük kubbe + yan mekânlar şeması ve dört farklı minarenin ilk kez denendiği yapıdır. Adını üç şerefeli minaresinden almıştır."
+      }
+    ],
+    "correct": "E",
+    "trick": "Erken dönem camileri arasındaki benzerlikler ve Üç Şerefeli Camii'nin merkezi kubbe denemesiyle olan önemi."
+  },
+  {
+    "id": "sanat-tarihi-046",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Batı Sanatı ve Dönemleri",
+    "difficulty": 1,
+    "stem": "Antik Çağ'ın Yedi Harikası'ndan, günümüze kadar ayakta kalmayı başaran tek yapı aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Keops Piramidi",
+        "explanation": "Keops Piramidi, Antik Çağ'ın Yedi Harikası'ndan günümüze kadar ayakta kalmayı başaran tek yapıdır."
+      },
+      {
+        "id": "B",
+        "text": "Efes Artemis Tapınağı",
+        "explanation": "Efes Artemis Tapınağı, Antik Çağ'ın Yedi Harikası'ndan biridir ancak günümüze ayakta ulaşamamıştır."
+      },
+      {
+        "id": "C",
+        "text": "Halikarnassos Mausoleum'u",
+        "explanation": "Halikarnassos Mausoleum'u, Antik Çağ'ın Yedi Harikası'ndan biridir ancak günümüze ayakta ulaşamamıştır."
+      },
+      {
+        "id": "D",
+        "text": "Olimpia Zeus Heykeli",
+        "explanation": "Olimpia Zeus Heykeli, Antik Çağ'ın Yedi Harikası'ndan biridir ancak günümüze ayakta ulaşamamıştır."
+      },
+      {
+        "id": "E",
+        "text": "Rodos Heykeli",
+        "explanation": "Rodos Heykeli, Antik Çağ'ın Yedi Harikası'ndan biridir ancak günümüze ayakta ulaşamamıştır."
+      }
+    ],
+    "correct": "A",
+    "trick": "Yedi Harika'nın hepsinin bilinmesi ancak sadece bir tanesinin ayakta kaldığının gözden kaçırılması."
+  },
+  {
+    "id": "sanat-tarihi-047",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Kitap Sanatları ve Geleneksel El Sanatları",
+    "difficulty": 2,
+    "stem": "Osmanlı kitap sanatlarında, kitre ile yoğunlaştırılmış su üzerine serpilen boyaların kâğıda aktarılmasıyla yapılan, 2014 yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne giren sanat dalı aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Tezhip",
+        "explanation": "Tezhip, altın ve boya ile kitap süsleme sanatıdır."
+      },
+      {
+        "id": "B",
+        "text": "Ebru",
+        "explanation": "Ebru, kitre ile yoğunlaştırılmış su üzerine serpilen boyaların kâğıda aktarılmasıyla yapılan ve UNESCO listesinde yer alan bir sanattır."
+      },
+      {
+        "id": "C",
+        "text": "Minyatür",
+        "explanation": "Minyatür, kitap içi küçük resim sanatıdır."
+      },
+      {
+        "id": "D",
+        "text": "Hat",
+        "explanation": "Hat, Arap harfleriyle güzel yazı sanatıdır."
+      },
+      {
+        "id": "E",
+        "text": "Cilt",
+        "explanation": "Cilt, kitap kapağı yapma sanatıdır."
+      }
+    ],
+    "correct": "B",
+    "trick": "Kitap sanatlarının birbirine yakın tanımları ve UNESCO listesi bilgisinin hatırlanması."
+  },
+  {
+    "id": "sanat-tarihi-048",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Geleneksel El Sanatları",
+    "difficulty": 3,
+    "stem": "Aşağıdaki geleneksel el sanatlarımızdan hangisi, üretildiği şehir ve özelliği eşleştirmesi bakımından YANLIŞTIR?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Telkâri - Midyat (Mardin)",
+        "explanation": "Telkâri, ince gümüş veya altın tellerin örülüp kaynatılmasıyla yapılan, Midyat (Mardin) ile özdeşleşen bir sanattır. Eşleştirme doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "Çini - İznik (16. yy mercan kırmızısı)",
+        "explanation": "İznik, 16. yüzyılda mercan kırmızısı rengiyle ünlü çiniciliğin merkezidir. Eşleştirme doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Keçe - Gaziantep (yemenicilik)",
+        "explanation": "Keçecilik, Konya, Afyon, Balıkesir ve Tire gibi şehirlerde yaygındır. Gaziantep ise daha çok deri ve yemenicilik ile bilinir. Eşleştirme yanlıştır."
+      },
+      {
+        "id": "D",
+        "text": "Halı - Hereke (ipek ve saray halısı)",
+        "explanation": "Hereke, ipek ve saray halılarıyla tanınan bir halıcılık merkezidir. Eşleştirme doğrudur."
+      },
+      {
+        "id": "E",
+        "text": "Çömlek - Avanos (Kızılırmak kili)",
+        "explanation": "Avanos, Kızılırmak'ın kırmızı kili sayesinde Hitit döneminden beri çömlekçilikle ünlüdür. Eşleştirme doğrudur."
+      }
+    ],
+    "correct": "C",
+    "trick": "Farklı el sanatları ve merkezlerinin doğru eşleştirilmesi, özellikle bir şehrin birden fazla sanat dalıyla anılması durumunda yanıltıcı olabilir."
+  },
+  {
+    "id": "sanat-tarihi-049",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Antik Mimari",
+    "difficulty": 2,
+    "stem": "Antik Yunan ve Roma mimarisinde kullanılan sütun düzenlerinden İyon düzeniyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Başlık kısmında volüt (koç boynuzu) motifleri bulunur.",
+        "explanation": "İyon düzeninin karakteristik başlık özelliği volütlerdir (koç boynuzu)."
+      },
+      {
+        "id": "B",
+        "text": "Sütun gövdesi Dor düzenine göre daha incedir ve genellikle 24 yivlidir.",
+        "explanation": "İyon düzeni sütun gövdesi, Dor'a göre daha zarif ve ince olup, daha fazla yiv (24) içerir."
+      },
+      {
+        "id": "C",
+        "text": "Batı Anadolu'da doğmuştur ve Efes Artemis Tapınağı önemli bir örneğidir.",
+        "explanation": "İyon düzeni Batı Anadolu'da ortaya çıkmış ve Efes Artemis Tapınağı gibi önemli yapılar bu düzende inşa edilmiştir."
+      },
+      {
+        "id": "D",
+        "text": "Kaidesi yoktur ve sütun doğrudan stylobata oturur.",
+        "explanation": "Bu ifade yanlıştır. Kaidesi olmayan sütun düzeni Dor düzenidir. İyon düzeninde kaide bulunur."
+      },
+      {
+        "id": "E",
+        "text": "Genellikle 'kadınsı' ve zarif bir karaktere sahiptir.",
+        "explanation": "İyon düzeni, Dor'un 'erkeksi' karakterinin aksine, daha zarif ve 'kadınsı' bir estetiğe sahiptir."
+      }
+    ],
+    "correct": "D",
+    "trick": "Dor düzeninin kaidesiz olması bilgisiyle karıştırılabilir. İyon düzeninde kaide vardır."
+  },
+  {
+    "id": "sanat-tarihi-050",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Antik Mimari",
+    "difficulty": 1,
+    "stem": "Antik Yunan ve Roma tiyatrolarının temel farklarından biri, oturma basamakları ve orkestra düzenlemesidir. Buna göre, aşağıdaki tiyatro özelliklerinden hangisi Roma tiyatrosuna aittir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yamaca yaslanarak inşa edilmesi.",
+        "explanation": "Yamaca yaslanma Yunan tiyatrosunun özelliğidir."
+      },
+      {
+        "id": "B",
+        "text": "Orkestra bölümünün tam daireye yakın olması.",
+        "explanation": "Tam daireye yakın orkestra Yunan tiyatrosuna özgüdür."
+      },
+      {
+        "id": "C",
+        "text": "Sadece dramatik oyunlar için kullanılması.",
+        "explanation": "Tiyatroların kullanım amacı bu soru için ayırt edici bir özellik değildir ve her iki tip de farklı gösteriler için kullanılmıştır."
+      },
+      {
+        "id": "D",
+        "text": "Skene binasının seyirci alanından tamamen ayrı olması.",
+        "explanation": "Skene binası her iki tiyatro tipinde de bulunur, ancak Roma tiyatrosunda seyirci bölümüyle daha entegre olabilir."
+      },
+      {
+        "id": "E",
+        "text": "Kemerler üzerinde serbestçe ayakta durabilmesi ve orkestranın yarım daire olması.",
+        "explanation": "Roma tiyatroları, Yunan tiyatrolarının aksine, kemer sistemleri sayesinde düz arazide inşa edilebilir ve orkestra yarım daire şeklindedir. Aspendos bu duruma iyi bir örnektir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Aspendos örneğiyle Roma tiyatrosunun kemerli yapısı ve yarım daire orkestrası vurgulanır."
+  },
+  {
+    "id": "sanat-tarihi-051",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Anadolu Selçuklu Sanatı",
+    "difficulty": 2,
+    "stem": "Anadolu Selçuklu mimarisinin karakteristik özelliklerinden biri, yapının dış cephesinin sade olmasına karşın, taçkapısının (portal) son derece gösterişli ve bezemeli olmasıdır. Bu taçkapılarda sıkça görülen bezeme öğelerinden biri aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Mukarnaslar",
+        "explanation": "Mukarnas (sarkıt biçimli, kademeli hücrelerden oluşan dolgu bezemesi) Anadolu Selçuklu ve Osmanlı taçkapılarının imzası niteliğindedir."
+      },
+      {
+        "id": "B",
+        "text": "Pandantifler",
+        "explanation": "Pandantifler kubbe geçiş elemanıdır, taçkapı bezemesi değildir ve Bizans mimarisine özgüdür."
+      },
+      {
+        "id": "C",
+        "text": "Antik Yunan sütun başlıkları",
+        "explanation": "Antik Yunan sütun başlıkları Selçuklu mimarisinde taçkapı bezemesi olarak kullanılmaz."
+      },
+      {
+        "id": "D",
+        "text": "Barok kıvrımlar",
+        "explanation": "Barok kıvrımlar Osmanlı geç dönem ve Batı mimarisinde görülür, Selçuklu'da değildir."
+      },
+      {
+        "id": "E",
+        "text": "Vitray pencereler",
+        "explanation": "Vitray pencereler Gotik mimarinin bir özelliğidir, Selçuklu taçkapılarında bezeme olarak kullanılmaz."
+      }
+    ],
+    "correct": "A",
+    "trick": "Mukarnasın tanımı ve Selçuklu taçkapılarıyla ilişkisi bilinmelidir. Diğer şıklar farklı mimari dönemlere aittir."
+  },
+  {
+    "id": "sanat-tarihi-052",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Osmanlı Mimarisi",
+    "difficulty": 3,
+    "stem": "Osmanlı mimarisinde, kare planlı bir mekânın üzerini tek bir kubbeyle mümkün olan en geniş ve aydınlık biçimde örtme arayışı önemli bir gelişim göstermiştir. Bu arayışın en erken ve dönüm noktası niteliğindeki örneklerinden biri, merkezi büyük kubbe ve dört farklı minare denemesini barındıran cami aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Bursa Ulu Camii",
+        "explanation": "Bursa Ulu Camii çok kubbeli (ulu cami) plan tipine örnektir, merkezi kubbe arayışının dönüm noktası değildir."
+      },
+      {
+        "id": "B",
+        "text": "Edirne Üç Şerefeli Camii",
+        "explanation": "Edirne Üç Şerefeli Camii (1447), Osmanlı mimarisinin dönüm noktasıdır. İlk kez merkezi büyük kubbe + yan mekânlar şeması ve dört farklı minare denemesi burada yapılmıştır. Adını üç şerefeli minaresinden alır."
+      },
+      {
+        "id": "C",
+        "text": "Şehzade Camii",
+        "explanation": "Şehzade Camii, Mimar Sinan'ın çıraklık eseridir ve dört yarım kubbeli simetrik şemaya sahiptir, ancak bu sorudaki tanıma uyan erken dönem dönüm noktası değildir."
+      },
+      {
+        "id": "D",
+        "text": "Süleymaniye Camii",
+        "explanation": "Süleymaniye Camii, Mimar Sinan'ın kalfalık eseridir ve iki yarım kubbeli şemaya sahiptir. Bu da erken dönem dönüm noktası tanımına uymaz."
+      },
+      {
+        "id": "E",
+        "text": "Selimiye Camii",
+        "explanation": "Selimiye Camii, Mimar Sinan'ın ustalık eseridir ve tek büyük kubbeyi sekiz fil ayağına oturtan bir yapıdır. Bu da erken dönem dönüm noktası değildir."
+      }
+    ],
+    "correct": "B",
+    "trick": "Mimar Sinan'ın eserleriyle karıştırılabilir. Soruda 'erken dönem' ve 'dönüm noktası' vurgusu önemlidir. Üç Şerefeli Camii, Sinan öncesi bir dönüm noktasıdır."
+  },
+  {
+    "id": "sanat-tarihi-053",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Batı Sanatı",
+    "difficulty": 3,
+    "stem": "Aşağıdaki Batı sanatı akımlarından hangisi, nesneleri aynı anda farklı açılardan göstererek geometrik formlara indirgeyen ve küresel üç boyutlu nesneleri düz yüzeyde iki boyutlu olarak sunan bir yaklaşımla öne çıkmıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "İzlenimcilik (Empresyonizm)",
+        "explanation": "İzlenimcilik, ışığın anlık etkisini ve açık havada resim yapmayı vurgular, nesnelerin farklı açılardan gösterimiyle ilgili değildir."
+      },
+      {
+        "id": "B",
+        "text": "Sürrealizm",
+        "explanation": "Sürrealizm rüya ve bilinçaltını temel alır, nesneleri geometrik formlara indirgeme amacı taşımaz."
+      },
+      {
+        "id": "C",
+        "text": "Kübizm",
+        "explanation": "Kübizm, nesneleri birçok farklı açıdan aynı anda göstererek geometrik formlara indirgeyen ve iki boyutlu yüzeyde üç boyutlu algı yaratmaya çalışan bir akımdır. Picasso ve Braque bu akımın öncüleridir."
+      },
+      {
+        "id": "D",
+        "text": "Romantizm",
+        "explanation": "Romantizm, duygu, doğa ve kahramanlık temalarını işler, geometrik formlarla bir ilgisi yoktur."
+      },
+      {
+        "id": "E",
+        "text": "Ekspresyonizm",
+        "explanation": "Ekspresyonizm, iç dünyanın dışavurumunu amaçlar ve renkleri, formları deforme eder ancak nesneleri farklı açılardan göstermeyi temel almaz."
+      }
+    ],
+    "correct": "C",
+    "trick": "Farklı sanat akımlarının temel özelliklerinin iyi bilinmesi gerekmektedir. 'Çok yönden aynı anda gösterim' ve 'geometri' anahtar kelimelerdir."
+  },
+  {
+    "id": "sanat-tarihi-054",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Geleneksel El Sanatları",
+    "difficulty": 1,
+    "stem": "Anadolu'da yaygın olarak yapılan ve Kızılırmak'ın kırmızı kili sayesinde Hitit döneminden beri devam eden çömlekçilik sanatı ile ünlü ilçe aşağıdakilerden hangisidir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "İznik",
+        "explanation": "İznik, çinicilikle ünlüdür, çömlekçilikle değil."
+      },
+      {
+        "id": "B",
+        "text": "Midyat",
+        "explanation": "Midyat, telkâri (gümüş filigran) sanatı ile ünlüdür."
+      },
+      {
+        "id": "C",
+        "text": "Hereke",
+        "explanation": "Hereke, ipek halılarıyla ünlüdür."
+      },
+      {
+        "id": "D",
+        "text": "Avanos",
+        "explanation": "Avanos, Kızılırmak kiliyle Hitit döneminden beri devam eden çömlekçilik geleneğiyle ünlüdür."
+      },
+      {
+        "id": "E",
+        "text": "Bursa",
+        "explanation": "Bursa, ipekçilik ve bıçakçılık gibi farklı el sanatlarıyla ünlüdür, çömlekçilikle değil."
+      }
+    ],
+    "correct": "D",
+    "trick": "Diğer el sanatları merkezleriyle karıştırılabilir. 'Kızılırmak kili' ve 'Hitit dönemi' anahtar ipuçlarıdır."
+  },
+  {
+    "id": "sanat-tarihi-055",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Anadolu Selçuklu Sanatı",
+    "difficulty": 2,
+    "stem": "Aşağıdaki Anadolu Selçuklu dönemi yapılarından hangisi, ahşap direkli (hipostil) cami tipinin önemli bir örneği olup, 2023 yılında 'Orta Çağ Anadolu Ahşap Hipostil Camileri' adıyla UNESCO Dünya Mirası Listesi'ne girmiştir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Divriği Ulu Camii ve Darüşşifası",
+        "explanation": "Divriği Ulu Camii, olağanüstü taş işçiliğiyle ünlüdür ve UNESCO listesindedir, ancak ahşap direkli cami tipinde değildir."
+      },
+      {
+        "id": "B",
+        "text": "Alaeddin Camii (Konya)",
+        "explanation": "Konya Alaeddin Camii, Selçuklu başkentinin ulu camisidir ancak ahşap direkli cami tipine girmez."
+      },
+      {
+        "id": "C",
+        "text": "İnce Minareli Medrese (Konya)",
+        "explanation": "İnce Minareli Medrese bir medresedir ve taçkapısındaki hat kuşaklarıyla bilinir, cami değildir."
+      },
+      {
+        "id": "D",
+        "text": "Sultanhanı (Aksaray)",
+        "explanation": "Sultanhanı, Anadolu'nun en büyük kervansaraylarından biridir, cami değildir."
+      },
+      {
+        "id": "E",
+        "text": "Beyşehir Eşrefoğlu Camii",
+        "explanation": "Beyşehir Eşrefoğlu Camii, ahşap direkli cami tipinin en büyük ve en özgün örneklerinden biridir ve 2023'te UNESCO Dünya Mirası Listesi'ne girmiştir."
+      }
+    ],
+    "correct": "E",
+    "trick": "Diğer Selçuklu eserleriyle karıştırılabilir. 'Ahşap direkli' ve '2023 UNESCO' anahtar ipuçlarıdır."
+  },
+  {
+    "id": "sanat-tarihi-056",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Antik Mimari",
+    "difficulty": 2,
+    "stem": "Antik Yunan tapınak mimarisinde, tapınağı dört yandan tek sıra sütunla çevreleyen plana ne ad verilir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Peripteros",
+        "explanation": "Peripteros, tapınağın dört yanının tek sıra sütunla çevrelendiği tapınak tipidir."
+      },
+      {
+        "id": "B",
+        "text": "Prostylos",
+        "explanation": "Prostylos, yalnızca tapınağın ön cephesinde sütun sırası bulunan tapınak tipidir."
+      },
+      {
+        "id": "C",
+        "text": "Amphiprostylos",
+        "explanation": "Amphiprostylos, tapınağın hem ön hem de arka cephesinde sütun sırası bulunan tapınak tipidir."
+      },
+      {
+        "id": "D",
+        "text": "Dipteros",
+        "explanation": "Dipteros, tapınağın dört yanının çift sıra sütunla çevrelendiği, daha büyük tapınaklarda görülen bir tiptir."
+      },
+      {
+        "id": "E",
+        "text": "Tholos",
+        "explanation": "Tholos, yuvarlak planlı tapınak tipidir."
+      }
+    ],
+    "correct": "A",
+    "trick": "Tapınak tipleri arasındaki benzer isimler ve sütun sıralarının karıştırılması."
+  },
+  {
+    "id": "sanat-tarihi-057",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Anadolu Selçuklu Sanatı",
+    "difficulty": 1,
+    "stem": "Aşağıdakilerden hangisi, UNESCO Dünya Mirası Listesi'nde yer alan 'Orta Çağ Anadolu Ahşap Hipostil Camileri' grubuna dahil olan eserlerden biri değildir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Afyon Ulu Cami",
+        "explanation": "Afyon Ulu Cami, ahşap direkli camiler grubunda yer alır ve UNESCO listesindedir."
+      },
+      {
+        "id": "B",
+        "text": "Divriği Ulu Cami",
+        "explanation": "Divriği Ulu Cami, taş işçiliğiyle ünlü bir Selçuklu yapısıdır ve UNESCO listesindedir, ancak ahşap hipostil camileri grubuna dahil değildir."
+      },
+      {
+        "id": "C",
+        "text": "Ankara Arslanhane Camii",
+        "explanation": "Ankara Arslanhane Camii, ahşap direkli camiler grubunda yer alır ve UNESCO listesindedir."
+      },
+      {
+        "id": "D",
+        "text": "Beyşehir Eşrefoğlu Camii",
+        "explanation": "Beyşehir Eşrefoğlu Camii, ahşap direkli camiler grubunda yer alır ve UNESCO listesindedir."
+      },
+      {
+        "id": "E",
+        "text": "Sivrihisar Ulu Cami",
+        "explanation": "Sivrihisar Ulu Cami, ahşap direkli camiler grubunda yer alır ve UNESCO listesindedir."
+      }
+    ],
+    "correct": "B",
+    "trick": "UNESCO listesindeki Selçuklu eserlerini karıştırmak; Divriği Ulu Cami de UNESCO'dadır ancak ahşap hipostil değildir."
+  },
+  {
+    "id": "sanat-tarihi-058",
+    "topicId": "sanat-tarihi",
+    "subtopic": "Osmanlı Mimarisi",
+    "difficulty": 3,
+    "stem": "Osmanlı mimarisinde, kare plandan kubbeye geçişte köşeleri kesen küçük yarım konik öğelere ne ad verilir?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Pandantif",
+        "explanation": "Pandantif, kareden kubbeye geçişte kullanılan küresel üçgen bir geçiş elemanıdır ve genellikle Bizans mimarisiyle özdeşleşmiştir."
+      },
+      {
+        "id": "B",
+        "text": "Mukarnas",
+        "explanation": "Mukarnas, sarkıt biçiminde, kademeli hücrelerden oluşan dolgu bezemesidir, geçiş elemanı değil bir süsleme öğesidir."
+      },
+      {
+        "id": "C",
+        "text": "Tromp",
+        "explanation": "Tromp, kareden kubbeye geçişte köşeleri kesen küçük yarım konik öğelerdir ve Selçuklu mimarisinde yaygın olarak kullanılmıştır."
+      },
+      {
+        "id": "D",
+        "text": "Türk üçgeni",
+        "explanation": "Türk üçgeni, kareden kubbeye geçişte kullanılan, üst üste dizili ters-düz üçgenlerden oluşan Türklere özgü bir geçiş öğesidir."
+      },
+      {
+        "id": "E",
+        "text": "Payanda",
+        "explanation": "Payanda, duvarı dışarıdan destekleyen ayaklardır, geçiş elemanı değildir."
+      }
+    ],
+    "correct": "C",
+    "trick": "Farklı kubbe geçiş elemanlarını ve bunların tanımlarını karıştırmak. Özellikle pandantif ve tromp arasındaki fark."
+  },
+  {
+    "id": "sanat-tarihi-059",
+    "topicId": "sanat-tarihi",
+    "subtopic": "El Sanatları",
+    "difficulty": 2,
+    "stem": "Aşağıdaki geleneksel el sanatları ve bu sanatın özdeşleştiği merkez eşleştirmelerinden hangisi yanlıştır?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Telkâri - Midyat",
+        "explanation": "Telkâri (gümüş filigran) sanatı Midyat ile özdeşleşmiştir, bu eşleştirme doğrudur."
+      },
+      {
+        "id": "B",
+        "text": "Çini - İznik",
+        "explanation": "Çini sanatı 16. yüzyılda İznik'te altın çağını yaşamıştır, bu eşleştirme doğrudur."
+      },
+      {
+        "id": "C",
+        "text": "Halı - Hereke",
+        "explanation": "Hereke, ipek halıları ve saray halıları ile tanınır, bu eşleştirme doğrudur."
+      },
+      {
+        "id": "D",
+        "text": "Keçe - Gaziantep",
+        "explanation": "Keçe sanatı Konya, Afyon, Balıkesir ve Tire gibi merkezlerde yaygınken, Gaziantep daha çok bakırcılık ve yemenicilik ile bilinir. Bu eşleştirme yanlıştır."
+      },
+      {
+        "id": "E",
+        "text": "Cam Sanatı - Beykoz",
+        "explanation": "Beykoz, çeşm-i bülbül gibi cam ürünleriyle ünlüdür, bu eşleştirme doğrudur."
+      }
+    ],
+    "correct": "D",
+    "trick": "El sanatları ve merkezlerini ezberlemeye dayalı bir soru olup, Gaziantep'in keçe ile değil, bakır ve deri işçiliği ile daha çok anılması tuzağıdır."
   }
 ]
