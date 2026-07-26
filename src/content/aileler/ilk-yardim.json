@@ -1,1 +1,707 @@
-[]
+[
+  {
+    "id": "aile-ilk-yardim-001",
+    "topicId": "ilk-yardim",
+    "cekirdek": "Turist rehberliği mesleğe kabul sınavında, temel ilk yardım bilgilerinin yanı sıra, rehberlerin karşılaşabileceği kültürel ve sanatsal eserler hakkında da bilgi sahibi olmaları beklenir.",
+    "ozet": "MKS'de, turizmle ilgili temel konuların yanı sıra genel kültür ve sanat bilgisi de sorgulanır. Özellikle **Rönesans** dönemi sanatçıları ve eserleri sıkça karşılaşılan konulardandır. Bu dönemde yaşamış önemli bir sanatçı olan **Michelangelo**, 'Davut Heykeli' ve 'Sistine Şapeli' tavan freskleri gibi başyapıtlarıyla tanınır. Bir rehberin, bu tür eserlerin **sanatçısını** ve **sergilendiği yeri** bilmesi, hem mesleki yeterlilik hem de olası soruları doğru yanıtlamak açısından kritiktir. Unutmayın, bu bilgiler turist gruplarına doğru ve etkili bilgi aktarımı için de esastır.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-044",
+        "stem": "Rönesans döneminin başyapıtlarından biri kabul edilen ve Floransa'da sergilenen dünyaca ünlü 'Davut (David) Heykeli' hangi sanatçıya aittir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Donatello",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Bernini",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Michelangelo",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Raphael",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-ilk-yardim-001-t1",
+        "stem": "Aşağıdakilerden hangisi Michelangelo'nun eserlerinden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Son Akşam Yemeği",
+            "explanation": "Son Akşam Yemeği, Leonardo da Vinci'ye ait bir eserdir, Michelangelo'ya değil. Bu şık bu nedenle yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Davut Heykeli",
+            "explanation": "Davut Heykeli, Michelangelo'nun en bilinen başyapıtlarından biridir ve Floransa'da sergilenmektedir."
+          },
+          {
+            "id": "C",
+            "text": "Sistine Şapeli tavan freskleri",
+            "explanation": "Sistine Şapeli'nin tavan freskleri, Michelangelo tarafından yapılmış ve dünya sanat tarihinin en önemli eserleri arasında yer almaktadır."
+          },
+          {
+            "id": "D",
+            "text": "Pietà",
+            "explanation": "Pietà, Michelangelo'nun gençlik dönemi eserlerinden olup Vatikan'daki Aziz Petrus Bazilikası'nda bulunmaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Aziz Petrus Bazilikası'nın kubbesi",
+            "explanation": "Aziz Petrus Bazilikası'nın kubbesinin tasarımı, Michelangelo'nun önemli mimari eserlerinden biridir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Birden fazla Rönesans dönemi sanatçısının eserlerini karıştırarak adayları yanıltmayı amaçlar."
+      },
+      {
+        "id": "aile-ilk-yardim-001-t2",
+        "stem": "Michelangelo'nun 'Davut Heykeli'nin sergilendiği şehir ve müze/galeri aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Roma, Borghese Galerisi",
+            "explanation": "Borghese Galerisi Roma'da yer alsa da, Davut Heykeli burada sergilenmemektedir."
+          },
+          {
+            "id": "B",
+            "text": "Floransa, Galleria dell'Accademia",
+            "explanation": "Davut Heykeli, Floransa'da Galleria dell'Accademia'da sergilenmektedir. Bu bilgi ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Vatikan, Aziz Petrus Bazilikası",
+            "explanation": "Aziz Petrus Bazilikası'nda Michelangelo'nun Pietà heykeli bulunmaktadır, Davut Heykeli değil."
+          },
+          {
+            "id": "D",
+            "text": "Floransa, Uffizi Galerisi",
+            "explanation": "Uffizi Galerisi Floransa'da önemli bir sanat müzesidir ancak Davut Heykeli burada sergilenmez."
+          },
+          {
+            "id": "E",
+            "text": "Milano, Pinacoteca di Brera",
+            "explanation": "Pinacoteca di Brera, Milano'da önemli bir sanat galerisidir ancak Davut Heykeli burada bulunmamaktadır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Popüler şehirlerdeki bilinen diğer müze ve galerileri şıklara ekleyerek doğru sergilenme yerini karıştırmayı amaçlar."
+      },
+      {
+        "id": "aile-ilk-yardim-001-t3",
+        "stem": "Aşağıdaki sanatçı ve eser eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Michelangelo – Davut Heykeli",
+            "explanation": "Davut Heykeli, Michelangelo'nun başyapıtlarından biridir. Eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Michelangelo – Sistine Şapeli tavan freskleri",
+            "explanation": "Sistine Şapeli'nin tavan freskleri, Michelangelo tarafından yapılmıştır. Eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Donatello – Davut Heykeli",
+            "explanation": "Donatello'nun da bir Davut Heykeli olmasına rağmen, ders notunda bahsedilen ve Rönesans'ın başyapıtı olarak nitelenen Davut Heykeli Michelangelo'ya aittir. Donatello'nun eseri, genellikle Michelangelo'nunki kadar ünlenmemiştir ve ders notunda özellikle Michelangelo'nun eseri vurgulanmıştır. Bu eşleştirme, nottaki bağlama göre yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Michelangelo – Pietà",
+            "explanation": "Pietà, Michelangelo'nun önemli heykellerinden biridir. Eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Leonardo da Vinci – Son Akşam Yemeği",
+            "explanation": "Son Akşam Yemeği, Leonardo da Vinci'ye ait ikonik bir tablodur. Eşleştirme doğrudur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Aynı isimde farklı sanatçılar tarafından yapılmış eserlerin varlığını kullanarak adayları yanıltmayı amaçlar. Ders notunda Michelangelo'nun 'Davut Heykeli'ne yapılan özel vurgu, bu sorunun anahtarıdır."
+      }
+    ]
+  },
+  {
+    "id": "aile-ilk-yardim-002",
+    "topicId": "ilk-yardim",
+    "cekirdek": "Turistik ürünlerin heterojen yapısını ve diğer temel özelliklerini anlamak, turizm sektöründeki hizmet kalitesinin değerlendirilmesi için önemlidir.",
+    "ozet": "Turistik ürünler, diğer mallardan farklı bazı temel özelliklere sahiptir. Bu özellikler, ürünün sunulma ve tüketilme şeklini belirler. En önemlilerinden biri **heterojen** olmasıdır; yani her sunulduğunda farklılık gösterebilir ve hizmeti sunan ile alanın etkileşimine bağlıdır. Ayrıca, turistik ürünler **soyuttur** (elle tutulamaz), **dayanıksızdır** (depolanamaz, belirli bir zamanda tüketilmesi gerekir) ve üretimi ile tüketimi çoğu zaman aynı anda gerçekleşir. Bu özellikleri bilirseniz, turistik ürünle ilgili tüm soruları rahatlıkla çözebilirsiniz.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-032",
+        "stem": "Aşağıdakilerden hangisi, turistik ürünün (hizmetin) temel özelliklerinden biridir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Homojendir",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Heterojendir",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Taşınabilirdir",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Dayanıklıdır",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-ilk-yardim-002-t1",
+        "stem": "Aşağıdaki ifadelerden hangisi, turistik ürünün doğası gereği sahip olduğu özelliklerden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Üretim ve tüketiminin aynı anda gerçekleşmesi",
+            "explanation": "Bu, turistik ürünün temel özelliklerinden biridir. Rehberlik hizmeti gibi, üretildiği anda tüketilir."
+          },
+          {
+            "id": "B",
+            "text": "Depolanamaması (dayanıksızlık)",
+            "explanation": "Turistik hizmetler depolanamaz, örneğin bir uçak koltuğu boş giderse o hizmet kaybolmuş demektir. Bu doğru bir özelliktir."
+          },
+          {
+            "id": "C",
+            "text": "Her sunumda farklılık gösterebilmesi (heterojenlik)",
+            "explanation": "Turistik ürünler, sunucunun performansına ve müşterinin beklentilerine göre farklılık gösterebilir, bu da heterojenlik özelliğidir."
+          },
+          {
+            "id": "D",
+            "text": "Elle tutulur (somut) olması",
+            "explanation": "Turistik ürünler, deneyim ve hizmet odaklı olduğu için soyuttur, elle tutulur (somut) değildir. Bu ifade turistik ürünün özelliklerinden biri değildir."
+          },
+          {
+            "id": "E",
+            "text": "Tüketicinin üretim sürecine katılımını gerektirmesi",
+            "explanation": "Bir rehberlik hizmetinde turist, rehberin anlattıklarını dinleyerek veya aktivitelere katılarak hizmetin bir parçası olur. Bu da doğru bir özelliktir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Sorunun 'DEĞİLDİR' kısmına dikkat etmeyerek yanlış bir özelliği doğru sanmak."
+      },
+      {
+        "id": "aile-ilk-yardim-002-t2",
+        "stem": "Bir turist rehberinin sunduğu hizmetin, her turda farklı bir deneyim sunması ve rehberin o günkü performansına, grubun dinamiklerine göre değişmesi, turistik ürünün hangi temel özelliğiyle doğrudan ilişkilidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Soyutluk",
+            "explanation": "Soyutluk, hizmetin elle tutulamaz olması anlamına gelir. Farklı deneyim sunma özelliği ile doğrudan ilişkili değildir."
+          },
+          {
+            "id": "B",
+            "text": "Dayanıksızlık",
+            "explanation": "Dayanıksızlık, hizmetin depolanamaması anlamına gelir. Her turda farklı deneyim sunma özelliği ile doğrudan ilişkili değildir."
+          },
+          {
+            "id": "C",
+            "text": "Üretim ve tüketimin eş zamanlılığı",
+            "explanation": "Bu özellik, hizmetin üretildiği anda tüketilmesi anlamına gelir. Farklı deneyim sunma özelliği ile doğrudan ilişkili değildir."
+          },
+          {
+            "id": "D",
+            "text": "Maliyet esnekliği",
+            "explanation": "Maliyet esnekliği, turistik ürünün temel özelliklerinden biri değildir ve sorudaki durumla ilgisi yoktur."
+          },
+          {
+            "id": "E",
+            "text": "Heterojenlik",
+            "explanation": "Heterojenlik, hizmetin her sunulduğunda farklılık gösterebilmesi, standartlaştırılamaması anlamına gelir. Rehberin performansı ve grup dinamikleriyle değişen deneyim bu özelliğin bir yansımasıdır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Diğer özelliklerin de turistik ürünle ilgili olması nedeniyle doğru cevabı karıştırmak."
+      },
+      {
+        "id": "aile-ilk-yardim-002-t3",
+        "stem": "Aşağıdaki turistik ürün özelliklerinden hangisi, açıklamasıyla doğru bir şekilde eşleştirilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Eş zamanlılık: Üretim ve tüketiminin aynı anda gerçekleşmesi",
+            "explanation": "Eş zamanlılık, turistik hizmetin üretildiği anda tüketilmesi anlamına gelir. Örneğin, bir rehberin anlatımı anında turist tarafından deneyimlenir. Bu açıklama doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Soyutluk: Turistik ürünün depolanabilir olması",
+            "explanation": "Soyutluk, ürünün elle tutulamaz, fiziksel bir varlığının olmaması anlamına gelir. Depolanabilirlik ise dayanıksızlık özelliğinin zıttıdır."
+          },
+          {
+            "id": "C",
+            "text": "Heterojenlik: Her zaman aynı kalitede ve standartta sunulması",
+            "explanation": "Heterojenlik, ürünün her sunumda farklılık göstermesi, standartlaştırılamaması anlamına gelir. Açıklama yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Dayanıksızlık: Tüketilmeyen hizmetin geri dönüştürülebilmesi",
+            "explanation": "Dayanıksızlık, hizmetin depolanamaması ve belirli bir zamanda tüketilmezse kaybolması anlamına gelir. Geri dönüştürme ile ilgisi yoktur."
+          },
+          {
+            "id": "E",
+            "text": "Fiziksel Varlık: Turistik ürünün kolayca başka bir yere taşınabilmesi",
+            "explanation": "Turistik ürünün temel özelliklerinden biri soyutluktur, yani fiziksel bir varlığı yoktur. 'Fiziksel Varlık' diye bir özellik yoktur ve açıklama yanlıştır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Eşleştirme sorularında şıkların tamamını okumadan ilk doğru gibi görünen cevabı işaretleme eğilimi."
+      }
+    ]
+  },
+  {
+    "id": "aile-ilk-yardim-003",
+    "topicId": "ilk-yardim",
+    "cekirdek": "Yanıkların derecelendirilmesi ve hayati risk taşıyan yanık derecesi bilgisini ölçer.",
+    "ozet": "Yanıklar, doku hasarının derinliğine göre sınıflandırılır ve her derecenin kendine özgü özellikleri ve riskleri vardır. İlk yardımda bu sınıflandırmayı bilmek, doğru müdahale için kritik öneme sahiptir. Özellikle, derinin tüm katmanlarını etkileyen ve en ciddi sağlık sorunlarına yol açabilen yanık derecesini tanımak, hayati tehlikeyi anlamak açısından önemlidir. Unutmayın, **yanık dereceleri** ilerledikçe hasar derinleşir ve **hayati risk** artar. Yanık durumunda ilk yardımcı, **ağrının şiddeti** yerine doku hasarının boyutuna odaklanmalıdır.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-081",
+        "stem": "Doku hasarının derinliğine ve hayati riske göre sınıflandırıldığında, en tehlikeli yanık derecesi aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "1. Derece",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "4. Derece",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "2. Derece",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "3. Derece",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-ilk-yardim-003-t1",
+        "stem": "Aşağıdaki yanık derecelerinden hangisi, derinin tüm katmanlarının yanı sıra sinirler, kan damarları ve bazen kemik de dahil olmak üzere en derin doku hasarına neden olur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "1. Derece yanık",
+            "explanation": "1. derece yanıklar sadece derinin en üst tabakası olan epidermisi etkiler ve genellikle kızarıklık ve hafif ağrıya neden olur, en tehlikeli değildir."
+          },
+          {
+            "id": "B",
+            "text": "3. Derece yanık",
+            "explanation": "Ders notuna göre, 3. derece yanıklar derinin tüm katmanlarını, sinirleri, kan damarlarını ve bazen kemiği de etkileyerek en tehlikeli doku hasarına yol açar. Bu nedenle doğru cevaptır."
+          },
+          {
+            "id": "C",
+            "text": "2. Derece yanık",
+            "explanation": "2. derece yanıklar epidermisin yanı sıra dermisi de etkiler ve su toplaması (bül) ile karakterizedir, ancak genellikle 3. derece kadar derin değildir."
+          },
+          {
+            "id": "D",
+            "text": "4. Derece yanık",
+            "explanation": "4. derece yanıklar, bazı sınıflandırmalarda kullanılan bir terim olmakla birlikte, ders notunda bahsedilen ve en tehlikeli olarak tanımlanan yanık türü 3. derece yanıklardır. Notta 4. derece yanık tanımı yer almamaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Yüzeysel yanık",
+            "explanation": "Yüzeysel yanık terimi genellikle 1. derece yanıkları ifade eder ve en tehlikeli yanık derecesi değildir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Şıklarda 4. derece yanık seçeneğinin bulunması, öğrencinin ders notunda belirtilen 'en tehlikeli' tanımına odaklanmasını gerektirir."
+      },
+      {
+        "id": "aile-ilk-yardim-003-t2",
+        "stem": "Yanık vakalarında ilk yardım uygulamalarıyla ilgili aşağıdakilerden hangisi YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yanan bölgeyi en az 20 dakika boyunca soğuk su altında tutmak.",
+            "explanation": "Bu ifade ders notunda 'Yanan bölge en az 20 dakika soğuk suyun altında tutulur (buz kullanılmaz)' şeklinde belirtilmiştir ve doğru bir ilk yardım uygulamasıdır."
+          },
+          {
+            "id": "B",
+            "text": "Su toplamış yanık bölgelerdeki bülleri patlatmamak.",
+            "explanation": "Ders notunda 'Su toplamışsa patlatılmaz' ifadesi yer almaktadır. Bu, enfeksiyon riskini önlemek için doğru bir uygulamadır."
+          },
+          {
+            "id": "C",
+            "text": "Yanık üzerine diş macunu, yoğurt veya salça gibi maddeler sürmek.",
+            "explanation": "Ders notunda 'Yanık üzerine diş macunu, yoğurt, salça gibi maddeler sürülmez' şeklinde açıkça belirtilmiştir. Bu yanlış bir ilk yardım uygulamasıdır."
+          },
+          {
+            "id": "D",
+            "text": "Vücuda yapışan giysileri çıkarmaya çalışmamak.",
+            "explanation": "Ders notunda 'Yapışan giysi çıkarılmaz' ifadesi yer almaktadır. Bu, deriye daha fazla zarar vermemek için doğru bir uygulamadır."
+          },
+          {
+            "id": "E",
+            "text": "Kimyasal yanıklarda bol suyla yıkamak.",
+            "explanation": "Ders notunda 'Kimyasal yanıkta bol suyla yıkanır' ifadesi yer almaktadır. Bu, kimyasalın etkisini azaltmak için doğru bir uygulamadır."
+          }
+        ],
+        "correct": "C",
+        "trick": "Öğrencinin halk arasında yaygın ancak yanlış bilinen ilk yardım uygulamalarını ayırt etme becerisini test eder."
+      },
+      {
+        "id": "aile-ilk-yardim-003-t3",
+        "stem": "Yanık dereceleri ve özellikleri dikkate alındığında, aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "1. Derece Yanık: Epidermisi etkiler, kızarıklık ve hafif ağrı görülür.",
+            "explanation": "Bu eşleştirme doğrudur. Ders notunda 1. derece yanıklar için 'derinin en üst tabakası olan epidermisi etkiler' ifadesi mevcuttur ve bu tür yanıklar genellikle kızarıklık ve ağrıya neden olur."
+          },
+          {
+            "id": "B",
+            "text": "2. Derece Yanık: Epidermis ve dermisi etkiler, su toplaması (bül) oluşur.",
+            "explanation": "Bu eşleştirme doğrudur. Ders notunda 2. derece yanıklar için 'epidermisin yanı sıra dermisi de etkiler ve su toplaması (bül) ile karakterizedir' ifadesi yer almaktadır."
+          },
+          {
+            "id": "C",
+            "text": "En Tehlikeli Yanık: 3. derece yanık, doku hasarının derinliği en fazladır.",
+            "explanation": "Bu eşleştirme doğrudur. Ders notunda 3. derece yanık 'Doku hasarının derinliğine ve hayati riske göre en tehlikeli yanık derecesi 3. derecedir' olarak belirtilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "3. Derece Yanık: Derinin tüm katmanları, sinirler ve kan damarları hasar görür, genellikle şiddetli ağrı hissedilir.",
+            "explanation": "Bu eşleştirme yanlıştır. Ders notunda 3. derece yanıklar için 'derinin tüm katmanları, sinirler, kan damarları ve bazen kemik de hasar görür' ifadesi doğrudur, ancak 'genellikle şiddetli ağrı hissedilir' kısmı eksik veya yanıltıcıdır. Sinir uçları da hasar gördüğü için 3. derece yanıklarda ağrı hissi azalabilir veya hiç olmayabilir. Şiddetli ağrı daha çok 2. derece yanıklarda görülür."
+          },
+          {
+            "id": "E",
+            "text": "Yanık Tedavisi: Yanan bölgeye asla buz uygulanmaz.",
+            "explanation": "Bu eşleştirme doğrudur. Ders notunda 'Yanan bölge en az 20 dakika soğuk suyun altında tutulur (buz kullanılmaz)' ifadesi yer almaktadır."
+          }
+        ],
+        "correct": "D",
+        "trick": "3. derece yanıklarda sinir hasarı nedeniyle ağrının azalabileceği bilgisini gözden kaçırmak, yanıltıcı olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-ilk-yardim-004",
+    "topicId": "ilk-yardim",
+    "cekirdek": "Hava yolu tıkanıklığı yaşayan bir kişiye uygulanacak doğru ilk yardım yöntemini belirleyebilmek.",
+    "ozet": "Hava yolu tıkanıklığı, turistik gezilerde sıkça karşılaşılan bir acil durumdur. Tıkanıklık, kişinin nefes almasını engelleyerek hayati tehlike oluşturabilir. Önemli olan, tıkanıklığın **kısmi** mi yoksa **tam** mı olduğunu ayırt etmektir. Kısmi tıkanıklıkta kişi öksürebilir, konuşabilir ve nefes alabilir; bu durumda müdahale edilmez, sadece öksürmesi teşvik edilir. Ancak kişi konuşamıyor, öksüremiyor ve nefes alamıyorsa, bu **tam tıkanıklık** anlamına gelir ve **Heimlich manevrası** derhal uygulanmalıdır. Bu manevra, karın basısı yoluyla yabancı cismin dışarı atılmasını hedefler. Bebeklerde ise Heimlich yerine sırt vuruşları ve göğüs basıları uygulanır. Unutmayın, bilinç kaybı durumunda Heimlich sonlandırılır ve Temel Yaşam Desteği'ne başlanır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-032",
+        "stem": "Bir restoranda turistin boğazına yemek kaçarak hava yolunun tam tıkanması durumunda ilk tercih edilmesi gereken ilk yardım uygulaması aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Turnike uygulamak",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Ayakta tutmak",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Sırtüstü düz yatırmak",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Heimlich manevrası",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "E",
+            "text": "Oturur pozisyona getirmek",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-ilk-yardim-004-t1",
+        "stem": "Tam hava yolu tıkanıklığı yaşayan yetişkin bir kişiye Heimlich manevrası uygulanırken, ilk yardımcının uygulaması gereken bası şekli ve yeri aşağıdakilerden hangisinde doğru verilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Sırtına beş kez sertçe vurmak.",
+            "explanation": "Sırt vuruşları bebeklerde uygulanır, yetişkinlerde tam tıkanıklıkta Heimlich manevrası tercih edilir."
+          },
+          {
+            "id": "B",
+            "text": "Göğüs kemiğinin alt yarısına iki elle bası uygulamak.",
+            "explanation": "Bu, kalp masajı uygulamasıdır ve Heimlich manevrasında karın bölgesine bası yapılır."
+          },
+          {
+            "id": "C",
+            "text": "Hasta yere yatırılarak ayaklarını 30 cm yukarı kaldırmak.",
+            "explanation": "Bu, şok pozisyonudur ve hava yolu tıkanıklığında uygulanmaz."
+          },
+          {
+            "id": "D",
+            "text": "Ağzına parmak sokarak cismi çıkarmaya çalışmak.",
+            "explanation": "Ağza kör parmakla girmek, cismin daha derine itilmesine neden olabileceği için tehlikelidir ve yapılmamalıdır."
+          },
+          {
+            "id": "E",
+            "text": "Karın bölgesine, göbek ile göğüs kemiği arasına, içe ve yukarı doğru kuvvetlice bası uygulamak.",
+            "explanation": "Heimlich manevrasında yetişkin ve çocuklarda yumruk yapılan elin başparmağı göbek ile göğüs kemiği arasına yerleştirilir ve içe-yukarı doğru kuvvetlice bası uygulanır. Bu doğru bir uygulamadır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Heimlich manevrasının detaylarını bilmeyenler, diğer acil durum pozisyonları veya yanlış uygulamalarla karıştırabilir."
+      },
+      {
+        "id": "aile-ilk-yardim-004-t2",
+        "stem": "Aşağıdakilerden hangisi, hava yolu tıkanıklığı yaşayan bir kişinin durumunu değerlendirirken tam tıkanıklığa işaret eden belirtilerden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Nefes alabilmesi ancak zorlanması.",
+            "explanation": "Nefes alabilme, zorlanma olsa bile kısmi tıkanıklık belirtisidir. Tam tıkanıklıkta kişi nefes alamaz."
+          },
+          {
+            "id": "B",
+            "text": "Elleriyle boğazını tutması (evrensel boğulma işareti).",
+            "explanation": "Bu, tam tıkanıklığın en belirgin işaretlerinden biridir."
+          },
+          {
+            "id": "C",
+            "text": "Konuşamaması.",
+            "explanation": "Tam tıkanıklıkta hava akışı tamamen kesildiği için kişi konuşamaz."
+          },
+          {
+            "id": "D",
+            "text": "Öksürememesi.",
+            "explanation": "Tam tıkanıklıkta etkili bir öksürük mümkün değildir."
+          },
+          {
+            "id": "E",
+            "text": "Yüzünün morarması.",
+            "explanation": "Oksijen yetersizliğinden dolayı yüzde morarma (siyanoz) tam tıkanıklığın ileri bir belirtisidir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Kısmi ve tam tıkanıklık belirtileri arasındaki farkı gözden kaçırmak, yanıltıcı olabilir."
+      },
+      {
+        "id": "aile-ilk-yardim-004-t3",
+        "stem": "Hava yolu tıkanıklığı yaşayan bir bebekte (0-12 ay) uygulanacak ilk yardım adımlarının doğru sıralaması hangi seçenekte verilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bilinç kontrolü yapılır → 112 aranır → Heimlich manevrası uygulanır.",
+            "explanation": "Bebeklerde Heimlich manevrası uygulanmaz."
+          },
+          {
+            "id": "B",
+            "text": "Bebek yüzüstü, başı aşağıda olacak şekilde ön kola yatırılır ve 5 sırt vuruşu yapılır → Bebek sırtüstü çevrilir ve göğüs kemiğine 5 göğüs basısı yapılır → Bu döngü cisim çıkana kadar tekrarlanır.",
+            "explanation": "Bu sıralama, ders notunda bebeklerde hava yolu tıkanıklığı için belirtilen doğru uygulama adımlarıdır."
+          },
+          {
+            "id": "C",
+            "text": "Sırt vuruşları uygulanır → Göğüs basıları uygulanır → Bilinç kontrolü yapılır.",
+            "explanation": "Bilinç kontrolü ve 112 araması gibi adımlar eksiktir ve sıralama yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Ağzı kontrol edilir ve görünen cisim çıkarılmaya çalışılır → 112 aranır → Solunum desteği verilir.",
+            "explanation": "Görünen cisim olsa bile kör parmakla çıkarılmaya çalışılmaz, ayrıca bu adımlar bebeklerdeki temel uygulamayı yansıtmamaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Bebek oturtulur ve öksürmesi teşvik edilir → Solunum durursa Temel Yaşam Desteği'ne başlanır.",
+            "explanation": "Tam tıkanıklık durumunda öksürmeye teşvik etmek yeterli değildir ve Temel Yaşam Desteği'ne geçmeden önce özel manevralar uygulanır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Yetişkin ve bebeklerdeki tıkanıklık müdahale yöntemlerinin farklılığını gözden kaçırmak yaygın bir hatadır."
+      }
+    ]
+  },
+  {
+    "id": "aile-ilk-yardim-005",
+    "topicId": "ilk-yardim",
+    "cekirdek": "Kırık, çıkık ve burkulma gibi durumlarda temel ilk yardım prensibi, yaralı bölgenin hareketini engelleyerek sabitlemektir.",
+    "ozet": "Herhangi bir kaza veya düşme sonucunda oluşan **kırık, çıkık veya burkulma** şüphesi durumunda en kritik adım, yaralı bölgenin hareketini engellemektir. Bu durumlarda, yaralı bölgeyi **bulunduğu şekliyle tespit etmek** ve **hareketsizliğini sağlamak (immobilizasyon)** temel ilkedir. Kesinlikle düzeltmeye çalışılmamalı veya masaj gibi uygulamalar yapılmamalıdır. Tespit işlemi, kırığın bir alt ve bir üst eklemini içine alacak şekilde yapılmalı, ardından dolaşım kontrol edilmelidir. Unutmayın, doğru müdahale iyileşmeyi kolaylaştırırken, yanlış müdahale durumu kötüleştirebilir.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-042",
+        "stem": "Bir turistin otel merdivenlerinden düşmesi sonucunda kırık şüphesi oluşması durumunda ilk yapılması gereken uygulama aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Egzersiz yaptırmak",
+            "explanation": "Cevap anahtarına göre doğru şık E. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Masaj yaparak rahatlatmak",
+            "explanation": "Cevap anahtarına göre doğru şık E. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Turnike uygulamak",
+            "explanation": "Cevap anahtarına göre doğru şık E. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Sıcak su ile yıkamak",
+            "explanation": "Cevap anahtarına göre doğru şık E. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Bölgeyi sabitlemek",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "E",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-ilk-yardim-005-t1",
+        "stem": "Aşağıdakilerden hangisi bir kırık şüphesi durumunda yapılması GEREKEN ilk yardım uygulamalarından biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yaralı bölgeyi hareket ettirmeden sabitlemek.",
+            "explanation": "Bu, kırık şüphesi durumunda yapılması gereken temel ve doğru bir uygulamadır. Notta 'Hepsinde hareketsizlik (immobilizasyon) esastır' ve 'Yaralı bölge bulunduğu şekliyle tespit edilir' ifadeleri geçmektedir."
+          },
+          {
+            "id": "B",
+            "text": "Kırığın bir alt ve bir üst eklemini de içine alacak şekilde tespit yapmak.",
+            "explanation": "Bu, kırık tespitinin doğru bir şekilde nasıl yapıldığını açıklayan bir uygulamadır ve notta 'Tespit, kırığın bir alt ve bir üst eklemini içine alacak şekilde yapılır' denmektedir."
+          },
+          {
+            "id": "C",
+            "text": "Açık kırık varsa kemik uçlarını yaranın içine itmek.",
+            "explanation": "Bu, kesinlikle yapılmaması gereken yanlış bir uygulamadır. Notta 'Açık kırıkta yara temiz bezle örtülür, kemik içeri itilmez' açıkça belirtilmiştir. Bu eylem enfeksiyon riskini artırır ve dokuya daha fazla zarar verir."
+          },
+          {
+            "id": "D",
+            "text": "Tespit sonrası parmak uçlarında nabız, renk ve ısı kontrolü yapmak.",
+            "explanation": "Bu, dolaşımın engellenmediğinden emin olmak için yapılması gereken önemli bir kontrol adımıdır. Notta 'Tespitten sonra parmak uçlarında nabız, renk ve ısı kontrol edilir (dolaşım engellenmemeli)' ifadesi yer almaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Şişliği azaltmak için buz kompres uygulamak (doğrudan cilde değdirmeden).",
+            "explanation": "Bu, şişliği azaltmak için doğru bir uygulamadır, ancak buzun doğrudan cilde temas etmemesi gerektiği unutulmamalıdır. Notta 'Şişliği azaltmak için soğuk uygulama yapılır (buz doğrudan cilde değdirilmez)' denmektedir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Yanlış olanı soran olumsuz köklü bir soru olup, 'yapılması gereken' gibi görünen şıklara dikkat edilmelidir."
+      },
+      {
+        "id": "aile-ilk-yardim-005-t2",
+        "stem": "Kırık, çıkık ve burkulmalarla ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kırık: Kemik bütünlüğünün bozulması – Doğrudur. Notta 'Kırık: Kemik bütünlüğünün bozulması' olarak tanımlanmıştır.",
+            "explanation": "Doğrudur. Notta 'Kırık: Kemik bütünlüğünün bozulması' olarak tanımlanmıştır."
+          },
+          {
+            "id": "B",
+            "text": "Çıkık: Eklem yüzeylerinin kalıcı olarak ayrılması – Doğrudur. Notta 'Çıkık: Eklem yüzeylerinin kalıcı olarak ayrılması' olarak belirtilmiştir.",
+            "explanation": "Doğrudur. Notta 'Çıkık: Eklem yüzeylerinin kalıcı olarak ayrılması' olarak belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Açık kırık: Kemik uçlarının deriyi delmesi ve dışarı çıkması – Doğrudur. Notta 'Açık kırıkta kemik uçları deriyi delmiştir; enfeksiyon riski yüksektir' denmektedir.",
+            "explanation": "Doğrudur. Notta 'Açık kırıkta kemik uçları deriyi delmiştir; enfeksiyon riski yüksektir' denmektedir."
+          },
+          {
+            "id": "D",
+            "text": "Burkulma: Eklem bağlarının yırtılması ve kemiklerin yerinden oynaması – Yanlıştır. Burkulmada kemikler yerindedir, sadece bağlar zorlanır. Kemiklerin yerinden oynaması çıkık tanımına daha yakındır.",
+            "explanation": "Yanlıştır. Notta 'Burkulma: Eklem bağlarının zorlanması; kemikler yerindedir' ifadesi yer almaktadır. Kemiklerin yerinden oynaması çıkık tanımına daha yakındır."
+          },
+          {
+            "id": "E",
+            "text": "İmmobilizasyon: Yaralı bölgenin hareketini engellemek – Doğrudur. Notta 'Hepsinde hareketsizlik (immobilizasyon) esastır' ifadesiyle bu kavram açıklanmıştır.",
+            "explanation": "Doğrudur. Notta 'Hepsinde hareketsizlik (immobilizasyon) esastır' ifadesiyle bu kavram açıklanmıştır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Kavramların tanımlarını karıştırarak doğru ve yanlış eşleştirmeleri ayırt etme becerisini ölçer."
+      },
+      {
+        "id": "aile-ilk-yardim-005-t3",
+        "stem": "Bir turist rehberi, tur sırasında bir turistin ayağını burktuğunu fark ettiğinde, bölgedeki şişliği ve ağrıyı azaltmak için aşağıdaki adımları hangi sırayla uygulamalıdır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Buz uygulaması - İstirahat - Baskı - Yükseltme",
+            "explanation": "Bu sıralama yanlıştır. RICE ilkesi Rest (istirahat), Ice (buz), Compression (baskı), Elevation (yükseltme) şeklindedir."
+          },
+          {
+            "id": "B",
+            "text": "Yükseltme - İstirahat - Buz uygulaması - Baskı",
+            "explanation": "Bu sıralama yanlıştır. Yükseltme genellikle son adımdır."
+          },
+          {
+            "id": "C",
+            "text": "Baskı - Yükseltme - İstirahat - Buz uygulaması",
+            "explanation": "Bu sıralama yanlıştır. Baskı ve yükseltme diğer adımlardan önce gelmez."
+          },
+          {
+            "id": "D",
+            "text": "İstirahat - Baskı - Yükseltme - Buz uygulaması",
+            "explanation": "Bu sıralama yanlıştır. Buz uygulaması istirahattan hemen sonra gelmelidir."
+          },
+          {
+            "id": "E",
+            "text": "İstirahat - Buz uygulaması - Baskı - Yükseltme",
+            "explanation": "Bu sıralama, burkulmalarda uygulanan RICE ilkesinin (Rest, Ice, Compression, Elevation) doğru sırasıdır. Notta 'RICE ilkesi (burkulmada): Rest (istirahat), Ice (buz), Compression (baskı), Elevation (yükseltme)' şeklinde verilmiştir."
+          }
+        ],
+        "correct": "E",
+        "trick": "Burkulmalarda uygulanan RICE ilkesinin adımlarını ve doğru kronolojik sırasını bilmeyi gerektirir."
+      }
+    ]
+  }
+]

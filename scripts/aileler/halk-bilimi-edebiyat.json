@@ -1,1 +1,3388 @@
-[]
+[
+  {
+    "id": "aile-halk-bilimi-edebiyat-001",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Antik Yunan destanlarından Homeros'un İlyada destanının konusunu bilmek.",
+    "ozet": "Antik Yunan edebiyatının temel taşlarından olan destanlar, kahramanlık hikâyeleri ve mitolojik olayları işler. Özellikle Homeros'un iki büyük destanı, bu dönemin en bilinen eserleridir. **İlyada Destanı**, Troya Savaşı'nın son 51 gününü ve bu süreçte yaşananları detaylı bir şekilde anlatırken, **Odysseia Destanı** ise savaş sonrası eve dönüş yolculuğunda Odysseus'un başından geçen maceraları konu alır. Bu destanlar, sadece edebi eserler olmakla kalmayıp, Antik Yunan kültürünü ve inançlarını anlamak için de önemli kaynaklardır. Bu bilgileri bilmek, ilgili soruları kolayca çözmenizi sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-001",
+        "stem": "Aşağıdaki Antik Yunan destanlarından hangisinde, Troya Savaşı'nın son yılındaki 51 günlük süreç ve olaylar konu edilmektedir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Odysseia",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Aethiopis",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Theogonia",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "İlyada",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-001-t1",
+        "stem": "Antik Yunan destanları ve konuları ile ilgili aşağıdaki eşleştirmelerden hangisi **yanlıştır**?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Aethiopis – Yunan tanrıları ve evrenin yaratılışı",
+            "explanation": "Aethiopis, Troya Savaşı'nın İlyada'dan sonraki bir bölümünü kapsayan, kayıp bir epik şiirdir. Yunan tanrıları ve evrenin yaratılışı konusu Theogonia'ya aittir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "İlyada – Troya Savaşı'nın son 51 günlük süreci",
+            "explanation": "İlyada Destanı, Troya Savaşı'nın son 51 günlük sürecini ve bu süreçteki olayları konu alır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Odysseia – Odysseus'un Troya Savaşı sonrası eve dönüş yolculuğu",
+            "explanation": "Odysseia Destanı, Troya Savaşı'ndan sonra Odysseus'un İthaka'ya dönüş yolculuğunda yaşadığı maceraları anlatır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Theogonia – Tanrıların ve evrenin kökeni",
+            "explanation": "Hesiodos'un Theogonia eseri, Antik Yunan tanrılarının ve evrenin kökenini konu alır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "İşler ve Günler – Tarım ve ahlaki öğütler",
+            "explanation": "Hesiodos'un İşler ve Günler eseri, tarım ve ahlaki öğütler içerir. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Destan isimlerinin konularıyla doğru eşleştirildiğinden emin olun, özellikle Homeros dışındaki eserleri karıştırmayın."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-001-t2",
+        "stem": "Homeros'un İlyada Destanı'nın temel konusu aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Tanrıların ve evrenin yaratılış hikayeleri",
+            "explanation": "Tanrıların ve evrenin yaratılış hikayeleri Hesiodos'un Theogonia eserinin konusudur, İlyada'nın değil."
+          },
+          {
+            "id": "B",
+            "text": "Troya Savaşı'nın son dönemindeki olaylar ve kahramanların mücadelesi",
+            "explanation": "İlyada Destanı, Troya Savaşı'nın son 51 günündeki olayları, Akhilleus'un öfkesini ve kahramanların mücadelesini detaylı bir şekilde anlatır. Bu ifade, destanın temel konusunu doğru özetlemektedir."
+          },
+          {
+            "id": "C",
+            "text": "Odysseus'un Troya Savaşı sonrası memleketine dönüş maceraları",
+            "explanation": "Bu, Homeros'un Odysseia Destanı'nın konusudur, İlyada'nın değil."
+          },
+          {
+            "id": "D",
+            "text": "Antik Yunan'daki tarım teknikleri ve günlük yaşam pratikleri",
+            "explanation": "Tarım teknikleri ve günlük yaşam pratikleri Hesiodos'un İşler ve Günler eserinin konusudur, İlyada'nın değil."
+          },
+          {
+            "id": "E",
+            "text": "Yunan tanrılarının Olimpos'taki entrikaları ve ilişkileri",
+            "explanation": "Tanrıların entrikaları destanlarda yer alsa da, İlyada'nın temel konusu Troya Savaşı'dır, tanrıların Olimpos'taki ilişkileri değildir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Destanların genel temalarını diğer mitolojik veya edebi eserlerin konularıyla karıştırmayın."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-001-t3",
+        "stem": "Aşağıdaki yazarlar ve eser eşleştirmelerinden hangisi Homeros'a ait destanları ve konularını doğru bir şekilde yansıtmaktadır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hesiodos - İlyada (Troya Savaşı'nın sonu)",
+            "explanation": "İlyada Destanı Homeros'a aittir, Hesiodos'a değil."
+          },
+          {
+            "id": "B",
+            "text": "Homeros - Theogonia (Tanrıların kökeni)",
+            "explanation": "Theogonia Hesiodos'a aittir, Homeros'a değil."
+          },
+          {
+            "id": "C",
+            "text": "Homeros - İlyada (Troya Savaşı'nın son 51 günü) ve Odysseia (Odysseus'un eve dönüş maceraları)",
+            "explanation": "Homeros, hem İlyada hem de Odysseia destanlarının yazarıdır ve verilen konular bu destanların içeriklerini doğru bir şekilde yansıtmaktadır. İlyada Troya Savaşı'nın son 51 gününü, Odysseia ise Odysseus'un eve dönüş maceralarını anlatır."
+          },
+          {
+            "id": "D",
+            "text": "Hesiodos - Odysseia (Odysseus'un dönüşü)",
+            "explanation": "Odysseia Destanı Homeros'a aittir, Hesiodos'a değil."
+          },
+          {
+            "id": "E",
+            "text": "Azra Erhat - İlyada ve Odysseia (Mitoloji Sözlüğü)",
+            "explanation": "Azra Erhat, İlyada ve Odysseia'yı Türkçeye çeviren ve Mitoloji Sözlüğü'nü yazan kişidir, ancak bu destanların yazarı Homeros'tur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Antik Yunan destanlarının yazarları ve ana konuları arasındaki ilişkiyi karıştırmayın."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-002",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Türkiye'deki önemli mağaraların isimlerini, coğrafi konumlarını ve ayırt edici özelliklerini bilmek.",
+    "ozet": "Türkiye, coğrafi yapısı sayesinde pek çok etkileyici mağaraya ev sahipliği yapar. Turist rehberleri için bu mağaraların **konumu**, **uzunluğu** ve **ayırt edici özellikleri** kritik bilgilerdir. Örneğin, Zonguldak-Ankara karayolu üzerinde yer alan **Gökgöl Mağarası**, yaklaşık 3.350 metrelik uzunluğuyla dikkat çeker ve içerisinden aktif bir yeraltı nehri geçer. Antalya'daki **Damlataş Mağarası** astım tedavisi için önemliyken, yine Antalya'daki **Karain Mağarası** Paleolitik döneme ait buluntularıyla bilinir. İstanbul yakınlarındaki **Yarımburgaz Mağarası** ise Anadolu'nun bilinen en eski insan yerleşimlerinden biridir. Tokat'taki **Ballıca Mağarası** ise 'soğan sarkıtları' ve UNESCO Geçici Listesi'nde olmasıyla öne çıkar.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-030",
+        "stem": "Zonguldak-Ankara karayolu üzerinde yer alan, yaklaşık 3.350 metrelik uzunluğuyla Türkiye'nin en uzun mağaralarından biri kabul edilen ve içerisinden aktif bir yeraltı nehri geçen turistik mağara aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Dupnisa Mağarası",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Damlataş Mağarası",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Karain Mağarası",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Gökgöl Mağarası",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-002-t1",
+        "stem": "Türkiye'nin önemli mağaralarından biri olan ve astım tedavisi için kullanılan Damlataş Mağarası hangi ilimizde yer almaktadır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mersin",
+            "explanation": "Mersin'de Cennet-Cehennem Mağaraları bulunur, ancak Damlataş Mağarası burada değildir."
+          },
+          {
+            "id": "B",
+            "text": "Tokat",
+            "explanation": "Tokat'ta Ballıca Mağarası yer alır, Damlataş Mağarası burada değildir."
+          },
+          {
+            "id": "C",
+            "text": "Zonguldak",
+            "explanation": "Zonguldak'ta Gökgöl Mağarası bulunur, Damlataş Mağarası burada değildir."
+          },
+          {
+            "id": "D",
+            "text": "Antalya",
+            "explanation": "Damlataş Mağarası, astım tedavisi için kullanılan ve ders notunda belirtilen önemli bir mağaradır ve Antalya ilimizde bulunmaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Aksaray",
+            "explanation": "Aksaray'da Aşıklı Höyük gibi önemli yerleşimler olsa da, Damlataş Mağarası burada değildir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Farklı illerdeki mağaraların isimlerini ve özelliklerini karıştırma tuzağına düşmeyin."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-002-t2",
+        "stem": "Aşağıdakilerden hangisi, Türkiye'deki önemli mağaralar ve onlara ait özellikler arasında YANLIŞ bir eşleştirmedir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ballıca Mağarası - Tokat'ta bulunur ve soğan sarkıtları ile ünlüdür.",
+            "explanation": "Ballıca Mağarası Tokat'ın Pazar ilçesinde yer alır ve soğan sarkıtları ile bilinir. Bu ifade doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Karain Mağarası - Antalya'da yer alır ve Paleolitik döneme ait buluntularıyla dikkat çeker.",
+            "explanation": "Karain Mağarası Antalya'da bulunur ve Paleolitik döneme ait izleriyle tanınır. Bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Gökgöl Mağarası - Türkiye'nin en uzun mağaralarından biri olup, içerisinden aktif bir yeraltı nehri geçer.",
+            "explanation": "Gökgöl Mağarası, Zonguldak-Ankara karayolu üzerinde, yaklaşık 3.350 metrelik uzunluğuyla Türkiye'nin en uzun mağaralarından biridir ve içerisinden aktif bir yeraltı nehri geçer. Bu ifade doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Yarımburgaz Mağarası - Yaklaşık 400.000 yıllık izleriyle Anadolu'nun bilinen en eski insan yerleşimlerinden biridir.",
+            "explanation": "Yarımburgaz Mağarası, Küçükçekmece Gölü yakınlarında, yaklaşık 400.000 yıllık izleriyle Anadolu'nun en eski insan yerleşimlerinden biridir. Bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Ballıca Mağarası - UNESCO Dünya Mirası Listesi'nde yer alan bir doğal güzelliktir.",
+            "explanation": "Ballıca Mağarası, Nisan 2019'da UNESCO Dünya Mirası GEÇİCİ Listesi'ne alınmıştır, ancak henüz Dünya Mirası Listesi'nde değildir. Bu nedenle ifade yanlıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "UNESCO Geçici Liste ile Dünya Mirası Listesi arasındaki farkı gözden kaçırma tuzağına dikkat edin."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-002-t3",
+        "stem": "Aşağıdaki mağaraları, ders notunda belirtilen özelliklerine göre doğru şekilde eşleştiriniz:\n\nI. Damlataş Mağarası\nII. Yarımburgaz Mağarası\nIII. Ballıca Mağarası\n\na. Astım tedavisi için kullanılan mağara\nb. Anadolu'nun bilinen en eski insan yerleşimlerinden biri\nc. Soğan sarkıtları ile bilinen ve UNESCO Geçici Listesi'nde yer alan mağara",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I-a, II-b, III-c",
+            "explanation": "Damlataş Mağarası astım tedavisi için kullanılır (I-a). Yarımburgaz Mağarası Anadolu'nun en eski insan yerleşimlerinden biridir (II-b). Ballıca Mağarası soğan sarkıtları ile ünlüdür ve UNESCO Geçici Listesi'ndedir (III-c). Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "I-b, II-a, III-c",
+            "explanation": "Damlataş Mağarası astım tedavisi içindir, en eski insan yerleşimi değildir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "I-a, II-c, III-b",
+            "explanation": "Yarımburgaz Mağarası soğan sarkıtlarıyla değil, en eski insan yerleşimi olmasıyla bilinir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "I-c, II-a, III-b",
+            "explanation": "Damlataş Mağarası soğan sarkıtlarıyla değil, astım tedavisiyle bilinir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "I-b, II-c, III-a",
+            "explanation": "Hiçbir eşleştirme doğru değildir. Damlataş Mağarası astım tedavisi içindir, Yarımburgaz en eski insan yerleşimidir, Ballıca soğan sarkıtları ve UNESCO Geçici Listesi'ndedir. Bu eşleştirme yanlıştır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Mağara adları ve özelliklerini doğru bir şekilde eşleştirebilme yeteneğinizi ölçer."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-003",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Höyüklerin bulundukları illerle doğru eşleştirilmesi bilgisi ölçülmektedir.",
+    "ozet": "Anadolu, binlerce yıllık medeniyetlere ev sahipliği yapmış, bu zengin tarihi **höyük** adı verilen yerleşim tepelerinde saklamıştır. Bu höyükler, farklı dönemlere ait katmanlı yapılarıyla arkeolojik açıdan büyük önem taşır. Bir rehber olarak, öne çıkan höyüklerin hangi illerde bulunduğunu bilmek, ziyaretçilere doğru ve ilgi çekici bilgiler sunmanın temelidir. Örneğin, **Arslantepe Malatya'da**, **İkiztepe Samsun'da** ve **Alacahöyük Çorum'da** yer alır. Bu bilgileri öğrenerek, höyüklerin coğrafi konumları hakkındaki soruları kolayca yanıtlayabilirsiniz.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-050",
+        "stem": "I. İkiztepe - Samsun, II. Arslantepe - Malatya, III. Küllüoba - Eskişehir, IV. Alacahöyük - Çorum, V. Aşıklı Höyük - Aksaray. Yukarıdaki höyük ve bulunduğu şehir eşleştirmelerinden hangileri doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I, II ve III",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "I, IV ve V",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "III, IV ve V",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "I, II, III, IV ve V",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-003-t1",
+        "stem": "Aşağıdakilerden hangisi, verilen höyük ve bulunduğu şehir eşleştirmelerinden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İkiztepe - Samsun",
+            "explanation": "İkiztepe Höyüğü, Samsun ilinde yer almaktadır, bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Alacahöyük - Yozgat",
+            "explanation": "Alacahöyük, Çorum ilinde yer almaktadır. Yozgat ile eşleştirilmesi yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "Arslantepe - Malatya",
+            "explanation": "Arslantepe Höyüğü, Malatya ilinde yer almaktadır, bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Küllüoba - Eskişehir",
+            "explanation": "Küllüoba Höyüğü, Eskişehir ilinde yer almaktadır, bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Aşıklı Höyük - Aksaray",
+            "explanation": "Aşıklı Höyük, Aksaray ilinde yer almaktadır, bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "B",
+        "trick": "Verilen eşleştirmelerin hepsinin doğru olduğunu varsayarak yanıltma hedeflenmiştir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-003-t2",
+        "stem": "Aşağıdaki höyüklerden hangisi, bulunduğu il itibarıyla diğerlerinden farklı bir coğrafi bölgede yer alır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İkiztepe",
+            "explanation": "İkiztepe Höyüğü Samsun'da olup Karadeniz Bölgesi'ndedir."
+          },
+          {
+            "id": "B",
+            "text": "Küllüoba",
+            "explanation": "Küllüoba Höyüğü Eskişehir'de olup İç Anadolu Bölgesi'ndedir."
+          },
+          {
+            "id": "C",
+            "text": "Arslantepe",
+            "explanation": "Arslantepe Höyüğü Malatya'da olup Doğu Anadolu Bölgesi'ndedir. Bu şık, diğer höyüklerin İç Anadolu Bölgesi'nde yer almasından dolayı farklı coğrafi bölgede bulunur."
+          },
+          {
+            "id": "D",
+            "text": "Alacahöyük",
+            "explanation": "Alacahöyük Çorum'da olup İç Anadolu Bölgesi'ndedir."
+          },
+          {
+            "id": "E",
+            "text": "Aşıklı Höyük",
+            "explanation": "Aşıklı Höyük Aksaray'da olup İç Anadolu Bölgesi'ndedir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Höyüklerin illerini bilmenin yanı sıra, illerin coğrafi bölgelerini de bilmeyi gerektiren bir detay eklenerek yanıltma hedeflenmiştir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-003-t3",
+        "stem": "Aşağıda verilen höyük ve bulunduğu il eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Küllüoba - Eskişehir",
+            "explanation": "Küllüoba Höyüğü Eskişehir ilinde yer almaktadır, bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Alacahöyük - Çorum",
+            "explanation": "Alacahöyük Çorum ilinde yer almaktadır, bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Aşıklı Höyük - Aksaray",
+            "explanation": "Aşıklı Höyük Aksaray ilinde yer almaktadır, bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "İkiztepe - Malatya",
+            "explanation": "İkiztepe Höyüğü Samsun ilinde yer almaktadır. Malatya ile eşleştirilmesi yanlıştır. Malatya'da Arslantepe Höyüğü bulunur."
+          },
+          {
+            "id": "E",
+            "text": "Arslantepe - Malatya",
+            "explanation": "Arslantepe Höyüğü Malatya ilinde yer almaktadır, bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "D",
+        "trick": "Doğru eşleştirmelerin arasına yanlış bir eşleştirme konularak dikkat dağıtma amaçlanmıştır."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-004",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Mesir Macunu Festivali'nin coğrafi konumu ve UNESCO Somut Olmayan Kültürel Miras Listesi'ndeki yeri bilgisini ölçer.",
+    "ozet": "Halk bilimi, bir toplumun geleneksel bilgi ve uygulamalarını inceler. Geçiş dönemleri, doğum, evlenme ve ölüm gibi hayatın önemli eşiklerini kapsar ve bu dönemlere özgü **geleneksel uygulamaları** içerir. Halk inanışları, **nazar, uğur, adak** gibi konuları, halk hekimliği ise geleneksel tedavi yöntemlerini barındırır. Halk takviminde ise **Nevruz** ve **Hıdrellez** gibi bahar bayramları öne çıkar. UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer alan bu kutlamalar, rehberler için önemli kültürel değerlerdir. Örneğin, **Manisa Mesir Macunu Festivali**, bu kapsamda değerlendirilen önemli bir kültürel mirasımızdır.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-055",
+        "stem": "Geleneksel 'Mesir Macunu Şenlikleri', aşağıdaki illerimizden hangisiyle özdeşleşmiş ve UNESCO Somut Olmayan Kültürel Miras Listesi'ne girmiş bir kutlamadır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İzmir",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Manisa",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Aydın",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Muğla",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-004-t1",
+        "stem": "Aşağıdaki geleneksel uygulamalardan hangisi 'doğum sonrası' geçiş dönemiyle ilişkilendirilemez?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kırklama",
+            "explanation": "Kırklama, doğum sonrası kırkıncı günde anne ve bebeğin yıkanması geleneğidir."
+          },
+          {
+            "id": "B",
+            "text": "Loğusa şerbeti",
+            "explanation": "Loğusa şerbeti, doğum sonrası loğusa kadına ikram edilen geleneksel bir içecektir."
+          },
+          {
+            "id": "C",
+            "text": "Diş buğdayı",
+            "explanation": "Diş buğdayı (hedik), bebeğin ilk dişi çıktığında yapılan bir kutlama ve uygulamadır."
+          },
+          {
+            "id": "D",
+            "text": "Ad koyma",
+            "explanation": "Ad koyma, bebeğe isim verilmesi geleneğidir ve doğum sonrası döneme aittir."
+          },
+          {
+            "id": "E",
+            "text": "Kına gecesi",
+            "explanation": "Kına gecesi, evlenme geçiş dönemiyle ilgili bir gelenek olup, gelinin evlenmeden önceki son gecesinde yapılan bir eğlencedir."
+          }
+        ],
+        "correct": "E",
+        "trick": "Farklı geçiş dönemlerine ait geleneklerin karıştırılması bu soruyu kaçırtabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-004-t2",
+        "stem": "Aşağıda verilen halk takvimi unsurları ve simgeledikleri durumlar eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Cemre - İlk kar yağışı",
+            "explanation": "Cemre, şubat ayında havaya, suya ve toprağa düştüğüne inanılan sıcaklık artışını simgeler, ilk kar yağışını değil."
+          },
+          {
+            "id": "B",
+            "text": "Nevruz - Baharın gelişi",
+            "explanation": "Nevruz, 21 Mart'ta baharın gelişini simgeleyen bir bayramdır."
+          },
+          {
+            "id": "C",
+            "text": "Hıdrellez - Hızır ve İlyas'ın buluşması",
+            "explanation": "Hıdrellez, 6 Mayıs'ta Hızır ve İlyas'ın buluştuğuna inanılan bir dilek ve bahar bayramıdır."
+          },
+          {
+            "id": "D",
+            "text": "Kasım-Hıdrellez arası - Kış dönemi",
+            "explanation": "Halk takvimine göre Kasım ayından Hıdrellez'e kadar olan dönem kış olarak kabul edilir."
+          },
+          {
+            "id": "E",
+            "text": "Hıdrellez-Kasım arası - Yaz dönemi",
+            "explanation": "Halk takvimine göre Hıdrellez'den Kasım ayına kadar olan dönem yaz olarak kabul edilir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Cemre'nin ne anlama geldiği ve neyi simgelediği konusundaki yanlış bilgi soruyu kaçırtabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-004-t3",
+        "stem": "Halk bilimi teriminin ilk kez kullanılması, Mesir Macunu Şenlikleri'nin UNESCO Somut Olmayan Kültürel Miras Listesi'ne alınması ve Hıdrellez'in UNESCO Somut Olmayan Kültürel Miras Listesi'ne alınması olaylarının kronolojik sıralaması aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mesir Macunu Şenlikleri - Hıdrellez - Halk bilimi terimi",
+            "explanation": "Halk bilimi terimi 1846'da kullanılmış, Hıdrellez 2017'de listeye alınmış, Mesir Macunu Şenlikleri 2012'de listeye alınmıştır."
+          },
+          {
+            "id": "B",
+            "text": "Halk bilimi terimi - Mesir Macunu Şenlikleri - Hıdrellez",
+            "explanation": "Halk bilimi terimi 1846'da kullanılmış, Mesir Macunu Şenlikleri 2012'de listeye alınmış, Hıdrellez 2017'de listeye alınmıştır. Bu doğru sıralamadır."
+          },
+          {
+            "id": "C",
+            "text": "Hıdrellez - Halk bilimi terimi - Mesir Macunu Şenlikleri",
+            "explanation": "Halk bilimi terimi 1846'da kullanılmış, Mesir Macunu Şenlikleri 2012'de listeye alınmış, Hıdrellez 2017'de listeye alınmıştır."
+          },
+          {
+            "id": "D",
+            "text": "Halk bilimi terimi - Hıdrellez - Mesir Macunu Şenlikleri",
+            "explanation": "Halk bilimi terimi 1846'da kullanılmış, Mesir Macunu Şenlikleri 2012'de listeye alınmış, Hıdrellez 2017'de listeye alınmıştır."
+          },
+          {
+            "id": "E",
+            "text": "Mesir Macunu Şenlikleri - Halk bilimi terimi - Hıdrellez",
+            "explanation": "Halk bilimi terimi 1846'da kullanılmış, Mesir Macunu Şenlikleri 2012'de listeye alınmış, Hıdrellez 2017'de listeye alınmıştır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Olayların gerçekleştiği tarihleri karıştırmak, özellikle UNESCO listesine giriş tarihlerini bilmemek soruyu yanlış çözmeye yol açabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-005",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Bu soru, İslamiyet öncesi döneme ait Türk destanlarını doğru bir şekilde ayırt etme bilgisini ölçmektedir.",
+    "ozet": "Türk destanları, ait oldukları döneme göre farklılık gösterir. Özellikle **İslamiyet öncesi** ve **İslami dönem** destanları arasındaki ayrımı bilmek önemlidir. İslamiyet öncesi destanlar genellikle **Saka, Hun, Göktürk** ve **Uygur** gibi eski Türk topluluklarına aittir ve mitolojik kökenlere sahiptir. Örneğin, Göktürk destanları olan **Bozkurt** ve **Ergenekon**, Türk mitolojisindeki kurdun önemini vurgular. İslami dönem destanları ise daha çok Anadolu Türk-İslam coğrafyasında ortaya çıkmış ve dini motifler taşır. Bu ayrımı bilmek, destanlarla ilgili soruları doğru yanıtlamanın anahtarıdır.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-061",
+        "stem": "Aşağıdakilerden hangisi, konusu ve oluşumu itibarıyla İslamiyet öncesi döneme ait bir Türk destanıdır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Battal Gazi Destanı",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Bozkurt Destanı",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Danişmendname",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Saltukname",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-005-t1",
+        "stem": "Aşağıdaki destanlardan hangisi ait olduğu topluluk eşleşmesi bakımından diğerlerinden farklıdır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Oğuz Kağan Destanı - Hunlar",
+            "explanation": "Oğuz Kağan Destanı, Hunlara ait önemli bir destandır. Eşleşme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Bozkurt Destanı - Göktürkler",
+            "explanation": "Bozkurt Destanı, Göktürklere ait bir destandır. Eşleşme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Göç Destanı - Saka (İskitler)",
+            "explanation": "Göç Destanı Uygurlara aittir, Saka (İskit) destanları Alp Er Tunga ve Şu destanlarıdır. Bu nedenle eşleşme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Manas Destanı - Kırgızlar",
+            "explanation": "Manas Destanı, Kırgızlara ait olup dünyanın en uzun destanıdır. Eşleşme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Dede Korkut Hikâyeleri - Oğuz/Türkmenler",
+            "explanation": "Dede Korkut Hikâyeleri, Oğuz/Türkmenlere ait İslami dönem destanlarındandır. Eşleşme doğrudur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Destanların ait olduğu toplulukları karıştırmak, bu sorudaki en yaygın tuzaktır."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-005-t2",
+        "stem": "Aşağıdakilerden hangisi, Türk destan ve mitolojisinde yol gösterici ve kutsal kabul edilerek sıkça yer verilen hayvan figürüdür?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "At",
+            "explanation": "At, Türk kültüründe önemli bir yere sahip olsa da, mitolojik destanlarda yol gösterici ve kutsal hayvan figürü olarak kurt kadar öne çıkmaz."
+          },
+          {
+            "id": "B",
+            "text": "Kartal",
+            "explanation": "Kartal, güç ve yücelik sembolü olarak bazı mitolojilerde yer alsa da, Türk destanlarında kurt figürü kadar merkezi bir role sahip değildir."
+          },
+          {
+            "id": "C",
+            "text": "Geyik",
+            "explanation": "Geyik, bazı mitolojik anlatılarda yer alsa da, Türk destanlarında kurt figürünün sahip olduğu kutsallık ve yol göstericilik niteliğini taşımaz."
+          },
+          {
+            "id": "D",
+            "text": "Kurt",
+            "explanation": "Kurt, Türk mitolojisinde yeniden doğuş, güç, özgürlük ve yol gösterici kutsal bir sembol olarak Bozkurt Destanı gibi birçok destanda merkezi bir figürdür. Bu nedenle doğru cevaptır."
+          },
+          {
+            "id": "E",
+            "text": "Aslan",
+            "explanation": "Aslan, Orta Asya Türk mitolojisinde değil, daha çok Orta Doğu ve Batı mitolojilerinde güç ve krallık sembolü olarak öne çıkar."
+          }
+        ],
+        "correct": "D",
+        "trick": "Türk kültüründe farklı hayvanların da önemli sembolik anlamlara sahip olması, doğru cevabı seçmeyi zorlaştırabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-005-t3",
+        "stem": "Aşağıdaki destanlardan hangisi, konusu ve oluşumu itibarıyla İslami dönem Türk destanlarından biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Battalname",
+            "explanation": "Battalname, Anadolu Türk-İslam destanlarından biridir ve İslami dönemde oluşmuştur."
+          },
+          {
+            "id": "B",
+            "text": "Saltukname",
+            "explanation": "Saltukname, Anadolu Türk-İslam destanlarından biridir ve İslami dönemde oluşmuştur."
+          },
+          {
+            "id": "C",
+            "text": "Danişmentname",
+            "explanation": "Danişmentname, Anadolu Türk-İslam destanlarından biridir ve İslami dönemde oluşmuştur."
+          },
+          {
+            "id": "D",
+            "text": "Dede Korkut Hikâyeleri",
+            "explanation": "Dede Korkut Hikâyeleri, Oğuz/Türkmenlere ait olup İslami dönemde ortaya çıkmıştır."
+          },
+          {
+            "id": "E",
+            "text": "Türeyiş Destanı",
+            "explanation": "Türeyiş Destanı, Uygurlara ait olup İslamiyet öncesi dönem Türk destanlarından biridir. Dolayısıyla İslami dönem destanı değildir."
+          }
+        ],
+        "correct": "E",
+        "trick": "İslami dönem destanlarının çokluğu ve isim benzerlikleri, İslamiyet öncesi destanları ayırt etmeyi zorlaştırabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-006",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Persler tarafından inşa edilen ve Susa'dan Sardes'e uzanan antik ticaret ve haberleşme yolunun adını bilmek.",
+    "ozet": "Antik dönemde Anadolu, birçok medeniyetin kesişim noktası olmuş ve önemli ticaret yollarına ev sahipliği yapmıştır. Bu yollardan biri de Persler tarafından kurulan **Kral Yolu**'dur. Kral Yolu, Susa'dan başlayarak Anadolu üzerinden **Sardes (Manisa)** kentine kadar uzanan, hem ticaret hem de haberleşme için stratejik öneme sahip bir güzergahtı. Bu yol, antik çağların en önemli ulaşım ağlarından biriydi ve Pers İmparatorluğu'nun geniş topraklarında hızlı iletişim ve denetim sağlamasına olanak tanıyordu. Bu yolun güzergahını ve önemini bilmek, dönemin jeopolitik ve ekonomik yapısını anlamak için kritik öneme sahiptir.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-067",
+        "stem": "Persler tarafından inşa edilen, Susa’dan başlayıp Anadolu'yu geçerek Sardes’e (Manisa) kadar uzanan tarihi ticaret ve haberleşme yolu aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İpek Yolu",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Baharat Yolu",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Kral Yolu",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Kürk Yolu",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-006-t1",
+        "stem": "Antik Çağ'da inşa edilen ve Susa'dan başlayıp Anadolu'yu geçerek Batı Anadolu'daki önemli bir merkeze ulaşan tarihi ticaret ve haberleşme yolu aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kral Yolu",
+            "explanation": "Persler tarafından inşa edilen Kral Yolu, Susa'dan başlayıp Anadolu'yu geçerek Sardes'e (Manisa) uzanan tarihi ticaret ve haberleşme yoludur. Ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "B",
+            "text": "İpek Yolu",
+            "explanation": "İpek Yolu, Çin'den başlayıp Akdeniz'e uzanan daha geniş bir ticaret ağıdır ve Kral Yolu ile aynı güzergahı takip etmez."
+          },
+          {
+            "id": "C",
+            "text": "Baharat Yolu",
+            "explanation": "Baharat Yolu, Doğu'dan baharat taşıyan ve genellikle deniz yoluyla da desteklenen farklı bir ticaret yoludur."
+          },
+          {
+            "id": "D",
+            "text": "Kürk Yolu",
+            "explanation": "Kürk Yolu, daha çok kuzey bölgelerde kürk ticareti için kullanılan bir güzergah olup, Pers İmparatorluğu'nun bu bölgesine özgü bir yol değildir."
+          },
+          {
+            "id": "E",
+            "text": "Likya Yolu",
+            "explanation": "Likya Yolu, Likya bölgesindeki antik kentleri birbirine bağlayan, daha çok turistik amaçlı bir yürüyüş parkuru olarak bilinen yerel bir yoldur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Farklı antik ticaret yollarını birbirine karıştırmak, bu sorunun en büyük tuzağıdır."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-006-t2",
+        "stem": "Pers İmparatorluğu tarafından inşa edilen Kral Yolu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kral Yolu'nun başlangıç noktalarından biri Susa'dır.",
+            "explanation": "Ders notunda 'Susa'dan başlayıp' ifadesi yer almaktadır, bu bilgi doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Kral Yolu, sadece ticaret amaçlı kullanılmıştır.",
+            "explanation": "Ders notunda Kral Yolu'nun 'tarihi bir ticaret ve haberleşme yolu' olduğu belirtilmiştir. Dolayısıyla sadece ticaret amaçlı kullanıldığı ifadesi yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "Kral Yolu'nun Anadolu'daki bitiş noktası Sardes'tir.",
+            "explanation": "Ders notunda yolun 'Sardes'e (Manisa) kadar uzanan' bir yol olduğu belirtilmiştir, bu bilgi doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Kral Yolu, antik çağların önemli ulaşım ağlarından biridir.",
+            "explanation": "Ders notunda yolun 'antik çağların en önemli ulaşım ağlarından biri olduğu' ifade edilmektedir, bu bilgi doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Kral Yolu, Persler tarafından inşa edilmiştir.",
+            "explanation": "Ders notunda 'Persler tarafından inşa edilmiş' olduğu açıkça belirtilmiştir, bu bilgi doğrudur."
+          }
+        ],
+        "correct": "B",
+        "trick": "Kral Yolu'nun çok yönlü kullanımını gözden kaçırmak, soruyu yanlış cevaplamanıza neden olabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-006-t3",
+        "stem": "Aşağıdaki antik kentlerden hangisi, Pers Kral Yolu'nun Anadolu üzerindeki önemli duraklarından biri olarak ders notunda belirtilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Efes",
+            "explanation": "Efes, İyonya'nın önemli bir kenti olsa da ders notunda Kral Yolu'nun bitiş noktası olarak Sardes belirtilmiştir, Efes değil."
+          },
+          {
+            "id": "B",
+            "text": "Pergamon",
+            "explanation": "Pergamon, antik dönemde önemli bir merkez olmasına rağmen ders notunda Kral Yolu güzergahı üzerinde özel olarak vurgulanan bir bitiş noktası değildir."
+          },
+          {
+            "id": "C",
+            "text": "Sardes",
+            "explanation": "Ders notunda Kral Yolu'nun 'Sardes'e (Manisa) kadar uzanan' bir yol olduğu açıkça belirtilmiştir. Sardes, bu yolun önemli bir bitiş noktasıdır."
+          },
+          {
+            "id": "D",
+            "text": "Troya",
+            "explanation": "Troya, Çanakkale yakınlarında bulunan antik bir kenttir ve Kral Yolu'nun belirtilen güzergahında yer almamaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Hattuşa",
+            "explanation": "Hattuşa, Hitit İmparatorluğu'nun başkenti olmasına rağmen, ders notunda Kral Yolu'nun bitiş noktası olarak Sardes gösterilmiştir, Hattuşa değil."
+          }
+        ],
+        "correct": "C",
+        "trick": "Anadolu'daki diğer önemli antik kentlerle Kral Yolu'nun bitiş noktasını karıştırmak en yaygın yanılgıdır."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-007",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Bu soru, Türk halk tiyatrosu türlerinden 'Meddah'ın temel özelliklerini ve icra şeklini ölçmektedir.",
+    "ozet": "Türk halk tiyatrosu, geleneksel anlatı ve sahneleme biçimleriyle zengin bir kültürel mirasa sahiptir. Bu türler arasında **Karagöz** (gölge oyunu), **Ortaoyunu** (açık alanda doğaçlama) ve **Meddah** (tek kişilik anlatı) öne çıkar. Meddah, hikayelerini **mendil ve sopa** gibi aksesuarlar kullanarak ve güçlü taklit yeteneğiyle aktaran tek kişilik bir gösteridir. Karagöz'de **hayali** denen kişi deve derisi tasvirleri **perdeye** yansıtırken, Ortaoyunu'nda **Pişekâr** ve **Kavuklu** canlı olarak oynar. Bu ayrımı bilirseniz, halk tiyatrosu ile ilgili soruları rahatlıkla çözebilirsiniz.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-069",
+        "stem": "Türk Halk Kültüründe, sanatçının aksesuarlar (mendil, sopa vb.) kullanarak ve taklit yeteneğine dayanarak hikâyeler anlattığı geleneksel tiyatro türü aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Karagöz",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Orta Oyunu",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Meddah",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Köy Seyirlik Oyunları",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-007-t1",
+        "stem": "Aşağıdakilerden hangisi, Türk halk tiyatrosu geleneğinde Karagöz ile Ortaoyunu arasındaki temel farklardan biridir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Karagöz'ün saz eşliğinde icra edilmesi, Ortaoyunu'nun ise müziksiz olması.",
+            "explanation": "Karagöz bir gölge oyunudur ve saz eşliğinde icra edildiği bilgisi ders notunda yer almamaktadır; Ortaoyunu da müziksiz değildir, genellikle müzik eşliğinde oynanır."
+          },
+          {
+            "id": "B",
+            "text": "Karagöz'ün belirli bir metne bağlı kalması, Ortaoyunu'nun ise tamamen doğaçlama olması.",
+            "explanation": "Her iki tür de doğaçlama öğeler içerir. Karagöz'ün belirli bir metne bağlı kaldığı bilgisi ders notunda yoktur."
+          },
+          {
+            "id": "C",
+            "text": "Karagöz'ün sadece İstanbul'da, Ortaoyunu'nun ise tüm Anadolu'da yaygın olması.",
+            "explanation": "Karagöz'ün sadece İstanbul'da oynandığına dair bir bilgi ders notunda bulunmamaktadır; Bursa ile özdeşleştiği belirtilmiştir. Ortaoyunu da yaygın olmakla birlikte, bu coğrafi sınırlama doğru değildir."
+          },
+          {
+            "id": "D",
+            "text": "Karagöz'ün perdede tasvirlerle oynanan bir gölge oyunu olması, Ortaoyunu'nun ise canlı oyuncularla açık alanda sergilenmesi.",
+            "explanation": "Ders notunda 'Karagöz gölge oyunudur' ve 'Ortaoyunu ise açık alanda oynanan doğaçlama tiyatrodur' ifadeleriyle bu temel fark açıkça belirtilmiştir. Bu nedenle doğru cevaptır."
+          },
+          {
+            "id": "E",
+            "text": "Karagöz'de sadece iki ana karakterin bulunması, Ortaoyunu'nda ise çok sayıda yardımcı karakterin yer alması.",
+            "explanation": "Karagöz'de Karagöz ve Hacivat'ın yanı sıra Çelebi, Tuzsuz Deli Bekir gibi diğer tipler de bulunur. Ortaoyunu'nda da Pişekâr ve Kavuklu'nun yanı sıra farklı karakterler mevcuttur. Bu şık doğru bir ayrım sunmamaktadır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Öğrenci, Karagöz ve Ortaoyunu'nun her ikisinin de geleneksel tiyatro olduğunu bilse de, temel icra şekli farkını gözden kaçırabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-007-t2",
+        "stem": "Aşağıdaki geleneksel seyirlik sanat türlerinden hangisi, icra şekli ve kullanılan aksesuarlar açısından diğerlerinden farklı bir yapıya sahiptir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Karagöz",
+            "explanation": "Karagöz, deve derisinden yapılan tasvirlerle perde arkasında oynanan bir gölge oyunudur. Bu icra şekli onu diğerlerinden ayırır."
+          },
+          {
+            "id": "B",
+            "text": "Ortaoyunu",
+            "explanation": "Ortaoyunu, canlı oyuncularla açık alanda, dekorsuz sergilenen doğaçlama bir tiyatrodur. Bu da farklı bir icra şeklidir."
+          },
+          {
+            "id": "C",
+            "text": "Köy seyirlik oyunları",
+            "explanation": "Köy seyirlik oyunları, mevsimlik, bereket temalı ve genellikle hayvan taklidi içeren oyunlardır. Canlı oyuncularla ve genellikle açık alanda sergilenir. Bu da farklı bir icra şeklidir."
+          },
+          {
+            "id": "D",
+            "text": "Kukla",
+            "explanation": "Kukla, ipli, el veya iskemle kuklalarıyla oynanan bir türdür. Bu da farklı bir icra şeklidir."
+          },
+          {
+            "id": "E",
+            "text": "Meddah",
+            "explanation": "Meddah, tek kişilik bir anlatı sanatı olup, mendil ve sopa gibi aksesuarlarla icra edilir. Bu, diğer tiyatro türlerinden belirgin şekilde farklıdır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Tüm şıklar geleneksel seyirlik sanatlar olsa da, soru 'farklı bir yapıya' sahip olanı sorarak öğrencinin her bir türün kendine özgü icra biçimini ayırt etmesini bekler."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-007-t3",
+        "stem": "Aşağıda verilen geleneksel Türk tiyatrosu türlerinden hangisi, ana karakterleri ve icra ortamı eşleştirmesi bakımından **yanlıştır**?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Köy Seyirlik Oyunları: Tema odaklı (bereket, hayvan taklidi) - Kapalı sahne",
+            "explanation": "Ders notunda 'Köy seyirlik oyunları: Bereket, ölüp-dirilme ve hayvan taklidi temalı mevsimlik oyunlar' bilgisi yer almaktadır. Ancak bu oyunların 'kapalı sahne' yerine genellikle açık havada veya köy meydanlarında sergilendiği bilinen bir gerçektir ve ders notunda 'mevsimlik oyunlar' ifadesi bu durumu destekler. 'Kapalı sahne' ifadesi yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Karagöz: Karagöz ve Hacivat - Perde (Ayna)",
+            "explanation": "Ders notunda 'Karagöz ve Hacivat: Gölge oyunu. Deve derisinden yapılan tasvirler, arkadan ışıkla perdeye (ayna) yansıtılır' ifadesi yer almaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Ortaoyunu: Pişekâr ve Kavuklu - Palanga (Açık Alan)",
+            "explanation": "Ders notunda 'ORTAO YUNU: Açık alanda, dekorsuz oynanan doğaçlama tiyatro. Oyun alanına palanga... denir. Başrolleri Pişekâr... ve Kavuklu...' ifadeleri bulunmaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Meddah: Tek bir anlatıcı - Kahvehane veya açık alan",
+            "explanation": "Ders notunda 'MEDDAH: Tek kişilik anlatı sanatı.' ifadesi yer almaktadır. Kahvehane veya açık alan icra ortamı olarak belirtilmese de, tek kişilik anlatı sanatı olduğu bilgisi doğru bir tanımlamadır."
+          },
+          {
+            "id": "E",
+            "text": "Kukla: İpli veya el kuklaları - Sahne veya perde",
+            "explanation": "Ders notunda 'Kukla: İpli, el, iskemle kuklası.' ifadesi yer almaktadır. Kuklaların genellikle sahne veya perde arkasında oynatıldığı genel bilgi dahilindedir. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Öğrenci, köy seyirlik oyunlarının temalarını doğru bilse de, icra ortamı olan 'kapalı sahne'nin yanlış olduğunu fark etmeyebilir, zira ders notunda icra ortamı detaylı belirtilmemiştir ancak 'mevsimlik oyunlar' ifadesi açık havayı çağrıştırır."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-008",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Anadolu'daki ahşap hipostil camilerinin UNESCO Dünya Mirası Listesi'ndeki yeri ve bu kapsamda korunan spesifik örnekler.",
+    "ozet": "Anadolu, binlerce yıllık tarihi boyunca birçok medeniyete ev sahipliği yapmıştır. Bu medeniyetlerin bıraktığı kalıntılar, günümüzde de önemini korumaktadır. Özellikle **UNESCO Dünya Kültür Mirası Listesi**'ne alınan yapılar, kültürel mirasımızın en değerli parçalarıdır. Bu kapsamda, Anadolu'nun Ortaçağ Dönemi'ne ait **ahşap hipostil camileri** de özel bir seri adaylığıyla koruma altına alınmıştır. Bu camiler, benzersiz ahşap işçilikleri ve mimarileriyle öne çıkar. Sınavda bu camilerin hangilerinin bu listede yer aldığını veya bu seriye dahil olduğunu bilmek, doğru cevaba ulaşmanızı sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-071",
+        "stem": "Aşağıdaki eserlerden hangisi, UNESCO Dünya Kültür Mirası Listesi'nde yer alan 'Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri' seri adaylığı kapsamında koruma altına alınan yapılardan biridir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bursa Ulu Camii",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Edirne Selimiye Camii",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Ankara Ahi Şerafettin Camii",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "İstanbul Süleymaniye Camii",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-008-t1",
+        "stem": "Aşağıdakilerden hangisi, UNESCO Dünya Mirası Geçici Listesi'nde yer alan Ballıca Mağarası'nın özelliklerinden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Tokat ilinin Pazar ilçesinde yer alması",
+            "explanation": "Ders notunda Ballıca Mağarası'nın Tokat'ın Pazar ilçesinde olduğu açıkça belirtilmiştir, bu doğru bir özelliktir."
+          },
+          {
+            "id": "B",
+            "text": "UNESCO Dünya Mirası Listesi'ne Nisan 2019'da kesin olarak dahil edilmesi",
+            "explanation": "Ders notunda Ballıca Mağarası'nın Nisan 2019'da UNESCO Dünya Mirası GEÇİCİ Listesi'ne alındığı açıkça belirtilmiştir. 'Kesin olarak dahil edilmesi' ifadesi yanlıştır, çünkü geçici listede yer almaktadır."
+          },
+          {
+            "id": "C",
+            "text": "Yaklaşık 3,4 milyon yıllık bir oluşum olması",
+            "explanation": "Ders notunda mağaranın yaklaşık 3,4 milyon yıllık bir oluşum olduğu ifade edilmiştir, bu doğru bir özelliktir."
+          },
+          {
+            "id": "D",
+            "text": "Dünyada ender görülen 'soğan sarkıtları'nı barındırması",
+            "explanation": "Ders notunda Ballıca Mağarası'nın dünyada ender görülen soğan sarkıtlarını barındırdığı belirtilmiştir, bu doğru bir özelliktir."
+          },
+          {
+            "id": "E",
+            "text": "Ziyarete açık 680 metrelik bölümünde sekiz salon bulunması",
+            "explanation": "Ders notunda mağaranın ziyarete açık 680 metrelik bölümünde sekiz salon bulunduğu bilgisi yer almaktadır, bu doğru bir özelliktir."
+          }
+        ],
+        "correct": "B",
+        "trick": "UNESCO listelerinin 'Geçici' ve 'Kesin' ayrımına dikkat etmemek, bu soruyu yanlış yanıtlamaya neden olabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-008-t2",
+        "stem": "Aşağıdaki tarihi yapılar ve ait oldukları dönem/özellik eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Gevher Nesibe Tıp Medresesi ve Darüşşifası – Selçuklu dönemi tıp ve eğitim kurumu",
+            "explanation": "Ders notunda Gevher Nesibe Tıp Medresesi ve Darüşşifası'nın Selçuklu dönemine ait, tıp ve eğitim alanında önemli bir yapı olduğu belirtilmiştir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Kibyra Antik Kenti – Opus sectile tekniğiyle yapılmış Medusa mozaiği",
+            "explanation": "Ders notunda Kibyra antik kentinde opus sectile tekniğiyle yapılmış Medusa mozaiği bulunduğu belirtilmiştir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Başkomutan Tarihi Milli Parkı – Yalnızca Afyonkarahisar il sınırları içinde yer alması",
+            "explanation": "Ders notunda Başkomutan Tarihi Milli Parkı'nın Afyonkarahisar, Kütahya ve Uşak illerinin sınırları içinde yer aldığı belirtilmiştir. 'Yalnızca Afyonkarahisar' ifadesi yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Ankara Ahi Şerafettin Camii – UNESCO Dünya Kültür Mirası Listesi'nde ahşap hipostil camileri serisi kapsamında",
+            "explanation": "Ders notunda Ankara Ahi Şerafettin Camii'nin UNESCO Dünya Kültür Mirası Listesi'nde 'Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri' seri adaylığı kapsamında koruma altına alındığı belirtilmiştir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Gökgöl Mağarası – İçerisinden aktif bir yeraltı nehrinin geçmesi",
+            "explanation": "Ders notunda Gökgöl Mağarası'nın içerisinden aktif bir yeraltı nehrinin geçtiği bilgisi verilmiştir. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Milli parkların coğrafi konumlarını tek bir ille sınırlayan ifadelere dikkat etmemek tuzağa düşürebilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-008-t3",
+        "stem": "Aşağıdaki höyükler ve bulundukları iller eşleştirmelerinden hangisi doğru olarak verilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Küllüoba – Samsun",
+            "explanation": "Ders notunda Küllüoba'nın Eskişehir'de olduğu belirtilmiştir. Samsun'da olan İkiztepe'dir."
+          },
+          {
+            "id": "B",
+            "text": "Arslantepe – Çorum",
+            "explanation": "Ders notunda Arslantepe'nin Malatya'da olduğu belirtilmiştir. Çorum'da olan Alacahöyük'tür."
+          },
+          {
+            "id": "C",
+            "text": "Alacahöyük – Aksaray",
+            "explanation": "Ders notunda Alacahöyük'ün Çorum'da olduğu belirtilmiştir. Aksaray'da olan Aşıklı Höyük'tür."
+          },
+          {
+            "id": "D",
+            "text": "Aşıklı Höyük – Aksaray",
+            "explanation": "Ders notunda Aşıklı Höyük'ün Aksaray'da olduğu açıkça belirtilmiştir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "İkiztepe – Malatya",
+            "explanation": "Ders notunda İkiztepe'nin Samsun'da olduğu belirtilmiştir. Malatya'da olan Arslantepe'dir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Höyük isimlerinin ve bağlı oldukları illerin benzerlikleri veya ses yakınlıkları nedeniyle karıştırılması, bu sorunun temel tuzağıdır."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-009",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Minyatür sanatının temel özelliklerini bilmek.",
+    "ozet": "Türk kültüründe geleneksel sanatlar önemli bir yer tutar. **Minyatür**, geleneksel kitap süsleme sanatının vazgeçilmez bir parçasıdır. Bu sanat dalında yapılan küçük boyutlu resimlerde, batı sanatının aksine, **perspektif** ve **ışık-gölge** kurallarına bağlı kalınmaz. Minyatürler, kendine has boyama teknikleriyle ve genellikle zengin renk paletleriyle oluşturulur. Bu sanat, Osmanlı İmparatorluğu döneminde zirveye ulaşmış ve saray nakkaşhanelerinde değerli eserler üretilmiştir. Bu özellikleri bilirseniz, minyatürle ilgili çıkan tüm soruları rahatlıkla çözebilirsiniz.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-074",
+        "stem": "Geleneksel kitap süsleme sanatında, perspektif ve ışık-gölge kurallarına bağlı kalmadan, kendine has boyama teknikleriyle yapılan küçük boyutlu resimlere ne ad verilir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Tezhip",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Hat",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Çini",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Minyatür",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-009-t1",
+        "stem": "Aşağıdakilerden hangisi minyatür sanatının özelliklerinden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Genellikle kitap süsleme sanatında kullanılması",
+            "explanation": "Minyatür, geleneksel kitap süsleme sanatının önemli bir parçasıdır."
+          },
+          {
+            "id": "B",
+            "text": "Küçük boyutlu resimler olması",
+            "explanation": "Minyatür kelimesinin kendisi de 'küçük' anlamına gelir ve bu sanat dalında küçük boyutlu resimler yapılır."
+          },
+          {
+            "id": "C",
+            "text": "Perspektif kurallarına göre çizilmemesi",
+            "explanation": "Minyatür, batı sanatından farklı olarak perspektif kurallarına bağlı kalmaz."
+          },
+          {
+            "id": "D",
+            "text": "Kendine özgü boyama tekniklerine sahip olması",
+            "explanation": "Minyatürün kendine has boyama teknikleri vardır ve bu da onu diğer sanat dallarından ayırır."
+          },
+          {
+            "id": "E",
+            "text": "Işık-gölge kurallarının belirgin bir şekilde kullanılması",
+            "explanation": "Minyatür sanatında, perspektif ve ışık-gölge kurallarına bağlı kalınmaz. Bu şık, minyatürün temel bir özelliğine aykırıdır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Minyatürün en ayırt edici özelliklerinden olan perspektif ve ışık-gölge yokluğunu, varlığı gibi sunarak çeldirici oluşturulmuştur."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-009-t2",
+        "stem": "Aşağıdaki geleneksel Türk sanatlarından hangisi, 'biz' adı verilen özel bir aletle kitreli su üzerine boyaların serpilmesi ve desenlerin kâğıda aktarılmasıyla gerçekleştirilir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ebru",
+            "explanation": "Ebru sanatı, kitreli su dolu bir kaba renkli boyaların serpilip, 'biz' adı verilen özel bir aletle şekil verilmesi ve ardından desenlerin kâğıda aktarılmasıyla oluşturulur."
+          },
+          {
+            "id": "B",
+            "text": "Tezhip",
+            "explanation": "Tezhip, genellikle yazma eserlerin sayfalarını, hat yazılarını ve kitap kapaklarını altın ve çeşitli renklerle süsleme sanatıdır, 'biz' veya kitreli su ile yapılmaz."
+          },
+          {
+            "id": "C",
+            "text": "Hat",
+            "explanation": "Hat, güzel yazı yazma sanatıdır ve kaligrafi ile ilgilidir, 'biz' veya kitreli su ile yapılmaz."
+          },
+          {
+            "id": "D",
+            "text": "Çini",
+            "explanation": "Çini, toprağın pişirilmesiyle elde edilen seramik ürünlerin özel tekniklerle renklendirilip sırlanması sanatıdır, 'biz' veya kitreli su ile yapılmaz."
+          },
+          {
+            "id": "E",
+            "text": "Minyatür",
+            "explanation": "Minyatür, küçük boyutlu resim sanatıdır ve 'biz' veya kitreli su ile yapılmaz. Bu sanat dalında perspektif ve ışık-gölge kuralları kullanılmaz."
+          }
+        ],
+        "correct": "A",
+        "trick": "Minyatür ile diğer görsel sanatlar arasındaki teknik farklar gözden kaçırılarak, farklı bir sanatın tanımı minyatüre yakıştırılmaya çalışılmıştır."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-009-t3",
+        "stem": "Aşağıdaki sanat dallarından hangileri, teknik ve uygulama açısından diğerlerinden belirgin şekilde ayrılır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Tezhip - Hat",
+            "explanation": "Tezhip, genellikle hat sanatıyla birlikte kullanılan bir süsleme sanatıdır. Hat ise güzel yazı yazma sanatıdır. İkisi de kağıt üzerine el işçiliği gerektiren ve geleneksel motiflerle bezeli sanatlardır, ancak minyatür ve ebru kadar farklı tekniklere sahip değildirler."
+          },
+          {
+            "id": "B",
+            "text": "Minyatür - Ebru",
+            "explanation": "Minyatür, kitap süsleme sanatı olup ışık-gölge ve perspektif kullanmazken; Ebru, su üzerine boya damlatma tekniğine dayalıdır. İkisi de diğer şıklardaki sanatlara göre farklı uygulama tekniklerine sahiptir."
+          },
+          {
+            "id": "C",
+            "text": "Çini - Minyatür",
+            "explanation": "Çini, seramik ve sırlama sanatıyken, minyatür resim sanatıdır. Uygulama alanları ve teknikleri farklı olsa da, minyatür ile ebru arasındaki teknik fark daha belirgindir."
+          },
+          {
+            "id": "D",
+            "text": "Ebru - Tezhip",
+            "explanation": "Ebru su üzerinde, tezhip ise kağıt üzerinde yapılır. Teknikleri farklıdır ancak minyatür ve ebru kadar belirgin bir 'ayrılma' durumu yoktur."
+          },
+          {
+            "id": "E",
+            "text": "Hat - Çini",
+            "explanation": "Hat yazı sanatı, çini ise seramik sanatıdır. Teknikleri tamamen farklıdır ancak soru 'belirgin şekilde ayrılır' ifadesiyle en özgün teknikleri kast etmektedir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Her şıkta farklı sanatlar bir araya getirilerek, öğrencinin ders notunda bahsedilen 'biz' ve 'kitap süsleme' anahtar kelimeleriyle en doğru eşleşmeyi yapması beklenmiştir."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-010",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Geçiş dönemleri ve halk kültürü unsurlarına ait terimleri, geleneksel Türk tiyatrosu ve halk oyunlarının yöresel dağılımını bilmek, bu alandaki soruları doğru çözmek için temeldir.",
+    "ozet": "Türk halk kültürü, **sözlü aktarılan** ve **anonim** birçok ögeyi barındırır. Hayatın önemli **geçiş dönemleri** olan doğum, evlenme ve ölümle ilgili zengin adetler mevcuttur. Örneğin, doğum sonrası **kırklama** ve **al basması**, evlenme döneminde **kına gecesi** ve **gelin alma** adetleri, ölümde ise **ağıt** ve **helva dağıtma** gibi uygulamalar öne çıkar. Geleneksel Türk tiyatrosunda **Karagöz ve Hacivat** (gölge oyunu), **Ortaoyunu** (açık alanda doğaçlama) ve **Meddah** (tek kişilik anlatı) gibi türler bulunur. Halk oyunları ise yöresel farklılıklar gösterir; **Horon** Karadeniz'e, **Halay** Doğu ve Güneydoğu'ya, **Zeybek** Ege'ye, **Bar** Doğu Anadolu'ya ve **Karşılama** Trakya'ya özgüdür. Bu temel bilgiler, halk bilimi ve kültürüyle ilgili soruları çözmede anahtar olacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-082",
+        "stem": "Trakya ve Güney Marmara yöresine özgü, oyuncuların birbirine tutunmadan, karşılıklı ve ritmik hareketlerle oynadıkları halk oyunu türü aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Halay",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Horon",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Karşılama",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Bar",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-010-t1",
+        "stem": "Aşağıdakilerden hangisi, Türk halk kültüründeki 'geçiş dönemleri' ile ilgili bir uygulama değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Doğum sonrası loğusayı korumak amacıyla yapılan 'al basması' uygulaması.",
+            "explanation": "'Al basması' (albastı), doğum sonrası loğusa kadını koruma inancıyla yapılan bir uygulamadır ve doğum geçiş dönemine aittir. Bu nedenle doğru bir ifadedir."
+          },
+          {
+            "id": "B",
+            "text": "Evlenme öncesi gelinin eline kına yakılan 'kına gecesi' geleneği.",
+            "explanation": "'Kına gecesi', evlenme geçiş döneminin önemli bir parçasıdır ve gelinin eline kına yakılması bu geleneğin temelini oluşturur. Bu nedenle doğru bir ifadedir."
+          },
+          {
+            "id": "C",
+            "text": "Hastalıkların tedavisi amacıyla 'kurşun dökme' ve 'parpılama' uygulamaları.",
+            "explanation": "'Kurşun dökme' ve 'parpılama' uygulamaları, halk hekimliği ve halk inanışları kategorisine girer, ancak hayatın temel 'geçiş dönemleri' (doğum, evlenme, ölüm) ile doğrudan ilişkili değildir. Bu nedenle doğru cevap E şıkkıdır."
+          },
+          {
+            "id": "D",
+            "text": "Ölüm sonrası merhumun ruhu için 'ağıt yakma' ve 'helva dağıtma' adetleri.",
+            "explanation": "'Ağıt yakma' ve 'helva dağıtma', ölüm geçiş dönemine ait uygulamalardır. Bu nedenle doğru bir ifadedir."
+          },
+          {
+            "id": "E",
+            "text": "İlk dişi çıkan bebeğin bereketli olması için yapılan 'diş buğdayı (hedik)' merasimi.",
+            "explanation": "'Diş buğdayı (hedik)', bebeğin ilk dişi çıktığında yapılan bir merasim olup, doğum sonrası geçiş dönemine aittir. Bu nedenle doğru bir ifadedir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Şıklardaki tüm uygulamalar halk kültürü içinde yer alsa da, sorunun 'geçiş dönemleri' ile ilgili olmayanını bulmak yanıltıcı olabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-010-t2",
+        "stem": "Türk halk oyunları ve ait oldukları yöreler düşünüldüğünde, aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Horon - Karadeniz",
+            "explanation": "Horon, Karadeniz Bölgesi (özellikle Trabzon, Rize) ile özdeşleşmiş bir halk oyunudur. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Halay - Doğu ve Güneydoğu Anadolu",
+            "explanation": "Halay, Doğu ve Güneydoğu Anadolu Bölgeleri'nde yaygın olarak oynanan bir halk oyunudur. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Zeybek - Ege",
+            "explanation": "Zeybek, Ege Bölgesi (Aydın, İzmir, Muğla) ile özdeşleşmiş, efelerin yiğitçe oynadığı bir halk oyunudur. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Bar - İç Anadolu",
+            "explanation": "Bar, Erzurum, Kars, Artvin gibi Doğu Anadolu illerinde toplu ve kol kola oynanan bir halk oyunudur. İç Anadolu ile eşleştirilmesi yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "Kaşık oyunu - Konya, Silifke, Mersin",
+            "explanation": "Kaşık oyunu, Konya, Silifke ve Mersin gibi İç Anadolu ve Akdeniz'in kesişim bölgelerinde tahta kaşıklarla oynanan bir oyundur. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "D",
+        "trick": "Halk oyunlarının coğrafi dağılımı benzer bölgeler arasında farklılık gösterebildiği için karıştırmaya müsaittir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-010-t3",
+        "stem": "Geleneksel Türk tiyatrosu türlerinden Karagöz, Ortaoyunu ve Meddah ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Karagöz ve Hacivat karakterleri, Ortaoyunu'nda Pişekâr ve Kavuklu olarak yer almaktadır ve her ikisi de gölge oyunudur.",
+            "explanation": "Karagöz ve Hacivat karakterleri, Ortaoyunu'nda Pişekâr ve Kavuklu'ya karşılık gelir, ancak Karagöz gölge oyunu iken Ortaoyunu canlı oyuncularla oynanan bir tiyatrodur. İkisi de gölge oyunu değildir."
+          },
+          {
+            "id": "B",
+            "text": "Meddah, sahne dekorları ve birden fazla oyuncu ile sergilenen bir halk tiyatrosu türüdür.",
+            "explanation": "Meddah, tek kişilik bir anlatı sanatıdır ve sahne dekoru yerine mendil ve sopa gibi aksesuarlar kullanır. Birden fazla oyuncu ile oynanmaz."
+          },
+          {
+            "id": "C",
+            "text": "Karagöz oyununda Hacivat okumamış, saf ve patavatsız halkı temsil ederken, Karagöz okumuş, kibar ve Arapça-Farsça kelimeler kullanan kişidir.",
+            "explanation": "Karagöz okumamış, saf ve patavatsız halkı temsil ederken, Hacivat okumuş, kibar ve Arapça-Farsça kelimeler kullanan kişidir. Tanımlar tersten verilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Tüm bu geleneksel tiyatro türleri, UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer almasına rağmen, günümüzde artık sergilenmemektedir.",
+            "explanation": "Karagöz ve Meddah UNESCO listesinde yer alırken, Ortaoyunu yer almamaktadır. Ayrıca, bu türler günümüzde hala sergilenmektedir, dolayısıyla 'artık sergilenmemektedir' ifadesi yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "Ortaoyunu, açık alanda, dekorsuz oynanan doğaçlama bir tiyatrodur ve başrollerini Pişekâr ile Kavuklu üstlenir.",
+            "explanation": "Ortaoyunu, açık alanda, belirli bir dekor olmadan oynanan doğaçlama bir tiyatro türüdür. Başkarakterleri Pişekâr ve Kavuklu'dur. Bu ifade doğrudur."
+          }
+        ],
+        "correct": "E",
+        "trick": "Geleneksel tiyatro türlerinin özellikleri ve karakterleri arasındaki benzerlikler ve farklılıklar, doğru cevabı bulmayı zorlaştırabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-011",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Kula-Salihli Jeoparkı'nın bulunduğu il bilgisidir.",
+    "ozet": "Türkiye'nin doğal ve kültürel mirası, UNESCO listelerinde önemli yer tutar. Özellikle **jeoparklar** gibi özel coğrafi oluşumlar, hem bilimsel hem de turistik açıdan büyük değer taşır. Bu jeoparklar, bulundukları bölgelerin **jeolojik miraslarını** korur ve sürdürülebilir kalkınmaya katkıda bulunur. Sınavda bu tür doğal miras alanlarının coğrafi konumları sıklıkla sorulur. Bu bilgileri öğrenerek, Türkiye'nin önemli doğal miras alanlarını ve onların hangi illerde yer aldığını kolayca ayırt edebilirsiniz.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-018",
+        "stem": "Türkiye’nin ilk ve tek UNESCO Jeoparkı olan Kula-Salihli Jeoparkı, aşağıdaki illerimizin hangisinin sınırları içerisindedir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İzmir",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Denizli",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Manisa",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Aydın",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-011-t1",
+        "stem": "Aşağıdakilerden hangisi, Türkiye'nin ilk ve tek UNESCO Jeoparkı olan Kula-Salihli Jeoparkı'nın bulunduğu ilimizdir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Manisa",
+            "explanation": "Kula-Salihli Jeoparkı, Türkiye'nin ilk ve tek UNESCO Jeoparkı olup Manisa il sınırları içerisinde yer almaktadır. Bu bilgi ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "B",
+            "text": "İzmir",
+            "explanation": "İzmir, Kula-Salihli Jeoparkı'nın bulunduğu il değildir. Jeopark, Manisa il sınırları içerisindedir."
+          },
+          {
+            "id": "C",
+            "text": "Denizli",
+            "explanation": "Denizli, Kula-Salihli Jeoparkı'nın bulunduğu il değildir. Jeopark, Manisa il sınırları içerisindedir."
+          },
+          {
+            "id": "D",
+            "text": "Aydın",
+            "explanation": "Aydın, Kula-Salihli Jeoparkı'nın bulunduğu il değildir. Jeopark, Manisa il sınırları içerisindedir."
+          },
+          {
+            "id": "E",
+            "text": "Muğla",
+            "explanation": "Muğla, Kula-Salihli Jeoparkı'nın bulunduğu il değildir. Jeopark, Manisa il sınırları içerisindedir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Şıklarda jeoparka yakın ama doğru olmayan iller verilerek öğrencinin dikkatini dağıtmak hedeflenmiştir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-011-t2",
+        "stem": "Aşağıdakilerden hangisi Türkiye'nin UNESCO tarafından tanınan jeolojik miras alanlarından biri olan Kula-Salihli Jeoparkı hakkında YANLIŞ bir bilgidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Türkiye'nin ilk ve tek UNESCO Jeoparkı olma özelliğini taşır.",
+            "explanation": "Ders notunda da belirtildiği gibi, Kula-Salihli Jeoparkı, Türkiye'nin ilk ve tek UNESCO Jeoparkı'dır. Bu bilgi doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Sadece volkanik oluşumları değil, aynı zamanda paleolitik dönemden kalma insan izlerini de barındırır.",
+            "explanation": "Ders notunda Kula-Salihli Jeoparkı'nın jeolojik mirasın korunması ve sürdürülebilir kalkınma için önemli bir alan olduğu belirtilmekle birlikte, paleolitik dönemden kalma insan izlerini barındırdığına dair spesifik bir bilgi yer almamaktadır. Dolayısıyla bu bilgi ders notuna göre yanlış kabul edilir."
+          },
+          {
+            "id": "C",
+            "text": "Manisa ili sınırları içerisinde yer almaktadır.",
+            "explanation": "Ders notunda açıkça belirtildiği üzere, Kula-Salihli Jeoparkı Manisa il sınırları içerisindedir. Bu bilgi doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Jeolojik mirasın korunması ve sürdürülebilir kalkınma için önemli bir alandır.",
+            "explanation": "Ders notunda Kula-Salihli Jeoparkı'nın jeolojik mirasın korunması ve sürdürülebilir kalkınma için önemli bir alan olduğu belirtilmiştir. Bu bilgi doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "UNESCO tarafından tescil edilmiştir.",
+            "explanation": "Ders notunda 'Türkiye’nin ilk ve tek UNESCO Jeoparkı' ifadesi, jeoparkın UNESCO tarafından tescil edildiğini açıkça göstermektedir. Bu bilgi doğrudur."
+          }
+        ],
+        "correct": "B",
+        "trick": "Jeoparkın genel tanımına uyabilecek ancak ders notunda spesifik olarak bahsedilmeyen bir özelliği yanlış şık olarak sunarak, öğrencinin notta yer alan kesin bilgilere odaklanması beklenmektedir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-011-t3",
+        "stem": "Aşağıdaki doğal ve kültürel miras alanlarını, bulundukları illerle doğru bir şekilde eşleştiriniz.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I-a, II-c, III-b",
+            "explanation": "Kula-Salihli Jeoparkı Manisa'da, Gökgöl Mağarası Zonguldak'ta ve Ballıca Mağarası Tokat'tadır. Bu şıkta eşleştirmeler doğru değildir."
+          },
+          {
+            "id": "B",
+            "text": "I-c, II-a, III-b",
+            "explanation": "Kula-Salihli Jeoparkı Manisa'da, Gökgöl Mağarası Zonguldak'ta ve Ballıca Mağarası Tokat'tadır. Bu şıkta eşleştirmeler doğru değildir."
+          },
+          {
+            "id": "C",
+            "text": "I-b, II-a, III-c",
+            "explanation": "Kula-Salihli Jeoparkı Manisa'da (b), Gökgöl Mağarası Zonguldak'ta (a) ve Ballıca Mağarası Tokat'tadır (c). Bu şıkta tüm eşleştirmeler ders notunda verilen bilgilerle uyumludur."
+          },
+          {
+            "id": "D",
+            "text": "I-b, II-c, III-a",
+            "explanation": "Kula-Salihli Jeoparkı Manisa'da, Gökgöl Mağarası Zonguldak'ta ve Ballıca Mağarası Tokat'tadır. Bu şıkta eşleştirmeler doğru değildir."
+          },
+          {
+            "id": "E",
+            "text": "I-a, II-b, III-c",
+            "explanation": "Kula-Salihli Jeoparkı Manisa'da, Gökgöl Mağarası Zonguldak'ta ve Ballıca Mağarası Tokat'tadır. Bu şıkta eşleştirmeler doğru değildir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Birden fazla coğrafi konum bilgisini bir arada sorarak, öğrencinin sadece bir konuma odaklanmak yerine ders notundaki tüm ilgili bilgileri hatırlamasını gerektirmektedir."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-012",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Türk destan ve mitolojisinde kutsal kabul edilen ve yol gösterici hayvan figürünü tanımak.",
+    "ozet": "Türk destanları ve mitolojisi, milletimizin kökenlerini, kahramanlıklarını ve dünya görüşünü yansıtan zengin anlatılardır. Bu anlatılarda **doğa ve hayvan figürleri** önemli bir yer tutar. Özellikle bazı hayvanlar, **kutsal** kabul edilerek **yol gösterici** ve **sembolik** anlamlar taşır. Bu tür motifler, genellikle İslamiyet öncesi Türk inançlarından beslenir ve sonraki dönemlerde de etkisini sürdürür. Bu hayvan sembollerini bilmek, destanların ve mitlerin temel mesajlarını anlamak için kritik öneme sahiptir.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-028",
+        "stem": "Türk destan ve mitolojisinde yol gösterici ve kutsal kabul edilerek sıkça yer verilen hayvan aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Aslan",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Kartal",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "At",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Kurt",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-012-t1",
+        "stem": "Aşağıdaki destanlardan hangisi, Göktürk mitolojisinde kurdun yol göstericiliğini ve yeniden doğuş temasını işleyen önemli bir örnektir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Oğuz Kağan Destanı",
+            "explanation": "Oğuz Kağan Destanı, Hunlara ait olup Oğuz Kağan'ın hayatını ve kahramanlıklarını anlatır, kurt motifi farklı bir bağlamda yer alsa da Göktürk destanlarındaki kadar belirgin değildir."
+          },
+          {
+            "id": "B",
+            "text": "Manas Destanı",
+            "explanation": "Manas Destanı, Kırgızlara aittir ve dünyanın en uzun destanlarından biridir. Kurt motifi değil, daha çok Manas'ın ve soyunun mücadelesi ön plandadır."
+          },
+          {
+            "id": "C",
+            "text": "Dede Korkut Hikâyeleri",
+            "explanation": "Dede Korkut Hikâyeleri, Oğuz/Türkmenlere ait İslami dönem eserleridir. İçerisinde kurt motifi geçse de, Bozkurt Destanı'ndaki gibi temel bir yol gösterici figür değildir."
+          },
+          {
+            "id": "D",
+            "text": "Bozkurt Destanı",
+            "explanation": "Bozkurt Destanı, Göktürklere ait olup bir dişi kurdun Türklerin atası olması ve onlara yol göstermesi temasını işler. Bu destan, kurdun Türk mitolojisindeki merkezi rolünü vurgular."
+          },
+          {
+            "id": "E",
+            "text": "Alp Er Tunga Destanı",
+            "explanation": "Alp Er Tunga Destanı, Sakalara (İskitlere) ait olup Alp Er Tunga'nın yaşamını ve savaşlarını anlatır. Kurt motifi bu destanın ana teması değildir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Destanların ait olduğu toplulukları karıştırmak, doğru cevaba ulaşmayı zorlaştırabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-012-t2",
+        "stem": "Türk mitolojisinde kurdun sembolize ettiği anlamlar arasında aşağıdakilerden hangisi YER ALMAZ?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yeniden doğuş",
+            "explanation": "Kurt, Türk mitolojisinde yeniden doğuş ve soyun devamlılığı sembolüdür, özellikle Bozkurt Destanı'nda bu tema işlenir."
+          },
+          {
+            "id": "B",
+            "text": "Güç ve liderlik",
+            "explanation": "Kurt, Türk mitolojisinde fiziksel gücü ve sürüye liderlik etme yeteneğiyle liderliği sembolize eder."
+          },
+          {
+            "id": "C",
+            "text": "Özgürlük ve bağımsızlık",
+            "explanation": "Kurdun doğadaki vahşi ve bağımsız yaşamı, Türk mitolojisinde özgürlük ve bağımsızlık sembolü olarak yorumlanır."
+          },
+          {
+            "id": "D",
+            "text": "Yol gösterme",
+            "explanation": "Kurt, Türk mitolojisinde zor zamanlarda veya kaybolunduğunda yol gösterici bir figür olarak kabul edilir."
+          },
+          {
+            "id": "E",
+            "text": "Bereket ve bolluk",
+            "explanation": "Bereket ve bolluk genellikle toprak, su veya belirli bitkilerle ilişkilendirilen sembollerdir. Kurt, Türk mitolojisinde bu anlamı doğrudan taşımaz."
+          }
+        ],
+        "correct": "E",
+        "trick": "Olumsuz köklü sorularda, şıklardaki her ifadenin doğruluğunu veya yanlışlığını dikkatlice analiz etmek gerekir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-012-t3",
+        "stem": "Aşağıdaki Türk destanlarını ait oldukları topluluklarla doğru bir şekilde eşleştiren seçeneği işaretleyiniz:",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I-a, II-b, III-d, IV-c",
+            "explanation": "I. Bozkurt Destanı Göktürklere aittir (a). II. Oğuz Kağan Destanı Hunlara aittir (b). III. Manas Destanı Kırgızlara aittir (d). IV. Dede Korkut Hikâyeleri Oğuz/Türkmenlere aittir (c). Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "I-b, II-a, III-d, IV-c",
+            "explanation": "I. Bozkurt Destanı Göktürklere, II. Oğuz Kağan Destanı Hunlara, III. Manas Destanı Kırgızlara, IV. Dede Korkut Hikâyeleri Oğuz/Türkmenlere aittir. Bu seçenekteki eşleştirme hatalıdır."
+          },
+          {
+            "id": "C",
+            "text": "I-c, II-d, III-a, IV-b",
+            "explanation": "I. Bozkurt Destanı Göktürklere, II. Oğuz Kağan Destanı Hunlara, III. Manas Destanı Kırgızlara, IV. Dede Korkut Hikâyeleri Oğuz/Türkmenlere aittir. Bu seçenekteki eşleştirme hatalıdır."
+          },
+          {
+            "id": "D",
+            "text": "I-a, II-b, III-c, IV-d",
+            "explanation": "Bu seçenekteki eşleştirme doğru değildir. Bozkurt Destanı Göktürklere, Oğuz Kağan Destanı Hunlara, Manas Destanı Kırgızlara, Dede Korkut Hikâyeleri Oğuz/Türkmenlere aittir."
+          },
+          {
+            "id": "E",
+            "text": "I-d, II-c, III-b, IV-a",
+            "explanation": "I. Bozkurt Destanı Göktürklere, II. Oğuz Kağan Destanı Hunlara, III. Manas Destanı Kırgızlara, IV. Dede Korkut Hikâyeleri Oğuz/Türkmenlere aittir. Bu seçenekteki eşleştirme hatalıdır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Destanların ait olduğu toplulukları karıştırmak veya yanlış sıraya koymak, doğru cevabı bulmayı zorlaştırabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-013",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Bu soru, Türk halk edebiyatı figürleri ile ilişkilendirilen edebi türleri tanıma bilgisini ölçmektedir.",
+    "ozet": "Türk halk edebiyatı, **anonim**, **âşık** ve **dinî-tasavvufî** olmak üzere üç ana kolda incelenir. Anonim halk edebiyatı, söyleyeni belli olmayan **mani, türkü, masal, efsane** gibi türleri barındırır. **Fıkralar** da anonim olup, **Nasreddin Hoca** gibi bilge ve mizahi figürlerle özdeşleşmiştir. Âşık edebiyatında ise şairi belli olan **koşma, semai** gibi türler saz eşliğinde söylenir. Dinî-tasavvufî edebiyat, **ilahi** ve **nutuk** gibi türlerle tasavvufi düşünceyi işler. Bu ayrım ve örnekleri bilirseniz, halk edebiyatı sorularını kolayca çözersiniz.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-044",
+        "stem": "Türk halk kültürünün önemli figürlerinden Nasreddin Hoca ile özdeşleşen edebi tür aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Masallar",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Destanlar",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Fıkralar",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Şiirler",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-013-t1",
+        "stem": "Aşağıdakilerden hangisi, Türk destanları ve ait oldukları topluluk eşleşmelerinden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Oğuz Kağan - Hun",
+            "explanation": "Oğuz Kağan Destanı, Hunlara ait önemli bir Türk destanıdır. Bu eşleşme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Dede Korkut Hikâyeleri - Uygur",
+            "explanation": "Dede Korkut Hikâyeleri, Oğuz/Türkmenlere ait İslami dönem destanlarıdır. Uygurlara ait destanlar Türeyiş ve Göç destanlarıdır. Bu eşleşme yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "Bozkurt - Göktürk",
+            "explanation": "Bozkurt Destanı, Göktürklere ait destanlardan biridir. Bu eşleşme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Manas - Kırgız",
+            "explanation": "Manas Destanı, Kırgızlara ait olup dünyanın en uzun destanı olarak bilinir. Bu eşleşme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Alp Er Tunga - Saka (İskit)",
+            "explanation": "Alp Er Tunga Destanı, Saka (İskit) Türklerine ait bir destandır. Bu eşleşme doğrudur."
+          }
+        ],
+        "correct": "B",
+        "trick": "Destanların ait olduğu toplulukları karıştırmak, bu soruyu yanlış çözdürmeye yönelik bir tuzaktır."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-013-t2",
+        "stem": "Aşağıdaki halk edebiyatı türlerinden hangisi, içeriği itibarıyla belirli bir yer, kişi veya olayla ilgili olup inandırıcılık iddiası taşır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mani",
+            "explanation": "Mani, 7 heceli, dört dizeli, aaxa uyak düzenine sahip anonim bir halk şiiri türüdür ve belirli bir yer, kişi veya olayla ilgili inandırıcılık iddiası taşımaz."
+          },
+          {
+            "id": "B",
+            "text": "Türkü",
+            "explanation": "Türkü, ezgiyle söylenen, bent ve kavuştak bölümlerinden oluşan anonim bir halk müziği ve şiir türüdür, inandırıcılık iddiası taşımaz."
+          },
+          {
+            "id": "C",
+            "text": "Efsane (Söylence)",
+            "explanation": "Efsane (söylence), belirli bir yer, kişi veya olayla ilgili olup, gerçek olduğuna inanılan veya inandırıcılık iddiası taşıyan anonim anlatılardır. Bu özelliğiyle masaldan ayrılır."
+          },
+          {
+            "id": "D",
+            "text": "Masal",
+            "explanation": "Masal, olağanüstü kişi ve olayları içeren, yer ve zamanı belirsiz, genellikle evrensel temalı anonim anlatılardır, inandırıcılık iddiası taşımaz."
+          },
+          {
+            "id": "E",
+            "text": "Fıkra",
+            "explanation": "Fıkra, kısa, güldürücü ve düşündürücü anlatılardır, belirli bir yer veya kişiyle ilgili olabilir ancak inandırıcılık iddiası temel özelliği değildir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Masal ve efsane arasındaki temel farkı gözden kaçırmak, bu soruyu yanlış çözdürmeye neden olabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-013-t3",
+        "stem": "Türk halk edebiyatının 'Âşık (Saz) Edebiyatı' koluna mensup bir şairin aşağıdaki özelliklerden hangisine sahip olması beklenmez?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Şiirlerini saz eşliğinde icra etmesi",
+            "explanation": "Âşık edebiyatının en belirgin özelliklerinden biri, şairlerin şiirlerini saz eşliğinde icra etmesidir. Bu, beklenen bir özelliktir."
+          },
+          {
+            "id": "B",
+            "text": "Genellikle hece ölçüsünü kullanması",
+            "explanation": "Âşık edebiyatı şairleri genellikle hece ölçüsünü kullanır. Bu, beklenen bir özelliktir."
+          },
+          {
+            "id": "C",
+            "text": "Koçaklama, güzelleme gibi nazım türlerinde eserler vermesi",
+            "explanation": "Âşık edebiyatında koşma türünün alt başlıkları olan koçaklama (yiğitlik) ve güzelleme (doğa ve sevgili övgüsü) gibi türlerde eserler vermek yaygındır. Bu, beklenen bir özelliktir."
+          },
+          {
+            "id": "D",
+            "text": "Arapça ve Farsça kelimelerle yüklü, ağır bir dil kullanması",
+            "explanation": "Âşık edebiyatında genellikle sade bir Türkçe kullanılır ve Divan edebiyatındaki gibi Arapça-Farsça kelimelerle yüklü, ağır bir dil beklenmez. Bu özellik, Divan edebiyatına aittir."
+          },
+          {
+            "id": "E",
+            "text": "Atışma geleneğini sürdürmesi",
+            "explanation": "Atışma, iki âşığın karşılıklı doğaçlama şiir söyleme geleneğidir ve âşık edebiyatının önemli bir parçasıdır. Bu, beklenen bir özelliktir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Halk edebiyatının dil özelliklerini Divan edebiyatıyla karıştırmak, bu soruyu yanlış çözdürmeye yönelik bir tuzaktır."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-014",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Antik Yunan mimarisinde kullanılan temel sütun başlığı tipleri Dor, İyon ve Korint düzenleridir.",
+    "ozet": "Antik çağlardan günümüze ulaşan mimari eserler, dönemin estetik anlayışını ve teknik bilgisini yansıtır. Özellikle **Antik Yunan mimarisi**, kendine özgü sütun düzenleriyle tanınır. Bu düzenler, yapının hem taşıyıcı unsuru hem de görsel kimliğini belirleyen temel öğelerdir. **Dor**, **İyon** ve **Korint** olarak adlandırılan bu sütun başlığı tipleri, mimarideki gelişim ve farklı coğrafi etkileşimleri de gösterir. Bu üç düzenin özelliklerini ve Antik Yunan mimarisindeki yerini bilmek, bu tarz soruları kolayca çözmenizi sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-089",
+        "stem": "Dor, İyon ve Korint düzenleri, aşağıdaki mimari geleneklerden hangisinin temel sütun başlığı tiplerini oluşturur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Roma mimarisi",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Bizans mimarisi",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Antik Yunan mimarisi",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Gotik mimari",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-014-t1",
+        "stem": "Aşağıdakilerden hangisi Antik Yunan mimarisinde kullanılan başlıca sütun düzenlerinden biri değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Dor",
+            "explanation": "Dor düzeni, Antik Yunan mimarisinin en eski ve en sade sütun düzenlerinden biridir. Bu nedenle doğru bir seçenektir ve sorunun cevabı değildir."
+          },
+          {
+            "id": "B",
+            "text": "İyon",
+            "explanation": "İyon düzeni, Dor düzeninden daha süslü ve volütlü başlıklarıyla bilinen bir Antik Yunan sütun düzenidir. Bu nedenle doğru bir seçenektir ve sorunun cevabı değildir."
+          },
+          {
+            "id": "C",
+            "text": "Korint",
+            "explanation": "Korint düzeni, Antik Yunan mimarisinin en gösterişli ve akantus yapraklarıyla süslü sütun düzenidir. Bu nedenle doğru bir seçenektir ve sorunun cevabı değildir."
+          },
+          {
+            "id": "D",
+            "text": "Tüm sütun düzenleri Antik Yunan mimarisine aittir.",
+            "explanation": "Bu ifade yanlıştır çünkü Kompozit düzen gibi bazı sütun düzenleri Antik Yunan değil, Roma mimarisine aittir."
+          },
+          {
+            "id": "E",
+            "text": "Kompozit",
+            "explanation": "Kompozit düzen, Roma mimarisinde ortaya çıkmış, İyon ve Korint düzenlerinin özelliklerini birleştiren bir sütun başlığıdır. Antik Yunan mimarisine ait değildir. Bu nedenle sorunun doğru cevabıdır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Öğrenci, Kompozit düzenin Roma mimarisine ait olduğunu gözden kaçırabilir ve tüm şıkların Antik Yunan düzeni olduğunu düşünebilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-014-t2",
+        "stem": "Antik Yunan mimarisindeki sütun düzenlerinin gelişim sırası aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Dor → İyon → Korint",
+            "explanation": "Antik Yunan mimarisinde ortaya çıkan sütun düzenleri kronolojik olarak önce Dor, ardından İyon ve en son Korint düzenidir. Bu nedenle doğru cevaptır."
+          },
+          {
+            "id": "B",
+            "text": "Korint → İyon → Dor",
+            "explanation": "Bu sıralama yanlıştır. Dor düzeni en eski, ardından İyon ve en son Korint düzeni gelişmiştir."
+          },
+          {
+            "id": "C",
+            "text": "İyon → Dor → Korint",
+            "explanation": "Bu sıralama yanlıştır. Dor düzeni en eski, ardından İyon ve en son Korint düzeni gelişmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Dor → Korint → İyon",
+            "explanation": "Bu sıralama yanlıştır. İyon düzeni, Korint düzeninden önce gelişmiştir."
+          },
+          {
+            "id": "E",
+            "text": "Korint → Dor → İyon",
+            "explanation": "Bu sıralama yanlıştır. Dor düzeni en eski, ardından İyon ve en son Korint düzeni gelişmiştir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Sütun düzenlerinin kronolojik sırasını bilmeyen öğrenci, şıklardaki farklı sıralamalardan birini seçerek hata yapabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-014-t3",
+        "stem": "Aşağıdaki ifadelerden hangisi Antik Yunan mimarisindeki Dor sütun düzeninin özelliklerinden biri değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "En sade ve en eski sütun düzenidir.",
+            "explanation": "Dor düzeni, Antik Yunan mimarisinin en sade ve en eski düzenidir. Bu ifade doğru olduğu için sorunun cevabı değildir."
+          },
+          {
+            "id": "B",
+            "text": "Sütun başlıklarında volüt (helezon) motifleri bulunur.",
+            "explanation": "Volüt motifleri, İyon düzeninin karakteristik özelliğidir, Dor düzenine ait değildir. Bu nedenle bu ifade yanlıştır ve sorunun doğru cevabıdır."
+          },
+          {
+            "id": "C",
+            "text": "Sütun gövdesi yivlidir ve kaidesi yoktur.",
+            "explanation": "Dor sütunları genellikle yivli olup, doğrudan stylobat (temel) üzerine oturur ve kaidesi bulunmaz. Bu ifade doğru olduğu için sorunun cevabı değildir."
+          },
+          {
+            "id": "D",
+            "text": "Daha çok anakara Yunanistan'da ve Batı kolonilerinde kullanılmıştır.",
+            "explanation": "Dor düzeni, özellikle anakara Yunanistan ve Batı kolonilerinde yaygın olarak kullanılmıştır. Bu ifade doğru olduğu için sorunun cevabı değildir."
+          },
+          {
+            "id": "E",
+            "text": "Erkeksil ve güçlü bir görünüme sahiptir.",
+            "explanation": "Dor düzeni, sadeliği ve sağlamlığı ile erkeksi ve güçlü bir görünüme sahiptir. Bu ifade doğru olduğu için sorunun cevabı değildir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Öğrenci, Dor, İyon ve Korint düzenlerinin belirgin özelliklerini karıştırabilir, özellikle volütlerin İyon düzenine ait olduğunu gözden kaçırabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-015",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Mitoloji alanında temel eserler vermiş ve antik destanları Türkçeye kazandırmış önemli yazar ve çevirmen Azra Erhat'ı tanımak.",
+    "ozet": "Mitoloji, bir toplumun geleneksel inanç ve anlatılarının bütünüdür. Türk mitolojisi kadar, **antik Yunan mitolojisi** de kültürel mirasımız içinde önemli bir yer tutar. Bu alanda yapılan çeviriler ve derlemeler, hem akademik çalışmalar hem de turizm rehberliği için temel kaynaklardır. Özellikle **Homeros**'un İlyada ve Odysseia destanları ile **Hesiodos**'un Theogonia ve İşler ve Günler eserleri, antik dünyanın düşünce ve yaşam biçimini anlamak için vazgeçilmezdir. Bu eserleri Türkçeye kazandıran ve kendi mitoloji sözlüğünü yazan **Azra Erhat** gibi isimler, bu zengin mirası günümüze taşıyan kilit figürlerdir. Bu kişileri ve eserlerini bilmek, mitolojiyle ilgili soruları doğru yanıtlamanın anahtarıdır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-004",
+        "stem": "Türkiye'de mitoloji alanının temel başvuru eserlerinden biri olarak kabul edilen Mitoloji Sözlüğü'nü yazan, Homeros'un \"İlyada\" ve \"Odysseia\" destanlarını, Hesiodos'un \"Theogonia\" ve \"İşler ve Günler\" adlı eserlerini de Türkçeye çeviren düşünür ve yazar aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mina Urgan",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Azra Erhat",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Can Yücel",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Bedri Rahmi Eyüboğlu",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Melih Cevdet Anday",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-015-t1",
+        "stem": "Antik Yunan destanları ve mitolojisi üzerine yaptığı çeviriler ve derlemelerle tanınan, Mitoloji Sözlüğü'nün yazarı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mina Urgan",
+            "explanation": "Mina Urgan, İngiliz edebiyatı üzerine yaptığı çalışmalar ve 'Bir Dinozorun Anıları' adlı otobiyografisiyle tanınır, mitoloji alanında çevirileri yoktur."
+          },
+          {
+            "id": "B",
+            "text": "Can Yücel",
+            "explanation": "Can Yücel, Türk şiirinin önemli temsilcilerinden biridir ve kendine özgü üslubuyla tanınır, mitoloji alanında çeviri veya eserleri bulunmamaktadır."
+          },
+          {
+            "id": "C",
+            "text": "Azra Erhat",
+            "explanation": "Azra Erhat, 'Mitoloji Sözlüğü'nü yazmış ve Homeros'un İlyada/Odysseia ile Hesiodos'un Theogonia/İşler ve Günler eserlerini Türkçeye çevirmiştir. Bu nedenle doğru cevaptır."
+          },
+          {
+            "id": "D",
+            "text": "Bedri Rahmi Eyüboğlu",
+            "explanation": "Bedri Rahmi Eyüboğlu, ressam, şair ve yazar kimliğiyle tanınır, ancak mitoloji çevirileri veya sözlüğü yoktur."
+          },
+          {
+            "id": "E",
+            "text": "Melih Cevdet Anday",
+            "explanation": "Melih Cevdet Anday, Garip akımının önde gelen şairlerinden biridir ve roman, deneme gibi farklı türlerde eserler vermiştir, mitoloji alanında uzmanlığı yoktur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Seçeneklerdeki diğer önemli yazar ve şairler, öğrencinin mitoloji alanındaki uzmanlıkları konusunda kafasını karıştırmak için verilmiştir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-015-t2",
+        "stem": "Aşağıdakilerden hangisi, Azra Erhat'ın Türkçeye kazandırdığı veya yazdığı eserlerden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Homeros'un İlyada Destanı",
+            "explanation": "Azra Erhat, Homeros'un İlyada Destanı'nı Türkçeye çevirmiştir."
+          },
+          {
+            "id": "B",
+            "text": "Hesiodos'un Theogonia",
+            "explanation": "Azra Erhat, Hesiodos'un Theogonia adlı eserini Türkçeye çevirmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Mitoloji Sözlüğü",
+            "explanation": "Azra Erhat, mitoloji alanında temel başvuru eseri olan Mitoloji Sözlüğü'nü yazmıştır."
+          },
+          {
+            "id": "D",
+            "text": "Sokrates'in Savunması",
+            "explanation": "Sokrates'in Savunması, Platon'a ait bir eserdir ve Azra Erhat'ın çevirdiği eserler arasında ders notunda belirtilmemiştir, bu nedenle doğru cevaptır."
+          },
+          {
+            "id": "E",
+            "text": "Homeros'un Odysseia Destanı",
+            "explanation": "Azra Erhat, Homeros'un Odysseia Destanı'nı Türkçeye çevirmiştir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Tanınmış klasik eserlerin arasına, öğrencinin ders notunda bahsedilmeyen bir eseri koyarak dikkatini dağıtmak hedeflenmiştir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-015-t3",
+        "stem": "Aşağıdaki yazar-eser eşleştirmelerinden hangisi Azra Erhat'ın çalışmalarıyla doğrudan ilişkilidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yusuf Has Hacip - Kutadgu Bilig",
+            "explanation": "Kutadgu Bilig, Yusuf Has Hacip'e aittir ve Karahanlı döneminin önemli eserlerindendir, Azra Erhat ile ilişkisi yoktur."
+          },
+          {
+            "id": "B",
+            "text": "Kaşgarlı Mahmut - Divanü Lügati't-Türk",
+            "explanation": "Divanü Lügati't-Türk, Kaşgarlı Mahmut'a aittir ve ilk Türkçe sözlük olarak bilinir, Azra Erhat ile ilişkisi yoktur."
+          },
+          {
+            "id": "C",
+            "text": "Evliya Çelebi - Seyahatname",
+            "explanation": "Seyahatname, Evliya Çelebi'ye aittir ve Osmanlı coğrafyasının önemli bir gezi eseridir, Azra Erhat ile ilişkisi yoktur."
+          },
+          {
+            "id": "D",
+            "text": "Ahmet Hamdi Tanpınar - Beş Şehir",
+            "explanation": "Beş Şehir, Ahmet Hamdi Tanpınar'a aittir ve Anadolu şehirlerini anlatan önemli bir eserdir, Azra Erhat ile ilişkisi yoktur."
+          },
+          {
+            "id": "E",
+            "text": "Azra Erhat - Homeros'un İlyada Destanı Çevirisi",
+            "explanation": "Azra Erhat, Homeros'un İlyada Destanı'nı Türkçeye çevirmiştir, bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "E",
+        "trick": "Farklı dönem ve türlerden önemli eser ve yazar eşleştirmeleri arasına doğru seçeneği yerleştirerek, öğrencinin ders notundaki spesifik bilgiye odaklanıp odaklanmadığı test edilmektedir."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-016",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Bu soru, geleneksel Türk el sanatlarından ebru sanatının temel tanımlayıcı özelliklerini ölçmektedir.",
+    "ozet": "Türk kültüründe köklü bir geçmişe sahip olan geleneksel el sanatları, zengin kültürel mirasımızın önemli bir parçasıdır. Bu sanat dalları arasında **ebru**, **minyatür** ve **meddahlık** gibi pek çok farklı ifade biçimi bulunur. Ebru sanatı, kitreli su üzerine özel boyalar serpilerek ve 'biz' adı verilen aletle şekil verilerek kağıda aktarılan renkli desenlerden oluşur. Minyatürler, perspektif ve ışık-gölge kurallarına bağlı kalmadan, küçük boyutlarda detaylı resimlerdir. Meddahlık ise tek kişilik, mendil ve sopa gibi aksesuarlar kullanılarak gerçekleştirilen bir hikaye anlatma sanatıdır. Bu sanatları ayırt edici özellikleriyle bilmek, ilgili soruları çözmek için yeterlidir.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-008",
+        "stem": "Kitreli su dolu bir kaba renkli boyalar serpilip, bizle şekil verilmesi ve ardından desenlerin kâğıda aktarılmasıyla renkli motifler oluşturularak yapılan geleneksel Türk sanatı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ebru",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Hat",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Dokuma",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Kat'ı",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Minyatür",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-016-t1",
+        "stem": "Aşağıdakilerden hangisi minyatür sanatının özelliklerinden biri değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Perspektif ve ışık-gölge kurallarının titizlikle uygulanması",
+            "explanation": "Ders notunda belirtildiği üzere, minyatürlerde perspektif ve ışık-gölge kurallarına bağlı kalınmaz, kendine has boyama teknikleri kullanılır. Bu ifade minyatürün özelliği değildir."
+          },
+          {
+            "id": "B",
+            "text": "Genellikle kitap süsleme sanatında kullanılması",
+            "explanation": "Minyatür, geleneksel kitap süsleme sanatının önemli bir parçasıdır."
+          },
+          {
+            "id": "C",
+            "text": "Küçük boyutlu resimler olması",
+            "explanation": "Minyatür kelimesi de zaten 'küçük' anlamına gelir ve bu sanat dalının temel özelliğidir."
+          },
+          {
+            "id": "D",
+            "text": "Osmanlı İmparatorluğu döneminde zirveye ulaşması",
+            "explanation": "Minyatür sanatı Osmanlı döneminde büyük gelişme göstermiştir."
+          },
+          {
+            "id": "E",
+            "text": "Kendine has boyama tekniklerinin bulunması",
+            "explanation": "Minyatürün kendine özgü boyama teknikleri vardır ve bu, onu diğer resim sanatlarından ayırır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Minyatürün 'resim' olması, perspektif ve ışık-gölge gibi modern resim tekniklerinin de kullanıldığı yanılsamasını yaratabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-016-t2",
+        "stem": "Geleneksel Türk tiyatrosunun önemli dallarından biri olan meddahlık sanatı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Meddah, hikayelerini Karagöz ve Hacivat karakterleriyle birlikte sahneler.",
+            "explanation": "Karagöz ve Hacivat gölge oyununun karakterleridir, meddah tek kişilik bir anlatıcıdır."
+          },
+          {
+            "id": "B",
+            "text": "Meddah, hikaye anlatımında mendil ve sopa gibi aksesuarları kullanır.",
+            "explanation": "Ders notunda açıkça belirtildiği gibi, meddahın tek aracı mendil ve sopadır ve bunları ses/karakter değiştirmek için kullanır."
+          },
+          {
+            "id": "C",
+            "text": "Meddahlık, açık alanda, dekorsuz oynanan doğaçlama tiyatro türüdür.",
+            "explanation": "Bu tanım Ortaoyununa aittir, meddahlık tek kişilik bir anlatı sanatıdır."
+          },
+          {
+            "id": "D",
+            "text": "Meddahlık sanatında, deve derisinden yapılan tasvirler perdeye yansıtılır.",
+            "explanation": "Bu tanım Karagöz ve Hacivat gölge oyununa aittir."
+          },
+          {
+            "id": "E",
+            "text": "Meddahlar, genellikle müzik aletleri eşliğinde hikayelerini sunar.",
+            "explanation": "Meddahlıkta müzik aleti kullanımı temel bir özellik değildir, anlatıcının kendi ses ve taklit yeteneği ön plandadır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Geleneksel Türk tiyatrosunun farklı türlerini karıştırmak, meddahlığın aksesuarlarını diğer türlerin özellikleriyle eşleştirmeye yol açabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-016-t3",
+        "stem": "Aşağıda verilen geleneksel Türk sanatları ve tanımlamaları eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ebru: Kitreli su üzerine renkli boyaların serpilip 'biz' ile şekil verilerek kâğıda aktarılması.",
+            "explanation": "Bu, ders notunda verilen ebru sanatının doğru tanımıdır."
+          },
+          {
+            "id": "B",
+            "text": "Meddahlık: Tek kişilik bir anlatıcının mendil ve sopayı aksesuar olarak kullanarak hikaye anlatması.",
+            "explanation": "Bu, ders notunda verilen meddahlık sanatının doğru tanımıdır."
+          },
+          {
+            "id": "C",
+            "text": "Minyatür: Küçük boyutlu resimlerde perspektif ve ışık-gölge kurallarının birebir uygulanması.",
+            "explanation": "Ders notunda belirtildiği gibi, minyatürlerde perspektif ve ışık-gölge kurallarına bağlı kalınmaz. Bu ifade yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Karagöz ve Hacivat: Deve derisinden yapılan tasvirlerin perdeye yansıtıldığı gölge oyunu.",
+            "explanation": "Bu, ders notunda verilen Karagöz ve Hacivat oyununun doğru tanımıdır."
+          },
+          {
+            "id": "E",
+            "text": "Ortaoyunu: Açık alanda, dekorsuz oynanan, Pişekâr ve Kavuklu'nun başrollerini paylaştığı doğaçlama tiyatro.",
+            "explanation": "Bu, ders notunda verilen Ortaoyununun doğru tanımıdır."
+          }
+        ],
+        "correct": "C",
+        "trick": "Minyatürün bir resim sanatı olması, onu çağdaş resimdeki perspektif gibi tekniklerle ilişkilendirme hatasına düşürebilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-017",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "I. Gıyaseddin Keyhüsrev'in kız kardeşi Gevher Nesibe adına yaptırdığı yapının adını bilmek.",
+    "ozet": "Anadolu Selçuklu döneminde önemli bir yere sahip olan **tıp medreseleri ve darüşşifalar**, dönemin sağlık ve eğitim anlayışını yansıtır. Bu yapılar, sadece tedavi hizmeti sunmakla kalmayıp, tıp eğitimi verilen önemli merkezlerdi. Özellikle **I. Gıyaseddin Keyhüsrev** döneminde yapılan **Gevher Nesibe Tıp Medresesi ve Darüşşifası**, Selçuklu tıbbının en parlak örneklerinden biridir. Bu eserin kim tarafından ve kimin adına yapıldığı bilgisi, dönemin sosyal ve kültürel yapısı hakkında önemli ipuçları sunar. Bu bilgiyi bilmek, ilgili döneme ait soruları çözmede size yardımcı olacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-017",
+        "stem": "I. Gıyaseddin Keyhüsrev'in kız kardeşi adına Anadolu'da yaptırdığı eser aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Divriği Melike Turan Melek Darüşşifası",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Gevher Nesibe Tıp Medresesi ve Darüşşifası",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Manisa Hafsa Sultan Darüşşifası",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Yılanlı Darüşşifası",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Konya Darüşşifası",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-017-t1",
+        "stem": "Anadolu Selçuklu döneminde inşa edilen ve I. Gıyaseddin Keyhüsrev'in kız kardeşi adına yaptırılan önemli tıp yapısı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Divriği Turan Melek Darüşşifası",
+            "explanation": "Divriği'deki darüşşifa, Turan Melek tarafından yaptırılmıştır, ancak I. Gıyaseddin Keyhüsrev'in kız kardeşi adına değildir."
+          },
+          {
+            "id": "B",
+            "text": "Manisa Hafsa Sultan Darüşşifası",
+            "explanation": "Hafsa Sultan Darüşşifası, Osmanlı döneminde Manisa'da yapılmıştır ve I. Gıyaseddin Keyhüsrev ile ilişkili değildir."
+          },
+          {
+            "id": "C",
+            "text": "Yılanlı Darüşşifası",
+            "explanation": "Yılanlı Darüşşifası, farklı bir dönem ve konumda yer alan bir yapıdır ve I. Gıyaseddin Keyhüsrev ile bağlantısı yoktur."
+          },
+          {
+            "id": "D",
+            "text": "Gevher Nesibe Tıp Medresesi ve Darüşşifası",
+            "explanation": "Bu eser, ders notunda belirtildiği üzere I. Gıyaseddin Keyhüsrev'in kız kardeşi Gevher Nesibe adına yaptırılan önemli bir tıp yapısıdır."
+          },
+          {
+            "id": "E",
+            "text": "Konya Darüşşifası",
+            "explanation": "Konya'da çeşitli darüşşifalar bulunsa da, ders notunda I. Gıyaseddin Keyhüsrev'in kız kardeşi adına yaptırdığı spesifik yapı olarak Gevher Nesibe Tıp Medresesi ve Darüşşifası belirtilmiştir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Benzer isimdeki tarihi yapıları veya farklı dönemlere ait eserleri karıştırmak, bu sorunun en yaygın tuzağıdır."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-017-t2",
+        "stem": "Aşağıdakilerden hangisi, Anadolu Selçuklu döneminde tıp ve eğitim alanındaki gelişmişliği gösteren, I. Gıyaseddin Keyhüsrev'in kız kardeşi adına yaptırılan önemli bir yapı DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Gevher Nesibe Tıp Medresesi",
+            "explanation": "Gevher Nesibe Tıp Medresesi, I. Gıyaseddin Keyhüsrev'in kız kardeşi adına yaptırılan yapının önemli bir parçasıdır. Dolayısıyla sorunun cevabı değildir."
+          },
+          {
+            "id": "B",
+            "text": "Gevher Nesibe Darüşşifası",
+            "explanation": "Gevher Nesibe Darüşşifası, I. Gıyaseddin Keyhüsrev'in kız kardeşi adına yaptırılan yapının önemli bir parçasıdır. Dolayısıyla sorunun cevabı değildir."
+          },
+          {
+            "id": "C",
+            "text": "Gevher Nesibe Külliyesi",
+            "explanation": "Gevher Nesibe Külliyesi, Tıp Medresesi ve Darüşşifası'nı da içeren bir külliyedir. Bu isimle de anılabilen bir yapıdır. Dolayısıyla sorunun cevabı değildir."
+          },
+          {
+            "id": "D",
+            "text": "Kayseri Gevher Nesibe Tıp Medresesi ve Darüşşifası",
+            "explanation": "Bu ifade, ders notunda belirtilen yapının tam adıdır ve I. Gıyaseddin Keyhüsrev'in kız kardeşi adına yaptırılmıştır. Dolayısıyla sorunun cevabı değildir."
+          },
+          {
+            "id": "E",
+            "text": "Sultan Darüşşifası",
+            "explanation": "Ders notunda I. Gıyaseddin Keyhüsrev'in kız kardeşi adına yaptırılan yapı 'Gevher Nesibe Tıp Medresesi ve Darüşşifası' olarak açıkça belirtilmiştir. 'Sultan Darüşşifası' genel bir ifade olup, bu spesifik yapıya karşılık gelmez ve notta geçmemektedir. Bu nedenle doğru cevaptır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Soru kökündeki 'DEĞİLDİR' ifadesini gözden kaçırmak ve doğru olan bir şıkkı işaretlemek yaygın bir tuzaktır."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-017-t3",
+        "stem": "Aşağıdaki Selçuklu dönemi eserleri ve yaptıran kişiler eşleştirmelerinden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I. Gıyaseddin Keyhüsrev - Gevher Nesibe Tıp Medresesi ve Darüşşifası",
+            "explanation": "Ders notunda belirtildiği üzere, I. Gıyaseddin Keyhüsrev kız kardeşi Gevher Nesibe adına bu yapıyı yaptırmıştır. Bu eşleşme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Gevher Nesibe Tıp Medresesi ve Darüşşifası - II. Kılıçarslan",
+            "explanation": "Gevher Nesibe Tıp Medresesi ve Darüşşifası, ders notuna göre I. Gıyaseddin Keyhüsrev tarafından yaptırılmıştır."
+          },
+          {
+            "id": "C",
+            "text": "Divriği Darüşşifası - Gevher Nesibe",
+            "explanation": "Divriği Darüşşifası, Turan Melek tarafından yaptırılmıştır, Gevher Nesibe tarafından değil."
+          },
+          {
+            "id": "D",
+            "text": "Alâeddin Keykubad - Gevher Nesibe Tıp Medresesi",
+            "explanation": "Gevher Nesibe Tıp Medresesi ve Darüşşifası, ders notuna göre I. Gıyaseddin Keyhüsrev tarafından yaptırılmıştır, Alâeddin Keykubad tarafından değil."
+          },
+          {
+            "id": "E",
+            "text": "Gevher Nesibe - Kayseri Sultan Hanı",
+            "explanation": "Gevher Nesibe bir yapı yaptırmamış, adına yapı yaptırılmıştır. Ayrıca Kayseri Sultan Hanı farklı bir yapıdır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Eser ve yaptıran kişi arasındaki ilişkiyi karıştırmak veya eşleştirmeyi ters okumak (yaptıran-eser yerine eser-yaptıran) yaygın bir hata olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-018",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Bu soru, Anadolu'daki antik kentlerin önemli mimari ve sanatsal buluntularını bilmeyi ölçer.",
+    "ozet": "Anadolu, binlerce yıllık tarihi boyunca birçok medeniyete ev sahipliği yapmıştır. Bu medeniyetlerin bıraktığı kalıntılar, günümüzde de önemini korumaktadır. Özellikle antik kentler, zengin arkeolojik buluntularıyla dikkat çeker. Örneğin, **Kibyra antik kenti**, özellikle **Odeon yapısı**nda bulunan ve **opus sectile tekniğiyle yapılmış, yaklaşık 2.000 yıllık Medusa mozaiği** ile öne çıkar. Rehberler için, bu tür spesifik yapıları ve buluntuları ait oldukları antik kentlerle eşleştirebilmek önemlidir.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-028",
+        "stem": "Odeon yapısının orkestra bölümünde, \"opus sectile\" tekniğiyle yapılmış, yaklaşık 2.000 yıllık Medusa mozaiği aşağıdaki antik kentlerden hangisinde bulunur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ephesus",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Kibyra",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Aizanoi",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Bergama",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Hierapolis",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-018-t1",
+        "stem": "Anadolu'daki antik kentlerde bulunan aşağıdaki mimari ve sanatsal eserlerden hangisi, ait olduğu kentle YANLIŞ eşleştirilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ephesus - Celsus Kütüphanesi",
+            "explanation": "Ephesus'taki Celsus Kütüphanesi, antik kentin en bilinen ve iyi korunmuş yapılarından biridir ve doğru eşleştirilmiştir."
+          },
+          {
+            "id": "B",
+            "text": "Aizanoi - Artemis Tapınağı",
+            "explanation": "Aizanoi antik kentinde Zeus Tapınağı bulunmaktadır. Artemis Tapınağı ise genellikle Efes gibi başka antik kentlerle ilişkilendirilir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "Kibyra - Medusa Mozaiği (Odeon)",
+            "explanation": "Kibyra antik kentinde, Odeon yapısında opus sectile tekniğiyle yapılmış Medusa mozaiği bulunmaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Bergama - Zeus Sunağı",
+            "explanation": "Bergama antik kentinde bulunan Zeus Sunağı, Helenistik dönemin önemli mimari yapılarından biridir ve doğru eşleştirilmiştir."
+          },
+          {
+            "id": "E",
+            "text": "Hierapolis - Traverten Terasları",
+            "explanation": "Hierapolis antik kenti, Pamukkale'nin traverten teraslarıyla birlikte anılır ve bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "B",
+        "trick": "Antik kentlerdeki tapınak isimleri birbirine yakın olduğu için, yanlış bir eşleştirme kolayca gözden kaçabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-018-t2",
+        "stem": "Aşağıdaki antik kentlerden hangisi, Odeon yapısında bulunan opus sectile tekniğiyle yapılmış 2.000 yıllık Medusa mozaiği ile özdeşleşmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Perge",
+            "explanation": "Perge, tiyatrosu ve agorası ile bilinen önemli bir Pamfilya kentidir, ancak Medusa mozaiği ile özdeşleşmemiştir."
+          },
+          {
+            "id": "B",
+            "text": "Afrodisias",
+            "explanation": "Afrodisias, heykel sanatı ve Aphrodite Tapınağı ile ünlüdür, ancak bu özellik Medusa mozaiği değildir."
+          },
+          {
+            "id": "C",
+            "text": "Kibyra",
+            "explanation": "Ders notunda belirtildiği üzere, Kibyra antik kenti, Odeon yapısında bulunan opus sectile tekniğiyle yapılmış Medusa mozaiği ile özdeşleşmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Side",
+            "explanation": "Side, tiyatrosu, Apollon Tapınağı ve antik limanıyla bilinir, ancak Medusa mozaiği ile anılmaz."
+          },
+          {
+            "id": "E",
+            "text": "Patara",
+            "explanation": "Patara, Likya Birliği'nin başkenti ve deniz feneri ile bilinir, ancak Medusa mozaiği ile ilişkili değildir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Antik kentlerin genel özelliklerini bilmek, ancak spesifik ve detaylı buluntuları karıştırmak bu soruda yanıltıcı olabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-018-t3",
+        "stem": "Antik kentlerdeki önemli buluntular ve mimari özellikler düşünüldüğünde, aşağıdaki eşleştirmelerden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Aizanoi - Celsus Kütüphanesi",
+            "explanation": "Celsus Kütüphanesi, Efes antik kentinde yer almaktadır, Aizanoi'de değil."
+          },
+          {
+            "id": "B",
+            "text": "Hierapolis - Zeus Sunağı",
+            "explanation": "Zeus Sunağı, Bergama antik kentinde yer almaktadır, Hierapolis'te değil."
+          },
+          {
+            "id": "C",
+            "text": "Ephesus - Traverten Terasları",
+            "explanation": "Traverten Terasları, Hierapolis antik kentinin de bulunduğu Pamukkale'de yer almaktadır, Efes'te değil."
+          },
+          {
+            "id": "D",
+            "text": "Kibyra - Opus sectile Medusa mozaiği",
+            "explanation": "Ders notunda açıkça belirtildiği gibi, Kibyra antik kentinde Odeon yapısında opus sectile tekniğiyle yapılmış Medusa mozaiği bulunmaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Bergama - Artemis Tapınağı",
+            "explanation": "Artemis Tapınağı, Efes antik kentinde yer almaktadır. Bergama'nın ünlü yapısı Zeus Sunağı'dır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Benzer yapılar veya genel antik kent bilgisi ile spesifik buluntuların karıştırılması, bu soruda tuzak oluşturabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-019",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Başkomutan Tarihi Milli Parkı'nın hangi illerin sınırları içinde yer aldığını bilmek.",
+    "ozet": "Türkiye'nin doğal ve tarihi güzelliklerini koruyan **Milli Parklar**, önemli turistik destinasyonlardır. Bu parklar, hem doğal mirasın korunması hem de tarihi olaylara ev sahipliği yapması açısından büyük önem taşır. Rehberler için bu parkların coğrafi konumları ve hangi illerin sınırları içinde yer aldıkları kritik bilgilerdir. Örneğin, **Başkomutan Tarihi Milli Parkı** gibi, Kurtuluş Savaşı'nın önemli anılarına ev sahipliği yapan parkların illerini doğru bilmek, turistik anlatımlarda ve sınavlarda başarı için elzemdir. Ayrıca, **UNESCO Jeoparkları** ve **Dünya Mirası Listesi'ndeki** diğer doğal ve kültürel varlıklar da benzer şekilde coğrafi bilgi gerektirebilir.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-045",
+        "stem": "Başkomutan Tarihi Milli Parkı aşağıdaki illerden hangilerinin sınırları içinde yer alır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kütahya - Eskişehir - Sakarya",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Afyonkarahisar - Eskişehir - Sakarya",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Afyonkarahisar - Kütahya - Uşak",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Afyonkarahisar - Manisa - İzmir",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Kütahya - Manisa - Uşak",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-019-t1",
+        "stem": "Aşağıdaki milli parklardan hangisi, belirtilen illerle doğru eşleştirilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ballıca Mağarası Milli Parkı - Tokat, Amasya",
+            "explanation": "Ballıca Mağarası Tokat'ın Pazar ilçesindedir, ancak bir milli park değildir ve Amasya ile ilgisi yoktur."
+          },
+          {
+            "id": "B",
+            "text": "Kula-Salihli Jeoparkı - Manisa, Uşak",
+            "explanation": "Kula-Salihli Jeoparkı Manisa il sınırları içerisindedir ve Türkiye'nin ilk ve tek UNESCO Jeoparkı'dır. Uşak ile sınırı yoktur."
+          },
+          {
+            "id": "C",
+            "text": "Yarımburgaz Mağarası Milli Parkı - İstanbul, Tekirdağ",
+            "explanation": "Yarımburgaz Mağarası İstanbul'dadır, ancak bir milli park değildir ve Tekirdağ ile ilgisi yoktur."
+          },
+          {
+            "id": "D",
+            "text": "Gökgöl Mağarası Milli Parkı - Zonguldak, Karabük",
+            "explanation": "Gökgöl Mağarası Zonguldak'tadır, ancak bir milli park değildir ve Karabük ile ilgisi yoktur."
+          },
+          {
+            "id": "E",
+            "text": "Başkomutan Tarihi Milli Parkı - Afyonkarahisar, Kütahya, Uşak",
+            "explanation": "Başkomutan Tarihi Milli Parkı, Afyonkarahisar, Kütahya ve Uşak illerinin sınırları içinde yer almaktadır. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "E",
+        "trick": "Milli park olmayan doğal alanların il eşleştirmeleriyle çeldirme yapılmıştır."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-019-t2",
+        "stem": "Türkiye'deki önemli doğal ve kültürel miras alanları ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ballıca Mağarası, soğan sarkıtları ile dünyada ender görülen bir mağara olup UNESCO Dünya Mirası Listesi'ndedir.",
+            "explanation": "Bu ifade yanlıştır. Ballıca Mağarası soğan sarkıtlarıyla ünlüdür ve UNESCO Dünya Mirası Geçici Listesi'ndedir, ancak henüz ana listede değildir."
+          },
+          {
+            "id": "B",
+            "text": "Kula-Salihli Jeoparkı, Türkiye'nin ilk ve tek UNESCO Jeoparkı olup Manisa il sınırları içerisindedir.",
+            "explanation": "Bu ifade doğrudur. Kula-Salihli Jeoparkı Manisa'da yer almaktadır ve Türkiye'nin tek UNESCO Jeoparkı'dır."
+          },
+          {
+            "id": "C",
+            "text": "Gökgöl Mağarası, Zonguldak-Ankara karayolu üzerinde yer alır ve içerisinden aktif bir yeraltı nehri geçer.",
+            "explanation": "Bu ifade doğrudur. Gökgöl Mağarası'nın konumu ve aktif yeraltı nehri özelliği ders notunda belirtilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Yarımburgaz Mağarası, İstanbul'da yer almakta olup Anadolu'nun bilinen en eski insan yerleşimlerinden biridir.",
+            "explanation": "Bu ifade doğrudur. Yarımburgaz Mağarası İstanbul'da olup, 400.000 yıllık geçmişiyle eski bir insan yerleşimidir."
+          },
+          {
+            "id": "E",
+            "text": "Ankara Ahi Şerafettin Camii, UNESCO Dünya Kültür Mirası Listesi'ndeki 'Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri' seri adaylığı kapsamında korunmaktadır.",
+            "explanation": "Bu ifade doğrudur. Ankara Ahi Şerafettin Camii, belirtilen UNESCO listesi kapsamında yer almaktadır."
+          }
+        ],
+        "correct": "A",
+        "trick": "UNESCO Dünya Mirası Listesi ile Geçici Listesi arasındaki farkı gözden kaçırma tuzağı kurulmuştur."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-019-t3",
+        "stem": "Aşağıdaki doğal ve kültürel miras alanlarını bulundukları illerle doğru bir şekilde eşleştiriniz:\n\nI. Ballıca Mağarası\nII. Kula-Salihli Jeoparkı\nIII. Yarımburgaz Mağarası\nIV. Başkomutan Tarihi Milli Parkı\n\nP. Tokat\nQ. İstanbul\nR. Manisa\nS. Afyonkarahisar, Kütahya, Uşak\n\nDoğru eşleştirme hangi seçenekte verilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I-P, II-Q, III-R, IV-S",
+            "explanation": "II. Kula-Salihli Jeoparkı R. Manisa ile eşleşirken, III. Yarımburgaz Mağarası Q. İstanbul ile eşleşmelidir. Bu seçenekte yanlış eşleştirme bulunmaktadır."
+          },
+          {
+            "id": "B",
+            "text": "I-P, II-R, III-Q, IV-S",
+            "explanation": "I. Ballıca Mağarası P. Tokat ile, II. Kula-Salihli Jeoparkı R. Manisa ile, III. Yarımburgaz Mağarası Q. İstanbul ile ve IV. Başkomutan Tarihi Milli Parkı S. Afyonkarahisar, Kütahya, Uşak ile doğru bir şekilde eşleşmektedir."
+          },
+          {
+            "id": "C",
+            "text": "I-Q, II-P, III-S, IV-R",
+            "explanation": "I. Ballıca Mağarası P. Tokat ile eşleşirken, II. Kula-Salihli Jeoparkı R. Manisa ile eşleşmelidir. Bu seçenekte yanlış eşleştirme bulunmaktadır."
+          },
+          {
+            "id": "D",
+            "text": "I-R, II-S, III-P, IV-Q",
+            "explanation": "Bu seçenekte tüm eşleştirmeler yanlıştır. Örneğin, I. Ballıca Mağarası P. Tokat ile eşleşmelidir."
+          },
+          {
+            "id": "E",
+            "text": "I-S, II-Q, III-R, IV-P",
+            "explanation": "Bu seçenekte tüm eşleştirmeler yanlıştır. Örneğin, IV. Başkomutan Tarihi Milli Parkı S. Afyonkarahisar, Kütahya, Uşak ile eşleşmelidir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Benzer isimli yerlerin veya farklı bölgelerdeki yerlerin karıştırılmasına yönelik bir tuzak bulunmaktadır."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-020",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Nevruz'un kültürel anlamı, UNESCO statüsü ve simgelediği değerler ile ilgili doğru ve yanlış bilgileri ayırt edebilme.",
+    "ozet": "Halk takviminde önemli bir yere sahip olan **Nevruz**, baharın gelişi ve doğanın uyanışını simgeleyen köklü bir bayramdır. Türk dünyasının geniş bir coğrafyasında kutlanan bu özel gün, aynı zamanda **UNESCO Somut Olmayan Kültürel Miras Listesi**'nde yer alır. Kelime anlamı 'yeni gün' olan Nevruz, bereket ve yenilenmeyi ifade eder. Bu bilgiler, Nevruz ile ilgili soruları doğru yanıtlamak için anahtardır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-062",
+        "stem": "\"Nevruz\" ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "UNESCO Somut Olmayan Kültürel Mirası Temsili Listesindedir.",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "İlk kar yağışını simgeler.",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Yeni gün anlamına gelir.",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Birçok halk tarafından kutlanır.",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Doğanın uyanışını simgeler.",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-020-t1",
+        "stem": "Aşağıdakilerden hangisi, halk takviminde önemli bir yere sahip olan Nevruz Bayramı'nın özellikleri arasında yer almaz?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Baharın gelişini ve doğanın uyanışını simgeler.",
+            "explanation": "Nevruz, baharın başlangıcını ve doğanın yeniden canlanmasını temsil eder. Bu bilgi doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Türk dünyasının ortak bayramlarından biridir.",
+            "explanation": "Nevruz, Orta Asya'dan Balkanlar'a kadar geniş bir coğrafyada Türk toplulukları tarafından kutlanan ortak bir bayramdır. Bu bilgi doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Hızır ve İlyas peygamberlerin buluştuğu gün olarak kabul edilir.",
+            "explanation": "Hızır ve İlyas peygamberlerin buluştuğu gün olarak kabul edilen bayram, Hıdrellez'dir (6 Mayıs), Nevruz değil. Bu ifade yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer almaktadır.",
+            "explanation": "Nevruz, UNESCO'nun Somut Olmayan Kültürel Miras Temsili Listesi'ne dahil edilmiştir. Bu bilgi doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Kelime anlamı 'yeni gün'dür.",
+            "explanation": "Nevruz kelimesi, Farsça 'nev' (yeni) ve 'ruz' (gün) kelimelerinin birleşiminden oluşur ve 'yeni gün' anlamına gelir. Bu bilgi doğrudur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Nevruz ve Hıdrellez'in simgeledikleri ve anlamları birbirine karıştırılabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-020-t2",
+        "stem": "Nevruz Bayramı'nın UNESCO Somut Olmayan Kültürel Miras Listesi'ne dâhil edilmesi, bu bayramın hangi yönünü vurgulamaktadır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Sadece Türkmenistan'da kutlanan ulusal bir bayram olduğunu.",
+            "explanation": "Nevruz, sadece Türkmenistan'da değil, birçok Türk ve Fars kökenli halk tarafından kutlanan uluslararası bir bayramdır. Bu ifade yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Ticari bir etkinlik olarak küreselleştiğini.",
+            "explanation": "UNESCO listesi, kültürel mirasın korunması ve tanıtılması amacını taşır, ticari küreselleşmeyi değil. Bu ifade yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "Sadece kış aylarında gerçekleştirilen bir festival olduğunu.",
+            "explanation": "Nevruz, 21 Mart'ta baharın başlangıcını simgeleyen bir bayramdır, kış aylarıyla ilgili değildir. Bu ifade yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Evrensel bir kültürel değer taşıdığını ve insanlığın ortak mirası olduğunu.",
+            "explanation": "UNESCO Somut Olmayan Kültürel Miras Listesi'ne dahil edilen ögeler, evrensel kültürel değer taşıyan ve insanlığın ortak mirası olarak kabul edilen uygulamalar, temsiller, anlatımlar, bilgiler ve becerilerdir. Bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Sadece belirli bir coğrafi bölgeye özgü yerel bir gelenek olduğunu.",
+            "explanation": "Nevruz, geniş bir coğrafyada kutlanan ve birçok farklı kültürü etkileyen küresel bir gelenektir. 'Yerel' ifadesi eksiktir. Bu ifade yanlıştır."
+          }
+        ],
+        "correct": "D",
+        "trick": "UNESCO listesindeki bir kültürel mirasın anlamının dar bir coğrafyayla sınırlı olduğu yanılgısına düşülebilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-020-t3",
+        "stem": "Halk takvimindeki önemli geçiş dönemleri ve bunlarla ilişkilendirilen bayramlar düşünüldüğünde, aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Nevruz - 21 Mart: Baharın gelişi",
+            "explanation": "Nevruz, 21 Mart'ta baharın başlangıcını ve doğanın uyanışını simgeler. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Hıdrellez - 6 Mayıs: Hızır ve İlyas'ın buluşması",
+            "explanation": "Hıdrellez, 6 Mayıs'ta Hızır ve İlyas peygamberlerin buluştuğu gün olarak kabul edilir ve dilek tutma geleneğiyle ilişkilidir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Cemre - Şubat: Havaya, suya ve toprağa düşmesi",
+            "explanation": "Cemre, Şubat ayında sırasıyla havaya, suya ve toprağa düştüğüne inanılan sıcaklık artışlarıdır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Zemheri - Kış dönemi: Şiddetli soğuklar",
+            "explanation": "Zemheri, kışın en soğuk ve şiddetli geçtiği dönemi ifade eder. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Kasım - Hıdrellez arası: Yaz dönemi",
+            "explanation": "Halk takviminde Kasım-Hıdrellez arası kış, Hıdrellez-Kasım arası ise yaz dönemi olarak kabul edilir. Bu eşleştirme yanlıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Halk takvimindeki mevsimsel geçişlerin ve bayramların tarihlerini ve anlamlarını karıştırma ihtimali vardır."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-021",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Yunus Emre'nin tasavvufi şiirlerinin ana temalarını ve edebiyatımızdaki yerini bilmek.",
+    "ozet": "Türk halk edebiyatının önemli kollarından biri olan **Dinî-Tasavvufi (Tekke) Edebiyatı**, Allah sevgisi ve insan sevgisini işleyen şiirlerle öne çıkar. Bu akımın Anadolu'daki en büyük temsilcisi **Yunus Emre**'dir. Sade Türkçesi ve evrensel insan sevgisi mesajlarıyla tanınan Yunus Emre, \"İlim ilim bilmektir, ilim kendin bilmektir\" ve \"Sevelim, sevilelim\" gibi dizeleriyle Türk edebiyatının temel taşlarından biri olmuştur. Onun eserleri, hoşgörü ve tasavvufi derinliği sade bir dille aktararak geniş kitlelere ulaşmıştır. Bu bilgileri bilmek, Yunus Emre ile ilgili soruları doğru yanıtlamanızı sağlar.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-066",
+        "stem": "\"İlim ilim bilmektir, ilim kendin bilmektir\" ve \"Sevelim, sevilelim\" dizeleriyle tanınan tasavvuf şairi ve düşünürü aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mevlana Celaleddin-i Rumi",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Neşet Ertaş",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Yunus Emre",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Hacı Bektaş Veli",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Aşık Veysel",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-021-t1",
+        "stem": "Dinî-Tasavvufi Türk Halk Edebiyatı'nın en önemli temsilcilerinden biri olan Yunus Emre ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Eserlerinde genellikle Arapça ve Farsça tamlamalara ağırlık vermiştir.",
+            "explanation": "Yunus Emre, Divan Edebiyatı'nın aksine, halkın anlayabileceği sade bir dil kullanmayı tercih etmiştir. Arapça ve Farsça tamlamalara ağırlık vermek, onun değil, Divan şairlerinin özelliğidir. Bu ifade yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Sade ve anlaşılır bir Türkçe kullanmıştır.",
+            "explanation": "Yunus Emre, halkın anlayabileceği sade bir Türkçe kullanarak mesajlarını geniş kitlelere ulaştırmıştır. Bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Şiirlerinde insan sevgisi ve hoşgörü temalarını sıkça işlemiştir.",
+            "explanation": "Yunus Emre'nin şiirlerinin temelinde insan sevgisi, hoşgörü ve tasavvufi derinlik yatar. Bu ifade doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Anadolu'da tasavvuf düşüncesinin yayılmasında önemli rol oynamıştır.",
+            "explanation": "Yunus Emre, yazdığı şiirler ve verdiği mesajlarla Anadolu'da tasavvuf düşüncesinin halk arasında yayılmasında kilit bir figür olmuştur. Bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Öğretileri, günümüzde de evrensel değerler taşımaktadır.",
+            "explanation": "Yunus Emre'nin insan sevgisi ve hoşgörüye dayalı öğretileri, çağları aşan evrensel değerlere sahiptir. Bu ifade doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Sade dil kullanımına vurgu yapan ders notundan hareketle, Arapça-Farsça kullanımının Divan Edebiyatı'na özgü olduğu bilgisini gözden kaçırmak tuzağa düşürebilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-021-t2",
+        "stem": "Aşağıdaki halk ozanlarından hangisi, 'bozkırın tezenesi' olarak da anılan ve UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer alan Âşıklık Geleneği'nin önemli temsilcilerinden biridir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Karacaoğlan",
+            "explanation": "Karacaoğlan, doğa ve sevgili konularında şiirler yazmış önemli bir halk ozanıdır, ancak 'bozkırın tezenesi' lakabıyla anılmaz."
+          },
+          {
+            "id": "B",
+            "text": "Neşet Ertaş",
+            "explanation": "Neşet Ertaş, 'bozkırın tezenesi' olarak bilinen ve Âşıklık Geleneği'nin modern dönemdeki en önemli temsilcilerinden biridir. Ders notunda da bu bilgi açıkça belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Köroğlu",
+            "explanation": "Köroğlu, koçaklama türünde eserler veren ve 'Tüfek icat oldu mertlik bozuldu' sözleriyle tanınan bir halk ozanıdır, ancak 'bozkırın tezenesi' değildir."
+          },
+          {
+            "id": "D",
+            "text": "Dadaloğlu",
+            "explanation": "Dadaloğlu, koçaklamalarıyla tanınan ve 'Ferman padişahın, dağlar bizimdir' sözleriyle bilinen bir ozandır, ancak 'bozkırın tezenesi' unvanı ona ait değildir."
+          },
+          {
+            "id": "E",
+            "text": "Pir Sultan Abdal",
+            "explanation": "Pir Sultan Abdal, Dinî-Tasavvufi Halk Edebiyatı'nın önemli temsilcilerinden biridir, ancak 'bozkırın tezenesi' lakabıyla anılmaz."
+          }
+        ],
+        "correct": "B",
+        "trick": "Farklı âşıkların özelliklerini ve lakaplarını karıştırmak, özellikle notta 'bozkırın tezenesi' ifadesinin Neşet Ertaş ile eşleştirildiğini gözden kaçırmak tuzağa düşürebilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-021-t3",
+        "stem": "Aşağıdaki eşleştirmelerden hangisi, Türk halk edebiyatı nazım türlerinin ait olduğu ölçü birimi açısından doğru bir eşleştirme değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Koşma - 11'li Hece Ölçüsü",
+            "explanation": "Ders notunda belirtildiği üzere koşma, Âşık Edebiyatı'nın en yaygın türü olup 11'li hece ölçüsüyle söylenir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Semai - 8'li Hece Ölçüsü",
+            "explanation": "Ders notunda semai'nin 8'li hece ölçüsüyle söylendiği açıkça belirtilmiştir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Destan (Âşık Edebiyatı) - 8'li Hece Ölçüsü",
+            "explanation": "Ders notunda Âşık Edebiyatı'ndaki destanın 11'li hece ölçüsüyle söylendiği belirtilmiştir. 8'li hece ölçüsüyle söylenen semai ve varsağıdır. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Varsağı - 8'li Hece Ölçüsü",
+            "explanation": "Ders notunda varsağı'nın 8'li hece ölçüsüyle söylendiği ve yiğitçe bir söyleyişe sahip olduğu belirtilmiştir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Mani - 7'li Hece Ölçüsü",
+            "explanation": "Ders notunda mani'nin 7 heceli ve dört dizeli olduğu belirtilmiştir. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Âşık Edebiyatı'ndaki destanın uzun bir tür olmasına rağmen, hece ölçüsü bilgisini semai ve varsağı ile karıştırmak tuzağa düşürebilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-022",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "İpek böcekçiliği geleneğinin temelini oluşturan, ipek böceğinin beslendiği tek ağacın dut ağacı olduğu bilgisidir.",
+    "ozet": "Halk bilimi, bir toplumun geleneksel bilgi, inanç ve uygulamalarını inceleyen bilim dalıdır. Türk kültüründe önemli bir yere sahip olan **geçiş dönemleri** (doğum, evlenme, ölüm) ve bunlara bağlı ritüeller, **halk inanışları** (nazar, uğur), **halk hekimliği** ve **halk takvimi** (Nevruz, Hıdrellez) gibi başlıklar, kültürel zenginliğimizi yansıtır. Geleneksel sanatlar arasında ise **Karagöz ve Hacivat**, **Ortaoyunu**, **Meddah** gibi seyirlik oyunlar ile **minyatür** ve **ebru** gibi görsel sanatlar öne çıkar. UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer alan birçok ögemiz, bu kültürel çeşitliliğin uluslararası düzeyde tanınmasını sağlamıştır. Bu ögelerden biri de, ipek böcekçiliği geleneği olup, bu geleneğin sürdürülebilirliği **dut ağacının** varlığına doğrudan bağlıdır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-067",
+        "stem": "UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer alan \"İpek böcekçiliği ve dokuma için ipeğin geleneksel üretimi\" Türkiye'de aşağıdaki ağaçlardan hangisinin varlığına bağlıdır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Çam ağacı",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Dut ağacı",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Çınar ağacı",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Elma ağacı",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Köknar ağacı",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-022-t1",
+        "stem": "İpek böcekçiliği ve dokumacılıkta ipek üretimi geleneğinin Türkiye'deki merkezi olarak kabul edilen ve tarihî ipek ticaretine ev sahipliği yapan yapı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Sultanhanı Kervansarayı",
+            "explanation": "Sultanhanı, Anadolu Selçuklu döneminin önemli kervansaraylarından biridir ancak ipek ticaretinin merkezi olarak Koza Han bilinir."
+          },
+          {
+            "id": "B",
+            "text": "Kapalıçarşı",
+            "explanation": "Kapalıçarşı İstanbul'da büyük bir ticaret merkezi olmakla birlikte, ipek böcekçiliği ve ham ipek ticareti denince akla gelen ilk yer Bursa'daki Koza Han'dır."
+          },
+          {
+            "id": "C",
+            "text": "Mısır Çarşısı",
+            "explanation": "Mısır Çarşısı, baharat ve aktariye ürünleriyle tanınan bir çarşıdır, ipek ticaretiyle doğrudan ilişkili değildir."
+          },
+          {
+            "id": "D",
+            "text": "Koza Han",
+            "explanation": "Koza Han, Bursa'da ipek böcekçiliği ve ipek ticaretiyle özdeşleşmiş tarihi bir yapıdır ve metinde Türkiye'deki merkezi olduğu belirtilmiştir."
+          },
+          {
+            "id": "E",
+            "text": "Hereke Fabrikası",
+            "explanation": "Hereke, ipek halıcılığıyla anılır ancak ipek ticaretinin merkezi bir han olarak Koza Han'dır. Fabrika bir üretim tesisidir, ticaret merkezi değildir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Öğrencinin ipekçilikle ilgili genel bilgileri, özelde Bursa'daki merkeziyle karıştırması sağlanmıştır."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-022-t2",
+        "stem": "Aşağıdakilerden hangisi, ipek böcekçiliği geleneğinin sürdürülmesi için gerekli olan temel koşullardan biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Dut ağacı yetiştiriciliği",
+            "explanation": "Dut ağacı, ipek böceklerinin tek besin kaynağı olduğu için ipek böcekçiliğinin temel şartıdır."
+          },
+          {
+            "id": "B",
+            "text": "Böcekhane (ipek böceği yetiştirme alanı) bulunması",
+            "explanation": "İpek böceklerinin kontrollü bir ortamda yetiştirilmesi için böcekhane gereklidir."
+          },
+          {
+            "id": "C",
+            "text": "Koza elde etme tekniklerinin bilinmesi",
+            "explanation": "İpek üretimi için ipek böceklerinin kozalarını örmesi ve bu kozaların toplanması gereklidir."
+          },
+          {
+            "id": "D",
+            "text": "Geleneksel bilgi ve tecrübenin yeni nesillere aktarılması",
+            "explanation": "UNESCO Somut Olmayan Kültürel Miras kapsamında, geleneğin yaşatılması için bilgi ve tecrübenin aktarımı esastır."
+          },
+          {
+            "id": "E",
+            "text": "İpek ipliği eğirme makinelerinin modern olması",
+            "explanation": "Geleneksel ipekçilikte modern makineler şart değildir, el eğirme yöntemleri de kullanılabilir. Sürdürülebilirlik için teknolojik zorunluluk değil, temel kültürel bilginin aktarımı önemlidir."
+          }
+        ],
+        "correct": "E",
+        "trick": "Öğrencinin geleneksel bir faaliyette modern teknoloji kullanımının zorunlu olup olmadığını ayırt edememesi tuzaktır."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-022-t3",
+        "stem": "İpek böcekçiliği ve dokumacılıkta ipek üretimi geleneği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İpek üretimi geleneği, UNESCO Dünya Mirası Listesi'nde tescilli bir kültürel varlıktır.",
+            "explanation": "Metinde 'UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer alır' ifadesi geçmektedir. Dünya Mirası Listesi ile Somut Olmayan Kültürel Miras Listesi farklıdır. Bu ifade yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Bu gelenek, ipek böceğinin yalnızca dut yaprağıyla beslenmesi prensibine dayanır.",
+            "explanation": "Metinde ipek böceğinin (Bombyx mori) yalnızca dut yaprağıyla beslendiği açıkça belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Türkiye'de ipekçiliğin tarihî merkezi olarak Bursa ve Koza Han öne çıkar.",
+            "explanation": "Metinde Bursa'nın ipekçilikte merkezi olduğu ve Koza Han'ın tarihî merkez olduğu bilgisi yer almaktadır."
+          },
+          {
+            "id": "D",
+            "text": "Geleneksel ipek üretimi zinciri 'dut bahçesi - böcekhane - koza - ipek' aşamalarından oluşur.",
+            "explanation": "Metinde bu zincir, geleneğin aktarım biçimi olarak açıklanmıştır."
+          },
+          {
+            "id": "E",
+            "text": "İpek böcekçiliği geleneği, Türkiye'nin de dâhil olduğu çok uluslu bir dosya ile listeye girmiştir.",
+            "explanation": "Metinde bu bilginin doğru olduğu açıkça belirtilmiştir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Öğrencinin 'UNESCO Dünya Mirası Listesi' ile 'UNESCO Somut Olmayan Kültürel Miras Listesi' arasındaki ayrımı gözden kaçırması hedeflenmiştir."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-023",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Halk edebiyatında âşıkların ve temsil ettikleri türlerin eşleştirilmesi.",
+    "ozet": "Türk halk edebiyatı, **anonim**, **aşık (saz)** ve **dinî-tasavvufi (tekke)** olmak üzere üç ana kola ayrılır. Âşık edebiyatı geleneğinde şairler saz eşliğinde, hece ölçüsü ve yarım uyak kullanarak şiirler söylerler. Bu şairler, şiirlerini **koşma, semai, varsağı** ve **destan** gibi türlerde icra ederler. Konularına göre **güzelleme** (doğa ve sevgili övgüsü), **koçaklama** (yiğitlik), **taşlama** (eleştiri) ve **ağıt** (ölüm) gibi alt türleri bulunur. Her bir âşık, kendine özgü üslubu ve ele aldığı temalarla tanınır. Örneğin, **Karacaoğlan** doğa ve sevgili temalarıyla, **Köroğlu** ve **Dadaloğlu** ise koçaklamalarıyla öne çıkar. Bu ayrımı ve önemli temsilcilerini bilmek, soruları doğru yanıtlamak için anahtardır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-068",
+        "stem": "\"Tüfek icat oldu mertlik bozuldu\" dizeleriyle tanınan, 16. yüzyılda yaşamış ve asıl adı Ruşen Ali olan halk ozanı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Dadaloğlu",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Aşık Mahzuni",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Karacaoğlan",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Köroğlu",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "E",
+            "text": "Nesimi",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-023-t1",
+        "stem": "Aşağıdaki halk ozanlarından hangisi, 'Ferman padişahın, dağlar bizimdir!' sözleriyle ve koçaklama türündeki şiirleriyle tanınmıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Karacaoğlan",
+            "explanation": "Karacaoğlan, doğa ve sevgili temalı şiirleriyle tanınır, koçaklamalarıyla değil."
+          },
+          {
+            "id": "B",
+            "text": "Dadaloğlu",
+            "explanation": "Dadaloğlu, 'Ferman padişahın, dağlar bizimdir!' sözleriyle ve koçaklama türündeki şiirleriyle tanınan halk ozanıdır. Notta açıkça belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Pir Sultan Abdal",
+            "explanation": "Pir Sultan Abdal, tasavvufi ve isyankar şiirleriyle bilinir, ancak 'Ferman padişahın, dağlar bizimdir' sözleri ona ait değildir."
+          },
+          {
+            "id": "D",
+            "text": "Aşık Veysel",
+            "explanation": "Aşık Veysel, sade dili ve tasavvufi aşk temalı şiirleriyle bilinir, ancak bu sözler ona ait değildir."
+          },
+          {
+            "id": "E",
+            "text": "Köroğlu",
+            "explanation": "Köroğlu, koçaklamalarıyla tanınsa da 'Ferman padişahın, dağlar bizimdir!' sözleri Dadaloğlu'na aittir. Köroğlu'nun meşhur sözü 'Tüfek icat oldu mertlik bozuldu'dur."
+          }
+        ],
+        "correct": "B",
+        "trick": "Koçaklama türünde şiir yazan ozanları karıştırmak, özellikle Köroğlu ile Dadaloğlu'nun meşhur sözlerini ayırt edememek tuzağa düşürebilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-023-t2",
+        "stem": "Aşağıdakilerden hangisi, âşık edebiyatı nazım türleri ve bu türlerin özellikleri ile ilgili YANLIŞ bir bilgidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Koşma, en yaygın âşık edebiyatı türü olup genellikle 11'li hece ölçüsüyle yazılır.",
+            "explanation": "Bu bilgi doğrudur. Koşma, âşık edebiyatının en yaygın türüdür ve 11'li hece ölçüsü kullanılır."
+          },
+          {
+            "id": "B",
+            "text": "Semai ve varsağı türleri genellikle 8'li hece ölçüsüyle söylenir.",
+            "explanation": "Bu bilgi doğrudur. Semai ve varsağı, 8'li hece ölçüsüyle yazılan türlerdir."
+          },
+          {
+            "id": "C",
+            "text": "Atışma, iki âşığın karşılıklı olarak, önceden hazırlanmış metinlerle söyledikleri şiirlerdir.",
+            "explanation": "Bu bilgi yanlıştır. Atışma, iki âşığın karşılıklı olarak doğaçlama yaptıkları bir türdür, önceden hazırlanmış metinlerle değildir."
+          },
+          {
+            "id": "D",
+            "text": "Koşmalar; güzelleme, koçaklama, taşlama ve ağıt olmak üzere dört ana konuda incelenir.",
+            "explanation": "Bu bilgi doğrudur. Koşmaların konularına göre bu dört alt türü bulunur."
+          },
+          {
+            "id": "E",
+            "text": "Destan, âşık edebiyatının en uzun nazım türlerinden biridir ve genellikle 11'li hece ölçüsüyle yazılır.",
+            "explanation": "Bu bilgi doğrudur. Âşık edebiyatında destan, 11'li hece ölçüsüyle yazılan uzun bir türdür."
+          }
+        ],
+        "correct": "C",
+        "trick": "Atışmanın 'doğaçlama' niteliğini gözden kaçırmak, bu soruda hata yapmaya yol açabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-023-t3",
+        "stem": "Aşağıda verilen halk ozanları ve onların eserleriyle öne çıktığı temaların doğru eşleştirilmesi hangi seçenekte yer almaktadır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I-a, II-c, III-b",
+            "explanation": "Doğru eşleştirme I-c (Köroğlu - Koçaklama), II-a (Karacaoğlan - Doğa ve sevgili), III-b (Dadaloğlu - Koçaklama) şeklinde olmalıdır. Bu seçenekteki eşleştirme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "I-b, II-a, III-c",
+            "explanation": "Doğru eşleştirme I-c (Köroğlu - Koçaklama), II-a (Karacaoğlan - Doğa ve sevgili), III-b (Dadaloğlu - Koçaklama) şeklinde olmalıdır. Bu seçenekteki eşleştirme yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "I-c, II-b, III-a",
+            "explanation": "Doğru eşleştirme I-c (Köroğlu - Koçaklama), II-a (Karacaoğlan - Doğa ve sevgili), III-b (Dadaloğlu - Koçaklama) şeklinde olmalıdır. Bu seçenekteki eşleştirme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "I-c, II-a, III-b",
+            "explanation": "Bu eşleştirme doğrudur. Köroğlu koçaklamalarıyla, Karacaoğlan doğa ve sevgili temalarıyla, Dadaloğlu ise koçaklamalarıyla tanınır. Notta bu bilgiler açıkça verilmiştir."
+          },
+          {
+            "id": "E",
+            "text": "I-a, II-b, III-c",
+            "explanation": "Doğru eşleştirme I-c (Köroğlu - Koçaklama), II-a (Karacaoğlan - Doğa ve sevgili), III-b (Dadaloğlu - Koçaklama) şeklinde olmalıdır. Bu seçenekteki eşleştirme yanlıştır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Koçaklama türünde eser veren birden fazla ozan olması, eşleştirme sorularında kafa karışıklığına neden olabilir. Her ozanın kendine özgü ana temasını ve meşhur sözlerini hatırlamak önemlidir."
+      }
+    ]
+  },
+  {
+    "id": "aile-halk-bilimi-edebiyat-024",
+    "topicId": "halk-bilimi-edebiyat",
+    "cekirdek": "Mevlana ile ilgili UNESCO tarafından ilan edilen özel yıllar bilgisini ölçer.",
+    "ozet": "UNESCO, kültürel mirasın korunması ve tanıtılması amacıyla önemli şahsiyetler veya olaylar için özel yıllar ilan edebilmektedir. Türk kültüründe önemli bir yere sahip olan **Mevlana Celaleddin Rumi** de bu kapsamda anılmış bir isimdir. Mevlana'nın öğretileri, hoşgörü ve sevgi temellerine dayanır ve tüm dünyada ilgi görmektedir. Bu tür ilanlar, hem kültürel farkındalığı artırmak hem de ilgili şahsiyetin mirasını gelecek nesillere aktarmak için yapılır. Bu bilgiyi bilmek, Mevlana ile ilgili spesifik tarih sorularını doğru yanıtlamanı sağlar.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-084",
+        "stem": "Aşağıdakilerden hangisi UNESCO tarafından Mevlana Yılı olarak ilan edilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "2007",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "2012",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "2017",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "2022",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "2027",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-halk-bilimi-edebiyat-024-t1",
+        "stem": "Aşağıdaki ifadelerden hangisi Mevlana Celaleddin Rumi ile ilgili olarak **yanlıştır**?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mevlana'nın öğretileri hoşgörü ve sevgi temellerine dayanır.",
+            "explanation": "Ders notunda belirtildiği gibi, Mevlana'nın öğretileri hoşgörü ve sevgi temellerine dayanmaktadır. Bu ifade doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "UNESCO tarafından 2007 yılı 'Mevlana Yılı' olarak ilan edilmiştir.",
+            "explanation": "Ders notunda açıkça belirtildiği üzere, UNESCO 2007 yılını 'Mevlana Yılı' olarak ilan etmiştir. Bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Mevlana, tasavvuf edebiyatının önemli temsilcilerinden biridir.",
+            "explanation": "Mevlana Celaleddin Rumi, tasavvuf ve dinî edebiyatın en büyük şahsiyetlerinden biridir. Bu ifade doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Eserlerinde Farsça'nın yanı sıra Türkçe ve Arapça da kullanmıştır.",
+            "explanation": "Mevlana'nın ana dili Türkçe olmasına rağmen, eserlerinin çoğunu dönemin bilim ve edebiyat dili olan Farsça ile yazmıştır. Ancak Türkçe ve Arapça kelime ve ifadeler de kullanmıştır. Bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Mevlevilikte Allah sevgisini anlatan ezgili şiirlere 'nefes' adı verilir.",
+            "explanation": "Ders notunda 'Dinî-Tasavvufi (Tekke) Edebiyatı' başlığı altında 'İlahi' türü açıklanırken, Mevlevilikte ilahinin 'ayin' olarak adlandırıldığı, 'nefes'in ise Bektaşilikte kullanıldığı belirtilmiştir. Bu ifade yanlıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Mevlevilikteki ilahi türünün adını Bektaşilikteki karşılığı olan 'nefes' ile karıştırarak yanlış cevap verilebilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-024-t2",
+        "stem": "Mevlana Celaleddin Rumi ile ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "UNESCO tarafından 2007 yılı 'Mevlana Yılı' olarak ilan edilmiştir.",
+            "explanation": "Ders notunda açıkça belirtildiği üzere, UNESCO 2007 yılını 'Mevlana Yılı' olarak ilan etmiştir. Bu ifade doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "UNESCO, Mevlana'nın doğumunun 800. yılını kutlamak amacıyla 2017 yılını 'Mevlana Yılı' ilan etmiştir.",
+            "explanation": "Ders notunda UNESCO'nun 2007 yılını 'Mevlana Yılı' olarak ilan ettiği belirtilmektedir, 2017 değil. Ayrıca notta doğumunun kaçıncı yılı olduğu bilgisi yer almamaktadır. Bu ifade yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "Mevlana'nın en bilinen eseri 'Divan-ı Hikmet'tir.",
+            "explanation": "Ders notunda 'Divan-ı Hikmet'in Ahmet Yesevi'ye ait olduğu belirtilmektedir. Mevlana'nın en bilinen eseri Mesnevi'dir, ancak bu bilgi ders notunda yer almasa da, verilen şık ders notundaki bilgiyle çelişmektedir. Bu ifade yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Mevlevilikte semah ibadetin bir parçası olarak kabul edilir.",
+            "explanation": "Ders notunda 'Semah'ın Alevi-Bektaşi topluluklarında ibadetin bir parçası olduğu belirtilmiştir. Mevlevilikte ise 'sema' töreni vardır ve bu ikisi farklıdır. Bu ifade yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "Mevlana, Türk halk edebiyatının anonim kolunun en önemli temsilcilerindendir.",
+            "explanation": "Mevlana, dinî-tasavvufi Türk edebiyatının önemli bir temsilcisidir ve eserlerinin söyleyeni bellidir. Anonim halk edebiyatı ise söyleyeni belli olmayan eserleri kapsar. Bu ifade yanlıştır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Mevlana ile ilgili doğru bir bilgi ararken, ders notundaki 'Semah' ve 'Sema' ayrımı ile 'Divan-ı Hikmet' gibi eserlerin yazarları karıştırılabilir."
+      },
+      {
+        "id": "aile-halk-bilimi-edebiyat-024-t3",
+        "stem": "UNESCO tarafından 'Mevlana Yılı' olarak ilan edilen tarih ile aşağıdaki eşleştirmelerden hangisi doğru verilmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "2010 - Yunus Emre",
+            "explanation": "Ders notunda Yunus Emre için böyle bir 'Yunus Emre Yılı' bilgisi veya tarihi verilmemiştir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "2007 - Mevlana Celaleddin Rumi",
+            "explanation": "Ders notunda açıkça belirtildiği üzere, UNESCO 2007 yılını 'Mevlana Yılı' olarak ilan etmiştir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "2012 - Hoca Ahmet Yesevi",
+            "explanation": "Ders notunda Hoca Ahmet Yesevi için böyle bir 'Hoca Ahmet Yesevi Yılı' bilgisi veya tarihi verilmemiştir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "2015 - Neşet Ertaş",
+            "explanation": "Ders notunda Neşet Ertaş için böyle bir 'Neşet Ertaş Yılı' bilgisi veya tarihi verilmemiştir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "2020 - Âşık Veysel",
+            "explanation": "Ders notunda Âşık Veysel için böyle bir 'Âşık Veysel Yılı' bilgisi veya tarihi verilmemiştir. Bu eşleştirme yanlıştır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Diğer şıklarda yer alan isimlerin de halk kültüründe önemli şahsiyetler olması, öğrencinin doğru cevabı bulmasını zorlaştırabilir."
+      }
+    ]
+  }
+]
