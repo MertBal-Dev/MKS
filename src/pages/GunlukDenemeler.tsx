@@ -20,6 +20,13 @@ import { todayKey } from '@/lib/streak';
 const GUN_MS = 86_400_000;
 const VARSAYILAN_GUN = 30;
 
+/**
+ * Arşivin başlangıcı. Setler tarihten üretildiği için teknik olarak her tarih
+ * çözülebilir, ama uygulamadan önceki günleri listelemek anlamsız bir geçmiş
+ * uyduruyordu (Mayıs'a kadar iniyordu). Bu tarihten öncesi gösterilmez.
+ */
+const BASLANGIC = '2026-07-01';
+
 function tarihEkle(dateKey: string, gun: number): string {
   return new Date(new Date(`${dateKey}T00:00:00Z`).getTime() + gun * GUN_MS).toISOString().slice(0, 10);
 }
@@ -54,10 +61,19 @@ export default function GunlukDenemeler() {
     return m;
   }, [state.examResults]);
 
-  const gunler = useMemo(
-    () => Array.from({ length: gunSayisi }, (_, i) => tarihEkle(today, -i)),
-    [today, gunSayisi],
-  );
+  /** Bugünden geriye, BASLANGIC'ı geçmeden. Gelecek gün hiç üretilmez. */
+  const gunler = useMemo(() => {
+    const liste: string[] = [];
+    for (let i = 0; i < gunSayisi; i++) {
+      const g = tarihEkle(today, -i);
+      if (g < BASLANGIC) break;
+      liste.push(g);
+    }
+    return liste;
+  }, [today, gunSayisi]);
+
+  /** Başlangıca ulaşıldıysa "daha eski" düğmesi anlamsızdır. */
+  const dahaEskiVar = gunler.length > 0 && gunler[gunler.length - 1] > BASLANGIC;
 
   const cozulen = gunler.filter((g) => sonuclar.has(`${DAILY_EXAM_PREFIX}${g}`)).length;
   const bekleyen = gunler.length - cozulen;
@@ -168,13 +184,15 @@ export default function GunlukDenemeler() {
       </ul>
 
       <div className="mt-5 text-center">
-        <button
-          type="button"
-          onClick={() => setGunSayisi((n) => n + 30)}
-          className="rounded-lg border border-line px-5 py-2.5 text-sm text-muted hover:border-mercan hover:text-ink"
-        >
-          Daha eski günleri göster
-        </button>
+        {dahaEskiVar && (
+          <button
+            type="button"
+            onClick={() => setGunSayisi((n) => n + 30)}
+            className="rounded-lg border border-line px-5 py-2.5 text-sm text-muted hover:border-mercan hover:text-ink"
+          >
+            Daha eski günleri göster
+          </button>
+        )}
         <p className="mt-3 text-xs text-muted">
           Setler tarihten üretilir; aynı gün her cihazda aynı sorular gelir ve geçmiş günler hiç kaybolmaz.
         </p>
