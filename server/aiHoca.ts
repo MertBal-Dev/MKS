@@ -41,7 +41,7 @@ export interface AiHocaDocument {
 }
 
 export interface AiHocaRequest {
-  mode?: 'explain' | 'chat' | 'expand' | 'parse';
+  mode?: 'explain' | 'chat' | 'expand' | 'parse' | 'generate';
   question?: AiHocaQuestion;
   topic?: AiHocaTopic;
   messages?: AiHocaTurn[];
@@ -257,7 +257,15 @@ export async function runAiHoca(req: AiHocaRequest, env: AiHocaEnv): Promise<str
   let contents: { role: 'user' | 'model'; parts: Part[] }[];
   let systemInstruction = SYSTEM;
 
-  if (mode === 'parse') {
+  if (mode === 'generate') {
+    // Soru üretimi: istemin tamamı çağıran tarafta kurulur, model yalnızca JSON döndürür.
+    if (!req.text?.trim()) throw new Error('generate modu için istem gerekli');
+    contents = [{ role: 'user', parts: [{ text: req.text }] }];
+    systemInstruction =
+      'Sen MKS (Turist Rehberliği Mesleğe Kabul Sınavı) için soru yazan deneyimli bir sınav hazırlayıcısısın. ' +
+      'Yalnızca istemde tarif edilen şemada JSON dizisi döndür; başka hiçbir metin yazma. ' +
+      'İstemde verilen alanların HEPSİNİ doldur, hiçbirini atlama.';
+  } else if (mode === 'parse') {
     if (!req.document && !req.text?.trim()) throw new Error('parse modu için belge veya metin gerekli');
     const parts: Part[] = [];
     if (req.document) parts.push({ inlineData: req.document });
@@ -294,7 +302,8 @@ export async function runAiHoca(req: AiHocaRequest, env: AiHocaEnv): Promise<str
     config: {
       systemInstruction,
       // Ayrıştırmada yaratıcılık istemiyoruz: metin birebir korunmalı.
-      temperature: mode === 'parse' ? 0 : 0.3,
+      // Ayrıştırmada birebir kopya, üretimde çeşitlilik, geri kalanında ölçülü.
+      temperature: mode === 'parse' ? 0 : mode === 'generate' ? 0.7 : 0.3,
       /**
        * Gemini 2.5 varsayılan olarak "düşünme" jetonu harcar ve bunlar
        * maxOutputTokens bütçesinden düşülür; bu yüzden cevaplar yarıda kesiliyordu.
@@ -303,8 +312,8 @@ export async function runAiHoca(req: AiHocaRequest, env: AiHocaEnv): Promise<str
        */
       thinkingConfig: { thinkingBudget: 0 },
       // Şema uyumlu JSON, serbest metinden çok daha güvenilir ayrıştırılır.
-      ...(mode === 'parse' ? { responseMimeType: 'application/json' } : {}),
-      maxOutputTokens: mode === 'expand' || mode === 'parse' ? 8192 : 4096,
+      ...(mode === 'parse' || mode === 'generate' ? { responseMimeType: 'application/json' } : {}),
+      maxOutputTokens: mode === 'expand' || mode === 'parse' || mode === 'generate' ? 8192 : 4096,
     },
   });
 
