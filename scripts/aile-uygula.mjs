@@ -44,6 +44,24 @@ if (!kuru && !existsSync(HEDEF)) mkdirSync(HEDEF, { recursive: true });
 
 for (const dosya of readdirSync(KAYNAK).filter((f) => f.endsWith('.json'))) {
   const aileler = JSON.parse(readFileSync(`${KAYNAK}/${dosya}`, 'utf8'));
+
+  /**
+   * Boş hazırlık dosyası, dolu bir uygulanmış dosyanın ÜSTÜNE YAZILMAZ.
+   *
+   * Bir kez şöyle oldu: üretim işini durdururken dev sunucusu da kapandı,
+   * sonraki üretimler API'siz çalışıp boş dizi yazdı. O hâliyle uygulansaydı
+   * 213 aile 131'e düşecekti. Boş üretim bir sonuç değil, bir arızadır.
+   */
+  const hedefYol = `${HEDEF}/${dosya}`;
+  if (aileler.length === 0 && existsSync(hedefYol)) {
+    const mevcut = JSON.parse(readFileSync(hedefYol, 'utf8'));
+    if (mevcut.length > 0) {
+      console.log(`${dosya.replace('.json', '').padEnd(24)} ATLANDI — hazırlık boş, uygulanmış ${mevcut.length} aile korundu`);
+      toplamKabul += mevcut.length;
+      for (const a of mevcut) for (const t of a.turevler) dagilim[t.correct] = (dagilim[t.correct] ?? 0) + 1;
+      continue;
+    }
+  }
   const kabul = [];
   const ret = [];
 
