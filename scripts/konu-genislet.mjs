@@ -26,9 +26,21 @@ const pack = JSON.parse(readFileSync(`src/content/topics/${topicId}.json`, 'utf8
 const mevcutBasliklar = pack.fullNotes.map((s, i) => `${i + 1}. ${s.heading}`).join('\n');
 const mevcutNot = pack.fullNotes.map((s) => `## ${s.heading}\n${s.markdown}`).join('\n\n');
 
+/**
+ * Bilgiler numaralandırılarak verilir, ETİKETSİZ.
+ * Önce "[ÇIKMIŞ SORUDAN]" / "[TÜREV]" etiketleriyle gönderiliyordu ve model bu
+ * etiketleri öğrenciye giden metne aynen kopyalıyordu (bir konuda 84 kez).
+ * Öncelik bilgisini talimatta veriyoruz, veride değil.
+ */
+const zorunlu = env.cekirdekler;
+const ekBilgiler = env.turevler;
+
 const bilgiler = [
-  ...env.cekirdekler.map((c) => `[ÇIKMIŞ SORUDAN] ${c}`),
-  ...env.turevler.map((t) => `[TÜREV] ${t}`),
+  'A GRUBU — MUTLAKA yer almalı (gerçek sınavda soruldu):',
+  ...zorunlu.map((c, i) => `A${i + 1}. ${c}`),
+  '',
+  'B GRUBU — eklenmeli (sınavda çıkabilecek komşu bilgiler):',
+  ...ekBilgiler.map((t, i) => `B${i + 1}. ${t}`),
 ].join('\n');
 
 const TALIMAT = `Sen MKS (Turist Rehberliği Mesleğe Kabul Sınavı) için ders notu yazıyorsun.
@@ -47,6 +59,10 @@ KURALLAR:
    uygun yerlerde markdown tablosu, "sınavda sorulur" türü uyarılar.
 5. Kendi kafandan YENİ bilgi uydurma. Yalnızca verilen bilgileri ve mevcut notu kullan.
 6. Türkçe yaz.
+7. Sana verilen listelerin BİÇİMİNİ metne taşıma: "A GRUBU", "B GRUBU", "A1.", "B3.",
+   "[ÇIKMIŞ SORUDAN]", "[TÜREV]" gibi hiçbir etiket veya numara ders notunda GEÇMEYECEK.
+   Bunlar senin için sıralama işaretleri; öğrenci bunları görmemeli.
+8. Aynı cümleyi iki kez yazma. Bir bilgi zaten bir bölümde geçtiyse tekrar etme.
 
 ÇIKTI: yalnızca şu şemada JSON — konunun TÜM bölümleri (eskiler güncellenmiş hâliyle + yeniler):
 [{"heading":"Bölüm başlığı","markdown":"Bölüm metni (markdown)"}]`;
@@ -109,6 +125,19 @@ try {
 
 bolumler = bolumler.filter((b) => b?.heading?.trim() && b?.markdown?.trim());
 if (bolumler.length < 3) throw new Error(`Yalnızca ${bolumler.length} bölüm döndü — şema en az 3 istiyor`);
+
+/**
+ * İç etiketlerin öğrenciye giden metne sızmadığını doğrula.
+ * Bu bir kez sessizce oldu; bir daha olursa üretim burada durur.
+ */
+const govde = bolumler.map((b) => `${b.heading}\n${b.markdown}`).join('\n');
+const sizinti = govde.match(/\[ÇIKMIŞ SORUDAN\]|\[TÜREV\]|\bA GRUBU\b|\bB GRUBU\b|(?:^|\s)[AB]\d{1,3}\.\s/g) ?? [];
+if (sizinti.length > 0) {
+  throw new Error(
+    `İç etiket sızıntısı: ${sizinti.length} adet (${[...new Set(sizinti.map((s) => s.trim()))].slice(0, 4).join(', ')}). ` +
+      'Metin uygulanmadı.',
+  );
+}
 
 const oncekiKelime = pack.fullNotes.reduce((n, s) => n + s.markdown.split(/\s+/).length, 0);
 const sonrakiKelime = bolumler.reduce((n, s) => n + s.markdown.split(/\s+/).length, 0);

@@ -1,0 +1,14 @@
+{
+  "topicId": "muzecilik",
+  "sayim": {
+    "kaynakta_var": 146,
+    "genel_bilgi": 14,
+    "dayanaksiz": 0
+  },
+  "dogruluk": {
+    "dogru": 160,
+    "yanlis": 0,
+    "emin_degilim": 0
+  },
+  "sorunlu": []
+}
