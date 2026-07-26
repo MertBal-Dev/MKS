@@ -16,6 +16,7 @@ import Pratik from '@/pages/Pratik';
 import Cozduklerim from '@/pages/Cozduklerim';
 import KendiSorularim from '@/pages/KendiSorularim';
 import SoruAileleri from '@/pages/SoruAileleri';
+import GunlukDenemeler from '@/pages/GunlukDenemeler';
 import Denemeler from '@/pages/Denemeler';
 import SinavOdasi from '@/pages/SinavOdasi';
 import SinavSonuc from '@/pages/SinavSonuc';
@@ -49,6 +50,7 @@ function AnimatedRoutes() {
           <Route path="/cozduklerim" element={<Cozduklerim />} />
           <Route path="/kendi-sorularim" element={<KendiSorularim />} />
           <Route path="/soru-aileleri" element={<SoruAileleri />} />
+          <Route path="/gunluk-denemeler" element={<GunlukDenemeler />} />
           <Route path="/ai-hoca" element={<AiHocaPage />} />
           <Route path="/denemeler" element={<Denemeler />} />
           <Route path="/sinav/:examId" element={<SinavOdasi />} />

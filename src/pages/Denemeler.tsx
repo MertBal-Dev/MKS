@@ -68,27 +68,32 @@ export default function Denemeler() {
         {todayResult && (
           <p className="mt-3 text-sm text-turkuaz">Bugünün seti tamam — yarın sabah yepyeni 50 soru burada olacak.</p>
         )}
-        {pastDailies.length > 0 && (
-          <div className="mt-4 border-t border-line pt-3">
-            <p className="mb-2 text-xs font-medium tracking-wide text-muted">SON GÜNLERİN SETLERİ</p>
-            <div className="flex flex-wrap gap-2">
-              {pastDailies.map((r) => {
-                const d = r.examId.slice(DAILY_EXAM_PREFIX.length);
-                const lbl = new Date(`${d}T12:00:00+03:00`).toLocaleDateString('tr-TR', { day: 'numeric', month: 'short', timeZone: 'Europe/Istanbul' });
-                return (
-                  <Link
-                    key={r.examId + r.finishedAt}
-                    to={`/sinav/${r.examId}/sonuc`}
-                    className="rounded-full border border-line bg-ground px-3 py-1.5 text-xs text-muted hover:text-ink"
-                    style={{ fontVariantNumeric: 'tabular-nums' }}
-                  >
-                    {lbl}: <strong className={r.score >= PASS_SCORE ? 'text-turkuaz' : 'text-altin'}>{Math.round(r.score)}</strong>
-                  </Link>
-                );
-              })}
-            </div>
+        {/*
+          Arşiv bağlantısı: setler tarihten üretildiği için geçmiş her gün
+          yeniden kurulabilir. Önceden yalnızca ÇÖZÜLMÜŞ günler listeleniyordu,
+          kaçırılan bir gün erişilemez oluyordu.
+        */}
+        <div className="mt-4 flex flex-wrap items-center justify-between gap-3 border-t border-line pt-3">
+          <div className="flex flex-wrap gap-2">
+            {pastDailies.map((r) => {
+              const d = r.examId.slice(DAILY_EXAM_PREFIX.length);
+              const lbl = new Date(`${d}T12:00:00+03:00`).toLocaleDateString('tr-TR', { day: 'numeric', month: 'short', timeZone: 'Europe/Istanbul' });
+              return (
+                <Link
+                  key={r.examId + r.finishedAt}
+                  to={`/sinav/${r.examId}/sonuc`}
+                  className="rounded-full border border-line bg-ground px-3 py-1.5 text-xs text-muted hover:text-ink"
+                  style={{ fontVariantNumeric: 'tabular-nums' }}
+                >
+                  {lbl}: <strong className={r.score >= PASS_SCORE ? 'text-turkuaz' : 'text-altin'}>{Math.round(r.score)}</strong>
+                </Link>
+              );
+            })}
           </div>
-        )}
+          <Link to="/gunluk-denemeler" className="shrink-0 text-xs font-medium text-kobalt hover:underline">
+            Tüm günlük arşiv — kaçırdıklarını çöz →
+          </Link>
+        </div>
       </section>
 
       {exams.length === 0 ? (

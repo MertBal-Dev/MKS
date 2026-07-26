@@ -1,0 +1,2097 @@
+[
+  {
+    "id": "aile-dinler-tarihi-001",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "Hristiyanlık inancındaki 'Baba, Oğul ve Kutsal Ruh' üçlemesini ifade eden temel doktrini bilmek.",
+    "ozet": "Hristiyanlık, **Hz. İsa**'nın öğretilerine dayanan, **İncil (Yeni Ahit)**'i kutsal kabul eden evrensel bir dindir. Temel inançlarından biri, Tanrı'nın 'Baba, Oğul ve Kutsal Ruh' olmak üzere üç farklı görünümde tezahür ettiğini savunan **Teslis** doktrinidir. Bu, tek Tanrı'nın üç görünümü olarak anlaşılır. Dine giriş ritüeli **Vaftiz**, ekmek ve şarap ayini ise **Aşai Rabbani (Efkaristiya/Komünyon)** olarak adlandırılır. Bu kavramlar, Hristiyanlık inancının temel taşlarındandır ve Anadolu, Hristiyanlık tarihinde önemli merkezlere ev sahipliği yapmıştır.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-028",
+        "stem": "Hristiyanlık inancında, Tanrı'nın 'Baba, Oğul ve Kutsal Ruh' olmak üzere üçlü bir tabiatta tezahür ettiğini savunan doktrine ne ad verilir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Vaftiz",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Efkaristiya",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Teslis",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Konfirmasyon",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-001-t1",
+        "stem": "Aşağıdakilerden hangisi Hristiyanlık inancının temel direklerinden olan 'Baba, Oğul ve Kutsal Ruh' üçlemesini tanımlayan doktrinin adıdır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Teslis",
+            "explanation": "Teslis, Hristiyanlıkta Tanrı'nın Baba, Oğul ve Kutsal Ruh olarak üçlü bir tabiatta tezahür ettiğini savunan doktrindir."
+          },
+          {
+            "id": "B",
+            "text": "Vaftiz",
+            "explanation": "Vaftiz, Hristiyanlıkta dine giriş ritüelidir, Tanrı'nın üçlü tabiatını tanımlamaz."
+          },
+          {
+            "id": "C",
+            "text": "Aşai Rabbani",
+            "explanation": "Aşai Rabbani (Efkaristiya/Komünyon), Hristiyanlıkta ekmek ve şarap ayinidir, Teslis doktriniyle ilgili değildir."
+          },
+          {
+            "id": "D",
+            "text": "Asli Günah",
+            "explanation": "Asli günah, Hristiyanlıkta tüm insanların Adem ve Havva'dan miras aldığı günah kavramıdır, Teslis ile doğrudan ilişkili değildir."
+          },
+          {
+            "id": "E",
+            "text": "Konsil",
+            "explanation": "Konsil, Hristiyan din adamlarının toplandığı dini meclislere verilen addır, bir doktrin değildir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Şıklarda yer alan diğer Hristiyanlık terimlerinin karıştırılmaması gerekmektedir."
+      },
+      {
+        "id": "aile-dinler-tarihi-001-t2",
+        "stem": "Hristiyanlık inancındaki temel kavramlardan hangisi diğerlerinden farklı bir anlam taşımaktadır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Teslis",
+            "explanation": "Teslis, Tanrı'nın üçlü tabiatını ifade eden bir doktrindir."
+          },
+          {
+            "id": "B",
+            "text": "Kutsal Ruh",
+            "explanation": "Kutsal Ruh, Teslis doktrininin bir parçasıdır ve Tanrı'nın üç görünümünden biridir."
+          },
+          {
+            "id": "C",
+            "text": "Vaftiz",
+            "explanation": "Vaftiz, dine giriş ritüelidir."
+          },
+          {
+            "id": "D",
+            "text": "Aşai Rabbani",
+            "explanation": "Aşai Rabbani, ekmek ve şarap ayinidir."
+          },
+          {
+            "id": "E",
+            "text": "Asli Günah",
+            "explanation": "Asli günah, insanlığın günahkarlığını açıklayan bir öğretidir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Kutsal Ruh, Teslis'in bir bileşeni olduğu için diğer şıklardaki bağımsız kavramlardan ayrışır."
+      },
+      {
+        "id": "aile-dinler-tarihi-001-t3",
+        "stem": "Hristiyanlıkta bazı temel ritüeller ve doktrinler bulunmaktadır. Aşağıda verilen Hristiyanlık kavramlarından hangisinin açıklaması YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Vaftiz: Suya batırma veya su serpme ile dine giriş ritüeli.",
+            "explanation": "Vaftiz'in tanımı doğrudur. Bu, Hristiyanlıkta dine giriş ritüelidir."
+          },
+          {
+            "id": "B",
+            "text": "Teslis: Tanrı'nın 'Baba, Oğul ve Kutsal Ruh' olarak üçlü bir tabiatta tezahür ettiğini savunan doktrin.",
+            "explanation": "Teslis'in tanımı doğrudur. Bu, Hristiyanlık inancının temel bir doktrinidir."
+          },
+          {
+            "id": "C",
+            "text": "Asli Günah: İsa'nın çarmıha gerilerek tüm insanlığın günahlarını affetmesi inancı.",
+            "explanation": "Asli günah, Adem ve Havva'dan miras alınan günah kavramıdır. İsa'nın çarmıha gerilmesiyle affedilme inancı 'kurtuluş' öğretisiyle daha yakından ilişkilidir, asli günahın tanımı değildir."
+          },
+          {
+            "id": "D",
+            "text": "Aşai Rabbani: İsa'nın çarmıha gerilmeden önceki son yemeğini anmak için yapılan ekmek ve şarap ayini.",
+            "explanation": "Aşai Rabbani (Efkaristiya/Komünyon) tanımı doğrudur. Bu, Hristiyanlıkta önemli bir ayindir."
+          },
+          {
+            "id": "E",
+            "text": "Konsil: Hristiyanlıkta dini meseleleri görüşmek üzere toplanan din adamları meclisi.",
+            "explanation": "Konsil'in tanımı doğrudur. Hristiyanlık tarihinde önemli kararlar bu konsillerde alınmıştır."
+          }
+        ],
+        "correct": "C",
+        "trick": "Asli günah kavramının 'kurtuluş' öğretisiyle karıştırılması, yanıltıcı olabilir. Asli günah, daha çok insanın doğuştan günahkarlığını ifade eder."
+      }
+    ]
+  },
+  {
+    "id": "aile-dinler-tarihi-002",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "Hristiyanlık tarihindeki önemli konsillerin toplanma yerlerini bilmek, Anadolu'nun inanç turizmindeki merkezi rolünü anlamak için esastır.",
+    "ozet": "Anadolu, Hristiyanlık tarihi boyunca birçok önemli olaya ev sahipliği yapmıştır. Özellikle **ekümenik konsiller**, Hristiyan teolojisinin ve kurumlarının şekillenmesinde kritik rol oynamıştır. Roma İmparatorluğu'nda Hristiyanlığın resmileşmesiyle birlikte toplanan bu konsiller, inanç esaslarının belirlenmesinde merkezi bir işlev görmüştür. Örneğin, Hristiyanlık tarihinin ilk ekümenik konsili, MS 325 yılında **Nikea**'da (İznik) toplanmıştır. Ayrıca, **Efes** ve **Kadıköy** gibi Anadolu şehirleri de önemli konsillere ev sahipliği yaparak bölgenin inanç turizmi potansiyelini artırmıştır. Bu şehirlerin ve konsillerin doğru konumlandırılması, Hristiyanlık mirasımızın anlaşılması için önemlidir.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-039",
+        "stem": "Bizans İmparatorluğu döneminde, Hristiyanlık tarihinin I. Ekümenik Konsili'ne ev sahipliği yapan şehir aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Konstantinopolis",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Nikea",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Efes",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Trabzon",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-002-t1",
+        "stem": "Aşağıdakilerden hangisi, Hristiyanlık tarihindeki önemli konsillerden biri değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İznik Konsili (325)",
+            "explanation": "İznik Konsili, Hristiyanlık tarihinin ilk ekümenik konsilidir ve önemli bir yere sahiptir."
+          },
+          {
+            "id": "B",
+            "text": "Efes Konsili (431)",
+            "explanation": "Efes Konsili, Hristiyanlık tarihindeki önemli ekümenik konsillerden biridir."
+          },
+          {
+            "id": "C",
+            "text": "Kadıköy Konsili (451)",
+            "explanation": "Kadıköy Konsili, Hristiyanlık tarihindeki önemli ekümenik konsillerden biridir."
+          },
+          {
+            "id": "D",
+            "text": "Antakya Konsili (518)",
+            "explanation": "Ders notunda Antakya'da bir konsil toplandığına dair bir bilgi bulunmamaktadır. Dolayısıyla Hristiyanlık tarihindeki önemli konsiller arasında sayılmaz."
+          },
+          {
+            "id": "E",
+            "text": "II. İznik Konsili (787)",
+            "explanation": "II. İznik Konsili, Hristiyanlık tarihindeki önemli ekümenik konsillerden biridir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Öğrencinin ders notunda belirtilmeyen, ancak konsil isimlerine benzer bir seçeneğin araya sıkıştırılmasıyla yanıltma amaçlanır."
+      },
+      {
+        "id": "aile-dinler-tarihi-002-t2",
+        "stem": "Hristiyanlık tarihinin önemli konsilleri ve toplandıkları şehirler eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I. Ekümenik Konsil – İznik",
+            "explanation": "Hristiyanlık tarihinin I. Ekümenik Konsili 325 yılında Nikea (İznik) şehrinde toplanmıştır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Efes Konsili – Efes",
+            "explanation": "Efes Konsili 431 yılında Efes'te toplanmıştır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Kadıköy Konsili – Kadıköy",
+            "explanation": "Kadıköy Konsili 451 yılında Kadıköy'de toplanmıştır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Konstantinopolis Konsili – Konstantinopolis",
+            "explanation": "Konstantinopolis Konsili 381 yılında Konstantinopolis'te toplanmıştır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "II. İznik Konsili – Konstantinopolis",
+            "explanation": "II. İznik Konsili 787 yılında İznik'te toplanmıştır, Konstantinopolis'te değil. Bu eşleştirme yanlıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Konsillerin isimleri ile toplanma yerleri arasındaki benzerlikten faydalanarak öğrencinin dikkatini dağıtmak ve yanlış eşleştirmeyi bulmasını zorlaştırmak."
+      },
+      {
+        "id": "aile-dinler-tarihi-002-t3",
+        "stem": "Hristiyanlık tarihi için kritik öneme sahip olan ve Anadolu'da toplanan Ekümenik Konsillerin kronolojik sıralaması aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İznik (325) - Efes (431) - Kadıköy (451) - II. İznik (787)",
+            "explanation": "Bu sıralama, ders notunda belirtilen Anadolu'da toplanan konsillerin doğru kronolojik sırasıdır: 325 İznik, 431 Efes, 451 Kadıköy, 787 II. İznik."
+          },
+          {
+            "id": "B",
+            "text": "Efes (431) - İznik (325) - Kadıköy (451) - II. İznik (787)",
+            "explanation": "Doğru kronolojik sıralama İznik (325), Efes (431), Kadıköy (451) ve II. İznik (787) şeklindedir. Bu seçenek yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "İznik (325) - Konstantinopolis (381) - Efes (431) - Kadıköy (451)",
+            "explanation": "Ders notunda Konstantinopolis'in bir konsile ev sahipliği yaptığı belirtilse de, soruda sadece 'Anadolu'da toplanan' konsiller sorulmaktadır. Konstantinopolis ise Bizans başkenti olmasına rağmen bu kronolojideki diğer konsillerin tamamı Anadolu'da toplanmıştır. Doğru sıralama İznik (325), Efes (431), Kadıköy (451) ve II. İznik (787) şeklindedir. Bu seçenek, Konstantinopolis Konsili'ni dahil ettiği için yanıltıcıdır ve eksiktir."
+          },
+          {
+            "id": "D",
+            "text": "Kadıköy (451) - İznik (325) - II. İznik (787) - Efes (431)",
+            "explanation": "Doğru kronolojik sıralama İznik (325), Efes (431), Kadıköy (451) ve II. İznik (787) şeklindedir. Bu seçenek yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "Efes (431) - Kadıköy (451) - İznik (325) - II. İznik (787)",
+            "explanation": "Doğru kronolojik sıralama İznik (325), Efes (431), Kadıköy (451) ve II. İznik (787) şeklindedir. Bu seçenek yanlıştır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Konsillerin hem isimlerini hem de tarihlerini doğru bir şekilde hatırlamak ve kronolojik sıraya koymak, özellikle tarihler yakın olduğunda zorlayıcı olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-dinler-tarihi-003",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "Hristiyanlık sanatının önemli eserlerinden 'Son Akşam Yemeği' freskinin yaratıcısı ve bulunduğu yer bilgisini ölçer.",
+    "ozet": "Hristiyanlık, sanat tarihinde birçok önemli esere ilham kaynağı olmuştur. Bu eserlerden biri de **Leonardo da Vinci**'nin 'Son Akşam Yemeği' freskidir. Bu ünlü eser, İsa'nın havarileriyle yediği son akşam yemeğini tasvir eder ve **Milano'daki Santa Maria delle Grazie Kilisesi**'nde bulunmaktadır. Bu bilgiyi bilmeniz, benzer soruları kolayca çözmenizi sağlayacaktır. Eserin sanatçısını ve yerini doğru eşleştirmek, bu tip sorular için anahtar bilgidir.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-042",
+        "stem": "Sanat tarihinin en bilinen eserlerinden biri olan ve Milano'daki Santa Maria delle Grazie Kilisesi'nde bulunan 'Son Akşam Yemeği' freskinin yaratıcısı kimdir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Michelangelo",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Leonardo da Vinci",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Vincent Van Gogh",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Salvador Dali",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-003-t1",
+        "stem": "Aşağıdakilerden hangisi, Hristiyanlık sanatının önemli eserlerinden 'Son Akşam Yemeği' freski ve yaratıcısı ile ilgili doğru bir bilgidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Eser, Michelangelo tarafından yapılmış ve Roma'daki Aziz Petrus Bazilikası'nda bulunmaktadır.",
+            "explanation": "'Son Akşam Yemeği' freski Michelangelo tarafından değil, Leonardo da Vinci tarafından yapılmıştır ve Aziz Petrus Bazilikası'nda değil, Milano'daki Santa Maria delle Grazie Kilisesi'nde yer almaktadır."
+          },
+          {
+            "id": "B",
+            "text": "Eser, Leonardo da Vinci tarafından yapılmış ve Milano'daki Santa Maria delle Grazie Kilisesi'nde bulunmaktadır.",
+            "explanation": "Ders notunda belirtildiği gibi, 'Son Akşam Yemeği' freski Leonardo da Vinci tarafından yapılmış olup, Milano'daki Santa Maria delle Grazie Kilisesi'nde yer almaktadır."
+          },
+          {
+            "id": "C",
+            "text": "Eser, Raffaello tarafından yapılmış ve Floransa'daki Uffizi Galerisi'nde bulunmaktadır.",
+            "explanation": "'Son Akşam Yemeği' freski Raffaello tarafından değil, Leonardo da Vinci tarafından yapılmıştır ve Uffizi Galerisi'nde değil, Milano'daki Santa Maria delle Grazie Kilisesi'nde yer almaktadır."
+          },
+          {
+            "id": "D",
+            "text": "Eser, Donatello tarafından yapılmış ve Venedik'teki San Marco Bazilikası'nda bulunmaktadır.",
+            "explanation": "'Son Akşam Yemeği' freski Donatello tarafından değil, Leonardo da Vinci tarafından yapılmıştır ve San Marco Bazilikası'nda değil, Milano'daki Santa Maria delle Grazie Kilisesi'nde yer almaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Eser, Tiziano tarafından yapılmış ve Paris'teki Louvre Müzesi'nde bulunmaktadır.",
+            "explanation": "'Son Akşam Yemeği' freski Tiziano tarafından değil, Leonardo da Vinci tarafından yapılmıştır ve Louvre Müzesi'nde değil, Milano'daki Santa Maria delle Grazie Kilisesi'nde yer almaktadır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Farklı sanatçı ve mekan kombinasyonları sunularak öğrencinin doğru eşleştirmeyi yapması hedeflenir."
+      },
+      {
+        "id": "aile-dinler-tarihi-003-t2",
+        "stem": "Aşağıdakilerden hangisi, Hristiyanlık sanatının önemli eserlerinden biri olan 'Son Akşam Yemeği' freski ile ilgili YANLIŞ bir ifadedir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Eser, İsa'nın havarileriyle yediği son akşam yemeğini tasvir eder.",
+            "explanation": "Ders notunda belirtildiği gibi, eser İsa'nın havarileriyle yediği son akşam yemeğini tasvir etmektedir."
+          },
+          {
+            "id": "B",
+            "text": "Eser, Milano'daki Santa Maria delle Grazie Kilisesi'nde bulunmaktadır.",
+            "explanation": "Ders notunda belirtildiği gibi, eser Milano'daki Santa Maria delle Grazie Kilisesi'nde yer almaktadır."
+          },
+          {
+            "id": "C",
+            "text": "Eser, İtalya'nın Floransa şehrinde yer alan bir manastırda sergilenmektedir.",
+            "explanation": "Ders notunda eserin Milano'daki Santa Maria delle Grazie Kilisesi'nde bulunduğu belirtilmiştir, Floransa'da değildir. Bu ifade yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Eserin yaratıcısı Leonardo da Vinci'dir.",
+            "explanation": "Ders notunda açıkça belirtildiği üzere, eserin yaratıcısı Leonardo da Vinci'dir."
+          },
+          {
+            "id": "E",
+            "text": "Eser, bir fresk tekniği ile yapılmıştır.",
+            "explanation": "Ders notunda eserin 'Son Akşam Yemeği' freski olarak anıldığı belirtilmiştir, bu da tekniğinin fresk olduğunu doğrular."
+          }
+        ],
+        "correct": "C",
+        "trick": "Eserin bulunduğu şehir yanlış verilerek öğrencinin dikkatini dağıtmayı amaçlar."
+      },
+      {
+        "id": "aile-dinler-tarihi-003-t3",
+        "stem": "Aşağıdaki Hristiyanlık dönemi sanat eserleri ve sanatçı eşleştirmelerinden hangisi DOĞRUDUR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Sistina Şapeli Tavanı - Raffaello",
+            "explanation": "Sistina Şapeli Tavanı Raffaello'ya değil, Michelangelo'ya aittir."
+          },
+          {
+            "id": "B",
+            "text": "Adem'in Yaratılışı - Donatello",
+            "explanation": "Adem'in Yaratılışı Donatello'ya değil, Michelangelo'ya aittir ve Sistina Şapeli tavanında yer alır."
+          },
+          {
+            "id": "C",
+            "text": "Pietà - Botticelli",
+            "explanation": "Pietà Botticelli'ye değil, Michelangelo'ya aittir."
+          },
+          {
+            "id": "D",
+            "text": "Son Akşam Yemeği - Leonardo da Vinci",
+            "explanation": "Ders notunda açıkça belirtildiği gibi, 'Son Akşam Yemeği' freskinin yaratıcısı Leonardo da Vinci'dir."
+          },
+          {
+            "id": "E",
+            "text": "Mona Lisa - Michelangelo",
+            "explanation": "Mona Lisa Michelangelo'ya değil, Leonardo da Vinci'ye aittir ve Hristiyanlık sanatından ziyade portre sanatına örnektir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Tanınmış Rönesans sanatçıları ve eserleri karıştırılarak, öğrencinin sadece 'Son Akşam Yemeği' bilgisine odaklanması engellenir."
+      }
+    ]
+  },
+  {
+    "id": "aile-dinler-tarihi-004",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "Cami mimarisindeki belirli öğelerin adlarını ve işlevlerini bilmek.",
+    "ozet": "İslam mimarisinde camiler, ibadet ve toplumsal yaşamın merkezinde yer alır. Bir caminin temel bölümleri, ibadetlerin doğru bir şekilde yerine getirilmesini ve cemaatin düzenini sağlamak üzere özel işlevlere sahiptir. Örneğin, **kıble yönünü gösteren niş**e **Mihrap** denirken, müezzinlerin görevlerini yerine getirdiği alana **Müezzin Mahfili** denir. Özellikle Cuma ve bayram namazlarında hatibin cemaate hitap ettiği **merdivenli yüksek platform** ise **Minber** olarak adlandırılır. Bu mimari öğelerin her biri, İslam ibadet pratiğinde önemli bir role sahiptir ve bu yapıları tanımak, cami ziyaretlerinde rehberler için temel bir bilgidir.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-045",
+        "stem": "Camilerde, Cuma ve bayram namazlarında hatibin üzerine çıkarak hutbe okuduğu merdivenli mimari öğeye ne ad verilir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mihrap",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Vaaz Kürsüsü",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Minber",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Müezzin Mahfili",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-004-t1",
+        "stem": "Aşağıdaki cami mimarisi öğelerinden hangisi, imamın namaz kıldırdığı ve kıble yönünü gösteren niş olarak tanımlanır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Minber",
+            "explanation": "Minber, hutbe okunan merdivenli platformdur, imamın namaz kıldırdığı niş değildir."
+          },
+          {
+            "id": "B",
+            "text": "Vaaz Kürsüsü",
+            "explanation": "Vaaz kürsüsü, vaaz verilen bir platformdur ancak kıble yönünü gösteren niş değildir."
+          },
+          {
+            "id": "C",
+            "text": "Müezzin Mahfili",
+            "explanation": "Müezzin mahfili, müezzinlerin görevlerini yerine getirdiği yerdir, kıbleyi gösteren niş değildir."
+          },
+          {
+            "id": "D",
+            "text": "Hipostil",
+            "explanation": "Hipostil, çok sütunlu ve düz çatılı cami plan tipini ifade eden bir kavramdır, tekil bir mimari öğe değildir."
+          },
+          {
+            "id": "E",
+            "text": "Mihrap",
+            "explanation": "Mihrap, cami mimarisinde kıble yönünü gösteren ve imamın namaz kıldırdığı niştir. Tanıma tamamen uyar."
+          }
+        ],
+        "correct": "E",
+        "trick": "Cami içindeki farklı öğelerin işlevlerini karıştırmak, özellikle 'minber' ve 'mihrap' arasındaki ayrımı gözden kaçırmak."
+      },
+      {
+        "id": "aile-dinler-tarihi-004-t2",
+        "stem": "Aşağıdakilerden hangisi cami mimarisindeki bir öğe olan 'Müezzin Mahfili'nin tanımı DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Caminin kıble yönünü gösteren mimari niştir.",
+            "explanation": "Caminin kıble yönünü gösteren mimari niş 'Mihrap'tır, 'Müezzin Mahfili' değildir. Dolayısıyla bu ifade yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Müezzinlerin namaz sırasında görevlerini yerine getirdikleri yerdir.",
+            "explanation": "Bu ifade, müezzin mahfilinin doğru tanımıdır."
+          },
+          {
+            "id": "C",
+            "text": "Cemaatle namaz kılınan camilerde bulunur.",
+            "explanation": "Müezzin mahfili, genellikle cemaatle namaz kılınan büyük camilerde bulunur, bu da doğru bir ifadedir."
+          },
+          {
+            "id": "D",
+            "text": "Genellikle caminin ana ibadet alanında, Minber'e yakın konumlanır.",
+            "explanation": "Müezzin mahfili, müezzinlerin cemaati yönlendirmesi için minber veya mihraba yakın konumlandırılabilir, bu da doğru bir ifadedir."
+          },
+          {
+            "id": "E",
+            "text": "Genellikle ahşap veya mermerden yapılmış, yükseltilmiş bir platform olabilir.",
+            "explanation": "Müezzin mahfillerinin yapım malzemesi ve biçimi değişiklik gösterebilir, yükseltilmiş platformlar yaygındır, bu da doğru bir ifadedir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Doğru tanımlar arasına yanlış bir tanım yerleştirerek, adayın her öğenin kesin işlevini bilip bilmediğini test etmek."
+      },
+      {
+        "id": "aile-dinler-tarihi-004-t3",
+        "stem": "Aşağıda verilen cami mimarisi öğeleri ve işlevleri eşleştirmelerinden hangisi yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mihrap: İmamın namaz kıldırdığı, kıble yönünü gösteren niş.",
+            "explanation": "Bu eşleştirme doğrudur. Mihrap, imamın namaz kıldırdığı ve kıbleyi gösteren niştir."
+          },
+          {
+            "id": "B",
+            "text": "Hipostil: Tek bir minaresi olan cami.",
+            "explanation": "Bu eşleştirme yanlıştır. Hipostil, İslam mimarisinde çok sütunlu ve düz çatılı cami plan tipini ifade eder, minare sayısıyla ilgili değildir."
+          },
+          {
+            "id": "C",
+            "text": "Minber: Cuma ve bayram namazlarında hatibin hutbe okuduğu merdivenli platform.",
+            "explanation": "Bu eşleştirme doğrudur. Minber, hutbelerin okunduğu yerdir."
+          },
+          {
+            "id": "D",
+            "text": "Müezzin Mahfili: Müezzinlerin görevlerini yerine getirdiği yer.",
+            "explanation": "Bu eşleştirme doğrudur. Müezzin mahfili, müezzinlerin ezan okuduğu veya namazda cemaati yönlendirdiği yerdir."
+          },
+          {
+            "id": "E",
+            "text": "Şadırvan: Caminin avlusunda abdest alınan yer.",
+            "explanation": "Bu eşleştirme doğrudur. Şadırvan, cami avlularında abdest almak için kullanılan su tesisidir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Adayın bilinen terimlerin doğru işlevlerini bilip bilmediğini, özellikle daha az bilinen 'hipostil' gibi terimlerin yanlış tanımlarıyla karıştırıp karıştırmadığını test etmek."
+      }
+    ]
+  },
+  {
+    "id": "aile-dinler-tarihi-005",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "Anadolu'da bulunan Hristiyanlık ile ilgili önemli inanç merkezlerinin şehirleriyle doğru eşleştirilmesini bilmek.",
+    "ozet": "Anadolu, Hristiyanlık tarihi açısından büyük önem taşımaktadır ve birçok kadim inanç merkezine ev sahipliği yapmaktadır. Rehberlerin bu merkezlerin konumlarını ve önemlerini bilmesi beklenir. Örneğin, **Antakya**'daki **St. Pierre Kilisesi** Hristiyanlığın ilk kilisesi kabul edilirken, **Efes**'teki **Meryem Ana Evi** önemli bir hac merkezidir. **Aziz Nikolaos Kilisesi** **Demre**'de, **Aziz Pavlus**'un doğduğu yer ise **Tarsus**'tadır. **Süryani manastırları Mor Gabriel** ve **Deyrulzafaran** ise **Mardin**'de bulunur. **Akdamar Kilisesi Van'da**, **Surp Giragos Kilisesi** ise **Diyarbakır**'da yer alır. Bu merkezlerin şehirleriyle doğru eşleştirilmesi, inanç turizmi rotalarını anlamak için temel bilgidir.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-053",
+        "stem": "Aşağıda verilen şehir ve bu şehirde bulunan inanç merkezi eşleştirmelerinden hangisi doğrudur?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Deyrulzafaran Manastırı - Van",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Akdamar Kilisesi - Ağrı",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Surp Giragos Kilisesi - Diyarbakır",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Mor Gabriel Manastırı - Antakya",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-005-t1",
+        "stem": "Hristiyanlık tarihi açısından büyük öneme sahip olan ve \"Hristiyan\" adının ilk kez kullanıldığı, aynı zamanda dünyanın ilk mağara kilisesi olarak bilinen St. Pierre Kilisesi hangi ilimizde bulunmaktadır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mersin",
+            "explanation": "Mersin'de Aziz Pavlus ile ilgili yapılar bulunsa da, St. Pierre Kilisesi Mersin'de değil, Hatay'dadır."
+          },
+          {
+            "id": "B",
+            "text": "Adana",
+            "explanation": "Adana, Hristiyanlık tarihinde önemli bir merkez değildir ve St. Pierre Kilisesi burada bulunmaz."
+          },
+          {
+            "id": "C",
+            "text": "Hatay",
+            "explanation": "St. Pierre Kilisesi, 'Hristiyan' adının ilk kez kullanıldığı ve dünyanın ilk mağara kilisesi olarak bilinen önemli bir inanç merkezidir ve Hatay (Antakya) ilimizde yer almaktadır. Bu bilgi ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Gaziantep",
+            "explanation": "Gaziantep, St. Pierre Kilisesi'ne ev sahipliği yapmamaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Şanlıurfa",
+            "explanation": "Şanlıurfa, İslam ve Yahudilik için önemli bir şehir olsa da, St. Pierre Kilisesi burada bulunmamaktadır."
+          }
+        ],
+        "correct": "C",
+        "trick": "Farklı şehirlerdeki Hristiyanlık merkezlerini karıştırarak adayları yanıltmak."
+      },
+      {
+        "id": "aile-dinler-tarihi-005-t2",
+        "stem": "Aşağıdaki Hristiyanlık inanç merkezi-şehir eşleştirmelerinden hangisi YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Meryem Ana Evi - İzmir",
+            "explanation": "Meryem Ana Evi, Efes antik kenti yakınlarında, İzmir il sınırları içinde yer almaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Aziz Nikolaos Kilisesi - Antalya",
+            "explanation": "Noel Baba olarak bilinen Aziz Nikolaos'un kilisesi, Demre (Myra) antik kentinde, Antalya ilimizde bulunmaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Mor Gabriel Manastırı - Mardin",
+            "explanation": "Dünyanın en eski aktif Süryani manastırlarından biri olan Mor Gabriel Manastırı, Mardin ilimizde yer almaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Akdamar Kilisesi - Ağrı",
+            "explanation": "Akdamar Kilisesi, Van Gölü üzerindeki Akdamar Adası'nda, Van ilinde yer almaktadır, Ağrı'da değildir. Bu eşleştirme yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "Aziz Pavlus Kuyusu ve Kilisesi - Mersin",
+            "explanation": "Hristiyanlığı Anadolu ve Avrupa'ya yayan Aziz Pavlus'un doğduğu yer Tarsus olup, Tarsus Mersin ilimizdedir. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "D",
+        "trick": "Adayın benzer isimli şehirler veya yakın coğrafyalar arasında karıştırma eğilimini hedeflemek."
+      },
+      {
+        "id": "aile-dinler-tarihi-005-t3",
+        "stem": "Aşağıda verilen Hristiyanlık inanç merkezlerinin, bulundukları illerle doğru eşleştirilmiş halini seçiniz:",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I-a, II-b, III-c, IV-d",
+            "explanation": "Doğru eşleştirme I-b (St. Pierre Kilisesi - Hatay), II-a (Akdamar Kilisesi - Van), III-d (Deyrulzafaran Manastırı - Mardin), IV-c (Surp Giragos Kilisesi - Diyarbakır) olmalıdır. Bu seçenekteki tüm eşleştirmeler yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "I-c, II-d, III-a, IV-b",
+            "explanation": "Doğru eşleştirme I-b (St. Pierre Kilisesi - Hatay), II-a (Akdamar Kilisesi - Van), III-d (Deyrulzafaran Manastırı - Mardin), IV-c (Surp Giragos Kilisesi - Diyarbakır) olmalıdır. Bu seçenekteki tüm eşleştirmeler yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "I-d, II-c, III-b, IV-a",
+            "explanation": "Doğru eşleştirme I-b (St. Pierre Kilisesi - Hatay), II-a (Akdamar Kilisesi - Van), III-d (Deyrulzafaran Manastırı - Mardin), IV-c (Surp Giragos Kilisesi - Diyarbakır) olmalıdır. Bu seçenekteki tüm eşleştirmeler yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "I-a, II-d, III-b, IV-c",
+            "explanation": "Doğru eşleştirme I-b (St. Pierre Kilisesi - Hatay), II-a (Akdamar Kilisesi - Van), III-d (Deyrulzafaran Manastırı - Mardin), IV-c (Surp Giragos Kilisesi - Diyarbakır) olmalıdır. Bu seçenekteki tüm eşleştirmeler yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "I-b, II-a, III-d, IV-c",
+            "explanation": "St. Pierre Kilisesi Hatay'da, Akdamar Kilisesi Van'da, Deyrulzafaran Manastırı Mardin'de ve Surp Giragos Kilisesi Diyarbakır'dadır. Bu eşleştirmeler ders notunda verilen bilgilerle tamamen uyumludur."
+          }
+        ],
+        "correct": "E",
+        "trick": "Birden fazla eşleştirme hatası yaparak doğru kombinasyonu bulmayı zorlaştırmak."
+      }
+    ]
+  },
+  {
+    "id": "aile-dinler-tarihi-006",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "Anadolu'da bulunan Hristiyanlık için kutsal kabul edilen Yedi Kilise'nin yerlerini bilmek.",
+    "ozet": "Anadolu, Hristiyanlık tarihi ve inanç turizmi açısından eşsiz bir öneme sahiptir. Yeni Ahit'te adı geçen ve Hristiyanlıkça kutsal kabul edilen **Yedi Kilise**, bu coğrafyada yer almaktadır. Bu kiliseler **Efes, İzmir (Smyrna), Bergama (Pergamon), Akhisar (Thyateira), Salihli (Sardes), Alaşehir (Philadelphia) ve Denizli (Laodikeia)**'dır. Rehberlerin bu kiliselerin günümüzdeki konumlarını ve önemini bilmesi, inanç turizmi rotalarını doğru bir şekilde sunabilmesi için kritik öneme sahiptir. Bu bilgi, Anadolu'nun Hristiyanlık mirasının anlaşılmasına ve tanıtılmasına yardımcı olur.",
+    "kaynak": {
+      "examId": "cikmis-2025-agustos",
+      "examTitle": "Çıkmış Sınav — 10 Ağustos 2025 (MKS-2)",
+      "soru": {
+        "id": "cikmis-2025-agustos-087",
+        "stem": "I. Smyrna (İzmir), II. Efes (Ephesos), III. Laodikeia, IV. Thyateira (Akhisar). Yeni Ahit'te (İncil) adı geçen ve Hristiyanlıkça kutsal sayılan '7 Kilise'den hangileri yukarıdaki antik kentlerde yer alır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I ve II",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "I, II ve III",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "III ve IV",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "I, II, III ve IV",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-006-t1",
+        "stem": "Hristiyanlıkta önemli bir yere sahip olan ve Yeni Ahit'te bahsedilen 'Yedi Kilise'den biri olan Laodikeia Antik Kenti, günümüzde hangi ilimizin sınırları içerisinde yer almaktadır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Denizli",
+            "explanation": "Laodikeia Antik Kenti, Yedi Kilise'den biri olup günümüzde Denizli ilimiz sınırları içerisindedir."
+          },
+          {
+            "id": "B",
+            "text": "İzmir",
+            "explanation": "İzmir'de Yedi Kilise'den Smyrna bulunmaktadır, Laodikeia değildir."
+          },
+          {
+            "id": "C",
+            "text": "Manisa",
+            "explanation": "Manisa'da Yedi Kilise'den Sardes bulunmaktadır, Laodikeia değildir."
+          },
+          {
+            "id": "D",
+            "text": "Aydın",
+            "explanation": "Aydın'da Yedi Kilise'den herhangi biri bulunmamaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Muğla",
+            "explanation": "Muğla'da Yedi Kilise'den herhangi biri bulunmamaktadır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Öğrencinin Yedi Kilise'nin modern şehirlerle eşleşmesini bilip bilmediğini test eder."
+      },
+      {
+        "id": "aile-dinler-tarihi-006-t2",
+        "stem": "Aşağıdakilerden hangisi, Hristiyanlık inancında 'Yedi Kilise' olarak bilinen antik yerleşimlerden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Pergamon (Bergama)",
+            "explanation": "Pergamon (Bergama), Yedi Kilise'den biridir."
+          },
+          {
+            "id": "B",
+            "text": "Colossae (Honaz)",
+            "explanation": "Colossae (Honaz), Yeni Ahit'te anılan önemli bir yerleşim yeri olmasına rağmen, Yedi Kilise arasında sayılmaz. Bu, doğru cevaptır çünkü soru 'DEĞİLDİR' diye sormaktadır."
+          },
+          {
+            "id": "C",
+            "text": "Sardes (Salihli)",
+            "explanation": "Sardes (Salihli), Yedi Kilise'den biridir."
+          },
+          {
+            "id": "D",
+            "text": "Philadelphia (Alaşehir)",
+            "explanation": "Philadelphia (Alaşehir), Yedi Kilise'den biridir."
+          },
+          {
+            "id": "E",
+            "text": "Thyateira (Akhisar)",
+            "explanation": "Thyateira (Akhisar), Yedi Kilise'den biridir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Yeni Ahit'te adı geçen ancak Yedi Kilise arasında olmayan yerleşim yerlerini şıklara koyarak çeldirici bir soru oluşturur."
+      },
+      {
+        "id": "aile-dinler-tarihi-006-t3",
+        "stem": "Aşağıda verilen antik kent ve günümüzdeki ili eşleştirmelerinden hangisi, Hristiyanlık inancındaki 'Yedi Kilise'den biri için yanlıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Efes - İzmir",
+            "explanation": "Efes Antik Kenti, Yedi Kilise'den biri olup günümüzde İzmir ilinin Selçuk ilçesi sınırları içerisinde yer almaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Smyrna - İzmir",
+            "explanation": "Smyrna Antik Kenti, Yedi Kilise'den biri olup günümüzde İzmir il merkezinde yer almaktadır. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Pergamon - Balıkesir",
+            "explanation": "Pergamon Antik Kenti (Bergama), Yedi Kilise'den biri olup günümüzde İzmir ilinin Bergama ilçesi sınırları içerisindedir. Balıkesir ile eşleştirilmesi yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Thyateira - Manisa",
+            "explanation": "Thyateira Antik Kenti (Akhisar), Yedi Kilise'den biri olup günümüzde Manisa ilinin Akhisar ilçesi sınırları içerisindedir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Laodikeia - Denizli",
+            "explanation": "Laodikeia Antik Kenti, Yedi Kilise'den biri olup günümüzde Denizli ilimizin sınırları içerisindedir. Bu eşleştirme doğrudur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Yedi Kilise'nin hem antik adını hem de modern ilini doğru bir şekilde eşleştirmeyi gerektirir, coğrafi bilgiyi sınar."
+      }
+    ]
+  },
+  {
+    "id": "aile-dinler-tarihi-007",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "İslam mimarisindeki hipostil plan tipi, çok sütunlu ve düz çatılı cami yapısını ifade eder.",
+    "ozet": "İslam mimarisinde cami plan tipleri önemli bir yer tutar. Özellikle **hipostil** plan tipi, çok sayıda sütunla desteklenen, geniş ve düz çatılı ibadet mekanlarını tanımlar. Bu tip camiler, cemaatin toplu ibadetini kolaylaştırmak amacıyla geniş alanlar sunar ve genellikle erken İslam döneminde yaygın olarak kullanılmıştır. **Mihrap** kıbleyi gösterirken, **minber** hutbelerin okunduğu yerdir. Bu temel mimari ögeler, camilerin işlevselliğini ve estetiğini belirleyen unsurlardır.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-006",
+        "stem": "İslam mimarisinde çok sütunlu ve düz çatılı cami plan tipini tanımlamak için kullanılan \"Hipostil\" kavramı neyi ifade eder?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kubbeli cami",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Sütunlu cami",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "C",
+            "text": "Ahşap cami",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Taş cami",
+            "explanation": "Cevap anahtarına göre doğru şık B. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "B",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-007-t1",
+        "stem": "Aşağıdakilerden hangisi İslam mimarisindeki hipostil plan tipinin belirleyici özelliklerinden biri DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Çok sayıda sütunla desteklenmesi",
+            "explanation": "Hipostil plan tipinin temel özelliklerinden biri çok sayıda sütunla desteklenmesidir."
+          },
+          {
+            "id": "B",
+            "text": "Geniş ve düz bir çatıya sahip olması",
+            "explanation": "Hipostil plan tipinin bir diğer belirleyici özelliği geniş ve düz bir çatıya sahip olmasıdır."
+          },
+          {
+            "id": "C",
+            "text": "Cemaatin toplu ibadetine uygun geniş bir alan sunması",
+            "explanation": "Hipostil camiler, geniş alanlarıyla cemaatin toplu ibadetini kolaylaştırır."
+          },
+          {
+            "id": "D",
+            "text": "Merkezinde büyük bir ana kubbe bulunması",
+            "explanation": "Hipostil plan tipi düz çatılıdır ve merkezinde büyük bir ana kubbe bulunması, merkezi kubbeli camilerin özelliğidir, hipostil camilerin değil."
+          },
+          {
+            "id": "E",
+            "text": "Genellikle erken İslam döneminde yaygın olarak kullanılması",
+            "explanation": "Hipostil plan tipi, erken İslam döneminde yaygın olarak kullanılmış bir mimari yaklaşımdır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Hipostil camilerin aksine, merkezi kubbeli camilerde ana kubbe bulunur; bu ayrım dikkatten kaçabilir."
+      },
+      {
+        "id": "aile-dinler-tarihi-007-t2",
+        "stem": "İslam mimarisinde bir caminin kıble yönünü gösteren ve imamın namaz kıldırdığı nişe ne ad verilir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Minber",
+            "explanation": "Minber, Cuma ve bayram namazlarında hatibin hutbe okuduğu merdivenli mimari öğedir."
+          },
+          {
+            "id": "B",
+            "text": "Müezzin mahfili",
+            "explanation": "Müezzin mahfili, müezzinlerin görevlerini yerine getirdiği yerdir."
+          },
+          {
+            "id": "C",
+            "text": "Şadırvan",
+            "explanation": "Şadırvan, cami avlularında abdest almak için yapılan su tesisidir."
+          },
+          {
+            "id": "D",
+            "text": "Son cemaat yeri",
+            "explanation": "Son cemaat yeri, camiye geç gelenlerin veya yer bulamayanların namaz kıldığı, ana ibadet alanının dışındaki bölümdür."
+          },
+          {
+            "id": "E",
+            "text": "Mihrap",
+            "explanation": "Mihrap, camilerde kıble yönünü gösteren ve imamın namaz kıldırdığı niştir."
+          }
+        ],
+        "correct": "E",
+        "trick": "Mihrap ve minber terimleri birbirine karıştırılabilir, ancak işlevleri farklıdır."
+      },
+      {
+        "id": "aile-dinler-tarihi-007-t3",
+        "stem": "Aşağıdaki eşleştirmelerden hangisi doğru bir tanım içermektedir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hipostil: İslam mimarisinde çok sütunlu ve düz çatılı cami plan tipini ifade eden bir kavram.",
+            "explanation": "Hipostil, İslam mimarisinde çok sütunlu ve düz çatılı cami plan tipini ifade eden doğru bir tanımdır."
+          },
+          {
+            "id": "B",
+            "text": "Mihrap: Camilerde Cuma ve bayram namazlarında hutbe okunan yer.",
+            "explanation": "Mihrap, camilerde kıble yönünü gösteren ve imamın namaz kıldırdığı niştir. Hutbe okunan yer minberdir."
+          },
+          {
+            "id": "C",
+            "text": "Minber: Camilerde kıble yönünü gösteren ve imamın namaz kıldırdığı niş.",
+            "explanation": "Minber, camilerde Cuma ve bayram namazlarında hutbe okunan yerdir. Kıble yönünü gösteren niş mihraptır."
+          },
+          {
+            "id": "D",
+            "text": "Müezzin mahfili: Caminin ana ibadet alanında, cemaatin oturduğu bölüm.",
+            "explanation": "Müezzin mahfili, müezzinlerin namaz sırasında görevlerini yerine getirdiği yerdir. Cemaatin oturduğu bölüm genellikle saftır."
+          },
+          {
+            "id": "E",
+            "text": "Hutbe: İmamın namaz kıldırdığı özel alan.",
+            "explanation": "Hutbe, Cuma ve bayram namazlarında minberde okunan konuşmadır. İmamın namaz kıldırdığı özel alan mihraptır."
+          }
+        ],
+        "correct": "A",
+        "trick": "Mimari terimlerin tanımları birbirine yakın olduğu için, doğru eşleştirmeyi bulmak dikkat gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "aile-dinler-tarihi-008",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "Roma İmparatorluğu'nda Hristiyanlığın resmî din haline gelme süreciyle ilgili temel bilgileri bilmek gerekmektedir.",
+    "ozet": "Roma İmparatorluğu'nda Hristiyanlığın yükselişi önemli dönüm noktalarına sahiptir. İlk olarak, MS 313 yılında **Milano Fermanı** ile Hristiyanlık da dahil olmak üzere tüm dinlere özgürlük tanınmıştır. Ancak Hristiyanlığı imparatorluğun resmî dini haline getiren ve pagan inançlarını yasaklayan imparator **Büyük Theodosius** olmuştur. Bu bilgileri bilmek, Hristiyanlığın Roma İmparatorluğu'ndaki statüsüyle ilgili soruları doğru yanıtlamanızı sağlar.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-017",
+        "stem": "Roma İmparatorluğu'nda pagan inancını yasaklayarak Hristiyanlığı resmi din haline getiren imparator kimdir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Konstantin",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Justinianus",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Augustus",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Büyük Theodosius",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-008-t1",
+        "stem": "Hristiyanlık tarihinde bir dönüm noktası olan Milano Fermanı, Roma İmparatorluğu'nda hangi tarihte ve hangi önemli kararı içerecek şekilde yayımlanmıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "MS 380 yılında, Hristiyanlığı resmî din olarak ilan etmiştir.",
+            "explanation": "Milano Fermanı, Hristiyanlığı resmî din olarak ilan etmemiştir. Bu, daha sonra Büyük Theodosius tarafından yapılmıştır."
+          },
+          {
+            "id": "B",
+            "text": "MS 313 yılında, Hristiyanlara yönelik zulümleri durdurmuş ve ibadet özgürlüğü tanımıştır.",
+            "explanation": "Milano Fermanı, MS 313 yılında yayımlanmış ve Hristiyanlık da dahil olmak üzere tüm dinlere özgürlük tanıyarak ibadet özgürlüğünü getirmiştir. Bu doğru cevaptır."
+          },
+          {
+            "id": "C",
+            "text": "MS 325 yılında, İznik Konsili'ni toplayarak Hristiyan dogmalarını belirlemiştir.",
+            "explanation": "İznik Konsili MS 325 yılında toplanmış olsa da, Milano Fermanı bu konsili toplamamış, daha çok din özgürlüğünü ele almıştır."
+          },
+          {
+            "id": "D",
+            "text": "MS 395 yılında, Roma İmparatorluğu'nu Doğu ve Batı olarak ikiye ayırmıştır.",
+            "explanation": "Roma İmparatorluğu'nun ikiye ayrılması MS 395 yılında gerçekleşmiştir, ancak bu olay Milano Fermanı ile ilgili değildir."
+          },
+          {
+            "id": "E",
+            "text": "MS 476 yılında, Batı Roma İmparatorluğu'nun yıkılışını ilan etmiştir.",
+            "explanation": "Batı Roma İmparatorluğu'nun yıkılışı MS 476 yılında gerçekleşmiştir ve Milano Fermanı ile doğrudan bir ilişkisi yoktur."
+          }
+        ],
+        "correct": "B",
+        "trick": "Milano Fermanı'nın Hristiyanlığı resmî din ilan ettiği yanılgısına düşülebilir, oysa sadece din özgürlüğü getirmiştir."
+      },
+      {
+        "id": "aile-dinler-tarihi-008-t2",
+        "stem": "Aşağıdakilerden hangisi, Roma İmparatorluğu'nda Hristiyanlığın resmî din hâline gelmesi ve dinî özgürlüklerin tanınması süreçleriyle ilgili YANLIŞ bir bilgidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Milano Fermanı, Hristiyanlık da dâhil olmak üzere tüm dinlere özgürlük tanımıştır.",
+            "explanation": "Bu ifade doğrudur. Milano Fermanı, tüm dinlere özgürlük tanımıştır."
+          },
+          {
+            "id": "B",
+            "text": "Büyük Theodosius, Hristiyanlığı Roma İmparatorluğu'nun resmî dini yapmıştır.",
+            "explanation": "Bu ifade doğrudur. Büyük Theodosius, Hristiyanlığı resmî din haline getirmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Milano Fermanı, İmparator I. Constantinus tarafından tek başına ilan edilmiştir.",
+            "explanation": "Bu ifade yanlıştır. Milano Fermanı, Roma İmparatorluğu'nun batı ve doğu yöneticileri Licinius ve I. Constantinus tarafından imzalanmıştır, yani tek başına ilan edilmemiştir. Bu doğru cevaptır."
+          },
+          {
+            "id": "D",
+            "text": "Milano Fermanı, MS 313 yılında yayımlanmıştır.",
+            "explanation": "Bu ifade doğrudur. Milano Fermanı MS 313 yılında yayımlanmıştır."
+          },
+          {
+            "id": "E",
+            "text": "Büyük Theodosius, pagan inancını yasaklamıştır.",
+            "explanation": "Bu ifade doğrudur. Büyük Theodosius, pagan inancını yasaklayarak Hristiyanlığı resmî din yapmıştır."
+          }
+        ],
+        "correct": "C",
+        "trick": "Milano Fermanı'nın sadece Constantinus tarafından çıkarıldığı yanılgısına düşülebilir."
+      },
+      {
+        "id": "aile-dinler-tarihi-008-t3",
+        "stem": "Roma İmparatorluğu'nda Hristiyanlığın dinî statüsünde meydana gelen aşağıdaki gelişmelerin kronolojik sıralaması hangi seçenekte doğru verilmiştir?\nI. Hristiyanlığın tüm dinlerle eşit statüde özgürce ibadet etme hakkı kazanması\nII. Hristiyanlığın Roma İmparatorluğu'nun resmî dini ilan edilmesi\nIII. Pagan inançlarının yasaklanması",
+        "choices": [
+          {
+            "id": "A",
+            "text": "II - I - III",
+            "explanation": "Hristiyanlık, resmî din ilan edilmeden önce ibadet özgürlüğü kazanmıştır, bu nedenle bu sıralama yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "III - I - II",
+            "explanation": "Pagan inançları, Hristiyanlık resmî din ilan edildikten sonra yasaklanmıştır, bu nedenle bu sıralama yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "I - III - II",
+            "explanation": "Pagan inançları, Hristiyanlık resmî din ilan edildikten sonra yasaklanmıştır, bu nedenle bu sıralama yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "I - II - III",
+            "explanation": "Bu sıralama doğrudur. Önce Milano Fermanı ile din özgürlüğü (I), ardından Büyük Theodosius ile Hristiyanlığın resmî din ilanı (II) ve paganizmin yasaklanması (III) gelmiştir."
+          },
+          {
+            "id": "E",
+            "text": "II - III - I",
+            "explanation": "Hristiyanlık, resmî din ilan edilmeden önce ibadet özgürlüğü kazanmıştır, bu nedenle bu sıralama yanlıştır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Milano Fermanı ile resmî din ilanı arasındaki farkı gözden kaçırmak, kronolojik sıralamayı karıştırmaya neden olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-dinler-tarihi-009",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "Mescid-i Aksa'nın İslam dini için kutsal bir mekan olduğunu bilmek.",
+    "ozet": "Anadolu, tarih boyunca farklı inançlara ev sahipliği yapmış, bu da onu inanç turizmi açısından zengin bir coğrafya yapmıştır. Dinler, **ilahi** veya **beşerî**, **monoteist** veya **politeist** gibi farklı şekillerde sınıflandırılabilir. Erken inanç biçimleri arasında **Animizm**, **Totemizm** ve **Şamanizm** gibi uygulamalar yer alır. İslamiyet öncesi Türklerde **Gök Tanrı İnancı** yaygındı. Üç semavi din olan Yahudilik, Hristiyanlık ve İslam'ın kendine özgü kutsal mekanları, peygamberleri ve kutsal kitapları vardır. Özellikle **Kudüs**, üç semavi din için de ortak kutsallıklar barındırır. Örneğin, **Mescid-i Aksa** İslamiyet için büyük bir öneme sahiptir.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-037",
+        "stem": "Kudüs'te bulunan Mescid-i Aksa, aşağıdaki dinlerden hangisi için kutsal kabul edilmektedir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "İslam",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Hristiyanlık",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Yahudilik",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Budizm",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-009-t1",
+        "stem": "Aşağıdakilerden hangisi, Yahudilik, Hristiyanlık ve İslam dinlerinin üçü tarafından da kutsal kabul edilen bir şehir değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Kudüs",
+            "explanation": "Kudüs, Yahudilik, Hristiyanlık ve İslam dinleri için kutsal kabul edilen bir şehirdir. Bu bilgi ders notunda 'Kudüs'ün üç semavi din için ortak kutsallıklar barındırdığı' şeklinde ifade edilmektedir."
+          },
+          {
+            "id": "B",
+            "text": "Şanlıurfa",
+            "explanation": "Şanlıurfa, Hz. İbrahim geleneği nedeniyle üç semavi din tarafından da önemli kabul edilen bir şehirdir. Ders notunda 'Şanlıurfa: Hz. İbrahim üç din tarafından da kabul edilir → şehir üç dinin ortak hafızasıdır' şeklinde belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Nazareth",
+            "explanation": "Nazareth, Hristiyanlık ve İslam için kutsal kabul edilen bir şehirdir, Hz. İsa'nın çocukluğunun geçtiği yer olarak bilinir. Yahudilik için de tarihi önemi vardır."
+          },
+          {
+            "id": "D",
+            "text": "Hebron",
+            "explanation": "Hebron (El Halil), Hz. İbrahim'in mezarının bulunduğu yer olarak üç semavi din için de kutsal kabul edilir."
+          },
+          {
+            "id": "E",
+            "text": "Mekke",
+            "explanation": "Mekke, İslam dini için kutsal kabul edilen bir şehir olup, Yahudilik ve Hristiyanlık için kutsal değildir. Bu nedenle doğru cevaptır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Üç din için de kutsal olan şehirleri bilmek yerine, sadece bir din için kutsal olanı işaretlemeyi gerektiren bir olumsuz soru kalıbıdır."
+      },
+      {
+        "id": "aile-dinler-tarihi-009-t2",
+        "stem": "Aşağıdaki ifadelerden hangisi Mescid-i Aksa ile ilgili olarak **yanlıştır**?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hristiyanlıkta vaftiz ayinlerinin yapıldığı başlıca mekânlardan biridir.",
+            "explanation": "Mescid-i Aksa, İslam dini için kutsal bir mekandır ve Hristiyanlıkta vaftiz ayinleriyle doğrudan bir bağlantısı yoktur. Vaftiz, Hristiyanlıkta dine giriş ayinidir ve genellikle kiliselerde yapılır. Bu ifade yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "İslam dininin en kutsal üç mescidinden biridir.",
+            "explanation": "Ders notunda 'Mescid-i Aksa, Mekke'deki Mescid-i Haram ve Medine'deki Mescid-i Nebevi ile birlikte İslam'ın en kutsal üç mescidinden biridir' bilgisi yer almaktadır, bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "İslam'ın ilk kıblesidir.",
+            "explanation": "Ders notunda 'Mescid-i Aksa, İslam'ın ilk kıblesidir' bilgisi yer almaktadır, bu ifade doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Hz. Muhammed'in Miraç'a yükseldiği yer olarak kabul edilir.",
+            "explanation": "Ders notunda 'Hz. Muhammed'in Miraç'a yükseldiği yer olarak kabul edilir' bilgisi yer almaktadır, bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Yahudilik için kutsal kabul edilen Ağlama Duvarı'nın hemen yanındadır.",
+            "explanation": "Mescid-i Aksa, Yahudilik için kutsal kabul edilen Ağlama Duvarı (Batı Duvarı) ile aynı kutsal mekân kompleksinde yer almaktadır. Bu bilgi ders notunda doğrudan geçmese de, Kudüs'ün ortak kutsallığı ve Ağlama Duvarı'nın Süleyman Mabedi'nden kalan tek duvar olduğu bilgileriyle çıkarılabilir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Mescid-i Aksa'nın İslam'daki önemini biliyor olmak, diğer dinlerle olan bağlantısını yanlış kurmaya yol açabilir."
+      },
+      {
+        "id": "aile-dinler-tarihi-009-t3",
+        "stem": "Aşağıdakilerden hangisi, İslam dini için kutsal kabul edilen mekânlardan biridir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Meryem Ana Evi",
+            "explanation": "Meryem Ana Evi, Hristiyanlık için kutsal kabul edilen bir hac yeridir. Ders notunda 'Vatikan tarafından hac yeri olarak kabul edilmiştir' bilgisi yer almaktadır."
+          },
+          {
+            "id": "B",
+            "text": "Mescid-i Aksa",
+            "explanation": "Mescid-i Aksa, İslam dini için kutsal kabul edilen bir mekândır. Ders notunda 'Kudüs, Mescid-i Aksa (Kudüs) — İslam dini için kutsal kabul edilmektedir' bilgisi yer almaktadır."
+          },
+          {
+            "id": "C",
+            "text": "Altın Tapınak",
+            "explanation": "Altın Tapınak, Sihizm dini için kutsal kabul edilen bir mekândır. Ders notunda 'Sihizm: Kutsal mekân Altın Tapınak (Amritsar)' bilgisi yer almaktadır."
+          },
+          {
+            "id": "D",
+            "text": "Sinagog",
+            "explanation": "Sinagog, Yahudilikte ibadethane olarak kullanılan bir mekândır. Ders notunda 'Sinagog (havra): İbadethane' bilgisi yer almaktadır."
+          },
+          {
+            "id": "E",
+            "text": "Torii",
+            "explanation": "Torii, Şintoizm tapınaklarının girişindeki kapıya verilen addır. Ders notunda 'Tapınaklarının girişindeki kapıya torii denir' bilgisi yer almaktadır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Farklı dinlere ait kutsal mekan isimlerinin birbirine karıştırılmasına neden olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-dinler-tarihi-010",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "İslamiyet öncesi Türk topluluklarının baskın inanç sistemi Gök Tanrı İnancı'dır.",
+    "ozet": "İslamiyet öncesi Türk topluluklarının inanç dünyası oldukça zengindi. Bu dönemde en yaygın ve temel inanç sistemi **Gök Tanrı İnancı** idi. Bunun yanı sıra, doğadaki her varlığın ruhu olduğuna inanılan **Animizm**, ruhlarla iletişim kurabilen **şamanlar** aracılığıyla yapılan uygulamalar bütünü olan **Şamanizm** ve ölmüş ataların ruhlarına saygı duyma esasına dayanan **Atalar kültü** de önemli yer tutuyordu. Bu inanç sistemleri, Türklerin yaşam tarzlarını, geleneklerini ve dünya görüşlerini derinden etkilemiştir.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-039",
+        "stem": "İslamiyet’in kabulünden önce Türk topluluklarında yaygın olan inanç sistemi aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Şamanizm",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Zerdüştlük",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Maniheizm",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Gök Tanrı İnancı",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-010-t1",
+        "stem": "İslamiyet öncesi Türk topluluklarının temel inanç sistemini ve bu sistemle birlikte görülen diğer inanç biçimlerini doğru şekilde eşleştiren seçenek aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Gök Tanrı İnancı - Totemizm - Fetişizm",
+            "explanation": "Gök Tanrı İnancı doğru olmakla birlikte, Totemizm ve Fetişizm İslamiyet öncesi Türk inanç sisteminde temel unsurlar olarak belirtilmemiştir."
+          },
+          {
+            "id": "B",
+            "text": "Şamanizm - Natürizm - Ana Tanrıça kültü",
+            "explanation": "Şamanizm ve Natürizm Türk inançlarında görülse de, Ana Tanrıça kültü Anadolu'nun Neolitik dönem inançlarıyla daha çok ilişkilidir ve Türklerin temel inancı değildir."
+          },
+          {
+            "id": "C",
+            "text": "Gök Tanrı İnancı - Atalar kültü - Şamanizm",
+            "explanation": "Ders notunda açıkça belirtildiği üzere, İslamiyet öncesi Türk topluluklarında Gök Tanrı İnancı temel inanç sistemidir ve bunun yanında atalar kültü ile şamanizm de önemli yer tutmuştur. Bu seçenek, ders notundaki bilgiyi tam olarak yansıtmaktadır."
+          },
+          {
+            "id": "D",
+            "text": "Maniheizm - Budizm - Zerdüştlük",
+            "explanation": "Maniheizm, Budizm ve Zerdüştlük gibi dinler Türk toplulukları arasında yayılmış olsa da, İslamiyet öncesi dönemin temel ve baskın inanç sistemi bu üçü değildir; bunlar sonradan benimsenen veya etkileşimde bulunulan inançlardır. Özellikle Maniheizm ve Budizm Uygur Türkleri gibi bazı Türk topluluklarında yaygınlaşmıştır ancak tüm Türk topluluklarının ortak temel inancı değildir."
+          },
+          {
+            "id": "E",
+            "text": "Henoteizm - Düalizm - Animizm",
+            "explanation": "Animizm Türk inançlarında yer almakla birlikte, Henoteizm ve Düalizm tanrı anlayışı sınıflandırmaları olup, İslamiyet öncesi Türk inanç sisteminin genel tanımı değildir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Verilen şıklar arasında, Türklerin genel inanç sistemini yansıtan temel inançlar ile sonradan benimsenen veya etkileşimde bulunulan inançları ayırt etmek önemlidir."
+      },
+      {
+        "id": "aile-dinler-tarihi-010-t2",
+        "stem": "Aşağıdakilerden hangisi, İslamiyet öncesi Türk topluluklarının inanç sistemlerinin bir özelliği DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Şamanların ruhlarla iletişim kurduğuna inanılması",
+            "explanation": "Ders notunda Şamanizm'in ruhlarla iletişim kurabilen şamanlar aracılığıyla yapılan uygulamalar bütünü olduğu belirtilmiştir. Bu, Türk inanç sistemlerinin bir özelliğidir."
+          },
+          {
+            "id": "B",
+            "text": "Ölmüş ataların ruhlarına saygı gösterilmesi",
+            "explanation": "Ders notunda 'atalar kültü'nün eski Türk inanç sisteminde önemli yer tuttuğu ifade edilmiştir. Bu, Türk inanç sistemlerinin bir özelliğidir."
+          },
+          {
+            "id": "C",
+            "text": "Doğadaki her varlığın bir ruhu olduğuna inanılması",
+            "explanation": "Ders notunda 'Animizm'in doğadaki her varlığın ruhu olduğu inancı olduğu ve Türk inançlarında görüldüğü belirtilmiştir. Bu, Türk inanç sistemlerinin bir özelliğidir."
+          },
+          {
+            "id": "D",
+            "text": "Tanrı anlayışının politeist (çok tanrılı) bir yapıda olması",
+            "explanation": "İslamiyet öncesi Türk topluluklarının temel inancı Gök Tanrı İnancı'dır ve bu inanç monoteist (tek tanrılı) bir yapıya sahiptir. Politeist (çok tanrılı) yapı, Gök Tanrı İnancı için geçerli bir özellik değildir."
+          },
+          {
+            "id": "E",
+            "text": "Gök Tanrı'nın evrenin yaratıcısı ve yöneticisi olarak kabul edilmesi",
+            "explanation": "Ders notunda Gök Tanrı İnancı'nın İslamiyet öncesi Türk topluluklarının yaygın inanç sistemi olduğu ve 'Gök Tanrı' isminden de anlaşılacağı üzere tek bir yüce yaratıcıya işaret ettiği belirtilmiştir. Bu, Türk inanç sistemlerinin bir özelliğidir."
+          }
+        ],
+        "correct": "D",
+        "trick": "Gök Tanrı İnancı'nın tek tanrılı bir yapıya sahip olduğunu gözden kaçırarak, 'eski' inançları otomatik olarak çok tanrılı kabul etme yanılgısına düşülebilir."
+      },
+      {
+        "id": "aile-dinler-tarihi-010-t3",
+        "stem": "İslamiyet öncesi Türk topluluklarının inanç sisteminde yer alan unsurların önem sırasına göre doğru dizilişi aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Atalar kültü > Şamanizm > Gök Tanrı İnancı",
+            "explanation": "Ders notuna göre temel inanç Gök Tanrı İnancı'dır, atalar kültü ve şamanizm ise yanında yer almaktadır. Bu sıralama yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Şamanizm > Gök Tanrı İnancı > Atalar kültü",
+            "explanation": "Ders notuna göre temel inanç Gök Tanrı İnancı'dır. Şamanizm ve atalar kültü ise önemli yer tutmakla birlikte, Gök Tanrı İnancı'ndan daha öncelikli değildir. Bu sıralama yanlıştır."
+          },
+          {
+            "id": "C",
+            "text": "Gök Tanrı İnancı > Animizm > Natürizm",
+            "explanation": "Animizm ve Natürizm Türk inançlarında görülse de, ders notunda Gök Tanrı İnancı ile birlikte özellikle Atalar kültü ve Şamanizm'in 'önemli yer tuttuğu' vurgulanmıştır. Bu seçenek eksik bir sıralamadır."
+          },
+          {
+            "id": "D",
+            "text": "Maniheizm > Budizm > Gök Tanrı İnancı",
+            "explanation": "Maniheizm ve Budizm, bazı Türk toplulukları tarafından benimsenmiş dinler olsa da, İslamiyet öncesi tüm Türk topluluklarının temel inanç sistemi Gök Tanrı İnancı'dır. Bu sıralama dönemsel ve coğrafi genellemeler açısından yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "Gök Tanrı İnancı > Atalar kültü ve Şamanizm (eşit derecede önemli)",
+            "explanation": "Ders notunda 'Gök Tanrı İnancı'nın yanında atalar kültü ve şamanizm de eski Türk inanç sisteminde önemli yer tutmuştur' ifadesi, Gök Tanrı İnancı'nın temel, diğer ikisinin ise önemli tamamlayıcı unsurlar olduğunu göstermektedir. Bu sıralama ders notundaki bilgiyi doğru yansıtmaktadır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Ders notundaki 'yaygın olan inanç sistemi' ve 'önemli yer tutmuştur' ifadeleri arasındaki farkı gözden kaçırarak, tüm inanç biçimlerini aynı önem seviyesinde değerlendirme hatasına düşülebilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-dinler-tarihi-011",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "Hristiyanlık inancındaki kanonik İncil yazarlarını ve apokrif metinleri ayırt etme bilgisidir.",
+    "ozet": "Hristiyanlık, **Hz. İsa**'nın öğretileri üzerine kuruludur ve kutsal kitabı **İncil (Yeni Ahit)**'tir. Hristiyanlıkta kabul edilen dört ana İncil yazarı **Matta, Markos, Luka ve Yuhanna**'dır. Bu dört İncil, kilise tarafından kanonik (resmi ve kutsal) kabul edilir. Ancak, **Barnabas İncili** gibi bazı metinler, kilise tarafından apokrif (kutsal kabul edilmeyen) olarak değerlendirilir. Bu ayrımı bilmek, Hristiyanlık tarihi ve inançları hakkında temel bir anlayış sağlar.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-055",
+        "stem": "Aşağıdakilerden hangisi, Hristiyanlık inancında kabul edilen dört kanonik İncil yazarından biri değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Matta",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Markos",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Barnabas",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Luka",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-011-t1",
+        "stem": "Aşağıdakilerden hangisi, Hristiyanlıkta kanonik olarak kabul edilen dört İncil'den biri değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Petrus",
+            "explanation": "Petrus İncili, Hristiyanlıkta kanonik kabul edilen dört İncil arasında yer almaz; apokrif bir metin olarak değerlendirilir."
+          },
+          {
+            "id": "B",
+            "text": "Yuhanna",
+            "explanation": "Yuhanna İncili, Hristiyanlıkta kanonik kabul edilen dört İncil'den biridir."
+          },
+          {
+            "id": "C",
+            "text": "Luka",
+            "explanation": "Luka İncili, Hristiyanlıkta kanonik kabul edilen dört İncil'den biridir."
+          },
+          {
+            "id": "D",
+            "text": "Matta",
+            "explanation": "Matta İncili, Hristiyanlıkta kanonik kabul edilen dört İncil'den biridir."
+          },
+          {
+            "id": "E",
+            "text": "Markos",
+            "explanation": "Markos İncili, Hristiyanlıkta kanonik kabul edilen dört İncil'den biridir."
+          }
+        ],
+        "correct": "A",
+        "trick": "Kanonik İncillerin isimlerine benzerlik gösteren apokrif isimlerle çeldirici oluşturulmuştur."
+      },
+      {
+        "id": "aile-dinler-tarihi-011-t2",
+        "stem": "Hristiyanlık inancına göre, kilise tarafından kutsal metin olarak kabul edilmeyen, ancak farklı gruplarca okunabilen apokrif İncil'e en iyi örnek aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Matta İncili",
+            "explanation": "Matta İncili, Hristiyanlıkta kanonik (kutsal ve resmi) kabul edilen dört İncil'den biridir, apokrif değildir."
+          },
+          {
+            "id": "B",
+            "text": "Barnabas İncili",
+            "explanation": "Barnabas İncili, kilise tarafından kutsal kabul edilmeyen, yani apokrif olarak değerlendirilen bir metindir. Ders notunda açıkça belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Markos İncili",
+            "explanation": "Markos İncili, Hristiyanlıkta kanonik (kutsal ve resmi) kabul edilen dört İncil'den biridir, apokrif değildir."
+          },
+          {
+            "id": "D",
+            "text": "Luka İncili",
+            "explanation": "Luka İncili, Hristiyanlıkta kanonik (kutsal ve resmi) kabul edilen dört İncil'den biridir, apokrif değildir."
+          },
+          {
+            "id": "E",
+            "text": "Yuhanna İncili",
+            "explanation": "Yuhanna İncili, Hristiyanlıkta kanonik (kutsal ve resmi) kabul edilen dört İncil'den biridir, apokrif değildir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Kanonik İncillerin isimleri arasına doğru cevabı yerleştirerek çeldirici oluşturulmuştur."
+      },
+      {
+        "id": "aile-dinler-tarihi-011-t3",
+        "stem": "Aşağıdaki ifadelerden hangisi Hristiyanlık inancındaki İnciller ve kutsal metinlerle ilgili YANLIŞ bir bilgidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hristiyanlar, Eski Ahit'i de kutsal sayarlar.",
+            "explanation": "Ders notuna göre, Hristiyanlar Yeni Ahit'in yanı sıra Eski Ahit'i de kutsal sayarlar. Bu ifade doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Matta, Markos, Luka ve Yuhanna kanonik İncillerdir.",
+            "explanation": "Ders notuna göre Matta, Markos, Luka ve Yuhanna, Hristiyanlıkta kanonik (resmi ve kutsal) kabul edilen dört İncil'dir. Bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Barnabas İncili, Hristiyanlıkta kanonik olarak kabul edilen İncillerden biridir.",
+            "explanation": "Ders notunda Barnabas İncili'nin kanonik İncillerden farklı olarak apokrif (kutsal kabul edilmeyen) bir metin olduğu açıkça belirtilmiştir. Bu ifade yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "İncil, Hristiyanlık inancının kutsal kitabıdır.",
+            "explanation": "Ders notuna göre İncil (Yeni Ahit), Hristiyanlık inancının kutsal kitabıdır. Bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Yeni Ahit, Hristiyanlık için temel kutsal metinleri içerir.",
+            "explanation": "Ders notuna göre Yeni Ahit, Hristiyanlık için temel kutsal metinleri (İncilleri) içerir. Bu ifade doğrudur."
+          }
+        ],
+        "correct": "C",
+        "trick": "Doğru bilgilerin arasına yanlış bir ifade yerleştirilerek 'yanlış olanı bulma' formatında bir soru oluşturulmuştur."
+      }
+    ]
+  },
+  {
+    "id": "aile-dinler-tarihi-012",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "Aynı din içerisindeki farklı yorum ve anlayışların sonucunda ortaya çıkan kollara verilen ismi bilmek.",
+    "ozet": "Din, kutsal bir varlığa inanç etrafında şekillenen bir sistemdir. Dinler, kaynağına (ilahi/beşerî), tanrı anlayışına (monoteist, politeist, düalist, henoteist) ve yayılma alanına (evrensel/millî) göre sınıflandırılabilir. Aynı dinin içinde, temel inançlarda birleşmekle birlikte ibadet şekilleri, yorumlar ve uygulamalar açısından farklılık gösteren kollara **mezhep** denir. Mezhepler, bir dinin zenginliğini ve çeşitliliğini gösterir. Bu ayrımı bilmek, dinler tarihi ve inanç turizmi sorularını doğru yanıtlamanız için kritik öneme sahiptir.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-056",
+        "stem": "Aynı din içerisindeki görüş, yorum ve anlayış farklılıkları sonucunda ortaya çıkan kollara ne ad verilir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Tarikat",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Cemaat",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Mezhep",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Fırka",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-012-t1",
+        "stem": "Aşağıdakilerden hangisi, aynı dinin temel inançları etrafında farklı yorum ve uygulamalarla oluşan kolları ifade eden terimdir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Tarikat",
+            "explanation": "Tarikat, genellikle tasavvufi bir yol veya manevi bir cemaati ifade eder, din içindeki genel bir yorum farklılığı kolunu değil."
+          },
+          {
+            "id": "B",
+            "text": "Ekümenizm",
+            "explanation": "Ekümenizm, Hristiyan mezhepleri arasındaki birliği sağlamayı amaçlayan harekettir, din içindeki farklı kolları tanımlayan bir terim değildir."
+          },
+          {
+            "id": "C",
+            "text": "Kült",
+            "explanation": "Kült, genellikle belirli bir tanrıya, kişiye veya nesneye yönelik tapınma veya aşırı bağlılığı ifade eder, din içindeki genel bir yorum farklılığı kolunu tanımlamaz."
+          },
+          {
+            "id": "D",
+            "text": "Mezhep",
+            "explanation": "Mezhep, ders notunda da belirtildiği gibi, aynı din içerisindeki görüş, yorum ve anlayış farklılıkları sonucunda ortaya çıkan kollara verilen addır."
+          },
+          {
+            "id": "E",
+            "text": "Fırka",
+            "explanation": "Fırka, Arapça kökenli bir kelime olup 'bölüm, kısım' anlamına gelir ve bazen mezhep anlamında kullanılsa da, ders notunda doğrudan bu tanım için 'mezhep' terimi kullanılmıştır ve 'fırka' daha genel bir ayrışmayı ifade edebilirken, 'mezhep' dini yorum farklılığını vurgular."
+          }
+        ],
+        "correct": "D",
+        "trick": "Farklı terimlerin benzer anlamları olabileceği yanılgısına düşmek."
+      },
+      {
+        "id": "aile-dinler-tarihi-012-t2",
+        "stem": "Aşağıdakilerden hangisi, bir dinin kendi içindeki farklı yorum ve uygulamaları ifade eden bir kavram DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Mezhep",
+            "explanation": "Mezhep, aynı din içindeki farklı yorum ve anlayışları ifade eder, dolayısıyla sorunun cevabı değildir."
+          },
+          {
+            "id": "B",
+            "text": "Sünnilik",
+            "explanation": "Sünnilik, İslam dininin önemli bir mezhebidir, dolayısıyla bir dinin içindeki farklı yorumu ifade eder."
+          },
+          {
+            "id": "C",
+            "text": "Katoliklik",
+            "explanation": "Katoliklik, Hristiyanlık dininin önemli bir mezhebidir, dolayısıyla bir dinin içindeki farklı yorumu ifade eder."
+          },
+          {
+            "id": "D",
+            "text": "Protestanlık",
+            "explanation": "Protestanlık, Hristiyanlık dininin önemli bir mezhebidir, dolayısıyla bir dinin içindeki farklı yorumu ifade eder."
+          },
+          {
+            "id": "E",
+            "text": "Şamanizm",
+            "explanation": "Şamanizm, ders notunda da belirtildiği gibi, ruhlarla iletişim kurma sistemi olup 'bir din değil, bir uygulama sistemidir'. Dolayısıyla, bir dinin içindeki bir yorum farklılığı değildir."
+          }
+        ],
+        "correct": "E",
+        "trick": "Şamanizmin bir din değil, bir uygulama sistemi olduğu bilgisini gözden kaçırmak."
+      },
+      {
+        "id": "aile-dinler-tarihi-012-t3",
+        "stem": "Aşağıdaki din ve ilgili mezhep/yorum eşleştirmelerinden hangisi YANLIŞTIR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yahudilik - Sefarad",
+            "explanation": "Sefarad, Yahudiliğin bir mezhebi değil, İspanya kökenli etnik-kültürel bir koludur, dini bir yorum farklılığını değil, coğrafi ve kültürel bir ayrımı ifade eder. Bu nedenle eşleştirme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "İslam - Hanefilik",
+            "explanation": "Hanefilik, İslam dininin ameli (fıkhi) mezheplerinden biridir. Eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Hristiyanlık - Katoliklik",
+            "explanation": "Katoliklik, Hristiyanlık dininin önemli bir mezhebidir. Eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Hristiyanlık - Ortodoksluk",
+            "explanation": "Ortodoksluk, Hristiyanlık dininin önemli bir mezhebidir. Eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "İslam - Şiilik",
+            "explanation": "Şiilik, İslam dininin önemli bir siyasi/mezhepsel ayrımıdır. Eşleştirme doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Sefarad Yahudilerinin kültürel bir grup mu yoksa dini bir mezhep mi olduğunu karıştırmak."
+      }
+    ]
+  },
+  {
+    "id": "aile-dinler-tarihi-013",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "Orta Bizans Dönemi'nde Anadolu'daki Hristiyan sanatının ve yaşamının merkezi olan Kapadokya'nın önemini bilmek.",
+    "ozet": "Anadolu, Hristiyanlık tarihi boyunca önemli bir coğrafya olmuştur. Özellikle Orta Bizans Dönemi'nde **Kapadokya**, kaya kiliseleri ve mağara yerleşimleriyle Hristiyan sanatının ve manastır yaşamının kalbi olmuştur. Bu bölgedeki freskler, Hristiyan teolojisinin ve sanatsal ifadesinin en nitelikli örneklerini sunar. Ayrıca **Antakya**, ilk kilisenin kurulduğu ve 'Hristiyan' adının kullanıldığı yer olarak, **Efes** ise Meryem Ana Evi ve konsillerle öne çıkar. Bu bölgeler, Hristiyanlık inanç turizmi için kilit noktalardır.",
+    "kaynak": {
+      "examId": "cikmis-2025-subat",
+      "examTitle": "Çıkmış Sınav — 23 Şubat 2025 (MKS-1)",
+      "soru": {
+        "id": "cikmis-2025-subat-084",
+        "stem": "Orta Bizans Dönemi sanatında, kaya kiliselerinin içini süsleyen fresklerin en yoğun ve nitelikli örneklerinin görüldüğü bölge neresidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Efes",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Hierapolis",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Kapadokya",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "D",
+            "text": "Afrodisias",
+            "explanation": "Cevap anahtarına göre doğru şık C. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "C",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-013-t1",
+        "stem": "Hristiyanlık tarihinde 'Hristiyan' adının ilk kez kullanıldığı ve ilk kilisenin kurulduğu yer olarak bilinen Antakya'daki önemli yapı aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Meryem Ana Evi",
+            "explanation": "Meryem Ana Evi, Efes'te yer alır ve Hz. Meryem'in son yıllarını geçirdiğine inanılır, ilk kilise veya 'Hristiyan' adının kullanıldığı yer değildir."
+          },
+          {
+            "id": "B",
+            "text": "St. Pierre Kilisesi",
+            "explanation": "St. Pierre Kilisesi (Antakya), Hristiyanlık tarihinde 'Hristiyan' adının ilk kez kullanıldığı ve ilk kilisenin kurulduğu yer olarak kabul edilir. Bu bilgi, ders notunda da açıkça belirtilmiştir."
+          },
+          {
+            "id": "C",
+            "text": "Akdamar Kilisesi",
+            "explanation": "Akdamar Kilisesi, Van Gölü'nde bulunan Ermeni mimarisine ait önemli bir yapıdır, ancak 'Hristiyan' adının ilk kullanıldığı yerle ilgisi yoktur."
+          },
+          {
+            "id": "D",
+            "text": "Sümela Manastırı",
+            "explanation": "Sümela Manastırı, Trabzon'da kayaya oyulmuş bir Rum Ortodoks manastırıdır, ancak 'Hristiyan' adının ilk kullanıldığı yer değildir."
+          },
+          {
+            "id": "E",
+            "text": "Ayasofya",
+            "explanation": "Ayasofya, İstanbul'da bulunan ve Bizans İmparatorluğu'nun en büyük kiliselerinden biri olan önemli bir yapıdır, ancak ilk kilise değildir."
+          }
+        ],
+        "correct": "B",
+        "trick": "Öğrencinin, Hristiyanlık tarihindeki önemli olayların geçtiği yerleri ve bu yerlerle özdeşleşen yapıları doğru eşleştirememesi bu soruyu kaçırmasına neden olabilir."
+      },
+      {
+        "id": "aile-dinler-tarihi-013-t2",
+        "stem": "Aşağıdakilerden hangisi, Hristiyanlık inanç turizmi açısından Türkiye'deki 'Vahiy'de anılan Yedi Kilise' rotasında yer almaz?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Efes",
+            "explanation": "Efes, Vahiy'deki Yedi Kilise'den biridir."
+          },
+          {
+            "id": "B",
+            "text": "İzmir (Smyrna)",
+            "explanation": "İzmir (Smyrna), Vahiy'deki Yedi Kilise'den biridir."
+          },
+          {
+            "id": "C",
+            "text": "Antakya",
+            "explanation": "Antakya, ilk Hristiyan cemaatinin oluştuğu ve 'Hristiyan' adının ilk kullanıldığı yer olmasına rağmen, Vahiy'deki Yedi Kilise arasında yer almaz. Bu, ders notunda 'Yedi Kilise' listesinin dışında belirtilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Bergama (Pergamon)",
+            "explanation": "Bergama (Pergamon), Vahiy'deki Yedi Kilise'den biridir."
+          },
+          {
+            "id": "E",
+            "text": "Denizli (Laodikeia)",
+            "explanation": "Denizli (Laodikeia), Vahiy'deki Yedi Kilise'den biridir."
+          }
+        ],
+        "correct": "C",
+        "trick": "Öğrencinin, Hristiyanlık için önemli olan tüm Anadolu şehirlerinin 'Yedi Kilise' kapsamında olduğunu varsayması veya Antakya'nın Hristiyanlık tarihindeki genel önemini Yedi Kilise listesiyle karıştırması bu soruyu yanlış yanıtlamasına neden olabilir."
+      },
+      {
+        "id": "aile-dinler-tarihi-013-t3",
+        "stem": "Hristiyanlık tarihi ve inanç turizmi açısından Anadolu'da yer alan aşağıdaki merkezlerin önemi kronolojik olarak doğru sıralanmıştır?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I. Konsil'in toplandığı İznik → 'Hristiyan' adının ilk kez kullanıldığı Antakya → Aziz Nikolaos'un piskoposluk yaptığı Demre → Meryem Ana Evi'nin bulunduğu Efes",
+            "explanation": "Bu sıralama yanlıştır. 'Hristiyan' adının Antakya'da kullanılması ve ilk kilisenin kuruluşu Hristiyanlığın ilk dönemlerine dayanır. İznik Konsili (325) daha sonra gerçekleşmiştir."
+          },
+          {
+            "id": "B",
+            "text": "'Hristiyan' adının ilk kez kullanıldığı Antakya → I. Konsil'in toplandığı İznik → Aziz Nikolaos'un piskoposluk yaptığı Demre → Meryem Ana Evi'nin bulunduğu Efes",
+            "explanation": "Bu sıralama yanlıştır. Aziz Nikolaos'un yaşamı ve piskoposluk dönemi İznik Konsili'nden sonraki yüzyıllara denk gelirken, Meryem Ana Evi'nin önemi (Hz. Meryem'in son yılları) Hristiyanlığın en erken dönemlerine aittir. Antakya (ilk Hristiyan cemaati) en eski, ardından Efes (Hz. Meryem), sonra İznik (325 Konsil) ve son olarak Demre (Aziz Nikolaos 3.-4. yy) gelmelidir."
+          },
+          {
+            "id": "C",
+            "text": "Meryem Ana Evi'nin bulunduğu Efes → I. Konsil'in toplandığı İznik → 'Hristiyan' adının ilk kez kullanıldığı Antakya → Aziz Nikolaos'un piskoposluk yaptığı Demre",
+            "explanation": "Bu sıralama yanlıştır. Antakya'daki olaylar Hristiyanlığın en erken dönemlerindendir, Meryem Ana Evi'nin önemi de erken döneme ait olsa da Antakya'dan önce gelmez. İznik Konsili ve Aziz Nikolaos daha sonraki dönemlerdir."
+          },
+          {
+            "id": "D",
+            "text": "'Hristiyan' adının ilk kez kullanıldığı Antakya → Meryem Ana Evi'nin bulunduğu Efes → I. Konsil'in toplandığı İznik → Aziz Nikolaos'un piskoposluk yaptığı Demre",
+            "explanation": "'Hristiyan' adının ilk kez Antakya'da kullanılması ve ilk kilisenin kuruluşu (1. yüzyıl), Hz. Meryem'in Efes'te yaşadığına dair inanç (1. yüzyılın sonları), ardından I. İznik Konsili'nin toplanması (325 yılı) ve son olarak Aziz Nikolaos'un Demre'de piskoposluk yapması (3-4. yüzyıl) kronolojik olarak doğru bir sıralamayı temsil etmektedir. Bu, ders notundaki bilgilerle uyumludur."
+          },
+          {
+            "id": "E",
+            "text": "Aziz Nikolaos'un piskoposluk yaptığı Demre → 'Hristiyan' adının ilk kez kullanıldığı Antakya → Meryem Ana Evi'nin bulunduğu Efes → I. Konsil'in toplandığı İznik",
+            "explanation": "Bu sıralama yanlıştır. Aziz Nikolaos'un yaşamı, Antakya'daki ilk Hristiyan cemaatinin oluşumundan ve Efes'teki Meryem Ana Evi'nin öneminden çok daha sonradır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Öğrencinin, Hristiyanlık tarihindeki olayların kesin tarihlerini veya hangi olayın diğerinden önce gerçekleştiğini karıştırması, kronolojik sıralama sorularında yaygın bir tuzaktır."
+      }
+    ]
+  },
+  {
+    "id": "aile-dinler-tarihi-014",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "Milano Fermanı, Roma İmparatorluğu'nda Hristiyanlık dahil tüm dinlere özgürlük tanıyan önemli bir belgedir.",
+    "ozet": "Roma İmparatorluğu'nda Hristiyanlığın kaderini belirleyen önemli dönüm noktalarını bilmek, dinler tarihi sorularında başarı için kritik öneme sahiptir. Özellikle MS 313 yılında, İmparatorluğun batı ve doğu yöneticileri **Licinius** ve **I. Constantinus** tarafından imzalanan **Milano Fermanı**, Hristiyanlık da dahil olmak üzere tüm dinlere ibadet özgürlüğü tanımıştır. Bu ferman, Hristiyanlara yönelik zulmü sona erdirerek dinin yayılmasına zemin hazırlamıştır. Daha sonra, İmparator **Büyük Theodosius** döneminde Hristiyanlık resmi din haline gelmiştir. Bu iki temel belge, Hristiyanlığın Roma İmparatorluğu'ndaki statüsünü değiştirmiştir.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-005",
+        "stem": "Roma İmparatorluğu'nun batısına hükmeden Licinius ve doğusuna hükmeden I. Constantinus tarafından MS 313'te imzalanan ve Roma toplumundaki kişilerin Hristiyan ya da diğer dinlere mensup olmasını serbest kılan belge aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Venedik Fermanı",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "B",
+            "text": "Bologna Fermanı",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Roma Fermanı",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Milano Fermanı",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "E",
+            "text": "Cenova Fermanı",
+            "explanation": "Cevap anahtarına göre doğru şık D. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "D",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-014-t1",
+        "stem": "Hristiyanlığın Roma İmparatorluğu'ndaki yükselişiyle ilgili aşağıdaki gelişmelerden hangisi diğerlerinden daha sonra gerçekleşmiştir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Milano Fermanı'nın Licinius ve I. Constantinus tarafından imzalanması",
+            "explanation": "Milano Fermanı 313 yılında imzalanmıştır."
+          },
+          {
+            "id": "B",
+            "text": "Hristiyanlığın ilk kez Antakya'da 'Hristiyan' adıyla anılması",
+            "explanation": "Bu olay Hristiyanlığın çok daha erken dönemlerinde, Roma İmparatorluğu'nda zulüm gördüğü zamanlarda gerçekleşmiştir."
+          },
+          {
+            "id": "C",
+            "text": "I. İznik Konsili'nin toplanması",
+            "explanation": "I. İznik Konsili 325 yılında toplanmıştır. Bu, Milano Fermanı'ndan sonra ancak Hristiyanlığın resmi din olmasından öncedir."
+          },
+          {
+            "id": "D",
+            "text": "Aziz Pavlus'un Tarsus'ta doğması ve Hristiyanlığı yaymaya başlaması",
+            "explanation": "Aziz Pavlus, Hristiyanlığın ilk yüzyıllarında yaşamış ve faaliyet göstermiştir, bu olay diğer seçeneklerden çok daha eskidir."
+          },
+          {
+            "id": "E",
+            "text": "Roma İmparatorluğu'nda pagan inancının yasaklanarak Hristiyanlığın resmi din haline getirilmesi",
+            "explanation": "Hristiyanlığın resmi din haline getirilmesi İmparator Büyük Theodosius döneminde, Milano Fermanı'ndan sonra gerçekleşmiştir. Bu, diğer seçeneklerden daha sonraki bir tarihtir."
+          }
+        ],
+        "correct": "E",
+        "trick": "Kronolojik sıralama gerektiren bu soruda, olayların tarihsel bağlamını karıştırmak en yaygın tuzaktır."
+      },
+      {
+        "id": "aile-dinler-tarihi-014-t2",
+        "stem": "Aşağıdakilerden hangisi Roma İmparatorluğu döneminde Hristiyanlığın statüsüyle ilgili doğru bir ifade değildir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hristiyanlığı Roma İmparatorluğu'nun resmi dini haline getiren imparator I. Constantinus'tur.",
+            "explanation": "Hristiyanlığı resmi din haline getiren imparator Büyük Theodosius'tur, I. Constantinus ise Milano Fermanı ile serbest bırakmıştır. Bu ifade yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Milano Fermanı ile Hristiyanlık dahil tüm dinlere ibadet özgürlüğü tanınmıştır.",
+            "explanation": "Milano Fermanı (313), Hristiyanlık dahil tüm dinlere özgürlük tanımıştır, bu ifade doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Milano Fermanı, Licinius ve I. Constantinus tarafından imzalanmıştır.",
+            "explanation": "Ferman, Licinius ve I. Constantinus tarafından imzalanmıştır, bu ifade doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "İlk Hristiyan topluluklar Roma İmparatorluğu'nda uzun süre zulüm görmüştür.",
+            "explanation": "Milano Fermanı'ndan önce Hristiyanlar uzun süre zulüm görmüştür, bu ifade doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Hristiyanlığın resmi din haline gelmesi pagan inancının yasaklanmasıyla sonuçlanmıştır.",
+            "explanation": "Büyük Theodosius Hristiyanlığı resmi din yaparken pagan inancını yasaklamıştır, bu ifade doğrudur."
+          }
+        ],
+        "correct": "A",
+        "trick": "Milano Fermanı ile Hristiyanlığı serbest bırakan imparator ile onu resmi din yapan imparatoru karıştırmak yaygın bir hatadır."
+      },
+      {
+        "id": "aile-dinler-tarihi-014-t3",
+        "stem": "Aşağıdaki ifadeleri doğru eşleştiriniz:",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I. Constantinus – Hristiyanlığı Roma İmparatorluğu'nun resmi dini yapmıştır",
+            "explanation": "I. Constantinus, Hristiyanlığı resmi din değil, Milano Fermanı ile serbest bırakan imparatordur. Bu eşleşme yanlıştır."
+          },
+          {
+            "id": "B",
+            "text": "Milano Fermanı – Roma İmparatorluğu'nda tüm dinlere özgürlük tanımıştır",
+            "explanation": "Milano Fermanı (313), Hristiyanlık dahil tüm dinlere özgürlük tanımıştır. Bu eşleşme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Büyük Theodosius – Milano Fermanı'nı imzalamıştır",
+            "explanation": "Büyük Theodosius, Hristiyanlığı resmi din yapan imparatordur. Milano Fermanı'nı Licinius ve I. Constantinus imzalamıştır. Bu eşleşme yanlıştır."
+          },
+          {
+            "id": "D",
+            "text": "Licinius – Hristiyanlığı Roma İmparatorluğu'nda yasaklamıştır",
+            "explanation": "Licinius, I. Constantinus ile birlikte Milano Fermanı'nı imzalayarak Hristiyanlığı serbest bırakanlardan biridir, yasaklamamıştır. Bu eşleşme yanlıştır."
+          },
+          {
+            "id": "E",
+            "text": "Antakya – Hristiyanlığın ilk kilisesinin kurulduğu yer değildir",
+            "explanation": "Antakya, 'Hristiyan' adının ilk kez kullanıldığı ve ilk kilisenin (St. Pierre Kilisesi) bulunduğu yerdir. Bu eşleşme yanlıştır."
+          }
+        ],
+        "correct": "B",
+        "trick": "Kilit isimler ve olaylar arasındaki bağlantıları doğru kuramamak yanıltıcı olabilir."
+      }
+    ]
+  },
+  {
+    "id": "aile-dinler-tarihi-015",
+    "topicId": "dinler-tarihi",
+    "cekirdek": "Bu soru, Hristiyanlık inancındaki önemli figürlerden biri olan Yahuda'nın Hz. İsa'ya ihanetini ve Kapadokya kaya kiliselerindeki tasvirlerini ölçmektedir.",
+    "ozet": "MKS'de başarılı olmak için dinler tarihi ve özellikle Anadolu'daki inanç merkezleri hakkında sağlam bilgiye sahip olmalısınız. Din kavramının temel sınıflandırmalarını bilmek (ilahi/beşerî, monoteist/politeist, evrensel/millî) ve **mezhep** ayrımını anlamak önemlidir. Erken inanç biçimlerinden **Animizm**, **Totemizm**, **Fetişizm** ve özellikle bir din değil, uygulama sistemi olan **Şamanizm**'i ayırt etmek kritik. Anadolu'nun çok katmanlı inanç yapısı, Hristiyanlığın doğuşu ve kurumsallaşmasındaki rolü (Antakya, Aziz Pavlus, Yedi Kilise, Konsiller) ile Türk-İslam tasavvufunun (Mevlana, Hacı Bektaş-ı Veli, Ahi Evran) Anadolu'nun kültürel inşasındaki yeri sınavın ana konularıdır. Bu konuları iyi kavramak, gelen soruları doğru yanıtlamanızı sağlayacaktır.",
+    "kaynak": {
+      "examId": "cikmis-2026-mart",
+      "examTitle": "Çıkmış Sınav — 14 Mart 2026 (MKS-3)",
+      "soru": {
+        "id": "cikmis-2026-mart-012",
+        "stem": "Aşağıdakilerden hangisi Kapadokya kaya kiliselerinde de sıkça tasvir edilen ve Hristiyanlık inancına göre Hz. İsa'ya ihanet etmesiyle tanınan havaridir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yahuda",
+            "explanation": "Sınavın cevap anahtarına göre doğru şık budur. Ayrıntılı çözüm ve türev sorular için AI Hoca butonunu kullan."
+          },
+          {
+            "id": "B",
+            "text": "Matta",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "C",
+            "text": "Petrus",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "D",
+            "text": "Tomas",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          },
+          {
+            "id": "E",
+            "text": "Simon",
+            "explanation": "Cevap anahtarına göre doğru şık A. Bu şıkkın neden yanlış olduğunu AI Hoca'ya sorabilirsin."
+          }
+        ],
+        "correct": "A",
+        "trick": ""
+      }
+    },
+    "turevler": [
+      {
+        "id": "aile-dinler-tarihi-015-t1",
+        "stem": "Hristiyanlık inancına göre, Hz. İsa'ya ihanet etmesiyle bilinen ve Kapadokya kaya kiliselerinde sıkça tasvir edilen havari aşağıdakilerden hangisidir?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Petrus",
+            "explanation": "Petrus, İsa'nın en yakın havarilerinden olup, Hristiyanlıkta önemli bir lider figürüdür, ihanetle değil, inkârıyla bilinir ancak sonra tövbe etmiştir."
+          },
+          {
+            "id": "B",
+            "text": "Tomas",
+            "explanation": "Tomas, İsa'nın dirilişine şüpheyle yaklaşmasıyla tanınır, ancak ihanetle ilişkilendirilmez."
+          },
+          {
+            "id": "C",
+            "text": "Yahuda",
+            "explanation": "Ders notunda belirtildiği üzere, Yahuda, Hristiyanlık inancına göre Hz. İsa'ya ihanet etmesiyle tanınan havaridir ve Kapadokya kaya kiliselerinde de sıkça tasvir edilmiştir."
+          },
+          {
+            "id": "D",
+            "text": "Matta",
+            "explanation": "Matta, İncil yazarlarından biridir ve İsa'nın havarilerindendir, ancak ihanetle ilgili bir rolü yoktur."
+          },
+          {
+            "id": "E",
+            "text": "Yuhanna",
+            "explanation": "Yuhanna, İsa'nın en sevdiği havarilerden biri ve İncil yazarıdır, ihanetle ilişkilendirilmez."
+          }
+        ],
+        "correct": "C",
+        "trick": "Hristiyanlıkta birçok havari olduğu için isimleri karıştırmak kolaydır."
+      },
+      {
+        "id": "aile-dinler-tarihi-015-t2",
+        "stem": "Aşağıdaki havarilerden hangisi, Hristiyanlık inancına göre Hz. İsa'ya ihanet etmesiyle bilinen ve Kapadokya gibi önemli Hristiyan merkezlerindeki tasvirlerde yer alan figürlerden DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yahuda",
+            "explanation": "Yahuda, Hz. İsa'ya ihanet eden havaridir. Soru, ihanet eden figürlerden olmayanı sormaktadır."
+          },
+          {
+            "id": "B",
+            "text": "İskariyot",
+            "explanation": "Yahuda İskariyot olarak da bilinen bu isim, Hz. İsa'ya ihanet eden havariyi ifade eder. Soru, ihanet eden figürlerden olmayanı sormaktadır."
+          },
+          {
+            "id": "C",
+            "text": "Simon",
+            "explanation": "Simon, havarilerden biri olmakla birlikte, Hz. İsa'ya ihanet eden figürlerden değildir. Ancak bu isim genellikle Petrus'un diğer adıdır ve Petrus da ihanetle değil, inkârla bilinir."
+          },
+          {
+            "id": "D",
+            "text": "Barnabas",
+            "explanation": "Barnabas, havarilerden biri olmakla birlikte, Hz. İsa'ya ihanet eden figürlerden değildir ve kanonik İncillerde yer almaz. Bu nedenle doğru cevaptır."
+          },
+          {
+            "id": "E",
+            "text": "Judas",
+            "explanation": "Judas, Yahuda isminin Latince karşılığıdır ve Hz. İsa'ya ihanet eden havariyi ifade eder. Soru, ihanet eden figürlerden olmayanı sormaktadır."
+          }
+        ],
+        "correct": "D",
+        "trick": "Farklı dillerdeki isimler veya yakın isimler arasında karışıklık yaratma ihtimali vardır. Ayrıca Barnabas İncili'nin apokrif bir metin olması bilgisi de yanıltıcı olabilir."
+      },
+      {
+        "id": "aile-dinler-tarihi-015-t3",
+        "stem": "Hristiyanlık inancına göre, Hz. İsa'nın havarileri arasında yer alan ve belirli özellikleriyle öne çıkan bazı figürler bulunmaktadır. Aşağıdaki eşleştirmelerden hangisi doğru DEĞİLDİR?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Petrus – İsa'nın en yakın havarilerinden biri ve Hristiyanlıkta lider figürü",
+            "explanation": "Petrus, İsa'nın en yakın havarilerinden biri ve Hristiyanlıkta önemli bir lider figürü olarak kabul edilir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "B",
+            "text": "Tomas – İsa'nın dirilişine şüpheyle yaklaşan havari",
+            "explanation": "Tomas, İsa'nın dirilişine şüpheyle yaklaşması ve 'şüpheci Tomas' olarak anılmasıyla bilinir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "C",
+            "text": "Matta – İncil yazarlarından biri",
+            "explanation": "Matta, dört kanonik İncil'den birinin yazarı olarak kabul edilir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "D",
+            "text": "Yahuda – Kapadokya kaya kiliselerinde sıkça tasvir edilen ve İsa'ya ihanet eden havari",
+            "explanation": "Ders notunda açıkça belirtildiği gibi, Yahuda, Hz. İsa'ya ihanet etmesiyle tanınır ve Kapadokya kaya kiliselerinde tasvir edilir. Bu eşleştirme doğrudur."
+          },
+          {
+            "id": "E",
+            "text": "Yuhanna – Hristiyanlıkta 'Noel Baba' figürünün kaynağı olan havari",
+            "explanation": "Yuhanna, İsa'nın havarilerinden ve İncil yazarlarından biridir, ancak 'Noel Baba' figürünün kaynağı değildir. Noel Baba figürünün kaynağı Aziz Nikolaos'tur. Bu eşleştirme yanlıştır."
+          }
+        ],
+        "correct": "E",
+        "trick": "Havari isimleri ve Hristiyanlıkta önemli figürlerin karıştırılmasına yönelik bir tuzak içerir."
+      }
+    ]
+  }
+]
