@@ -1,14 +1,17 @@
 import { EXAM_DATE, TOPICS, TOPIC_IDS, type TopicId } from './constants';
+import { DAILY_QUESTION_COUNT } from './dailyExam';
 
 /** Planın üç evresi: konuyu ilk kez öğrenme, pekiştirme, son düzlük. */
 export type PlanPhase = 'temel' | 'pekistirme' | 'final';
 
 export interface PlanGoal {
-  kind: 'reading' | 'questions' | 'review' | 'exam';
+  kind: 'reading' | 'questions' | 'review' | 'exam' | 'daily';
   label: string;
   count?: number;
   /** Hedefin götürdüğü sayfa — plan yalnızca söylemez, oraya taşır. */
   href?: string;
+  /** Hangi konunun hedefi olduğu; arayüz rozet göstermek için kullanır. */
+  topicId?: TopicId;
 }
 
 export interface PlanDay {
@@ -45,94 +48,159 @@ function weekdayOf(dateKey: string): number {
   return new Date(`${dateKey}T00:00:00Z`).getUTCDay();
 }
 
-/** Konulara, examWeight ile orantılı ve deterministik gün sayısı dağıtır (toplam = dayCount). */
-function topicDayCounts(dayCount: number): Map<TopicId, number> {
-  const ordered = [...TOPIC_IDS].sort((a, b) => TOPICS[a].order - TOPICS[b].order);
-  const byWeightDesc = [...ordered].sort(
-    (a, b) => TOPICS[b].examWeight - TOPICS[a].examWeight || TOPICS[a].order - TOPICS[b].order,
-  );
+const MUFREDAT_SIRASI = [...TOPIC_IDS].sort((a, b) => TOPICS[a].order - TOPICS[b].order);
+const AGIRLIK_SIRASI = [...TOPIC_IDS].sort(
+  (a, b) => TOPICS[b].examWeight - TOPICS[a].examWeight || TOPICS[a].order - TOPICS[b].order,
+);
 
-  const base = dayCount >= ordered.length * 2 ? 2 : dayCount >= ordered.length ? 1 : 0;
-  const counts = new Map<TopicId, number>(ordered.map((id) => [id, base]));
-  let remaining = dayCount - base * ordered.length;
-
-  let i = 0;
-  while (remaining > 0) {
-    const id = byWeightDesc[i % byWeightDesc.length];
-    counts.set(id, (counts.get(id) ?? 0) + 1);
-    remaining -= 1;
-    i += 1;
-  }
-  return counts;
+/**
+ * Bir konu gününde çözülecek soru sayısı.
+ *
+ * Sınav ağırlığıyla orantılı: denemede 20 soru çıkan Genel Turizm'e 35, 4 soru
+ * çıkan Dinler Tarihi'ne 20 soru düşer. Taban 20'nin altına inmiyor — az soru
+ * gelen bir konu da sorulmayacak demek değil.
+ *
+ * Not: examWeight resmi bir sayı DEĞİL, geçmiş oturumlara dayanan tahmindir;
+ * Bakanlık başlık başına soru sayısı yayımlamıyor.
+ */
+export function konuSoruHedefi(topic: TopicId): number {
+  return Math.min(35, Math.max(20, Math.round((15 + TOPICS[topic].examWeight) / 5) * 5));
 }
 
 /**
- * Konu günlerini turlara böler. Aynı konunun günleri arka arkaya gelmez —
- * her tur bütün müfredatı bir kez dolaşır, böylece aralıklı tekrar doğal olarak oluşur.
- * 1. tur müfredat sırasıyla, 3. turdan sonrası sınav ağırlığı sırasıyla ilerler.
+ * Konu günlerinin sırası — planın belkemiği.
+ *
+ * 1. tur müfredat sırasıyla ilerler ve **mutlaka bütün konuları kapsar**: gün
+ * yetmiyorsa bir güne iki konu düşer. "Sınava kadar her şey yetişsin" güvencesi
+ * burada duruyor — hiçbir konu hiç görülmeden son düzlüğe girilmez.
+ *
+ * 2. tur ağırlık sırasıyla yine bütün konuları dolaşır. Artan günler ağırlığa
+ * göre paylaştırılır; Genel Turizm beş kez dönerken Dinler Tarihi bir kez döner.
+ * Aynı konu arka arkaya iki gün gelmez — aralıklı tekrar böyle doğal oluşur.
  */
-function topicRounds(dayCount: number): { topic: TopicId; round: number }[] {
-  const ordered = [...TOPIC_IDS].sort((a, b) => TOPICS[a].order - TOPICS[b].order);
-  const byWeightDesc = [...ordered].sort(
-    (a, b) => TOPICS[b].examWeight - TOPICS[a].examWeight || TOPICS[a].order - TOPICS[b].order,
-  );
+function konuSirasi(gunSayisi: number): { topics: TopicId[]; round: number }[] {
+  const plan: { topics: TopicId[]; round: number }[] = [];
+  if (gunSayisi <= 0) return plan;
 
-  const remaining = topicDayCounts(dayCount);
-  const queue: { topic: TopicId; round: number }[] = [];
-
-  for (let round = 1; queue.length < dayCount; round++) {
-    const pool = round <= 2 ? ordered : byWeightDesc;
-    let placed = 0;
-
-    for (const id of pool) {
-      const left = remaining.get(id) ?? 0;
-      if (left <= 0) continue;
-      queue.push({ topic: id, round });
-      remaining.set(id, left - 1);
-      placed += 1;
-      if (queue.length >= dayCount) break;
-    }
-
-    if (placed === 0) break; // kontenjan bitti
+  // 1. tur: tüm müfredat, gerekirse günde birden çok konu.
+  const grupBoyu = Math.max(1, Math.ceil(MUFREDAT_SIRASI.length / gunSayisi));
+  for (let i = 0; i < MUFREDAT_SIRASI.length && plan.length < gunSayisi; i += grupBoyu) {
+    plan.push({ topics: MUFREDAT_SIRASI.slice(i, i + grupBoyu), round: 1 });
   }
 
-  return queue;
+  // 2. tur: ağırlık sırasıyla tüm konular, gün yettiği kadar.
+  for (const t of AGIRLIK_SIRASI) {
+    if (plan.length >= gunSayisi) break;
+    plan.push({ topics: [t], round: 2 });
+  }
+
+  // 3. tur ve sonrası: ağırlıkla orantılı döngü.
+  const cevrim = agirlikCevrimi();
+  for (let i = 0; plan.length < gunSayisi; i++) {
+    plan.push({ topics: [cevrim[i % cevrim.length]], round: 3 });
+  }
+
+  return plan;
 }
 
-/** Bir konu gününün hedefleri — tura göre değişir, çünkü ikinci okuma birinciyle aynı iş değildir. */
-function topicGoals(topic: TopicId, round: number): PlanGoal[] {
-  const short = TOPICS[topic].short;
+/**
+ * Ağırlığa göre tekrarlanan konu döngüsü.
+ *
+ * Her turda kotası kalan konular bir kez geçer; ağır konular daha çok tur
+ * dayandığı için listede daha sık görünür. Tek bir konu üst üste gelmez.
+ */
+function agirlikCevrimi(): TopicId[] {
+  const kalan = new Map<TopicId, number>(
+    AGIRLIK_SIRASI.map((t) => [t, Math.max(1, Math.round(TOPICS[t].examWeight / 4))]),
+  );
+  const out: TopicId[] = [];
+  for (let guvenlik = 0; guvenlik < 20; guvenlik++) {
+    let eklendi = false;
+    for (const t of AGIRLIK_SIRASI) {
+      const n = kalan.get(t) ?? 0;
+      if (n <= 0) continue;
+      out.push(t);
+      kalan.set(t, n - 1);
+      eklendi = true;
+    }
+    if (!eklendi) break;
+  }
+  return out;
+}
 
-  if (round === 1) {
-    return [
-      { kind: 'reading', label: `${short} — konu anlatımını oku`, href: `/konular/${topic}` },
-      { kind: 'questions', label: `${short} — 25 soru çöz`, count: 25, href: `/pratik?topic=${topic}&count=25` },
-      { kind: 'review', label: 'Günün kartlarını çalış', href: '/tekrar' },
-    ];
+/** Günün denemesi her çalışma gününde var: düzenin omurgası bu. */
+function gunlukDeneme(): PlanGoal {
+  return {
+    kind: 'daily',
+    label: `Günün denemesi — ${DAILY_QUESTION_COUNT} soru`,
+    count: DAILY_QUESTION_COUNT,
+    href: '/denemeler',
+  };
+}
+
+/**
+ * Bir konu gününün hedefleri.
+ *
+ * Her gün aynı şekle sahip — oku, çöz, günün denemesi, tekrar. Aynı iskelet
+ * her sabah tekrarlanınca plan "bugün ne yapsam" sorusunu ortadan kaldırır.
+ * Değişen tek şey konu ve soru sayısı; onu da ağırlık belirliyor.
+ */
+function konuHedefleri(topics: TopicId[], round: number): PlanGoal[] {
+  const goals: PlanGoal[] = [];
+
+  for (const topic of topics) {
+    const short = TOPICS[topic].short;
+    const adet = konuSoruHedefi(topic);
+    const agirlik = TOPICS[topic].examWeight;
+
+    if (round === 1) {
+      goals.push({ kind: 'reading', label: `${short} — konu anlatımını oku`, href: `/konular/${topic}`, topicId: topic });
+      goals.push({
+        kind: 'questions',
+        label: `${short} — ${adet} soru çöz`,
+        count: adet,
+        href: `/pratik?topic=${topic}&count=${adet}`,
+        topicId: topic,
+      });
+    } else if (round === 2) {
+      goals.push({
+        kind: 'reading',
+        label: `${short} — özeti ve tuzakları gözden geçir`,
+        href: `/konular/${topic}`,
+        topicId: topic,
+      });
+      goals.push({
+        kind: 'questions',
+        label: `${short} — ${adet} soru (denemede ~${agirlik} soru)`,
+        count: adet,
+        href: `/pratik?topic=${topic}&count=${adet}`,
+        topicId: topic,
+      });
+    } else {
+      goals.push({
+        kind: 'questions',
+        label: `${short} — ${adet} yeni soru`,
+        count: adet,
+        href: `/pratik?topic=${topic}&count=${adet}&status=unseen`,
+        topicId: topic,
+      });
+      goals.push({
+        kind: 'reading',
+        label: `${short} — zayıf kaldığın bölümleri tekrar oku`,
+        href: `/konular/${topic}`,
+        topicId: topic,
+      });
+    }
   }
 
-  if (round === 2) {
-    return [
-      { kind: 'reading', label: `${short} — kısa özet ve tuzakları gözden geçir`, href: `/konular/${topic}` },
-      { kind: 'questions', label: `${short} — 30 soru çöz`, count: 30, href: `/pratik?topic=${topic}&count=30` },
-      { kind: 'review', label: 'Yanlış havuzundan bu konuyu temizle', href: '/yanlis-havuzu' },
-    ];
-  }
+  goals.push(gunlukDeneme());
+  goals.push(
+    round === 1
+      ? { kind: 'review', label: 'Günün kartlarını çalış', href: '/tekrar' }
+      : { kind: 'review', label: 'Yanlış havuzunu azalt', href: '/yanlis-havuzu' },
+  );
 
-  // 3. tur ve sonrası: en ağır konulara fazladan mesai.
-  // Not: examWeight resmi bir sayı DEĞİL, geçmiş oturumlara dayanan tahmindir —
-  // Bakanlık başlık başına soru sayısı yayımlamıyor. Bu yüzden etikette
-  // "sınavda" değil "denemede" denir; ikincisi bu uygulama için doğrudur.
-  return [
-    {
-      kind: 'questions',
-      label: `${short} — 35 soru (denemede ~${TOPICS[topic].examWeight} soru)`,
-      count: 35,
-      href: `/pratik?topic=${topic}&count=35&status=unseen`,
-    },
-    { kind: 'reading', label: `${short} — zayıf kaldığın bölümleri tekrar oku`, href: `/konular/${topic}` },
-    { kind: 'review', label: 'Kart tekrarı', href: '/tekrar' },
-  ];
+  return goals;
 }
 
 export function generatePlan(start: Date, examDate: Date): PlanDay[] {
@@ -147,7 +215,7 @@ export function generatePlan(start: Date, examDate: Date): PlanDay[] {
   const studyDates = dates.slice(0, finalReviewStart);
   const topicDates = studyDates.filter((d) => weekdayOf(d) !== 0); // Pazarlar deneme günü
 
-  const queue = topicRounds(topicDates.length);
+  const queue = konuSirasi(topicDates.length);
 
   let qi = 0;
   return dates.map((date, index) => {
@@ -169,6 +237,7 @@ export function generatePlan(start: Date, examDate: Date): PlanDay[] {
         goals: [
           { kind: 'reading', label: 'Kısa anlatımları ve tuzak listelerini oku', href: '/konular' },
           { kind: 'review', label: 'Kart tekrarı + yanlış havuzunu bitir', href: '/tekrar' },
+          gunlukDeneme(),
           { kind: 'questions', label: 'Karışık 40 soru çöz', count: 40, href: '/pratik?count=40' },
         ],
       };
@@ -187,11 +256,12 @@ export function generatePlan(start: Date, examDate: Date): PlanDay[] {
         goals: [
           { kind: 'exam', label: 'Deneme veya çıkmış sınav çöz (100 soru • 120 dk)', href: '/denemeler' },
           { kind: 'review', label: 'Yanlışlarının çözümlerini oku', href: '/cozduklerim?filter=wrong' },
+          { kind: 'review', label: 'Kart tekrarı', href: '/tekrar' },
         ],
       };
     }
 
-    const slot = queue[qi] ?? { topic: [...TOPIC_IDS].sort((a, b) => TOPICS[b].examWeight - TOPICS[a].examWeight)[0], round: 3 };
+    const slot = queue[qi] ?? { topics: [AGIRLIK_SIRASI[0]], round: 3 };
     qi += 1;
 
     return {
@@ -201,10 +271,82 @@ export function generatePlan(start: Date, examDate: Date): PlanDay[] {
       weekNo,
       weekday,
       phase: (slot.round === 1 ? 'temel' : 'pekistirme') as PlanPhase,
-      focusTopics: [slot.topic],
-      goals: topicGoals(slot.topic, slot.round),
+      focusTopics: slot.topics,
+      goals: konuHedefleri(slot.topics, slot.round),
     };
   });
+}
+
+export interface KonuPayi {
+  topicId: TopicId;
+  agirlik: number;
+  gun: number;
+  soru: number;
+}
+
+export interface PlanOzet {
+  toplamGun: number;
+  konuGunu: number;
+  denemeGunu: number;
+  finalGunu: number;
+  hedefSayisi: number;
+  /** Plandaki tüm soru hedeflerinin toplamı (günün denemeleri dâhil). */
+  toplamSoru: number;
+  gunlukSoru: number;
+  konuDagilimi: KonuPayi[];
+}
+
+/**
+ * Planın sayısal özeti.
+ *
+ * "Sınava kadar yetişiyor mu" sorusunun cevabı burada: hangi konuya kaç gün ve
+ * kaç soru düştüğü, günde ortalama kaç soru çözüleceği.
+ */
+export function planOzeti(plan: PlanDay[]): PlanOzet {
+  const gun = new Map<TopicId, number>(TOPIC_IDS.map((t) => [t, 0]));
+  const soru = new Map<TopicId, number>(TOPIC_IDS.map((t) => [t, 0]));
+
+  let konuGunu = 0;
+  let denemeGunu = 0;
+  let finalGunu = 0;
+  let hedefSayisi = 0;
+  let toplamSoru = 0;
+
+  for (const day of plan) {
+    hedefSayisi += day.goals.length;
+    if (day.phase === 'final') finalGunu += 1;
+    else if (day.focusTopics.length > 0) konuGunu += 1;
+    else denemeGunu += 1;
+
+    for (const t of day.focusTopics) gun.set(t, (gun.get(t) ?? 0) + 1);
+
+    for (const g of day.goals) {
+      // Pazar denemesi 100 soruluk; etiketinde sayı var ama count taşımıyor.
+      const adet = g.count ?? (g.kind === 'exam' ? 100 : 0);
+      toplamSoru += adet;
+      if (g.topicId && g.count) soru.set(g.topicId, (soru.get(g.topicId) ?? 0) + g.count);
+    }
+  }
+
+  const konuDagilimi = [...TOPIC_IDS]
+    .map((topicId) => ({
+      topicId,
+      agirlik: TOPICS[topicId].examWeight,
+      gun: gun.get(topicId) ?? 0,
+      soru: soru.get(topicId) ?? 0,
+    }))
+    .sort((a, b) => b.agirlik - a.agirlik || TOPICS[a.topicId].order - TOPICS[b.topicId].order);
+
+  return {
+    toplamGun: plan.length,
+    konuGunu,
+    denemeGunu,
+    finalGunu,
+    hedefSayisi,
+    toplamSoru,
+    gunlukSoru: plan.length === 0 ? 0 : Math.round(toplamSoru / plan.length),
+    konuDagilimi,
+  };
 }
 
 /** Bugünden sınava kadar geçerli plan — sayfaların ortak girişi. */

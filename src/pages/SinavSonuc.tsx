@@ -1,18 +1,55 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Link, Navigate, useParams } from 'react-router-dom';
 import { QuestionCard } from '@/components/QuestionCard';
 import { exams } from '@/content/index';
-import { resolveDailyExam } from '@/lib/dailyExam';
+import { DAILY_EXAM_PREFIX, MINI_EXAM_PREFIX, resolveDailyExam, resolveMiniExam } from '@/lib/dailyExam';
+import { CUSTOM_EXAM_PREFIX, resolveCustomExam } from '@/lib/customSets';
 import { PASS_SCORE, TOPICS, type TopicId } from '@/lib/constants';
 import { useAppState } from '@/hooks/useAppState';
+import { useMotivasyon } from '@/hooks/useMotivasyon';
+import { sinavKarti } from '@/lib/motivasyon';
 
 export default function SinavSonuc() {
   const { examId } = useParams();
   const { state } = useAppState();
+  const { kutla } = useMotivasyon();
   const [openWrong, setOpenWrong] = useState<string | null>(null);
 
-  const exam = exams.find((e) => e.id === examId) ?? resolveDailyExam(examId);
+  // Sınav odasıyla AYNI çözümleme zinciri. Ayrı kalırsa mini test ve kendi
+  // soru setleri çözülür ama sonucu görünmez — sonuç sayfası sessizce
+  // denemeler listesine geri atar.
+  const exam =
+    exams.find((e) => e.id === examId) ??
+    resolveDailyExam(examId) ??
+    resolveMiniExam(examId) ??
+    resolveCustomExam(examId);
   const result = [...state.examResults].reverse().find((r) => r.examId === examId);
+
+  // Kutlama sonucun kendisine bağlı, sayfaya değil: aynı sonucu tekrar açmak
+  // kartı yeniden çıkarmaz, ama farklı bir denemeyi bitirmek çıkarır.
+  useEffect(() => {
+    if (!result) return;
+    const oncekiler = state.examResults.filter((r) => r.finishedAt < result.finishedAt);
+    const oncekiEnIyi = oncekiler.length ? Math.max(...oncekiler.map((r) => r.score)) : undefined;
+
+    kutla(`sinav-${result.examId}-${result.finishedAt}`, () =>
+      sinavKarti({
+        puan: result.score,
+        dogru: result.correct,
+        yanlis: result.wrong,
+        bos: result.blank,
+        baraj: PASS_SCORE,
+        tur:
+          result.examId.startsWith(MINI_EXAM_PREFIX) || result.examId.startsWith(CUSTOM_EXAM_PREFIX)
+            ? 'mini'
+            : result.examId.startsWith(DAILY_EXAM_PREFIX)
+              ? 'gunluk'
+              : 'deneme',
+        enIyiMi: oncekiEnIyi === undefined || result.score > oncekiEnIyi,
+        oncekiEnIyi,
+      }),
+    );
+  }, [result, state.examResults, kutla]);
 
   if (!exam || !result) return <Navigate to="/denemeler" replace />;
 

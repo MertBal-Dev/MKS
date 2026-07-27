@@ -5,6 +5,7 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { BrowserRouter, Route, Routes, useLocation } from 'react-router-dom';
 import { AppStateProvider } from '@/hooks/useAppState';
 import { AiHocaProvider } from '@/hooks/useAiHoca';
+import { MotivasyonProvider } from '@/hooks/useMotivasyon';
 import { AppShell } from '@/components/AppShell';
 import { AiHocaPanel } from '@/components/AiHocaPanel';
 import { BackupReminder } from '@/components/BackupReminder';
@@ -146,11 +147,13 @@ export default function App() {
         <AppStateProvider>
           <AiHocaProvider>
           <BrowserRouter>
-            <AppShell>
-              <AnimatedRoutes />
-            </AppShell>
-            <AiHocaPanel />
-            <BackupReminder />
+            <MotivasyonProvider>
+              <AppShell>
+                <AnimatedRoutes />
+              </AppShell>
+              <AiHocaPanel />
+              <BackupReminder />
+            </MotivasyonProvider>
             </BrowserRouter>
           </AiHocaProvider>
         </AppStateProvider>
